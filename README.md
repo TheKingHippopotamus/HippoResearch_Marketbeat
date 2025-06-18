@@ -143,3 +143,4 @@ for ticker in tickers:
 ---
 
 **הערה**: המערכת מיועדת לשימוש חינוכי ומחקרי בלבד. וודא עמידה בתנאי השימוש של המקורות. # HippoResearch_Marketbeat
+# HippoResearch_Marketbeat
