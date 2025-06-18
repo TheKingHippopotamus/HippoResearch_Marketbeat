@@ -357,8 +357,15 @@ def commit_and_push_changes(ticker):
         # Commit changes
         subprocess.run(['git', 'commit', '-m', commit_message], check=True)
         
-        # Push to GitHub
-        subprocess.run(['git', 'push'], check=True)
+        # Try to push, if it fails due to upstream issue, set upstream and try again
+        try:
+            subprocess.run(['git', 'push'], check=True)
+        except subprocess.CalledProcessError as e:
+            if "no upstream branch" in str(e) or "set-upstream" in str(e):
+                print("🔄 Setting upstream branch and pushing...")
+                subprocess.run(['git', 'push', '--set-upstream', 'origin', 'main'], check=True)
+            else:
+                raise e
         
         print(f"✅ Successfully committed and pushed changes for {ticker}")
         return True
