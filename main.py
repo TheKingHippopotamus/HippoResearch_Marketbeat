@@ -7,6 +7,7 @@ import time, os
 import shutil
 import json
 import re
+import subprocess
 from datetime import datetime
 from html_template import create_html_content
 from llm_processor import process_with_gemma
@@ -332,5 +333,83 @@ def migrate_existing_articles():
     except Exception as e:
         print(f"❌ Error during migration: {e}")
 
+def load_tickers_from_json():
+    """Load tickers from JSON file"""
+    try:
+        with open('tickers.json', 'r', encoding='utf-8') as f:
+            data = json.load(f)
+            return data.get('tickers', [])
+    except Exception as e:
+        print(f"❌ Error loading tickers from JSON: {e}")
+        return []
+
+def commit_and_push_changes(ticker):
+    """Commit and push changes to repository after processing a ticker"""
+    try:
+        print(f"🔄 Committing changes for {ticker}...")
+        
+        # Add all changes
+        subprocess.run(['git', 'add', '.'], check=True)
+        
+        # Create commit message
+        commit_message = f"הוספת כתבה חדשה: {ticker} - {datetime.now().strftime('%d/%m/%Y %H:%M')}"
+        
+        # Commit changes
+        subprocess.run(['git', 'commit', '-m', commit_message], check=True)
+        
+        # Push to GitHub
+        subprocess.run(['git', 'push'], check=True)
+        
+        print(f"✅ Successfully committed and pushed changes for {ticker}")
+        return True
+        
+    except subprocess.CalledProcessError as e:
+        print(f"❌ Error during git operations: {e}")
+        return False
+    except Exception as e:
+        print(f"❌ Unexpected error during commit: {e}")
+        return False
+
+def process_all_tickers():
+    """Process all tickers from JSON file one by one"""
+    tickers = load_tickers_from_json()
+    
+    if not tickers:
+        print("❌ No tickers found in tickers.json")
+        return
+    
+    print(f"🚀 Starting to process {len(tickers)} tickers: {', '.join(tickers)}")
+    
+    for i, ticker in enumerate(tickers, 1):
+        print(f"\n{'='*50}")
+        print(f"📊 Processing ticker {i}/{len(tickers)}: {ticker}")
+        print(f"{'='*50}")
+        
+        try:
+            # Process the ticker
+            capture_summary_exact(ticker)
+            
+            # Wait a moment before committing
+            print("⏳ Waiting 3 seconds before committing...")
+            time.sleep(3)
+            
+            # Commit and push changes
+            if commit_and_push_changes(ticker):
+                print(f"✅ Successfully completed processing for {ticker}")
+            else:
+                print(f"⚠️ Warning: Failed to commit changes for {ticker}")
+            
+            # Wait between tickers (except for the last one)
+            if i < len(tickers):
+                print("⏳ Waiting 5 seconds before next ticker...")
+                time.sleep(5)
+                
+        except Exception as e:
+            print(f"❌ Error processing {ticker}: {e}")
+            continue
+    
+    print(f"\n🎉 Completed processing all {len(tickers)} tickers!")
+
 if __name__ == "__main__":
-    capture_summary_exact("NVDA")
+    # Process all tickers from JSON file
+    process_all_tickers()
