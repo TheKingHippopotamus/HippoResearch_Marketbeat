@@ -482,14 +482,25 @@
         // פונקציה לטעינת הכתבות מהמטא-דאטה
         async function loadArticles() {
             try {
-                const response = await fetch('articles_metadata.json');
+                console.log('🔄 מתחיל טעינת כתבות...');
+                
+                // הוספת timestamp למניעת קאש
+                const timestamp = new Date().getTime();
+                const url = `articles_metadata.json?t=${timestamp}`;
+                console.log('📡 טוען מ:', url);
+                
+                const response = await fetch(url);
+                console.log('📊 תגובת שרת:', response.status, response.statusText);
+                
                 if (!response.ok) {
-                    throw new Error('לא ניתן לטעון מטא-דאטה');
+                    throw new Error(`שגיאת שרת: ${response.status} ${response.statusText}`);
                 }
                 
                 const metadata = await response.json();
+                console.log('📋 מטא-דאטה נטענה:', metadata.length, 'כתבות');
                 
                 if (metadata.length === 0) {
+                    console.log('⚠️ אין כתבות זמינות');
                     showNoArticles();
                     return;
                 }
@@ -501,11 +512,12 @@
                     return dateB - dateA;
                 });
                 
+                console.log('✅ מציג כתבות...');
                 displayArticles(metadata);
                 
             } catch (error) {
-                console.error('שגיאה בטעינת כתבות:', error);
-                showNoArticles();
+                console.error('❌ שגיאה בטעינת כתבות:', error);
+                showError(error.message);
             }
         }
         
@@ -560,6 +572,19 @@
                     <i class="fas fa-newspaper"></i>
                     <h3>אין כתבות זמינות כרגע</h3>
                     <p>הכתבות הראשונות יופיעו כאן בקרוב</p>
+                </div>
+            `;
+        }
+        
+        function showError(message) {
+            const container = document.getElementById('articles-container');
+            container.innerHTML = `
+                <div class="error-message" style="background: #fee; border: 1px solid #fcc; padding: 20px; border-radius: 10px; text-align: center; color: #c33;">
+                    <h3>שגיאה בטעינת כתבות</h3>
+                    <p>${message}</p>
+                    <button onclick="loadArticles()" style="background: var(--accent-color); color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; margin-top: 10px;">
+                        נסה שוב
+                    </button>
                 </div>
             `;
         }
