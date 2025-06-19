@@ -384,6 +384,28 @@
             font-style: italic;
         }
         
+        .scroll-hint {
+            display: none;
+            text-align: center;
+            color: var(--highlight-color);
+            font-size: 1.1em;
+            margin-bottom: 10px;
+            opacity: 0.85;
+            user-select: none;
+            pointer-events: none;
+            font-weight: 500;
+            letter-spacing: 0.02em;
+        }
+        .scroll-hint i {
+            font-size: 1.5em;
+            vertical-align: middle;
+            margin: 0 5px;
+            animation: bounce-x 1.5s infinite;
+        }
+        @keyframes bounce-x {
+            0%, 100% { transform: translateX(0); }
+            50% { transform: translateX(12px); }
+        }
         @media (max-width: 768px) {
             .articles-grid {
                 gap: 20px;
@@ -419,6 +441,10 @@
                 width: 70px;
                 height: 70px;
             }
+            
+            .scroll-hint {
+                display: block;
+            }
         }
     </style>
 </head>
@@ -453,7 +479,7 @@
                 <p>המערכת בוחנת כל תזוזה מהותית — ומספקת הסבר ממוקד, ענייני ומבוסס נתונים לשאלה: <strong>למה המניה זזה היום?</strong></p>
                 <p>כל כתבה מבוססת על ניתוח הצהרות הנהלה, עסקאות מוסדיות, תחזיות דיבידנד, מהלכים משפטיים, תנועות פנים, שינויי רגולציה, שיח ציבורי, ותנועות סקטוריאליות. אין תיאוריה – רק מידע מסונן ומנותח בקפדנות.</p>
             </div>
-            
+            <div class="scroll-hint"><i class="fas fa-angle-double-left"></i> גלול לצדדים <i class="fas fa-angle-double-right"></i></div>
             <div id="articles-container">
                 <div class="loading">
                     <i class="fas fa-spinner"></i>
