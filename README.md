@@ -7,38 +7,8 @@
 ## 📢 Follow 
 - [Twitter/X של Hippopotamus Research](https://x.com/LmlyhNyr)
 
----
 
-## 📁 מבנה הפרויקט
-```
-marketBit/
-├── articles/                # כתבות HTML בלבד
-├── assets/
-│   └── images/              # לוגו, אייקונים
-├── data/                    # קבצי נתונים: JSON, טקסט מקור/מעובד
-│   ├── articles_metadata.json
-│   ├── tickers.json
-│   ├── unavailable_tickers.json
-│   ├── processed_YYYYMMDD.json
-│   └── [TICKER]_original.txt / [TICKER]_processed.txt
-├── scripts/                 # כל הסקריפטים (Python, shell)
-│   ├── main.py
-│   ├── llm_processor.py
-│   ├── html_template.py
-│   ├── llm_prompt.py
-│   ├── auto_commit.py
-│   ├── run_processing.sh
-│   └── run_auto_commit.sh
-├── install_scripts/         # סקריפטי התקנה אוטומטיים
-│   ├── install.sh
-│   └── install.ps1
-├── index.html               # דף הבית הראשי
-├── requirements.txt
-├── README.md
-└── .gitignore
-```
 
----
 
 ## 🛠️ התקנה והפעלה
 
