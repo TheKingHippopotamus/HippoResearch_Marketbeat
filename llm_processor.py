@@ -6,56 +6,56 @@ import json as pyjson
 sector_map_df = pd.read_csv("/Users/kinghippo/Documents/rssFeed/marketBit/data/flat-ui__data-Thu Jun 19 2025.csv")
 sector_map = dict(zip(sector_map_df['Tickers'], sector_map_df['GICS Sector']))
 
-# פונקציה ליצירת הפרומפט המותאם
+# פרומפט מעודכן לפי דרישות המשתמש – שכתוב בלבד, ללא פרשנות
 def generate_prompt(original_text: str, ticker_info=None):
     company = ticker_info.get("Security") if ticker_info else ""
     sector_name = ticker_info.get("GICS Sector") if ticker_info else ""
 
     prompt = f"""
-אתה כותב דוח מוסדי עבור גוף מחקר פיננסי עצמאי בשם "Hippopotamus Research".
+אתה כותב כתבה עבור גוף מחקר עצמאי בשם "Hippopotamus Research".
 
-סקטור: **{sector_name}**, חברה: **{company}**.
+🎯 מטרתך:
+להנגיש את המידע שנמסר בצורה ברורה, מדויקת, נרטיבית וזורמת – מבלי לשנות אף פרט עובדתי.
 
-**דרישות הדוח:**
-- כתוב דוח מקצועי, מעמיק, עשיר, נרטיבי, ומובנה (בין 500 ל-700 מילים לפחות, או יותר אם הטקסט המקורי ארוך במיוחד).
-- פתח כל נקודה, הוסף ניתוח, דוגמאות, הקשרים, מגמות, השוואות, מסקנות.
-- סדר את הדוח: כותרת, תקציר, סעיפים (גורמים, ניתוח שוק, השוואה, סיכונים/הזדמנויות, "הנהלה", "מינוי בכיר", "הצהרת מנכ״ל/בכיר", "עסקת פנים", "תחזית הנהלה", "התפטרות/פיטורין",
-        "אנליסטים", "תחזית מחיר יעד", "סיקור חדש", "שדרוג/הורדת דירוג", "קונצנזוס שוק", "פירמת השקעות",
-        "משקיעים מוסדיים", "שותפות אסטרטגית", "מיזוג/רכישה", "הרחבת פעילות", "הנפקה/גיוס הון", "השקעה חדשה",
-        "משפטי", "קנס", "תביעה ייצוגית", "פיקוח רגולטורי", "רגולציה אירופית", "חקירה ממשלתית", "תחרות הוגנת / הגבלים עסקיים",
-        "AI", "חדשנות טכנולוגית", "מפת דרכים", "שבבים", "EUV", "בינה גנרטיבית", "שיתוף פעולה טכנולוגי", "פלטפורמות/תוכנה",
-        "סנטימנט שוק", "תחזיות שוק", "ריבית / פד", "תנודתיות", "מקרו-כלכלה", "צפי אינפלציה", "שערי מטבע", "רוח גבית / רוח נגדית",
-        "ממשל", "חקיקה / סנאט", "תמריצים פדרליים", "רגולציה סביבתית", "מדיניות מס", "וועדות ציבוריות",
-        "אסון טבע", "מזג אוויר קיצוני", "פגיעה תפעולית", "אירועי ביטחון", "אירוע חריג",
-        "פעילות שטח", "תחזוקה", "תקלות", "ביצועים תפעוליים" ), מסקנה.
-- אל תסתפק בשכתוב – הוסף ערך, תובנות, עומק, קשר בין פסקאות, סיפוריות, עניין, מתח, או ביקורת נוקבת כשצריך.
-- היה נועז: אם יש מקום לקטול מניה – עשה זאת בנימוק. אם יש סיפור מעניין – הדגש אותו. אל תחשוש להפעיל שיקול דעת.
-- השתמש בכל המידע מהטקסט המקורי, אך אל תעתיק.
-- כתוב עברית רהוטה, ברורה, עם מבנה מקצועי.
-- ענה בפורמט JSON: {{"text": "...", "tags": [...]}}.
-- importent !! -  תשתמש בכל הנתונים שאתה מקבל , אל תמציא נתונים חדשים אבל כן תפתח את הדימיון אצל הקוראים שלך עם כתיבה מרתקת ובוחנת .  אבל הנתונים חייבים להיות אמיתיים מדוייקים וכמובן עדכניים !!!!
+📌 מה שקיבלת:
+רשימת נקודות עיקריות (key points) על חברה כלשהי, מתוך מקורות חדשותיים מהימנים.
 
-**הטקסט המקורי:**
+📌 מה עליך לעשות:
+- להפוך את הנקודות האלו לכתבה מקצועית ונעימה לקריאה, עם חיבור לוגי בין הפסקאות.
+- שמור על **כל הנתונים** בדיוק כפי שהם – כולל מספרים, שמות, ציטוטים, תאריכים ומחירי יעד.
+- מותר לך לערוך רק את **אופן ההצגה**: לנסח מחדש, להוסיף משפטי קישור, ליצור רצף נרטיבי, ולבנות פסקאות.
+- אל תוסיף שום מידע חדש.
+- אל תבצע ניתוח, תחזיות, או הערכות משלך.
+- אל תשמיט אף נקודה שהוזכרה בטקסט המקורי.
+
+✍️ כתוב בסגנון של כתבה כלכלית מקצועית ונגישה לציבור.
+📎 ענה בפורמט JSON בלבד: {{ "text": "...", "tags": [] }}
+
+🔎 חברה: {company}
+📂 סקטור: {sector_name}
+
+**הטקסט המקורי (Key Points):**
 ===
 {original_text}
 ===
 """
     return prompt
 
+# הפעלת מודל Ollama עם prompt מעודכן
 def process_with_gemma(original_text, ticker_info=None):
     """
-    Process the original text with the LLM (aya-expanse:8b) using Ollama, including extra ticker info for richer context.
+    Process the original text with the LLM (aya-expanse:8b) using Ollama, using ONLY rephrasing and restructuring rules.
     Returns a dict: {"text": ..., "tags": [...]}
     """
-    # בנה פרומפט עשיר עם המידע הנוסף
     prompt = generate_prompt(original_text, ticker_info)
+
     if ticker_info:
-        prompt += f"\n---\nמידע נוסף על החברה:\n"
+        prompt += "\n---\nמידע נוסף על החברה:\n"
         for k, v in ticker_info.items():
             prompt += f"{k}: {v}\n"
+
     prompt += "\n---\nענה בפורמט JSON: {\"text\": ..., \"tags\": [...]}\n"
 
-    # קריאה ל-ollama (דוגמה בסיסית, אפשר להחליף/להרחיב)
     try:
         result = subprocess.run(
             ["ollama", "run", "aya-expanse:8b"],
@@ -63,7 +63,8 @@ def process_with_gemma(original_text, ticker_info=None):
             capture_output=True
         )
         output = result.stdout.decode("utf-8").strip()
-        # נסה לחלץ JSON מהפלט
+
+        # ניסיון לחילוץ JSON מתוך הפלט
         try:
             first_brace = output.find('{')
             last_brace = output.rfind('}')
@@ -72,15 +73,17 @@ def process_with_gemma(original_text, ticker_info=None):
                 return pyjson.loads(json_str)
         except Exception:
             pass
-        # ניקוי markdown אם קיים
+
+        # ניקוי תווי markdown אם קיימים
         if output.startswith('```json'):
             output = output[7:]
         if output.startswith('```'):
             output = output[3:]
         if output.endswith('```'):
             output = output[:-3]
+
         return {"text": output.strip(), "tags": []}
+
     except Exception as e:
         print(f"❌ Error running ollama: {e}")
-        # fallback בסיסי
         return {"text": "שגיאה בעיבוד LLM: " + str(e), "tags": []}

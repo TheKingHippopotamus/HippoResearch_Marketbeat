@@ -25,25 +25,11 @@ def clean_text_for_html(text):
     return '\n'.join(cleaned_paragraphs)
 
 def create_html_content(ticker, summary_text, ticker_info=None):
-    """Create a beautifully formatted HTML content for the institutional research report, with company info badges only (no tags)."""
+    """Create a beautifully formatted HTML content for the institutional research report, with only the clean report text (no badges, no tags, no JSON remnants)."""
     formatted_content = clean_text_for_html(summary_text)
-    # Render company info as badges
-    info_html = ""
-    if ticker_info:
-        badges = []
-        if ticker_info.get("Security"):
-            badges.append(f'<span class="company-badge" title="שם החברה">{ticker_info["Security"]}</span>')
-        if ticker_info.get("GICS Sector"):
-            badges.append(f'<span class="company-badge" title="סקטור">{ticker_info["GICS Sector"]}</span>')
-        if ticker_info.get("GICS Sub-Industry"):
-            badges.append(f'<span class="company-badge" title="תת-סקטור">{ticker_info["GICS Sub-Industry"]}</span>')
-        if ticker_info.get("Headquarters Location"):
-            badges.append(f'<span class="company-badge" title="מיקום מטה">{ticker_info["Headquarters Location"]}</span>')
-        info_html = f'<div class="company-badges-bar">{" ".join(badges)}</div>'
-    # Build HTML without tags
+    # Build HTML with only the clean report text
     html = f'''
     <div class="article-container">
-        {info_html}
         <div class="article-content-text">
             {formatted_content}
         </div>

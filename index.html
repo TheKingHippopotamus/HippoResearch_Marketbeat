@@ -671,18 +671,10 @@
                 html += `<div style='color:#e94560;text-align:center;width:100%;font-size:1.1em;padding:40px;'>לא נמצאו כתבות לטיקר שחיפשת</div>`;
             } else {
                 filtered.forEach(article => {
-                    // Company info badges
-                    let badges = [];
-                    if (article.Security) badges.push(`<span class='company-badge' title='שם החברה'>${article.Security}</span>`);
-                    if (article["GICS Sector"]) badges.push(`<span class='company-badge' title='סקטור'>${article["GICS Sector"]}</span>`);
-                    if (article["GICS Sub-Industry"]) badges.push(`<span class='company-badge' title='תת-סקטור'>${article["GICS Sub-Industry"]}</span>`);
-                    if (article["Headquarters Location"]) badges.push(`<span class='company-badge' title='מיקום מטה'>${article["Headquarters Location"]}</span>`);
-                    let infoBar = badges.length ? `<div class='company-badges-bar' style='margin-bottom:10px;'>${badges.join(' ')}</div>` : "";
                     html += `
                         <div class=\"article-card\">
                             <div class=\"article-ticker\">${article.ticker}</div>
                             <h3 class=\"article-title\">${article.title}</h3>
-                            ${infoBar}
                             <p class=\"article-summary\">${article.summary}</p>
                             <div class=\"article-meta\">
                                 <span>📅 ${article.timestamp}</span>
