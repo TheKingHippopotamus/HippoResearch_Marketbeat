@@ -671,8 +671,6 @@
     "timestamp": "19/06/2025 18:25",
     "summary": " ניתוח תנועות מניה יומיות: US Bancorp (USB)\n\n סקירה כללית\nמניית US Bancorp (NYSE: USB) עברה תנודתיות לאחרונה, מושפעת ממגוון הצהרות ונתונים הקשורים לבנק. ההכרזות על דיבידנדים, הרחבת המוצרים והפרשנוי..."
   },
-
-  
   {
     "ticker": "JBL",
     "title": "JBL: למה המניה זזה היום?",
@@ -684,5 +682,17 @@
     "GICS Sector": "Information Technology",
     "GICS Sub-Industry": "Electronic Manufacturing Services",
     "Headquarters Location": "St. Petersburg, Florida"
+  },
+  {
+    "ticker": "MCD",
+    "title": "MCD: למה המניה זזה היום?",
+    "filename": "MCD_20250620.html",
+    "timestamp": "20/06/2025 01:52",
+    "summary": "{\n  \"text\": \"מניית ענקית המזון המהיר, מקדונלד'ס (MCD), חווה ירידה לאחרונה, על רקע חששות בקרב אנליסטים ותנועות טכניות דוביות בשוק. עם זאת, החברה מציגה יוזמות אסטרטגיות חדשות במטרה לשפר את הביצועים ולהג...",
+    "tags": [],
+    "Security": "McDonald's",
+    "GICS Sector": "Consumer Discretionary",
+    "GICS Sub-Industry": "Restaurants",
+    "Headquarters Location": "Chicago, Illinois"
   }
 ]

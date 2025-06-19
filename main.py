@@ -176,7 +176,7 @@ def process_and_create_article(ticker, original_text, original_file_name=None, t
         html_file_path = os.path.join(articles_dir, html_filename)
 
         # Create HTML with processed content and tags, pass extra info
-        html_content, ticker_badge_with_logo = create_html_content(ticker, processed_text, tags=tags, ticker_info=ticker_info)
+        html_content, ticker_badge_with_logo = create_html_content(ticker, processed_text, ticker_info=ticker_info)
         
         # Create the full HTML page with the ticker badge in the header
         full_html = f'''<!DOCTYPE html>
