@@ -12,7 +12,7 @@ prompt = f"""
 5. הוסף תובנות על השפעות על השוק הרחב
 6. שמור על אובייקטיביות מקצועית
 
-מקורות מידע: Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl
+מקורות מידע: Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl,MarketBeat
 
 כתוב את המאמר בעברית.
 """ 
