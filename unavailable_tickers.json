@@ -1,5 +1,6 @@
 [
   "ABC",
+  "ADP",
   "AGR",
   "CHTR",
   "CI",
@@ -13,8 +14,11 @@
   "ISRG",
   "LCID",
   "MARA",
+  "NI",
   "NXPI",
   "PINS",
+  "PPL",
+  "PSX",
   "RIOT",
   "RSG",
   "SLB",
@@ -23,5 +27,6 @@
   "SYK",
   "TMO",
   "VZ",
-  "WM"
+  "WM",
+  "ZBH"
 ]
