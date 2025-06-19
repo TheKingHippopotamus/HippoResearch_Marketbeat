@@ -120,13 +120,16 @@ def scrape_text_from_website(ticker, output_dir="txt"):
         print("�� Browser closed")
 
 def process_and_create_article(ticker, original_text, original_file_name=None, output_dir="txt"):
-    """Process text with LLM and create article files"""
+    """Process text with LLM and create article files, including causal tags"""
     try:
         # Process with LLM
         print(f"🤖 Processing {ticker} with aya-expanse:8b...")
-        processed_text = process_with_gemma(original_text, ticker)
+        processed_result = process_with_gemma(original_text, ticker)
+        processed_text = processed_result["text"] if isinstance(processed_result, dict) else processed_result
+        tags = processed_result.get("tags", []) if isinstance(processed_result, dict) else []
         print(f"📄 Processed text length: {len(processed_text)} characters")
         print(f"📄 Processed text preview: {processed_text[:100]}...")
+        print(f"🏷️ Tags: {tags}")
 
         # Save processed text file with date in filename
         current_date = get_current_date()
@@ -150,7 +153,7 @@ def process_and_create_article(ticker, original_text, original_file_name=None, o
             saved_original = f.read()
 
         # Check if files are different
-        if saved_original.strip() == saved_processed.strip():
+        if saved_original.strip() == processed_text.strip():
             print("⚠️ WARNING: Original and processed files are identical!")
         else:
             print("✅ Files are different - processing worked!")
@@ -164,8 +167,8 @@ def process_and_create_article(ticker, original_text, original_file_name=None, o
         html_filename = f"{safe_ticker}_{current_date}.html"
         html_file_path = os.path.join(articles_dir, html_filename)
 
-        # Create HTML with processed content
-        html_content = create_html_content(ticker, processed_text)
+        # Create HTML with processed content and tags
+        html_content = create_html_content(ticker, processed_text, tags=tags)
         with open(html_file_path, 'w', encoding='utf-8') as f:
             f.write(html_content)
 
@@ -176,8 +179,8 @@ def process_and_create_article(ticker, original_text, original_file_name=None, o
         title = f"{ticker}: למה המניה זזה היום?"
         summary = processed_text[:200] + "..." if len(processed_text) > 200 else processed_text
 
-        # Add metadata
-        add_article_metadata(ticker, title, html_filename, summary)
+        # Add metadata (now with tags)
+        add_article_metadata(ticker, title, html_filename, summary, tags)
         print(f"✅ Economic article for {ticker} saved → {html_file_path}")
         print(f"✅ Article metadata added to articles_metadata.json")
     except Exception as e:
@@ -251,18 +254,17 @@ def save_metadata(metadata):
     except Exception as e:
         print(f"❌ Error saving metadata: {e}")
 
-def add_article_metadata(ticker, title, filename, summary):
-    """Add new article metadata to the JSON file"""
+def add_article_metadata(ticker, title, filename, summary, tags=None):
+    """Add new article metadata to the JSON file, including tags"""
     metadata = load_metadata()
-    
     new_article = {
         "ticker": ticker,
         "title": title,
         "filename": filename,
         "timestamp": get_current_timestamp(),
-        "summary": summary
+        "summary": summary,
+        "tags": tags or []
     }
-    
     metadata.append(new_article)
     save_metadata(metadata)
     return new_article
