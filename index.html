@@ -485,6 +485,47 @@
                 padding: 4px 10px;
             }
         }
+        .company-badges-bar {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 7px;
+            margin-bottom: 10px;
+            overflow-x: auto;
+            padding-bottom: 2px;
+            scrollbar-width: thin;
+        }
+        .company-badge {
+            background: linear-gradient(90deg, #0f3460 0%, #e94560 100%);
+            color: #fff;
+            border-radius: 16px;
+            padding: 5px 12px;
+            font-size: 0.95em;
+            font-weight: 500;
+            box-shadow: 0 2px 8px rgba(15,52,96,0.08);
+            letter-spacing: 0.02em;
+            display: inline-block;
+            margin-bottom: 2px;
+            border: none;
+            outline: none;
+            transition: background 0.2s;
+            white-space: nowrap;
+        }
+        .company-badge:hover {
+            background: linear-gradient(90deg, #e94560 0%, #0f3460 100%);
+        }
+        @media (max-width: 768px) {
+            .company-badges-bar {
+                gap: 5px;
+                margin-bottom: 7px;
+                padding-bottom: 4px;
+                overflow-x: auto;
+                -webkit-overflow-scrolling: touch;
+            }
+            .company-badge {
+                font-size: 0.9em;
+                padding: 4px 9px;
+            }
+        }
     </style>
 </head>
 <body>
@@ -630,10 +671,18 @@
                 html += `<div style='color:#e94560;text-align:center;width:100%;font-size:1.1em;padding:40px;'>לא נמצאו כתבות לטיקר שחיפשת</div>`;
             } else {
                 filtered.forEach(article => {
+                    // Company info badges
+                    let badges = [];
+                    if (article.Security) badges.push(`<span class='company-badge' title='שם החברה'>${article.Security}</span>`);
+                    if (article["GICS Sector"]) badges.push(`<span class='company-badge' title='סקטור'>${article["GICS Sector"]}</span>`);
+                    if (article["GICS Sub-Industry"]) badges.push(`<span class='company-badge' title='תת-סקטור'>${article["GICS Sub-Industry"]}</span>`);
+                    if (article["Headquarters Location"]) badges.push(`<span class='company-badge' title='מיקום מטה'>${article["Headquarters Location"]}</span>`);
+                    let infoBar = badges.length ? `<div class='company-badges-bar' style='margin-bottom:10px;'>${badges.join(' ')}</div>` : "";
                     html += `
                         <div class=\"article-card\">
                             <div class=\"article-ticker\">${article.ticker}</div>
                             <h3 class=\"article-title\">${article.title}</h3>
+                            ${infoBar}
                             <p class=\"article-summary\">${article.summary}</p>
                             <div class=\"article-meta\">
                                 <span>📅 ${article.timestamp}</span>

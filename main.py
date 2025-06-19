@@ -12,6 +12,7 @@ from datetime import datetime
 from html_template import create_html_content
 from llm_processor import process_with_gemma
 import random
+import csv
 
 def start_driver():
     options = Options()
@@ -119,12 +120,13 @@ def scrape_text_from_website(ticker, output_dir="txt"):
         driver.quit()
         print("�� Browser closed")
 
-def process_and_create_article(ticker, original_text, original_file_name=None, output_dir="txt"):
-    """Process text with LLM and create article files, including causal tags"""
+def process_and_create_article(ticker, original_text, original_file_name=None, ticker_info=None, output_dir="txt"):
+    """Process text with LLM and create article files, including causal tags and extra metadata"""
     try:
-        # Process with LLM
+        ticker_info = ticker_info or {}
+        # Process with LLM, pass extra info
         print(f"🤖 Processing {ticker} with aya-expanse:8b...")
-        processed_result = process_with_gemma(original_text, ticker)
+        processed_result = process_with_gemma(original_text, ticker, ticker_info)
         processed_text = processed_result["text"] if isinstance(processed_result, dict) else processed_result
         tags = processed_result.get("tags", []) if isinstance(processed_result, dict) else []
         print(f"📄 Processed text length: {len(processed_text)} characters")
@@ -167,8 +169,8 @@ def process_and_create_article(ticker, original_text, original_file_name=None, o
         html_filename = f"{safe_ticker}_{current_date}.html"
         html_file_path = os.path.join(articles_dir, html_filename)
 
-        # Create HTML with processed content and tags
-        html_content = create_html_content(ticker, processed_text, tags=tags)
+        # Create HTML with processed content and tags, pass extra info
+        html_content = create_html_content(ticker, processed_text, tags=tags, ticker_info=ticker_info)
         with open(html_file_path, 'w', encoding='utf-8') as f:
             f.write(html_content)
 
@@ -179,8 +181,8 @@ def process_and_create_article(ticker, original_text, original_file_name=None, o
         title = f"{ticker}: למה המניה זזה היום?"
         summary = processed_text[:200] + "..." if len(processed_text) > 200 else processed_text
 
-        # Add metadata (now with tags)
-        add_article_metadata(ticker, title, html_filename, summary, tags)
+        # Add metadata (now with tags and extra info)
+        add_article_metadata(ticker, title, html_filename, summary, tags, ticker_info)
         print(f"✅ Economic article for {ticker} saved → {html_file_path}")
         print(f"✅ Article metadata added to articles_metadata.json")
     except Exception as e:
@@ -195,7 +197,10 @@ def capture_summary_exact(ticker, output_dir="txt"):
         print("❌ Failed to scrape text from website")
         return
     # Step 2: Process with LLM (after browser is closed)
-    process_and_create_article(ticker, original_text, original_file_name, output_dir)
+    # נטען את המידע מה-CSV עבור הטיקר
+    ticker_metadata = load_ticker_metadata()
+    ticker_info = ticker_metadata.get(ticker, {})
+    process_and_create_article(ticker, original_text, original_file_name, ticker_info, output_dir)
     print(f"✅ Process completed for {ticker}")
 
 def copy_static_files(output_dir):
@@ -254,8 +259,8 @@ def save_metadata(metadata):
     except Exception as e:
         print(f"❌ Error saving metadata: {e}")
 
-def add_article_metadata(ticker, title, filename, summary, tags=None):
-    """Add new article metadata to the JSON file, including tags"""
+def add_article_metadata(ticker, title, filename, summary, tags=None, ticker_info=None):
+    """Add new article metadata to the JSON file, including tags and extra info"""
     metadata = load_metadata()
     new_article = {
         "ticker": ticker,
@@ -265,6 +270,8 @@ def add_article_metadata(ticker, title, filename, summary, tags=None):
         "summary": summary,
         "tags": tags or []
     }
+    if ticker_info:
+        new_article.update(ticker_info)
     metadata.append(new_article)
     save_metadata(metadata)
     return new_article
@@ -339,6 +346,26 @@ def migrate_existing_articles():
         
     except Exception as e:
         print(f"❌ Error during migration: {e}")
+
+def load_ticker_metadata():
+    """Load ticker metadata from CSV into a dict: {ticker: {fields...}}"""
+    csv_path = os.path.join("data", "flat-ui__data-Thu Jun 19 2025.csv")
+    ticker_info = {}
+    try:
+        with open(csv_path, 'r', encoding='utf-8') as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                ticker = row.get('Tickers')
+                if ticker and ticker.strip():
+                    ticker_info[ticker.strip()] = {
+                        "Security": row.get("Security", "").strip(),
+                        "GICS Sector": row.get("GICS Sector", "").strip(),
+                        "GICS Sub-Industry": row.get("GICS Sub-Industry", "").strip(),
+                        "Headquarters Location": row.get("Headquarters Location", "").strip()
+                    }
+    except Exception as e:
+        print(f"❌ Error loading ticker metadata from CSV: {e}")
+    return ticker_info
 
 def load_tickers_from_json():
     """Load tickers from JSON file"""
@@ -415,8 +442,9 @@ def save_today_processed(tickers):
         json.dump(sorted(list(tickers)), f, ensure_ascii=False, indent=2)
 
 def process_all_tickers():
-    """Process all tickers from JSON file in random order, skipping already processed and unavailable ones"""
-    tickers = set(load_tickers_from_json())
+    """Process all tickers from CSV file in random order, skipping already processed and unavailable ones"""
+    ticker_metadata = load_ticker_metadata()
+    tickers = set(ticker_metadata.keys())
     unavailable = load_unavailable_tickers()
     today_processed = load_today_processed()
     
@@ -434,15 +462,16 @@ def process_all_tickers():
         print(f"📊 Processing ticker: {ticker}")
         print(f"{'='*50}")
         try:
-            # Process the ticker
+            # Process the ticker (scraping needs only ticker)
             result = scrape_text_from_website(ticker)
-            if result is None:
+            if not result or not result[0]:
                 print(f"❌ No data found for {ticker}, adding to unavailable list.")
                 unavailable.add(ticker)
                 save_unavailable_tickers(unavailable)
                 continue
             # Step 2: Process with LLM (after browser is closed)
-            process_and_create_article(ticker, result[0], result[1])
+            # Pass metadata for richer processing
+            process_and_create_article(ticker, result[0], result[1], ticker_metadata.get(ticker, {}))
             today_processed.add(ticker)
             save_today_processed(today_processed)
             print("⏳ Waiting 3 seconds before committing...")
