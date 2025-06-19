@@ -11,6 +11,7 @@ import subprocess
 from datetime import datetime
 from html_template import create_html_content
 from llm_processor import process_with_gemma
+import random
 
 def start_driver():
     options = Options()
@@ -377,46 +378,79 @@ def commit_and_push_changes(ticker):
         print(f"❌ Unexpected error during commit: {e}")
         return False
 
+def load_unavailable_tickers():
+    """Load unavailable tickers from JSON file"""
+    try:
+        with open('unavailable_tickers.json', 'r', encoding='utf-8') as f:
+            return set(json.load(f))
+    except Exception:
+        return set()
+
+def save_unavailable_tickers(tickers):
+    """Save unavailable tickers to JSON file"""
+    with open('unavailable_tickers.json', 'w', encoding='utf-8') as f:
+        json.dump(sorted(list(tickers)), f, ensure_ascii=False, indent=2)
+
+def load_today_processed():
+    """Load tickers processed today from JSON file"""
+    today = datetime.now().strftime('%Y%m%d')
+    fname = f'processed_{today}.json'
+    try:
+        with open(fname, 'r', encoding='utf-8') as f:
+            return set(json.load(f))
+    except Exception:
+        return set()
+
+def save_today_processed(tickers):
+    """Save today's processed tickers to JSON file"""
+    today = datetime.now().strftime('%Y%m%d')
+    fname = f'processed_{today}.json'
+    with open(fname, 'w', encoding='utf-8') as f:
+        json.dump(sorted(list(tickers)), f, ensure_ascii=False, indent=2)
+
 def process_all_tickers():
-    """Process all tickers from JSON file one by one"""
-    tickers = load_tickers_from_json()
+    """Process all tickers from JSON file in random order, skipping already processed and unavailable ones"""
+    tickers = set(load_tickers_from_json())
+    unavailable = load_unavailable_tickers()
+    today_processed = load_today_processed()
     
-    if not tickers:
-        print("❌ No tickers found in tickers.json")
+    # Remove unavailable and already processed
+    candidates = list(tickers - unavailable - today_processed)
+    if not candidates:
+        print("✅ No new tickers to process today!")
         return
     
-    print(f"🚀 Starting to process {len(tickers)} tickers: {', '.join(tickers)}")
+    print(f"🚀 {len(candidates)} tickers left to process today.")
+    random.shuffle(candidates)
     
-    for i, ticker in enumerate(tickers, 1):
+    for ticker in candidates:
         print(f"\n{'='*50}")
-        print(f"📊 Processing ticker {i}/{len(tickers)}: {ticker}")
+        print(f"📊 Processing ticker: {ticker}")
         print(f"{'='*50}")
-        
         try:
             # Process the ticker
-            capture_summary_exact(ticker)
-            
-            # Wait a moment before committing
+            result = scrape_text_from_website(ticker)
+            if result is None:
+                print(f"❌ No data found for {ticker}, adding to unavailable list.")
+                unavailable.add(ticker)
+                save_unavailable_tickers(unavailable)
+                continue
+            # Step 2: Process with LLM (after browser is closed)
+            process_and_create_article(ticker, result)
+            today_processed.add(ticker)
+            save_today_processed(today_processed)
             print("⏳ Waiting 3 seconds before committing...")
             time.sleep(3)
-            
-            # Commit and push changes
             if commit_and_push_changes(ticker):
                 print(f"✅ Successfully completed processing for {ticker}")
             else:
                 print(f"⚠️ Warning: Failed to commit changes for {ticker}")
-            
-            # Wait between tickers (except for the last one)
-            if i < len(tickers):
-                print("⏳ Waiting 5 seconds before next ticker...")
-                time.sleep(5)
-                
+            print("⏳ Waiting 5 seconds before next ticker...")
+            time.sleep(5)
         except Exception as e:
             print(f"❌ Error processing {ticker}: {e}")
             continue
-    
-    print(f"\n🎉 Completed processing all {len(tickers)} tickers!")
+    print(f"\n🎉 Completed processing all available tickers for today!")
 
 if __name__ == "__main__":
-    # Process all tickers from JSON file
     process_all_tickers()
