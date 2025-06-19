@@ -70,9 +70,8 @@ def find_summary_block(driver, ticker):
         return None
 
 def scrape_text_from_website(ticker, output_dir="txt"):
-    """Scrape text from website and save original file"""
+    """Scrape text from website and save original file with date, also in /data"""
     url = f"https://translate.google.com/translate?sl=en&tl=he&u=https://www.marketbeat.com/stocks/NASDAQ/{ticker}/news/"
-    
     driver = start_driver()
     try:
         driver.get(url)
@@ -81,6 +80,8 @@ def scrape_text_from_website(ticker, output_dir="txt"):
         close_popup_if_present(driver)
 
         os.makedirs(output_dir, exist_ok=True)
+        data_dir = os.path.join(os.getcwd(), "data")
+        os.makedirs(data_dir, exist_ok=True)
 
         box = find_summary_block(driver, ticker)
         if box is None:
@@ -88,107 +89,110 @@ def scrape_text_from_website(ticker, output_dir="txt"):
 
         # Extract the text content from the summary block
         summary_text = box.text
-        
         print(f"📄 Original text length: {len(summary_text)} characters")
         print(f"📄 Original text preview: {summary_text[:100]}...")
-        
-        # Save original text file
-        original_file_path = os.path.join(output_dir, f"{ticker}_original.txt")
+
+        # Save original text file with date in filename
+        current_date = get_current_date()
+        original_file_name = f"{ticker}_original_{current_date}.txt"
+        original_file_path = os.path.join(output_dir, original_file_name)
         with open(original_file_path, 'w', encoding='utf-8') as f:
             f.write(summary_text)
         print(f"✅ Original text for {ticker} saved → {original_file_path}")
-        
+
+        # Also save a copy in /data
+        data_file_path = os.path.join(data_dir, original_file_name)
+        with open(data_file_path, 'w', encoding='utf-8') as f:
+            f.write(summary_text)
+        print(f"✅ Original text for {ticker} also saved → {data_file_path}")
+
         # Verify original file was saved correctly
         with open(original_file_path, 'r', encoding='utf-8') as f:
             saved_original = f.read()
         print(f"✅ Verified original file: {len(saved_original)} characters")
-        
-        return summary_text
-        
+
+        return summary_text, original_file_name
     except Exception as e:
         print(f"❌ Error during scraping: {e}")
-        return None
+        return None, None
     finally:
         driver.quit()
-        print("🔒 Browser closed")
+        print("�� Browser closed")
 
-def process_and_create_article(ticker, original_text, output_dir="txt"):
+def process_and_create_article(ticker, original_text, original_file_name=None, output_dir="txt"):
     """Process text with LLM and create article files"""
     try:
         # Process with LLM
         print(f"🤖 Processing {ticker} with aya-expanse:8b...")
         processed_text = process_with_gemma(original_text, ticker)
-        
         print(f"📄 Processed text length: {len(processed_text)} characters")
         print(f"📄 Processed text preview: {processed_text[:100]}...")
-        
-        # Save processed text file
-        processed_file_path = os.path.join(output_dir, f"{ticker}_processed.txt")
+
+        # Save processed text file with date in filename
+        current_date = get_current_date()
+        processed_file_name = f"{ticker}_processed_{current_date}.txt"
+        processed_file_path = os.path.join(output_dir, processed_file_name)
         with open(processed_file_path, 'w', encoding='utf-8') as f:
             f.write(processed_text)
         print(f"✅ Processed text for {ticker} saved → {processed_file_path}")
-        
+
         # Verify processed file was saved correctly
         with open(processed_file_path, 'r', encoding='utf-8') as f:
             saved_processed = f.read()
         print(f"✅ Verified processed file: {len(saved_processed)} characters")
-        
-        # Read original file for comparison
-        original_file_path = os.path.join(output_dir, f"{ticker}_original.txt")
+
+        # Read original file for comparison (use new filename if provided)
+        if original_file_name:
+            original_file_path = os.path.join(output_dir, original_file_name)
+        else:
+            original_file_path = os.path.join(output_dir, f"{ticker}_original.txt")
         with open(original_file_path, 'r', encoding='utf-8') as f:
             saved_original = f.read()
-        
+
         # Check if files are different
         if saved_original.strip() == saved_processed.strip():
             print("⚠️ WARNING: Original and processed files are identical!")
         else:
             print("✅ Files are different - processing worked!")
-        
+
         # Create articles directory if it doesn't exist
         articles_dir = "articles"
         os.makedirs(articles_dir, exist_ok=True)
-        
+
         # Create safe filename with date
         safe_ticker = create_safe_filename(ticker)
-        current_date = get_current_date()
         html_filename = f"{safe_ticker}_{current_date}.html"
         html_file_path = os.path.join(articles_dir, html_filename)
-        
+
         # Create HTML with processed content
         html_content = create_html_content(ticker, processed_text)
         with open(html_file_path, 'w', encoding='utf-8') as f:
             f.write(html_content)
-        
+
         # Copy static files (logo, x icon) to articles directory
         copy_static_files(articles_dir)
-        
+
         # Extract title and summary for metadata
         title = f"{ticker}: למה המניה זזה היום?"
         summary = processed_text[:200] + "..." if len(processed_text) > 200 else processed_text
-        
+
         # Add metadata
         add_article_metadata(ticker, title, html_filename, summary)
-        
         print(f"✅ Economic article for {ticker} saved → {html_file_path}")
         print(f"✅ Article metadata added to articles_metadata.json")
-        
     except Exception as e:
         print(f"❌ Error during processing: {e}")
 
 def capture_summary_exact(ticker, output_dir="txt"):
     """Main function to scrape and process"""
     print(f"🚀 Starting process for {ticker}")
-    
     # Step 1: Scrape text from website
-    original_text = scrape_text_from_website(ticker, output_dir)
-    
+    original_text, original_file_name = scrape_text_from_website(ticker, output_dir)
     if original_text is None:
         print("❌ Failed to scrape text from website")
         return
-    
     # Step 2: Process with LLM (after browser is closed)
-    process_and_create_article(ticker, original_text, output_dir)
-    
+    process_and_create_article(ticker, original_text, original_file_name, output_dir)
     print(f"✅ Process completed for {ticker}")
 
 def copy_static_files(output_dir):
@@ -436,7 +440,7 @@ def process_all_tickers():
                 save_unavailable_tickers(unavailable)
                 continue
             # Step 2: Process with LLM (after browser is closed)
-            process_and_create_article(ticker, result)
+            process_and_create_article(ticker, result[0], result[1])
             today_processed.add(ticker)
             save_today_processed(today_processed)
             print("⏳ Waiting 3 seconds before committing...")
