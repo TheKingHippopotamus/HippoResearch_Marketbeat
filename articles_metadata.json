@@ -692,5 +692,17 @@
     "GICS Sector": "Financials",
     "GICS Sub-Industry": "Property & Casualty Insurance",
     "Headquarters Location": "Northbrook, Illinois"
+  },
+  {
+    "ticker": "ON",
+    "title": "ON: למה המניה זזה היום?",
+    "filename": "ON_20250619.html",
+    "timestamp": "19/06/2025 20:49",
+    "summary": "שגיאה בעיבוד LLM: Command '['ollama', 'run', 'aya-expanse:8b']' timed out after 120 seconds",
+    "tags": [],
+    "Security": "ON Semiconductor",
+    "GICS Sector": "Information Technology",
+    "GICS Sub-Industry": "Semiconductors",
+    "Headquarters Location": "Phoenix, Arizona"
   }
 ]
