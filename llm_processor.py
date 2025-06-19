@@ -7,7 +7,7 @@ sector_map_df = pd.read_csv("/Users/kinghippo/Documents/rssFeed/marketBit/data/f
 sector_map = dict(zip(sector_map_df['Tickers'], sector_map_df['GICS Sector']))
 
 # פונקציה ליצירת הפרומפט המותאם
-def generate_prompt(original_text: str, ticker: str, ticker_info=None):
+def generate_prompt(original_text: str, ticker_info=None):
     company = ticker_info.get("Security") if ticker_info else ""
     sector_name = ticker_info.get("GICS Sector") if ticker_info else ""
 
@@ -42,13 +42,13 @@ def generate_prompt(original_text: str, ticker: str, ticker_info=None):
 """
     return prompt
 
-def process_with_gemma(original_text, ticker, ticker_info=None):
+def process_with_gemma(original_text, ticker_info=None):
     """
     Process the original text with the LLM (aya-expanse:8b) using Ollama, including extra ticker info for richer context.
     Returns a dict: {"text": ..., "tags": [...]}
     """
     # בנה פרומפט עשיר עם המידע הנוסף
-    prompt = generate_prompt(original_text, ticker)
+    prompt = generate_prompt(original_text, ticker_info)
     if ticker_info:
         prompt += f"\n---\nמידע נוסף על החברה:\n"
         for k, v in ticker_info.items():
@@ -60,8 +60,7 @@ def process_with_gemma(original_text, ticker, ticker_info=None):
         result = subprocess.run(
             ["ollama", "run", "aya-expanse:8b"],
             input=prompt.encode("utf-8"),
-            capture_output=True,
-            timeout=120
+            capture_output=True
         )
         output = result.stdout.decode("utf-8").strip()
         # נסה לחלץ JSON מהפלט

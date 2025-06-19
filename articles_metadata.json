@@ -704,5 +704,17 @@
     "GICS Sector": "Information Technology",
     "GICS Sub-Industry": "Semiconductors",
     "Headquarters Location": "Phoenix, Arizona"
+  },
+  {
+    "ticker": "JBL",
+    "title": "JBL: למה המניה זזה היום?",
+    "filename": "JBL_20250619.html",
+    "timestamp": "19/06/2025 21:10",
+    "summary": "{\n  \"text\": \"## דוח מוסדי: Jabil (NYSE: JBL) - הזדמנויות וצמיחה בענף ה-IT\n\n**תקציר:** מניית Jabil מציגה ביצועים מרשימים בשוק המניות, עם עליות חדות לאחר פרסום תוצאות רבעון שלישיות חזקות. שדרוגים נרחבים...",
+    "tags": [],
+    "Security": "Jabil",
+    "GICS Sector": "Information Technology",
+    "GICS Sub-Industry": "Electronic Manufacturing Services",
+    "Headquarters Location": "St. Petersburg, Florida"
   }
 ]

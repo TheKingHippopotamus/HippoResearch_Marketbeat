@@ -124,9 +124,15 @@ def process_and_create_article(ticker, original_text, original_file_name=None, t
     """Process text with LLM and create article files, including causal tags and extra metadata"""
     try:
         ticker_info = ticker_info or {}
-        # Process with LLM, pass extra info
+        # קרא תמיד מהקובץ אם יש original_file_name
+        if original_file_name:
+            original_file_path = os.path.join(output_dir, original_file_name)
+            with open(original_file_path, 'r', encoding='utf-8') as f:
+                text_for_llm = f.read()
+        else:
+            text_for_llm = original_text
         print(f"🤖 Processing {ticker} with aya-expanse:8b...")
-        processed_result = process_with_gemma(original_text, ticker, ticker_info)
+        processed_result = process_with_gemma(text_for_llm, ticker_info)
         processed_text = processed_result["text"] if isinstance(processed_result, dict) else processed_result
         tags = processed_result.get("tags", []) if isinstance(processed_result, dict) else []
         print(f"📄 Processed text length: {len(processed_text)} characters")

@@ -6,7 +6,6 @@
 import os
 import time
 import subprocess
-import json
 from datetime import datetime
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
@@ -33,14 +32,14 @@ class HTMLFileHandler(FileSystemEventHandler):
         if event.is_directory:
             return
             
-        if event.src_path.endswith('.html'):
+        if str(event.src_path).endswith('.html'):
             self.handle_new_html(event.src_path)
     
     def on_modified(self, event):
         if event.is_directory:
             return
             
-        if event.src_path.endswith('.html'):
+        if str(event.src_path).endswith('.html'):
             self.handle_new_html(event.src_path)
     
     def handle_new_html(self, file_path):
