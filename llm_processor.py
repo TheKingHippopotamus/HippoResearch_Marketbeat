@@ -1,6 +1,7 @@
 import pandas as pd
 import subprocess
 import json as pyjson
+import re
 
 # קריאת מיפוי טיקרים לסקטורים
 sector_map_df = pd.read_csv("/Users/kinghippo/Documents/rssFeed/marketBit/data/flat-ui__data-Thu Jun 19 2025.csv")
@@ -72,7 +73,7 @@ def process_with_gemma(original_text, ticker_info=None):
                 json_str = output[first_brace:last_brace+1]
                 parsed_json = pyjson.loads(json_str)
                 # החזר רק את הטקסט, לא את ה-JSON המלא
-                return parsed_json.get("text", output.strip())
+                return clean_llm_text(parsed_json.get("text", output.strip()))
         except Exception:
             pass
 
@@ -84,8 +85,22 @@ def process_with_gemma(original_text, ticker_info=None):
         if output.endswith('```'):
             output = output[:-3]
 
-        return output.strip()
+        return clean_llm_text(output.strip())
 
     except Exception as e:
         print(f"❌ Error running ollama: {e}")
-        return "שגיאה בעיבוד LLM: " + str(e)
+        return clean_llm_text("שגיאה בעיבוד LLM: " + str(e))
+
+def clean_llm_text(text):
+    """Clean LLM output from JSON artifacts and formatting issues"""
+    if not text:
+        return text
+    text = re.sub(r'^\s*\{\s*', '', text)
+    text = re.sub(r'\s*\}\s*$', '', text)
+    text = re.sub(r'^\s*"text":\s*"', '', text)
+    text = re.sub(r'^\s*"":\s*"', '', text)
+    text = re.sub(r'"\s*,\s*"tags":\s*\[\s*\]\s*$', '', text)
+    text = re.sub(r'"\s*$', '', text)
+    text = re.sub(r'\\n', '\n', text)
+    text = re.sub(r'\s+', ' ', text)
+    return text.strip()

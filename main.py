@@ -71,7 +71,7 @@ def find_summary_block(driver, ticker):
         return None
 
 def scrape_text_from_website(ticker, output_dir="txt"):
-    """Scrape text from website and save original file with date, also in /data"""
+    """Scrape text from website and save original file with date, preserving original formatting"""
     url = f"https://translate.google.com/translate?sl=en&tl=he&u=https://www.marketbeat.com/stocks/NASDAQ/{ticker}/news/"
     driver = start_driver()
     try:
@@ -88,20 +88,37 @@ def scrape_text_from_website(ticker, output_dir="txt"):
         if box is None:
             raise Exception(f"No matching summary block found for {ticker}")
 
-        # Extract the text content from the summary block
+        # Extract the HTML content from the summary block to preserve formatting
+        summary_html = box.get_attribute('innerHTML')
+        
+        # Also get the text content for preview
         summary_text = box.text
         print(f"📄 Original text length: {len(summary_text)} characters")
         print(f"📄 Original text preview: {summary_text[:100]}...")
 
-        # Save original text file with date in filename
+        # Save original HTML content with date in filename (preserves formatting)
         current_date = get_current_date()
+        original_html_file_name = f"{ticker}_original_{current_date}.html"
+        original_html_file_path = os.path.join(output_dir, original_html_file_name)
+        if summary_html:
+            with open(original_html_file_path, 'w', encoding='utf-8') as f:
+                f.write(summary_html)
+            print(f"✅ Original HTML for {ticker} saved → {original_html_file_path}")
+
+        # Also save the text version (for backward compatibility)
         original_file_name = f"{ticker}_original_{current_date}.txt"
         original_file_path = os.path.join(output_dir, original_file_name)
         with open(original_file_path, 'w', encoding='utf-8') as f:
             f.write(summary_text)
         print(f"✅ Original text for {ticker} saved → {original_file_path}")
 
-        # Also save a copy in /data
+        # Also save copies in /data
+        if summary_html:
+            data_html_file_path = os.path.join(data_dir, original_html_file_name)
+            with open(data_html_file_path, 'w', encoding='utf-8') as f:
+                f.write(summary_html)
+            print(f"✅ Original HTML for {ticker} also saved → {data_html_file_path}")
+
         data_file_path = os.path.join(data_dir, original_file_name)
         with open(data_file_path, 'w', encoding='utf-8') as f:
             f.write(summary_text)
@@ -112,27 +129,51 @@ def scrape_text_from_website(ticker, output_dir="txt"):
             saved_original = f.read()
         print(f"✅ Verified original file: {len(saved_original)} characters")
 
-        return summary_text, original_file_name
+        return summary_text, original_file_name, summary_html, original_html_file_name
     except Exception as e:
         print(f"❌ Error during scraping: {e}")
-        return None, None
+        return None, None, None, None
     finally:
         driver.quit()
-        print("�� Browser closed")
+        print("🌐 Browser closed")
 
-def process_and_create_article(ticker, original_text, original_file_name=None, ticker_info=None, output_dir="txt"):
+def html_to_clean_text(html_content):
+    """Convert HTML content to clean text while preserving paragraph structure"""
+    if not html_content:
+        return ""
+    
+    # Remove HTML tags but preserve paragraph breaks
+    text = re.sub(r'</?(p|br|div)[^>]*>', '\n', html_content)
+    # Remove other HTML tags
+    text = re.sub(r'<[^>]+>', '', text)
+    # Clean up extra whitespace and newlines
+    text = re.sub(r'\n\s*\n', '\n\n', text)
+    text = re.sub(r' +', ' ', text)
+    return text.strip()
+
+def process_and_create_article(ticker, original_text, original_file_name=None, original_html=None, original_html_file_name=None, ticker_info=None, output_dir="txt"):
     """Process text with LLM and create article files, including causal tags and extra metadata"""
     try:
         ticker_info = ticker_info or {}
-        # קרא תמיד מהקובץ אם יש original_file_name
-        if original_file_name:
+        
+        # Use HTML content if available, otherwise fall back to text
+        if original_html and original_html_file_name:
+            # Read from HTML file to preserve formatting
+            original_html_file_path = os.path.join(output_dir, original_html_file_name)
+            with open(original_html_file_path, 'r', encoding='utf-8') as f:
+                html_content = f.read()
+            text_for_llm = html_to_clean_text(html_content)
+        elif original_file_name:
+            # Fall back to text file
             original_file_path = os.path.join(output_dir, original_file_name)
             with open(original_file_path, 'r', encoding='utf-8') as f:
                 text_for_llm = f.read()
         else:
             text_for_llm = original_text
+            
         print(f"🤖 Processing {ticker} with aya-expanse:8b...")
         processed_text = process_with_gemma(text_for_llm, ticker_info)
+        processed_text = clean_llm_text(processed_text)
         print(f"📄 Processed text length: {len(processed_text)} characters")
         print(f"📄 Processed text preview: {processed_text[:100]}...")
         tags = []
@@ -151,11 +192,14 @@ def process_and_create_article(ticker, original_text, original_file_name=None, t
             saved_processed = f.read()
         print(f"✅ Verified processed file: {len(saved_processed)} characters")
 
-        # Read original file for comparison (use new filename if provided)
-        if original_file_name:
+        # Read original file for comparison
+        if original_html_file_name:
+            original_file_path = os.path.join(output_dir, original_html_file_name)
+        elif original_file_name:
             original_file_path = os.path.join(output_dir, original_file_name)
         else:
             original_file_path = os.path.join(output_dir, f"{ticker}_original.txt")
+            
         with open(original_file_path, 'r', encoding='utf-8') as f:
             saved_original = f.read()
 
@@ -792,7 +836,7 @@ def capture_summary_exact(ticker, output_dir="txt"):
     """Main function to scrape and process"""
     print(f"🚀 Starting process for {ticker}")
     # Step 1: Scrape text from website
-    original_text, original_file_name = scrape_text_from_website(ticker, output_dir)
+    original_text, original_file_name, summary_html, original_html_file_name = scrape_text_from_website(ticker, output_dir)
     if original_text is None:
         print("❌ Failed to scrape text from website")
         return
@@ -800,7 +844,7 @@ def capture_summary_exact(ticker, output_dir="txt"):
     # נטען את המידע מה-CSV עבור הטיקר
     ticker_metadata = load_ticker_metadata()
     ticker_info = ticker_metadata.get(ticker, {})
-    process_and_create_article(ticker, original_text, original_file_name, ticker_info, output_dir)
+    process_and_create_article(ticker, original_text, original_file_name, summary_html, original_html_file_name, ticker_info, output_dir)
     print(f"✅ Process completed for {ticker}")
 
 def copy_static_files(output_dir):
@@ -1059,7 +1103,7 @@ def process_all_tickers():
     
     for ticker in candidates:
         print(f"\n{'='*50}")
-        print(f"📊 Processing ticker: {ticker}")
+        print(f"Processing ticker: {ticker}")
         print(f"{'='*50}")
         try:
             # Process the ticker (scraping needs only ticker)
@@ -1071,7 +1115,7 @@ def process_all_tickers():
                 continue
             # Step 2: Process with LLM (after browser is closed)
             # Pass metadata for richer processing
-            process_and_create_article(ticker, result[0], result[1], ticker_metadata.get(ticker, {}))
+            process_and_create_article(ticker, result[0], result[1], result[2], result[3], ticker_metadata.get(ticker, {}))
             today_processed.add(ticker)
             save_today_processed(today_processed)
             print("⏳ Waiting 3 seconds before committing...")
@@ -1086,6 +1130,20 @@ def process_all_tickers():
             print(f"❌ Error processing {ticker}: {e}")
             continue
     print(f"\n🎉 Completed processing all available tickers for today!")
+
+def clean_llm_text(text):
+    """Clean LLM output from JSON artifacts and formatting issues"""
+    if not text:
+        return text
+    text = re.sub(r'^\s*\{\s*', '', text)
+    text = re.sub(r'\s*\}\s*$', '', text)
+    text = re.sub(r'^\s*"text":\s*"', '', text)
+    text = re.sub(r'^\s*"":\s*"', '', text)
+    text = re.sub(r'"\s*,\s*"tags":\s*\[\s*\]\s*$', '', text)
+    text = re.sub(r'"\s*$', '', text)
+    text = re.sub(r'\\n', '\n', text)
+    text = re.sub(r'\s+', ' ', text)
+    return text.strip()
 
 if __name__ == "__main__":
     process_all_tickers()
