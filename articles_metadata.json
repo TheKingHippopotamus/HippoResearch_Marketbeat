@@ -688,11 +688,23 @@
     "title": "MCD: למה המניה זזה היום?",
     "filename": "MCD_20250620.html",
     "timestamp": "20/06/2025 01:52",
-    "summary": "{\n  \"text\": \"מניית ענקית המזון המהיר, מקדונלד'ס (MCD), חווה ירידה לאחרונה, על רקע חששות בקרב אנליסטים ותנועות טכניות דוביות בשוק. עם זאת, החברה מציגה יוזמות אסטרטגיות חדשות במטרה לשפר את הביצועים ולהג...",
+    "summary": "{\n  מניית ענקית המזון המהיר, מקדונלד'ס (MCD), חווה ירידה לאחרונה, על רקע חששות בקרב אנליסטים ותנועות טכניות דוביות בשוק. עם זאת, החברה מציגה יוזמות אסטרטגיות חדשות במטרה לשפר את הביצועים ולהג...",
     "tags": [],
     "Security": "McDonald's",
     "GICS Sector": "Consumer Discretionary",
     "GICS Sub-Industry": "Restaurants",
     "Headquarters Location": "Chicago, Illinois"
+  },
+  {
+    "ticker": "AVGO",
+    "title": "AVGO: למה המניה זזה היום?",
+    "filename": "AVGO_20250620.html",
+    "timestamp": "20/06/2025 01:57",
+    "summary": "{\n  \"text\": \"מניות ברודקום (נאסד\"ק: AVGO) מציגות עליות מרשימות בשוק המניות כיום, ומעוררות עניין בקרב משקיעים. ההתלהבות נתמכת על ידי דיווחים חיוביים של אנליסטים ופעילות מוגברת במסחר באופציות. חברת סיטי...",
+    "tags": [],
+    "Security": "Broadcom",
+    "GICS Sector": "Information Technology",
+    "GICS Sub-Industry": "Semiconductors",
+    "Headquarters Location": "Palo Alto, California"
   }
 ]
