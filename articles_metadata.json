@@ -681,30 +681,7 @@
       "אנליסטים"
     ]
   },
-  {
-    "ticker": "ALL",
-    "title": "ALL: למה המניה זזה היום?",
-    "filename": "ALL_20250619.html",
-    "timestamp": "19/06/2025 20:18",
-    "summary": "```json\n{\n  \"text\": \"## ניתוח מניית ALL (Allstate Corporation) - 15 במאי 2025\n\nמניית Allstate (ALL) חווה ירידה משמעותית בעקבות חששות משקיעים הקשורים להפסדים גבוהים כתוצאה מאסונות, כפי שדווח בדוחות הבט...",
-    "tags": [],
-    "Security": "Allstate",
-    "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Property & Casualty Insurance",
-    "Headquarters Location": "Northbrook, Illinois"
-  },
-  {
-    "ticker": "ON",
-    "title": "ON: למה המניה זזה היום?",
-    "filename": "ON_20250619.html",
-    "timestamp": "19/06/2025 20:49",
-    "summary": "שגיאה בעיבוד LLM: Command '['ollama', 'run', 'aya-expanse:8b']' timed out after 120 seconds",
-    "tags": [],
-    "Security": "ON Semiconductor",
-    "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "Semiconductors",
-    "Headquarters Location": "Phoenix, Arizona"
-  },
+  
   {
     "ticker": "JBL",
     "title": "JBL: למה המניה זזה היום?",
