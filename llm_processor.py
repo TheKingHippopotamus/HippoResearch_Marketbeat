@@ -13,39 +13,50 @@ def generate_prompt(original_text: str, ticker_info=None):
     sector_name = ticker_info.get("GICS Sector") if ticker_info else ""
 
     prompt = f"""
-אתה כותב כתבה עבור גוף מחקר עצמאי בשם "Hippopotamus Research".
+אתה כותב כתבה מקצועית עבור גוף מחקר עצמאי בשם "Hippopotamus Research".
 
 🎯 מטרתך:
-להנגיש את המידע שנמסר בצורה ברורה, מדויקת, נרטיבית וזורמת – מבלי לשנות אף פרט עובדתי.
+ליצור כתבה ארוכה, מסוגננת ומעניינת המכסה את כל נקודות המפתח שנמסרו, עם מבנה מקצועי וכותרות מתאימות.
 
 📌 מה שקיבלת:
-רשימת נקודות עיקריות (key points) על חברה כלשהי, מתוך מקורות חדשותיים מהימנים.
+רשימת נקודות מפתח (key points) על חברה כלשהי, כל משפט הוא נקודת עניין נפרדת.
 
 📌 מה עליך לעשות:
-- להפוך את הנקודות האלו לכתבה מקצועית ונעימה לקריאה, עם חיבור לוגי בין הפסקאות.
-- שמור על **כל הנתונים** בדיוק כפי שהם – כולל מספרים, שמות, ציטוטים, תאריכים ומחירי יעד.
-- מותר לך לערוך רק את **אופן ההצגה**: לנסח מחדש, להוסיף משפטי קישור, ליצור רצף נרטיבי, ולבנות פסקאות.
-- אל תוסיף שום מידע חדש.
-- אל תבצע ניתוח, תחזיות, או הערכות משלך.
-- אל תשמיט אף נקודה שהוזכרה בטקסט המקורי.
+1. **כתוב כתבה ארוכה ומקיפה** - המכסה את כל נקודות המפתח ללא יוצא מן הכלל
+2. **שמור על כל הנתונים** - מספרים, תאריכים, שמות, ציטוטים ומחירי יעד חייבים להישאר בדיוק כפי שהם
+3. **צור מבנה מקצועי** - כותרת ראשית, כותרות משנה, פסקאות מסודרות ואיות ברמה גבוהה
+4. **סגנון כתיבה מעניין** - כתוב בצורה שמושכת עניין וזורמת, עם חיבורים לוגיים בין הפסקאות
+5. **מקוריות** - אל תחזור על כותרות או משפטים זהים, שמור על גיוון וחדשנות
 
-✍️ כתוב בסגנון של כתבה כלכלית מקצועית ונגישה לציבור.
+⚠️ כללים חשובים:
+- אסור לשנות אף נתון מספרי או מידע חשוב
+- אסור לפספס אף נקודת מפתח - כל פיסת מידע חייבת להופיע בכתבה
+- אסור להוסיף מידע חדש שלא היה במקור
+- אסור לבצע ניתוח או תחזיות משלך
+- הכתבה חייבת להיות נאמנה למידע המקורי אך מסוגננת בכתיבה
 
+✍️ מבנה הכתבה:
+- כותרת ראשית מעניינת
+- כותרות משנה מתאימות לכל נושא
+- פסקאות מסודרות עם מעברים חלקים
+- שפה מקצועית ונגישה
 
 🔎 חברה: {company}
 📂 סקטור: {sector_name}
 
-**הטקסט המקורי (Key Points):**
+**נקודות המפתח המקוריות:**
 ===
 {original_text}
 ===
+
+⚠️ חשוב מאוד: החזר רק טקסט נקי של כתבה מקצועית, ללא JSON, תגים, או מבנה מיוחד.
 """
     return prompt
 
 # הפעלת מודל Ollama עם prompt מעודכן
 def process_with_gemma(original_text, ticker_info=None):
     """
-    Process the original text with the LLM (aya-expanse:8b) using Ollama, using ONLY rephrasing and restructuring rules.
+    Process the original text with the LLM (aya-expanse:8b) using ONLY rephrasing and restructuring rules.
     Returns the processed text as a string.
     """
     prompt = generate_prompt(original_text, ticker_info)
@@ -55,7 +66,7 @@ def process_with_gemma(original_text, ticker_info=None):
         for k, v in ticker_info.items():
             prompt += f"{k}: {v}\n"
 
-    prompt += "\n---\nענה בפורמט JSON: {\"text\": ..., \"tags\": [...]}\n"
+    prompt += "\n---\nהחזר רק טקסט נקי של הכתבה, ללא JSON או תגים."
 
     try:
         result = subprocess.run(
@@ -65,31 +76,45 @@ def process_with_gemma(original_text, ticker_info=None):
         )
         output = result.stdout.decode("utf-8").strip()
 
-        # ניסיון לחילוץ JSON מתוך הפלט
-        try:
-            first_brace = output.find('{')
-            last_brace = output.rfind('}')
-            if first_brace != -1 and last_brace != -1:
-                json_str = output[first_brace:last_brace+1]
-                parsed_json = pyjson.loads(json_str)
-                # החזר רק את הטקסט, לא את ה-JSON המלא
-                return clean_llm_text(parsed_json.get("text", output.strip()))
-        except Exception:
-            pass
-
-        # ניקוי תווי markdown אם קיימים
-        if output.startswith('```json'):
-            output = output[7:]
-        if output.startswith('```'):
-            output = output[3:]
-        if output.endswith('```'):
-            output = output[:-3]
-
-        return clean_llm_text(output.strip())
+        # ניקוי הפלט מכל סוגי JSON ותגים
+        cleaned_output = clean_llm_text(output)
+        
+        # הסרת תגים ועובדות אם עדיין קיימים
+        cleaned_output = remove_json_artifacts(cleaned_output)
+        
+        return cleaned_output
 
     except Exception as e:
         print(f"❌ Error running ollama: {e}")
         return clean_llm_text("שגיאה בעיבוד LLM: " + str(e))
+
+def remove_json_artifacts(text):
+    """Remove JSON artifacts, tags, and facts from the text"""
+    if not text:
+        return text
+    
+    # הסרת JSON מלא
+    text = re.sub(r'^\s*\{.*?"text":\s*"', '', text, flags=re.DOTALL)
+    text = re.sub(r'",\s*"tags":\s*\[.*?\]\s*,\s*"facts":\s*\[.*?\]\s*\}\s*$', '', text, flags=re.DOTALL)
+    text = re.sub(r'",\s*"tags":\s*\[.*?\]\s*\}\s*$', '', text, flags=re.DOTALL)
+    text = re.sub(r'",\s*"facts":\s*\[.*?\]\s*\}\s*$', '', text, flags=re.DOTALL)
+    text = re.sub(r'"\s*\}\s*$', '', text)
+    
+    # הסרת תגים ועובדות בודדים
+    text = re.sub(r',\s*"tags":\s*\[.*?\]', '', text, flags=re.DOTALL)
+    text = re.sub(r',\s*"facts":\s*\[.*?\]', '', text, flags=re.DOTALL)
+    
+    # הסרת markdown
+    text = re.sub(r'```json\s*', '', text)
+    text = re.sub(r'```\s*', '', text)
+    
+    # ניקוי נוסף
+    text = re.sub(r'^\s*"', '', text)
+    text = re.sub(r'"\s*$', '', text)
+    text = re.sub(r'\\n', '\n', text)
+    text = re.sub(r'\\"', '"', text)
+    
+    return text.strip()
 
 def clean_llm_text(text):
     """Clean LLM output from JSON artifacts and formatting issues"""
