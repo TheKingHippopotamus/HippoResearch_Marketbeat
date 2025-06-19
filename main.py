@@ -132,11 +132,10 @@ def process_and_create_article(ticker, original_text, original_file_name=None, t
         else:
             text_for_llm = original_text
         print(f"🤖 Processing {ticker} with aya-expanse:8b...")
-        processed_result = process_with_gemma(text_for_llm, ticker_info)
-        processed_text = processed_result["text"] if isinstance(processed_result, dict) else processed_result
-        tags = processed_result.get("tags", []) if isinstance(processed_result, dict) else []
+        processed_text = process_with_gemma(text_for_llm, ticker_info)
         print(f"📄 Processed text length: {len(processed_text)} characters")
         print(f"📄 Processed text preview: {processed_text[:100]}...")
+        tags = []
         print(f"🏷️ Tags: {tags}")
 
         # Save processed text file with date in filename

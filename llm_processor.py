@@ -29,7 +29,7 @@ def generate_prompt(original_text: str, ticker_info=None):
 - אל תשמיט אף נקודה שהוזכרה בטקסט המקורי.
 
 ✍️ כתוב בסגנון של כתבה כלכלית מקצועית ונגישה לציבור.
-📎 ענה בפורמט JSON בלבד: {{ "text": "...", "tags": [] }}
+
 
 🔎 חברה: {company}
 📂 סקטור: {sector_name}
@@ -45,7 +45,7 @@ def generate_prompt(original_text: str, ticker_info=None):
 def process_with_gemma(original_text, ticker_info=None):
     """
     Process the original text with the LLM (aya-expanse:8b) using Ollama, using ONLY rephrasing and restructuring rules.
-    Returns a dict: {"text": ..., "tags": [...]}
+    Returns the processed text as a string.
     """
     prompt = generate_prompt(original_text, ticker_info)
 
@@ -70,7 +70,9 @@ def process_with_gemma(original_text, ticker_info=None):
             last_brace = output.rfind('}')
             if first_brace != -1 and last_brace != -1:
                 json_str = output[first_brace:last_brace+1]
-                return pyjson.loads(json_str)
+                parsed_json = pyjson.loads(json_str)
+                # החזר רק את הטקסט, לא את ה-JSON המלא
+                return parsed_json.get("text", output.strip())
         except Exception:
             pass
 
@@ -82,8 +84,8 @@ def process_with_gemma(original_text, ticker_info=None):
         if output.endswith('```'):
             output = output[:-3]
 
-        return {"text": output.strip(), "tags": []}
+        return output.strip()
 
     except Exception as e:
         print(f"❌ Error running ollama: {e}")
-        return {"text": "שגיאה בעיבוד LLM: " + str(e), "tags": []}
+        return "שגיאה בעיבוד LLM: " + str(e)
