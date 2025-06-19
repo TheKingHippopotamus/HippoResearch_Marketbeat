@@ -1,145 +1,168 @@
-# 📰 Hippopotamus Research מבוסס GitHub Pages
+# 📰 Hippopotamus Research — מערכת כתבות כלכליות אוטומטית
 
-מערכת אוטומטית ליצירת כתבות כלכליות מבוססות בינה מלאכותית, עם תמיכה בפרסום ב-GitHub Pages.
-
-## 🚀 תכונות
-
-- **סקרייפינג אוטומטי** של חדשות כלכליות מ-MarketBeat
-- **עיבוד בינה מלאכותית** באמצעות מודל שפה מתקדם
-- **שמירת כתבות** בפורמט HTML מעוצב
-- **מערכת מטא-דאטה** לניהול הכתבות
-- **דף אינדקס** שמרכז את כל הכתבות
-- **תמיכה ב-GitHub Pages** לפרסום אוטומטי
-
-## 📁 מבנה הפרויקט
-
-```
-marketBit/
-├── main.py                 # הקובץ הראשי - מבצע סקרייפינג ועיבוד
-├── llm_processor.py        # עיבוד טקסט באמצעות LLM
-├── html_template.py        # תבניות HTML לכתבות
-├── articles/               # תיקיית הכתבות (נוצרת אוטומטית)
-│   ├── XOM_20241218.html
-│   ├── AAPL_20241218.html
-│   └── ...
-├── articles_metadata.json  # מטא-דאטה של כל הכתבות
-├── index.html             # דף הבית עם רשימת הכתבות
-├── static/                # קבצים סטטיים (לוגו, אייקונים)
-└── txt/           # קבצים זמניים
-```
-
-## 🛠️ התקנה והפעלה
-
-### 1. התקנת תלויות
-```bash
-pip install -r requirements.txt
-```
-
-### 2. הפעלת המערכת
-```bash
-python main.py
-```
-
-המערכת תבצע:
-1. סקרייפינג של חדשות לטיקר XOM
-2. עיבוד הטקסט באמצעות LLM
-3. יצירת כתבה בפורמט HTML
-4. שמירה בתיקיית `articles/`
-5. עדכון מטא-דאטה
-6. יצירת/עדכון דף האינדקס
-
-## 📝 פורמט שמות קבצים
-
-כל כתבה נשמרת בשם בטוח:
-- **פורמט**: `[TICKER_CLEAN]_[YYYYMMDD].html`
-- **דוגמה**: `XOM_20241218.html`
-- **טיקרים מיוחדים**: `BRK.B` → `BRK_B_20241218.html`
-
-## 📊 מטא-דאטה
-
-כל כתבה מתועדת ב-`articles_metadata.json`:
-
-```json
-{
-  "ticker": "XOM",
-  "title": "כתבה כלכלית - XOM",
-  "filename": "XOM_20241218.html",
-  "timestamp": "18/12/2024 12:19",
-  "summary": "אקסון מוביל: מאחורי הקלעים של עליית המניה..."
-}
-```
-
-## 🌐 פרסום ב-GitHub Pages
-
-### הכנה לפרסום:
-1. העלה את הפרויקט ל-GitHub repository
-2. הפעל את המערכת ליצירת כתבות
-3. וודא שקובץ `index.html` נמצא בשורש הפרויקט
-
-### הגדרת GitHub Pages:
-1. לך ל-Settings של ה-repository
-2. בחר ב-Source: "Deploy from a branch"
-3. בחר ב-branch: `main` ו-folder: `/ (root)`
-4. שמור את ההגדרות
-
-האתר יהיה זמין בכתובת: `https://[username].github.io/[repository-name]`
-
-### איך זה עובד:
-- **דף הבית** (`index.html`) הוא קובץ סטטי שמטען כתבות דינמית
-- **JavaScript** קורא את `articles_metadata.json` ומציג את הכתבות
-- **כל כתבה** נשמרת כקובץ HTML נפרד בתיקיית `articles/`
-- **המערכת** מתעדכנת אוטומטית כשנוספות כתבות חדשות
-
-## 🎨 עיצוב
-
-המערכת כוללת:
-- **עיצוב מודרני** עם גרדיאנטים ואנימציות
-- **תמיכה בעברית** עם כיוון RTL
-- **עיצוב רספונסיבי** למובייל ודסקטופ
-- **כרטיסי כתבות** מעוצבים בדף הבית
-
-## 🔧 התאמות
-
-### שינוי טיקר ברירת מחדל:
-עדכן את השורה האחרונה ב-`main.py`:
-```python
-if __name__ == "__main__":
-    capture_summary_exact("AAPL")  # במקום XOM
-```
-
-### הוספת טיקרים מרובים:
-```python
-tickers = ["XOM", "AAPL", "MSFT", "GOOGL"]
-for ticker in tickers:
-    capture_summary_exact(ticker)
-```
-
-## 📈 סטטיסטיקות
-
-דף הבית מציג:
-- מספר הכתבות הכולל
-- תאריך הכתבה האחרונה
-- כרטיסי כתבות עם תקצירים
-
-## 🚨 פתרון בעיות
-
-### בעיות נפוצות:
-1. **שגיאת Chrome Driver**: וודא שיש לך Chrome מותקן
-2. **שגיאת LLM**: וודא שהמודל זמין ופועל
-3. **קבצים לא נשמרים**: וודא שיש הרשאות כתיבה לתיקייה
-
-### לוגים:
-המערכת מציגה לוגים מפורטים לכל שלב:
-- ✅ הצלחה
-- ❌ שגיאה
-- ⚠️ אזהרה
-
-## 📞 תמיכה
-
-לשאלות ותמיכה, פנה ל:
-- GitHub Issues
-- או צור קשר ישיר
+מערכת אוטומטית ליצירת, עיבוד ופרסום כתבות כלכליות מבוססות בינה מלאכותית, עם תמיכה מלאה ב-GitHub Pages, ניהול טיקרים, אוטומציה מלאה, עיצוב מודרני, וממשק חיפוש.
 
 ---
 
-**הערה**: המערכת מיועדת לשימוש חינוכי ומחקרי בלבד. וודא עמידה בתנאי השימוש של המקורות. 
+## 📢 Follow 
+- [Twitter/X של Hippopotamus Research](https://x.com/LmlyhNyr)
+
+---
+
+## 📁 מבנה הפרויקט
+```
+marketBit/
+├── articles/                # כתבות HTML בלבד
+├── assets/
+│   └── images/              # לוגו, אייקונים
+├── data/                    # קבצי נתונים: JSON, טקסט מקור/מעובד
+│   ├── articles_metadata.json
+│   ├── tickers.json
+│   ├── unavailable_tickers.json
+│   ├── processed_YYYYMMDD.json
+│   └── [TICKER]_original.txt / [TICKER]_processed.txt
+├── scripts/                 # כל הסקריפטים (Python, shell)
+│   ├── main.py
+│   ├── llm_processor.py
+│   ├── html_template.py
+│   ├── llm_prompt.py
+│   ├── auto_commit.py
+│   ├── run_processing.sh
+│   └── run_auto_commit.sh
+├── install_scripts/         # סקריפטי התקנה אוטומטיים
+│   ├── install.sh
+│   └── install.ps1
+├── index.html               # דף הבית הראשי
+├── requirements.txt
+├── README.md
+└── .gitignore
+```
+
+---
+
+## 🛠️ התקנה והפעלה
+
+### א. התקנה אוטומטית (מומלץ)
+- **macOS/Linux:**
+  ```bash
+  cd install_scripts
+  bash install.sh
+  ```
+- **Windows:**
+  ```powershell
+  cd install_scripts
+  powershell -ExecutionPolicy Bypass -File install.ps1
+  ```
+- הסקריפט יטפל בכל התלויות: Python, pip, Ollama, aya-expanse:8b, venv, requirements.
+
+### ב. התקנה ידנית (למתקדמים)
+1. התקן Python 3.8+, pip, ו-virtualenv
+2. התקן Ollama לפי [הוראות האתר](https://ollama.com/download)
+3. משוך את המודל:
+   ```bash
+   ollama pull aya-expanse:8b
+   ```
+4. צור סביבה וירטואלית:
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate  # ב-Windows: venv\Scripts\activate
+   pip install -r requirements.txt
+   ```
+5. ודא ש-Ollama רץ:
+   ```bash
+   ollama serve
+   ```
+6. הרץ את המערכת כרגיל (ראה בהמשך)
+
+---
+
+## 🤖 שימוש ב-Ollama והמודל aya-expanse:8b
+- עיבוד הטקסטים מתבצע באמצעות [Ollama](https://ollama.com/) שרץ לוקלית על המחשב שלך.
+- המערכת משתמשת במודל **aya-expanse:8b** (ראה scripts/llm_processor.py).
+- יש להפעיל את Ollama לפני הרצת המערכת:
+  ```bash
+  ollama serve
+  ```
+- הסקריפט יתחבר ל-Ollama בכתובת http://localhost:11434 וישלח את הטקסט לעיבוד.
+- אם Ollama לא רץ, תופעל לוגיקת fallback פנימית.
+
+---
+
+## 🚀 תכונות עיקריות
+- **סקרייפינג אוטומטי** של חדשות ממקורות מקצועיים (MarketBeat, Finviz, Briefing.com, Zacks ועוד)
+- **עיבוד טקסט עם LLM** (מודל aya-expanse:8b)
+- **שמירת כתבות מעוצבות** ב-HTML בתיקיית `articles/`
+- **ניהול מטא-דאטה** ב-`data/articles_metadata.json`
+- **אינדקס סטטי** עם חיפוש, סינון, גלילה אופקית, כרטיסים רספונסיביים
+- **ניהול טיקרים חכם**: tickers.json, לוג יומי, unavailable, מניעת כפילויות
+- **אוטומציה מלאה**: shell scripts, auto_commit, git integration
+- **עיצוב מקצועי**: RTL, Newsletter, דיסקליימר, תמיכה במובייל
+
+---
+
+## 📊 ניהול טיקרים
+- **tickers.json**: רשימת הטיקרים לעיבוד (מבנה: { "tickers": [ ... ] })
+- **unavailable_tickers.json**: טיקרים שלא ניתן לעבד (נוצר אוטומטית)
+- **processed_YYYYMMDD.json**: לוג טיקרים שעובדו היום (נוצר אוטומטית)
+- **אין כפילויות**: כל טיקר יעובד פעם אחת ביום בלבד
+
+---
+
+## 📝 עיבוד כתבות
+- **מקור**: סקרייפינג חדשות ממקורות מגוונים
+- **עיבוד**: LLM (aya-expanse:8b) מסכם, מנתח ומייצר טקסט מקצועי
+- **קבצי טקסט**: נשמרים ב-`data/` כ-[TICKER]_original.txt ו-[TICKER]_processed.txt
+- **HTML**: כתבה מעוצבת נשמרת ב-`articles/`
+- **מטא-דאטה**: כל כתבה מתועדת ב-`data/articles_metadata.json`
+
+---
+
+## 🎨 עיצוב וממשק
+- **RTL מלא** ותמיכה בעברית
+- **כרטיסי כתבות רספונסיביים** עם גלילה אופקית במובייל
+- **חיפוש וסינון** לפי טיקר
+- **Newsletter** מובנה (iframe)
+- **דיסקליימר מקצועי** (כולל אזהרת שגיאות AI)
+- **עיצוב אחיד** בין דפי כתבה לאינדקס
+- **הדגשת כותרות פסקה** (subtle highlight)
+
+---
+
+## 🌐 פרסום ב-GitHub Pages
+1. העלה את כל התיקיות והקבצים ל-repository
+2. ודא ש-`index.html` בשורש
+3. הגדר את GitHub Pages ל-root של ה-main branch
+4. כל commit דוחף כתבות חדשות לאתר
+
+---
+
+## 🔧 התאמות ושדרוגים
+- ניתן להוסיף/להסיר טיקרים ב-`data/tickers.json`
+- ניתן להרחיב את הסקריפטים ב-`scripts/`
+- כל נתיב לקובץ עודכן למבנה החדש — יש לעדכן כל קוד חיצוני בהתאם
+
+---
+
+## 🚨 פתרון בעיות
+- **שגיאות סקרייפינג**: טיקר יתווסף אוטומטית ל-unavailable
+- **בעיות Git**: ודא הרשאות, branch, ו-remote
+- **בעיות LLM**: ודא זמינות מודל
+- **הרצת סקריפטים**: ודא שאתה ב-scripts/
+
+---
+
+## 🛡️ רישיון
+
+**עברית:**
+כל הזכויות שמורות © 2024 Hippopotamus Research - Nir Elmaliah
+הקוד, התוכן, והעיצוב בפרויקט זה הם קנייניים ואינם קוד פתוח. אין להעתיק, להפיץ, לשנות, להשתמש, או למסחר את הקוד או כל חלק ממנו, ללא אישור מפורש ובכתב מהיוצר. הפרה של תנאים אלו עלולה להוביל להליכים משפטיים.
+
+**English:**
+All rights reserved © 2024 Hippopotamus Research - Nir Elmaliah
+The code, content, and design in this project are proprietary and not open source. You may not copy, distribute, modify, use, or commercialize any part of this code or content without explicit written permission from the author. Violation of these terms may result in legal action.
+
+לפרטים מלאים ראה קובץ [LICENSE](LICENSE)
+
+---
+
+**הערה מקצועית**: המערכת מיועדת למחקר/למידה בלבד. ייתכנו טעויות ניסוח/תרגום/עובדות עקב שימוש ב-AI. יש להצליב מידע עם מקורות נוספים. אין לראות בניתוחים המלצה לפעולה. 
