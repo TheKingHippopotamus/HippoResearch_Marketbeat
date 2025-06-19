@@ -1,46 +1,14 @@
-import time
-import re
 
-def clean_text_for_html(text):
-    """Clean and format text for HTML display"""
-    # Remove markdown symbols and clean up formatting
-    text = re.sub(r'^#+\s*', '', text, flags=re.MULTILINE)  # Remove # headers
-    text = re.sub(r'\*\*(.*?)\*\*', r'<strong>\1</strong>', text)  # Convert **bold** to HTML
-    text = re.sub(r'\*(.*?)\*', r'<em>\1</em>', text)  # Convert *italic* to HTML
-    text = re.sub(r'^\s*[-•]\s*', '• ', text, flags=re.MULTILINE)  # Clean bullet points
-    
-    # Split into paragraphs and clean up
-    paragraphs = text.split('\n\n')
-    cleaned_paragraphs = []
-    
-    for para in paragraphs:
-        para = para.strip()
-        if para:
-            # If it looks like a header (short, ends with colon, or all caps)
-            if len(para) < 100 and (para.endswith(':') or para.isupper() or para.startswith('##')):
-                cleaned_paragraphs.append(f'<h3 class="section-header">{para.replace("##", "").strip()}</h3>')
-            else:
-                cleaned_paragraphs.append(f'<p>{para}</p>')
-    
-    return '\n'.join(cleaned_paragraphs)
-
-def create_html_content(ticker, summary_text):
-    """Create a beautifully formatted HTML content for the institutional research report"""
-    
-    # Clean and format the text
-    formatted_content = clean_text_for_html(summary_text)
-    
-    html_content = f"""
 <!DOCTYPE html>
 <html lang="he" dir="rtl">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>דוח ניתוח סיבתיות - {ticker}</title>
+    <title>דוח ניתוח סיבתיות - INTC</title>
     <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <style>
-        :root {{
+        :root {
             --primary-color: #1a1a2e;
             --secondary-color: #16213e;
             --accent-color: #0f3460;
@@ -51,15 +19,15 @@ def create_html_content(ticker, summary_text):
             --gradient-accent: linear-gradient(135deg, #e94560 0%, #ff6b6b 100%);
             --shadow-primary: 0 20px 40px rgba(26, 26, 46, 0.15);
             --shadow-accent: 0 10px 30px rgba(233, 69, 96, 0.3);
-        }}
+        }
         
-        * {{
+        * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
-        }}
+        }
         
-        body {{
+        body {
             font-family: 'Heebo', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             background: var(--gradient-primary);
             min-height: 100vh;
@@ -69,9 +37,9 @@ def create_html_content(ticker, summary_text):
             line-height: 1.6;
             position: relative;
             overflow-x: hidden;
-        }}
+        }
         
-        body::before {{
+        body::before {
             content: '';
             position: fixed;
             top: 0;
@@ -84,10 +52,10 @@ def create_html_content(ticker, summary_text):
                 radial-gradient(circle at 40% 40%, rgba(22, 33, 62, 0.1) 0%, transparent 50%);
             pointer-events: none;
             z-index: -1;
-        }}
+        }
         
-        .container {{
-            max-width: 98vw;
+        .container {
+            max-width: 1000px;
             margin: 0 auto;
             background: rgba(255, 255, 255, 0.95);
             border-radius: 20px;
@@ -95,17 +63,17 @@ def create_html_content(ticker, summary_text):
             overflow: hidden;
             backdrop-filter: blur(10px);
             border: 1px solid rgba(255, 255, 255, 0.2);
-        }}
+        }
         
-        .header {{
+        .header {
             background: var(--gradient-primary);
             color: var(--text-light);
             padding: 0;
             position: relative;
             overflow: hidden;
-        }}
+        }
         
-        .header::before {{
+        .header::before {
             content: '';
             position: absolute;
             top: -50%;
@@ -116,29 +84,29 @@ def create_html_content(ticker, summary_text):
                 radial-gradient(circle at 30% 30%, rgba(233, 69, 96, 0.2) 0%, transparent 50%),
                 radial-gradient(circle at 70% 70%, rgba(15, 52, 96, 0.2) 0%, transparent 50%);
             animation: float 6s ease-in-out infinite;
-        }}
+        }
         
-        @keyframes float {{
-            0%, 100% {{ transform: translateY(0px) rotate(0deg); }}
-            50% {{ transform: translateY(-20px) rotate(180deg); }}
-        }}
+        @keyframes float {
+            0%, 100% { transform: translateY(0px) rotate(0deg); }
+            50% { transform: translateY(-20px) rotate(180deg); }
+        }
         
-        .header-content {{
+        .header-content {
             position: relative;
             z-index: 2;
             padding: 40px 30px;
             display: flex;
             align-items: center;
             justify-content: space-between;
-        }}
+        }
         
-        .logo-section {{
+        .logo-section {
             display: flex;
             align-items: center;
             gap: 20px;
-        }}
+        }
         
-        .logo-container {{
+        .logo-container {
             position: relative;
             width: 120px;
             height: 120px;
@@ -150,14 +118,14 @@ def create_html_content(ticker, summary_text):
             box-shadow: var(--shadow-accent);
             animation: pulse 2s ease-in-out infinite;
             overflow: hidden;
-        }}
+        }
         
-        @keyframes pulse {{
-            0%, 100% {{ transform: scale(1); }}
-            50% {{ transform: scale(1.05); }}
-        }}
+        @keyframes pulse {
+            0%, 100% { transform: scale(1); }
+            50% { transform: scale(1.05); }
+        }
         
-        .logo-container::before {{
+        .logo-container::before {
             content: '';
             position: absolute;
             top: -5px;
@@ -169,28 +137,28 @@ def create_html_content(ticker, summary_text):
             z-index: -1;
             opacity: 0.3;
             animation: pulse 2s ease-in-out infinite reverse;
-        }}
+        }
         
-        .logo-image {{
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
+        .logo-image {
+            width: 100px;
+            height: 100px;
+            object-fit: contain;
             border-radius: 50%;
-            display: block;
-        }}
+            z-index: 2;
+        }
         
-        .logo-image img {{
+        .logo-image img {
             width: 100%;
             height: 100%;
             object-fit: contain;
             border-radius: 50%;
-        }}
+        }
         
-        .brand-info {{
+        .brand-info {
             text-align: right;
-        }}
+        }
         
-        .brand-name {{
+        .brand-name {
             font-size: 2.2em;
             font-weight: 700;
             margin-bottom: 5px;
@@ -198,21 +166,21 @@ def create_html_content(ticker, summary_text):
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
             background-clip: text;
-        }}
+        }
         
-        .brand-subtitle {{
+        .brand-subtitle {
             font-size: 1.1em;
             opacity: 0.9;
             font-weight: 300;
-        }}
+        }
         
-        .social-section {{
+        .social-section {
             display: flex;
             align-items: center;
             gap: 15px;
-        }}
+        }
         
-        .twitter-link {{
+        .twitter-link {
             display: flex;
             align-items: center;
             gap: 10px;
@@ -224,35 +192,35 @@ def create_html_content(ticker, summary_text):
             transition: all 0.3s ease;
             backdrop-filter: blur(10px);
             border: 1px solid rgba(255, 255, 255, 0.2);
-        }}
+        }
         
-        .twitter-link:hover {{
+        .twitter-link:hover {
             background: rgba(233, 69, 96, 0.2);
             transform: translateY(-2px);
             box-shadow: 0 10px 20px rgba(233, 69, 96, 0.3);
-        }}
+        }
         
-        .twitter-icon {{
+        .twitter-icon {
             width: 20px;
             height: 20px;
             object-fit: contain;
-        }}
+        }
         
-        .ticker-badge {{
+        .ticker-badge {
             background: var(--gradient-accent);
             padding: 8px 16px;
             border-radius: 20px;
             font-weight: 600;
             font-size: 1.1em;
             box-shadow: var(--shadow-accent);
-        }}
+        }
         
-        .content {{
+        .content {
             padding: 50px 40px;
             color: var(--text-dark);
-        }}
+        }
         
-        .article-content {{
+        .article-content {
             background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
             border-radius: 15px;
             padding: 40px;
@@ -260,9 +228,9 @@ def create_html_content(ticker, summary_text):
             border-left: 5px solid var(--highlight-color);
             box-shadow: 0 5px 20px rgba(0,0,0,0.08);
             position: relative;
-        }}
+        }
         
-        .article-content::before {{
+        .article-content::before {
             content: '';
             position: absolute;
             top: 0;
@@ -271,20 +239,20 @@ def create_html_content(ticker, summary_text):
             height: 3px;
             background: var(--gradient-accent);
             border-radius: 15px 15px 0 0;
-        }}
+        }
         
-        .article-content p {{
+        .article-content p {
             margin-bottom: 20px;
             text-align: justify;
             line-height: 1.8;
             font-size: 1.05em;
-        }}
+        }
         
-        .article-content p:last-child {{
+        .article-content p:last-child {
             margin-bottom: 0;
-        }}
+        }
         
-        .section-header {{
+        .section-header {
             color: var(--accent-color);
             font-size: 1.4em;
             font-weight: 600;
@@ -292,9 +260,9 @@ def create_html_content(ticker, summary_text):
             padding-bottom: 10px;
             border-bottom: 2px solid var(--highlight-color);
             position: relative;
-        }}
+        }
         
-        .section-header::before {{
+        .section-header::before {
             content: '';
             position: absolute;
             bottom: -2px;
@@ -302,13 +270,13 @@ def create_html_content(ticker, summary_text):
             width: 50px;
             height: 2px;
             background: var(--gradient-accent);
-        }}
+        }
         
-        .section-header:first-child {{
+        .section-header:first-child {
             margin-top: 0;
-        }}
+        }
         
-        .highlight-box {{
+        .highlight-box {
             background: var(--gradient-primary);
             color: var(--text-light);
             padding: 25px;
@@ -317,9 +285,9 @@ def create_html_content(ticker, summary_text):
             box-shadow: var(--shadow-primary);
             position: relative;
             overflow: hidden;
-        }}
+        }
         
-        .highlight-box::before {{
+        .highlight-box::before {
             content: '';
             position: absolute;
             top: 0;
@@ -329,27 +297,27 @@ def create_html_content(ticker, summary_text):
             background: linear-gradient(45deg, transparent 30%, rgba(255,255,255,0.1) 50%, transparent 70%);
             transform: translateX(-100%);
             animation: shine 3s ease-in-out infinite;
-        }}
+        }
         
-        @keyframes shine {{
-            0% {{ transform: translateX(-100%); }}
-            50% {{ transform: translateX(100%); }}
-            100% {{ transform: translateX(100%); }}
-        }}
+        @keyframes shine {
+            0% { transform: translateX(-100%); }
+            50% { transform: translateX(100%); }
+            100% { transform: translateX(100%); }
+        }
         
-        .highlight-box strong {{
+        .highlight-box strong {
             color: var(--highlight-color);
-        }}
+        }
         
-        .footer {{
+        .footer {
             background: var(--gradient-primary);
             padding: 30px;
             text-align: center;
             color: var(--text-light);
             position: relative;
-        }}
+        }
         
-        .footer::before {{
+        .footer::before {
             content: '';
             position: absolute;
             top: 0;
@@ -357,22 +325,22 @@ def create_html_content(ticker, summary_text):
             right: 0;
             height: 1px;
             background: var(--gradient-accent);
-        }}
+        }
         
-        .timestamp {{
+        .timestamp {
             color: var(--highlight-color);
             font-weight: 500;
             margin-bottom: 10px;
             font-size: 1.1em;
-        }}
+        }
         
-        .source {{
+        .source {
             font-style: italic;
             opacity: 0.8;
             font-size: 0.95em;
-        }}
+        }
         
-        .disclaimer {{
+        .disclaimer {
             background: linear-gradient(135deg, #fff3cd 0%, #ffeaa7 100%);
             border: 2px solid #fdcb6e;
             border-radius: 12px;
@@ -381,9 +349,9 @@ def create_html_content(ticker, summary_text):
             font-size: 0.95em;
             color: #856404;
             position: relative;
-        }}
+        }
         
-        .disclaimer::before {{
+        .disclaimer::before {
             content: '⚠️';
             position: absolute;
             top: -10px;
@@ -391,112 +359,56 @@ def create_html_content(ticker, summary_text):
             background: #fff3cd;
             padding: 0 10px;
             font-size: 1.2em;
-        }}
+        }
         
-        .disclaimer strong {{
+        .disclaimer strong {
             color: #856404;
-        }}
+        }
         
-        .disclaimer h3 {{
+        .disclaimer h3 {
             color: var(--accent-color);
             margin-top: 15px;
             font-size: 1.2em;
-        }}
+        }
         
-        .back-home-btn {{
-            display: inline-flex;
-            align-items: center;
-            gap: 10px;
-            background: var(--gradient-accent);
-            color: var(--text-light);
-            font-weight: 600;
-            font-size: 1.1em;
-            padding: 12px 28px;
-            border: none;
-            border-radius: 30px;
-            box-shadow: var(--shadow-accent);
-            text-decoration: none;
-            margin: 30px 0 20px 0;
-            transition: background 0.2s, transform 0.2s;
-            cursor: pointer;
-        }}
-        .back-home-btn:hover {{
-            background: var(--highlight-color);
-            color: #fff;
-            transform: translateY(-2px) scale(1.03);
-            box-shadow: 0 8px 24px rgba(233, 69, 96, 0.25);
-        }}
-        .back-home-btn i {{
-            font-size: 1.2em;
-        }}
-        
-        .scroll-hint {{
-            display: none;
-            text-align: center;
-            color: var(--highlight-color);
-            font-size: 1.1em;
-            margin-bottom: 10px;
-            opacity: 0.85;
-            user-select: none;
-            pointer-events: none;
-            font-weight: 500;
-            letter-spacing: 0.02em;
-        }}
-        .scroll-hint i {{
-            font-size: 1.5em;
-            vertical-align: middle;
-            margin: 0 5px;
-            animation: bounce-x 1.5s infinite;
-        }}
-        @keyframes bounce-x {{
-            0%, 100% {{ transform: translateX(0); }}
-            50% {{ transform: translateX(12px); }}
-        }}
-        @media (max-width: 768px) {{
-            body {{
+        @media (max-width: 768px) {
+            body {
                 padding: 10px;
-            }}
-            .header-content {{
+            }
+            
+            .header-content {
                 flex-direction: column;
                 gap: 20px;
                 text-align: center;
-            }}
-            .brand-info {{
+            }
+            
+            .brand-info {
                 text-align: center;
-            }}
-            .brand-name {{
+            }
+            
+            .brand-name {
                 font-size: 1.8em;
-            }}
-            .content {{
+            }
+            
+            .content {
                 padding: 30px 20px;
                 font-size: 1em;
-            }}
-            .article-content {{
-                padding: 10px 0 0 0;
-                background: none;
-                border-radius: 0;
-                border: none;
-                box-shadow: none;
-                word-spacing: 0.05em;
-            }}
-            .article-content p, .article-content h3, .article-content span, .article-content strong, .article-content em {{
-                word-spacing: 0.05em;
-            }}
-            .logo-container {{
+            }
+            
+            .article-content {
+                padding: 25px;
+            }
+            
+            .logo-container {
                 width: 80px;
                 height: 80px;
-            }}
-            .logo-image {{
+            }
+            
+            .logo-image {
                 width: 70px;
                 height: 70px;
-            }}
-            .back-home-btn {{
-                width: 100%;
-                justify-content: center;
-                font-size: 1em;
-                padding: 12px 0;
-            }}
-        }}
+            }
+        }
     </style>
 </head>
 <body>
@@ -514,8 +426,8 @@ def create_html_content(ticker, summary_text):
                 </div>
                 
                 <div class="social-section">
-                    <div class="ticker-badge">{ticker}</div>
-                    <a href="https://x.com/LmlyhNyr" class="twitter-link" target="_blank">
+                    <div class="ticker-badge">INTC</div>
+                    <a href="https://twitter.com/your_twitter_handle" class="twitter-link" target="_blank">
                         <img src="x.png" alt="X (Twitter)" class="twitter-icon">
                         <span>עקבו אחרינו</span>
                     </a>
@@ -524,18 +436,20 @@ def create_html_content(ticker, summary_text):
         </div>
         
         <div class="content">
-            <a href="../index.html" class="back-home-btn"><i class="fas fa-home"></i> חזרה לדף הבית</a>
-            <div class="scroll-hint"><i class="fas fa-angle-double-left"></i> גלול לצדדים <i class="fas fa-angle-double-right"></i></div>
-            <div class="newsletter-section" style="margin: 0 auto 30px auto; max-width: 600px; text-align: center;">
-                <h3 style="color: var(--accent-color); margin-bottom: 10px; font-size: 1.2em;">הצטרפו לרשימת התפוצה שלנו</h3>
-                <iframe
-                    scrolling="no"
-                    style="width:100%!important;height:220px;border:1px #ccc solid !important;border-radius:12px;background:#fff;"
-                    src="https://buttondown.com/nirstam?as_embed=true"
-                ></iframe>
-            </div>
             <div class="article-content">
-                {formatted_content}
+                <h3 class="section-header">ניתוח תנועת המניה של אינטל (INTC) - סקירה יומית</h3>
+<p>הקדמה
+מניית אינטל, הענקית הטכנולוגית, מציגה תנודתיות לאחרונה, אך יש כמה מגמות ומהלכים אסטרטגיים בולטים שמעצבים את נתיב המניה. הדוח שלפנינו חושף ניתוח מעמיק של גורמים משפיעים על תנועות השוק היומיות, תוך התמקדות בצעדים האחרונים שנקטה החברה.</p>
+<p>הנהלה ומוסדות: החזון החדש של ליפ-בו טאן
+המנכ"ל ליפ-בו טאן מוביל תוכנית הבראה אגרסיבית לאינטל, עם דגש על חידושים בטכנולוגיית בינה מלאכותית והנדסה. הצעדים האסטרטגיים כוללים השקות מוצרים תחרותיות יותר, כמו ערכת המאיץ Gaudi 3, במחיר נמוך מזה של מתחרותיה, מה שמצביע על אסטרטגיה אגרסיבית להגדלת נתח השוק במרכזי נתונים ובינה מלאכותית. מינויים בכירים בצוות ההנדסה והמכירות מחזקים את השינוי הזה, ומבטיחים התמקדות מחודשת בחדשנות.</p>
+<p>רגולציה וממשל תאגידי: שיפור אך אתגרים נותרים
+מעצרו של חשוד במעילה פנימית מצביע על מאמצים משופרים בצמצום סיכוני ממשל תאגידי, מה שמחזק את המסר שהחברה לוקחת ברצינות את האחריות התאגידית. עם זאת, ההשפעה הישירה על הביצועים הפיננסיים מוגבלת. במקביל, תוכניות הפיטורים המרשימות של 10,000 עובדים מעלות דאגות לגבי עלויות השינוי והשפעתן על המורל בחברה.</p>
+<p>מגמות סקטוריאליות והתפתחויות בשוק: בינה מלאכותית כגורם מפתח
+השינויים האחרונים באינטל מגיעים על רקע טרנד גלובלי של אימוץ בינה מלאכותית וטכנולוגיות מתקדמות. הערכת האנליסטים את החברה כ"חסרת ערך" מצביעה על ציפייה לפוטנציאל צמיחה ארוך טווח, במיוחד בתחומי הבינה המלאכותית והנתונים. תמחור אגרסיבי של מוצרים חדשים יכול להיות נקודת מפנה, אך הקיצוצים בתחזיות הרווח מדגישים את האתגרים הרצופים בחזרה לרווחיות עקבית.</p>
+<p>דיבידנד ומימון: פוטנציאל למהלך משמעותי
+הדיונים המתקדמים למכירת יחידת Networking & Edge (NEX) מציעים הזדמנות מימונית משמעותית, עם הערכות שווי של 10-12 מיליארד דולר. מזומנים אלה יכולים לחזק את המאזן ולספק הון להמשך השקעות אסטרטגיות. צעד כזה עשוי לשפר את הביטחון בקרב המשקיעים, במיוחד אם יתורגם לצמיחה ויציבות במניה בטווח הארוך.</p>
+<p>סיכום: איזון עדין בין תקווה לסקפטיות
+המצב הנוכחי של מניית אינטל מציג איזון עדין. הצעדים האסטרטגיים של החברה, כולל חדשנות במחירי מוצרים ומינויים בכירים, מספקים אופטימיות מסוימת. עם זאת, הקיצוצים בתחזיות הרווח ותוכניות הפיטורים המרשימות יוצרות סקפטיות לגבי היכולת של החברה לחזור לצמיחה עקבית. המשך מעקב אחר ההתפתחויות בתעשיית הטכנולוגיה והביצועים הפיננסיים של אינטל חיוני להבנת הכיוון העתידי של המניה.</p>
             </div>
             
             <div class="disclaimer">
@@ -544,18 +458,16 @@ def create_html_content(ticker, summary_text):
                 <br><br>
                 <strong>הערה:</strong> הניתוח נוצר באמצעות מודל בינה מלאכותית ועלול לכלול שגיאות כתיב או ניסוח. אנו מתנצלים מראש על אי-הדיוקים האפשריים.
                 <br><br>
-                <strong>מקורות המידע:</strong> Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl,MarketBeat
+                <strong>מקורות המידע:</strong> Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl
                 <h3>Hippopotamus Research</h3>
             </div>
         </div>
         
         <div class="footer">
-            <div class="timestamp">נוצר ב: {time.strftime('%d/%m/%Y %H:%M')}</div>
-            <div class="source">מקורות: Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl,MarketBeat | ניתוח באמצעות aya-expanse:8b</div>
+            <div class="timestamp">נוצר ב: 19/06/2025 12:13</div>
+            <div class="source">מקורות: Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl | ניתוח באמצעות aya-expanse:8b</div>
         </div>
     </div>
 </body>
 </html>
-    """
     
-    return html_content 
