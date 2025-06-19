@@ -451,6 +451,40 @@
                 display: block;
             }
         }
+        .search-bar {
+            width: 100%;
+            max-width: 400px;
+            margin: 0 auto 25px auto;
+            display: flex;
+            align-items: center;
+            background: #fff;
+            border-radius: 30px;
+            box-shadow: 0 2px 8px rgba(233,69,96,0.07);
+            border: 1px solid #eee;
+            padding: 6px 18px;
+            font-size: 1.1em;
+        }
+        .search-bar input {
+            border: none;
+            outline: none;
+            background: transparent;
+            font-size: 1.1em;
+            flex: 1;
+            color: var(--text-dark);
+            padding: 10px 0;
+        }
+        .search-bar i {
+            color: var(--highlight-color);
+            margin-left: 10px;
+            font-size: 1.2em;
+        }
+        @media (max-width: 768px) {
+            .search-bar {
+                max-width: 98vw;
+                font-size: 1em;
+                padding: 4px 10px;
+            }
+        }
     </style>
 </head>
 <body>
@@ -478,6 +512,10 @@
         </div>
         
         <div class="content">
+            <form class="search-bar" onsubmit="return false;">
+                <i class="fas fa-search"></i>
+                <input type="text" id="searchInput" placeholder="חפש טיקר (למשל: AAPL, TSLA, META)" autocomplete="off">
+            </form>
             <div class="welcome-section">
                 <h2>ניתוח סיבתיות של תנועות מניה</h2>
                 <p>Hippopotamus Research הוא גוף עצמאי המתמחה בניתוח סיבתיות של תנועות מניה בסיום יום המסחר.</p>
@@ -570,35 +608,41 @@
             });
         }
         
-        function displayArticles(metadata) {
+        function displayArticles(metadata, filterValue = "") {
             const container = document.getElementById('articles-container');
-            
             // מיון לפי זמן פרסום
             const sortedArticles = sortByPublicationTime([...metadata]);
-            
+            // סינון לפי חיפוש
+            let filtered = sortedArticles;
+            if (filterValue) {
+                const val = filterValue.trim().toLowerCase();
+                filtered = sortedArticles.filter(article => article.ticker.toLowerCase().includes(val));
+            }
             let html = `
                 <div style="background: rgba(233, 69, 96, 0.1); border-radius: 10px; padding: 20px; margin-bottom: 30px; text-align: center;">
                     <h3 style="color: var(--accent-color); margin-bottom: 10px;">📊 סטטיסטיקות</h3>
                     <p style="color: var(--text-dark); font-size: 1.1em;">סה\"כ כתבות: ${sortedArticles.length} | כתבה אחרונה: ${sortedArticles[0].timestamp}</p>
-                     <div class=\"scroll-hint\"><i class=\"fas fa-angle-double-left\"></i> גלול לצדדים <i class=\"fas fa-angle-double-right\"></i></div>
-
-                    </div>
+                    <div class=\"scroll-hint\"><i class=\"fas fa-angle-double-left\"></i> גלול לצדדים <i class=\"fas fa-angle-double-right\"></i></div>
+                </div>
                 <div class=\"articles-grid\">
             `;
-            // הוספת הכתבות בסדר הפוך - החדשות מימין
-            sortedArticles.forEach(article => {
-                html += `
-                    <div class=\"article-card\">
-                        <div class=\"article-ticker\">${article.ticker}</div>
-                        <h3 class=\"article-title\">${article.title}</h3>
-                        <p class=\"article-summary\">${article.summary}</p>
-                        <div class=\"article-meta\">
-                            <span>📅 ${article.timestamp}</span>
-                            <a href=\"articles/${article.filename}\" class=\"article-link\">קרא כתבה</a>
+            if (filtered.length === 0) {
+                html += `<div style='color:#e94560;text-align:center;width:100%;font-size:1.1em;padding:40px;'>לא נמצאו כתבות לטיקר שחיפשת</div>`;
+            } else {
+                filtered.forEach(article => {
+                    html += `
+                        <div class=\"article-card\">
+                            <div class=\"article-ticker\">${article.ticker}</div>
+                            <h3 class=\"article-title\">${article.title}</h3>
+                            <p class=\"article-summary\">${article.summary}</p>
+                            <div class=\"article-meta\">
+                                <span>📅 ${article.timestamp}</span>
+                                <a href=\"articles/${article.filename}\" class=\"article-link\">קרא כתבה</a>
+                            </div>
                         </div>
-                    </div>
-                `;
-            });
+                    `;
+                });
+            }
             html += '</div>';
             container.innerHTML = html;
         }
@@ -627,8 +671,22 @@
             `;
         }
         
+        document.getElementById('searchInput').addEventListener('input', function(e) {
+            loadArticlesWithFilter(e.target.value);
+        });
+        function loadArticlesWithFilter(filterValue) {
+            fetch('articles_metadata.json?t=' + new Date().getTime())
+                .then(r => r.json())
+                .then(metadata => displayArticles(metadata, filterValue));
+        }
+        
         // טעינת הכתבות כשהדף נטען
-        document.addEventListener('DOMContentLoaded', loadArticles);
+        document.addEventListener('DOMContentLoaded', function() {
+            loadArticles();
+            document.getElementById('searchInput').addEventListener('input', function(e) {
+                loadArticlesWithFilter(e.target.value);
+            });
+        });
     </script>
 </body>
 </html> 
