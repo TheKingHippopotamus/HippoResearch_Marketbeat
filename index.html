@@ -285,7 +285,7 @@
             margin-bottom: 20px;
             line-height: 1.6;
             display: -webkit-box;
-            -webkit-line-clamp: 3;
+            line-clamp: 3; -webkit-line-clamp: 3;
             -webkit-box-orient: vertical;
             overflow: hidden;
         }
@@ -387,19 +387,15 @@
         .scroll-hint {
             display: none;
             text-align: center;
-            color: var(--highlight-color);
-            font-size: 1.1em;
             margin-bottom: 10px;
             opacity: 0.85;
             user-select: none;
             pointer-events: none;
-            font-weight: 500;
-            letter-spacing: 0.02em;
         }
         .scroll-hint i {
-            font-size: 1.5em;
-            vertical-align: middle;
-            margin: 0 5px;
+            color: var(--highlight-color);
+            font-size: 2em;
+            margin: 0 2px;
             animation: bounce-x 1.5s infinite;
         }
         @keyframes bounce-x {
@@ -479,7 +475,7 @@
                 <p>המערכת בוחנת כל תזוזה מהותית — ומספקת הסבר ממוקד, ענייני ומבוסס נתונים לשאלה: <strong>למה המניה זזה היום?</strong></p>
                 <p>כל כתבה מבוססת על ניתוח הצהרות הנהלה, עסקאות מוסדיות, תחזיות דיבידנד, מהלכים משפטיים, תנועות פנים, שינויי רגולציה, שיח ציבורי, ותנועות סקטוריאליות. אין תיאוריה – רק מידע מסונן ומנותח בקפדנות.</p>
             </div>
-            <div class="scroll-hint"><i class="fas fa-angle-double-left"></i> גלול לצדדים <i class="fas fa-angle-double-right"></i></div>
+            <div class="scroll-hint"><i class="fas fa-angle-double-left"></i><i class="fas fa-angle-double-left"></i></div>
             <div id="articles-container">
                 <div class="loading">
                     <i class="fas fa-spinner"></i>
@@ -566,22 +562,22 @@
             let html = `
                 <div style="background: rgba(233, 69, 96, 0.1); border-radius: 10px; padding: 20px; margin-bottom: 30px; text-align: center;">
                     <h3 style="color: var(--accent-color); margin-bottom: 10px;">📊 סטטיסטיקות</h3>
-                    <p style="color: var(--text-dark); font-size: 1.1em;">סה"כ כתבות: ${sortedArticles.length} | כתבה אחרונה: ${sortedArticles[0].timestamp}</p>
+                    <p style="color: var(--text-dark); font-size: 1.1em;">סה\"כ כתבות: ${sortedArticles.length} | כתבה אחרונה: ${sortedArticles[0].timestamp}</p>
                 </div>
-                
-                <div class="articles-grid">
+                <div class=\"scroll-hint\"><i class=\"fas fa-angle-double-left\"></i><i class=\"fas fa-angle-double-left\"></i></div>
+                <div class=\"articles-grid\">
             `;
             
             // הוספת הכתבות בסדר הפוך - החדשות מימין
             sortedArticles.forEach(article => {
                 html += `
-                    <div class="article-card">
-                        <div class="article-ticker">${article.ticker}</div>
-                        <h3 class="article-title">${article.title}</h3>
-                        <p class="article-summary">${article.summary}</p>
-                        <div class="article-meta">
+                    <div class=\"article-card\">
+                        <div class=\"article-ticker\">${article.ticker}</div>
+                        <h3 class=\"article-title\">${article.title}</h3>
+                        <p class=\"article-summary\">${article.summary}</p>
+                        <div class=\"article-meta\">
                             <span>📅 ${article.timestamp}</span>
-                            <a href="articles/${article.filename}" class="article-link">קרא כתבה</a>
+                            <a href=\"articles/${article.filename}\" class=\"article-link\">קרא כתבה</a>
                         </div>
                     </div>
                 `;
