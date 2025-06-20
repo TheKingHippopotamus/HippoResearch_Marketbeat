@@ -38,7 +38,7 @@ def clean_text_for_html(text):
         if para:
             # If it looks like a header (short, ends with colon, or all caps)
             if len(para) < 100 and (para.endswith(':') or para.isupper() or para.startswith('##')):
-                cleaned_paragraphs.append(f'<h3 class="section-header">{para.replace("##", "").strip()}</h3>')
+                cleaned_paragraphs.append(f'<h2 class="section-header">{para.replace("##", "").strip()}</h2>')
             else:
                 cleaned_paragraphs.append(f'<p>{para}</p>')
     
@@ -46,7 +46,10 @@ def clean_text_for_html(text):
 
 def create_html_content(ticker, summary_text, ticker_info=None):
     """Create a beautifully formatted HTML content for the institutional research report, with company logo badge."""
-    formatted_content = clean_text_for_html(summary_text)
+    # Use the improved markdown to HTML conversion
+    from llm_processor import convert_markdown_to_html
+    
+    formatted_content = convert_markdown_to_html(summary_text)
     logo_url = get_company_logo_url(ticker, ticker_info)
     
     # Create ticker badge with logo for the header
@@ -76,6 +79,34 @@ def create_html_content(ticker, summary_text, ticker_info=None):
             margin-left: 8px;
             border-radius: 3px;
             vertical-align: middle;
+        }}
+        .article-content h1 {{
+            font-size: 1.8em;
+            font-weight: 700;
+            color: var(--accent-color);
+            margin: 20px 0 15px 0;
+            padding-bottom: 10px;
+            border-bottom: 2px solid var(--highlight-color);
+        }}
+        .article-content h2 {{
+            font-size: 1.4em;
+            font-weight: 600;
+            color: var(--accent-color);
+            margin: 25px 0 15px 0;
+            padding-bottom: 8px;
+            border-bottom: 1px solid var(--highlight-color);
+        }}
+        .article-content h3 {{
+            font-size: 1.2em;
+            font-weight: 600;
+            color: var(--accent-color);
+            margin: 20px 0 10px 0;
+        }}
+        .article-content p {{
+            font-size: 1.05em;
+            line-height: 1.7;
+            margin-bottom: 15px;
+            text-align: justify;
         }}
     </style>
     <div class="article-container">

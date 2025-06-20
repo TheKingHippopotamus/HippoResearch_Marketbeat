@@ -17,6 +17,14 @@ def clean_summary_text(text):
     text = re.sub(r'"\s*,\s*"tags":\s*\[\s*\]\s*$', '', text)
     text = re.sub(r'"\s*$', '', text)
     
+    # Remove markdown symbols
+    text = re.sub(r'^#+\s*', '', text)  # Remove markdown headers
+    text = re.sub(r'\*\*([^*]+)\*\*', r'\1', text)  # Remove bold markdown
+    text = re.sub(r'\*([^*]+)\*', r'\1', text)  # Remove italic markdown
+    
+    # Remove HTML tags
+    text = re.sub(r'<[^>]+>', '', text)  # Remove all HTML tags
+    
     # Remove newline characters and extra spaces
     text = re.sub(r'\\n', '\n', text)  # Convert \\n to actual newlines
     text = re.sub(r'\s+', ' ', text)  # Normalize whitespace

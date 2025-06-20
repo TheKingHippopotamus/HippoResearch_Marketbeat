@@ -13,6 +13,7 @@ from html_template import create_html_content
 from llm_processor import process_with_gemma
 import random
 import csv
+from clean_metadata import clean_summary_text
 
 def start_driver():
     options = Options()
@@ -176,8 +177,6 @@ def process_and_create_article(ticker, original_text, original_file_name=None, o
         processed_text = clean_llm_text(processed_text)
         print(f"📄 Processed text length: {len(processed_text)} characters")
         print(f"📄 Processed text preview: {processed_text[:100]}...")
-        tags = []
-        print(f"🏷️ Tags: {tags}")
 
         # Save processed text file with date in filename
         current_date = get_current_date()
@@ -825,8 +824,8 @@ def process_and_create_article(ticker, original_text, original_file_name=None, o
         title = f"{ticker}: למה המניה זזה היום?"
         summary = processed_text[:200] + "..." if len(processed_text) > 200 else processed_text
 
-        # Add metadata (now with tags and extra info)
-        add_article_metadata(ticker, title, html_filename, summary, tags, ticker_info)
+        # Add metadata (now without tags)
+        add_article_metadata(ticker, title, html_filename, summary, ticker_info=ticker_info)
         print(f"✅ Economic article for {ticker} saved → {html_file_path}")
         print(f"✅ Article metadata added to articles_metadata.json")
     except Exception as e:

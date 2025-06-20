@@ -126,6 +126,15 @@ def convert_markdown_to_html(text):
     if not text:
         return text
     
+    # ניקוי בסיסי
+    text = text.strip()
+    
+    # הסרת תגים כפולים או לא תקינים
+    text = re.sub(r'<h1>\s*<h1>', '<h1>', text)
+    text = re.sub(r'</h1>\s*</h1>', '</h1>', text)
+    text = re.sub(r'<p>\s*<h1>', '<h1>', text)
+    text = re.sub(r'</h1>\s*</p>', '</h1>', text)
+    
     # המרת כותרות markdown ל-HTML
     text = re.sub(r'^#\s+(.+)$', r'<h1>\1</h1>', text, flags=re.MULTILINE)
     text = re.sub(r'^##\s+(.+)$', r'<h2>\1</h2>', text, flags=re.MULTILINE)
@@ -160,7 +169,13 @@ def convert_markdown_to_html(text):
     if current_paragraph:
         processed_lines.append(f'<p>{" ".join(current_paragraph)}</p>')
     
-    return '\n'.join(processed_lines)
+    result = '\n'.join(processed_lines)
+    
+    # ניקוי נוסף של תגים כפולים - תיקון ה-regex
+    result = re.sub(r'<p>\s*<h([1-6])>', r'<h\1>', result)
+    result = re.sub(r'</h([1-6])>\s*</p>', r'</h\1>', result)
+    
+    return result
 
 def clean_llm_text(text):
     """Clean LLM output from JSON artifacts and formatting issues"""
