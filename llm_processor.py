@@ -78,20 +78,33 @@ def generate_prompt(original_text: str, ticker_info=None):
     return prompt
 
 def convert_tagged_text_to_html(text):
-    """המרת טקסט מסומן (#TITLE#, #SUBTITLE#, #PARA#) ל-HTML תקני"""
+    """
+    המרת טקסט מסומן (#TITLE#, #SUBTITLE#, #PARA#) ל-HTML תקני, גם אם הסימונים באמצע שורה או עם # מיותר
+    """
+    # Normalize all markers to canonical form (e.g. ## SUBTITLE# -> #SUBTITLE#)
+    text = re.sub(r'#+\s*SUBTITLE#', '#SUBTITLE#', text)
+    text = re.sub(r'#+\s*TITLE#', '#TITLE#', text)
+    text = re.sub(r'#+\s*PARA#', '#PARA#', text)
+
+    # Split text by markers, keeping the marker in the result
+    parts = re.split(r'(#TITLE#|#SUBTITLE#|#PARA#)', text)
     html_lines = []
-    for line in text.splitlines():
-        line = line.strip()
-        if not line:
+    current_tag = None
+    for part in parts:
+        part = part.strip()
+        if not part:
             continue
-        if line.startswith("#TITLE#"):
-            html_lines.append(f"<h1>{line[len('#TITLE#'):].strip()}</h1>")
-        elif line.startswith("#SUBTITLE#"):
-            html_lines.append(f"<h2>{line[len('#SUBTITLE#'):].strip()}</h2>")
-        elif line.startswith("#PARA#"):
-            html_lines.append(f"<p>{line[len('#PARA#'):].strip()}</p>")
+        if part in ['#TITLE#', '#SUBTITLE#', '#PARA#']:
+            current_tag = part
         else:
-            html_lines.append(f"<p>{line}</p>")
+            if current_tag == '#TITLE#':
+                html_lines.append(f"<h1>{part}</h1>")
+            elif current_tag == '#SUBTITLE#':
+                html_lines.append(f"<h2>{part}</h2>")
+            elif current_tag == '#PARA#':
+                html_lines.append(f"<p>{part}</p>")
+            else:
+                html_lines.append(f"<p>{part}</p>")
     return '\n'.join(html_lines)
 
 # הפעלת מודל Ollama עם prompt מעודכן
