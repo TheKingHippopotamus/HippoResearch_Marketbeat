@@ -138,34 +138,14 @@ def scrape_text_from_website(ticker, output_dir="txt"):
         driver.quit()
         print("🌐 Browser closed")
 
-def html_to_clean_text(html_content):
-    """Convert HTML content to clean text while preserving paragraph structure"""
-    if not html_content:
-        return ""
-    
-    # Remove HTML tags but preserve paragraph breaks
-    text = re.sub(r'</?(p|br|div)[^>]*>', '\n', html_content)
-    # Remove other HTML tags
-    text = re.sub(r'<[^>]+>', '', text)
-    # Clean up extra whitespace and newlines
-    text = re.sub(r'\n\s*\n', '\n\n', text)
-    text = re.sub(r' +', ' ', text)
-    return text.strip()
-
 def process_and_create_article(ticker, original_text, original_file_name=None, original_html=None, original_html_file_name=None, ticker_info=None, output_dir="txt"):
     """Process text with LLM and create article files, including causal tags and extra metadata"""
     try:
         ticker_info = ticker_info or {}
         
-        # Use HTML content if available, otherwise fall back to text
-        if original_html and original_html_file_name:
-            # Read from HTML file to preserve formatting
-            original_html_file_path = os.path.join(output_dir, original_html_file_name)
-            with open(original_html_file_path, 'r', encoding='utf-8') as f:
-                html_content = f.read()
-            text_for_llm = html_to_clean_text(html_content)
-        elif original_file_name:
-            # Fall back to text file
+        # Always use the clean text for LLM processing, not HTML
+        if original_file_name:
+            # Use the clean text file
             original_file_path = os.path.join(output_dir, original_file_name)
             with open(original_file_path, 'r', encoding='utf-8') as f:
                 text_for_llm = f.read()
@@ -192,9 +172,7 @@ def process_and_create_article(ticker, original_text, original_file_name=None, o
         print(f"✅ Verified processed file: {len(saved_processed)} characters")
 
         # Read original file for comparison
-        if original_html_file_name:
-            original_file_path = os.path.join(output_dir, original_html_file_name)
-        elif original_file_name:
+        if original_file_name:
             original_file_path = os.path.join(output_dir, original_file_name)
         else:
             original_file_path = os.path.join(output_dir, f"{ticker}_original.txt")
