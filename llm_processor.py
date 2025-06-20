@@ -152,12 +152,11 @@ def remove_json_artifacts(text):
     return text.strip()
 
 def convert_markdown_to_html(text):
-    """Convert markdown formatting to proper HTML tags with short paragraphs and <br> for readability, including links and images."""
+    """Convert markdown formatting to proper HTML tags with short paragraphs and <br> for readability, including links and images. לא ייווצרו תגי <h1> כפולים ולא divים מיותרים."""
     if not text:
         return text
-    
     text = text.strip()
-    
+
     # טיפול מיוחד ב-## שמופיעים בתוך הטקסט (לא בתחילת שורה)
     if '##' in text:
         parts = text.split('##')
@@ -170,58 +169,63 @@ def convert_markdown_to_html(text):
                     title = title[2:].strip()
                 elif title.startswith('#'):
                     title = title[1:].strip()
+                # הסר תגי h1 מיותרים
+                title = re.sub(r'<h1>(.*?)</h1>', r'\1', title)
                 result_parts.append(f'<h1>{title}</h1>')
             for i, part in enumerate(parts[1:], 1):
                 part = part.strip()
                 if part:
                     lines = part.split('\n', 1)
                     if len(lines) > 1:
-                        title = lines[0].strip()
+                        subtitle = lines[0].strip()
                         content = lines[1].strip()
-                        result_parts.append(f'<h2>{title}</h2>')
+                        # הסר תגי h2 מיותרים
+                        subtitle = re.sub(r'<h2>(.*?)</h2>', r'\1', subtitle)
+                        result_parts.append(f'<h2>{subtitle}</h2>')
                         if content:
                             result_parts.append(content)
                     else:
-                        result_parts.append(f'<h2>{part}</h2>')
+                        subtitle = re.sub(r'<h2>(.*?)</h2>', r'\1', part)
+                        result_parts.append(f'<h2>{subtitle}</h2>')
             text = '\n'.join(result_parts)
-    
+
     # כותרות markdown רגילות
     text = re.sub(r'^#\s+(.+)$', r'<h1>\1</h1>', text, flags=re.MULTILINE)
     text = re.sub(r'^##\s+(.+)$', r'<h2>\1</h2>', text, flags=re.MULTILINE)
     text = re.sub(r'^###\s+(.+)$', r'<h3>\1</h3>', text, flags=re.MULTILINE)
     text = re.sub(r'^####\s+(.+)$', r'<h4>\1</h4>', text, flags=re.MULTILINE)
-    
+
     # bold/italic
     text = re.sub(r'\*\*([^*]+)\*\*', r'<strong>\1</strong>', text)
     text = re.sub(r'\*([^*]+)\*', r'<em>\1</em>', text)
 
-    # לינקים: [טקסט](url) => <a href="url">טקסט</a>
+    # לינקים: [טקסט](url) => <a href="url" target="_blank">טקסט</a>
     text = re.sub(r'\[([^\]]+)\]\(([^)]+)\)', r'<a href="\2" target="_blank">\1</a>', text)
     # תמונות: ![alt](url) => <img src="url" alt="alt">
     text = re.sub(r'!\[([^\]]*)\]\(([^)]+)\)', r'<img src="\2" alt="\1">', text)
-    
+
+    # הסר עטיפות כפולות של כותרות (למשל <h1><h1>...</h1></h1>)
+    text = re.sub(r'<h1>\s*<h1>(.*?)</h1>\s*</h1>', r'<h1>\1</h1>', text, flags=re.DOTALL)
+    text = re.sub(r'<h2>\s*<h2>(.*?)</h2>\s*</h2>', r'<h2>\1</h2>', text, flags=re.DOTALL)
+    text = re.sub(r'<h3>\s*<h3>(.*?)</h3>\s*</h3>', r'<h3>\1</h3>', text, flags=re.DOTALL)
+
     # פיצול לשורות וטיפול נפרד בכותרות ופסקאות
     lines = text.split('\n')
     result_lines = []
-    
     for line in lines:
         line = line.strip()
         if not line:
             continue
-            
         # אם זו כותרת HTML, הוסף אותה כמו שהיא
-        if line.startswith('<h') and line.endswith('>'):
+        if re.match(r'<h[1-4]>.*</h[1-4]>', line):
             result_lines.append(line)
         else:
             # אם זו פסקה רגילה, עטוף ב-<p>
             result_lines.append(f'<p>{line}</p>')
-    
     # חיבור עם <br> בין אלמנטים
     html = '<br>\n'.join(result_lines)
-    
     # ניקוי נוסף - הסרת <p> ריקים
     html = re.sub(r'<p>\s*</p>', '', html)
-    
     return html
 
 def clean_llm_text(text):
