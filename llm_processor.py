@@ -2,10 +2,19 @@ import pandas as pd
 import subprocess
 import json as pyjson
 import re
+import os
 
-# קריאת מיפוי טיקרים לסקטורים
-sector_map_df = pd.read_csv("/Users/kinghippo/Documents/rssFeed/marketBit/data/flat-ui__data-Thu Jun 19 2025.csv")
-sector_map = dict(zip(sector_map_df['Tickers'], sector_map_df['GICS Sector']))
+# קריאת מיפוי טיקרים לסקטורים - עם טיפול במקרה שהקובץ לא קיים
+sector_map = {}
+csv_path = "/Users/kinghippo/Documents/rssFeed/marketBit/data/flat-ui__data-Thu Jun 19 2025.csv"
+if os.path.exists(csv_path):
+    try:
+        sector_map_df = pd.read_csv(csv_path)
+        sector_map = dict(zip(sector_map_df['Tickers'], sector_map_df['GICS Sector']))
+    except Exception as e:
+        print(f"⚠️ Warning: Could not load sector mapping: {e}")
+else:
+    print("⚠️ Warning: CSV file not found, sector mapping will be empty")
 
 # פרומפט מעודכן לפי דרישות המשתמש – שכתוב בלבד, ללא פרשנות
 def generate_prompt(original_text: str, ticker_info=None):
@@ -129,17 +138,15 @@ def convert_markdown_to_html(text):
     # ניקוי בסיסי
     text = text.strip()
     
-    # הסרת תגים כפולים או לא תקינים
-    text = re.sub(r'<h1>\s*<h1>', '<h1>', text)
-    text = re.sub(r'</h1>\s*</h1>', '</h1>', text)
-    text = re.sub(r'<p>\s*<h1>', '<h1>', text)
-    text = re.sub(r'</h1>\s*</p>', '</h1>', text)
-    
-    # המרת כותרות markdown ל-HTML
+    # המרת כותרות markdown ל-HTML (קודם כל)
     text = re.sub(r'^#\s+(.+)$', r'<h1>\1</h1>', text, flags=re.MULTILINE)
     text = re.sub(r'^##\s+(.+)$', r'<h2>\1</h2>', text, flags=re.MULTILINE)
     text = re.sub(r'^###\s+(.+)$', r'<h3>\1</h3>', text, flags=re.MULTILINE)
     text = re.sub(r'^####\s+(.+)$', r'<h4>\1</h4>', text, flags=re.MULTILINE)
+    
+    # המרת bold markdown ל-HTML
+    text = re.sub(r'\*\*([^*]+)\*\*', r'<strong>\1</strong>', text)
+    text = re.sub(r'\*([^*]+)\*', r'<em>\1</em>', text)
     
     # המרת פסקאות
     lines = text.split('\n')
@@ -171,9 +178,15 @@ def convert_markdown_to_html(text):
     
     result = '\n'.join(processed_lines)
     
-    # ניקוי נוסף של תגים כפולים - תיקון ה-regex
+    # ניקוי נוסף של תגים כפולים
     result = re.sub(r'<p>\s*<h([1-6])>', r'<h\1>', result)
     result = re.sub(r'</h([1-6])>\s*</p>', r'</h\1>', result)
+    
+    # הסרת תגים כפולים או לא תקינים
+    result = re.sub(r'<h1>\s*<h1>', '<h1>', result)
+    result = re.sub(r'</h1>\s*</h1>', '</h1>', result)
+    result = re.sub(r'<p>\s*<h1>', '<h1>', result)
+    result = re.sub(r'</h1>\s*</p>', '</h1>', result)
     
     return result
 

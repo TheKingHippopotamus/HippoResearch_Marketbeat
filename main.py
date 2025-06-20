@@ -72,78 +72,54 @@ def find_summary_block(driver, ticker):
         return None
 
 def scrape_text_from_website(ticker, output_dir="txt"):
-    """Scrape text from website and save original file with date, preserving original formatting"""
+    """Scrape text from website and save only clean text file with date"""
     url = f"https://translate.google.com/translate?sl=en&tl=he&u=https://www.marketbeat.com/stocks/NASDAQ/{ticker}/news/"
     driver = start_driver()
     try:
         driver.get(url)
-        time.sleep(1)  # Reduced from 1.5 to 1 second
+        time.sleep(1)
 
         close_popup_if_present(driver)
 
         os.makedirs(output_dir, exist_ok=True)
-        data_dir = os.path.join(os.getcwd(), "data")
-        os.makedirs(data_dir, exist_ok=True)
 
         box = find_summary_block(driver, ticker)
         if box is None:
             raise Exception(f"No matching summary block found for {ticker}")
 
-        # Extract the HTML content from the summary block to preserve formatting
-        summary_html = box.get_attribute('innerHTML')
-        
-        # Also get the text content for preview
+        # Extract only the clean text content
         summary_text = box.text
         print(f"📄 Original text length: {len(summary_text)} characters")
         print(f"📄 Original text preview: {summary_text[:100]}...")
 
-        # Save original HTML content with date in filename (preserves formatting)
+        # Save only the clean text file with date
         current_date = get_current_date()
-        original_html_file_name = f"{ticker}_original_{current_date}.html"
-        original_html_file_path = os.path.join(output_dir, original_html_file_name)
-        if summary_html:
-            with open(original_html_file_path, 'w', encoding='utf-8') as f:
-                f.write(summary_html)
-            print(f"✅ Original HTML for {ticker} saved → {original_html_file_path}")
-
-        # Also save the text version (for backward compatibility)
         original_file_name = f"{ticker}_original_{current_date}.txt"
         original_file_path = os.path.join(output_dir, original_file_name)
+        
         with open(original_file_path, 'w', encoding='utf-8') as f:
             f.write(summary_text)
         print(f"✅ Original text for {ticker} saved → {original_file_path}")
-
-        # Also save copies in /data
-        if summary_html:
-            data_html_file_path = os.path.join(data_dir, original_html_file_name)
-            with open(data_html_file_path, 'w', encoding='utf-8') as f:
-                f.write(summary_html)
-            print(f"✅ Original HTML for {ticker} also saved → {data_html_file_path}")
-
-        data_file_path = os.path.join(data_dir, original_file_name)
-        with open(data_file_path, 'w', encoding='utf-8') as f:
-            f.write(summary_text)
-        print(f"✅ Original text for {ticker} also saved → {data_file_path}")
 
         # Verify original file was saved correctly
         with open(original_file_path, 'r', encoding='utf-8') as f:
             saved_original = f.read()
         print(f"✅ Verified original file: {len(saved_original)} characters")
 
-        return summary_text, original_file_name, summary_html, original_html_file_name
+        return summary_text, original_file_name
     except Exception as e:
         print(f"❌ Error during scraping: {e}")
-        return None, None, None, None
+        return None, None
     finally:
         driver.quit()
         print("🌐 Browser closed")
 
-def process_and_create_article(ticker, original_text, original_file_name=None, original_html=None, original_html_file_name=None, ticker_info=None, output_dir="txt"):
-    """Process text with LLM and create article files, including causal tags and extra metadata"""
+def process_and_create_article(ticker, original_text, original_file_name=None, ticker_info=None, output_dir="txt"):
+    """Process text with LLM and create article files"""
     try:
         ticker_info = ticker_info or {}
         
-        # Always use the clean text for LLM processing, not HTML
+        # Use the clean text for LLM processing
         if original_file_name:
             # Use the clean text file
             original_file_path = os.path.join(output_dir, original_file_name)
@@ -813,7 +789,7 @@ def capture_summary_exact(ticker, output_dir="txt"):
     """Main function to scrape and process"""
     print(f"🚀 Starting process for {ticker}")
     # Step 1: Scrape text from website
-    original_text, original_file_name, summary_html, original_html_file_name = scrape_text_from_website(ticker, output_dir)
+    original_text, original_file_name = scrape_text_from_website(ticker, output_dir)
     if original_text is None:
         print("❌ Failed to scrape text from website")
         return
@@ -821,7 +797,7 @@ def capture_summary_exact(ticker, output_dir="txt"):
     # נטען את המידע מה-CSV עבור הטיקר
     ticker_metadata = load_ticker_metadata()
     ticker_info = ticker_metadata.get(ticker, {})
-    process_and_create_article(ticker, original_text, original_file_name, summary_html, original_html_file_name, ticker_info, output_dir)
+    process_and_create_article(ticker, original_text, original_file_name, ticker_info=ticker_info, output_dir=output_dir)
     print(f"✅ Process completed for {ticker}")
 
 def copy_static_files(output_dir):
@@ -1092,7 +1068,7 @@ def process_all_tickers():
                 continue
             # Step 2: Process with LLM (after browser is closed)
             # Pass metadata for richer processing
-            process_and_create_article(ticker, result[0], result[1], result[2], result[3], ticker_metadata.get(ticker, {}))
+            process_and_create_article(ticker, result[0], result[1], ticker_metadata.get(ticker, {}))
             today_processed.add(ticker)
             save_today_processed(today_processed)
             print("⏳ Waiting 3 seconds before committing...")
@@ -1109,17 +1085,31 @@ def process_all_tickers():
     print(f"\n🎉 Completed processing all available tickers for today!")
 
 def clean_llm_text(text):
-    """Clean LLM output from JSON artifacts and formatting issues"""
+    """Clean LLM output from JSON artifacts, HTML tags, and formatting issues"""
     if not text:
         return text
+    
+    # Remove JSON structure artifacts
     text = re.sub(r'^\s*\{\s*', '', text)
     text = re.sub(r'\s*\}\s*$', '', text)
     text = re.sub(r'^\s*"text":\s*"', '', text)
     text = re.sub(r'^\s*"":\s*"', '', text)
     text = re.sub(r'"\s*,\s*"tags":\s*\[\s*\]\s*$', '', text)
     text = re.sub(r'"\s*$', '', text)
+    
+    # Remove HTML tags
+    text = re.sub(r'<[^>]+>', '', text)
+    
+    # Remove markdown symbols
+    text = re.sub(r'^#+\s*', '', text)  # Remove markdown headers
+    text = re.sub(r'\*\*([^*]+)\*\*', r'\1', text)  # Remove bold markdown
+    text = re.sub(r'\*([^*]+)\*', r'\1', text)  # Remove italic markdown
+    
+    # Clean up newlines and whitespace
     text = re.sub(r'\\n', '\n', text)
-    text = re.sub(r'\s+', ' ', text)
+    text = re.sub(r'\n\s*\n', '\n\n', text)  # Normalize paragraph breaks
+    text = re.sub(r' +', ' ', text)  # Normalize spaces
+    
     return text.strip()
 
 if __name__ == "__main__":
