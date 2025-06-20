@@ -23,10 +23,10 @@ def get_company_logo_url(ticker, ticker_info=None):
 
 def create_html_content(ticker, summary_text, ticker_info=None):
     """Create a beautifully formatted HTML content for the institutional research report, with company logo badge."""
-    # Use the improved markdown to HTML conversion
-    from llm_processor import convert_markdown_to_html
+    # Use the improved tagged text to HTML conversion
+    from llm_processor import convert_tagged_text_to_html
     
-    formatted_content = convert_markdown_to_html(summary_text)
+    formatted_content = convert_tagged_text_to_html(summary_text)
     logo_url = get_company_logo_url(ticker, ticker_info)
     
     # Create ticker badge with logo for the header
