@@ -263,7 +263,7 @@
     "title": "HUM: למה המניה זזה היום?",
     "filename": "HUM_20250619.html",
     "timestamp": "19/06/2025 09:57",
-    "summary": "ניתוח תנועת מניית HUM: התמודדות עם אתגרים וצמיחה אסטרטגית מבט כללי: מניית Humana Inc. (HUM) חווה יום סוער, עם ירידות בשיעור X% ברקע של גורמים שונים המשפיעים על תפיסת השוק את החברה. האנליסטים מ..."
+    "summary": "ניתוח תנועת מניית HUM: התמודדות עם אתגרים וצמיחה אסטרטגי מבט כללי: מניית Humana Inc. (HUM) חווה יום סוער, עם ירידות בשיעור X% ברקע של גורמים שונים המשפיעים על תפיסת השוק את החברה. האנליסטים מ..."
   },
   {
     "ticker": "MA",
@@ -319,7 +319,7 @@
     "title": "AMD: למה המניה זזה היום?",
     "filename": "AMD_20250619.html",
     "timestamp": "19/06/2025 10:23",
-    "summary": "ניתוח תנועת מניה יומית: Advanced Micro Devices (AMD) מבוא: מניית AMD חוותה עלייה משמעותית במהלך היום, מה שמעיד על אופטימיות גוברת בקרב המשקיעים בנוגע לאסטרטגיית ה-AI של החברה, שותפויות אסטרטגי..."
+    "summary": "ניתוח תנועת מניית מניית AMD: מבוא: מניית AMD חוותה עלייה משמעותית במהלך היום, מה שמעיד על אופטימיות גוברת בקרב המשקיעים בנוגע לאסטרטגיית ה-AI של החברה, שותפויות אסטרטגי..."
   },
   {
     "ticker": "BAC",
@@ -681,29 +681,5 @@
     "GICS Sector": "Information Technology",
     "GICS Sub-Industry": "Electronic Manufacturing Services",
     "Headquarters Location": "St. Petersburg, Florida"
-  },
-  {
-    "ticker": "XOM",
-    "title": "XOM: למה המניה זזה היום?",
-    "filename": "XOM_20250620.html",
-    "timestamp": "20/06/2025 03:43",
-    "summary": "<h1>אקסון מוביל: צמיחה, דיבידנדים והזדמנויות במגזר האנרגיה ## רקע חיובי למניה ופוטנציאל לעתיד מניית אקסון מוביל (XOM) חווה עלייה לאחרונה, ומושכת את תשומת לבם של משקיעים רבים. הגורמים העיקריים למגמה הח...",
-    "tags": [],
-    "Security": "ExxonMobil",
-    "GICS Sector": "Energy",
-    "GICS Sub-Industry": "Integrated Oil & Gas",
-    "Headquarters Location": "Irving, Texas"
-  },
-  {
-    "ticker": "DOV",
-    "title": "DOV: למה המניה זזה היום?",
-    "filename": "DOV_20250620.html",
-    "timestamp": "20/06/2025 04:03",
-    "summary": "דובר קורפוריישן: הרחבה אסטרטגית, דיבידנדים חזקים והכרה בשוק ## רקע על החברה דובר קורפוריישן (NYSE: DOV), חברת ענק בתעשיית היערכות התעשייתית, ממשיכה להפתיע את השווקים עם צעדים אסטרטגיים חדשניים. לאחר ע...",
-    "tags": [],
-    "Security": "Dover Corporation",
-    "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Industrial Machinery & Supplies & Components",
-    "Headquarters Location": "Downers Grove, Illinois"
   }
 ]
