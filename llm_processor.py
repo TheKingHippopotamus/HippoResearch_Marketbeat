@@ -22,10 +22,10 @@ def generate_prompt(original_text: str, ticker_info=None):
     sector_name = ticker_info.get("GICS Sector") if ticker_info else ""
 
     prompt = f"""
-אתה כותב כתבה מקצועית עבור גוף מחקר עצמאי בשם "Hippopotamus Research".
+אתה כותב כתבה מקצועית ומרתקת עבור גוף מחקר עצמאי בשם "Hippopotamus Research".
 
 🎯 מטרתך:
-ליצור כתבה ארוכה, מסוגננת ומעניינת המכסה את כל נקודות המפתח שנמסרו, עם מבנה מקצועי ועיצוב HTML נכון.
+ליצור כתבה ארוכה, מסוגננת ומעניינת המכסה את כל נקודות המפתח שנמסרו, עם סגנון כתיבה סיפורי ומרתק.
 
 📌 מה שקיבלת:
 רשימת נקודות מפתח (key points) על חברה כלשהי, כל משפט הוא נקודת עניין נפרדת.
@@ -33,9 +33,21 @@ def generate_prompt(original_text: str, ticker_info=None):
 📌 מה עליך לעשות:
 1. **כתוב כתבה ארוכה ומקיפה** - המכסה את כל נקודות המפתח ללא יוצא מן הכלל
 2. **שמור על כל הנתונים** - מספרים, תאריכים, שמות, ציטוטים ומחירי יעד חייבים להישאר בדיוק כפי שהם
-3. **צור מבנה מקצועי עם HTML** - כותרת ראשית עם <h1>, כותרות משנה עם <h2>, פסקאות עם <p>, ואיות ברמה גבוהה
-4. **סגנון כתיבה מעניין** - כתוב בצורה שמושכת עניין וזורמת, עם חיבורים לוגיים בין הפסקאות
+3. **צור מבנה מקצועי עם HTML** - כותרת ראשית עם <h1>, כותרות משנה עם <h2>, פסקאות עם <p>
+4. **סגנון כתיבה סיפורי ומרתק** - כתוב בצורה שמושכת עניין, עם:
+   - כותרות מעניינות ומעוררות סקרנות
+   - שאלות רטוריות שמעוררות מחשבה
+   - חיבורים לוגיים וזורמים בין הפסקאות
+   - תיאורים חיים ומרתקים
+   - שימוש במטאפורות ומשחקי מילים מתאימים
 5. **מקוריות** - אל תחזור על כותרות או משפטים זהים, שמור על גיוון וחדשנות
+
+🎭 סגנון הכתיבה הרצוי:
+- **כותרות מעניינות**: "המירוץ למרחב הסייבר", "המשחק הגדול של השווקים"
+- **שאלות רטוריות**: "האם זהו רץ סוס מנצח או אשליה קצרת טווח?"
+- **תיאורים חיים**: "המניה הגיעה לשיאים חדשים, עם שיאי 52 שבועות ושיאי כל הזמנים"
+- **חיבורים זורמים**: "בעוד שהעולם מתמודד עם...", "מאחורי החגיגה הזאת..."
+- **מטאפורות מתאימות**: "המתחים הגיאופוליטיים משמשים כדלק נוסף"
 
 ⚠️ כללים חשובים:
 - אסור לשנות אף נתון מספרי או מידע חשוב
@@ -45,11 +57,11 @@ def generate_prompt(original_text: str, ticker_info=None):
 - הכתבה חייבת להיות נאמנה למידע המקורי אך מסוגננת בכתיבה
 
 ✍️ מבנה הכתבה עם HTML:
-- <h1>כותרת ראשית מעניינת</h1>
-- <h2>כותרת משנה ראשונה</h2>
-- <p>פסקה ראשונה עם תוכן...</p>
-- <h2>כותרת משנה שנייה</h2>
-- <p>פסקה שנייה עם תוכן...</p>
+- <h1>כותרת ראשית מעניינת ומעוררת סקרנות</h1>
+- <h2>כותרת משנה ראשונה - מרתקת</h2>
+- <p>פסקה ראשונה עם תוכן מעניין וזורם...</p>
+- <h2>כותרת משנה שנייה - מעוררת מחשבה</h2>
+- <p>פסקה שנייה עם תוכן מרתק...</p>
 - וכן הלאה...
 
 🔎 חברה: {company}
@@ -86,15 +98,24 @@ def process_with_gemma(original_text, ticker_info=None):
             capture_output=True
         )
         output = result.stdout.decode("utf-8").strip()
+        
+        print(f"🔍 DEBUG: Raw LLM output (first 200 chars): {output[:200]}...")
+        print(f"🔍 DEBUG: Raw LLM output contains '##': {'##' in output}")
+        print(f"🔍 DEBUG: Raw LLM output contains '<h': {'<h' in output}")
 
         # ניקוי הפלט מכל סוגי JSON ותגים
         cleaned_output = clean_llm_text(output)
+        print(f"🔍 DEBUG: After clean_llm_text (first 200 chars): {cleaned_output[:200]}...")
         
         # הסרת תגים ועובדות אם עדיין קיימים
         cleaned_output = remove_json_artifacts(cleaned_output)
+        print(f"🔍 DEBUG: After remove_json_artifacts (first 200 chars): {cleaned_output[:200]}...")
         
         # המרת markdown ל-HTML אם נדרש
         cleaned_output = convert_markdown_to_html(cleaned_output)
+        print(f"🔍 DEBUG: After convert_markdown_to_html (first 200 chars): {cleaned_output[:200]}...")
+        print(f"🔍 DEBUG: Final output contains '<h': {'<h' in cleaned_output}")
+        print(f"🔍 DEBUG: Final output contains '<p': {'<p' in cleaned_output}")
         
         return cleaned_output
 
@@ -131,64 +152,77 @@ def remove_json_artifacts(text):
     return text.strip()
 
 def convert_markdown_to_html(text):
-    """Convert markdown formatting to proper HTML tags"""
+    """Convert markdown formatting to proper HTML tags with short paragraphs and <br> for readability, including links and images."""
     if not text:
         return text
     
-    # ניקוי בסיסי
     text = text.strip()
     
-    # המרת כותרות markdown ל-HTML (קודם כל)
+    # טיפול מיוחד ב-## שמופיעים בתוך הטקסט (לא בתחילת שורה)
+    if '##' in text:
+        parts = text.split('##')
+        if len(parts) > 1:
+            result_parts = []
+            # החלק הראשון - כותרת ראשית (הסרת # אם יש)
+            if parts[0].strip():
+                title = parts[0].strip()
+                if title.startswith('# '):
+                    title = title[2:].strip()
+                elif title.startswith('#'):
+                    title = title[1:].strip()
+                result_parts.append(f'<h1>{title}</h1>')
+            for i, part in enumerate(parts[1:], 1):
+                part = part.strip()
+                if part:
+                    lines = part.split('\n', 1)
+                    if len(lines) > 1:
+                        title = lines[0].strip()
+                        content = lines[1].strip()
+                        result_parts.append(f'<h2>{title}</h2>')
+                        if content:
+                            result_parts.append(content)
+                    else:
+                        result_parts.append(f'<h2>{part}</h2>')
+            text = '\n'.join(result_parts)
+    
+    # כותרות markdown רגילות
     text = re.sub(r'^#\s+(.+)$', r'<h1>\1</h1>', text, flags=re.MULTILINE)
     text = re.sub(r'^##\s+(.+)$', r'<h2>\1</h2>', text, flags=re.MULTILINE)
     text = re.sub(r'^###\s+(.+)$', r'<h3>\1</h3>', text, flags=re.MULTILINE)
     text = re.sub(r'^####\s+(.+)$', r'<h4>\1</h4>', text, flags=re.MULTILINE)
     
-    # המרת bold markdown ל-HTML
+    # bold/italic
     text = re.sub(r'\*\*([^*]+)\*\*', r'<strong>\1</strong>', text)
     text = re.sub(r'\*([^*]+)\*', r'<em>\1</em>', text)
+
+    # לינקים: [טקסט](url) => <a href="url">טקסט</a>
+    text = re.sub(r'\[([^\]]+)\]\(([^)]+)\)', r'<a href="\2" target="_blank">\1</a>', text)
+    # תמונות: ![alt](url) => <img src="url" alt="alt">
+    text = re.sub(r'!\[([^\]]*)\]\(([^)]+)\)', r'<img src="\2" alt="\1">', text)
     
-    # המרת פסקאות
+    # פיצול לשורות וטיפול נפרד בכותרות ופסקאות
     lines = text.split('\n')
-    processed_lines = []
-    current_paragraph = []
+    result_lines = []
     
     for line in lines:
         line = line.strip()
         if not line:
-            # שורה ריקה - סיים את הפסקה הנוכחית
-            if current_paragraph:
-                processed_lines.append(f'<p>{" ".join(current_paragraph)}</p>')
-                current_paragraph = []
             continue
             
-        # אם השורה מתחילה עם תג HTML (כותרת), סיים פסקה קיימת והתחל חדשה
-        if re.match(r'^<[^>]+>', line):
-            if current_paragraph:
-                processed_lines.append(f'<p>{" ".join(current_paragraph)}</p>')
-                current_paragraph = []
-            processed_lines.append(line)
+        # אם זו כותרת HTML, הוסף אותה כמו שהיא
+        if line.startswith('<h') and line.endswith('>'):
+            result_lines.append(line)
         else:
-            # הוסף לשורה הנוכחית
-            current_paragraph.append(line)
+            # אם זו פסקה רגילה, עטוף ב-<p>
+            result_lines.append(f'<p>{line}</p>')
     
-    # הוסף פסקה אחרונה אם יש
-    if current_paragraph:
-        processed_lines.append(f'<p>{" ".join(current_paragraph)}</p>')
+    # חיבור עם <br> בין אלמנטים
+    html = '<br>\n'.join(result_lines)
     
-    result = '\n'.join(processed_lines)
+    # ניקוי נוסף - הסרת <p> ריקים
+    html = re.sub(r'<p>\s*</p>', '', html)
     
-    # ניקוי נוסף של תגים כפולים
-    result = re.sub(r'<p>\s*<h([1-6])>', r'<h\1>', result)
-    result = re.sub(r'</h([1-6])>\s*</p>', r'</h\1>', result)
-    
-    # הסרת תגים כפולים או לא תקינים
-    result = re.sub(r'<h1>\s*<h1>', '<h1>', result)
-    result = re.sub(r'</h1>\s*</h1>', '</h1>', result)
-    result = re.sub(r'<p>\s*<h1>', '<h1>', result)
-    result = re.sub(r'</h1>\s*</p>', '</h1>', result)
-    
-    return result
+    return html
 
 def clean_llm_text(text):
     """Clean LLM output from JSON artifacts and formatting issues"""
