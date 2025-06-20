@@ -746,7 +746,9 @@ def process_and_create_article(ticker, original_text, original_file_name=None, t
                 ></iframe>
             </div>
             <div class="article-content">
-                {html_content}
+                <div class="article-content-text">
+                    {processed_text}
+                </div>
             </div>
             
             <div class="disclaimer">
