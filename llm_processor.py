@@ -16,7 +16,7 @@ def generate_prompt(original_text: str, ticker_info=None):
 אתה כותב כתבה מקצועית עבור גוף מחקר עצמאי בשם "Hippopotamus Research".
 
 🎯 מטרתך:
-ליצור כתבה ארוכה, מסוגננת ומעניינת המכסה את כל נקודות המפתח שנמסרו, עם מבנה מקצועי וכותרות מתאימות.
+ליצור כתבה ארוכה, מסוגננת ומעניינת המכסה את כל נקודות המפתח שנמסרו, עם מבנה מקצועי ועיצוב HTML נכון.
 
 📌 מה שקיבלת:
 רשימת נקודות מפתח (key points) על חברה כלשהי, כל משפט הוא נקודת עניין נפרדת.
@@ -24,7 +24,7 @@ def generate_prompt(original_text: str, ticker_info=None):
 📌 מה עליך לעשות:
 1. **כתוב כתבה ארוכה ומקיפה** - המכסה את כל נקודות המפתח ללא יוצא מן הכלל
 2. **שמור על כל הנתונים** - מספרים, תאריכים, שמות, ציטוטים ומחירי יעד חייבים להישאר בדיוק כפי שהם
-3. **צור מבנה מקצועי** - כותרת ראשית, כותרות משנה, פסקאות מסודרות ואיות ברמה גבוהה
+3. **צור מבנה מקצועי עם HTML** - כותרת ראשית עם <h1>, כותרות משנה עם <h2>, פסקאות עם <p>, ואיות ברמה גבוהה
 4. **סגנון כתיבה מעניין** - כתוב בצורה שמושכת עניין וזורמת, עם חיבורים לוגיים בין הפסקאות
 5. **מקוריות** - אל תחזור על כותרות או משפטים זהים, שמור על גיוון וחדשנות
 
@@ -35,11 +35,13 @@ def generate_prompt(original_text: str, ticker_info=None):
 - אסור לבצע ניתוח או תחזיות משלך
 - הכתבה חייבת להיות נאמנה למידע המקורי אך מסוגננת בכתיבה
 
-✍️ מבנה הכתבה:
-- כותרת ראשית מעניינת
-- כותרות משנה מתאימות לכל נושא
-- פסקאות מסודרות עם מעברים חלקים
-- שפה מקצועית ונגישה
+✍️ מבנה הכתבה עם HTML:
+- <h1>כותרת ראשית מעניינת</h1>
+- <h2>כותרת משנה ראשונה</h2>
+- <p>פסקה ראשונה עם תוכן...</p>
+- <h2>כותרת משנה שנייה</h2>
+- <p>פסקה שנייה עם תוכן...</p>
+- וכן הלאה...
 
 🔎 חברה: {company}
 📂 סקטור: {sector_name}
@@ -49,7 +51,7 @@ def generate_prompt(original_text: str, ticker_info=None):
 {original_text}
 ===
 
-⚠️ חשוב מאוד: החזר רק טקסט נקי של כתבה מקצועית, ללא JSON, תגים, או מבנה מיוחד.
+⚠️ חשוב מאוד: החזר כתבה מעוצבת עם תגי HTML נכונים (<h1>, <h2>, <p>), ללא JSON, תגים, או markdown (#).
 """
     return prompt
 
@@ -66,7 +68,7 @@ def process_with_gemma(original_text, ticker_info=None):
         for k, v in ticker_info.items():
             prompt += f"{k}: {v}\n"
 
-    prompt += "\n---\nהחזר רק טקסט נקי של הכתבה, ללא JSON או תגים."
+    prompt += "\n---\nהחזר כתבה מעוצבת עם תגי HTML נכונים (<h1>, <h2>, <p>), ללא JSON או תגים."
 
     try:
         result = subprocess.run(
@@ -81,6 +83,9 @@ def process_with_gemma(original_text, ticker_info=None):
         
         # הסרת תגים ועובדות אם עדיין קיימים
         cleaned_output = remove_json_artifacts(cleaned_output)
+        
+        # המרת markdown ל-HTML אם נדרש
+        cleaned_output = convert_markdown_to_html(cleaned_output)
         
         return cleaned_output
 
@@ -115,6 +120,47 @@ def remove_json_artifacts(text):
     text = re.sub(r'\\"', '"', text)
     
     return text.strip()
+
+def convert_markdown_to_html(text):
+    """Convert markdown formatting to proper HTML tags"""
+    if not text:
+        return text
+    
+    # המרת כותרות markdown ל-HTML
+    text = re.sub(r'^#\s+(.+)$', r'<h1>\1</h1>', text, flags=re.MULTILINE)
+    text = re.sub(r'^##\s+(.+)$', r'<h2>\1</h2>', text, flags=re.MULTILINE)
+    text = re.sub(r'^###\s+(.+)$', r'<h3>\1</h3>', text, flags=re.MULTILINE)
+    text = re.sub(r'^####\s+(.+)$', r'<h4>\1</h4>', text, flags=re.MULTILINE)
+    
+    # המרת פסקאות
+    lines = text.split('\n')
+    processed_lines = []
+    current_paragraph = []
+    
+    for line in lines:
+        line = line.strip()
+        if not line:
+            # שורה ריקה - סיים את הפסקה הנוכחית
+            if current_paragraph:
+                processed_lines.append(f'<p>{" ".join(current_paragraph)}</p>')
+                current_paragraph = []
+            continue
+            
+        # אם השורה מתחילה עם תג HTML (כותרת), סיים פסקה קיימת והתחל חדשה
+        if re.match(r'^<[^>]+>', line):
+            if current_paragraph:
+                processed_lines.append(f'<p>{" ".join(current_paragraph)}</p>')
+                current_paragraph = []
+            processed_lines.append(line)
+        else:
+            # הוסף לשורה הנוכחית
+            current_paragraph.append(line)
+    
+    # הוסף פסקה אחרונה אם יש
+    if current_paragraph:
+        processed_lines.append(f'<p>{" ".join(current_paragraph)}</p>')
+    
+    return '\n'.join(processed_lines)
 
 def clean_llm_text(text):
     """Clean LLM output from JSON artifacts and formatting issues"""
