@@ -1,0 +1,105 @@
+graph TD
+    %% התחלה
+    A[הפעלת main.py<br/>__main__] --> B{איך להפעיל?}
+    B -->|process_all_tickers| C[טעינת טיקרים<br/>load_ticker_metadata]
+    B -->|ticker ספציפי| D[עיבוד טיקר בודד<br/>capture_summary_exact]
+    
+    %% טעינת נתונים
+    C --> E[load_ticker_metadata]
+    E --> F[קריאת CSV<br/>csv.DictReader]
+    F --> G[יצירת רשימה<br/>set operations]
+    G --> H[הסרת לא זמינים<br/>load_unavailable_tickers]
+    H --> I[הסרת מעובדים<br/>load_today_processed]
+    I --> J[ערבוב אקראי<br/>random.shuffle]
+    
+    %% לולאת עיבוד
+    J --> K[לולאת עיבוד<br/>for ticker in candidates]
+    K --> L[Processing ticker<br/>print statement]
+    
+    %% סקרייפינג
+    L --> M[start_driver<br/>webdriver.Chrome]
+    M --> N[ניגוש לאתר<br/>driver.get]
+    N --> O[close_popup_if_present<br/>find_element]
+    O --> P[find_summary_block<br/>WebDriverWait]
+    P --> Q{נמצא בלוק?<br/>if box is None}
+    Q -->|לא| R[הוספה ללא זמינים<br/>save_unavailable_tickers]
+    Q -->|כן| S[חילוץ טקסט<br/>box.text]
+    
+    %% שמירת טקסט מקורי
+    S --> T[שמירת טקסט<br/>open + write]
+    T --> U[txt/TICKER_original_DATE.txt<br/>get_current_date]
+    U --> V[סגירת דפדפן<br/>driver.quit]
+    
+    %% עיבוד LLM
+    V --> W[process_and_create_article<br/>main function]
+    W --> X[טעינת מידע<br/>ticker_metadata.get]
+    X --> Y[process_with_gemma<br/>llm_processor.py]
+    
+    %% llm_processor.py
+    Y --> Z[generate_prompt<br/>llm_processor.py]
+    Z --> AA[בניית prompt<br/>f-string]
+    AA --> BB[הרצת ollama<br/>subprocess.run]
+    BB --> CC[clean_llm_text<br/>llm_processor.py]
+    CC --> DD[remove_json_artifacts<br/>llm_processor.py]
+    DD --> EE[convert_tagged_text_to_html<br/>llm_processor.py]
+    EE --> FF[טקסט מעובד<br/>HTML tags]
+    
+    %% בניית HTML
+    FF --> GG[create_html_content<br/>html_template.py]
+    GG --> HH[get_company_logo_url<br/>html_template.py]
+    HH --> II[יצירת URL לוגו<br/>re.sub]
+    II --> JJ[בניית badge<br/>f-string HTML]
+    JJ --> KK[עיצוב CSS<br/>CSS styles]
+    KK --> LL[HTML מוכן<br/>return html]
+    
+    %% שמירת קבצים
+    LL --> MM[שמירת קבצים<br/>open + write]
+    MM --> NN[articles/TICKER_DATE.html<br/>create_safe_filename]
+    MM --> OO[txt/TICKER_processed_DATE.txt<br/>get_current_date]
+    MM --> PP[העתקת static<br/>copy_static_files]
+    
+    %% מטא-דאטה
+    PP --> QQ[add_article_metadata<br/>main.py]
+    QQ --> RR[עדכון metadata<br/>load_metadata + save_metadata]
+    RR --> SS[הוספת פרטים<br/>json.dump]
+    SS --> TT[הוספת תגיות<br/>ticker_info]
+    
+    %% ניהול מצב
+    TT --> UU[סימון מעובד<br/>today_processed.add]
+    UU --> VV[שמירת processed<br/>save_today_processed]
+    
+    %% Git operations
+    VV --> WW[המתנה 3 שניות<br/>time.sleep]
+    WW --> XX[commit_and_push_changes<br/>main.py]
+    XX --> YY[git add<br/>subprocess.run]
+    YY --> ZZ[git commit<br/>subprocess.run]
+    ZZ --> AAA[git push<br/>subprocess.run]
+    AAA --> BBB[הצלחה/אזהרה<br/>try/except]
+    
+    %% המשך לולאה
+    BBB --> CCC[המתנה 5 שניות<br/>time.sleep]
+    CCC --> DDD{יש עוד טיקרים?<br/>if candidates}
+    DDD -->|כן| K
+    DDD -->|לא| EEE[סיום עיבוד<br/>print statement]
+    
+    %% טיפול בשגיאות
+    R --> FFF[save_unavailable_tickers<br/>main.py]
+    FFF --> GGG[עדכון unavailable<br/>json.dump]
+    GGG --> CCC
+    
+    %% clean_metadata.py (אופציונלי)
+    HHH[clean_metadata.py<br/>__main__] --> III[קריאת metadata<br/>json.load]
+    III --> JJJ[clean_summary_text<br/>clean_llm_text]
+    JJJ --> KKK[שמירת מנוקה<br/>json.dump]
+    
+    %% עיצוב
+    style A fill:#e3f2fd
+    style EEE fill:#c8e6c9
+    style Y fill:#fff3e0
+    style GG fill:#f3e5f5
+    style XX fill:#e8f5e8
+    style HHH fill:#fff8e1
+    style F fill:#fce4ec
+    style U fill:#f1f8e9
+    style NN fill:#e0f2f1
+    style RR fill:#fafafa 

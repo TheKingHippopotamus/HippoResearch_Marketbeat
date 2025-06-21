@@ -9,11 +9,10 @@ import json
 import re
 import subprocess
 from datetime import datetime
-from html_template import create_html_content
-from llm_processor import process_with_gemma
+from scripts.html_template import create_html_content
+from scripts.llm_processor import process_with_gemma
 import random
 import csv
-from clean_metadata import clean_summary_text
 
 def start_driver():
     options = Options()
@@ -130,7 +129,6 @@ def process_and_create_article(ticker, original_text, original_file_name=None, t
             
         print(f"🤖 Processing {ticker} with aya-expanse:8b...")
         processed_text = process_with_gemma(text_for_llm, ticker_info)
-        processed_text = clean_llm_text(processed_text)
         print(f"📄 Processed text length: {len(processed_text)} characters")
         print(f"📄 Processed text preview: {processed_text[:100]}...")
 
@@ -839,7 +837,7 @@ def get_current_date():
 
 def load_metadata():
     """Load existing metadata from JSON file"""
-    metadata_file = "articles_metadata.json"
+    metadata_file = os.path.join("data", "articles_metadata.json")
     if os.path.exists(metadata_file):
         try:
             with open(metadata_file, 'r', encoding='utf-8') as f:
@@ -850,7 +848,7 @@ def load_metadata():
 
 def save_metadata(metadata):
     """Save metadata to JSON file"""
-    metadata_file = "articles_metadata.json"
+    metadata_file = os.path.join("data", "articles_metadata.json")
     try:
         with open(metadata_file, 'w', encoding='utf-8') as f:
             json.dump(metadata, f, ensure_ascii=False, indent=2)
@@ -1013,20 +1011,20 @@ def commit_and_push_changes(ticker):
 def load_unavailable_tickers():
     """Load unavailable tickers from JSON file"""
     try:
-        with open('unavailable_tickers.json', 'r', encoding='utf-8') as f:
+        with open('processed_tickers/unavailable_tickers.json', 'r', encoding='utf-8') as f:
             return set(json.load(f))
     except Exception:
         return set()
 
 def save_unavailable_tickers(tickers):
     """Save unavailable tickers to JSON file"""
-    with open('unavailable_tickers.json', 'w', encoding='utf-8') as f:
+    with open('processed_tickers/unavailable_tickers.json', 'w', encoding='utf-8') as f:
         json.dump(sorted(list(tickers)), f, ensure_ascii=False, indent=2)
 
 def load_today_processed():
     """Load tickers processed today from JSON file"""
     today = datetime.now().strftime('%Y%m%d')
-    fname = f'processed_{today}.json'
+    fname = f'processed_tickers/processed_{today}.json'
     try:
         with open(fname, 'r', encoding='utf-8') as f:
             return set(json.load(f))
@@ -1036,7 +1034,7 @@ def load_today_processed():
 def save_today_processed(tickers):
     """Save today's processed tickers to JSON file"""
     today = datetime.now().strftime('%Y%m%d')
-    fname = f'processed_{today}.json'
+    fname = f'processed_tickers/processed_{today}.json'
     with open(fname, 'w', encoding='utf-8') as f:
         json.dump(sorted(list(tickers)), f, ensure_ascii=False, indent=2)
 
@@ -1085,34 +1083,6 @@ def process_all_tickers():
             print(f"❌ Error processing {ticker}: {e}")
             continue
     print(f"\n🎉 Completed processing all available tickers for today!")
-
-def clean_llm_text(text):
-    """Clean LLM output from JSON artifacts, HTML tags, and formatting issues"""
-    if not text:
-        return text
-    
-    # Remove JSON structure artifacts
-    text = re.sub(r'^\s*\{\s*', '', text)
-    text = re.sub(r'\s*\}\s*$', '', text)
-    text = re.sub(r'^\s*"text":\s*"', '', text)
-    text = re.sub(r'^\s*"":\s*"', '', text)
-    text = re.sub(r'"\s*,\s*"tags":\s*\[\s*\]\s*$', '', text)
-    text = re.sub(r'"\s*$', '', text)
-    
-    # Remove HTML tags
-    text = re.sub(r'<[^>]+>', '', text)
-    
-    # Remove markdown symbols
-    text = re.sub(r'^#+\s*', '', text)  # Remove markdown headers
-    text = re.sub(r'\*\*([^*]+)\*\*', r'\1', text)  # Remove bold markdown
-    text = re.sub(r'\*([^*]+)\*', r'\1', text)  # Remove italic markdown
-    
-    # Clean up newlines and whitespace
-    text = re.sub(r'\\n', '\n', text)
-    text = re.sub(r'\n\s*\n', '\n\n', text)  # Normalize paragraph breaks
-    text = re.sub(r' +', ' ', text)  # Normalize spaces
-    
-    return text.strip()
 
 if __name__ == "__main__":
     process_all_tickers()
