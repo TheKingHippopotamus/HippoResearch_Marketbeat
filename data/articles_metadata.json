@@ -1195,5 +1195,17 @@
     "GICS Sector": "Financials",
     "GICS Sub-Industry": "Asset Management & Custody Banks",
     "Headquarters Location": "New York City, New York"
+  },
+  {
+    "ticker": "AES",
+    "title": "AES: למה המניה זזה היום?",
+    "filename": "AES_20250622.html",
+    "timestamp": "22/06/2025 01:00",
+    "summary": "חשיפת האתגרים והזדמנויות של AES Corporation: מסע בין פסקות חשמל, אנרגיה מתחדשת ותנודתיות בשוק\nהתמודדות עם סופות, שיבושים בשירותים ואסטרטגיית צמיחה\nבתוך עולם האנרגיה המתמודד עם אתגרים גלובאליים, AES Co...",
+    "tags": [],
+    "Security": "AES Corporation",
+    "GICS Sector": "Utilities",
+    "GICS Sub-Industry": "Independent Power Producers & Energy Traders",
+    "Headquarters Location": "Arlington, Virginia"
   }
 ]
