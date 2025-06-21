@@ -126,8 +126,8 @@ def convert_tagged_text_to_html(text):
     lastpara_pattern = re.compile(r'^פסקה אחרונה:\s*(.*)$')
     # דפוס לזיהוי TITLE# ...
     title_hash_pattern = re.compile(r'^TITLE#\s*(.*)$')
-    # דפוס לזיהוי SUBTITLE# (עם או בלי ##)
-    subtitle_hash_pattern = re.compile(r'^(##\s*)?SUBTITLE#\s*(.*)$')
+    # דפוס לזיהוי SUBTITLE# (עם או בלי ## או #)
+    subtitle_hash_pattern = re.compile(r'^(##\s*)?#?SUBTITLE#\s*(.*)$')
     # דפוס לזיהוי #PARA# ...
     para_hash_pattern = re.compile(r'^#PARA#\s*(.*)$')
 
