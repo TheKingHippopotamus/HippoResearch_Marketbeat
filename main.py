@@ -14,6 +14,7 @@ from scripts.llm_processor import process_with_gemma, convert_tagged_text_to_htm
 import random
 import csv
 import logging
+import sys
 
 # Setup logging
 def setup_logging():
@@ -515,6 +516,31 @@ def auto_fix_article_html(ticker):
     except Exception as e:
         print(f"❌ Auto-fix failed for {ticker}: {e}")
 
+def run_js_cleaner_on_file(ticker):
+    """הפעל את הניטור האוטומטי על קובץ HTML חדש לפני commit"""
+    current_date = datetime.now().strftime("%Y%m%d")
+    html_path = f"articles/{ticker}_{current_date}.html"
+    
+    try:
+        logger.info(f"🧹 Running JavaScript cleaner on {ticker}...")
+        
+        # הפעל את הסקריפט ישירות על הקובץ
+        result = subprocess.run([
+            sys.executable, "inject_js_cleaner.py", 
+            "--file", html_path, 
+            "--no-backup"  # אל תיצור גיבוי נוסף
+        ], capture_output=True, text=True)
+        
+        if result.returncode == 0:
+            logger.info(f"✅ JavaScript cleaner completed for {ticker}")
+            return True
+        else:
+            logger.warning(f"⚠️ JavaScript cleaner warning for {ticker}: {result.stderr}")
+            return True  # נמשיך גם אם יש אזהרה
+    except Exception as e:
+        logger.error(f"❌ Error running JavaScript cleaner for {ticker}: {e}")
+        return False
+
 def process_all_tickers():
     """Process all tickers from CSV file in random order, skipping already processed and unavailable ones"""
     logger.info("🚀 Starting ticker processing pipeline...")
@@ -571,11 +597,15 @@ def process_all_tickers():
             save_today_processed(today_processed)
             logger.info(f"✅ Updated processing status for {ticker}")
             
-            # Step 4: תיקון אוטומטי של עיצוב המאמר לפני commit
+            # Step 4: תיקון אוטומטי של עיצוב המאמר
             auto_fix_article_html(ticker)
+            logger.info(f"✅ Auto-fix completed for {ticker}")
 
-            # Commit and push changes
-            logger.info(f"📝 Step 3: Committing changes for {ticker}...")
+            # Step 5: הפעל את הניטור האוטומטי על הקובץ החדש
+            run_js_cleaner_on_file(ticker)
+
+            # Step 6: Commit and push changes
+            logger.info(f"📝 Step 6: Committing changes for {ticker}...")
             if commit_and_push_changes(ticker):
                 logger.info(f"✅ Successfully committed and pushed changes for {ticker}")
             else:
@@ -637,8 +667,11 @@ def process_single_ticker(ticker):
         auto_fix_article_html(ticker)
         logger.info(f"✅ Auto-fix completed for {ticker}")
 
-        # Step 4: Commit and push changes
-        logger.info(f"📝 Step 3: Committing changes for {ticker}...")
+        # Step 4: הפעל את הניטור האוטומטי על הקובץ החדש
+        run_js_cleaner_on_file(ticker)
+
+        # Step 5: Commit and push changes
+        logger.info(f"📝 Step 5: Committing changes for {ticker}...")
         if commit_and_push_changes(ticker):
             logger.info(f"✅ Successfully committed and pushed changes for {ticker}")
         else:
@@ -654,8 +687,6 @@ def process_single_ticker(ticker):
         return False
 
 if __name__ == "__main__":
-    import sys
-    
     # Check if a specific ticker was provided as command line argument
     if len(sys.argv) > 1:
         ticker = sys.argv[1].upper()
