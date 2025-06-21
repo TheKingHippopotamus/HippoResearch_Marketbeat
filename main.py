@@ -209,10 +209,13 @@ def process_and_create_article(ticker, original_text, original_file_name=None, t
         logger.info(f"🎨 Creating HTML article for {ticker}...")
         html_content, ticker_badge_with_logo = create_html_content(ticker, cleaned_text, ticker_info=ticker_info)
         
-        # יצירת גוף הכתבה בלבד
-        html_content, ticker_badge_with_logo = create_html_content(ticker, cleaned_text, ticker_info=ticker_info)
         # שליפת head מהתבנית
         new_head = extract_head_section()
+        # קביעת טייטל דינמי
+        company_name = ticker_info.get('Security') or ticker
+        dynamic_title = f"{company_name} ({ticker}) - מחקר כלכלי מתקדם | Hippopotamus Research"
+        # החלפת ה-title ב-head
+        new_head = re.sub(r'<title>.*?</title>', f'<title>{dynamic_title}</title>', new_head, flags=re.DOTALL)
         # בניית עמוד מלא
         full_html = f'''<!DOCTYPE html>
 <html lang="he" dir="rtl">

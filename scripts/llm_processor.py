@@ -115,17 +115,16 @@ def clean_processed_text(text):
 
 def convert_tagged_text_to_html(text):
     """
-    המרת טקסט מסומן (#TITLE#, #SUBTITLE#, #PARA#) ל-HTML תקני, גם אם הסימונים באמצע שורה או עם # מיותר
+    המרת טקסט מסומן (#TITLE#, #SUBTITLE#, #PARA#, ##) ל-HTML תקני, גם אם הסימונים באמצע שורה או עם # מיותר, כולל ניקוי קשוח.
     """
     if not text:
         return text
-    
-    # Normalize all markers to canonical form (e.g. ## SUBTITLE# -> #SUBTITLE#)
-    text = re.sub(r'#+\s*SUBTITLE#', '#SUBTITLE#', text)
+    # הסר כל סימון מיותר (כולל ##, TITLE#, SUBTITLE#, PARA# בכל מקום)
     text = re.sub(r'#+\s*TITLE#', '#TITLE#', text)
+    text = re.sub(r'#+\s*SUBTITLE#', '#SUBTITLE#', text)
     text = re.sub(r'#+\s*PARA#', '#PARA#', text)
-
-    # Split text by markers, keeping the marker in the result
+    text = re.sub(r'#+\s*', '', text)  # הסר כל ## או # מיותר
+    # פצל לפי סימונים
     parts = re.split(r'(#TITLE#|#SUBTITLE#|#PARA#)', text)
     html_lines = []
     current_tag = None
@@ -144,7 +143,19 @@ def convert_tagged_text_to_html(text):
                 html_lines.append(f"<p>{part}</p>")
             else:
                 html_lines.append(f"<p>{part}</p>")
-    return '\n'.join(html_lines)
+    html = '\n'.join(html_lines)
+    # ניקוי תגיות ריקות או כפולות
+    html = re.sub(r'<p>\s*</p>', '', html)
+    html = re.sub(r'<h\d>\s*</h\d>', '', html)
+    html = re.sub(r'<p>\s*<p>', '<p>', html)
+    html = re.sub(r'</p>\s*</p>', '</p>', html)
+    html = re.sub(r'<h1>\s*<h1>', '<h1>', html)
+    html = re.sub(r'</h1>\s*</h1>', '</h1>', html)
+    html = re.sub(r'<h2>\s*<h2>', '<h2>', html)
+    html = re.sub(r'</h2>\s*</h2>', '</h2>', html)
+    # הסר שורות ריקות מרובות
+    html = re.sub(r'\n\s*\n', '\n', html)
+    return html.strip()
 
 # הפעלת מודל Ollama עם prompt מעודכן
 def process_with_gemma(original_text, ticker_info=None):

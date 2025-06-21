@@ -67,9 +67,16 @@ def create_html_content(ticker, summary_text, ticker_info=None):
     </div>
     '''
     newsletter_html = '''
-    <div class="newsletter-section" style="margin:12px auto 20px auto;max-width:260px;padding:0;background:none;border:none;box-shadow:none;border-radius:0;position:relative;z-index:2;">
-        <h3 style="font-weight:400;opacity:0.5;font-size:0.85em;margin-bottom:2px;margin-top:0;color:var(--accent-color);">הצטרפו לרשימת התפוצה שלנו</h3>
-        <iframe class="newsletter-iframe" scrolling="no" style="height:110px;width:100%;border:none;background:none;box-shadow:none;border-radius:0;" src="https://buttondown.com/nirstam?as_embed=true"></iframe>
+    <div class="newsletter-section" style="margin: 0 auto 24px auto; max-width: 400px; text-align: center;">
+        <div style="font-size: 1em; color: var(--accent-color); margin-bottom: 6px; font-weight: 500; opacity: 0.85;">
+            הצטרפו לעדכונים במייל
+        </div>
+        <iframe
+            scrolling="no"
+            style="width:100%!important; height:120px; border:none!important; border-radius:12px; background:#fff; box-shadow:0 2px 8px rgba(15,52,96,0.07);"
+            src="https://buttondown.com/nirstam?as_embed=true"
+            title="הרשמה לניוזלטר"
+        ></iframe>
     </div>
     '''
     html = f'''
