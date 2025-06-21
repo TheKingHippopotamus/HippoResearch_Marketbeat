@@ -1279,5 +1279,17 @@
     "GICS Sector": "Financials",
     "GICS Sub-Industry": "Investment Banking & Brokerage",
     "Headquarters Location": "New York City, New York"
+  },
+  {
+    "ticker": "AAPL",
+    "title": "AAPL: למה המניה זזה היום?",
+    "filename": "AAPL_20250622.html",
+    "timestamp": "22/06/2025 01:31",
+    "summary": "#עתיד חכם: אפל חושפת את אסטרטגיית השבבים שלה, אך עננים מתקרבים\nמהפכה בטכנולוגיה: בינה מלאכותית במעגלי אפל\nאפל, ענקית הטכנולוגיה העולמית, נמצאת בתנופה. לאחר דיווחים אחרונים על הצלחותיה בשוק הסיני ועל ה...",
+    "tags": [],
+    "Security": "Apple Inc.",
+    "GICS Sector": "Information Technology",
+    "GICS Sub-Industry": "Technology Hardware, Storage & Peripherals",
+    "Headquarters Location": "Cupertino, California"
   }
 ]
