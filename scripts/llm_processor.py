@@ -106,77 +106,74 @@ def clean_processed_text(text):
 
 def convert_tagged_text_to_html(text):
     """
-    המרת טקסט מסומן (#TITLE#, #SUBTITLE#, #PARA#, ##) ל-HTML תקני, גם אם הסימונים באמצע שורה או עם # מיותר, כולל ניקוי קשוח.
+    המרת טקסט מסומן (כולל סימוני markdown, כותרות ופסקאות בעברית) ל-HTML תקני, תוך הסרה מוחלטת של תוויות מיותרות.
     """
     if not text:
         return text
     
-    # קודם כל, נמיר סימוני markdown רגילים לכותרות
     lines = text.split('\n')
     processed_lines = []
     
+    # דפוס לזיהוי שורות תווית מיותרות (עם או בלי #)
+    label_pattern = re.compile(r'^(#*)\s*(פסקה( משנה| אחרונה)?(:|\s*:)?.*)$', re.UNICODE)
+    # דפוס לזיהוי "כותרת ראשית: ..."
+    main_title_pattern = re.compile(r'^כותרת ראשית:\s*(.*)$')
+    # דפוס לזיהוי "כותרת משנה: ..."
+    subtitle_pattern = re.compile(r'^כותרת משנה:\s*(.*)$')
+    # דפוס לזיהוי "פסקה משנה: ..."
+    subpara_pattern = re.compile(r'^פסקה משנה:\s*(.*)$')
+    # דפוס לזיהוי "פסקה אחרונה: ..."
+    lastpara_pattern = re.compile(r'^פסקה אחרונה:\s*(.*)$')
+
     for line in lines:
         line = line.strip()
         if not line:
             continue
-            
-        # טיפול בסימוני markdown רגילים
+        # דלג על שורות שהן רק תווית פסקה ("פסקה ראשונה:", "פסקה שנייה:" וכו')
+        if label_pattern.match(line):
+            continue
+        # כותרת ראשית
+        m = main_title_pattern.match(line)
+        if m:
+            title = m.group(1).strip()
+            if title:
+                processed_lines.append(f'<h1>{title}</h1>')
+            continue
+        # כותרת משנה
+        m = subtitle_pattern.match(line)
+        if m:
+            subtitle = m.group(1).strip()
+            if subtitle:
+                processed_lines.append(f'<h2>{subtitle}</h2>')
+            continue
+        # פסקה משנה
+        m = subpara_pattern.match(line)
+        if m:
+            subpara = m.group(1).strip()
+            if subpara:
+                processed_lines.append(f'<h3>{subpara}</h3>')
+            continue
+        # פסקה אחרונה
+        m = lastpara_pattern.match(line)
+        if m:
+            lastpara = m.group(1).strip()
+            if lastpara:
+                processed_lines.append(f'<h3>{lastpara}</h3>')
+            continue
+        # markdown
+        if line.startswith('### '):
+            processed_lines.append(f'<h3>{line[4:]}</h3>')
+            continue
+        if line.startswith('## '):
+            processed_lines.append(f'<h2>{line[3:]}</h2>')
+            continue
         if line.startswith('# '):
-            processed_lines.append(f"<h1>{line[2:]}</h1>")
-        elif line.startswith('## '):
-            processed_lines.append(f"<h2>{line[3:]}</h2>")
-        elif line.startswith('### '):
-            processed_lines.append(f"<h3>{line[4:]}</h3>")
-        elif line.startswith('#### '):
-            processed_lines.append(f"<h4>{line[5:]}</h4>")
-        elif line.startswith('#') and not line.startswith('# '):
-            # טיפול במקרים כמו #RTX או #TITLE
-            if line.startswith('#TITLE#'):
-                processed_lines.append(f"<h1>{line[7:]}</h1>")
-            elif line.startswith('#SUBTITLE#'):
-                processed_lines.append(f"<h2>{line[10:]}</h2>")
-            elif line.startswith('#PARA#'):
-                processed_lines.append(f"<p>{line[6:]}</p>")
-            else:
-                # אם זה # רגיל ללא רווח, נניח שזה כותרת h1
-                processed_lines.append(f"<h1>{line[1:]}</h1>")
-        else:
-            # אם זה לא כותרת, נטפל בסימונים המיוחדים שלנו
-            if line.startswith('#TITLE#'):
-                processed_lines.append(f"<h1>{line[7:]}</h1>")
-            elif line.startswith('#SUBTITLE#'):
-                processed_lines.append(f"<h2>{line[10:]}</h2>")
-            elif line.startswith('#PARA#'):
-                processed_lines.append(f"<p>{line[6:]}</p>")
-            else:
-                # אם אין סימון, נניח שזה פסקה רגילה
-                processed_lines.append(f"<p>{line}</p>")
+            processed_lines.append(f'<h1>{line[2:]}</h1>')
+            continue
+        # כל שאר השורות - פסקה רגילה
+        processed_lines.append(f'<p>{line}</p>')
     
-    html = '\n'.join(processed_lines)
-    
-    # ניקוי תגיות ריקות או כפולות
-    html = re.sub(r'<p>\s*</p>', '', html)
-    html = re.sub(r'<h\d>\s*</h\d>', '', html)
-    html = re.sub(r'<p>\s*<p>', '<p>', html)
-    html = re.sub(r'</p>\s*</p>', '</p>', html)
-    html = re.sub(r'<h1>\s*<h1>', '<h1>', html)
-    html = re.sub(r'</h1>\s*</h1>', '</h1>', html)
-    html = re.sub(r'<h2>\s*<h2>', '<h2>', html)
-    html = re.sub(r'</h2>\s*</h2>', '</h2>', html)
-    html = re.sub(r'<h3>\s*<h3>', '<h3>', html)
-    html = re.sub(r'</h3>\s*</h3>', '</h3>', html)
-    
-    # ניקוי סימונים כפולים בתוך התוכן
-    html = re.sub(r'<h1>##\s*', '<h1>', html)
-    html = re.sub(r'<h2>##\s*', '<h2>', html)
-    html = re.sub(r'<h3>##\s*', '<h3>', html)
-    html = re.sub(r'<h1>#\s*', '<h1>', html)
-    html = re.sub(r'<h2>#\s*', '<h2>', html)
-    html = re.sub(r'<h3>#\s*', '<h3>', html)
-    
-    # הסר שורות ריקות מרובות
-    html = re.sub(r'\n\s*\n', '\n', html)
-    return html.strip()
+    return '\n'.join(processed_lines)
 
 # הפעלת מודל Ollama עם prompt מעודכן
 def process_with_gemma(original_text, ticker_info=None):
