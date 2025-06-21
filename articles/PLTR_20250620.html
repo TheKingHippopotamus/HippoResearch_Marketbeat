@@ -369,25 +369,21 @@
       הסתייגות משפטית:
      </strong>
      המידע הנ״ל מבוסס על מקורות מידע שונים ועלול להשתנות בכל עת. המידע המוזכר בכתבה זו מוגבל לצורך מחקר והנאה ואין לראות בכתוב המלצה להשקעה. יש להתייעץ עם יועץ פיננסי לפני קבלת החלטות השקעה.
-     <br>
-      <br>
-       <strong>
-        הערה:
-       </strong>
-       הניתוח נוצר באמצעות מודל בינה מלאכותית ועלול לכלול שגיאות כתיב או ניסוח. אנו מתנצלים מראש על אי-הדיוקים האפשריים.
-       <br>
-        <br>
-         <strong>
-          מקורות המידע:
-         </strong>
-         Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl,MarketBeat
-         <h3>
-          Hippopotamus Research
-         </h3>
-        </br>
-       </br>
-      </br>
-     </br>
+     <br/>
+     <br/>
+     <strong>
+      הערה:
+     </strong>
+     הניתוח נוצר באמצעות מודל בינה מלאכותית ועלול לכלול שגיאות כתיב או ניסוח. אנו מתנצלים מראש על אי-הדיוקים האפשריים.
+     <br/>
+     <br/>
+     <strong>
+      מקורות המידע:
+     </strong>
+     Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl,MarketBeat
+     <h3>
+      Hippopotamus Research
+     </h3>
     </div>
    </div>
    <div class="footer">
@@ -408,11 +404,13 @@
   document.body.dataset.jsCleanerApplied = 'true';
 
   const elements = document.querySelectorAll('p, h1, h2, h3, h4, li, span');
+  
   // Regex to find all variations of markers:
   // - Optional hashes (e.g., #TITLE, ## TITLE)
-  // - The marker words (TITLE, SUBTITLE, PARA) with an optional colon
+  // - The marker words in English (TITLE, SUBTITLE, PARA) with an optional colon
+  // - The marker words in Hebrew (כותרת ראשית, כותרת משנה, פסקה) with an optional colon
   // - Any remaining hash symbols
-  const regex = /(?:#+\s*)?(?:TITLE|SUBTITLE|PARA):?|#+/gi;
+  const regex = /(?:#+\s*)?(?:TITLE|SUBTITLE|PARA|כותרת ראשית|כותרת משנה|פסקה):?|#+/gi;
 
   elements.forEach(el => {
     // We iterate through child nodes to only affect text nodes.

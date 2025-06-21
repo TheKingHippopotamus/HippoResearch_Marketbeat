@@ -1,13 +1,15 @@
 <!DOCTYPE html>
-<html lang="he" dir="rtl">
-<head>
-    <meta charset="utf-8"/>
-    <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-    <title>דוח ניתוח סיבתיות - MS</title>
-    <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&display=swap" rel="stylesheet"/>
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
-    <style>
-        :root {
+<html dir="rtl" lang="he">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
+   דוח ניתוח סיבתיות - MS
+  </title>
+  <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
+  <style>
+   :root {
             --primary-color: #1a1a2e;
             --secondary-color: #16213e;
             --accent-color: #0f3460;
@@ -225,48 +227,55 @@
                 height: 80px;
             }
         }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="header">
-            <div class="header-content">
-                <div class="logo-section">
-                    <div class="logo-container">
-                        <img src="logo.png" alt="Logo" class="logo-image">
-                    </div>
-                    <div class="brand-info">
-                        <div class="brand-name">Hippopotamus Research</div>
-                        <div class="brand-subtitle">ניתוח סיבתיות של תנועות מניה</div>
-                    </div>
-                </div>
-                
-                <div class="social-section">
-                    
-    <div class="ticker-badge">
-        <img src="logo.png" alt="MS logo" class="company-logo" style="width: 20px; height: 20px; margin-left: 8px; border-radius: 3px; vertical-align: middle;">
-        MS
+  </style>
+ </head>
+ <body>
+  <div class="container">
+   <div class="header">
+    <div class="header-content">
+     <div class="logo-section">
+      <div class="logo-container">
+       <img alt="Logo" class="logo-image" src="logo.png"/>
+      </div>
+      <div class="brand-info">
+       <div class="brand-name">
+        Hippopotamus Research
+       </div>
+       <div class="brand-subtitle">
+        ניתוח סיבתיות של תנועות מניה
+       </div>
+      </div>
+     </div>
+     <div class="social-section">
+      <div class="ticker-badge">
+       <img alt="MS logo" class="company-logo" src="logo.png" style="width: 20px; height: 20px; margin-left: 8px; border-radius: 3px; vertical-align: middle;"/>
+       MS
+      </div>
+      <a class="twitter-link" href="https://x.com/LmlyhNyr" target="_blank">
+       <img alt="X (Twitter)" class="twitter-icon" src="x.png"/>
+       <span>
+        עקבו אחרינו
+       </span>
+      </a>
+     </div>
     </div>
-    
-                    <a href="https://x.com/LmlyhNyr" class="twitter-link" target="_blank">
-                        <img src="x.png" alt="X (Twitter)" class="twitter-icon">
-                        <span>עקבו אחרינו</span>
-                    </a>
-                </div>
-            </div>
-        </div>
-        
-        <div class="content">
-            <a href="../index.html" class="back-home-btn"><i class="fas fa-home"></i> חזרה לדף הבית</a>
-            
-            <div class="newsletter-section" style="margin:12px auto 20px auto;max-width:260px;padding:0;background:none;border:none;box-shadow:none;border-radius:0;position:relative;z-index:2;">
-    <h3 style="font-weight:400;opacity:0.5;font-size:0.85em;margin-bottom:2px;margin-top:0;color:var(--accent-color);">הצטרפו לרשימת התפוצה שלנו</h3>
-    <iframe class="newsletter-iframe" scrolling="no" style="height:110px;width:100%;border:none;background:none;box-shadow:none;border-radius:0;" src="https://buttondown.com/nirstam?as_embed=true"></iframe>
-</div>
-<div class="article-content">
-                
-    <style>
-        .ticker-badge {
+   </div>
+   <div class="content">
+    <a class="back-home-btn" href="../index.html">
+     <i class="fas fa-home">
+     </i>
+     חזרה לדף הבית
+    </a>
+    <div class="newsletter-section" style="margin:12px auto 20px auto;max-width:260px;padding:0;background:none;border:none;box-shadow:none;border-radius:0;position:relative;z-index:2;">
+     <h3 style="font-weight:400;opacity:0.5;font-size:0.85em;margin-bottom:2px;margin-top:0;color:var(--accent-color);">
+      הצטרפו לרשימת התפוצה שלנו
+     </h3>
+     <iframe class="newsletter-iframe" scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="height:110px;width:100%;border:none;background:none;box-shadow:none;border-radius:0;">
+     </iframe>
+    </div>
+    <div class="article-content">
+     <style>
+      .ticker-badge {
             display: inline-flex;
             align-items: center;
             background: var(--gradient-accent);
@@ -311,36 +320,81 @@
             margin-bottom: 15px;
             text-align: justify;
         }
-    </style>
-    <div class="article-container">
-        <div class="article-content-text">
-            <p>מורגן סטנלי: בין קיצוצים אסטרטגיים לפוטנציאל צמיחה מאתגרים והזדמנויות בשוק המשתנה
+     </style>
+     <div class="article-container">
+      <div class="article-content-text">
+       <p>
+        מורגן סטנלי: בין קיצוצים אסטרטגיים לפוטנציאל צמיחה מאתגרים והזדמנויות בשוק המשתנה
 חברת מורגן סטנלי (MS), ענקית השירותים הפיננסיים העולמית, נמצאת במרכזו של סערה של פעילות מסחרית וניתוחי אנליסטים. על רקע תנועות שוק מעורבות, דעות אנליסטים מגוונות ופעולות פנימיות, משקיעים מתעניינים בהבנה מעמיקה יותר של הכיוון העתידי של החברה. סיטיגרופ מעלה את מחיר היעד, אך האם זה מספיק?
 הסימנים החיוביים מגיעים מסיטיגרופ, שהעלתה את מחיר היעד למניית MS ל-130 דולר. ההערכה החדשה משקפת אמון בתחזיות החברה, ומדגישה את האסטרטגיה הניטרלית של האנליסטים ביחס למורגן סטנלי. עם זאת, השאלה שמטרידה משקיעים היא האם מחיר היעד הזה משקף כראוי את הפוטנציאל העתידי של MS בעידן של שינויים גיאופוליטיים ותחרות עזה. "הנוסחה המנצחת" של MS: קיצוצים, זרימת נכסים ופוטנציאל עלייה
 פרסום ב-Seeking Alpha הדגיש את "הנוסחה המנצחת" של MS, אסטרטגיה המורכבת מקיצוצי עלויות יעילים, זרימת נכסים חזקה ופוטנציאל עלייה אסימטרי. הניתוח מדגיש את היכולת של החברה להשיג רווחיות גבוהה גם בסביבה מאתגרת. השאלה היא האם השווקים יעריכו במלואם את המהלכים הללו, במיוחד עם המתחים הגיאופוליטיים הנוכחיים המשמשים כדלק לתנודתיות בשווקים. קונצנזוס אנליסטי יציב אך לא מרהיב
 17 ברוקרים שומרים על המלצה ממוצעת של "החזקה" עבור MS, עם 11 המלצות להחזקה ו-5 לרכישה. הקונצנזוס הזה משקף סנטימנט יציב, אך לא מרהיב, בקרב אנליסטים. בעוד שההמלצות הללו מספקות תמיכה מסוימת למניה, הן גם מעלות שאלות לגבי הציפיות של השוק מהחברה, במיוחד לאור האתגרים הנוכחיים שהיא מתמודדת איתם. השקעות אסטרטגיות ומהלכי גיוון
 MS ממשיכה להפגין את יכולתה לנווט בסביבה משתנה באמצעות פעולות השקעה אסטרטגיות. לאחרונה, החברה הגדילה את אחזקותיה ב-Cettire Ltd., מה שמדגים את גישה ההשקעה הפעילה שלה. עם זאת, ההשפעה המיידית על הכנסותיה עשויה להיות מוגבלת, מה שמעלה שאלות לגבי האסטרטגיה לטווח הארוך של החברה. במקביל, כניסה למחקר של monday.com מראה את הרחבת זיכיון המחקר של MS, אך ללא השפעה ישירה על המאזן שלה. סגירת יחידת אופציות, חיסכון או הזדמנות פספוס?
-צעד משמעותי אחרון של MS היה סגירת יחידת עשיית שוק האופציות למניות בארה"ב. בעוד שהחברה טוענת לחיסכון בעלויות, אנליסטים מתחו ספקות לגבי ההשפעה האמיתית על הביצועים הפיננסיים של MS. צעד זה מעלה שאלות לגבי אסטרטגיית ההכנסות של החברה בעידן של תחרות עזה בשוקי האופציות. בתוך הכאוס הזה, משקיעים צריכים לנווט בזהירות בעולם של מורגן סטנלי. האם האסטרטגיה שלה תשלם בסופו של דבר? האם הקיצוצים והגיוון יביאו לצמיחה בת-קיימא? שאלות אלו נותרות ללא מענה, אך הן מהוות את הלב של הדרמה המתמשכת סביב מניית MS.</p>
-        </div>
+צעד משמעותי אחרון של MS היה סגירת יחידת עשיית שוק האופציות למניות בארה"ב. בעוד שהחברה טוענת לחיסכון בעלויות, אנליסטים מתחו ספקות לגבי ההשפעה האמיתית על הביצועים הפיננסיים של MS. צעד זה מעלה שאלות לגבי אסטרטגיית ההכנסות של החברה בעידן של תחרות עזה בשוקי האופציות. בתוך הכאוס הזה, משקיעים צריכים לנווט בזהירות בעולם של מורגן סטנלי. האם האסטרטגיה שלה תשלם בסופו של דבר? האם הקיצוצים והגיוון יביאו לצמיחה בת-קיימא? שאלות אלו נותרות ללא מענה, אך הן מהוות את הלב של הדרמה המתמשכת סביב מניית MS.
+       </p>
+      </div>
+     </div>
     </div>
-    
-            </div>
-            
-            <div class="disclaimer">
-                <strong>הסתייגות משפטית:</strong>
-                המידע הנ״ל מבוסס על מקורות מידע שונים ועלול להשתנות בכל עת. המידע המוזכר בכתבה זו מוגבל לצורך מחקר והנאה ואין לראות בכתוב המלצה להשקעה. יש להתייעץ עם יועץ פיננסי לפני קבלת החלטות השקעה.
-                <br><br>
-                <strong>הערה:</strong> הניתוח נוצר באמצעות מודל בינה מלאכותית ועלול לכלול שגיאות כתיב או ניסוח. אנו מתנצלים מראש על אי-הדיוקים האפשריים.
-                <br><br>
-                <strong>מקורות המידע:</strong> Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl,MarketBeat
-                <h3>Hippopotamus Research</h3>
-            </div>
-        </div>
-        
-        <div class="footer">
-            <div class="timestamp">נוצר ב: 20/06/2025 12:48</div>
-            <div class="source">מקורות: Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl,MarketBeat | ניתוח באמצעות aya-expanse:8b</div>
-        </div>
+    <div class="disclaimer">
+     <strong>
+      הסתייגות משפטית:
+     </strong>
+     המידע הנ״ל מבוסס על מקורות מידע שונים ועלול להשתנות בכל עת. המידע המוזכר בכתבה זו מוגבל לצורך מחקר והנאה ואין לראות בכתוב המלצה להשקעה. יש להתייעץ עם יועץ פיננסי לפני קבלת החלטות השקעה.
+     <br/>
+     <br/>
+     <strong>
+      הערה:
+     </strong>
+     הניתוח נוצר באמצעות מודל בינה מלאכותית ועלול לכלול שגיאות כתיב או ניסוח. אנו מתנצלים מראש על אי-הדיוקים האפשריים.
+     <br/>
+     <br/>
+     <strong>
+      מקורות המידע:
+     </strong>
+     Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl,MarketBeat
+     <h3>
+      Hippopotamus Research
+     </h3>
     </div>
-</body>
+   </div>
+   <div class="footer">
+    <div class="timestamp">
+     נוצר ב: 20/06/2025 12:48
+    </div>
+    <div class="source">
+     מקורות: Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl,MarketBeat | ניתוח באמצעות aya-expanse:8b
+    </div>
+   </div>
+  </div>
+  <script id="dynamic-text-cleaner-script">
+   document.addEventListener("DOMContentLoaded", function() {
+  // Check if the cleaner has already run to avoid multiple executions
+  if (document.body.dataset.jsCleanerApplied) {
+    return;
+  }
+  document.body.dataset.jsCleanerApplied = 'true';
+
+  const elements = document.querySelectorAll('p, h1, h2, h3, h4, li, span');
+  // Regex to find all variations of markers:
+  // - Optional hashes (e.g., #TITLE, ## TITLE)
+  // - The marker words (TITLE, SUBTITLE, PARA) with an optional colon
+  // - Any remaining hash symbols
+  const regex = /(?:#+\s*)?(?:TITLE|SUBTITLE|PARA):?|#+/gi;
+
+  elements.forEach(el => {
+    // We iterate through child nodes to only affect text nodes.
+    // This prevents breaking any HTML elements inside the tags (like <a> or <strong>).
+    Array.from(el.childNodes).forEach(node => {
+      if (node.nodeType === Node.TEXT_NODE) { // Process only text nodes
+        const originalText = node.textContent;
+        const newText = originalText.replace(regex, '').trim();
+        if (originalText !== newText) {
+          node.textContent = newText;
+        }
+      }
+    });
+  });
+});
+  </script>
+ </body>
 </html>

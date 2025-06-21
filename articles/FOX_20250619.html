@@ -317,11 +317,13 @@
   document.body.dataset.jsCleanerApplied = 'true';
 
   const elements = document.querySelectorAll('p, h1, h2, h3, h4, li, span');
+  
   // Regex to find all variations of markers:
   // - Optional hashes (e.g., #TITLE, ## TITLE)
-  // - The marker words (TITLE, SUBTITLE, PARA) with an optional colon
+  // - The marker words in English (TITLE, SUBTITLE, PARA) with an optional colon
+  // - The marker words in Hebrew (כותרת ראשית, כותרת משנה, פסקה) with an optional colon
   // - Any remaining hash symbols
-  const regex = /(?:#+\s*)?(?:TITLE|SUBTITLE|PARA):?|#+/gi;
+  const regex = /(?:#+\s*)?(?:TITLE|SUBTITLE|PARA|כותרת ראשית|כותרת משנה|פסקה):?|#+/gi;
 
   elements.forEach(el => {
     // We iterate through child nodes to only affect text nodes.

@@ -41,11 +41,13 @@ document.addEventListener("DOMContentLoaded", function() {
   document.body.dataset.jsCleanerApplied = 'true';
 
   const elements = document.querySelectorAll('p, h1, h2, h3, h4, li, span');
+  
   // Regex to find all variations of markers:
   // - Optional hashes (e.g., #TITLE, ## TITLE)
-  // - The marker words (TITLE, SUBTITLE, PARA) with an optional colon
+  // - The marker words in English (TITLE, SUBTITLE, PARA) with an optional colon
+  // - The marker words in Hebrew (כותרת ראשית, כותרת משנה, פסקה) with an optional colon
   // - Any remaining hash symbols
-  const regex = /(?:#+\\s*)?(?:TITLE|SUBTITLE|PARA):?|#+/gi;
+  const regex = /(?:#+\\s*)?(?:TITLE|SUBTITLE|PARA|כותרת ראשית|כותרת משנה|פסקה):?|#+/gi;
 
   elements.forEach(el => {
     // We iterate through child nodes to only affect text nodes.
@@ -96,6 +98,53 @@ class HTMLFileHandler(FileSystemEventHandler):
             except Exception as e:
                 logger.error(f"❌ Error processing new file {os.path.basename(file_path)}: {e}")
 
+def fix_html_structure(soup):
+    """Fix HTML structure: h1->h2, h2->h3, paragraphs->p, remove all markers (English/Hebrew)."""
+    fixed = False
+    para_markers = ['PARA#', 'פסקה:', 'פסקה']
+    title_markers = ['TITLE#', 'כותרת ראשית:', 'כותרת ראשית']
+    subtitle_markers = ['SUBTITLE#', 'כותרת משנה:', 'כותרת משנה']
+
+    # h1 -> h2
+    h1_tags = soup.find_all('h1')
+    for h1 in h1_tags:
+        text_content = h1.get_text().strip()
+        # Remove all markers
+        for m in para_markers + title_markers + subtitle_markers:
+            if text_content.startswith(m):
+                text_content = text_content[len(m):].strip()
+        new_h2 = soup.new_tag('h2')
+        new_h2.string = text_content
+        h1.replace_with(new_h2)
+        fixed = True
+        logger.info(f"  -> Fixed: Converted h1 to h2 and cleaned markers")
+
+    # h2 -> h3
+    h2_tags = soup.find_all('h2')
+    for h2 in h2_tags:
+        text_content = h2.get_text().strip()
+        for m in para_markers + title_markers + subtitle_markers:
+            if text_content.startswith(m):
+                text_content = text_content[len(m):].strip()
+        new_h3 = soup.new_tag('h3')
+        new_h3.string = text_content
+        h2.replace_with(new_h3)
+        fixed = True
+        logger.info(f"  -> Fixed: Converted h2 to h3 and cleaned markers")
+
+    # p tags: clean markers
+    p_tags = soup.find_all('p')
+    for p in p_tags:
+        text_content = p.get_text().strip()
+        for m in para_markers + title_markers + subtitle_markers:
+            if text_content.startswith(m):
+                text_content = text_content[len(m):].strip()
+        p.string = text_content
+        fixed = True
+        logger.info(f"  -> Fixed: Cleaned markers in p tag")
+
+    return fixed
+
 def inject_script_into_file(file_path, backup=True):
     """Injects the cleaning JavaScript into a single HTML file."""
     logger.info(f"Processing: {os.path.basename(file_path)}")
@@ -113,6 +162,11 @@ def inject_script_into_file(file_path, backup=True):
 
     # Parse with BeautifulSoup
     soup = BeautifulSoup(content, 'html.parser')
+
+    # Fix HTML structure first
+    structure_fixed = fix_html_structure(soup)
+    if structure_fixed:
+        logger.info(f"  -> HTML structure fixed")
 
     # --- Prevent duplicate script injection ---
     if soup.find("script", id=JS_CLEANER_ID):
