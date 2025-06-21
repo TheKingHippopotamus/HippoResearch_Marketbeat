@@ -490,6 +490,28 @@ def save_today_processed(tickers):
     with open(fname, 'w', encoding='utf-8') as f:
         json.dump(sorted(list(tickers)), f, ensure_ascii=False, indent=2)
 
+def auto_fix_article_html(ticker):
+    """מתקן אוטומטית את עיצוב המאמר לפני עדכון הריפוזיטורי"""
+    current_date = datetime.now().strftime("%Y%m%d")
+    html_path = f"articles/{ticker}_{current_date}.html"
+    txt_path = f"txt/{ticker}_processed_{current_date}.txt"
+    try:
+        with open(txt_path, "r", encoding="utf-8") as f:
+            processed = f.read()
+        html_content = convert_tagged_text_to_html(processed)
+        with open(html_path, "r", encoding="utf-8") as f:
+            html = f.read()
+        # החלף את התוכן בתוך <div class="article-content-text">...</div>
+        new_html = re.sub(
+            r'(<div class="article-content-text">)[\s\S]*?(</div>)',
+            f'\\1\n{html_content}\n\\2',
+            html
+        )
+        with open(html_path, "w", encoding="utf-8") as f:
+            f.write(new_html)
+    except Exception as e:
+        print(f"❌ Auto-fix failed for {ticker}: {e}")
+
 def process_all_tickers():
     """Process all tickers from CSV file in random order, skipping already processed and unavailable ones"""
     logger.info("🚀 Starting ticker processing pipeline...")
@@ -546,11 +568,11 @@ def process_all_tickers():
             save_today_processed(today_processed)
             logger.info(f"✅ Updated processing status for {ticker}")
             
-            # Step 4: Commit and push changes
-            logger.info(f"⏳ Waiting 3 seconds before committing changes...")
-            time.sleep(3)
+            # Step 4: תיקון אוטומטי של עיצוב המאמר לפני commit
+            auto_fix_article_html(ticker)
+
+            # Commit and push changes
             logger.info(f"📝 Step 3: Committing changes for {ticker}...")
-            
             if commit_and_push_changes(ticker):
                 logger.info(f"✅ Successfully committed and pushed changes for {ticker}")
             else:
