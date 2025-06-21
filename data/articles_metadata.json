@@ -1039,5 +1039,17 @@
     "GICS Sector": "Real Estate",
     "GICS Sub-Industry": "Retail REITs",
     "Headquarters Location": "San Diego, California"
+  },
+  {
+    "ticker": "UBER",
+    "title": "UBER: למה המניה זזה היום?",
+    "filename": "UBER_20250622.html",
+    "timestamp": "22/06/2025 00:06",
+    "summary": "אובר: מסע אל העתיד של תחבורה ונתונים\nמהפלטפורמה לכביש, אובר מובילה את המהפכה הטכנולוגית\nבעולם בו טכנולוגיית הבינה המלאכותית (AI) משנה את האופן בו אנו חיים, אובר (Uber), ענקית התחבורה השיתופית, פורצת ד...",
+    "tags": [],
+    "Security": "Uber",
+    "GICS Sector": "Industrials",
+    "GICS Sub-Industry": "Passenger Ground Transportation",
+    "Headquarters Location": "San Francisco, California"
   }
 ]
