@@ -1,3 +1,234 @@
-<!DOCTYPE html> <html dir="rtl" lang="he"> <head> <meta charset="utf-8"/> <meta content="width=device-width, initial-scale=1.0" name="viewport"/> <title>כתבה כלכלית - XOM</title> <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/> <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/> <style> :root { --primary-color: 1a1a2e; --secondary-color: 16213e; --accent-color: 0f3460; --highlight-color: e94560; --text-light: ffffff; --text-dark: 1a1a2e; --gradient-primary: linear-gradient(135deg, 1a1a2e 0%, 16213e 50%, 0f3460 100%); --gradient-accent: linear-gradient(135deg, e94560 0%, ff6b6b 100%); --shadow-primary: 0 20px 40px rgba(26, 26, 46, 0.15); --shadow-accent: 0 10px 30px rgba(233, 69, 96, 0.3); } * { margin: 0; padding: 0; box-sizing: border-box; } body { font-family: 'Heebo', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: var(--gradient-primary); min-height: 100vh; padding: 20px; direction: rtl; color: var(--text-light); line-height: 1.6; position: relative; overflow-x: hidden; } body::before { content: ''; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: radial-gradient(circle at 20% 80%, rgba(233, 69, 96, 0.1) 0%, transparent 50%), radial-gradient(circle at 80% 20%, rgba(15, 52, 96, 0.1) 0%, transparent 50%), radial-gradient(circle at 40% 40%, rgba(22, 33, 62, 0.1) 0%, transparent 50%); pointer-events: none; z-index: -1; } .container { max-width: 1000px; margin: 0 auto; background: rgba(255, 255, 255, 0.95); border-radius: 20px; box-shadow: var(--shadow-primary); overflow: hidden; backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.2); } .header { background: var(--gradient-primary); color: var(--text-light); padding: 0; position: relative; overflow: hidden; } .header::before { content: ''; position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; background: radial-gradient(circle at 30% 30%, rgba(233, 69, 96, 0.2) 0%, transparent 50%), radial-gradient(circle at 70% 70%, rgba(15, 52, 96, 0.2) 0%, transparent 50%); animation: float 6s ease-in-out infinite; } @keyframes float { 0%, 100% { transform: translateY(0px) rotate(0deg); } 50% { transform: translateY(-20px) rotate(180deg); } } .header-content { position: relative; z-index: 2; padding: 40px 30px; display: flex; align-items: center; justify-content: space-between; } .logo-section { display: flex; align-items: center; gap: 20px; } .logo-container { position: relative; width: 120px; height: 120px; background: var(--gradient-accent); border-radius: 50%; display: flex; align-items: center; justify-content: center; box-shadow: var(--shadow-accent); animation: pulse 2s ease-in-out infinite; overflow: hidden; } @keyframes pulse { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.05); } } .logo-container::before { content: ''; position: absolute; top: -5px; left: -5px; right: -5px; bottom: -5px; background: var(--gradient-accent); border-radius: 50%; z-index: -1; opacity: 0.3; animation: pulse 2s ease-in-out infinite reverse; } .logo-image { width: 100px; height: 100px; object-fit: contain; border-radius: 50%; z-index: 2; } .logo-image img { width: 100%; height: 100%; object-fit: contain; border-radius: 50%; } .brand-info { text-align: right; } .brand-name { font-size: 2.2em; font-weight: 700; margin-bottom: 5px; background: linear-gradient(45deg, ffffff, e94560); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; } .brand-subtitle { font-size: 1.1em; opacity: 0.9; font-weight: 300; } .social-section { display: flex; align-items: center; gap: 15px; } .twitter-link { display: flex; align-items: center; gap: 10px; background: rgba(255, 255, 255, 0.1); padding: 12px 20px; border-radius: 25px; text-decoration: none; color: var(--text-light); transition: all 0.3s ease; backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.2); } .twitter-link:hover { background: rgba(233, 69, 96, 0.2); transform: translateY(-2px); box-shadow: 0 10px 20px rgba(233, 69, 96, 0.3); } .twitter-icon { width: 20px; height: 20px; object-fit: contain; } .ticker-badge { background: var(--gradient-accent); padding: 8px 16px; border-radius: 20px; font-weight: 600; font-size: 1.1em; box-shadow: var(--shadow-accent); } .content { padding: 50px 40px; color: var(--text-dark); } .article-content { background: linear-gradient(135deg, f8f9fa 0%, e9ecef 100%); border-radius: 15px; padding: 40px; margin-bottom: 30px; border-left: 5px solid var(--highlight-color); box-shadow: 0 5px 20px rgba(0,0,0,0.08); position: relative; } .article-content::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 3px; background: var(--gradient-accent); border-radius: 15px 15px 0 0; } .article-content p { margin-bottom: 20px; text-align: justify; line-height: 1.8; font-size: 1.05em; } .article-content p:last-child { margin-bottom: 0; } .section-header { color: var(--accent-color); font-size: 1.4em; font-weight: 600; margin: 30px 0 15px 0; padding-bottom: 10px; border-bottom: 2px solid var(--highlight-color); position: relative; } .section-header::before { content: ''; position: absolute; bottom: -2px; left: 0; width: 50px; height: 2px; background: var(--gradient-accent); } .section-header:first-child { margin-top: 0; } .highlight-box { background: var(--gradient-primary); color: var(--text-light); padding: 25px; border-radius: 12px; margin: 25px 0; box-shadow: var(--shadow-primary); position: relative; overflow: hidden; } .highlight-box::before { content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(45deg, transparent 30%, rgba(255,255,255,0.1) 50%, transparent 70%); transform: translateX(-100%); animation: shine 3s ease-in-out infinite; } @keyframes shine { 0% { transform: translateX(-100%); } 50% { transform: translateX(100%); } 100% { transform: translateX(100%); } } .highlight-box strong { color: var(--highlight-color); } .footer { background: var(--gradient-primary); padding: 30px; text-align: center; color: var(--text-light); position: relative; } .footer::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 1px; background: var(--gradient-accent); } .timestamp { color: var(--highlight-color); font-weight: 500; margin-bottom: 10px; font-size: 1.1em; } .source { font-style: italic; opacity: 0.8; font-size: 0.95em; } .disclaimer { background: linear-gradient(135deg, fff3cd 0%, ffeaa7 100%); border: 2px solid fdcb6e; border-radius: 12px; padding: 20px; margin-top: 30px; font-size: 0.95em; color: 856404; position: relative; } .disclaimer::before { content: '⚠️'; position: absolute; top: -10px; right: 20px; background: fff3cd; padding: 0 10px; font-size: 1.2em; } .disclaimer strong { color: 856404; } .disclaimer h3 { color: var(--accent-color); margin-top: 15px; font-size: 1.2em; } @media (max-width: 768px) { body { padding: 10px; } .header-content { flex-direction: column; gap: 20px; text-align: center; } .brand-info { text-align: center; } .brand-name { font-size: 1.8em; } .content { padding: 30px 20px; font-size: 1em; } .article-content { padding: 25px; } .logo-container { width: 80px; height: 80px; } .logo-image { width: 70px; height: 70px; } } </style> </head> <body> <div class="container"> <div class="header"> <div class="header-content"> <div class="logo-section"> <div class="logo-container"> <img alt="Logo" class="logo-image" src="logo.png"/> </div> <div class="brand-info"> <div class="brand-name">Hippopotamus Research</div> <div class="brand-subtitle">מחקר כלכלי מתקדם</div> </div> </div> <div class="social-section"> <div class="ticker-badge">XOM</div> <a class="twitter-link" href="https://twitter.com/your_twitter_handle" target="_blank"> <img alt="X (Twitter)" class="twitter-icon" src="x.png"/> <span>עקבו אחרינו</span> </a> </div> </div> </div> <div class="content"> <div class="article-content">
+<!DOCTYPE html> <html dir="rtl" lang="he"> <head>
+    <meta charset="utf-8"/>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+    <title>כתבה כלכלית - XOM</title>
+    <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&display=swap" rel="stylesheet"/>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
+    <style>
+        :root {
+            --primary-color: #1a1a2e;
+            --secondary-color: #16213e;
+            --accent-color: #0f3460;
+            --highlight-color: #e94560;
+            --text-light: #ffffff;
+            --text-dark: #1a1a2e;
+            --gradient-primary: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+            --gradient-accent: linear-gradient(135deg, #e94560 0%, #ff6b6b 100%);
+            --shadow-primary: 0 20px 40px rgba(26, 26, 46, 0.15);
+            --shadow-accent: 0 10px 30px rgba(233, 69, 96, 0.3);
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Heebo', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: var(--gradient-primary);
+            min-height: 100vh;
+            padding: 20px;
+            direction: rtl;
+            color: var(--text-light);
+            line-height: 1.6;
+            position: relative;
+            overflow-x: hidden;
+            font-size: 0.97em;
+        }
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background: radial-gradient(circle at 20% 80%, rgba(233, 69, 96, 0.1) 0%, transparent 50%),
+                        radial-gradient(circle at 80% 20%, rgba(15, 52, 96, 0.1) 0%, transparent 50%),
+                        radial-gradient(circle at 40% 40%, rgba(22, 33, 62, 0.1) 0%, transparent 50%);
+            pointer-events: none;
+            z-index: -1;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 20px;
+            box-shadow: var(--shadow-primary);
+            overflow: hidden;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+        .header {
+            background: var(--gradient-primary);
+            color: var(--text-light);
+            padding: 0;
+            position: relative;
+            overflow: hidden;
+        }
+        .header::before {
+            content: '';
+            position: absolute;
+            top: -50%; left: -50%; width: 200%; height: 200%;
+            background: radial-gradient(circle at 30% 30%, rgba(233, 69, 96, 0.2) 0%, transparent 50%),
+                        radial-gradient(circle at 70% 70%, rgba(15, 52, 96, 0.2) 0%, transparent 50%);
+            animation: float 6s ease-in-out infinite;
+        }
+        @keyframes float {
+            0%, 100% { transform: translateY(0px) rotate(0deg); }
+            50% { transform: translateY(-20px) rotate(180deg); }
+        }
+        .header-content {
+            position: relative; z-index: 2; padding: 40px 30px;
+            display: flex; align-items: center; justify-content: space-between;
+        }
+        .logo-section { display: flex; align-items: center; gap: 20px; }
+        .logo-container {
+            position: relative; width: 120px; height: 120px;
+            background: var(--gradient-accent); border-radius: 50%;
+            display: flex; align-items: center; justify-content: center;
+            box-shadow: var(--shadow-accent); animation: pulse 2s ease-in-out infinite; overflow: hidden;
+        }
+        @keyframes pulse { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.05); } }
+        .logo-container::before {
+            content: '';
+            position: absolute; top: -5px; left: -5px; right: -5px; bottom: -5px;
+            background: var(--gradient-accent); border-radius: 50%; z-index: -1; opacity: 0.3;
+            animation: pulse 2s ease-in-out infinite reverse;
+        }
+        .logo-image { width: 100px; height: 100px; object-fit: contain; border-radius: 50%; z-index: 2; }
+        .logo-image img { width: 100%; height: 100%; object-fit: contain; border-radius: 50%; }
+        .brand-info { text-align: right; }
+        .brand-name { font-size: 2.2em; font-weight: 700; margin-bottom: 5px; background: linear-gradient(45deg, #ffffff, #e94560); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }
+        .brand-subtitle { font-size: 1.1em; opacity: 0.9; font-weight: 300; }
+        .social-section { display: flex; align-items: center; gap: 15px; }
+        .twitter-link { display: flex; align-items: center; gap: 10px; background: rgba(255, 255, 255, 0.1); padding: 12px 20px; border-radius: 25px; text-decoration: none; color: var(--text-light); transition: all 0.3s ease; backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.2); }
+        .twitter-link:hover { background: rgba(233, 69, 96, 0.2); transform: translateY(-2px); box-shadow: 0 10px 20px rgba(233, 69, 96, 0.3); }
+        .twitter-icon { width: 20px; height: 20px; object-fit: contain; }
+        .ticker-badge { background: var(--gradient-accent); padding: 8px 16px; border-radius: 20px; font-weight: 600; font-size: 1.1em; box-shadow: var(--shadow-accent); }
+        .content { padding: 50px 40px; color: var(--text-dark); }
+        .article-content {
+            background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+            border-radius: 15px; padding: 40px; margin-bottom: 30px;
+            border-left: 5px solid var(--highlight-color);
+            box-shadow: 0 5px 20px rgba(0,0,0,0.08); position: relative;
+        }
+        .article-content::before {
+            content: '';
+            position: absolute; top: 0; left: 0; right: 0; height: 3px;
+            background: var(--gradient-accent); border-radius: 15px 15px 0 0;
+        }
+        .article-content-text {
+            font-size: 1em;
+            line-height: 1.8;
+        }
+        .article-content-text h1, .article-content h1 {
+            font-size: 1.3em;
+            font-weight: 700;
+            color: var(--accent-color);
+            margin-top: 0;
+            margin-bottom: 2px;
+            padding-bottom: 4px;
+            border-bottom: 2px solid var(--highlight-color);
+        }
+        .article-content-text h2, .article-content h2 {
+            font-size: 1.1em;
+            font-weight: 600;
+            color: var(--accent-color);
+            margin-top: 0;
+            margin-bottom: 2px;
+            padding-bottom: 3px;
+            border-bottom: 1px solid var(--highlight-color);
+        }
+        .article-content-text h3, .article-content h3 {
+            font-size: 1em;
+            font-weight: 600;
+            color: var(--accent-color);
+            margin-top: 0;
+            margin-bottom: 2px;
+        }
+        .article-content-text p, .article-content p {
+            font-size: 0.97em;
+            line-height: 1.7;
+            margin-top: 0;
+            margin-bottom: 3px;
+            text-align: justify;
+        }
+        .footer {
+            background: var(--gradient-primary);
+            padding: 30px;
+            text-align: center;
+            color: var(--text-light);
+            position: relative;
+        }
+        .footer::before {
+            content: '';
+            position: absolute; top: 0; left: 0; right: 0; height: 1px;
+            background: var(--gradient-accent);
+        }
+        .timestamp { color: var(--highlight-color); font-weight: 500; margin-bottom: 10px; font-size: 1.1em; }
+        .source { font-style: italic; opacity: 0.8; font-size: 0.95em; }
+        .disclaimer {
+            background: linear-gradient(135deg, #fff3cd 0%, #ffeaa7 100%);
+            border: 2px solid #fdcb6e;
+            border-radius: 12px;
+            padding: 20px;
+            margin-top: 30px;
+            font-size: 0.95em;
+            color: #856404;
+            position: relative;
+        }
+        .disclaimer::before {
+            content: '⚠️';
+            position: absolute; top: -10px; right: 20px;
+            background: #fff3cd; padding: 0 10px; font-size: 1.2em;
+        }
+        .disclaimer strong { color: #856404; }
+        .disclaimer h3 { color: var(--accent-color); margin-top: 15px; font-size: 1.2em; }
+        @media (max-width: 768px) {
+            body { padding: 10px; }
+            .header-content { flex-direction: column; gap: 20px; text-align: center; }
+            .brand-info { text-align: center; }
+            .brand-name { font-size: 1.8em; }
+            .content { padding: 30px 20px; font-size: 1em; }
+            .article-content { padding: 25px; }
+            .logo-container { width: 80px; height: 80px; }
+            .logo-image { width: 70px; height: 70px; }
+        }
+        .newsletter-section {
+            margin: 10px auto 10px auto;
+            max-width: 400px;
+            text-align: center;
+            background: none;
+            border-radius: 6px;
+            box-shadow: none;
+            padding: 4px 0 2px 0;
+            border: none;
+            transition: none;
+        }
+        .newsletter-section h3 {
+            color: var(--accent-color);
+            margin-bottom: 4px;
+            font-size: 0.95em;
+            font-weight: 400;
+            opacity: 0.7;
+        }
+        .newsletter-iframe {
+            width: 100%!important;
+            height: 70px;
+            border: none;
+            border-radius: 4px;
+            background: transparent;
+            box-shadow: none;
+            margin: 0 auto;
+            display: block;
+        }
+        @media (max-width: 768px) {
+            .newsletter-section {
+                padding: 2px 0 2px 0;
+                max-width: 98vw;
+            }
+            .newsletter-iframe {
+                height: 80px;
+            }
+        }
+    </style>
+</head> <body> <div class="container"> <div class="header"> <div class="header-content"> <div class="logo-section"> <div class="logo-container"> <img alt="Logo" class="logo-image" src="logo.png"/> </div> <div class="brand-info"> <div class="brand-name">Hippopotamus Research</div> <div class="brand-subtitle">מחקר כלכלי מתקדם</div> </div> </div> <div class="social-section"> <div class="ticker-badge">XOM</div> <a class="twitter-link" href="https://twitter.com/your_twitter_handle" target="_blank"> <img alt="X (Twitter)" class="twitter-icon" src="x.png"/> <span>עקבו אחרינו</span> </a> </div> </div> </div> <div class="content">
+<div class="newsletter-section" style="margin:12px auto 20px auto;max-width:260px;padding:0;background:none;border:none;box-shadow:none;border-radius:0;position:relative;z-index:2;">
+    <h3 style="font-weight:400;opacity:0.5;font-size:0.85em;margin-bottom:2px;margin-top:0;color:var(--accent-color);">הצטרפו לרשימת התפוצה שלנו</h3>
+    <iframe class="newsletter-iframe" scrolling="no" style="height:110px;width:100%;border:none;background:none;box-shadow:none;border-radius:0;" src="https://buttondown.com/nirstam?as_embed=true"></iframe>
+</div>
+ <div class="article-content">
 <p>XOM</p>
 </div> <p>אקסון מוביל: מאחורי הקלעים של עליית המניה במצב כלכלי מתנודד</p> <p>בעולם העסקים הסוער, שם כל תנועה בשוק יכולה לעורר סערה, מניית אקסון מוביל (XOM) זורחת כמו כוכב נופל, מושכת את עיניהם של משקיעים ברחבי הגלובוס. עלייה מרשימה של מעל 1.3% במניה בשבועות האחרונים, בעוד שהשווקים נסוגים, מעלה שאלות מרתקות: מה גורם למגמה זו, ומה סודותיה של ענקית הנפט האמריקאית?</p> <p>מסע אל לב האספקה</p> <p>הסיפור מתחיל בהבטחות של מנהלי אקסון מוביל בנוגע ליציבות אספקת הנפט. עם תנודתיות בשווקים הגלובליים, משקיעים מחפשים ביטחון, ואקסון מספקת אותו. המנכ"ל, בסעת קסם של דיבורו, הדגיש את הקיבולת הפנויה של החברה, מבטיח כי כל שיבוש באספקה מאיראן או מכל מקור אחר יכול להיות מקוזז בקלות. מילים אלו, כמו אנקור יציב בים סוער, הרגיעו חששות והניעו את המניה קדימה.</p> <p>רכישות ודיבידנדים: מתנות למשקיעים</p> <p>אבל הסיפור לא מסתיים כאן. רכישות מוסדיות עצומות, כמו זו של GQG Partners ברבעון הראשון, הוסיפו תנופה למניה. חברות השקעה מובילות רואות באקסון השקעה אטרקטיבית, מה שמעיד על האמון בשוק. תחזית העלאת דיבידנד שנתית עד 2030 תורמת גם היא לאטרקטיביות של המניה, מציעה למשקיעים זרם יציב של הכנסות.</p> <p>על רקע ויכוחים ואי-ודאות</p> <p>עם זאת, על הסיפור הזה מרחפת עננה של אי-ודאות. בית המשפט העליון בלואיזיאנה עומד לדון בערעור של אקסון על תביעות נזקי חוף ארוכות טווח, מה שמעורר חרדה בקרב משקיעים. תוצאה לא ודאית זו יכולה להשפיע על המוניטין של החברה ועל עלויות המימון שלה.</p> <p>פורומים מקוונים וחדרי מסחר הומים משיחות סוערות. משקיעים מתעמתים לגבי עתיד הביקוש לנפט, עם קולות התומכים בהתחממות גלובלית המגבירה את הצריכה, מול אלו החוששים מהשפעות סביבתיות ומעבר לאנרגיה מתחדשת. ויכוחים אלו משקפים את המאבק הפנימי של השוק, בעוד אקסון מוביל עומדת במרכזו.</p> <p>מסחר פוליטי וקונגרסיבי</p> <p>הדינמיקה הפוליטית גם היא כאן נכנסת לתמונה. מסחר פעיל בקונגרס, עם רכישות ומכירות על ידי חברי קונגרס בעלי השפעה, מוסיף שכבה נוספת של עניין. פעולות אלו מגלות את ההשפעה העמוקה של מדיניות על ענקיות אנרגיה כמו אקסון.</p> <p>מכירות מבפנים: תנועות חשודות?</p> <p>ובתוך כל זה, מסתכלים המשקיעים בחשדנות על מכירות מבפנים. סגן נשיא תאגידי של החברה הנפיק לאחרונה מניות בשווי משמעותי, מה שעורר ויכוח בקרב אנליסטים. האם זהו סימן לחוסר ביטחון פנימי, או רק התאמה לתיק ההשקעות? השאלה נותרה פתוחה, מוסיפה עוד שכבה של מתח לסיפור.</p> <p>האם כדאי לקנות? MarketBeat מתלבט</p> <p>כאשר MarketBeat, מקור ידוע לניתוח שוק, מציין עלייה של 1.6% במסחר באקסון, זה מעורר ויכוח נוסף. האם זהו זמן אידיאלי לרכוש מניה שצומחת נגד הזרם, או שעדיין מוקדם? ההתלהבות של אנליסטים בשירות זה משקפת את המורכבות של הסיטואציה.</p> <p>בתוך הסערה הכלכלית הזו, אקסון מוביל עומדת כאי של יציבות וביטחון. אך כמו כל סיפור טוב, יש בו טוויסטים ומתחים, מה שהופך את המסע לעבר ההצלחה שלה למרתק ומסקרן. עם כל תנועה בשוק, המשקיעים מתקרבים יותר להבנה מי היא החברה שמאחורי העליות האחרונות במניה.</p> </div> <div class="disclaimer"> <strong>⚠️ אזהרה:</strong> המידע הנ״ל מבוסס על מקורות מידע שונים ועלול להשתנות בכל עת. המידע המוזכר בכתבה זו מוגבל לצורך מחקר והנאה ואין לראות בכתוב המלצה להשקעה. יש להתייעץ עם יועץ פיננסי לפני קבלת החלטות השקעה. <h3>Hippopotamus Research</h3> </div> </div> <div class="footer"> <div class="timestamp">נוצר ב: 18/06/2025 12:19</div> <div class="source">מקור: MarketBeat | עובד באמצעות LLM - aya-expanse:8b</div> </div> </div> </body> </html>

@@ -188,6 +188,43 @@
             .logo-container { width: 80px; height: 80px; }
             .logo-image { width: 70px; height: 70px; }
         }
+        .newsletter-section {
+            margin: 10px auto 10px auto;
+            max-width: 400px;
+            text-align: center;
+            background: none;
+            border-radius: 6px;
+            box-shadow: none;
+            padding: 4px 0 2px 0;
+            border: none;
+            transition: none;
+        }
+        .newsletter-section h3 {
+            color: var(--accent-color);
+            margin-bottom: 4px;
+            font-size: 0.95em;
+            font-weight: 400;
+            opacity: 0.7;
+        }
+        .newsletter-iframe {
+            width: 100%!important;
+            height: 70px;
+            border: none;
+            border-radius: 4px;
+            background: transparent;
+            box-shadow: none;
+            margin: 0 auto;
+            display: block;
+        }
+        @media (max-width: 768px) {
+            .newsletter-section {
+                padding: 2px 0 2px 0;
+                max-width: 98vw;
+            }
+            .newsletter-iframe {
+                height: 80px;
+            }
+        }
     </style>
 </head>
 <body>
@@ -229,6 +266,13 @@
                 <strong>הערה:</strong> הניתוח נוצר באמצעות מודל בינה מלאכותית ועלול לכלול שגיאות כתיב או ניסוח. אנו מתנצלים מראש על אי-הדיוקים האפשריים.<br/><br/>
                 <strong>מקורות המידע:</strong> Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl
                 <h3>Hippopotamus Research</h3>
+            </div>
+            <div class="newsletter-section">
+                <h3>הצטרפו לרשימת התפוצה שלנו</h3>
+                <iframe class="newsletter-iframe"
+                    scrolling="no"
+                    src="https://buttondown.com/nirstam?as_embed=true"
+                ></iframe>
             </div>
         </div>
         <div class="footer">

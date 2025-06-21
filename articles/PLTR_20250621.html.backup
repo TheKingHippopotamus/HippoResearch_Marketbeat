@@ -564,7 +564,7 @@
         
         <div class="content">
             <a href="../index.html" class="back-home-btn"><i class="fas fa-home"></i> חזרה לדף הבית</a>
-            <div class="scroll-hint"><i class="fas fa-angle-double-left"></i> גלול לצדדים <i class="fas fa-angle-double-right"></i></div>
+            
             <div class="newsletter-section" style="margin: 0 auto 30px auto; max-width: 600px; text-align: center;">
                 <h3 style="color: var(--accent-color); margin-bottom: 10px; font-size: 1.2em;">הצטרפו לרשימת התפוצה שלנו</h3>
                 <iframe

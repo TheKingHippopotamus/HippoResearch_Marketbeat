@@ -57,19 +57,20 @@ def convert_tagged_text_to_html(text):
 
 def clean_html_content(html_content):
     """
-    Clean HTML content from problematic markers and formatting, and convert markers to HTML tags
+    Clean HTML content from problematic markers and formatting, and convert markers to HTML tags.
+    Does NOT remove existing HTML tags!
     """
     if not html_content:
         return html_content
-    # המרה של סימונים ל-HTML תקני
+    # Convert only raw markers to HTML
     cleaned = convert_tagged_text_to_html(html_content)
-    # ניקוי כפול של ## מיותרים (אם נשארו)
+    # Remove only raw marker leftovers (##), but NOT HTML tags
     cleaned = re.sub(r'##\s*', '', cleaned)
     cleaned = re.sub(r'#+\s*', '', cleaned)
-    # ניקוי תגי HTML ריקים
+    # Remove empty HTML tags (optional)
     cleaned = re.sub(r'<p>\s*</p>', '', cleaned)
     cleaned = re.sub(r'<h\d>\s*</h\d>', '', cleaned)
-    # הסרת שורות ריקות כפולות
+    # Remove multiple empty lines
     cleaned = re.sub(r'\n\s*\n\s*\n', '\n\n', cleaned)
     return cleaned.strip()
 
