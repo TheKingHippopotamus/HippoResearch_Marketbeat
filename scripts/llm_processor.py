@@ -4,6 +4,10 @@ import json as pyjson
 import re
 import os
 import sys
+import logging
+
+# Setup logging
+logger = logging.getLogger(__name__)
 
 # הוספת הנתיב הראשי למערכת כדי שנוכל לקרוא את קובץ ה-CSV
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -16,9 +20,9 @@ if os.path.exists(csv_path):
         sector_map_df = pd.read_csv(csv_path)
         sector_map = dict(zip(sector_map_df['Tickers'], sector_map_df['GICS Sector']))
     except Exception as e:
-        print(f"⚠️ Warning: Could not load sector mapping: {e}")
+        logger.warning(f"⚠️ Warning: Could not load sector mapping: {e}")
 else:
-    print("⚠️ Warning: CSV file not found, sector mapping will be empty")
+    logger.warning("⚠️ Warning: CSV file not found, sector mapping will be empty")
 
 # פרומפט מעודכן לפי דרישות המשתמש – שכתוב בלבד, ללא פרשנות
 def generate_prompt(original_text: str, ticker_info=None):
@@ -81,10 +85,41 @@ def generate_prompt(original_text: str, ticker_info=None):
 """
     return prompt
 
+def clean_processed_text(text):
+    """
+    מנקה את הטקסט המעובד מסימונים מיותרים ותגים לא נכונים
+    """
+    if not text:
+        return text
+    
+    # הסרת סימונים פנימיים של המערכת
+    text = re.sub(r'TITLE#\s*', '', text)
+    text = re.sub(r'SUBTITLE#\s*', '', text)
+    text = re.sub(r'PARA#\s*', '', text)
+    
+    # הסרת סימונים מיותרים
+    text = re.sub(r'##\s*', '', text)
+    text = re.sub(r'#+\s*', '', text)
+    
+    # ניקוי תגי HTML לא נכונים
+    text = re.sub(r'<p>\s*</p>', '', text)  # תגי p ריקים
+    text = re.sub(r'<h\d>\s*</h\d>', '', text)  # תגי h ריקים
+    
+    # הסרת שורות ריקות מיותרות
+    text = re.sub(r'\n\s*\n\s*\n', '\n\n', text)
+    
+    # ניקוי רווחים מיותרים בתחילת ובסוף
+    text = text.strip()
+    
+    return text
+
 def convert_tagged_text_to_html(text):
     """
     המרת טקסט מסומן (#TITLE#, #SUBTITLE#, #PARA#) ל-HTML תקני, גם אם הסימונים באמצע שורה או עם # מיותר
     """
+    if not text:
+        return text
+    
     # Normalize all markers to canonical form (e.g. ## SUBTITLE# -> #SUBTITLE#)
     text = re.sub(r'#+\s*SUBTITLE#', '#SUBTITLE#', text)
     text = re.sub(r'#+\s*TITLE#', '#TITLE#', text)
@@ -133,21 +168,21 @@ def process_with_gemma(original_text, ticker_info=None):
             capture_output=True
         )
         output = result.stdout.decode("utf-8").strip()
-        print(f"🔍 DEBUG: Raw LLM output (first 200 chars): {output[:200]}...")
+        logger.debug(f"🔍 DEBUG: Raw LLM output (first 200 chars): {output[:200]}...")
         # ניקוי הפלט מכל סוגי JSON ותגים
         cleaned_output = clean_llm_text(output)
-        print(f"🔍 DEBUG: After clean_llm_text (first 200 chars): {cleaned_output[:200]}...")
+        logger.debug(f"🔍 DEBUG: After clean_llm_text (first 200 chars): {cleaned_output[:200]}...")
         # הסרת תגים ועובדות אם עדיין קיימים
         cleaned_output = remove_json_artifacts(cleaned_output)
-        print(f"🔍 DEBUG: After remove_json_artifacts (first 200 chars): {cleaned_output[:200]}...")
+        logger.debug(f"🔍 DEBUG: After remove_json_artifacts (first 200 chars): {cleaned_output[:200]}...")
         # המרה מהפורמט המסומן ל-HTML
         cleaned_output = convert_tagged_text_to_html(cleaned_output)
-        print(f"🔍 DEBUG: After convert_tagged_text_to_html (first 200 chars): {cleaned_output[:200]}...")
-        print(f"🔍 DEBUG: Final output contains '<h': {'<h' in cleaned_output}")
-        print(f"🔍 DEBUG: Final output contains '<p': {'<p' in cleaned_output}")
+        logger.debug(f"🔍 DEBUG: After convert_tagged_text_to_html (first 200 chars): {cleaned_output[:200]}...")
+        logger.debug(f"🔍 DEBUG: Final output contains '<h': {'<h' in cleaned_output}")
+        logger.debug(f"🔍 DEBUG: Final output contains '<p': {'<p' in cleaned_output}")
         return cleaned_output
     except Exception as e:
-        print(f"❌ Error running ollama: {e}")
+        logger.error(f"❌ Error running ollama: {e}")
         return clean_llm_text("שגיאה בעיבוד LLM: " + str(e))
 
 def remove_json_artifacts(text):

@@ -10,9 +10,26 @@ import re
 import subprocess
 from datetime import datetime
 from scripts.html_template import create_html_content
-from scripts.llm_processor import process_with_gemma
+from scripts.llm_processor import process_with_gemma, clean_processed_text
 import random
 import csv
+import logging
+
+# Setup logging
+def setup_logging():
+    """Setup logging configuration"""
+    logging.basicConfig(
+        level=logging.INFO,
+        format='%(asctime)s - %(levelname)s - %(message)s',
+        handlers=[
+            logging.FileHandler('marketbit.log', encoding='utf-8'),
+            logging.StreamHandler()
+        ]
+    )
+    return logging.getLogger(__name__)
+
+# Initialize logger
+logger = setup_logging()
 
 def start_driver():
     options = Options()
@@ -27,9 +44,9 @@ def close_popup_if_present(driver):
             arguments[0].style.display = 'none';
             arguments[0].remove();
         """, popup)
-        print("🧹 Closed popup")
+        logger.info("🧹 Closed popup")
     except Exception:
-        print("✅ No popup found or already closed.")
+        logger.info("✅ No popup found or already closed.")
 
 def find_summary_block(driver, ticker):
     """Find the AI summary block with the specific structure"""
@@ -48,7 +65,7 @@ def find_summary_block(driver, ticker):
         for selector in summary_selectors:
             try:
                 element = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, selector)))
-                print(f"✅ Found AI summary block using selector: {selector}")
+                logger.info(f"✅ Found AI summary block using selector: {selector}")
                 return element
             except:
                 continue
@@ -58,16 +75,16 @@ def find_summary_block(driver, ticker):
             elements = driver.find_elements(By.XPATH, "//div[contains(@class, 'ai-summary') or contains(@class, 'bg-light-blue')]")
             for element in elements:
                 if "AI Generated" in element.text or "Posted" in element.text:
-                    print("✅ Found AI summary block by content pattern")
+                    logger.info("✅ Found AI summary block by content pattern")
                     return element
         except:
             pass
             
-        print(f"❌ Could not find AI summary block for {ticker}")
+        logger.error(f"❌ Could not find AI summary block for {ticker}")
         return None
         
     except Exception as e:
-        print(f"❌ Error finding summary block: {e}")
+        logger.error(f"❌ Error finding summary block: {e}")
         return None
 
 def scrape_text_from_website(ticker, output_dir="txt"):
@@ -75,6 +92,7 @@ def scrape_text_from_website(ticker, output_dir="txt"):
     url = f"https://translate.google.com/translate?sl=en&tl=he&u=https://www.marketbeat.com/stocks/NASDAQ/{ticker}/news/"
     driver = start_driver()
     try:
+        logger.info(f"🌐 Opening URL for {ticker}...")
         driver.get(url)
         time.sleep(1)
 
@@ -82,14 +100,15 @@ def scrape_text_from_website(ticker, output_dir="txt"):
 
         os.makedirs(output_dir, exist_ok=True)
 
+        logger.info(f"🔍 Looking for AI summary block for {ticker}...")
         box = find_summary_block(driver, ticker)
         if box is None:
             raise Exception(f"No matching summary block found for {ticker}")
 
         # Extract only the clean text content
         summary_text = box.text
-        print(f"📄 Original text length: {len(summary_text)} characters")
-        print(f"📄 Original text preview: {summary_text[:100]}...")
+        logger.info(f"📄 Original text length: {len(summary_text)} characters")
+        logger.info(f"📄 Original text preview: {summary_text[:100]}...")
 
         # Save only the clean text file with date
         current_date = get_current_date()
@@ -98,20 +117,20 @@ def scrape_text_from_website(ticker, output_dir="txt"):
         
         with open(original_file_path, 'w', encoding='utf-8') as f:
             f.write(summary_text)
-        print(f"✅ Original text for {ticker} saved → {original_file_path}")
+        logger.info(f"✅ Original text for {ticker} saved → {original_file_path}")
 
         # Verify original file was saved correctly
         with open(original_file_path, 'r', encoding='utf-8') as f:
             saved_original = f.read()
-        print(f"✅ Verified original file: {len(saved_original)} characters")
+        logger.info(f"✅ Verified original file: {len(saved_original)} characters")
 
         return summary_text, original_file_name
     except Exception as e:
-        print(f"❌ Error during scraping: {e}")
+        logger.error(f"❌ Error during scraping: {e}")
         return None, None
     finally:
         driver.quit()
-        print("🌐 Browser closed")
+        logger.info("🌐 Browser closed")
 
 def process_and_create_article(ticker, original_text, original_file_name=None, ticker_info=None, output_dir="txt"):
     """Process text with LLM and create article files"""
@@ -127,10 +146,10 @@ def process_and_create_article(ticker, original_text, original_file_name=None, t
         else:
             text_for_llm = original_text
             
-        print(f"🤖 Processing {ticker} with aya-expanse:8b...")
+        logger.info(f"🤖 Processing {ticker} with aya-expanse:8b...")
         processed_text = process_with_gemma(text_for_llm, ticker_info)
-        print(f"📄 Processed text length: {len(processed_text)} characters")
-        print(f"📄 Processed text preview: {processed_text[:100]}...")
+        logger.info(f"📄 Processed text length: {len(processed_text)} characters")
+        logger.info(f"📄 Processed text preview: {processed_text[:100]}...")
 
         # Save processed text file with date in filename
         current_date = get_current_date()
@@ -138,12 +157,23 @@ def process_and_create_article(ticker, original_text, original_file_name=None, t
         processed_file_path = os.path.join(output_dir, processed_file_name)
         with open(processed_file_path, 'w', encoding='utf-8') as f:
             f.write(processed_text)
-        print(f"✅ Processed text for {ticker} saved → {processed_file_path}")
+        logger.info(f"✅ Processed text for {ticker} saved → {processed_file_path}")
 
         # Verify processed file was saved correctly
         with open(processed_file_path, 'r', encoding='utf-8') as f:
             saved_processed = f.read()
-        print(f"✅ Verified processed file: {len(saved_processed)} characters")
+        logger.info(f"✅ Verified processed file: {len(saved_processed)} characters")
+
+        # Clean the processed text from unnecessary markers
+        cleaned_text = clean_processed_text(processed_text)
+        logger.info(f"🧹 Cleaned text length: {len(cleaned_text)} characters")
+        
+        # Save the cleaned file
+        cleaned_file_name = f"{ticker}_cleaned_{current_date}.txt"
+        cleaned_file_path = os.path.join(output_dir, cleaned_file_name)
+        with open(cleaned_file_path, 'w', encoding='utf-8') as f:
+            f.write(cleaned_text)
+        logger.info(f"✅ Cleaned text for {ticker} saved → {cleaned_file_path}")
 
         # Read original file for comparison
         if original_file_name:
@@ -156,9 +186,9 @@ def process_and_create_article(ticker, original_text, original_file_name=None, t
 
         # Check if files are different
         if saved_original.strip() == processed_text.strip():
-            print("⚠️ WARNING: Original and processed files are identical!")
+            logger.warning("⚠️ WARNING: Original and processed files are identical!")
         else:
-            print("✅ Files are different - processing worked!")
+            logger.info("✅ Files are different - processing worked!")
 
         # Create articles directory if it doesn't exist
         articles_dir = "articles"
@@ -169,8 +199,9 @@ def process_and_create_article(ticker, original_text, original_file_name=None, t
         html_filename = f"{safe_ticker}_{current_date}.html"
         html_file_path = os.path.join(articles_dir, html_filename)
 
-        # Create HTML with processed content and tags, pass extra info
-        html_content, ticker_badge_with_logo = create_html_content(ticker, processed_text, ticker_info=ticker_info)
+        # Create HTML with cleaned content and tags, pass extra info
+        logger.info(f"🎨 Creating HTML article for {ticker}...")
+        html_content, ticker_badge_with_logo = create_html_content(ticker, cleaned_text, ticker_info=ticker_info)
         
         # Create the full HTML page with the ticker badge in the header
         full_html = f'''<!DOCTYPE html>
@@ -780,25 +811,25 @@ def process_and_create_article(ticker, original_text, original_file_name=None, t
 
         # Add metadata (now without tags)
         add_article_metadata(ticker, title, html_filename, summary, ticker_info=ticker_info)
-        print(f"✅ Economic article for {ticker} saved → {html_file_path}")
-        print(f"✅ Article metadata added to articles_metadata.json")
+        logger.info(f"✅ Economic article for {ticker} saved → {html_file_path}")
+        logger.info(f"✅ Article metadata added to articles_metadata.json")
     except Exception as e:
-        print(f"❌ Error during processing: {e}")
+        logger.error(f"❌ Error during processing: {e}")
 
 def capture_summary_exact(ticker, output_dir="txt"):
     """Main function to scrape and process"""
-    print(f"🚀 Starting process for {ticker}")
+    logger.info(f"🚀 Starting process for {ticker}")
     # Step 1: Scrape text from website
     original_text, original_file_name = scrape_text_from_website(ticker, output_dir)
     if original_text is None:
-        print("❌ Failed to scrape text from website")
+        logger.error("❌ Failed to scrape text from website")
         return
     # Step 2: Process with LLM (after browser is closed)
     # נטען את המידע מה-CSV עבור הטיקר
     ticker_metadata = load_ticker_metadata()
     ticker_info = ticker_metadata.get(ticker, {})
     process_and_create_article(ticker, original_text, original_file_name, ticker_info=ticker_info, output_dir=output_dir)
-    print(f"✅ Process completed for {ticker}")
+    logger.info(f"✅ Process completed for {ticker}")
 
 def copy_static_files(output_dir):
     """Copy static files (logo, x icon) to output directory"""
@@ -810,16 +841,16 @@ def copy_static_files(output_dir):
             logo_dst = os.path.join(output_dir, "logo.png")
             if os.path.exists(logo_src):
                 shutil.copy2(logo_src, logo_dst)
-                print(f"✅ Copied logo.png to {output_dir}")
+                logger.info(f"✅ Copied logo.png to {output_dir}")
             
             # Copy x.png
             x_src = os.path.join(static_dir, "x.png")
             x_dst = os.path.join(output_dir, "x.png")
             if os.path.exists(x_src):
                 shutil.copy2(x_src, x_dst)
-                print(f"✅ Copied x.png to {output_dir}")
+                logger.info(f"✅ Copied x.png to {output_dir}")
     except Exception as e:
-        print(f"⚠️ Warning: Could not copy static files: {e}")
+        logger.warning(f"⚠️ Warning: Could not copy static files: {e}")
 
 def create_safe_filename(ticker):
     """Create a safe filename from ticker symbol"""
@@ -843,7 +874,7 @@ def load_metadata():
             with open(metadata_file, 'r', encoding='utf-8') as f:
                 return json.load(f)
         except Exception as e:
-            print(f"⚠️ Warning: Could not load metadata: {e}")
+            logger.warning(f"⚠️ Warning: Could not load metadata: {e}")
     return []
 
 def save_metadata(metadata):
@@ -852,9 +883,9 @@ def save_metadata(metadata):
     try:
         with open(metadata_file, 'w', encoding='utf-8') as f:
             json.dump(metadata, f, ensure_ascii=False, indent=2)
-        print(f"✅ Metadata saved to {metadata_file}")
+        logger.info(f"✅ Metadata saved to {metadata_file}")
     except Exception as e:
-        print(f"❌ Error saving metadata: {e}")
+        logger.error(f"❌ Error saving metadata: {e}")
 
 def add_article_metadata(ticker, title, filename, summary, tags=None, ticker_info=None):
     """Add new article metadata to the JSON file, including tags and extra info"""
@@ -878,7 +909,7 @@ def migrate_existing_articles():
     try:
         articles_dir = "articles"
         if not os.path.exists(articles_dir):
-            print("⚠️ Articles directory not found")
+            logger.warning("⚠️ Articles directory not found")
             return
         
         # Find existing article files
@@ -889,10 +920,10 @@ def migrate_existing_articles():
                 existing_files.append((ticker, file))
         
         if not existing_files:
-            print("✅ No existing articles to migrate")
+            logger.info("✅ No existing articles to migrate")
             return
         
-        print(f"🔄 Found {len(existing_files)} existing articles to migrate")
+        logger.info(f"🔄 Found {len(existing_files)} existing articles to migrate")
         
         # Load current metadata
         metadata = load_metadata()
@@ -910,7 +941,7 @@ def migrate_existing_articles():
             # Rename file
             if os.path.exists(old_path):
                 os.rename(old_path, new_path)
-                print(f"✅ Renamed {old_filename} → {new_filename}")
+                logger.info(f"✅ Renamed {old_filename} → {new_filename}")
                 
                 # Update metadata
                 # Find existing metadata entry
@@ -924,7 +955,7 @@ def migrate_existing_articles():
                     # Update filename and timestamp
                     existing_entry['filename'] = new_filename
                     existing_entry['timestamp'] = get_current_timestamp()
-                    print(f"✅ Updated metadata for {ticker}")
+                    logger.info(f"✅ Updated metadata for {ticker}")
                 else:
                     # Create new metadata entry
                     new_entry = {
@@ -935,14 +966,14 @@ def migrate_existing_articles():
                         "summary": f"ניתוח סיבתיות של תנועות מניה: {ticker} - ניתוח מעמיק של הצהרות הנהלה, עסקאות מוסדיות ומהלכים משפטיים."
                     }
                     metadata.append(new_entry)
-                    print(f"✅ Added new metadata for {ticker}")
+                    logger.info(f"✅ Added new metadata for {ticker}")
         
         # Save updated metadata
         save_metadata(metadata)
-        print(f"✅ Migration completed for {len(existing_files)} articles")
+        logger.info(f"✅ Migration completed for {len(existing_files)} articles")
         
     except Exception as e:
-        print(f"❌ Error during migration: {e}")
+        logger.error(f"❌ Error during migration: {e}")
 
 def load_ticker_metadata():
     """Load ticker metadata from CSV into a dict: {ticker: {fields...}}"""
@@ -961,7 +992,7 @@ def load_ticker_metadata():
                         "Headquarters Location": row.get("Headquarters Location", "").strip()
                     }
     except Exception as e:
-        print(f"❌ Error loading ticker metadata from CSV: {e}")
+        logger.error(f"❌ Error loading ticker metadata from CSV: {e}")
     return ticker_info
 
 def load_tickers_from_json():
@@ -971,13 +1002,13 @@ def load_tickers_from_json():
             data = json.load(f)
             return data.get('tickers', [])
     except Exception as e:
-        print(f"❌ Error loading tickers from JSON: {e}")
+        logger.error(f"❌ Error loading tickers from JSON: {e}")
         return []
 
 def commit_and_push_changes(ticker):
     """Commit and push changes to repository after processing a ticker"""
     try:
-        print(f"🔄 Committing changes for {ticker}...")
+        logger.info(f"🔄 Committing changes for {ticker}...")
         
         # Add all changes
         subprocess.run(['git', 'add', '.'], check=True)
@@ -993,19 +1024,19 @@ def commit_and_push_changes(ticker):
             subprocess.run(['git', 'push'], check=True)
         except subprocess.CalledProcessError as e:
             if "no upstream branch" in str(e) or "set-upstream" in str(e):
-                print("🔄 Setting upstream branch and pushing...")
+                logger.info("🔄 Setting upstream branch and pushing...")
                 subprocess.run(['git', 'push', '--set-upstream', 'origin', 'main'], check=True)
             else:
                 raise e
         
-        print(f"✅ Successfully committed and pushed changes for {ticker}")
+        logger.info(f"✅ Successfully committed and pushed changes for {ticker}")
         return True
         
     except subprocess.CalledProcessError as e:
-        print(f"❌ Error during git operations: {e}")
+        logger.error(f"❌ Error during git operations: {e}")
         return False
     except Exception as e:
-        print(f"❌ Unexpected error during commit: {e}")
+        logger.error(f"❌ Unexpected error during commit: {e}")
         return False
 
 def load_unavailable_tickers():
@@ -1040,6 +1071,9 @@ def save_today_processed(tickers):
 
 def process_all_tickers():
     """Process all tickers from CSV file in random order, skipping already processed and unavailable ones"""
+    logger.info("🚀 Starting ticker processing pipeline...")
+    logger.info("="*60)
+    
     ticker_metadata = load_ticker_metadata()
     tickers = set(ticker_metadata.keys())
     unavailable = load_unavailable_tickers()
@@ -1048,41 +1082,75 @@ def process_all_tickers():
     # Remove unavailable and already processed
     candidates = list(tickers - unavailable - today_processed)
     if not candidates:
-        print("✅ No new tickers to process today!")
+        logger.info("✅ No new tickers to process today!")
         return
     
-    print(f"🚀 {len(candidates)} tickers left to process today.")
+    logger.info(f"📊 Found {len(candidates)} tickers to process today")
+    logger.info(f"📊 Total tickers in database: {len(tickers)}")
+    logger.info(f"📊 Already processed today: {len(today_processed)}")
+    logger.info(f"📊 Unavailable tickers: {len(unavailable)}")
+    logger.info("="*60)
+    
     random.shuffle(candidates)
     
-    for ticker in candidates:
-        print(f"\n{'='*50}")
-        print(f"Processing ticker: {ticker}")
-        print(f"{'='*50}")
+    for i, ticker in enumerate(candidates, 1):
+        logger.info(f"\n{'='*60}")
+        logger.info(f"🔄 Processing ticker {i}/{len(candidates)}: {ticker}")
+        logger.info(f"{'='*60}")
+        
         try:
-            # Process the ticker (scraping needs only ticker)
+            # Step 1: Scrape text from website
+            logger.info(f"🌐 Step 1: Scraping text for {ticker}...")
             result = scrape_text_from_website(ticker)
+            
             if not result or not result[0]:
-                print(f"❌ No data found for {ticker}, adding to unavailable list.")
+                logger.error(f"❌ No data found for {ticker}, adding to unavailable list")
                 unavailable.add(ticker)
                 save_unavailable_tickers(unavailable)
+                logger.info(f"⏳ Waiting 2 seconds before next ticker...")
+                time.sleep(2)
                 continue
-            # Step 2: Process with LLM (after browser is closed)
-            # Pass metadata for richer processing
+                
+            logger.info(f"✅ Scraping completed for {ticker}")
+            logger.info(f"⏳ Waiting 3 seconds before LLM processing...")
+            time.sleep(3)
+            
+            # Step 2: Process with LLM
+            logger.info(f"🤖 Step 2: Processing {ticker} with LLM...")
             process_and_create_article(ticker, result[0], result[1], ticker_metadata.get(ticker, {}))
+            logger.info(f"✅ LLM processing completed for {ticker}")
+            
+            # Step 3: Update tracking
             today_processed.add(ticker)
             save_today_processed(today_processed)
-            print("⏳ Waiting 3 seconds before committing...")
+            logger.info(f"✅ Updated processing status for {ticker}")
+            
+            # Step 4: Commit and push changes
+            logger.info(f"⏳ Waiting 3 seconds before committing changes...")
             time.sleep(3)
+            logger.info(f"📝 Step 3: Committing changes for {ticker}...")
+            
             if commit_and_push_changes(ticker):
-                print(f"✅ Successfully completed processing for {ticker}")
+                logger.info(f"✅ Successfully committed and pushed changes for {ticker}")
             else:
-                print(f"⚠️ Warning: Failed to commit changes for {ticker}")
-            print("⏳ Waiting 5 seconds before next ticker...")
-            time.sleep(5)
+                logger.warning(f"⚠️ Warning: Failed to commit changes for {ticker}")
+            
+            # Wait before next ticker
+            if i < len(candidates):  # Don't wait after the last ticker
+                logger.info(f"⏳ Waiting 5 seconds before next ticker...")
+                time.sleep(5)
+                
         except Exception as e:
-            print(f"❌ Error processing {ticker}: {e}")
+            logger.error(f"❌ Error processing {ticker}: {e}")
+            logger.info(f"⏳ Waiting 3 seconds before next ticker...")
+            time.sleep(3)
             continue
-    print(f"\n🎉 Completed processing all available tickers for today!")
+            
+    logger.info(f"\n{'='*60}")
+    logger.info(f"🎉 Completed processing all available tickers for today!")
+    logger.info(f"📊 Total processed: {len(today_processed)}")
+    logger.info(f"📊 Remaining unavailable: {len(unavailable)}")
+    logger.info(f"{'='*60}")
 
 if __name__ == "__main__":
     process_all_tickers()
