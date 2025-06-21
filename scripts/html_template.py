@@ -83,7 +83,6 @@ def create_html_content(ticker, summary_text, ticker_info=None):
     <div class="article-container">
         {newsletter_html}
         <div class="article-content-text">
-            {ticker_badge_with_logo}
             {formatted_content}
         </div>
     </div>

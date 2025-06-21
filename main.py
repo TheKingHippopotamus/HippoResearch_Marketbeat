@@ -218,7 +218,6 @@ def process_and_create_article(ticker, original_text, original_file_name=None, t
         # Replace placeholders
         full_html = template.replace("{{TITLE}}", dynamic_title)
         full_html = full_html.replace("{{TICKER}}", ticker)
-        full_html = full_html.replace("{{LOGO_URL}}", logo_url)
         full_html = full_html.replace("{{ARTICLE_BODY}}", formatted_content)
         full_html = full_html.replace("{{TIMESTAMP}}", timestamp)
         with open(html_file_path, 'w', encoding='utf-8') as f:

@@ -110,31 +110,50 @@ def convert_tagged_text_to_html(text):
     """
     if not text:
         return text
-    # הסר כל סימון מיותר (כולל ##, TITLE#, SUBTITLE#, PARA# בכל מקום)
-    text = re.sub(r'#+\s*TITLE#', '#TITLE#', text)
-    text = re.sub(r'#+\s*SUBTITLE#', '#SUBTITLE#', text)
-    text = re.sub(r'#+\s*PARA#', '#PARA#', text)
-    text = re.sub(r'#+\s*', '', text)  # הסר כל ## או # מיותר
-    # פצל לפי סימונים
-    parts = re.split(r'(#TITLE#|#SUBTITLE#|#PARA#)', text)
-    html_lines = []
-    current_tag = None
-    for part in parts:
-        part = part.strip()
-        if not part:
+    
+    # קודם כל, נמיר סימוני markdown רגילים לכותרות
+    lines = text.split('\n')
+    processed_lines = []
+    
+    for line in lines:
+        line = line.strip()
+        if not line:
             continue
-        if part in ['#TITLE#', '#SUBTITLE#', '#PARA#']:
-            current_tag = part
-        else:
-            if current_tag == '#TITLE#':
-                html_lines.append(f"<h1>{part}</h1>")
-            elif current_tag == '#SUBTITLE#':
-                html_lines.append(f"<h2>{part}</h2>")
-            elif current_tag == '#PARA#':
-                html_lines.append(f"<p>{part}</p>")
+            
+        # טיפול בסימוני markdown רגילים
+        if line.startswith('# '):
+            processed_lines.append(f"<h1>{line[2:]}</h1>")
+        elif line.startswith('## '):
+            processed_lines.append(f"<h2>{line[3:]}</h2>")
+        elif line.startswith('### '):
+            processed_lines.append(f"<h3>{line[4:]}</h3>")
+        elif line.startswith('#### '):
+            processed_lines.append(f"<h4>{line[5:]}</h4>")
+        elif line.startswith('#') and not line.startswith('# '):
+            # טיפול במקרים כמו #RTX או #TITLE
+            if line.startswith('#TITLE#'):
+                processed_lines.append(f"<h1>{line[7:]}</h1>")
+            elif line.startswith('#SUBTITLE#'):
+                processed_lines.append(f"<h2>{line[10:]}</h2>")
+            elif line.startswith('#PARA#'):
+                processed_lines.append(f"<p>{line[6:]}</p>")
             else:
-                html_lines.append(f"<p>{part}</p>")
-    html = '\n'.join(html_lines)
+                # אם זה # רגיל ללא רווח, נניח שזה כותרת h1
+                processed_lines.append(f"<h1>{line[1:]}</h1>")
+        else:
+            # אם זה לא כותרת, נטפל בסימונים המיוחדים שלנו
+            if line.startswith('#TITLE#'):
+                processed_lines.append(f"<h1>{line[7:]}</h1>")
+            elif line.startswith('#SUBTITLE#'):
+                processed_lines.append(f"<h2>{line[10:]}</h2>")
+            elif line.startswith('#PARA#'):
+                processed_lines.append(f"<p>{line[6:]}</p>")
+            else:
+                # אם אין סימון, נניח שזה פסקה רגילה
+                processed_lines.append(f"<p>{line}</p>")
+    
+    html = '\n'.join(processed_lines)
+    
     # ניקוי תגיות ריקות או כפולות
     html = re.sub(r'<p>\s*</p>', '', html)
     html = re.sub(r'<h\d>\s*</h\d>', '', html)
@@ -144,6 +163,17 @@ def convert_tagged_text_to_html(text):
     html = re.sub(r'</h1>\s*</h1>', '</h1>', html)
     html = re.sub(r'<h2>\s*<h2>', '<h2>', html)
     html = re.sub(r'</h2>\s*</h2>', '</h2>', html)
+    html = re.sub(r'<h3>\s*<h3>', '<h3>', html)
+    html = re.sub(r'</h3>\s*</h3>', '</h3>', html)
+    
+    # ניקוי סימונים כפולים בתוך התוכן
+    html = re.sub(r'<h1>##\s*', '<h1>', html)
+    html = re.sub(r'<h2>##\s*', '<h2>', html)
+    html = re.sub(r'<h3>##\s*', '<h3>', html)
+    html = re.sub(r'<h1>#\s*', '<h1>', html)
+    html = re.sub(r'<h2>#\s*', '<h2>', html)
+    html = re.sub(r'<h3>#\s*', '<h3>', html)
+    
     # הסר שורות ריקות מרובות
     html = re.sub(r'\n\s*\n', '\n', html)
     return html.strip()
