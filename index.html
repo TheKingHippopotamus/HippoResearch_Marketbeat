@@ -652,6 +652,16 @@
             });
         }
         
+        function cleanSummary(summary) {
+            if (!summary) return '';
+            // Remove all variations of TITLE, SUBTITLE, PARA markers (with/without #, with/without spaces)
+            return summary
+                .replace(/(^|\n)\s*(TITLE[#]*|SUBTITLE[#]*|#*SUBTITLE[#]*|PARA[#]*|#*PARA[#]*|##+)\s*/gi, '$1')
+                .replace(/TITLE[#]*|SUBTITLE[#]*|#*SUBTITLE[#]*|PARA[#]*|#*PARA[#]*|##+/gi, '')
+                .replace(/\n{2,}/g, '\n')
+                .replace(/^\s+|\s+$/g, '');
+        }
+        
         function displayArticles(metadata, filterValue = "") {
             const container = document.getElementById('articles-container');
             // מיון לפי זמן פרסום
@@ -668,23 +678,13 @@
                     <p style="color: var(--text-dark); font-size: 1.1em;">סה\"כ כתבות: ${sortedArticles.length} | כתבה אחרונה: ${sortedArticles[0].timestamp}</p>
                     <div class=\"scroll-hint\"><i class=\"fas fa-angle-double-left\"></i> <i class=\"fas fa-angle-double-right\"></i></div>
                 </div>
-                <div class=\"articles-grid\">
-            `;
+                <div class=\"articles-grid\">\n`;
             if (filtered.length === 0) {
                 html += `<div style='color:#e94560;text-align:center;width:100%;font-size:1.1em;padding:40px;'>לא נמצאו כתבות לטיקר שחיפשת</div>`;
             } else {
                 filtered.forEach(article => {
                     html += `
-                        <div class=\"article-card\">
-                            <div class=\"article-ticker\">${article.ticker}</div>
-                            <h3 class=\"article-title\">${article.title}</h3>
-                            <p class=\"article-summary\">${article.summary}</p>
-                            <div class=\"article-meta\">
-                                <span>📅 ${article.timestamp}</span>
-                                <a href=\"articles/${article.filename}\" class=\"article-link\">קרא כתבה</a>
-                            </div>
-                        </div>
-                    `;
+                        <div class=\"article-card\">\n                            <div class=\"article-ticker\">${article.ticker}</div>\n                            <h3 class=\"article-title\">${article.title}</h3>\n                            <p class=\"article-summary\">${cleanSummary(article.summary)}</p>\n                            <div class=\"article-meta\">\n                                <span>📅 ${article.timestamp}</span>\n                                <a href=\"articles/${article.filename}\" class=\"article-link\">קרא כתבה</a>\n                            </div>\n                        </div>\n                    `;
                 });
             }
             html += '</div>';

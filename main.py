@@ -9,7 +9,7 @@ import json
 import re
 import subprocess
 from datetime import datetime
-from scripts.html_template import create_html_content
+from scripts.html_template import create_html_content, get_company_logo_url
 from scripts.llm_processor import process_with_gemma, convert_tagged_text_to_html
 import random
 import csv
@@ -207,25 +207,20 @@ def process_and_create_article(ticker, original_text, original_file_name=None, t
 
         # Create HTML with cleaned content and tags, pass extra info
         logger.info(f"🎨 Creating HTML article for {ticker}...")
-        html_content, ticker_badge_with_logo = create_html_content(ticker, cleaned_text, ticker_info=ticker_info)
-        
-        # שליפת head מהתבנית
-        new_head = extract_head_section()
-        # קביעת טייטל דינמי
+        formatted_content = convert_tagged_text_to_html(cleaned_text)
+        logo_url = get_company_logo_url(ticker, ticker_info)
         company_name = ticker_info.get('Security') or ticker
         dynamic_title = f"{company_name} ({ticker}) - מחקר כלכלי מתקדם | Hippopotamus Research"
-        # החלפת ה-title ב-head
-        new_head = re.sub(r'<title>.*?</title>', f'<title>{dynamic_title}</title>', new_head, flags=re.DOTALL)
-        # בניית עמוד מלא
-        full_html = f'''<!DOCTYPE html>
-<html lang="he" dir="rtl">
-{new_head}
-<body>
-    <div class="container">
-        {html_content}
-    </div>
-</body>
-</html>'''
+        timestamp = get_current_timestamp()
+        # Load the new template
+        with open("article_template.html", "r", encoding="utf-8") as f:
+            template = f.read()
+        # Replace placeholders
+        full_html = template.replace("{{TITLE}}", dynamic_title)
+        full_html = full_html.replace("{{TICKER}}", ticker)
+        full_html = full_html.replace("{{LOGO_URL}}", logo_url)
+        full_html = full_html.replace("{{ARTICLE_BODY}}", formatted_content)
+        full_html = full_html.replace("{{TIMESTAMP}}", timestamp)
         with open(html_file_path, 'w', encoding='utf-8') as f:
             f.write(full_html)
 
