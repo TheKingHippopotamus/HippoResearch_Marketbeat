@@ -124,6 +124,12 @@ def convert_tagged_text_to_html(text):
     subpara_pattern = re.compile(r'^פסקה משנה:\s*(.*)$')
     # דפוס לזיהוי "פסקה אחרונה: ..."
     lastpara_pattern = re.compile(r'^פסקה אחרונה:\s*(.*)$')
+    # דפוס לזיהוי TITLE# ...
+    title_hash_pattern = re.compile(r'^TITLE#\s*(.*)$')
+    # דפוס לזיהוי SUBTITLE# (עם או בלי ##)
+    subtitle_hash_pattern = re.compile(r'^(##\s*)?SUBTITLE#\s*(.*)$')
+    # דפוס לזיהוי #PARA# ...
+    para_hash_pattern = re.compile(r'^#PARA#\s*(.*)$')
 
     for line in lines:
         line = line.strip()
@@ -159,6 +165,27 @@ def convert_tagged_text_to_html(text):
             lastpara = m.group(1).strip()
             if lastpara:
                 processed_lines.append(f'<h3>{lastpara}</h3>')
+            continue
+        # TITLE# pattern
+        m = title_hash_pattern.match(line)
+        if m:
+            title = m.group(1).strip()
+            if title:
+                processed_lines.append(f'<h1>{title}</h1>')
+            continue
+        # SUBTITLE# pattern
+        m = subtitle_hash_pattern.match(line)
+        if m:
+            subtitle = m.group(2).strip()
+            if subtitle:
+                processed_lines.append(f'<h2>{subtitle}</h2>')
+            continue
+        # #PARA# pattern
+        m = para_hash_pattern.match(line)
+        if m:
+            para_text = m.group(1).strip()
+            if para_text:
+                processed_lines.append(f'<p>{para_text}</p>')
             continue
         # markdown
         if line.startswith('### '):
