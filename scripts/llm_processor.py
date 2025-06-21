@@ -128,8 +128,14 @@ def convert_tagged_text_to_html(text):
     title_hash_pattern = re.compile(r'^TITLE#\s*(.*)$')
     # דפוס לזיהוי SUBTITLE# (עם או בלי ##)
     subtitle_hash_pattern = re.compile(r'^(##\s*)?SUBTITLE#\s*(.*)$')
+    # דפוס לזיהוי ## #pattern (like PFE uses)
+    subtitle_hash_alt_pattern = re.compile(r'^##\s*#([^#]+)$')
     # דפוס לזיהוי #PARA# ...
     para_hash_pattern = re.compile(r'^#PARA#\s*(.*)$')
+    # דפוס לזיהוי ### PARA# ...
+    para_hash_triple_pattern = re.compile(r'^###\s*PARA#\s*(.*)$')
+    # דפוס לזיהוי # פסקה ראשונה:, # פסקה שנייה: וכו'
+    hebrew_para_pattern = re.compile(r'^#\s*פסקה\s+(ראשונה|שנייה|שלישית|רביעית|חמישית|שישית|שביעית|שמינית|תשיעית|עשירית):\s*(.*)$')
 
     for line in lines:
         line = line.strip()
@@ -180,10 +186,37 @@ def convert_tagged_text_to_html(text):
             if subtitle:
                 processed_lines.append(f'<h2>{subtitle}</h2>')
             continue
+        # ## #pattern (like PFE uses)
+        m = subtitle_hash_alt_pattern.match(line)
+        if m:
+            subtitle = m.group(1).strip()
+            if subtitle:
+                processed_lines.append(f'<h2>{subtitle}</h2>')
+            continue
         # #PARA# pattern
         m = para_hash_pattern.match(line)
         if m:
             para_text = m.group(1).strip()
+            if para_text:
+                processed_lines.append(f'<p>{para_text}</p>')
+            continue
+        # ### PARA# pattern
+        m = para_hash_triple_pattern.match(line)
+        if m:
+            para_text = m.group(1).strip()
+            if para_text:
+                processed_lines.append(f'<p>{para_text}</p>')
+            continue
+        # Hebrew paragraph pattern (# פסקה ראשונה:, etc.)
+        m = hebrew_para_pattern.match(line)
+        if m:
+            para_text = m.group(2).strip()
+            if para_text:
+                processed_lines.append(f'<p>{para_text}</p>')
+            continue
+        # ### pattern for paragraphs (like ORCL uses)
+        if line.startswith('### ') and not line.startswith('### PARA#') and not line.startswith('### SUBTITLE#'):
+            para_text = line[4:].strip()
             if para_text:
                 processed_lines.append(f'<p>{para_text}</p>')
             continue
