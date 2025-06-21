@@ -132,6 +132,10 @@ def convert_tagged_text_to_html(text):
     subtitle_hash_alt_pattern = re.compile(r'^##\s*#([^#]+)$')
     # דפוס לזיהוי ## ## pattern (like INCY uses)
     subtitle_double_hash_pattern = re.compile(r'^##\s*##\s*(.*)$')
+    # דפוס לזיהוי ## #SUBTITLE# pattern (like GOOGL uses)
+    subtitle_hash_with_hash_pattern = re.compile(r'^##\s*#SUBTITLE#\s*(.*)$')
+    # דפוס לזיהוי ## #PARA# pattern (like GOOGL uses)
+    para_hash_with_hash_pattern = re.compile(r'^##\s*#PARA#\s*(.*)$')
     # דפוס לזיהוי #PARA# ...
     para_hash_pattern = re.compile(r'^#PARA#\s*(.*)$')
     # דפוס לזיהוי ### PARA# ...
@@ -202,15 +206,22 @@ def convert_tagged_text_to_html(text):
             if subtitle:
                 processed_lines.append(f'<h2>{subtitle}</h2>')
             continue
-        # #PARA# pattern
-        m = para_hash_pattern.match(line)
+        # ## #SUBTITLE# pattern (like GOOGL uses)
+        m = subtitle_hash_with_hash_pattern.match(line)
+        if m:
+            subtitle = m.group(1).strip()
+            if subtitle:
+                processed_lines.append(f'<h2>{subtitle}</h2>')
+            continue
+        # ## #PARA# pattern (like GOOGL uses)
+        m = para_hash_with_hash_pattern.match(line)
         if m:
             para_text = m.group(1).strip()
             if para_text:
                 processed_lines.append(f'<p>{para_text}</p>')
             continue
-        # ### PARA# pattern
-        m = para_hash_triple_pattern.match(line)
+        # #PARA# pattern
+        m = para_hash_pattern.match(line)
         if m:
             para_text = m.group(1).strip()
             if para_text:
