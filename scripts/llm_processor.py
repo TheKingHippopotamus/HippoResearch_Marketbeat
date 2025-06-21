@@ -150,7 +150,7 @@ def convert_tagged_text_to_html(text):
 def process_with_gemma(original_text, ticker_info=None):
     """
     Process the original text with the LLM (aya-expanse:8b) using ONLY rephrasing and restructuring rules.
-    Returns the processed text as a string.
+    Returns the processed text as a string with markers (#TITLE#, #SUBTITLE#, #PARA#).
     """
     prompt = generate_prompt(original_text, ticker_info)
 
@@ -169,18 +169,18 @@ def process_with_gemma(original_text, ticker_info=None):
         )
         output = result.stdout.decode("utf-8").strip()
         logger.debug(f"🔍 DEBUG: Raw LLM output (first 200 chars): {output[:200]}...")
+        
         # ניקוי הפלט מכל סוגי JSON ותגים
         cleaned_output = clean_llm_text(output)
         logger.debug(f"🔍 DEBUG: After clean_llm_text (first 200 chars): {cleaned_output[:200]}...")
+        
         # הסרת תגים ועובדות אם עדיין קיימים
         cleaned_output = remove_json_artifacts(cleaned_output)
         logger.debug(f"🔍 DEBUG: After remove_json_artifacts (first 200 chars): {cleaned_output[:200]}...")
-        # המרה מהפורמט המסומן ל-HTML
-        cleaned_output = convert_tagged_text_to_html(cleaned_output)
-        logger.debug(f"🔍 DEBUG: After convert_tagged_text_to_html (first 200 chars): {cleaned_output[:200]}...")
-        logger.debug(f"🔍 DEBUG: Final output contains '<h': {'<h' in cleaned_output}")
-        logger.debug(f"🔍 DEBUG: Final output contains '<p': {'<p' in cleaned_output}")
+        
+        # החזרת הטקסט הגולמי עם הסימונים - לא HTML!
         return cleaned_output
+        
     except Exception as e:
         logger.error(f"❌ Error running ollama: {e}")
         return clean_llm_text("שגיאה בעיבוד LLM: " + str(e))
