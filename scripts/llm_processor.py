@@ -130,6 +130,8 @@ def convert_tagged_text_to_html(text):
     subtitle_hash_pattern = re.compile(r'^(##\s*)?SUBTITLE#\s*(.*)$')
     # דפוס לזיהוי ## #pattern (like PFE uses)
     subtitle_hash_alt_pattern = re.compile(r'^##\s*#([^#]+)$')
+    # דפוס לזיהוי ## ## pattern (like INCY uses)
+    subtitle_double_hash_pattern = re.compile(r'^##\s*##\s*(.*)$')
     # דפוס לזיהוי #PARA# ...
     para_hash_pattern = re.compile(r'^#PARA#\s*(.*)$')
     # דפוס לזיהוי ### PARA# ...
@@ -188,6 +190,13 @@ def convert_tagged_text_to_html(text):
             continue
         # ## #pattern (like PFE uses)
         m = subtitle_hash_alt_pattern.match(line)
+        if m:
+            subtitle = m.group(1).strip()
+            if subtitle:
+                processed_lines.append(f'<h2>{subtitle}</h2>')
+            continue
+        # ## ## pattern (like INCY uses)
+        m = subtitle_double_hash_pattern.match(line)
         if m:
             subtitle = m.group(1).strip()
             if subtitle:
