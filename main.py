@@ -598,5 +598,69 @@ def process_all_tickers():
     logger.info(f"📊 Remaining unavailable: {len(unavailable)}")
     logger.info(f"{'='*60}")
 
+def process_single_ticker(ticker):
+    """Process a single ticker for development/testing purposes"""
+    logger.info(f"🚀 Starting single ticker processing for: {ticker}")
+    logger.info("="*60)
+    
+    ticker_metadata = load_ticker_metadata()
+    ticker_info = ticker_metadata.get(ticker, {})
+    
+    if not ticker_info:
+        logger.warning(f"⚠️ Warning: {ticker} not found in CSV metadata, using basic info")
+        ticker_info = {"Security": ticker}
+    
+    logger.info(f"📊 Processing ticker: {ticker}")
+    logger.info(f"📊 Company: {ticker_info.get('Security', 'Unknown')}")
+    logger.info(f"📊 Sector: {ticker_info.get('GICS Sector', 'Unknown')}")
+    logger.info("="*60)
+    
+    try:
+        # Step 1: Scrape text from website
+        logger.info(f"🌐 Step 1: Scraping text for {ticker}...")
+        result = scrape_text_from_website(ticker)
+        
+        if not result or not result[0]:
+            logger.error(f"❌ No data found for {ticker}")
+            return False
+            
+        logger.info(f"✅ Scraping completed for {ticker}")
+        logger.info(f"⏳ Waiting 3 seconds before LLM processing...")
+        time.sleep(3)
+        
+        # Step 2: Process with LLM
+        logger.info(f"🤖 Step 2: Processing {ticker} with LLM...")
+        process_and_create_article(ticker, result[0], result[1], ticker_info)
+        logger.info(f"✅ LLM processing completed for {ticker}")
+        
+        # Step 3: תיקון אוטומטי של עיצוב המאמר
+        auto_fix_article_html(ticker)
+        logger.info(f"✅ Auto-fix completed for {ticker}")
+
+        # Step 4: Commit and push changes
+        logger.info(f"📝 Step 3: Committing changes for {ticker}...")
+        if commit_and_push_changes(ticker):
+            logger.info(f"✅ Successfully committed and pushed changes for {ticker}")
+        else:
+            logger.warning(f"⚠️ Warning: Failed to commit changes for {ticker}")
+        
+        logger.info(f"\n{'='*60}")
+        logger.info(f"🎉 Successfully completed processing for {ticker}!")
+        logger.info(f"{'='*60}")
+        return True
+        
+    except Exception as e:
+        logger.error(f"❌ Error processing {ticker}: {e}")
+        return False
+
 if __name__ == "__main__":
-    process_all_tickers()
+    import sys
+    
+    # Check if a specific ticker was provided as command line argument
+    if len(sys.argv) > 1:
+        ticker = sys.argv[1].upper()
+        logger.info(f"🎯 Single ticker mode: Processing {ticker}")
+        process_single_ticker(ticker)
+    else:
+        logger.info("📊 Batch mode: Processing all tickers from CSV")
+        process_all_tickers()
