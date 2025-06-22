@@ -1,14 +1,15 @@
 <!DOCTYPE html>
+
 <html dir="rtl" lang="he">
- <head>
-  <meta charset="utf-8"/>
-  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-  <title>
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>
    דוח ניתוח סיבתיות - NFLX
   </title>
-  <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
-  <style>
+<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
+<style>
    :root {
             --primary-color: #1a1a2e;
             --secondary-color: #16213e;
@@ -228,7 +229,7 @@
             }
         }
   </style>
-  <style>
+<style>
    .x-share-btn {
       display: inline-flex;
       align-items: center;
@@ -314,7 +315,7 @@
       display: block;
     }
   </style>
-  <style>
+<style>
    .x-share-btn-custom {
       display: inline-flex;
       align-items: center;
@@ -400,7 +401,7 @@
       display: block;
     }
   </style>
-  <style>
+<style>
    .x-share-btn-custom {
       display: inline-flex;
       align-items: center;
@@ -510,43 +511,149 @@
       100% { opacity: 0; transform: translateX(-50%) scale(0.95); }
     }
   </style>
- </head>
- <body>
-  <div class="container">
-   <div class="header">
-    <div class="header-content">
-     <div class="logo-section">
-      <div class="logo-container">
-       <img alt="Logo" class="logo-image" src="logo.png"/>
-      </div>
-      <div class="brand-info">
-       <div class="brand-name">
+<style>
+    .x-share-btn-custom {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #14171a 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(29,161,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .x-share-btn-custom:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #14171a 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(29,161,242,0.18);
+    }
+    .x-share-btn-custom .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .x-share-btn-custom:hover .x-icon {
+      background: #1da1f2;
+    }
+    .x-share-btn-custom .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    .follow-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #7b2ff2 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(123,47,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .follow-btn:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #7b2ff2 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(123,47,242,0.18);
+    }
+    .follow-btn .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .follow-btn:hover .x-icon {
+      background: #7b2ff2;
+    }
+    .follow-btn .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    .share-popup-message {
+      position: fixed;
+      top: 30px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: #1da1f2;
+      color: #fff;
+      padding: 18px 32px;
+      border-radius: 30px;
+      font-size: 1.2em;
+      font-weight: 700;
+      box-shadow: 0 4px 24px rgba(29,161,242,0.18);
+      z-index: 9999;
+      opacity: 0.97;
+      text-align: center;
+      letter-spacing: 0.02em;
+      animation: fadeInOut 3s;
+    }
+    @keyframes fadeInOut {
+      0% { opacity: 0; transform: translateX(-50%) scale(0.95); }
+      10% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
+      90% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
+      100% { opacity: 0; transform: translateX(-50%) scale(0.95); }
+    }
+    </style></head>
+<body>
+<div class="container">
+<div class="header">
+<div class="header-content">
+<div class="logo-section">
+<div class="logo-container">
+<img alt="Logo" class="logo-image" src="logo.png"/>
+</div>
+<div class="brand-info">
+<div class="brand-name">
         Hippopotamus Research
        </div>
-       <div class="brand-subtitle">
+<div class="brand-subtitle">
         מחפשים את הסיבה לתנועות בשוק
        </div>
-      </div>
-     </div>
-     <div class="social-section">
-      <div class="ticker-badge">
-       NFLX
-      </div>
-      <a class="follow-btn" href="https://twitter.com/your_twitter_handle" rel="noopener" target="_blank">
-       <span class="x-icon">
-        <img alt="X" src="x.png"/>
-       </span>
-       עקבו אחרינו
-      </a>
-      <button class="x-share-btn-custom" type="button">
-       <span class="x-icon">
-        <img alt="X" src="x.png"/>
-       </span>
-       שתף ב־X
-      </button>
-     </div>
-     <script>
-      document.addEventListener('DOMContentLoaded', function() {
+</div>
+</div>
+<div class="social-section">
+<div class="ticker-badge">NFLX</div>
+<a class="follow-btn" href="https://x.com/LmlyhNyr" rel="noopener" target="_blank">
+<span class="x-icon">
+<img alt="X" src="x.png"/>
+</span>
+    עקבו אחרינו
+  </a>
+<button class="x-share-btn-custom" type="button">
+<span class="x-icon">
+<img alt="X" src="x.png"/>
+</span>
+    שתף ב־X
+  </button>
+</div><script>
+document.addEventListener('DOMContentLoaded', function() {
   document.querySelectorAll('.x-share-btn-custom').forEach(function(btn) {
     btn.addEventListener('click', function(e) {
       e.preventDefault();
@@ -565,84 +672,85 @@
     });
   });
 });
-     </script>
-    </div>
-   </div>
-   <div class="content">
-    <div class="newsletter-section" style="margin:12px auto 20px auto;max-width:260px;padding:0;background:none;border:none;box-shadow:none;border-radius:0;position:relative;z-index:2;">
-     <h3 style="font-weight:400;opacity:0.5;font-size:0.85em;margin-bottom:2px;margin-top:0;color:var(--accent-color);">
+</script>
+
+</div>
+</div>
+<div class="content">
+<div class="newsletter-section" style="margin:12px auto 20px auto;max-width:260px;padding:0;background:none;border:none;box-shadow:none;border-radius:0;position:relative;z-index:2;">
+<h3 style="font-weight:400;opacity:0.5;font-size:0.85em;margin-bottom:2px;margin-top:0;color:var(--accent-color);">
       הצטרפו לרשימת התפוצה שלנו
      </h3>
-     <iframe class="newsletter-iframe" scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="height:110px;width:100%;border:none;background:none;box-shadow:none;border-radius:0;">
-     </iframe>
-    </div>
-    <div class="article-content">
-     <p>
+<iframe class="newsletter-iframe" scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="height:110px;width:100%;border:none;background:none;box-shadow:none;border-radius:0;">
+</iframe>
+</div>
+<div class="article-content">
+<p>
       NFLX
      </p>
-    </div>
-    <h3 class="section-header">
+</div>
+<h3 class="section-header">
      ניתוח תנועות מניה יומיות: NFLX - נטפליקס בע"מ
     </h3>
-    <p>
+<p>
      סקירה כללית מניית NFLX של נטפליקס מציגה מגמה חיובית בשוק המניות בימים האחרונים, הנגרמת על ידי מספר יוזמות אסטרטגיות ומהלכי צמיחה. עם זאת, יש לשים לב למאזן העדין בין גורמים פנימיים וחיצוניים המשפיעים על הביצועים לטווח הקצר.
     </p>
-    <p>
+<p>
      הנהלה ומוסדות החברה ממשיכה להפתיע עם יוזמות מגוונות. שותפותה עם TF1 הצרפתית היא צעד אסטרטגי משמעותי אל מחוץ לשוק הסטרימינג, כאשר כניסתה לתחום הטלוויזיה בשידור חי ותכניות ספורט מציעה פוטנציאל לצמיחה גיאוגרפית ולגיוון מקורות ההכנסה. הרחבת המותג "Netflix House" בערים מרכזיות בארה"ב עד 2027 היא גם אסטרטגיה חדשנית להגברת המעורבות עם הלקוחות.
     </p>
-    <p>
+<p>
      ספקולציות לגבי פיצול מניות עוררו עניין בקרב משקיעים, מה שעשוי לשפר את הנזילות ולמשוך משקיעים מוסדיים. בנוסף, השקת קרנות סל חדשות המניבות הכנסה מחברות טכנולוגיה מובילות, כולל נטפליקס, מגדילה את החשיפה של החברה למשקיעים מוסדיים המחפשים הזדמנויות צומחות.
     </p>
-    <p>
+<p>
      רגולציה וסביבה עסקית הסביבה הרגולטורית נותרה מאתגרת עבור נטפליקס. עם אובדן זכויות לשמונה סדרות מקוריות בקרוב, החברה עומדת בפני הצורך לשמר את קהל היעד שלה ולהציע תוכן חדש ומרגש. אנליסטים מזהירים מפני האתגר הפוטנציאלי של צמיחת מנויים מתונה ברבעון השני, מה שעלול להשפיע על הרווחיות והסנטימנט בשוק.
     </p>
-    <p>
+<p>
      מגמות סקטוריאליות ושיח ציבורי מגמת הצמיחה הגלובלית של שירותי הסטרימינג ממשיכה לעורר עניין בתעשייה. השקת "בית הזרמים" (Stream House), סדרת ריאליטי הקשורה לשוק הביטקוין, מדגישה את נכונותה של נטפליקס להתאים את עצמה למגמות תרבותיות עכשוויות.
     </p>
-    <p>
+<p>
      השיח הציבורי סביב החברה מתמקד בהשפעת התוכן שלה ובפוטנציאל לצמיחה בינלאומית. נתוני אופציות מרתקים מצביעים על פעילות של לווייתנים בשוק, מה שמעיד על עניין מוסדי רב, אך ההטיה הכיוונית נותרה לא ברורה.
     </p>
-    <p>
+<p>
      ניתוח מעמיק: גורמים להשפעה • מגמות מנויים: צמיחה עקבית במספר המנויים היא המפתח לביצועים לטווח הארוך של נטפליקס. כל התקדמות או האטה ברכישת מנויים תשפיע על תחזיות הרווחיות. • הוצאות תוכן: ההשקעה בתוכן מקורי היא חיונית כדי לשמור על יתרון תחרותי. עם אובדן סדרות מקוריות, על החברה להציג רכישות חכמות או יצירת תוכן עצמאי משכנע. • צמיחה בינלאומית: האסטרטגיה הגלובלית של נטפליקס צריכה להניב פירות בשווקים חדשים, במיוחד לאור התחרות הגוברת מפלטפורמות מקומיות. • רגולציה ומדיניות: שינויים ברגולציות הקשורות לסטרימינג עשויים להשפיע על המודל העסקי של החברה. התאמה לסביבות רגולטוריות שונות היא אתגר מתמשך.
     </p>
-    <p>
+<p>
      סיכום ומבט קדימה נטפליקס מציגה פוטנציאל צמיחה מרגש עם יוזמות מגוונות, אך יש לנווט בזהירות בסביבה העסקית הנוכחית. אובדן זכויות תוכן, תחרות גוברת, ושינויים רגולטוריים מהווים אתגרים שיש להתמודד איתם.
     </p>
-    <p>
+<p>
      המצב הנוכחי מציע איזון עדין בין הזדמנויות לצמיחה לבין מכשולים אפשריים. המשך המעקב אחר מגמות המנויים, אסטרטגיות התוכן הגלובליות, והתפתחויות רגולטוריות חיוני להערכת הביצועים העתידיים של NFLX. עם זאת, בהתחשב במגמות העבר ובגורמים המוסדיים המתעניינים, יש סימנים מעודדים לטווח הארוך.
     </p>
-   </div>
-   <div class="disclaimer">
-    <strong>
+</div>
+<div class="disclaimer">
+<strong>
      הסתייגות משפטית:
     </strong>
     המידע הנ״ל מבוסס על מקורות מידע שונים ועלול להשתנות בכל עת. המידע המוזכר בכתבה זו מוגבל לצורך מחקר והנאה ואין לראות בכתוב המלצה להשקעה. יש להתייעץ עם יועץ פיננסי לפני קבלת החלטות השקעה.
     <br/>
-    <br/>
-    <strong>
+<br/>
+<strong>
      הערה:
     </strong>
     הניתוח נוצר באמצעות מודל בינה מלאכותית ועלול לכלול שגיאות כתיב או ניסוח. אנו מתנצלים מראש על אי-הדיוקים האפשריים.
     <br/>
-    <br/>
-    <strong>
+<br/>
+<strong>
      מקורות המידע:
     </strong>
     Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl
     <h3>
      Hippopotamus Research
     </h3>
-   </div>
-  </div>
-  <div class="footer">
-   <div class="timestamp">
+</div>
+</div>
+<div class="footer">
+<div class="timestamp">
     נוצר ב: 19/06/2025 11:02
    </div>
-   <div class="source">
+<div class="source">
     מקורות: Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl | ניתוח באמצעות aya-expanse:8b
    </div>
-  </div>
-  <script id="dynamic-text-cleaner-script">
+</div>
+<script id="dynamic-text-cleaner-script">
    document.addEventListener("DOMContentLoaded", function() {
   // Check if the cleaner has already run to avoid multiple executions
   if (document.body.dataset.jsCleanerApplied) {
@@ -670,5 +778,5 @@
   });
 });
   </script>
- </body>
+</body>
 </html>

@@ -1,14 +1,15 @@
 <!DOCTYPE html>
+
 <html dir="rtl" lang="he">
- <head>
-  <meta charset="utf-8"/>
-  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-  <title>
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>
    דוח ניתוח סיבתיות - PGR
   </title>
-  <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
-  <style>
+<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
+<style>
    :root {
             --primary-color: #1a1a2e;
             --secondary-color: #16213e;
@@ -228,7 +229,7 @@
             }
         }
   </style>
-  <style>
+<style>
    .x-share-btn {
       display: inline-flex;
       align-items: center;
@@ -314,7 +315,7 @@
       display: block;
     }
   </style>
-  <style>
+<style>
    .x-share-btn-custom {
       display: inline-flex;
       align-items: center;
@@ -400,7 +401,7 @@
       display: block;
     }
   </style>
-  <style>
+<style>
    .x-share-btn-custom {
       display: inline-flex;
       align-items: center;
@@ -510,43 +511,149 @@
       100% { opacity: 0; transform: translateX(-50%) scale(0.95); }
     }
   </style>
- </head>
- <body>
-  <div class="container">
-   <div class="header">
-    <div class="header-content">
-     <div class="logo-section">
-      <div class="logo-container">
-       <img alt="Logo" class="logo-image" src="logo.png"/>
-      </div>
-      <div class="brand-info">
-       <div class="brand-name">
+<style>
+    .x-share-btn-custom {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #14171a 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(29,161,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .x-share-btn-custom:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #14171a 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(29,161,242,0.18);
+    }
+    .x-share-btn-custom .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .x-share-btn-custom:hover .x-icon {
+      background: #1da1f2;
+    }
+    .x-share-btn-custom .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    .follow-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #7b2ff2 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(123,47,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .follow-btn:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #7b2ff2 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(123,47,242,0.18);
+    }
+    .follow-btn .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .follow-btn:hover .x-icon {
+      background: #7b2ff2;
+    }
+    .follow-btn .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    .share-popup-message {
+      position: fixed;
+      top: 30px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: #1da1f2;
+      color: #fff;
+      padding: 18px 32px;
+      border-radius: 30px;
+      font-size: 1.2em;
+      font-weight: 700;
+      box-shadow: 0 4px 24px rgba(29,161,242,0.18);
+      z-index: 9999;
+      opacity: 0.97;
+      text-align: center;
+      letter-spacing: 0.02em;
+      animation: fadeInOut 3s;
+    }
+    @keyframes fadeInOut {
+      0% { opacity: 0; transform: translateX(-50%) scale(0.95); }
+      10% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
+      90% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
+      100% { opacity: 0; transform: translateX(-50%) scale(0.95); }
+    }
+    </style></head>
+<body>
+<div class="container">
+<div class="header">
+<div class="header-content">
+<div class="logo-section">
+<div class="logo-container">
+<img alt="Logo" class="logo-image" src="logo.png"/>
+</div>
+<div class="brand-info">
+<div class="brand-name">
         Hippopotamus Research
        </div>
-       <div class="brand-subtitle">
+<div class="brand-subtitle">
         מחפשים את הסיבה לתנועות בשוק
        </div>
-      </div>
-     </div>
-     <div class="social-section">
-      <div class="ticker-badge">
-       PGR
-      </div>
-      <a class="follow-btn" href="https://twitter.com/your_twitter_handle" rel="noopener" target="_blank">
-       <span class="x-icon">
-        <img alt="X" src="x.png"/>
-       </span>
-       עקבו אחרינו
-      </a>
-      <button class="x-share-btn-custom" type="button">
-       <span class="x-icon">
-        <img alt="X" src="x.png"/>
-       </span>
-       שתף ב־X
-      </button>
-     </div>
-     <script>
-      document.addEventListener('DOMContentLoaded', function() {
+</div>
+</div>
+<div class="social-section">
+<div class="ticker-badge">PGR</div>
+<a class="follow-btn" href="https://x.com/LmlyhNyr" rel="noopener" target="_blank">
+<span class="x-icon">
+<img alt="X" src="x.png"/>
+</span>
+    עקבו אחרינו
+  </a>
+<button class="x-share-btn-custom" type="button">
+<span class="x-icon">
+<img alt="X" src="x.png"/>
+</span>
+    שתף ב־X
+  </button>
+</div><script>
+document.addEventListener('DOMContentLoaded', function() {
   document.querySelectorAll('.x-share-btn-custom').forEach(function(btn) {
     btn.addEventListener('click', function(e) {
       e.preventDefault();
@@ -565,59 +672,60 @@
     });
   });
 });
-     </script>
-    </div>
-   </div>
-   <div class="content">
-    <a class="back-home-btn" href="../index.html">
-     <i class="fas fa-home">
-     </i>
+</script>
+
+</div>
+</div>
+<div class="content">
+<a class="back-home-btn" href="../index.html">
+<i class="fas fa-home">
+</i>
      חזרה לדף הבית
     </a>
-    <div class="newsletter-section" style="margin:12px auto 20px auto;max-width:260px;padding:0;background:none;border:none;box-shadow:none;border-radius:0;position:relative;z-index:2;">
-     <h3 style="font-weight:400;opacity:0.5;font-size:0.85em;margin-bottom:2px;margin-top:0;color:var(--accent-color);">
+<div class="newsletter-section" style="margin:12px auto 20px auto;max-width:260px;padding:0;background:none;border:none;box-shadow:none;border-radius:0;position:relative;z-index:2;">
+<h3 style="font-weight:400;opacity:0.5;font-size:0.85em;margin-bottom:2px;margin-top:0;color:var(--accent-color);">
       הצטרפו לרשימת התפוצה שלנו
      </h3>
-     <iframe class="newsletter-iframe" scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="height:110px;width:100%;border:none;background:none;box-shadow:none;border-radius:0;">
-     </iframe>
-    </div>
-    <div class="article-content">
-     <p>
+<iframe class="newsletter-iframe" scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="height:110px;width:100%;border:none;background:none;box-shadow:none;border-radius:0;">
+</iframe>
+</div>
+<div class="article-content">
+<p>
       ניתוח תנועת המניה של PGR: התמודדות עם תוצאות מעורבות סקירה כללית תאגיד PGR, חברה מובילה בתחום הרכב האישי, חווה השבוע תנודתיות במחיר המניה שלה בעקבות מספר הודעות ותחזיות אנליסטים. הנתונים האחרונים מצביעים על ביצועים חזקים במספר קטגוריות, אך גם על אתגרים שעלולים להשפיע על התפיסה של המשקיעים. מטרת הדוח הזה היא לספק ניתוח סיבתי של תנועת המניה, תוך בחינת גורמים מרכזיים המשפיעים על הערכת השווי של PGR. הנהלה ומוסדות: ביטחון פיננסי ותחזיות מעודדות מייקל זרמסקי, אנליסט מכובד ב-BMO Capital Markets, נותן סימן ירוק לחברה עם דירוג "קנייה". הביטחון שלו בביצועים הפיננסיים של PGR מתבסס על הצמיחה המתמשכת שלה בשוק התחרותי של הרכב האישי. תחזיותיו מעודדות, במיוחד לאור העלאת מחיר היעד על ידי בנק אוף אמריקה, המצביע על אמון במוסדות הפיננסיים המובילים בהערכת הפוטנציאל העתידי של החברה. רגולציה ומגמות סקטוריאליות: אתגרים והזדמנויות החדשות האחרונות מגלות סביבה רגולטורית דינמית המשפיעה על ענף הרכב. עם זאת, PGR מציגה חוסן בהתמודדות עם עלייה של 15% בפרמיות הרווח נטו, מה שמעיד על יכולתה להסתגל למגמות שוק משתנות. הצמיחה בשורה העליונה מעידה על ביצועים חזקים בעסקי הליבה שלה, במיוחד עם תוצאות כספיות שקופות לחודש מאי 2025. דיבידנד והשקפות ציבור: אסטרטגיית החזר הון והשפעה על מחיר המניה ההכרזה על חלוקת דיבידנד חודשי היא צעד חיובי באסטרטגיית החזר ההון של PGR, מה שמעיד על מחויבות החברה למקסום ערך עבור המשקיעים. עם זאת, הירידה של כ-2% במחיר המניה לאחר פרסום התוצאות מעידה על סכסוך בין ציפיות השוק לבין התפיסה המיידית של המשקיעים. ייתכן שהמשקיעים עיכלו את החדשות באופן שמרני יותר, בהתחשב באתגרים הרגולטוריים ובשקט היחסי בשוק הרחב. סיכום ומסקנות מצב PGR מאוזן במידה מסוימת, עם כוחות חיוביים המצביעים על ביצועים פיננסיים חזקים וצמיחה סקטוריאלית, מאוזנים עם אתגרים רגולטוריים שעלולים להשפיע על התחזיות העתידיות. תנודתיות במחיר המניה לאחר החדשות האחרונות מדגישה את הצורך במשקיעים לבדוק את הסביבה הרחבה יותר ואת ההשפעות הפוטנציאליות של גורמים חיצוניים. המעקב המתמשך אחר PGR הוא חיוני, במיוחד תוך מעקב אחר התפתחויות רגולטוריות, תחזיות אנליסטים מעודכנות, ותגובות השוק לתנועות מחירים. עם נתונים עדכניים יותר, ניתן יהיה לקבל תמונה ברורה יותר של הפוטנציאל האמיתי של החברה והשפעתו על מחיר המניה שלה.
      </p>
-    </div>
-    <div class="disclaimer">
-     <strong>
+</div>
+<div class="disclaimer">
+<strong>
       הסתייגות משפטית:
      </strong>
      המידע הנ״ל מבוסס על מקורות מידע שונים ועלול להשתנות בכל עת. המידע המוזכר בכתבה זו מוגבל לצורך מחקר והנאה ואין לראות בכתוב המלצה להשקעה. יש להתייעץ עם יועץ פיננסי לפני קבלת החלטות השקעה.
      <br/>
-     <br/>
-     <strong>
+<br/>
+<strong>
       הערה:
      </strong>
      הניתוח נוצר באמצעות מודל בינה מלאכותית ועלול לכלול שגיאות כתיב או ניסוח. אנו מתנצלים מראש על אי-הדיוקים האפשריים.
      <br/>
-     <br/>
-     <strong>
+<br/>
+<strong>
       מקורות המידע:
      </strong>
      Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl,MarketBeat
      <h3>
       Hippopotamus Research
      </h3>
-    </div>
-   </div>
-   <div class="footer">
-    <div class="timestamp">
+</div>
+</div>
+<div class="footer">
+<div class="timestamp">
      נוצר ב: 19/06/2025 18:15
     </div>
-    <div class="source">
+<div class="source">
      מקורות: Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl,MarketBeat | ניתוח באמצעות aya-expanse:8b
     </div>
-   </div>
-  </div>
-  <script id="dynamic-text-cleaner-script">
+</div>
+</div>
+<script id="dynamic-text-cleaner-script">
    document.addEventListener("DOMContentLoaded", function() {
   // Check if the cleaner has already run to avoid multiple executions
   if (document.body.dataset.jsCleanerApplied) {
@@ -645,5 +753,5 @@
   });
 });
   </script>
- </body>
+</body>
 </html>

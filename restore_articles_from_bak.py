@@ -1,15 +1,22 @@
 import os
 import shutil
+import glob
 
 ARTICLES_DIR = 'articles'
 
-for fname in os.listdir(ARTICLES_DIR):
-    if fname.endswith('.html') and not fname.endswith('.bak'):
-        bak_path = os.path.join(ARTICLES_DIR, fname + '.bak')
-        orig_path = os.path.join(ARTICLES_DIR, fname)
-        if os.path.exists(bak_path):
-            shutil.copy2(bak_path, orig_path)
-            print(f'שוחזר: {fname}')
-        else:
-            print(f'אין גיבוי עבור: {fname}')
+glob_path = 'articles/*.html.bak'
+restored = []
+for bak_path in glob.glob(glob_path):
+    html_path = bak_path[:-4]  # remove .bak
+    with open(bak_path, 'r', encoding='utf-8') as f:
+        content = f.read()
+    with open(html_path, 'w', encoding='utf-8') as f:
+        f.write(content)
+    restored.append(os.path.basename(html_path))
+print(f'Restored {len(restored)} files:')
+for fname in restored:
+    print('  -', fname)
+if not restored:
+    print('No files restored.')
+
 print('שחזור הושלם!') 

@@ -1,14 +1,15 @@
 <!DOCTYPE html>
+
 <html dir="rtl" lang="he">
- <head>
-  <meta charset="utf-8"/>
-  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-  <title>
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>
    דוח ניתוח סיבתיות - UNH
   </title>
-  <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
-  <style>
+<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
+<style>
    :root {
             --primary-color: #1a1a2e;
             --secondary-color: #16213e;
@@ -228,7 +229,7 @@
             }
         }
   </style>
-  <style>
+<style>
    .x-share-btn {
       display: inline-flex;
       align-items: center;
@@ -314,7 +315,7 @@
       display: block;
     }
   </style>
-  <style>
+<style>
    .x-share-btn-custom {
       display: inline-flex;
       align-items: center;
@@ -400,7 +401,7 @@
       display: block;
     }
   </style>
-  <style>
+<style>
    .x-share-btn-custom {
       display: inline-flex;
       align-items: center;
@@ -510,43 +511,149 @@
       100% { opacity: 0; transform: translateX(-50%) scale(0.95); }
     }
   </style>
- </head>
- <body>
-  <div class="container">
-   <div class="header">
-    <div class="header-content">
-     <div class="logo-section">
-      <div class="logo-container">
-       <img alt="Logo" class="logo-image" src="logo.png"/>
-      </div>
-      <div class="brand-info">
-       <div class="brand-name">
+<style>
+    .x-share-btn-custom {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #14171a 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(29,161,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .x-share-btn-custom:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #14171a 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(29,161,242,0.18);
+    }
+    .x-share-btn-custom .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .x-share-btn-custom:hover .x-icon {
+      background: #1da1f2;
+    }
+    .x-share-btn-custom .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    .follow-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #7b2ff2 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(123,47,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .follow-btn:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #7b2ff2 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(123,47,242,0.18);
+    }
+    .follow-btn .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .follow-btn:hover .x-icon {
+      background: #7b2ff2;
+    }
+    .follow-btn .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    .share-popup-message {
+      position: fixed;
+      top: 30px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: #1da1f2;
+      color: #fff;
+      padding: 18px 32px;
+      border-radius: 30px;
+      font-size: 1.2em;
+      font-weight: 700;
+      box-shadow: 0 4px 24px rgba(29,161,242,0.18);
+      z-index: 9999;
+      opacity: 0.97;
+      text-align: center;
+      letter-spacing: 0.02em;
+      animation: fadeInOut 3s;
+    }
+    @keyframes fadeInOut {
+      0% { opacity: 0; transform: translateX(-50%) scale(0.95); }
+      10% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
+      90% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
+      100% { opacity: 0; transform: translateX(-50%) scale(0.95); }
+    }
+    </style></head>
+<body>
+<div class="container">
+<div class="header">
+<div class="header-content">
+<div class="logo-section">
+<div class="logo-container">
+<img alt="Logo" class="logo-image" src="logo.png"/>
+</div>
+<div class="brand-info">
+<div class="brand-name">
         Hippopotamus Research
        </div>
-       <div class="brand-subtitle">
+<div class="brand-subtitle">
         מחפשים את הסיבה לתנועות בשוק
        </div>
-      </div>
-     </div>
-     <div class="social-section">
-      <div class="ticker-badge">
-       UNH
-      </div>
-      <a class="follow-btn" href="https://twitter.com/your_twitter_handle" rel="noopener" target="_blank">
-       <span class="x-icon">
-        <img alt="X" src="x.png"/>
-       </span>
-       עקבו אחרינו
-      </a>
-      <button class="x-share-btn-custom" type="button">
-       <span class="x-icon">
-        <img alt="X" src="x.png"/>
-       </span>
-       שתף ב־X
-      </button>
-     </div>
-     <script>
-      document.addEventListener('DOMContentLoaded', function() {
+</div>
+</div>
+<div class="social-section">
+<div class="ticker-badge">UNH</div>
+<a class="follow-btn" href="https://x.com/LmlyhNyr" rel="noopener" target="_blank">
+<span class="x-icon">
+<img alt="X" src="x.png"/>
+</span>
+    עקבו אחרינו
+  </a>
+<button class="x-share-btn-custom" type="button">
+<span class="x-icon">
+<img alt="X" src="x.png"/>
+</span>
+    שתף ב־X
+  </button>
+</div><script>
+document.addEventListener('DOMContentLoaded', function() {
   document.querySelectorAll('.x-share-btn-custom').forEach(function(btn) {
     btn.addEventListener('click', function(e) {
       e.preventDefault();
@@ -565,75 +672,76 @@
     });
   });
 });
-     </script>
-    </div>
-   </div>
-   <div class="content">
-    <div class="newsletter-section" style="margin:12px auto 20px auto;max-width:260px;padding:0;background:none;border:none;box-shadow:none;border-radius:0;position:relative;z-index:2;">
-     <h3 style="font-weight:400;opacity:0.5;font-size:0.85em;margin-bottom:2px;margin-top:0;color:var(--accent-color);">
+</script>
+
+</div>
+</div>
+<div class="content">
+<div class="newsletter-section" style="margin:12px auto 20px auto;max-width:260px;padding:0;background:none;border:none;box-shadow:none;border-radius:0;position:relative;z-index:2;">
+<h3 style="font-weight:400;opacity:0.5;font-size:0.85em;margin-bottom:2px;margin-top:0;color:var(--accent-color);">
       הצטרפו לרשימת התפוצה שלנו
      </h3>
-     <iframe class="newsletter-iframe" scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="height:110px;width:100%;border:none;background:none;box-shadow:none;border-radius:0;">
-     </iframe>
-    </div>
-    <div class="article-content">
-     <p>
+<iframe class="newsletter-iframe" scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="height:110px;width:100%;border:none;background:none;box-shadow:none;border-radius:0;">
+</iframe>
+</div>
+<div class="article-content">
+<p>
       UNH
      </p>
-    </div>
-    <p>
+</div>
+<p>
      ניתוח תנועות מניה יומיות: UnitedHealth Group (UNH)
     </p>
-    <p>
+<p>
      מבוא המניות של UnitedHealth Group (UNH), אחת מענקיות הביטוח הבריאותי בארצות הברית, מציגות עלייה מתונה היום, בעקבות מספר צעדים אסטרטגיים שהחברה ביצעה ל. עם זאת, המשקיעים ממשיכים להתמודד עם סוגיות מורכבות, כולל אתגרים משפטיים, קריאות להגברת השקיפות ולבחינה מדוקדקת של תנועות השוק האחרונות.
     </p>
-    <p>
+<p>
      הנהלה ואסטרטגיה: ההנהלה של UNH נקטה במספר צעדים כדי לשפר את ביצועים הפיננסיים ולהפחית עלויות. ראשית, הם הודיעו על ביטול עמלות הברוקרים עבור תוכניות Medicare Advantage נבחרות, מהלך שיצמצם את הוצאות ההפצה. בנוסף, החברה מתכננת לצאת מפעילותה בלטינית אמריקה, עם סגירה של נכסים הפסדיים ומיקוד מחדש בעסקיה העיקריים בארצות הברית. צעדים אלו משקפים אסטרטגיה לצמצום הוצאות ולמיקוד בתחומי הליבה של החברה.
     </p>
-    <p>
+<p>
      ביצועים פיננסיים ומגמות: הביצועים החזקים הצפויים מקטע Optum, הכולל שירותי בריאות דיגיטליים וניהול טיפולים, צפויים לאזן את הלחץ על יחידת הבריאות וההטבות. מגמה זו חיובית עבור החברה, במיוחד בהקשר של ירידת ערך המניה בשיעור משמעותי של כמעט 38% מתחילת השנה. עם זאת, השאלה המדובר היא האם החברה מסוגלת לשמור על יציבות לטווח הארוך, במיוחד לאור חששות לגבי יכולתה לתחזק את תנובת הדיבידנד הנוכחית בהינתן נפילה חדה בערך המניה.
     </p>
-    <p>
+<p>
      רגולציה ושקיפות: הסביבה הרגולטורית מהווה גורם משמעותי המשפיע על UNH. קריאות להגברת השקיפות חשפו אתגרים עבור החברה, במיוחד בנוגע לדיווחי חשבונאות. תשלום של 69 מיליון דולר בהסדר תיק משפטי הקשור לתוכנית 401(k) מצטרף למספר תביעות ומשפטים בהם מעורבת UNH. לחץ ציבורי זה עלול להשפיע על המוניטין של החברה ועל יכולתה למשוך משקיעים.
     </p>
-    <p>
+<p>
      שיח ציבורי והשפעה על השוק: השיח הציבורי סביב UNH כולל דאגות לגבי שקיפות, במיוחד לאחר ירידת ערך המניה המשמעותית. אנליסטים מציינים כי הירידה עשויה לייצג הזדמנות רכישה למשקיעים לטווח ארוך. עם זאת, הספקנות שוררת, במיוחד לאור הסביבה הרגולטורית המאתגרת והסיכון הפוטנציאלי לדחייה נוספת של תביעות משפטיות תלויות ועומדות.
     </p>
-    <p>
+<p>
      סיכום: המצב הנוכחי עבור UNH מאופיין במאזן בין סימנים חיוביים, כגון אסטרטגיית הפיכה יעילה ותחזיות ביצועים חזקות מקטע Optum, לבין כוחות מאזנים או שליליים. אתגרים משפטיים, קריאות להגברת השקיפות וחוסר ודאות לגבי מדיניות רגולטורית עתידית מציבים מכשולים בפני החברה. על מנת להבטיח המשך צמיחה ויציבות, UNH צריכה להמשיך להתמודד עם סוגיות אלו באופן יעיל ולספק שקיפות משופרת למשקיעים. מעקב הדוק אחר ההתפתחויות הללו חיוני להערכת הפוטנציאל העתידי של המניה.
     </p>
-   </div>
-   <div class="disclaimer">
-    <strong>
+</div>
+<div class="disclaimer">
+<strong>
      הסתייגות משפטית:
     </strong>
     המידע הנ״ל מבוסס על מקורות מידע שונים ועלול להשתנות בכל עת. המידע המוזכר בכתבה זו מוגבל לצורך מחקר והנאה ואין לראות בכתוב המלצה להשקעה. יש להתייעץ עם יועץ פיננסי לפני קבלת החלטות השקעה.
     <br/>
-    <br/>
-    <strong>
+<br/>
+<strong>
      הערה:
     </strong>
     הניתוח נוצר באמצעות מודל בינה מלאכותית ועלול לכלול שגיאות כתיב או ניסוח. אנו מתנצלים מראש על אי-הדיוקים האפשריים.
     <br/>
-    <br/>
-    <strong>
+<br/>
+<strong>
      מקורות המידע:
     </strong>
     Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl,MarketBeat
     <h3>
      Hippopotamus Research
     </h3>
-   </div>
-  </div>
-  <div class="footer">
-   <div class="timestamp">
+</div>
+</div>
+<div class="footer">
+<div class="timestamp">
     נוצר ב: 18/06/2025 16:25
    </div>
-   <div class="source">
+<div class="source">
     מקורות: Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl,MarketBeat | ניתוח באמצעות aya-expanse:8b
    </div>
-  </div>
-  <script id="dynamic-text-cleaner-script">
+</div>
+<script id="dynamic-text-cleaner-script">
    document.addEventListener("DOMContentLoaded", function() {
   // Check if the cleaner has already run to avoid multiple executions
   if (document.body.dataset.jsCleanerApplied) {
@@ -661,5 +769,5 @@
   });
 });
   </script>
- </body>
+</body>
 </html>
