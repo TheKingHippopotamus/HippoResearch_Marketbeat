@@ -142,43 +142,52 @@
             line-height: 1.1;
         }
         .social-section { display: flex; align-items: center; gap: 15px; }
-        .twitter-link {
-            display: flex;
+        .follow-btn {
+            display: inline-flex;
             align-items: center;
             gap: 10px;
-            background: linear-gradient(90deg, #7b2ff2 0%, #f357a8 100%);
-            padding: 12px 20px;
-            border-radius: 25px;
+            background: linear-gradient(90deg, #3b2667 0%, #4e54c8 100%);
+            color: #fff;
+            border-radius: 30px;
             text-decoration: none;
-            color: var(--text-light);
-            transition: all 0.3s ease;
-            backdrop-filter: blur(10px);
-            border: 1px solid rgba(255, 255, 255, 0.2);
             font-weight: 700;
-            box-shadow: 0 4px 16px rgba(123,47,242,0.10);
+            font-size: 1em;
+            box-shadow: 0 4px 16px rgba(78,84,200,0.13);
+            transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+            border: none;
+            outline: none;
+            cursor: pointer;
+            position: relative;
+            overflow: hidden;
+            min-width: 120px;
+            min-height: 44px;
+            justify-content: center;
+            padding: 10px 22px;
         }
-        .twitter-link:hover {
-            background: linear-gradient(90deg, #f357a8 0%, #7b2ff2 100%);
+        .follow-btn:hover {
+            background: linear-gradient(90deg, #4e54c8 0%, #283e51 100%);
             transform: translateY(-2px) scale(1.04);
-            box-shadow: 0 10px 24px rgba(123,47,242,0.18);
+            box-shadow: 0 8px 24px rgba(78,84,200,0.18);
         }
-        .twitter-icon {
-            width: 20px;
-            height: 20px;
-            object-fit: cover;
-            border-radius: 50%;
+        .follow-btn .x-icon {
+            width: 22px;
+            height: 22px;
             background: #fff;
-            padding: 2px;
-            box-shadow: 0 2px 8px rgba(123,47,242,0.10);
+            border-radius: 50%;
             display: flex;
             align-items: center;
             justify-content: center;
+            transition: background 0.3s;
+            min-width: 22px;
+            min-height: 22px;
+            box-shadow: 0 2px 8px rgba(123,47,242,0.10);
         }
-        .twitter-icon img {
-            width: 100%;
-            height: 100%;
-            border-radius: 50%;
-            object-fit: cover;
+        .follow-btn:hover .x-icon {
+            background: #1da1f2;
+        }
+        .follow-btn .x-icon img {
+            width: 16px;
+            height: 16px;
         }
         .ticker-badge { background: var(--gradient-accent); padding: 8px 16px; border-radius: 20px; font-weight: 600; font-size: 1.1em; box-shadow: var(--shadow-accent); }
         .content { padding: 50px 40px; color: var(--text-dark); }
@@ -317,7 +326,7 @@
                 flex-wrap: wrap;
                 justify-content: center;
             }
-            .twitter-link, .x-share-btn-custom {
+            .follow-btn {
                 min-width: 90px;
                 min-height: 32px;
                 font-size: 0.93em;
@@ -326,34 +335,20 @@
                 font-family: 'Heebo', 'Segoe UI', sans-serif;
                 font-weight: 700;
                 letter-spacing: 0.01em;
-                box-shadow: 0 2px 8px rgba(15,52,96,0.07);
-                display: inline-flex;
-                align-items: center;
+                box-shadow: 0 2px 8px rgba(78,84,200,0.10);
                 gap: 7px;
+                background: linear-gradient(90deg, #3b2667 0%, #4e54c8 100%);
             }
-            .twitter-link {
-                background: linear-gradient(90deg, #7b2ff2 0%, #1da1f2 100%);
-                color: #fff;
-                border: none;
+            .follow-btn:hover {
+                background: linear-gradient(90deg, #4e54c8 0%, #283e51 100%);
             }
-            .twitter-link:hover {
-                background: linear-gradient(90deg, #1da1f2 0%, #7b2ff2 100%);
-            }
-            .x-share-btn-custom {
-                background: linear-gradient(90deg, #14171a 0%, #e94560 100%);
-                color: #fff;
-                border: none;
-            }
-            .x-share-btn-custom:hover {
-                background: linear-gradient(90deg, #e94560 0%, #14171a 100%);
-            }
-            .twitter-icon, .x-share-btn-custom .x-icon {
+            .follow-btn .x-icon {
                 width: 13px;
                 height: 13px;
                 min-width: 13px;
                 min-height: 13px;
             }
-            .x-share-btn-custom .x-icon img {
+            .follow-btn .x-icon img {
                 width: 9px;
                 height: 9px;
             }
@@ -482,9 +477,9 @@
                 </div>
                 <div class="social-section">
                     <div class="ticker-badge">{{TICKER}}</div>
-                    <a class="twitter-link" href="https://x.com/LmlyhNyr" target="_blank">
-                        <img alt="X (Twitter)" class="twitter-icon" src="x.png"/>
-                        <span>עקבו אחרינו</span>
+                    <a class="follow-btn" href="https://x.com/LmlyhNyr" rel="noopener" target="_blank">
+                        <span class="x-icon"><img alt="X" src="x.png"></span>
+                        עקבו אחרינו
                     </a>
                     <button type="button" class="x-share-btn-custom">
                         <span class="x-icon">
