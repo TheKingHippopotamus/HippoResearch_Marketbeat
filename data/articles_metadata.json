@@ -1447,5 +1447,17 @@
     "GICS Sector": "Materials",
     "GICS Sub-Industry": "Steel",
     "Headquarters Location": "Charlotte, North Carolina"
+  },
+  {
+    "ticker": "WAT",
+    "title": "WAT:סיקור יומי  ?",
+    "filename": "WAT_20250622.html",
+    "timestamp": "22/06/2025 12:34",
+    "summary": "מהפכה בניתוח נתונים רפואיים: Waters Corporation מובילה את הדרך בחדשנות\nתוכנת HPLC מתקדמת מגבירה את המגמה החיובית בשוק הבריאות\nWaters Corporation (WAT), ענקית טכנולוגיית הניתוח הרפואי, עושה עליות בשוק ...",
+    "tags": [],
+    "Security": "Waters Corporation",
+    "GICS Sector": "Health Care",
+    "GICS Sub-Industry": "Life Sciences Tools & Services",
+    "Headquarters Location": "Milford, Massachusetts"
   }
 ]
