@@ -522,9 +522,19 @@
             .container {
                 width: 100vw;
                 max-width: 100vw;
-                border-radius: 20px;
+                border-radius: 0 20px 20px 0;
                 padding: 0;
-                margin: 0 auto;
+                margin: 0;
+                right: 0;
+                left: auto;
+                position: relative;
+            }
+            .content, .welcome-section {
+                color: var(--text-dark);
+            }
+            .welcome-section h1, .welcome-section h2, .welcome-section p {
+                color: var(--text-dark);
+                text-align: center;
             }
             .articles-grid {
                 gap: 20px;
