@@ -425,13 +425,25 @@
 </span>
     עקבו אחרינו
   </a>
-<button class="x-share-btn-custom" onclick="window.open('https://twitter.com/intent/tweet?text=%D7%9E%D7%97%D7%A7%D7%A8%20%D7%97%D7%93%D7%A9%20%D7%A9%D7%9C%20Hippopotamus%20Research%20%28%24DRI%29%0Ahttps%3A%2F%2Fthekinghippopotamus.github.io%2FHippoResearch_Marketbeat%2Farticles%2FDRI_20250621.html', '_blank', 'noopener'); return false;" type="button">
+<button class="x-share-btn-custom" type="button">
 <span class="x-icon">
 <img alt="X" src="x.png"/>
 </span>
     שתף ב־X
   </button>
-</div>
+</div><script>
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('.x-share-btn-custom').forEach(function(btn) {
+    btn.addEventListener('click', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      window.open('index.html', '_blank');
+      window.open('https://twitter.com/intent/tweet?text=%D7%9E%D7%97%D7%A7%D7%A8%20%D7%97%D7%93%D7%A9%20%D7%A9%D7%9C%20Hippopotamus%20Research%20%28%24DRI%29%0Ahttps%3A%2F%2Fthekinghippopotamus.github.io%2FHippoResearch_Marketbeat%2Farticles%2FDRI_20250621.html', '_self', 'noopener');
+      return false;
+    });
+  });
+});
+</script>
 </div>
 </div>
 <div class="content">

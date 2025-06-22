@@ -96,6 +96,20 @@ CSS_BLOCK = '''
     </style>
 '''
 
+SOCIAL_JS_TEMPLATE = '''<script>
+document.addEventListener('DOMContentLoaded', function() {{
+  document.querySelectorAll('.x-share-btn-custom').forEach(function(btn) {{
+    btn.addEventListener('click', function(e) {{
+      e.preventDefault();
+      e.stopPropagation();
+      window.open('index.html', '_blank');
+      window.open('{share_url}', '_self', 'noopener');
+      return false;
+    }});
+  }});
+}});
+</script>'''
+
 SOCIAL_SECTION_TEMPLATE = '''<div class="social-section">
   <div class="ticker-badge">{ticker}</div>
   <a href="{follow_url}" rel="noopener" target="_blank" class="follow-btn">
@@ -104,7 +118,7 @@ SOCIAL_SECTION_TEMPLATE = '''<div class="social-section">
     </span>
     עקבו אחרינו
   </a>
-  <button type="button" class="x-share-btn-custom" onclick="window.open('{share_url}', '_blank', 'noopener'); return false;">
+  <button type="button" class="x-share-btn-custom">
     <span class="x-icon">
       <img src="{x_icon_src}" alt="X">
     </span>
@@ -160,6 +174,19 @@ def update_article(file_path):
             logo_section = header.find('div', class_='logo-section') if isinstance(header, Tag) else None
             if logo_section:
                 logo_section.insert_after(social_soup)
+
+    # Insert the JS block after the social-section (if not already present)
+    js_html = SOCIAL_JS_TEMPLATE.format(share_url=share_url)
+    js_soup = BeautifulSoup(js_html, 'html.parser')
+    # Remove any old script with this logic
+    for script in soup.find_all('script'):
+        script_content = getattr(script, 'string', None)
+        if script_content and 'x-share-btn-custom' in script_content and 'window.open' in script_content:
+            script.decompose()
+    # Insert after social-section
+    social_section = header.find('div', class_='social-section') if isinstance(header, Tag) else None
+    if social_section:
+        social_section.insert_after(js_soup)
 
     # Remove old share/follow buttons outside header if exist (both <a> and <button> for share)
     for btn in soup.find_all(['a', 'button'], class_=['x-share-btn-custom', 'follow-btn']):

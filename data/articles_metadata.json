@@ -1543,5 +1543,17 @@
     "GICS Sector": "Industrials",
     "GICS Sub-Industry": "Aerospace & Defense",
     "Headquarters Location": "Bethesda, Maryland"
+  },
+  {
+    "ticker": "POOL",
+    "title": "POOL:סיקור יומי  ?",
+    "filename": "POOL_20250622.html",
+    "timestamp": "22/06/2025 13:17",
+    "summary": "#Pool Corporation: שחייה לתוך דינמיקת השוק המשתנה##\n#גלים של שינוי: מגמות משפיעות על ענקית ציוד הבריכות##\nבתוך עולם שבו בריכות שחייה אינן רק סמל סטטוס, אלא גם מרחבים קהילתיים ופלטפורמות פנאי, Pool Cor...",
+    "tags": [],
+    "Security": "Pool Corporation",
+    "GICS Sector": "Consumer Discretionary",
+    "GICS Sub-Industry": "Distributors",
+    "Headquarters Location": "Covington, Louisiana"
   }
 ]
