@@ -196,30 +196,106 @@
             gap: 15px;
         }
         
-        .twitter-link {
-            display: flex;
+        .follow-btn {
+            display: inline-flex;
             align-items: center;
             gap: 10px;
-            background: rgba(255, 255, 255, 0.1);
-            padding: 12px 20px;
-            border-radius: 25px;
+            background: linear-gradient(90deg, #3b2667 0%, #4e54c8 100%);
+            color: #fff;
+            border-radius: 30px;
             text-decoration: none;
-            color: var(--text-light);
-            transition: all 0.3s ease;
-            backdrop-filter: blur(10px);
-            border: 1px solid rgba(255, 255, 255, 0.2);
+            font-weight: 700;
+            font-size: 1em;
+            box-shadow: 0 4px 16px rgba(78,84,200,0.13);
+            transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+            border: none;
+            outline: none;
+            cursor: pointer;
+            position: relative;
+            overflow: hidden;
+            min-width: 120px;
+            min-height: 44px;
+            justify-content: center;
+            padding: 10px 22px;
         }
-        
-        .twitter-link:hover {
-            background: rgba(233, 69, 96, 0.2);
-            transform: translateY(-2px);
-            box-shadow: 0 10px 20px rgba(233, 69, 96, 0.3);
+        .follow-btn:hover {
+            background: linear-gradient(90deg, #4e54c8 0%, #283e51 100%);
+            transform: translateY(-2px) scale(1.04);
+            box-shadow: 0 8px 24px rgba(78,84,200,0.18);
         }
-        
-        .twitter-icon {
-            width: 20px;
-            height: 20px;
-            object-fit: contain;
+        .x-share-btn-custom {
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            background: linear-gradient(90deg, #14171a 0%, #1da1f2 100%);
+            color: #fff;
+            border-radius: 30px;
+            text-decoration: none;
+            font-weight: 700;
+            font-size: 1em;
+            box-shadow: 0 4px 16px rgba(29,161,242,0.10);
+            transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+            border: none;
+            outline: none;
+            cursor: pointer;
+            position: relative;
+            overflow: hidden;
+            min-width: 120px;
+            min-height: 44px;
+            justify-content: center;
+            padding: 10px 22px;
+        }
+        .x-share-btn-custom:hover {
+            background: linear-gradient(90deg, #1da1f2 0%, #14171a 100%);
+            transform: translateY(-2px) scale(1.04);
+            box-shadow: 0 8px 24px rgba(29,161,242,0.18);
+        }
+        .follow-btn .x-icon, .x-share-btn-custom .x-icon {
+            width: 22px;
+            height: 22px;
+            background: #fff;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: background 0.3s;
+            min-width: 22px;
+            min-height: 22px;
+            box-shadow: 0 2px 8px rgba(123,47,242,0.10);
+        }
+        .follow-btn:hover .x-icon {
+            background: #1da1f2;
+        }
+        .x-share-btn-custom:hover .x-icon {
+            background: #1da1f2;
+        }
+        .follow-btn .x-icon img, .x-share-btn-custom .x-icon img {
+            width: 16px;
+            height: 16px;
+        }
+        @media (max-width: 768px) {
+            .follow-btn, .x-share-btn-custom {
+                min-width: 90px;
+                min-height: 32px;
+                font-size: 0.93em;
+                padding: 6px 8px;
+                border-radius: 18px;
+                font-family: 'Heebo', 'Segoe UI', sans-serif;
+                font-weight: 700;
+                letter-spacing: 0.01em;
+                box-shadow: 0 2px 8px rgba(78,84,200,0.10);
+                gap: 7px;
+            }
+            .follow-btn .x-icon, .x-share-btn-custom .x-icon {
+                width: 13px;
+                height: 13px;
+                min-width: 13px;
+                min-height: 13px;
+            }
+            .follow-btn .x-icon img, .x-share-btn-custom .x-icon img {
+                width: 9px;
+                height: 9px;
+            }
         }
         
         .content {
@@ -627,10 +703,14 @@
                     </div>
                 </div>
                 <div class="social-section">
-                    <a href="https://x.com/LmlyhNyr" class="twitter-link" title="עקבו אחרינו ב-X" target="_blank">
-                        <img src="articles/x.png" alt="X (Twitter)" class="twitter-icon">
-                        <span>עקבו אחרינו</span>
+                    <a class="follow-btn" href="https://x.com/LmlyhNyr" rel="noopener" target="_blank">
+                        <span class="x-icon"><img alt="X" src="articles/x.png" style="width:16px;height:16px;"></span>
+                        עקבו אחרינו
                     </a>
+                    <button type="button" class="x-share-btn-custom" id="main-x-share-btn">
+                        <span class="x-icon"><img src="articles/x.png" alt="X" style="width:16px;height:16px;"></span>
+                        שתף ב־X
+                    </button>
                 </div>
             </div>
         </div>
@@ -863,6 +943,16 @@
             document.getElementById('searchInput').addEventListener('input', function(e) {
                 loadArticlesWithFilter(e.target.value);
             });
+            // X share button for main page
+            var mainShareBtn = document.getElementById('main-x-share-btn');
+            if (mainShareBtn) {
+                mainShareBtn.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    var url = encodeURIComponent(window.location.href.split('#')[0]);
+                    var text = encodeURIComponent('מחקר שוק חדש של Hippopotamus Research!\nhttps://thekinghippopotamus.github.io/HippoResearch_Marketbeat/');
+                    window.open('https://twitter.com/intent/tweet?text=' + text, '_blank', 'noopener');
+                });
+            }
         });
     </script>
 </body>
