@@ -250,16 +250,16 @@
             box-shadow: 0 8px 24px rgba(29,161,242,0.18);
         }
         .follow-btn .x-icon, .x-share-btn-custom .x-icon {
-            width: 22px;
-            height: 22px;
+            width: 28px;
+            height: 28px;
+            min-width: 28px;
+            min-height: 28px;
             background: transparent;
             border-radius: 50%;
             display: flex;
             align-items: center;
             justify-content: center;
             transition: background 0.3s;
-            min-width: 22px;
-            min-height: 22px;
             box-shadow: 0 2px 8px rgba(123,47,242,0.10);
         }
         .follow-btn:hover .x-icon {
@@ -269,8 +269,9 @@
             background: #1da1f2;
         }
         .follow-btn .x-icon img, .x-share-btn-custom .x-icon img {
-            width: 22px;
-            height: 22px;
+            width: 28px;
+            height: 28px;
+            transform: scale(1.7);
         }
         @media (max-width: 768px) {
             .follow-btn, .x-share-btn-custom {
@@ -294,6 +295,7 @@
             .follow-btn .x-icon img, .x-share-btn-custom .x-icon img {
                 width: 16px;
                 height: 16px;
+                transform: scale(1.2);
             }
         }
         
