@@ -617,6 +617,16 @@
                 max-width: 100vw;
                 overflow-x: hidden;
             }
+            body, .content, .welcome-section, .welcome-section p, .newsletter-section, .disclaimer, .footer, .article-title, .article-summary, .article-meta, .article-link, .company-badge, .search-bar input, .no-articles, .loading, .scroll-hint {
+                color: #fff !important;
+            }
+            .brand-name, .brand-subtitle, .disclaimer h3 {
+                background: linear-gradient(90deg, #fff 0%, #ffe6f7 40%, #e94560 70%, #b3e6ff 100%) !important;
+                -webkit-background-clip: text !important;
+                -webkit-text-fill-color: transparent !important;
+                background-clip: text !important;
+                text-fill-color: transparent !important;
+            }
         }
         @media (max-width: 480px) {
             .logo-container { width: 48px !important; height: 48px !important; }
