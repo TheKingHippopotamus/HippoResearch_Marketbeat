@@ -1339,5 +1339,17 @@
     "GICS Sector": "Communication Services",
     "GICS Sub-Industry": "Broadcasting",
     "Headquarters Location": "New York City, New York"
+  },
+  {
+    "ticker": "BAC",
+    "title": "BAC:סיקור יומי  ?",
+    "filename": "BAC_20250622.html",
+    "timestamp": "22/06/2025 11:59",
+    "summary": "Bank of America: עלייה בשוק, אסטרטגיה מגוונת והצצה לעתיד\nכוחו של שילוב מושלם: רווחים, השקעות וחקירות שוק\nבשווקים הפיננסיים הסוערים של ימינו, Bank of America Corporation (BAC) בולטת כגורם יציב ומבטיח. ...",
+    "tags": [],
+    "Security": "Bank of America",
+    "GICS Sector": "Financials",
+    "GICS Sub-Industry": "Diversified Banks",
+    "Headquarters Location": "Charlotte, North Carolina"
   }
 ]
