@@ -977,6 +977,60 @@
                 color: #fff;
             }
         }
+        @media (max-width: 768px) {
+            .welcome-newsletter-card {
+                display: block !important;
+                background: #fff !important;
+                color: var(--text-dark) !important;
+                border-radius: 16px !important;
+                box-shadow: 0 2px 12px rgba(15,52,96,0.10) !important;
+                padding: 12px 4vw 12px 4vw !important;
+                margin: 0 0 18px 0 !important;
+                width: 100% !important;
+                max-width: 98vw !important;
+                min-height: unset !important;
+            }
+            .welcome-newsletter-card .about-content,
+            .welcome-newsletter-card .newsletter-content {
+                background: none !important;
+                color: var(--text-dark) !important;
+                border-radius: 12px !important;
+                box-shadow: none !important;
+                padding: 0 !important;
+                margin: 0 0 18px 0 !important;
+            }
+            .welcome-newsletter-card .divider {
+                display: none !important;
+            }
+            .welcome-newsletter-card .about-content h1 {
+                color: var(--accent-color) !important;
+                background: none !important;
+                -webkit-text-fill-color: var(--accent-color) !important;
+                text-fill-color: var(--accent-color) !important;
+                font-size: 1.3em !important;
+                font-weight: 900 !important;
+                margin-bottom: 8px !important;
+                letter-spacing: 0.04em !important;
+                text-shadow: none !important;
+            }
+            .welcome-newsletter-card .about-content p,
+            .welcome-newsletter-card .newsletter-content .section-description,
+            .welcome-newsletter-card .newsletter-content p {
+                color: var(--text-dark) !important;
+                font-size: 1em !important;
+                font-weight: 400 !important;
+                margin-bottom: 10px !important;
+                opacity: 0.95 !important;
+            }
+            .welcome-newsletter-card .newsletter-content hr {
+                border-top: 1.5px solid #eee !important;
+                margin: 16px 0 10px 0 !important;
+                width: 100% !important;
+            }
+            .welcome-newsletter-card .newsletter-content .archive-link-btn {
+                color: #fff !important;
+            }
+        }
     </style>
 </head>
 <body>
