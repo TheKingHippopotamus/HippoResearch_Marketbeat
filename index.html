@@ -677,6 +677,45 @@
                 opacity: 1;
                 margin-bottom: 30px;
             }
+            #newsletter-toggle-btn {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                gap: 8px;
+                width: 100%;
+                background: linear-gradient(90deg, #14171a 0%, #1da1f2 100%);
+                color: #fff;
+                border-radius: 30px;
+                font-weight: 700;
+                font-size: 1em;
+                box-shadow: 0 4px 16px rgba(29,161,242,0.10);
+                border: none;
+                outline: none;
+                cursor: pointer;
+                padding: 10px 22px;
+                margin: 0 0 12px 0;
+                text-align: center;
+                letter-spacing: 0.03em;
+                transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+                animation: welcomePulse 1.6s infinite alternate;
+            }
+            #newsletter-toggle-btn:active, #newsletter-toggle-btn:focus {
+                background: linear-gradient(90deg, #1da1f2 0%, #14171a 100%);
+                color: #fff;
+                outline: none;
+            }
+            .newsletter-section {
+                transition: max-height 0.35s cubic-bezier(0.4,0,0.2,1), opacity 0.3s;
+                overflow: hidden;
+                max-height: 0;
+                opacity: 0;
+                margin-bottom: 0;
+            }
+            .newsletter-section.open {
+                max-height: 900px;
+                opacity: 1;
+                margin-bottom: 24px;
+            }
         }
         @media (max-width: 480px) {
             .logo-container { width: 48px !important; height: 48px !important; }
@@ -798,7 +837,8 @@
                 <p>לאחר הזיהוי, האלגוריתם מנתח מאות מקורות: הצהרות הנהלה, רגולציה חדשה, עסקאות מוסדיים, תביעות, עסקאות פנים, תזוזות בסקטור, ונתוני סנטימנט – במטרה לבודד את הגורמים האפשריים לתנועה.</p>
                 <p>כל פרסום עובר ולידציה אנושית מינימלית, במטרה לוודא דיוק וניקיון, אך התהליך כולו מונע על ידי קוד — ללא נרטיבים, ללא רעש, וללא תלות בפרשנות אנושית.</p>
             </div>
-            <div class="newsletter-section" style="margin: 0 auto 24px auto; max-width: 400px; text-align: center;">
+            <button id="newsletter-toggle-btn" style="display:none;">הרשמה לניוזלטר</button>
+            <div class="newsletter-section">
                 <div style="font-size: 1em; color: var(--accent-color); margin-bottom: 6px; font-weight: 500; opacity: 0.85;">
                     הצטרפו לעדכונים במייל
                 </div>
@@ -1036,16 +1076,32 @@
         function setWelcomeToggle() {
             var btn = document.getElementById('welcome-toggle-btn');
             var section = document.querySelector('.welcome-section');
+            var nBtn = document.getElementById('newsletter-toggle-btn');
+            var nSection = document.querySelector('.newsletter-section');
             if (!btn || !section) return;
+            if (!nBtn || !nSection) return;
             if (isMobile()) {
-                btn.style.display = 'block';
+                btn.style.display = 'flex';
                 section.classList.remove('open');
-                btn.onclick = function() {
-                    section.classList.toggle('open');
-                };
+                if (!btn.dataset.toggleSet) {
+                    btn.addEventListener('click', function() {
+                        section.classList.toggle('open');
+                    });
+                    btn.dataset.toggleSet = 'true';
+                }
+                nBtn.style.display = 'flex';
+                nSection.classList.remove('open');
+                if (!nBtn.dataset.toggleSet) {
+                    nBtn.addEventListener('click', function() {
+                        nSection.classList.toggle('open');
+                    });
+                    nBtn.dataset.toggleSet = 'true';
+                }
             } else {
                 btn.style.display = 'none';
                 section.classList.add('open');
+                nBtn.style.display = 'none';
+                nSection.classList.add('open');
             }
         }
         window.addEventListener('DOMContentLoaded', setWelcomeToggle);
