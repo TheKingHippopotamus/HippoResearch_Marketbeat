@@ -1,14 +1,15 @@
 <!DOCTYPE html>
+
 <html dir="rtl" lang="he">
- <head>
-  <meta charset="utf-8"/>
-  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-  <title>
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>
    דוח ניתוח סיבתיות - WMT
   </title>
-  <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
-  <style>
+<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
+<style>
    :root {
             --primary-color: #1a1a2e;
             --secondary-color: #16213e;
@@ -228,127 +229,216 @@
             }
         }
   </style>
- </head>
- <body>
-  <div class="container">
-   <div class="header">
-    <div class="header-content">
-     <div class="logo-section">
-      <div class="logo-container">
-       <img alt="Logo" class="logo-image" src="logo.png"/>
-      </div>
-      <div class="brand-info">
-       <div class="brand-name">
+<style>
+    .x-share-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #14171a 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(29,161,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .x-share-btn:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #14171a 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(29,161,242,0.18);
+    }
+    .x-share-btn .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .x-share-btn:hover .x-icon {
+      background: #1da1f2;
+    }
+    .x-share-btn .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    .follow-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #7b2ff2 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(123,47,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .follow-btn:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #7b2ff2 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(123,47,242,0.18);
+    }
+    .follow-btn .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .follow-btn:hover .x-icon {
+      background: #7b2ff2;
+    }
+    .follow-btn .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    </style></head>
+<body>
+<div class="container">
+<div class="header">
+<div class="header-content">
+<div class="logo-section">
+<div class="logo-container">
+<img alt="Logo" class="logo-image" src="logo.png"/>
+</div>
+<div class="brand-info">
+<div class="brand-name">
         Hippopotamus Research
        </div>
-       <div class="brand-subtitle">
+<div class="brand-subtitle">
         מחפשים את הסיבה לתנועות בשוק 
        </div>
-      </div>
-     </div>
-     <div class="social-section">
-      <div class="ticker-badge">
-       WMT
-      </div>
-      <a class="twitter-link" href="https://twitter.com/your_twitter_handle" target="_blank">
-       <img alt="X (Twitter)" class="twitter-icon" src="x.png"/>
-       <span>
-        עקבו אחרינו
-       </span>
-      </a>
-     </div>
-    </div>
-   </div>
-   <div class="content">
-    <div class="newsletter-section" style="margin:12px auto 20px auto;max-width:260px;padding:0;background:none;border:none;box-shadow:none;border-radius:0;position:relative;z-index:2;">
-     <h3 style="font-weight:400;opacity:0.5;font-size:0.85em;margin-bottom:2px;margin-top:0;color:var(--accent-color);">
+</div>
+</div>
+<div class="social-section">
+<div class="ticker-badge">WMT</div>
+<a class="follow-btn" href="https://twitter.com/your_twitter_handle" rel="noopener" target="_blank">
+<span class="x-icon">
+<img alt="X" src="x.png"/>
+</span>
+    עקבו אחרינו
+  </a>
+<a class="x-share-btn" href="https://twitter.com/intent/tweet?text=%D7%9E%D7%97%D7%A7%D7%A8%20%D7%97%D7%93%D7%A9%20%D7%A9%D7%9C%20Hippopotamus%20Research%20%28%24WMT%29%0Ahttps%3A%2F%2Fthekinghippopotamus.github.io%2FHippoResearch_Marketbeat%2Farticles%2FWMT_20250619.html" rel="noopener" target="_blank">
+<span class="x-icon">
+<img alt="X" src="x.png"/>
+</span>
+    שתף ב־X
+  </a>
+</div>
+</div>
+</div>
+<div class="content">
+<div class="newsletter-section" style="margin:12px auto 20px auto;max-width:260px;padding:0;background:none;border:none;box-shadow:none;border-radius:0;position:relative;z-index:2;">
+<h3 style="font-weight:400;opacity:0.5;font-size:0.85em;margin-bottom:2px;margin-top:0;color:var(--accent-color);">
       הצטרפו לרשימת התפוצה שלנו
      </h3>
-     <iframe class="newsletter-iframe" scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="height:110px;width:100%;border:none;background:none;box-shadow:none;border-radius:0;">
-     </iframe>
-    </div>
-    <div class="article-content">
-     <p>
+<iframe class="newsletter-iframe" scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="height:110px;width:100%;border:none;background:none;box-shadow:none;border-radius:0;">
+</iframe>
+</div>
+<div class="article-content">
+<p>
       WMT
      </p>
-    </div>
-    <h3 class="section-header">
+</div>
+<h3 class="section-header">
      ניתוח תנועת מניית WMT (וולמארט) - 25 במאי 2023
     </h3>
-    <p>
+<p>
      מבוא:
     </p>
-    <p>
+<p>
      מניית WMT (וולמארט) הציגה תנועה חיובית היום, מונעת על ידי מספר גורמים מרכזיים. עם זאת, מכירת מניות על ידי גורם פנימי והשפעות סביבתיות פוטנציאליות מציבות אתגרים. הניתוח שלהלן בוחן את הכוחות הפועלים על המניה ומציע תמונה מקיפה של המצב הנוכחי.
     </p>
-    <p>
+<p>
      הנהלה ומוסדות:
     </p>
-    <p>
+<p>
      צמיחה חזקה במכירות בחנויות זהות, כפי שנצפתה ברבעון הראשון (עלייה של 4.5% במכירות חנויות זהות בארה"ב), מעידה על ביצועי החברה. אנליסטים בוול סטריט נותרו אופטימיים לגבי WMT, מה שמעיד על אמון בשוק בהנהלה ובאסטרטגיה שלה. הכרזות משמעותיות, כגון תוכנית הבריאות בשיתוף עם Soda Health ופיתוח "מודעות לקנייה" בטלוויזיות Vizio, מדגימות חדשנות והסתגלות לטכנולוגיות חדשות.
     </p>
-    <p>
+<p>
      דיבידנד ורגולציה:
     </p>
-    <p>
+<p>
      החברה ממשיכה לשלם דיבידנדים קבועים, מה שמצביע על מחויבות לחלוקת רווחים עם המשקיעים. ברמה הרגולטורית, וולמארט פחות חשופה לרוחות נגד מכסים בהשוואה למתחרים, מה שיכול לתרום ליציבות במצבים כלכליים בלתי צפויים.
     </p>
-    <p>
+<p>
      מגמות סקטוריאליות ומשפטיים:
     </p>
-    <p>
+<p>
      המגמה החיובית במגזרי המסחר האלקטרוני ומשחקי הווידאו, בהם וולמארט מעורבת, היא גורם חיובי. עם זאת, יש לעקוב אחר ההשפעות של משפטים והסדרים הקשורים למדיניות התחרות ולפרקטיקות העסקיות של החברה.
     </p>
-    <p>
+<p>
      שיח ציבורי ומידע פנים:
     </p>
-    <p>
+<p>
      הכרזה על שותפות עם Soda Health מציגה את וולמארט כמי שמגיבה לצרכים המשתנים של הלקוחות, במיוחד בקרב אוכלוסיית Medicare Advantage ו-Medicaid. עם זאת, מכירת מניות על ידי דניאל ג'יי ברטלט, סגן נשיא בכיר, יוצרת חוסר וודאות קצרה טווח. יש להתייחס למידע פנים זה בזהירות ולהבין אותו בהקשר של אסטרטגיית ההשקעות שלו.
     </p>
-    <p>
+<p>
      השוואה עם קרפור:
     </p>
-    <p>
+<p>
      מניתוח השוואתי עם קרפור (CRRFY) על ידי Zacks, וולמארט מוצגת כאטרקטיבית יותר כמניית ערך, בהתבסס על יחס מחיר לרווח והפחתת הערכת השווי שלה.
     </p>
-    <p>
+<p>
      סיכום:
     </p>
-    <p>
+<p>
      המצב הנוכחי של WMT מאופיין בגורמים חיוביים משמעותיים, כולל צמיחה במכירות, חדשנות טכנולוגית והסדרי דיבידנד. עם זאת, מכירת מניות על ידי גורם פנימי ויציבות רגולטורית לא בטוחה מציבים אתגרים. יש צורך בהמשכי מעקב אחר המניה תוך התמקדות בהתפתחויות משפטיות, שיח ציבורי והתפתחויות סקטוריאליות. הפוטנציאל לטווח ארוך של וולמארט נשאר חיובי, אך השקעה זהירה ומפוקחת היא הכרחית.
     </p>
-   </div>
-   <div class="disclaimer">
-    <strong>
+</div>
+<div class="disclaimer">
+<strong>
      הסתייגות משפטית:
     </strong>
     המידע הנ״ל מבוסס על מקורות מידע שונים ועלול להשתנות בכל עת. המידע המוזכר בכתבה זו מוגבל לצורך מחקר והנאה ואין לראות בכתוב המלצה להשקעה. יש להתייעץ עם יועץ פיננסי לפני קבלת החלטות השקעה.
     <br/>
-    <br/>
-    <strong>
+<br/>
+<strong>
      הערה:
     </strong>
     הניתוח נוצר באמצעות מודל בינה מלאכותית ועלול לכלול שגיאות כתיב או ניסוח. אנו מתנצלים מראש על אי-הדיוקים האפשריים.
     <br/>
-    <br/>
-    <strong>
+<br/>
+<strong>
      מקורות המידע:
     </strong>
     Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl
     <h3>
      Hippopotamus Research
     </h3>
-   </div>
-  </div>
-  <div class="footer">
-   <div class="timestamp">
+</div>
+</div>
+<div class="footer">
+<div class="timestamp">
     נוצר ב: 19/06/2025 12:39
    </div>
-   <div class="source">
+<div class="source">
     מקורות: Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl | ניתוח באמצעות aya-expanse:8b
    </div>
-  </div>
-  <script id="dynamic-text-cleaner-script">
+</div>
+<script id="dynamic-text-cleaner-script">
    document.addEventListener("DOMContentLoaded", function() {
   // Check if the cleaner has already run to avoid multiple executions
   if (document.body.dataset.jsCleanerApplied) {
@@ -380,5 +470,5 @@
   });
 });
   </script>
- </body>
+</body>
 </html>

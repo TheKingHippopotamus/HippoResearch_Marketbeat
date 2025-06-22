@@ -1,14 +1,15 @@
 <!DOCTYPE html>
+
 <html dir="rtl" lang="he">
- <head>
-  <meta charset="utf-8"/>
-  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-  <title>
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>
    דוח ניתוח סיבתיות - HUM
   </title>
-  <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
-  <style>
+<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
+<style>
    :root {
             --primary-color: #1a1a2e;
             --secondary-color: #16213e;
@@ -228,103 +229,192 @@
             }
         }
   </style>
- </head>
- <body>
-  <div class="container">
-   <div class="header">
-    <div class="header-content">
-     <div class="logo-section">
-      <div class="logo-container">
-       <img alt="Logo" class="logo-image" src="logo.png"/>
-      </div>
-      <div class="brand-info">
-       <div class="brand-name">
+<style>
+    .x-share-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #14171a 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(29,161,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .x-share-btn:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #14171a 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(29,161,242,0.18);
+    }
+    .x-share-btn .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .x-share-btn:hover .x-icon {
+      background: #1da1f2;
+    }
+    .x-share-btn .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    .follow-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #7b2ff2 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(123,47,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .follow-btn:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #7b2ff2 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(123,47,242,0.18);
+    }
+    .follow-btn .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .follow-btn:hover .x-icon {
+      background: #7b2ff2;
+    }
+    .follow-btn .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    </style></head>
+<body>
+<div class="container">
+<div class="header">
+<div class="header-content">
+<div class="logo-section">
+<div class="logo-container">
+<img alt="Logo" class="logo-image" src="logo.png"/>
+</div>
+<div class="brand-info">
+<div class="brand-name">
         Hippopotamus Research
        </div>
-       <div class="brand-subtitle">
+<div class="brand-subtitle">
         מחפשים את הסיבה לתנועות בשוק 
        </div>
-      </div>
-     </div>
-     <div class="social-section">
-      <div class="ticker-badge">
-       HUM
-      </div>
-      <a class="twitter-link" href="https://twitter.com/your_twitter_handle" target="_blank">
-       <img alt="X (Twitter)" class="twitter-icon" src="x.png"/>
-       <span>
-        עקבו אחרינו
-       </span>
-      </a>
-     </div>
-    </div>
-   </div>
-   <div class="content">
-    <div class="newsletter-section" style="margin:12px auto 20px auto;max-width:260px;padding:0;background:none;border:none;box-shadow:none;border-radius:0;position:relative;z-index:2;">
-     <h3 style="font-weight:400;opacity:0.5;font-size:0.85em;margin-bottom:2px;margin-top:0;color:var(--accent-color);">
+</div>
+</div>
+<div class="social-section">
+<div class="ticker-badge">HUM</div>
+<a class="follow-btn" href="https://twitter.com/your_twitter_handle" rel="noopener" target="_blank">
+<span class="x-icon">
+<img alt="X" src="x.png"/>
+</span>
+    עקבו אחרינו
+  </a>
+<a class="x-share-btn" href="https://twitter.com/intent/tweet?text=%D7%9E%D7%97%D7%A7%D7%A8%20%D7%97%D7%93%D7%A9%20%D7%A9%D7%9C%20Hippopotamus%20Research%20%28%24HUM%29%0Ahttps%3A%2F%2Fthekinghippopotamus.github.io%2FHippoResearch_Marketbeat%2Farticles%2FHUM_20250619.html" rel="noopener" target="_blank">
+<span class="x-icon">
+<img alt="X" src="x.png"/>
+</span>
+    שתף ב־X
+  </a>
+</div>
+</div>
+</div>
+<div class="content">
+<div class="newsletter-section" style="margin:12px auto 20px auto;max-width:260px;padding:0;background:none;border:none;box-shadow:none;border-radius:0;position:relative;z-index:2;">
+<h3 style="font-weight:400;opacity:0.5;font-size:0.85em;margin-bottom:2px;margin-top:0;color:var(--accent-color);">
       הצטרפו לרשימת התפוצה שלנו
      </h3>
-     <iframe class="newsletter-iframe" scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="height:110px;width:100%;border:none;background:none;box-shadow:none;border-radius:0;">
-     </iframe>
-    </div>
-    <div class="article-content">
-     <p>
+<iframe class="newsletter-iframe" scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="height:110px;width:100%;border:none;background:none;box-shadow:none;border-radius:0;">
+</iframe>
+</div>
+<div class="article-content">
+<p>
       HUM
      </p>
-    </div>
-    <h3 class="section-header">
+</div>
+<h3 class="section-header">
      ניתוח תנועת מניית HUM: התמודדות עם אתגרים וצמיחה אסטרטגית
     </h3>
-    <p>
+<p>
      מבט כללי: מניית Humana Inc. (HUM) חווה יום סוער, עם ירידות בשיעור X% ברקע של גורמים שונים המשפיעים על תפיסת השוק את החברה. האנליסטים מציגים גישות מגוונות, החל מהמלצות חיוביות ועד גישה זהירה יותר, תוך שהם מזהים הזדמנויות ואתגרים כאחד.
     </p>
-    <p>
+<p>
      הנהלה ויוזמות צמיחה: חברת Humana מתמקדת בחיזוק מעורבות הלקוחות ונאמנות המותג באמצעות קמפיין "Invite" המעודד הזדקנות פעילה וקהילה. יוזמה זו, יחד עם מאמצים לייעול תוכניות Medicare Advantage, מספקת כיוון אסטרטגי חיובי, כפי שמדגיש האנליסט סטיבן בקסטר מוולס פארגו, ששומר על דירוג קנייה. גישה זו מעודדת משקיעים המצפים לצמיחה ארוכת טווח.
     </p>
-    <p>
+<p>
      רגולציה והשפעות משפטיות: אירוע משמעותי הוא הצעת חוק בסנאט המחמירה את הכללים עבור Medicaid, מה שיכול להקל על ספקי שירותי בריאות כמו Humana בתוכנית Medicare Advantage. חברת Humana הציגה גישה זהירה אך בטוחה במהלך אירועי המשקיעים, מדגישה את עמידותה הרגולטורית. עם זאת, תביעה ייצוגית שהגישו מנהלי אחיות בנוגע להפרות של חוק יחסי העבודה הפדרלי (FLSA) מציבה אתגר משפטי פוטנציאלי. אנליסטית מורגן סטנלי, ארין רייט, מתייחסת לאי-ודאות זו, אך שומרת על דירוג חזק עבור החברה.
     </p>
-    <p>
+<p>
      תחזיות אנליסטים ומשקיעים: תגובות האנליסטים משקפות גישות שונות. בנק אוף אמריקה ניירות ערך שומר על עמדת "החזקה" (Hold), מציין יעדים שאפתניים וסיכוני ביצוע. לעומת זאת, טרויסט פייננשל הורידה מעט את מחיר היעד שלה, אך שמרה על דירוג חזק, מה שמצביע על גישה זהירה יותר מצד המשקיעים. בנק אוף אמריקה העלה את מחיר היעד שלו באופן מתון, מצביע על פוטנציאל לעלייה מתונה.
     </p>
-    <p>
+<p>
      סיכום ומבט קדימה: מניית HUM מגיבה לשילוב של גורמים חיוביים ושליליים. היוזמות האסטרטגיות של החברה ותחזיות רגולטיביות אופטימיות מאזנות חלק מהסיכון המשפטי והאי-ודאות בשוק. המשך המעקב חיוני כדי להעריך את השפעת הצעדים המשפטיים ואת ההשפעה הכוללת על ביצועים פיננסיים. עם זאת, הכיוון הנוכחי מצביע על פוטנציאל צמיחה, במיוחד בתחומי היוזמות החדשות של החברה.
     </p>
-    <p>
+<p>
      המשך מעקב אחר התפתחויות רגולטוריות, יוזמות שיווקיות, והשפעתן על הביצועים הכספיים של Humana יספק תמונה ברורה יותר לגבי העתיד של המניה. עד אז, המגמות הנוכחיות מצביעות על איזון עדין בין סיכונים להזדמנויות.
     </p>
-   </div>
-   <div class="disclaimer">
-    <strong>
+</div>
+<div class="disclaimer">
+<strong>
      הסתייגות משפטית:
     </strong>
     המידע הנ״ל מבוסס על מקורות מידע שונים ועלול להשתנות בכל עת. המידע המוזכר בכתבה זו מוגבל לצורך מחקר והנאה ואין לראות בכתוב המלצה להשקעה. יש להתייעץ עם יועץ פיננסי לפני קבלת החלטות השקעה.
     <br/>
-    <br/>
-    <strong>
+<br/>
+<strong>
      הערה:
     </strong>
     הניתוח נוצר באמצעות מודל בינה מלאכותית ועלול לכלול שגיאות כתיב או ניסוח. אנו מתנצלים מראש על אי-הדיוקים האפשריים.
     <br/>
-    <br/>
-    <strong>
+<br/>
+<strong>
      מקורות המידע:
     </strong>
     Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl,MarketBeat
     <h3>
      Hippopotamus Research
     </h3>
-   </div>
-  </div>
-  <div class="footer">
-   <div class="timestamp">
+</div>
+</div>
+<div class="footer">
+<div class="timestamp">
     נוצר ב: 19/06/2025 09:57
    </div>
-   <div class="source">
+<div class="source">
     מקורות: Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl,MarketBeat | ניתוח באמצעות aya-expanse:8b
    </div>
-  </div>
-  <script id="dynamic-text-cleaner-script">
+</div>
+<script id="dynamic-text-cleaner-script">
    document.addEventListener("DOMContentLoaded", function() {
   // Check if the cleaner has already run to avoid multiple executions
   if (document.body.dataset.jsCleanerApplied) {
@@ -356,5 +446,5 @@
   });
 });
   </script>
- </body>
+</body>
 </html>

@@ -1,14 +1,15 @@
 <!DOCTYPE html>
+
 <html dir="rtl" lang="he">
- <head>
-  <meta charset="utf-8"/>
-  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-  <title>
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>
    דוח ניתוח סיבתיות - XOM
   </title>
-  <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
-  <style>
+<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
+<style>
    :root {
             --primary-color: #1a1a2e;
             --secondary-color: #16213e;
@@ -228,112 +229,201 @@
             }
         }
   </style>
- </head>
- <body>
-  <div class="container">
-   <div class="header">
-    <div class="header-content">
-     <div class="logo-section">
-      <div class="logo-container">
-       <img alt="Logo" class="logo-image" src="logo.png"/>
-      </div>
-      <div class="brand-info">
-       <div class="brand-name">
+<style>
+    .x-share-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #14171a 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(29,161,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .x-share-btn:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #14171a 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(29,161,242,0.18);
+    }
+    .x-share-btn .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .x-share-btn:hover .x-icon {
+      background: #1da1f2;
+    }
+    .x-share-btn .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    .follow-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #7b2ff2 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(123,47,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .follow-btn:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #7b2ff2 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(123,47,242,0.18);
+    }
+    .follow-btn .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .follow-btn:hover .x-icon {
+      background: #7b2ff2;
+    }
+    .follow-btn .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    </style></head>
+<body>
+<div class="container">
+<div class="header">
+<div class="header-content">
+<div class="logo-section">
+<div class="logo-container">
+<img alt="Logo" class="logo-image" src="logo.png"/>
+</div>
+<div class="brand-info">
+<div class="brand-name">
         Hippopotamus Research
        </div>
-       <div class="brand-subtitle">
+<div class="brand-subtitle">
         מחפשים את הסיבה לתנועות בשוק 
        </div>
-      </div>
-     </div>
-     <div class="social-section">
-      <div class="ticker-badge">
-       XOM
-      </div>
-      <a class="twitter-link" href="https://twitter.com/your_twitter_handle" target="_blank">
-       <img alt="X (Twitter)" class="twitter-icon" src="x.png"/>
-       <span>
-        עקבו אחרינו
-       </span>
-      </a>
-     </div>
-    </div>
-   </div>
-   <div class="content">
-    <div class="newsletter-section" style="margin:12px auto 20px auto;max-width:260px;padding:0;background:none;border:none;box-shadow:none;border-radius:0;position:relative;z-index:2;">
-     <h3 style="font-weight:400;opacity:0.5;font-size:0.85em;margin-bottom:2px;margin-top:0;color:var(--accent-color);">
+</div>
+</div>
+<div class="social-section">
+<div class="ticker-badge">XOM</div>
+<a class="follow-btn" href="https://twitter.com/your_twitter_handle" rel="noopener" target="_blank">
+<span class="x-icon">
+<img alt="X" src="x.png"/>
+</span>
+    עקבו אחרינו
+  </a>
+<a class="x-share-btn" href="https://twitter.com/intent/tweet?text=%D7%9E%D7%97%D7%A7%D7%A8%20%D7%97%D7%93%D7%A9%20%D7%A9%D7%9C%20Hippopotamus%20Research%20%28%24XOM%29%0Ahttps%3A%2F%2Fthekinghippopotamus.github.io%2FHippoResearch_Marketbeat%2Farticles%2FXOM_20250619.html" rel="noopener" target="_blank">
+<span class="x-icon">
+<img alt="X" src="x.png"/>
+</span>
+    שתף ב־X
+  </a>
+</div>
+</div>
+</div>
+<div class="content">
+<div class="newsletter-section" style="margin:12px auto 20px auto;max-width:260px;padding:0;background:none;border:none;box-shadow:none;border-radius:0;position:relative;z-index:2;">
+<h3 style="font-weight:400;opacity:0.5;font-size:0.85em;margin-bottom:2px;margin-top:0;color:var(--accent-color);">
       הצטרפו לרשימת התפוצה שלנו
      </h3>
-     <iframe class="newsletter-iframe" scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="height:110px;width:100%;border:none;background:none;box-shadow:none;border-radius:0;">
-     </iframe>
-    </div>
-    <div class="article-content">
-     <p>
+<iframe class="newsletter-iframe" scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="height:110px;width:100%;border:none;background:none;box-shadow:none;border-radius:0;">
+</iframe>
+</div>
+<div class="article-content">
+<p>
       XOM
      </p>
-    </div>
-    <h3 class="section-header">
+</div>
+<h3 class="section-header">
      סקירה אנליטית של אקסון מוביל (XOM): מגמות יומיות, סיבתיות ופוטנציאל השקעה
     </h3>
-    <p>
+<p>
      מניות אקסון מוביל (NYSE: XOM) מציגות תנודתיות יומית מרתקת, המונעת על ידי גורמים פנימיים וחיצוניים רבים. הניתוח שלנו חושף את המניעים העיקריים מאחורי מגמת העלייה האחרונה של המניה, תוך התמקדות בהשפעות על הצפי לטווח הקצר והארוך.
     </p>
-    <p>
+<p>
      הנהלה ומוסדות: ביטחון בשוק, אסטרטגיית דיבידנד חזקה
     </p>
-    <p>
+<p>
      ההנהלה הבכירה של אקסון מוביל תרמה ליציבות השוק באמצעות הצהרות מעודדות לגבי יכולת החברה להתמודד עם תנודות במחירי האנרגיה. הדגשה על קיבולת הנפט העולמית הפנויה כפרוטקציה נגד הפרעות באספקה איראנית, כפי שציין מנכ"ל החברה, יצרה ביטחון בקרב המשקיעים. בנוסף, אסטרטגיית הדיבידנד המוצקה של XOM, הכוללת רצף של 42 שנים של עליות, תשואה שנתית של 3.50% ותזרים מזומנים חופשי חזק, מושכת משקיעים המחפשים הכנסה יציבה. אישור הדירוג מחדש של UBS עם מחיר יעד אטרקטיבי מדגיש את האמון במוסד זה ביכולות החברה, במיוחד בתחומי המימן ותאי הדלק.
     </p>
-    <p>
+<p>
      רגולציה ומגמות סקטוריאליות: השפעות גיאו-פוליטיות
     </p>
-    <p>
+<p>
      המתיחות הגיאו-פוליטית במזרח התיכון היא גורם מפתח המשפיע על תנודתיות המניה. עליית מחירי הנפט בעקבות הסכסוך בין איראן לישראל הביאה לתזרים מזומנים משמעותי יותר מפעילות ה-E&amp;P של XOM בפרויקטים כמו זה שמתרחש במפרץ המפרץ בהובר-דיאנה. עם זאת, הרגולציה הסקטוריאלית נותרת גורם משפיע, כאשר חובות הפירוק של נכסים מהווים אתגר מתמשך. ההענקה האחרונה של פרויקט פירוק למחלקת EnerMech מצביעה על התקדמות, אך הדגישות על הצורך בניהול יעיל של נכסים ישנים מעידה על מאמץ מתמשך להתמודד עם רגולציה ועם ציפיות ציבוריות.
     </p>
-    <p>
+<p>
      צמיחה, תזרים מזומנים וניתוח ציבורי: סיפורי הצלחה ומגמות מעקב
     </p>
-    <p>
+<p>
      הביצועים הפיננסיים החזקים של XOM ברבעון הראשון, עם מכירות של 83.1 מיליארד דולר, תומכים במגמת העלייה. תזרים המזומנים החופשי החזק מאפשר לחברה לרכוש מניות בחזרה, אסטרטגיה שמצאה חן בעיני האנליסטים. הופעתה של XOM ברשימות מעקב נושאיות רבות ב-MarketBeat, כולל מיקוד במניות נפט, ליתיום ומימן, מדגישה את החשיפה המגוונת שלה לאנרגיה ואת הפוטנציאל לצמיחה ארוכת טווח.
     </p>
-    <p>
+<p>
      סיכום ומבט קדימה: איזון בין כוחות חיוביים ושליליים
     </p>
-    <p>
+<p>
      XOM מציגה תמונה מורכבת של חוזק יחסי בתזרים מזומנים וצמיחה, אך גם אתגרים רגולטוריים וסיכונים גיאו-פוליטיים. המניה משקפת את האיזון העדין בין פוטנציאל הדיבידנד החזק, ההשפעות המיידיות של מחירי הנפט והציפיות לטווח ארוך לגבי ניהול נכסים ותיקונים רגולטוריים. המשך מעקב אחר ההתפתחויות האזוריות, דירוגי אנליסטים עדכניים ודיווחים פיננסיים רבעוניים חיוניים להבנת המגמות העתידיות של XOM. עם זאת, בהתבסס על הניתוח הנוכחי, נראה כי המניה ממוצבת היטב עם סיכויים להתאוששות ולהתקדמות בתנאים המשתנים של שוק האנרגיה העולמי.
     </p>
-   </div>
-   <div class="disclaimer">
-    <strong>
+</div>
+<div class="disclaimer">
+<strong>
      הסתייגות משפטית:
     </strong>
     המידע הנ״ל מבוסס על מקורות מידע שונים ועלול להשתנות בכל עת. המידע המוזכר בכתבה זו מוגבל לצורך מחקר והנאה ואין לראות בכתוב המלצה להשקעה. יש להתייעץ עם יועץ פיננסי לפני קבלת החלטות השקעה.
     <br/>
-    <br/>
-    <strong>
+<br/>
+<strong>
      הערה:
     </strong>
     הניתוח נוצר באמצעות מודל בינה מלאכותית ועלול לכלול שגיאות כתיב או ניסוח. אנו מתנצלים מראש על אי-הדיוקים האפשריים.
     <br/>
-    <br/>
-    <strong>
+<br/>
+<strong>
      מקורות המידע:
     </strong>
     Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl,MarketBeat
     <h3>
      Hippopotamus Research
     </h3>
-   </div>
-  </div>
-  <div class="footer">
-   <div class="timestamp">
+</div>
+</div>
+<div class="footer">
+<div class="timestamp">
     נוצר ב: 19/06/2025 09:32
    </div>
-   <div class="source">
+<div class="source">
     מקורות: Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl,MarketBeat | ניתוח באמצעות aya-expanse:8b
    </div>
-  </div>
-  <script id="dynamic-text-cleaner-script">
+</div>
+<script id="dynamic-text-cleaner-script">
    document.addEventListener("DOMContentLoaded", function() {
   // Check if the cleaner has already run to avoid multiple executions
   if (document.body.dataset.jsCleanerApplied) {
@@ -365,5 +455,5 @@
   });
 });
   </script>
- </body>
+</body>
 </html>
