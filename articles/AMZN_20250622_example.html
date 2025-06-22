@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8"/>
     <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-    <title>{{TITLE}}</title>
+    <title>Amazon (AMZN) - מחקר כלכלי מתקדם | Hippopotamus Research</title>
     <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&display=swap" rel="stylesheet"/>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
     <style>
@@ -78,7 +78,8 @@
         .logo-section {
             display: flex; align-items: center; gap: 20px;
             flex-shrink: 0;
-            max-width: none;
+            max-width: 350px;
+            width: fit-content;
         }
         .logo-container {
             position: relative; width: 120px; height: 120px;
@@ -106,15 +107,12 @@
         .brand-info {
             text-align: right;
             min-width: 0;
-            max-width: 260px;
-            width: 100%;
-            overflow: visible;
-            text-overflow: unset;
-            white-space: normal;
-            word-break: break-word;
+            max-width: 180px;
+            overflow: hidden;
+            text-overflow: ellipsis;
         }
         .brand-name {
-            font-size: 1.7em;
+            font-size: 2.1em;
             font-weight: 800;
             background: linear-gradient(45deg, #ffffff 0%, #e94560 100%);
             -webkit-background-clip: text;
@@ -123,8 +121,8 @@
             text-fill-color: transparent;
             letter-spacing: 0.04em;
             text-shadow: 0 2px 8px rgba(233,69,96,0.08);
-            margin-bottom: 8px;
-            line-height: 1.18;
+            margin-bottom: 2px;
+            line-height: 1.1;
         }
         .brand-subtitle {
             font-size: 1.08em;
@@ -142,44 +140,9 @@
             line-height: 1.1;
         }
         .social-section { display: flex; align-items: center; gap: 15px; }
-        .twitter-link {
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            background: linear-gradient(90deg, #7b2ff2 0%, #f357a8 100%);
-            padding: 12px 20px;
-            border-radius: 25px;
-            text-decoration: none;
-            color: var(--text-light);
-            transition: all 0.3s ease;
-            backdrop-filter: blur(10px);
-            border: 1px solid rgba(255, 255, 255, 0.2);
-            font-weight: 700;
-            box-shadow: 0 4px 16px rgba(123,47,242,0.10);
-        }
-        .twitter-link:hover {
-            background: linear-gradient(90deg, #f357a8 0%, #7b2ff2 100%);
-            transform: translateY(-2px) scale(1.04);
-            box-shadow: 0 10px 24px rgba(123,47,242,0.18);
-        }
-        .twitter-icon {
-            width: 20px;
-            height: 20px;
-            object-fit: cover;
-            border-radius: 50%;
-            background: #fff;
-            padding: 2px;
-            box-shadow: 0 2px 8px rgba(123,47,242,0.10);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-        }
-        .twitter-icon img {
-            width: 100%;
-            height: 100%;
-            border-radius: 50%;
-            object-fit: cover;
-        }
+        .twitter-link { display: flex; align-items: center; gap: 10px; background: rgba(255, 255, 255, 0.1); padding: 12px 20px; border-radius: 25px; text-decoration: none; color: var(--text-light); transition: all 0.3s ease; backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.2); }
+        .twitter-link:hover { background: rgba(233, 69, 96, 0.2); transform: translateY(-2px); box-shadow: 0 10px 20px rgba(233, 69, 96, 0.3); }
+        .twitter-icon { width: 20px; height: 20px; object-fit: contain; }
         .ticker-badge { background: var(--gradient-accent); padding: 8px 16px; border-radius: 20px; font-weight: 600; font-size: 1.1em; box-shadow: var(--shadow-accent); }
         .content { padding: 50px 40px; color: var(--text-dark); }
         .article-content {
@@ -270,38 +233,15 @@
                 max-width: 100vw;
                 width: 100%;
             }
-            .logo-container {
-                width: 56px;
-                height: 56px;
-                aspect-ratio: 1/1;
-                border-radius: 50%;
-                overflow: hidden;
-                box-shadow: var(--shadow-accent);
-            }
-            .logo-image {
-                width: 48px;
-                height: 48px;
-                border-radius: 50%;
-                object-fit: cover;
-                aspect-ratio: 1/1;
-            }
-            .brand-info {
-                max-width: 260px;
-                width: 100%;
-                overflow: visible;
-                text-overflow: unset;
-                white-space: normal;
-                word-break: break-word;
-            }
+            .brand-info { max-width: 100vw; }
             .brand-name {
-                font-size: 0.98em;
+                font-size: 1.05em;
                 font-weight: 700;
                 margin-bottom: 2px;
                 letter-spacing: 0.01em;
-                white-space: normal;
             }
             .brand-subtitle {
-                font-size: 0.78em;
+                font-size: 0.85em;
                 opacity: 0.85;
                 font-weight: 500;
             }
@@ -312,6 +252,8 @@
             }
             .content { padding: 10px 2px; font-size: 1em; }
             .article-content { padding: 8px; }
+            .logo-container { width: 60px; height: 60px; aspect-ratio: 1/1; }
+            .logo-image { width: 50px; height: 50px; aspect-ratio: 1/1; }
             .social-section {
                 gap: 5px;
                 flex-wrap: wrap;
@@ -481,7 +423,7 @@
                     </div>
                 </div>
                 <div class="social-section">
-                    <div class="ticker-badge">{{TICKER}}</div>
+                    <div class="ticker-badge">AMZN</div>
                     <a class="twitter-link" href="https://x.com/LmlyhNyr" target="_blank">
                         <img alt="X (Twitter)" class="twitter-icon" src="x.png"/>
                         <span>עקבו אחרינו</span>
@@ -498,7 +440,37 @@
         <div class="content">
             <div class="article-content">
                 <div class="article-content-text">
-                    {{ARTICLE_BODY}}
+<!-- ARTICLE BODY START -->
+<h1>אמזון: בין צמיחה לבדיקות רגולטוריות</h1>
+<h2>מסע דרך עליות ומורדות של ענקית הטכנולוגיה</h2>
+<p>אמזון, ענקית הטכנולוגיה והקמעונאות, נמצאת במרכזו של סערה פיננסית ומחקרית. מניית החברה (נאסד"ק: AMZN) רצה בין שיאים היסטוריים לגלי ירידה, משקפת את המורכבות של המסלול שלה בשנת 2023. גל של אירועים, החל משיתופי פעולה אסטרטגיים ועד לחקירות רגולטוריות, יוצרים תמונה מורכבת של עליות ומורדות עבור החברה המובילה.</p>
+<h2>שותפויות פורצות דרך ופרסום מחובר</h2>
+<p>בעולם הפרסום, אמזון עושה צעדים גדולים עם שותפות בין Amazon Ads ל-Roku. השילוב הזה מבטיח ליצור את נוכחות הפרסום המאומתת הגדולה ביותר בטלוויזיה מחוברת, מה שמגביר את הפוטנציאל להכנסות עצומות מפרסומות ממוקדות. השותפות מדגישה את נחישותה של אמזון להיכנס לשוק הטלוויזיה, תוך ניצול הטכנולוגיה שלה כדי למקד פרסומות בצורה יעילה יותר.</p>
+<h2>אנליסטים מאשרים: צמיחה וחדשנות</h2>
+<p>האותות חיוביים עבור המשקיעים. אופנהיימר והמשקיעים ב-Motens מעלים את הערכותיהם למניה, עם מחירי יעד גבוהים יותר המצביעים על אמון בצמיחתה של אמזון. האנליסטים מציינים את המיצוב החזק של החברה בשוק ואת היכולת שלה לחדש, במיוחד בתחום הבינה המלאכותית.</p>
+<h2>השקעות ענקיות במרכזי נתונים וענן</h2>
+<p>באסטרטגיה גלובאלית, אמזון משקיעה מיליארדי דולרים בבניית מרכזי נתונים בדרום קוריאה, בשיתוף עם קבוצת SK ו-AWS. השקעה זו מדגישה את מחויבותה של החברה להרחבת תשתיות הענן שלה ולתמיכה בצמיחה ארוכת טווח. צעד זה יכול לשפר את נוכחותה של אמזון בשוק האסיאתי ולחזק את מעמדה כמובילה בתחום הענן.</p>
+<h2>שיפוץ בינה מלאכותית: Q Business Suite משנה את המשחק</h2>
+<p>בתוך האימפריה הטכנולוגית שלה, אמזון משדרגת את כלי הבינה המלאכותית שלה תחת "Q Business Suite". שדרוג אסטרטגי זה משפר את יכולות הצ'אטבוט של Q, מה שמעניק לחברה יתרון נוסף בתחום הבינה המלאכותית הארגונית. צעד זה מציג את מחויבותה המתמשכת של אמזון לחדשנות ולשיפור הטכנולוגיה שלה.</p>
+<h2>שרשרת אספקה חזקה והשפעה על חומרה</h2>
+<p>הערות אנליסטים מג'ביל מדגישות את כוחה של שרשרת האספקה של אמזון. העלייה בתחזיות המחירים קשורה ישירות לחזקותיה של אמזון, במיוחד בתחום החומרה הקשורה לבינה מלאכותית. זה מצביע על ביקוש מתמשך לטכנולוגיה שהחברה מציעה ועל הפוטנציאל לצמיחה נוספת במגזר זה.</p>
+<h2>תחזיות עתידיות: אי ודאות וצמיחה</h2>
+<p>כאשר מסתכלים אל העתיד, תרחישים מרובים לטווח ארוך מציגים את המורכבות של צמיחתה של אמזון. הבסיס, הצמיחה, והדובי - כל אחד מציע תוצאות שונות, עם אי ודאות לגבי הכיוון האסטרטגי של החברה. משקיעים צריכים לשקול הן את היסודות החזקים של אמזון והן את המומנטום שלה בשוק המשתנה במהירות.</p>
+<h2>זיהוי טרנדים: Zacks.com מציע הזדמנויות</h2>
+<p>Zacks.com, מקור מומחה לניתוח מניות, מזהה את AMZN כשם בעל עניין רב. הם ממליצים למשקיעים לנצל הן את היסודות הפיננסיים החזקים של החברה והן את המומנטום הטכנולוגי שלה. גישה זו מציעה הזדמנות לחקור את הפוטנציאל ארוך הטווח של אמזון, במיוחד בתקופות של תנודתיות בשוק.</p>
+<h2>התפשטות בינלאומית: איזון בין צמיחה לביקורת</h2>
+<p>האסטרטגיה הבינלאומית של אמזון מדגימה את יכולותיה להתאים את עצמה לסביבות שונות. ההשקעה בהודו ומרכזי הנתונים בארצות הברית משקפים את מאמציה של החברה להרחיב את נוכחותה הגלובלית, תוך התמודדות עם ביקורת ציבורית. איזון זה בין צמיחה לביקורת הוא אתגר מתמשך עבור אמזון, אך גם הזדמנות לצמיחה בשווקים חדשים.</p>
+<h2>ניסוי סטייבלקוין: מהפכה בתשלומים?</h2>
+<p>דיווחים על ניסויי סטייבלקוין של אמזון מעלים שאלות לגבי עתיד עיבוד התשלומים. האם החברה מתכננת ליצור מערכת תשלומים דיגיטלית משלה, עם השפעות פוטנציאליות על כלכלת התשלומים העולמית? זה רק הזמן יגיד, אך צעד כזה יכול לשנות את הנוף של תעשיית התשלומים.</p>
+<h2>חקירה בריטית: עיכובים בתשלומים לספקים</h2>
+<p>בעיה רגולטורית בולטת עבור אמזון היא החקירה הבריטית על עיכובים לכאורה בתשלומים לספקים. Groceries Code Adjudicator בוחן את ההאשמות, מה שמעיב על המוניטין של אמזון בבריטניה. תוצאות החקירה עשויות להשפיע על נוכחותה של החברה בשוק האירופי, להדגיש את הצורך שלה לשפר את יחסי הספקים-לקוחות שלה.</p>
+<h2>תנודתיות בשוק: לחץ קצר טווח</h2>
+<p>כמו חברות טכנולוגיה רבות, אמזון חווה תנודתיות בשווי המניה שלה. ירידות חדות היו חלק מהעלייה האחרונה, מונעות על ידי חששות רגולטוריים, סיפורי צ'יפים סיניים, וכותרות סביב TikTok. משקיעים קצרי טווח מתמודדים עם לחץ, אך לטווח הארוך, האתגרים הללו מציעים הזדמנויות לרכישה מחדש במחירים אטרקטיביים.</p>
+<h2>סביבה רגולטורית מאתגרת: עליות ומורדות בנתיב הביצוע</h2>
+<p>אמזון מתמודדת עם סביבה רגולטורית משתנה, במיוחד בנושאי שכירת עובדים ומקומות עבודה. חקירות מתמשכות עלולות להשפיע על המוניטין שלה ולעורר שאלות לגבי אסטרטגיית הביצוע שלה. עם זאת, החברה הראתה עמידות בעבר, והצלחתה תלויה ביכולתה להתאים את עצמה לסביבה המשתנה במהירות, לשמור על חדשנות, ולהמשיך לספק ערך למשקיעים.</p>
+<p>---</p>
+<p>עם נקודות מפתח אלה, הסיפור של אמזון ממשיך להתפתח, מציע הזדמנויות ואתגרים למשקיעים ולחוקרים כאחד.</p>
+<!-- ARTICLE BODY END -->
                 </div>
             </div>
             <div class="disclaimer">
@@ -520,7 +492,7 @@
             </div>
         </div>
         <div class="footer">
-            <div class="timestamp">נוצר ב: {{TIMESTAMP}}</div>
+            <div class="timestamp">נוצר ב: 22/06/2025 15:55</div>
             <div class="source">מקורות: Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl | ניתוח באמצעות aya-expanse:8b</div>
         </div>
     </div>
@@ -537,7 +509,7 @@
           setTimeout(function() {
             popup.remove();
             window.open('https://thekinghippopotamus.github.io/HippoResearch_Marketbeat/', '_blank', 'noopener');
-            window.open('https://twitter.com/intent/tweet?text=%D7%9E%D7%97%D7%A7%D7%A8%20%D7%97%D7%93%D7%A9%20%D7%A9%D7%9C%20Hippopotamus%20Research%20%24{{TICKER}}%0Ahttps%3A%2F%2Fthekinghippopotamus.github.io%2FHippoResearch_Marketbeat%2Farticles%2F{{TICKER}}_{{DATE}}.html', '_self', 'noopener');
+            window.open('https://twitter.com/intent/tweet?text=%D7%9E%D7%97%D7%A7%D7%A8%20%D7%97%D7%93%D7%A9%20%D7%A9%D7%9C%20Hippopotamus%20Research%20%24AMZN%0Ahttps%3A%2F%2Fthekinghippopotamus.github.io%2FHippoResearch_Marketbeat%2Farticles%2FAMZN_20250622_example.html', '_self', 'noopener');
           }, 3000);
           return false;
         });
