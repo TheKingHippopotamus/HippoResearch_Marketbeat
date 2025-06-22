@@ -1,15 +1,14 @@
 <!DOCTYPE html>
-
 <html dir="rtl" lang="he">
-<head>
-<meta charset="utf-8"/>
-<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
    כתבה כלכלית - PLTR
   </title>
-<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
-<style>
+  <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
+  <style>
    :root {
             --primary-color: #1a1a2e;
             --secondary-color: #16213e;
@@ -444,8 +443,8 @@
             }
         }
   </style>
-<style>
-    .x-share-btn {
+  <style>
+   .x-share-btn {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -529,8 +528,9 @@
       height: 16px;
       display: block;
     }
-    </style><style>
-    .x-share-btn-custom {
+  </style>
+  <style>
+   .x-share-btn-custom {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -614,8 +614,9 @@
       height: 16px;
       display: block;
     }
-    </style><style>
-    .x-share-btn-custom {
+  </style>
+  <style>
+   .x-share-btn-custom {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -723,170 +724,263 @@
       90% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
       100% { opacity: 0; transform: translateX(-50%) scale(0.95); }
     }
-    </style></head>
-<body>
-<div class="container">
-<div class="header">
-<div class="header-content">
-<div class="logo-section">
-<div class="logo-container">
-<img alt="Logo" class="logo-image" src="logo.png"/>
-</div>
-<div class="brand-info">
-<div class="brand-name">
+  </style>
+  <style>
+   .x-share-btn-custom {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #14171a 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(29,161,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .x-share-btn-custom:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #14171a 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(29,161,242,0.18);
+    }
+    .x-share-btn-custom .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .x-share-btn-custom:hover .x-icon {
+      background: #1da1f2;
+    }
+    .x-share-btn-custom .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    .follow-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #7b2ff2 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(123,47,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .follow-btn:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #7b2ff2 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(123,47,242,0.18);
+    }
+    .follow-btn .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .follow-btn:hover .x-icon {
+      background: #7b2ff2;
+    }
+    .follow-btn .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    .share-popup-message {
+      position: fixed;
+      top: 30px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: #1da1f2;
+      color: #fff;
+      padding: 18px 32px;
+      border-radius: 30px;
+      font-size: 1.2em;
+      font-weight: 700;
+      box-shadow: 0 4px 24px rgba(29,161,242,0.18);
+      z-index: 9999;
+      opacity: 0.97;
+      text-align: center;
+      letter-spacing: 0.02em;
+      animation: fadeInOut 3s;
+    }
+    @keyframes fadeInOut {
+      0% { opacity: 0; transform: translateX(-50%) scale(0.95); }
+      10% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
+      90% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
+      100% { opacity: 0; transform: translateX(-50%) scale(0.95); }
+    }
+  </style>
+ </head>
+ <body>
+  <div class="container">
+   <div class="header">
+    <div class="header-content">
+     <div class="logo-section">
+      <div class="logo-container">
+       <img alt="Logo" class="logo-image" src="logo.png"/>
+      </div>
+      <div class="brand-info">
+       <div class="brand-name">
         Hippopotamus Research
        </div>
-<div class="brand-subtitle">
+       <div class="brand-subtitle">
         מחקר כלכלי מתקדם
        </div>
-</div>
-</div>
-<div class="social-section">
-<div class="ticker-badge">PLTR</div>
-<a class="follow-btn" href="https://twitter.com/your_twitter_handle" rel="noopener" target="_blank">
-<span class="x-icon">
-<img alt="X" src="x.png"/>
-</span>
-    עקבו אחרינו
-  </a>
-<button class="x-share-btn-custom" type="button">
-<span class="x-icon">
-<img alt="X" src="x.png"/>
-</span>
-    שתף ב־X
-  </button>
-</div><script>
-document.addEventListener('DOMContentLoaded', function() {
-  document.querySelectorAll('.x-share-btn-custom').forEach(function(btn) {
-    btn.addEventListener('click', function(e) {
-      e.preventDefault();
-      e.stopPropagation();
-      // הצג פופ-אפ למשתמש
-      var popup = document.createElement('div');
-      popup.className = 'share-popup-message';
-      popup.textContent = 'השיתוף מחכה לך בדף השני :)';
-      document.body.appendChild(popup);
-      setTimeout(function() {
-        popup.remove();
-        window.open('https://thekinghippopotamus.github.io/HippoResearch_Marketbeat/', '_blank', 'noopener');
-        window.open('https://twitter.com/intent/tweet?text=%D7%9E%D7%97%D7%A7%D7%A8%20%D7%97%D7%93%D7%A9%20%D7%A9%D7%9C%20Hippopotamus%20Research%20%24PLTR%0Ahttps%3A%2F%2Fthekinghippopotamus.github.io%2FHippoResearch_Marketbeat%2Farticles%2FPLTR_20250618.html', '_self', 'noopener');
-      }, 3000); // 3 שניות
-      return false;
-    });
-  });
-});
-</script>
-</div>
-</div>
-<div class="content">
-<div class="newsletter-section" style="margin:12px auto 20px auto;max-width:260px;padding:0;background:none;border:none;box-shadow:none;border-radius:0;position:relative;z-index:2;">
-<h3 style="font-weight:400;opacity:0.5;font-size:0.85em;margin-bottom:2px;margin-top:0;color:var(--accent-color);">
+      </div>
+     </div>
+     <div class="social-section">
+      <div class="ticker-badge">
+       PLTR
+      </div>
+      <a class="follow-btn" href="https://twitter.com/your_twitter_handle" rel="noopener" target="_blank">
+       <span class="x-icon">
+        <img alt="X" src="x.png"/>
+       </span>
+       עקבו אחרינו
+      </a>
+      <button class="x-share-btn-custom" type="button">
+       <span class="x-icon">
+        <img alt="X" src="x.png"/>
+       </span>
+       שתף ב־X
+      </button>
+     </div>
+    </div>
+   </div>
+   <div class="content">
+    <div class="newsletter-section" style="margin:12px auto 20px auto;max-width:260px;padding:0;background:none;border:none;box-shadow:none;border-radius:0;position:relative;z-index:2;">
+     <h3 style="font-weight:400;opacity:0.5;font-size:0.85em;margin-bottom:2px;margin-top:0;color:var(--accent-color);">
       הצטרפו לרשימת התפוצה שלנו
      </h3>
-<iframe class="newsletter-iframe" scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="height:110px;width:100%;border:none;background:none;box-shadow:none;border-radius:0;">
-</iframe>
-</div>
-<div class="article-content">
-<p>
+     <iframe class="newsletter-iframe" scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="height:110px;width:100%;border:none;background:none;box-shadow:none;border-radius:0;">
+     </iframe>
+    </div>
+    <div class="article-content">
+     <p>
       PLTR
      </p>
-</div>
-<p>
+    </div>
+    <p>
      המירוץ למרחב הסייבר: Palantir Technologies פורצת גבולות, אך האם היא יכולה לעמוד בלחץ?
     </p>
-<p>
+    <p>
      בעודן העולם מתמודד עם איומים גיאופוליטיים ומתחים גלובליים, חברת הטכנולוגיה Palantir Technologies Inc.
                 (PLTR) נמצאת במרכזו של סיפור עלייה מרתק, שמעורר סקרנות וזהירות בו-זמנית. מניית החברה עלתה למעלות חדשות,
                 אך האם זהו רץ סוס מנצח או אשליה קצרת טווח? הבה נצלול לתוך עלילת הדרמה הכלכלית הזו.
     </p>
-<p>
+    <p>
      פתיחה: טכנולוגיה חדשנית בעולם מסוכן
     </p>
-<p>
+    <p>
      Palantir, יצרנית תוכנת הבינה המלאכותית (AI) והניתוח הסייבר, נמצאת תחת אור הזרקורים לאחר שצברה תאוצה יוצאת
                 דופן בשוק המניות. השבוע, המניה הגיעה לשיאים חדשים, עם שיאי 52 שבועות ושיאי כל הזמנים, מה שהצית חגיגות
                 בקרב המשקיעים. אבל מאחורי החגיגה הזאת, יש עלילה מורכבת שמציעה שילוב של גורמים חיוביים ושל סיכונים
                 פוטנציאליים.
     </p>
-<p>
+    <p>
      הזרזים לצמיחה: רווחים חזקים וחוזים ממשלתיים
     </p>
-<p>
+    <p>
      העלייה הדרמטית במניית Palantir מיוחסת למספר גורמים מרכזיים. ראשית, החברה דיווחה על רווחים רבעוניים חזקים,
                 שהדהימו אפילו את האנליסטים האופטימיים ביותר. הכנסותיה מעליו ציפיות, בעיקר בזכות שותפויות אסטרטגיות חדשות
                 וחוזים ממשלתיים מחודשים. משרד ההגנה האמריקאי וממשלות אחרות הקצו סכום עתק של למעלה מ-627 מיליון דולר
                 לפלנטיר, מה שמבטיח זרם הכנסות יציב.
     </p>
-<p>
+    <p>
      גיאופוליטיקה וביטחון: ביקוש מוגבר לטכנולוגיה שלה
     </p>
-<p>
+    <p>
      המתחים הגיאופוליטיים העולמיים משמשים כדלק נוסף לריצה של Palantir. איומים על ביטחון סייבר, במיוחד סביב
                 ישראל ואיראן, הדגישו את חשיבות טכנולוגיית האנליטיקה וההגנה של החברה. פלנטיר מציעה כלים מתקדמים לזיהוי
                 דפוסים וניתוח מידע, מה שהופך אותה לבחירה אטרקטיבית עבור סוכנויות ממשלתיות שמבקשות להישאר צעד אחד לפני
                 האויבים הפוטנציאליים שלהם.
     </p>
-<p>
+    <p>
      תמיכה מהמוסדיים: מי מעז להשקיע?
     </p>
-<p>
+    <p>
      משקיעים מוסדיים בולטים, כולל BlackRock ו-JPMorgan, הוסיפו לעמדותיהם במניית Palantir ברבעון האחרון, מה
                 שמעיד על אמון גובר בחברה. מהלכים אלה משקפים את ההבנה כי פלנטיר נמצאת בחזית של מהפכת הבינה המלאכותית, עם
                 פוטנציאל להפוך לשחקן דומיננטי בתחומים רבים.
     </p>
-<p>
+    <p>
      תחזיות אנליסטים: ציפיות גבוהות או אשליה?
     </p>
-<p>
+    <p>
      אנליסטים בשוק מציגים תחזיות מעורבות. בעוד שחלק העריכו את מחיר המניה ב-155 דולר, מה שמצביע על אמון בצמיחה
                 ארוכת טווח, אחרים פרסמו דירוגי מכירה, מציינים הערכות שווי מתוחות. Loop Capital הייתה חיובית באופן בולט,
                 אך אנליסטים אחרים מזהירים מפני מכפילי הערכה גבוהים.
     </p>
-<p>
+    <p>
      קרנות גידור וזהירות: מי משתתף במשחק?
     </p>
-<p>
+    <p>
      פעילות הקרנות הגידור מראה מגוון בגישות. בעוד שחלק ממחזיקי המניות הגדולים מקצצים את פוזיציותיהם, אחרים,
                 כמו קרן גידור מובילה אחרת, מגדילים את החשיפה שלהם. זה מצביע על כך שהשוק אינו אחיד בדעותיו לגבי העתיד של
                 Palantir.
     </p>
-<p>
+    <p>
      רשתות חברתיות ותנודתיות: אופטימיות זהירה
     </p>
-<p>
+    <p>
      שיחות ברשתות החברתיות סביב Palantir מציגות אופטימיות לגבי פוטנציאל הבינה המלאכותית שלה, אך זהירות מפני
                 תנודתיות המחירים. המשקיעים מודעים לכך שהשוק נמצא במצב של המתנה לעדכוני רווחים או חדשות משמעותיות שיכולות
                 להניע את המניה בכיוונים שונים.
     </p>
-<p>
+    <p>
      סיכונים פוליטיים: חקירה על הרקע
     </p>
-<p>
+    <p>
      אחד הסיכונים העיקריים העומדים בפני Palantir הוא בדיקה פוליטית. קבוצה של מחוקקים דמוקרטים דרשה פרטים על
                 חוזים ממשלתיים מסוימים, מה שמעורר חששות לגבי השקיפות והתדמית של החברה. חקירה זו עלולה להשפיע על אמון
                 המשקיעים, במיוחד אם יתגלו אי-התאמות או בעיות אתיות.
     </p>
-<p>
+    <p>
      איזון עדין: בין זרזים לצמיחה לסיכונים
     </p>
-<p>
+    <p>
      משקיעים בפלנטיר עומדים בפני אתגר איזון. הזרזים לשיאים החדשים - רווחים חזקים, חוזים ממשלתיים ושותפויות -
                 הם בעלי משקל כבד. עם זאת, יש גם שיקולים טכניים, כולל מכירות פנימיות משמעותיות מצד מנהלי החברה, והבדלים
                 בדירוגי האנליסטים.
     </p>
-<p>
+    <p>
      לדעת מומחים, המשקיעים צריכים לנקוט בגישה זהירה אך אופטימית. Palantir נמצאת בעמדה חזקה כדי לנצל את הדרישה
                 הגוברת לטכנולוגיית בינה מלאכותית וסייבר, במיוחד בעידן של מתח גיאופוליטי. עם זאת, חשוב להעריך את הסיכונים
                 הפוליטיים ואת הפוטנציאל לתנודתיות בשוק, במיוחד ברגעים של לחץ גיאופוליטי מוגבר.
     </p>
-<p>
+    <p>
      בסיפור זה, בו טכנולוגיה, גיאופוליטיקה ואסטרטגיה פיננסית מתמזגים, Palantir Technologies היא הגיבור והנבל
                 בו-זמנית. האם המניה תמשיך לטפס או שתעצור בפסגה? רק הזמן יגיד, אך עבור משקיעים סקרנים, הסיפור הזה רק
                 מתחיל.
     </p>
-</div>
-<div class="disclaimer">
-<strong>
+   </div>
+   <div class="disclaimer">
+    <strong>
      ⚠️ אזהרה:
     </strong>
     המידע הנ״ל מבוסס על מקורות מידע שונים ועלול להשתנות בכל עת.
@@ -895,17 +989,17 @@ document.addEventListener('DOMContentLoaded', function() {
     <h3>
      Hippopotamus Research
     </h3>
-</div>
-</div>
-<div class="footer">
-<div class="timestamp">
+   </div>
+  </div>
+  <div class="footer">
+   <div class="timestamp">
     נוצר ב: 17/06/2025 16:28
    </div>
-<div class="source">
+   <div class="source">
     מקור: MarketBeat | עובד באמצעות LLM - aya-expanse:8b
    </div>
-</div>
-<script id="dynamic-text-cleaner-script">
+  </div>
+  <script id="dynamic-text-cleaner-script">
    document.addEventListener("DOMContentLoaded", function() {
   // Check if the cleaner has already run to avoid multiple executions
   if (document.body.dataset.jsCleanerApplied) {
@@ -915,12 +1009,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
   const elements = document.querySelectorAll('p, h1, h2, h3, h4, li, span');
   
-  // Regex to find all variations of markers:
-  // - Optional hashes (e.g., #TITLE, ## TITLE)
-  // - The marker words in English (TITLE, SUBTITLE, PARA) with an optional colon
-  // - The marker words in Hebrew (כותרת ראשית, כותרת משנה, פסקה) with an optional colon
-  // - Any remaining hash symbols
-  const regex = /(?:#+\s*)?(?:TITLE|SUBTITLE|PARA|כותרת ראשית|כותרת משנה|פסקה):?|#+/gi;
+  // Regex to match marker words anywhere, with optional colon or space after
+  const regex = /(?:#+\s*)?(TITLE|SUBTITLE|PARA|כותרת ראשית|כותרת משנה|פסקה|ראשונה|שניה|שנייה|שלישית|רביעית|חמישית|שישית|אחרונה)[:：]?/gi;
 
   elements.forEach(el => {
     // We iterate through child nodes to only affect text nodes.
@@ -928,7 +1018,7 @@ document.addEventListener('DOMContentLoaded', function() {
     Array.from(el.childNodes).forEach(node => {
       if (node.nodeType === Node.TEXT_NODE) { // Process only text nodes
         const originalText = node.textContent;
-        const newText = originalText.replace(regex, '').trim();
+        const newText = originalText.replace(regex, '').replace(/\s{2,}/g, ' ').trim();
         if (originalText !== newText) {
           node.textContent = newText;
         }
@@ -937,5 +1027,25 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 });
   </script>
-</body>
+  <script>
+   document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('.x-share-btn-custom').forEach(function(btn) {
+    btn.addEventListener('click', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      var popup = document.createElement('div');
+      popup.className = 'share-popup-message';
+      popup.textContent = 'השיתוף מחכה לך בדף השני :)';
+      document.body.appendChild(popup);
+      setTimeout(function() {
+        popup.remove();
+        window.open('https://thekinghippopotamus.github.io/HippoResearch_Marketbeat/', '_blank', 'noopener');
+        window.open('https://twitter.com/intent/tweet?text=%D7%9E%D7%97%D7%A7%D7%A8%20%D7%97%D7%93%D7%A9%20%D7%A9%D7%9C%20Hippopotamus%20Research%20%24PLTR%0Ahttps%3A%2F%2Fthekinghippopotamus.github.io%2FHippoResearch_Marketbeat%2Farticles%2FPLTR_20250618.html', '_self', 'noopener');
+      }, 3000);
+      return false;
+    });
+  });
+});
+  </script>
+ </body>
 </html>

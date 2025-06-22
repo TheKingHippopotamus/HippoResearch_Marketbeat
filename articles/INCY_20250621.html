@@ -1,15 +1,14 @@
 <!DOCTYPE html>
-
 <html dir="rtl" lang="he">
-<head>
-<meta charset="utf-8"/>
-<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
    Incyte (INCY) - מחקר כלכלי מתקדם | Hippopotamus Research
   </title>
-<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
-<style>
+  <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
+  <style>
    :root {
             --primary-color: #1a1a2e;
             --secondary-color: #16213e;
@@ -229,8 +228,8 @@
             }
         }
   </style>
-<style>
-    .x-share-btn {
+  <style>
+   .x-share-btn {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -314,8 +313,9 @@
       height: 16px;
       display: block;
     }
-    </style><style>
-    .x-share-btn-custom {
+  </style>
+  <style>
+   .x-share-btn-custom {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -399,8 +399,9 @@
       height: 16px;
       display: block;
     }
-    </style><style>
-    .x-share-btn-custom {
+  </style>
+  <style>
+   .x-share-btn-custom {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -508,144 +509,237 @@
       90% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
       100% { opacity: 0; transform: translateX(-50%) scale(0.95); }
     }
-    </style></head>
-<body>
-<div class="container">
-<div class="header">
-<div class="header-content">
-<div class="logo-section">
-<div class="logo-container">
-<img alt="Logo" class="logo-image" src="logo.png"/>
-</div>
-<div class="brand-info">
-<div class="brand-name">
+  </style>
+  <style>
+   .x-share-btn-custom {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #14171a 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(29,161,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .x-share-btn-custom:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #14171a 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(29,161,242,0.18);
+    }
+    .x-share-btn-custom .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .x-share-btn-custom:hover .x-icon {
+      background: #1da1f2;
+    }
+    .x-share-btn-custom .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    .follow-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #7b2ff2 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(123,47,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .follow-btn:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #7b2ff2 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(123,47,242,0.18);
+    }
+    .follow-btn .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .follow-btn:hover .x-icon {
+      background: #7b2ff2;
+    }
+    .follow-btn .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    .share-popup-message {
+      position: fixed;
+      top: 30px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: #1da1f2;
+      color: #fff;
+      padding: 18px 32px;
+      border-radius: 30px;
+      font-size: 1.2em;
+      font-weight: 700;
+      box-shadow: 0 4px 24px rgba(29,161,242,0.18);
+      z-index: 9999;
+      opacity: 0.97;
+      text-align: center;
+      letter-spacing: 0.02em;
+      animation: fadeInOut 3s;
+    }
+    @keyframes fadeInOut {
+      0% { opacity: 0; transform: translateX(-50%) scale(0.95); }
+      10% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
+      90% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
+      100% { opacity: 0; transform: translateX(-50%) scale(0.95); }
+    }
+  </style>
+ </head>
+ <body>
+  <div class="container">
+   <div class="header">
+    <div class="header-content">
+     <div class="logo-section">
+      <div class="logo-container">
+       <img alt="Logo" class="logo-image" src="logo.png"/>
+      </div>
+      <div class="brand-info">
+       <div class="brand-name">
         Hippopotamus Research
        </div>
-<div class="brand-subtitle">
+       <div class="brand-subtitle">
         מחקר כלכלי מתקדם
        </div>
-</div>
-</div>
-<div class="social-section">
-<div class="ticker-badge">INCY</div>
-<a class="follow-btn" href="https://twitter.com/your_twitter_handle" rel="noopener" target="_blank">
-<span class="x-icon">
-<img alt="X" src="x.png"/>
-</span>
-    עקבו אחרינו
-  </a>
-<button class="x-share-btn-custom" type="button">
-<span class="x-icon">
-<img alt="X" src="x.png"/>
-</span>
-    שתף ב־X
-  </button>
-</div><script>
-document.addEventListener('DOMContentLoaded', function() {
-  document.querySelectorAll('.x-share-btn-custom').forEach(function(btn) {
-    btn.addEventListener('click', function(e) {
-      e.preventDefault();
-      e.stopPropagation();
-      // הצג פופ-אפ למשתמש
-      var popup = document.createElement('div');
-      popup.className = 'share-popup-message';
-      popup.textContent = 'השיתוף מחכה לך בדף השני :)';
-      document.body.appendChild(popup);
-      setTimeout(function() {
-        popup.remove();
-        window.open('https://thekinghippopotamus.github.io/HippoResearch_Marketbeat/', '_blank', 'noopener');
-        window.open('https://twitter.com/intent/tweet?text=%D7%9E%D7%97%D7%A7%D7%A8%20%D7%97%D7%93%D7%A9%20%D7%A9%D7%9C%20Hippopotamus%20Research%20%24INCY%0Ahttps%3A%2F%2Fthekinghippopotamus.github.io%2FHippoResearch_Marketbeat%2Farticles%2FINCY_20250621.html', '_self', 'noopener');
-      }, 3000); // 3 שניות
-      return false;
-    });
-  });
-});
-</script>
-</div>
-</div>
-<div class="content">
-<div class="article-content">
-<div class="article-content-text">
-<h1>
+      </div>
+     </div>
+     <div class="social-section">
+      <div class="ticker-badge">
+       INCY
+      </div>
+      <a class="follow-btn" href="https://twitter.com/your_twitter_handle" rel="noopener" target="_blank">
+       <span class="x-icon">
+        <img alt="X" src="x.png"/>
+       </span>
+       עקבו אחרינו
+      </a>
+      <button class="x-share-btn-custom" type="button">
+       <span class="x-icon">
+        <img alt="X" src="x.png"/>
+       </span>
+       שתף ב־X
+      </button>
+     </div>
+    </div>
+   </div>
+   <div class="content">
+    <div class="article-content">
+     <div class="article-content-text">
+      <h3>
        חדשנות וזרימות סותרות: Incyte בנתיב צמיחה מורכב
-      </h1>
-<h2>
+      </h3>
+      <h3>
        מהפכה באבחון וסרטן ועיכובים מפתיעים
-      </h2>
-<h2>
+      </h3>
+      <h3>
        פתיחת תווית חדשה ומשותפים אסטרטגיים
-      </h2>
-<p>
+      </h3>
+      <p>
        בתוך עולם הביוטכנולוגיה הסוער, Incyte (INCY) מתמודדת עם סדרה של אירועים שמעצבים מחדש את פרופיל החברה. השבוע היה עמוס בפיתוחים משמעותיים, אך גם בעיכובים מפתיעים, מה שיוצר תמונה מורכבת עבור המשקיעים.
       </p>
-<h2>
+      <h3>
        זרימה חיובית: אישור FDA ותווית חדשה
-      </h2>
-<p>
+      </h3>
+      <p>
        החדשות הטובות מגיעות עם אישורו של ה-FDA לטיפול חדשני במונג'ובי (משטר טף-לן) לטיפול בלימפומה פוליקולרית חוזרת/עקשנית. זהו הישג משמעותי עבור Incyte, המגדיל את ארגז הכלים הרפואי שלה ומציע תקווה חדשה לחולים. התווית החדשה פותחת דלתות לאינדיקציות נוספות ומעצימה את הפוטנציאל המסחרי של החברה.
       </p>
-<h2>
+      <h3>
        שיתוף פעולה אסטרטגי עם QIAGEN
-      </h2>
-<p>
+      </h3>
+      <p>
        בצעד אסטרטגי נוסף, Incyte נכנסה לשיתוף פעולה עם QIAGEN לפיתוח פתרונות לאבחון סרטן הדם. השותפות הזו מבטיחה שיפור ביכולות המחקר התרגומי והאבחון המלווה של החברה, מה שעלול להביא לפריצות דרך בתחום הטיפול בסרטן. שילוב המומחיות של שתי החברות עשוי להוביל לפיתוח טכנולוגיות מתקדמות שישנו את האופן בו אנו מזהים ומטפלים במחלות.
       </p>
-<h2>
+      <h3>
        עיכובים בתוכנית דרמטולוגיה מרכזית
-      </h2>
-<p>
+      </h3>
+      <p>
        עם זאת, לא כל החדשות חיוביות. תוכנית ה-NDA המשלים עבור קרם רוקסוליטיניב (אופזלורה®) בילדים בגילאי 2-11 עם אטופיק דרמטיטיס נתקלה בעיכוב בלתי צפוי. ה-FDA האריך את תקופת הבדיקה, מה שמדחיק את תאריך האישור ל-PDUFA, מעורר דאגה בקרב המשקיעים ומעיב על ההתלהבות סביב התוכנית.
       </p>
-<h2>
+      <h3>
        איזון עדין בשוק המניות
-      </h2>
-<p>
+      </h3>
+      <p>
        השוק מגיב באופן עדין לזרזים הללו, עם תנועה צנועה במניות INCY. המשקיעים מנסים לאזן בין היתרונות של התווית המורחבת של מונג'ובי לבין הסיכונים הכרוכים בעיכוב אישור אופזלורה. הדילמה הזו מדגישה את המורכבות של מסלול הצמיחה של Incyte ואת החשיבות של החלטות רגולטוריות עבור חברות ביוטכנולוגיה.
       </p>
-<p>
+      <p>
        בעוד Incyte ממשיכה לנווט בסביבה הדינמית הזו, המשקיעים צופים בקפידה בצעדי החברה, מחפשים רמזים לגבי הכיוון העתידי שלה. עם כל התהפוכות, Incyte מזכירה לנו את האתגרים וההזדמנויות המגוונים בעולם הביוטכנולוגיה, שבו חדשנות ועיכובים יכולים להתרחש בו-זמנית, מה שהופך את המסע להשקעה למסע מרתק.
       </p>
-</div>
-</div>
-<div class="disclaimer">
-<strong>
+     </div>
+    </div>
+    <div class="disclaimer">
+     <strong>
       הסתייגות משפטית:
      </strong>
      המידע הנ״ל מבוסס על מקורות מידע שונים ועלול להשתנות בכל עת. המידע המוזכר בכתבה זו מוגבל לצורך מחקר והנאה ואין לראות בכתוב המלצה להשקעה.
      <br/>
-<br/>
-<strong>
+     <br/>
+     <strong>
       הערה:
      </strong>
      הניתוח נוצר באמצעות מודל בינה מלאכותית ועלול לכלול שגיאות כתיב או ניסוח. אנו מתנצלים מראש על אי-הדיוקים האפשריים.
      <br/>
-<br/>
-<strong>
+     <br/>
+     <strong>
       מקורות המידע:
      </strong>
      Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl
      <h3>
       Hippopotamus Research
      </h3>
-</div>
-<div class="newsletter-section" style="margin: 0 auto 24px auto; max-width: 400px; text-align: center;">
-<div style="font-size: 1em; color: var(--accent-color); margin-bottom: 6px; font-weight: 500; opacity: 0.85;">
+    </div>
+    <div class="newsletter-section" style="margin: 0 auto 24px auto; max-width: 400px; text-align: center;">
+     <div style="font-size: 1em; color: var(--accent-color); margin-bottom: 6px; font-weight: 500; opacity: 0.85;">
       הצטרפו לעדכונים במייל
      </div>
-<iframe scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="width:100%!important; height:120px; border:none!important; border-radius:12px; background:#fff; box-shadow:0 2px 8px rgba(15,52,96,0.07);" title="הרשמה לניוזלטר">
-</iframe>
-</div>
-</div>
-<div class="footer">
-<div class="timestamp">
+     <iframe scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="width:100%!important; height:120px; border:none!important; border-radius:12px; background:#fff; box-shadow:0 2px 8px rgba(15,52,96,0.07);" title="הרשמה לניוזלטר">
+     </iframe>
+    </div>
+   </div>
+   <div class="footer">
+    <div class="timestamp">
      נוצר ב: 21/06/2025 21:54
     </div>
-<div class="source">
+    <div class="source">
      מקורות: Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl | ניתוח באמצעות aya-expanse:8b
     </div>
-</div>
-</div>
-<script id="dynamic-text-cleaner-script">
+   </div>
+  </div>
+  <script id="dynamic-text-cleaner-script">
    document.addEventListener("DOMContentLoaded", function() {
   // Check if the cleaner has already run to avoid multiple executions
   if (document.body.dataset.jsCleanerApplied) {
@@ -655,12 +749,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
   const elements = document.querySelectorAll('p, h1, h2, h3, h4, li, span');
   
-  // Regex to find all variations of markers:
-  // - Optional hashes (e.g., #TITLE, ## TITLE)
-  // - The marker words in English (TITLE, SUBTITLE, PARA) with an optional colon
-  // - The marker words in Hebrew (כותרת ראשית, כותרת משנה, פסקה) with an optional colon
-  // - Any remaining hash symbols
-  const regex = /(?:#+\s*)?(?:TITLE|SUBTITLE|PARA|כותרת ראשית|כותרת משנה|פסקה):?|#+/gi;
+  // Regex to match marker words anywhere, with optional colon or space after
+  const regex = /(?:#+\s*)?(TITLE|SUBTITLE|PARA|כותרת ראשית|כותרת משנה|פסקה|ראשונה|שניה|שנייה|שלישית|רביעית|חמישית|שישית|אחרונה)[:：]?/gi;
 
   elements.forEach(el => {
     // We iterate through child nodes to only affect text nodes.
@@ -668,7 +758,7 @@ document.addEventListener('DOMContentLoaded', function() {
     Array.from(el.childNodes).forEach(node => {
       if (node.nodeType === Node.TEXT_NODE) { // Process only text nodes
         const originalText = node.textContent;
-        const newText = originalText.replace(regex, '').trim();
+        const newText = originalText.replace(regex, '').replace(/\s{2,}/g, ' ').trim();
         if (originalText !== newText) {
           node.textContent = newText;
         }
@@ -677,5 +767,25 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 });
   </script>
-</body>
+  <script>
+   document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('.x-share-btn-custom').forEach(function(btn) {
+    btn.addEventListener('click', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      var popup = document.createElement('div');
+      popup.className = 'share-popup-message';
+      popup.textContent = 'השיתוף מחכה לך בדף השני :)';
+      document.body.appendChild(popup);
+      setTimeout(function() {
+        popup.remove();
+        window.open('https://thekinghippopotamus.github.io/HippoResearch_Marketbeat/', '_blank', 'noopener');
+        window.open('https://twitter.com/intent/tweet?text=%D7%9E%D7%97%D7%A7%D7%A8%20%D7%97%D7%93%D7%A9%20%D7%A9%D7%9C%20Hippopotamus%20Research%20%24INCY%0Ahttps%3A%2F%2Fthekinghippopotamus.github.io%2FHippoResearch_Marketbeat%2Farticles%2FINCY_20250621.html', '_self', 'noopener');
+      }, 3000);
+      return false;
+    });
+  });
+});
+  </script>
+ </body>
 </html>

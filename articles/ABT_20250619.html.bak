@@ -1,15 +1,14 @@
 <!DOCTYPE html>
-
 <html dir="rtl" lang="he">
-<head>
-<meta charset="utf-8"/>
-<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
    דוח ניתוח סיבתיות - ABT
   </title>
-<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
-<style>
+  <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
+  <style>
    :root {
             --primary-color: #1a1a2e;
             --secondary-color: #16213e;
@@ -229,8 +228,8 @@
             }
         }
   </style>
-<style>
-    .x-share-btn {
+  <style>
+   .x-share-btn {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -314,8 +313,9 @@
       height: 16px;
       display: block;
     }
-    </style><style>
-    .x-share-btn-custom {
+  </style>
+  <style>
+   .x-share-btn-custom {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -399,8 +399,9 @@
       height: 16px;
       display: block;
     }
-    </style><style>
-    .x-share-btn-custom {
+  </style>
+  <style>
+   .x-share-btn-custom {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -508,40 +509,44 @@
       90% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
       100% { opacity: 0; transform: translateX(-50%) scale(0.95); }
     }
-    </style></head>
-<body>
-<div class="container">
-<div class="header">
-<div class="header-content">
-<div class="logo-section">
-<div class="logo-container">
-<img alt="Logo" class="logo-image" src="logo.png"/>
-</div>
-<div class="brand-info">
-<div class="brand-name">
+  </style>
+ </head>
+ <body>
+  <div class="container">
+   <div class="header">
+    <div class="header-content">
+     <div class="logo-section">
+      <div class="logo-container">
+       <img alt="Logo" class="logo-image" src="logo.png"/>
+      </div>
+      <div class="brand-info">
+       <div class="brand-name">
         Hippopotamus Research
        </div>
-<div class="brand-subtitle">
-        מחפשים את הסיבה לתנועות בשוק 
+       <div class="brand-subtitle">
+        מחפשים את הסיבה לתנועות בשוק
        </div>
-</div>
-</div>
-<div class="social-section">
-<div class="ticker-badge">ABT</div>
-<a class="follow-btn" href="https://twitter.com/your_twitter_handle" rel="noopener" target="_blank">
-<span class="x-icon">
-<img alt="X" src="x.png"/>
-</span>
-    עקבו אחרינו
-  </a>
-<button class="x-share-btn-custom" type="button">
-<span class="x-icon">
-<img alt="X" src="x.png"/>
-</span>
-    שתף ב־X
-  </button>
-</div><script>
-document.addEventListener('DOMContentLoaded', function() {
+      </div>
+     </div>
+     <div class="social-section">
+      <div class="ticker-badge">
+       ABT
+      </div>
+      <a class="follow-btn" href="https://twitter.com/your_twitter_handle" rel="noopener" target="_blank">
+       <span class="x-icon">
+        <img alt="X" src="x.png"/>
+       </span>
+       עקבו אחרינו
+      </a>
+      <button class="x-share-btn-custom" type="button">
+       <span class="x-icon">
+        <img alt="X" src="x.png"/>
+       </span>
+       שתף ב־X
+      </button>
+     </div>
+     <script>
+      document.addEventListener('DOMContentLoaded', function() {
   document.querySelectorAll('.x-share-btn-custom').forEach(function(btn) {
     btn.addEventListener('click', function(e) {
       e.preventDefault();
@@ -560,78 +565,78 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   });
 });
-</script>
-</div>
-</div>
-<div class="content">
-<div class="newsletter-section" style="margin:12px auto 20px auto;max-width:260px;padding:0;background:none;border:none;box-shadow:none;border-radius:0;position:relative;z-index:2;">
-<h3 style="font-weight:400;opacity:0.5;font-size:0.85em;margin-bottom:2px;margin-top:0;color:var(--accent-color);">
+     </script>
+    </div>
+   </div>
+   <div class="content">
+    <div class="newsletter-section" style="margin:12px auto 20px auto;max-width:260px;padding:0;background:none;border:none;box-shadow:none;border-radius:0;position:relative;z-index:2;">
+     <h3 style="font-weight:400;opacity:0.5;font-size:0.85em;margin-bottom:2px;margin-top:0;color:var(--accent-color);">
       הצטרפו לרשימת התפוצה שלנו
      </h3>
-<iframe class="newsletter-iframe" scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="height:110px;width:100%;border:none;background:none;box-shadow:none;border-radius:0;">
-</iframe>
-</div>
-<div class="article-content">
-<p>
+     <iframe class="newsletter-iframe" scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="height:110px;width:100%;border:none;background:none;box-shadow:none;border-radius:0;">
+     </iframe>
+    </div>
+    <div class="article-content">
+     <p>
       ABT
      </p>
-</div>
-<h3 class="section-header">
+    </div>
+    <h3 class="section-header">
      ניתוח תנועת מניית ABT: הזדמנויות וצמיחה בתחום ניהול הסוכרת
     </h3>
-<p>
+    <p>
      מניית אבוט מעבדות (ABT) הציגה עלייה מרשימה במהלך היום, מונעת בעיקר על ידי סיקור אנליסטי חיובי ושותפות אסטרטגית מבטיחה. הבה נבחן את הגורמים המשפיעים על התנועה הזו ונספק ניתוח מעמיק.
     </p>
-<p>
+    <p>
      סיקור אנליסטי ותחזיות רווח: חברת Leerink Partners, בית השקעות ידוע בתעשיית הבריאות, החלה בסיקור של ABT עם גישה זהירה אך אופטימית. הדירוג "Hold" שלהם משקף את האמונה בצמיחה לטווח הארוך של החברה, יחד עם תחזית רווח למניה של 5.15 דולר לשנת 2025, מעט מעל לציפיות השוק. האנליסט מ. קראטקי מציג תמונה חיובית עוד יותר, חוזה צמיחה עקבית ברווחים עם יעד מרשים של 7.64 דולר למניה עד שנת 2029. תחזיות אלו מדגישות את הפוטנציאל של החברה בשוק ניהול הסוכרת.
     </p>
-<p>
+    <p>
      שותפות אסטרטגית: חדשות משמעותיות נוספות הגיעו כאשר ABT הכריזה על שיתוף פעולה עם Tandem Diabetes Care לפיתוח חיישן גלוקוז-קטון חדשני. שותפות זו מחזקת את מעמדה של ABT בתחום ניהול הסוכרת, בו יש לה כעת תיק מוצרים מגוון יותר. שיתופי פעולה אסטרטגיים כאלה הם חיוניים בתעשייה תחרותית זו, ומאפשרים לחברות להאיץ חדשנות ולשפר את נתח השוק שלהן.
     </p>
-<p>
+    <p>
      השוואה לציפיות השוק: תחזית הרווח למניה של Leerink לרבעון השני של 2025, העומדת על 1.26 דולר, מתיישרת עם ציפיות השוק הנוכחיות. התאמה זו מצביעה על כך שהאנליסטים מאמינים שהחברה מתקדמת בכיוון הנכון ומספקת תוצאות בהתאם למגמות התעשייה.
     </p>
-<p>
+    <p>
      הערכת שווי והשפעות רגולטוריות: דירוג "החזק" של Leerink משקף איזון עדין בין ציפיות לטווח הקצר לבין אופטימיות לטווח הארוך. ההערכה הנוכחית מתחשבת במגמות יציבות בתעשיית הבריאות, כולל דרישות רגולטוריות הולכות וגדלות. עם זאת, סביבת הרגולציה יכולה להשפיע באופן משמעותי על חברות בתחום זה, במיוחד כאשר נושאים הקשורים לבטיחות ולתקנים עולים לדיון ציבורי.
     </p>
-<p>
+    <p>
      סיכום: מניית ABT מציגה פוטנציאל צמיחה מרשים, כפי שמעידים הסיקור האנליסטי החיובי ושיתופי הפעולה האסטרטגיים. עם זאת, חשוב לעקוב אחר ההתפתחויות הרגולטוריות והמשפטיות הפוטנציאליות, אשר יכולות להשפיע על התקדמות החברה. מאזן בין יוזמות חדשניות, שותפויות חזקות, ותכנון אסטרטגי יעיל, עשוי להוביל את ABT להצלחות נוספות בשוק ניהול הסוכרת.
     </p>
-<p>
+    <p>
      ההמשך של מעקב זה חיוני כדי להעריך את ההתקדמות של ABT ביחס לתחזיות, במיוחד לאור הדינמיקה המשתנה בתעשייה.
     </p>
-</div>
-<div class="disclaimer">
-<strong>
+   </div>
+   <div class="disclaimer">
+    <strong>
      הסתייגות משפטית:
     </strong>
     המידע הנ״ל מבוסס על מקורות מידע שונים ועלול להשתנות בכל עת. המידע המוזכר בכתבה זו מוגבל לצורך מחקר והנאה ואין לראות בכתוב המלצה להשקעה. יש להתייעץ עם יועץ פיננסי לפני קבלת החלטות השקעה.
     <br/>
-<br/>
-<strong>
+    <br/>
+    <strong>
      הערה:
     </strong>
     הניתוח נוצר באמצעות מודל בינה מלאכותית ועלול לכלול שגיאות כתיב או ניסוח. אנו מתנצלים מראש על אי-הדיוקים האפשריים.
     <br/>
-<br/>
-<strong>
+    <br/>
+    <strong>
      מקורות המידע:
     </strong>
     Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl,MarketBeat
     <h3>
      Hippopotamus Research
     </h3>
-</div>
-</div>
-<div class="footer">
-<div class="timestamp">
+   </div>
+  </div>
+  <div class="footer">
+   <div class="timestamp">
     נוצר ב: 19/06/2025 10:29
    </div>
-<div class="source">
+   <div class="source">
     מקורות: Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl,MarketBeat | ניתוח באמצעות aya-expanse:8b
    </div>
-</div>
-<script id="dynamic-text-cleaner-script">
+  </div>
+  <script id="dynamic-text-cleaner-script">
    document.addEventListener("DOMContentLoaded", function() {
   // Check if the cleaner has already run to avoid multiple executions
   if (document.body.dataset.jsCleanerApplied) {
@@ -641,12 +646,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
   const elements = document.querySelectorAll('p, h1, h2, h3, h4, li, span');
   
-  // Regex to find all variations of markers:
-  // - Optional hashes (e.g., #TITLE, ## TITLE)
-  // - The marker words in English (TITLE, SUBTITLE, PARA) with an optional colon
-  // - The marker words in Hebrew (כותרת ראשית, כותרת משנה, פסקה) with an optional colon
-  // - Any remaining hash symbols
-  const regex = /(?:#+\s*)?(?:TITLE|SUBTITLE|PARA|כותרת ראשית|כותרת משנה|פסקה):?|#+/gi;
+  // Regex to match marker words anywhere, with optional colon or space after
+  const regex = /(?:#+\s*)?(TITLE|SUBTITLE|PARA|כותרת ראשית|כותרת משנה|פסקה|ראשונה|שניה|שנייה|שלישית|רביעית|חמישית|שישית|אחרונה)[:：]?/gi;
 
   elements.forEach(el => {
     // We iterate through child nodes to only affect text nodes.
@@ -654,7 +655,7 @@ document.addEventListener('DOMContentLoaded', function() {
     Array.from(el.childNodes).forEach(node => {
       if (node.nodeType === Node.TEXT_NODE) { // Process only text nodes
         const originalText = node.textContent;
-        const newText = originalText.replace(regex, '').trim();
+        const newText = originalText.replace(regex, '').replace(/\s{2,}/g, ' ').trim();
         if (originalText !== newText) {
           node.textContent = newText;
         }
@@ -663,5 +664,5 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 });
   </script>
-</body>
+ </body>
 </html>

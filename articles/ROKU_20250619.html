@@ -1,15 +1,14 @@
 <!DOCTYPE html>
-
 <html dir="rtl" lang="he">
-<head>
-<meta charset="utf-8"/>
-<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
    דוח ניתוח סיבתיות - ROKU
   </title>
-<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
-<style>
+  <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
+  <style>
    :root {
             --primary-color: #1a1a2e;
             --secondary-color: #16213e;
@@ -229,8 +228,8 @@
             }
         }
   </style>
-<style>
-    .x-share-btn {
+  <style>
+   .x-share-btn {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -314,8 +313,9 @@
       height: 16px;
       display: block;
     }
-    </style><style>
-    .x-share-btn-custom {
+  </style>
+  <style>
+   .x-share-btn-custom {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -399,8 +399,9 @@
       height: 16px;
       display: block;
     }
-    </style><style>
-    .x-share-btn-custom {
+  </style>
+  <style>
+   .x-share-btn-custom {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -508,130 +509,223 @@
       90% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
       100% { opacity: 0; transform: translateX(-50%) scale(0.95); }
     }
-    </style></head>
-<body>
-<div class="container">
-<div class="header">
-<div class="header-content">
-<div class="logo-section">
-<div class="logo-container">
-<img alt="Logo" class="logo-image" src="logo.png"/>
-</div>
-<div class="brand-info">
-<div class="brand-name">
+  </style>
+  <style>
+   .x-share-btn-custom {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #14171a 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(29,161,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .x-share-btn-custom:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #14171a 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(29,161,242,0.18);
+    }
+    .x-share-btn-custom .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .x-share-btn-custom:hover .x-icon {
+      background: #1da1f2;
+    }
+    .x-share-btn-custom .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    .follow-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #7b2ff2 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(123,47,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .follow-btn:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #7b2ff2 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(123,47,242,0.18);
+    }
+    .follow-btn .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .follow-btn:hover .x-icon {
+      background: #7b2ff2;
+    }
+    .follow-btn .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    .share-popup-message {
+      position: fixed;
+      top: 30px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: #1da1f2;
+      color: #fff;
+      padding: 18px 32px;
+      border-radius: 30px;
+      font-size: 1.2em;
+      font-weight: 700;
+      box-shadow: 0 4px 24px rgba(29,161,242,0.18);
+      z-index: 9999;
+      opacity: 0.97;
+      text-align: center;
+      letter-spacing: 0.02em;
+      animation: fadeInOut 3s;
+    }
+    @keyframes fadeInOut {
+      0% { opacity: 0; transform: translateX(-50%) scale(0.95); }
+      10% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
+      90% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
+      100% { opacity: 0; transform: translateX(-50%) scale(0.95); }
+    }
+  </style>
+ </head>
+ <body>
+  <div class="container">
+   <div class="header">
+    <div class="header-content">
+     <div class="logo-section">
+      <div class="logo-container">
+       <img alt="Logo" class="logo-image" src="logo.png"/>
+      </div>
+      <div class="brand-info">
+       <div class="brand-name">
         Hippopotamus Research
        </div>
-<div class="brand-subtitle">
-        מחפשים את הסיבה לתנועות בשוק 
+       <div class="brand-subtitle">
+        מחפשים את הסיבה לתנועות בשוק
        </div>
-</div>
-</div>
-<div class="social-section">
-<div class="ticker-badge">ROKU</div>
-<a class="follow-btn" href="https://twitter.com/your_twitter_handle" rel="noopener" target="_blank">
-<span class="x-icon">
-<img alt="X" src="x.png"/>
-</span>
-    עקבו אחרינו
-  </a>
-<button class="x-share-btn-custom" type="button">
-<span class="x-icon">
-<img alt="X" src="x.png"/>
-</span>
-    שתף ב־X
-  </button>
-</div><script>
-document.addEventListener('DOMContentLoaded', function() {
-  document.querySelectorAll('.x-share-btn-custom').forEach(function(btn) {
-    btn.addEventListener('click', function(e) {
-      e.preventDefault();
-      e.stopPropagation();
-      // הצג פופ-אפ למשתמש
-      var popup = document.createElement('div');
-      popup.className = 'share-popup-message';
-      popup.textContent = 'השיתוף מחכה לך בדף השני :)';
-      document.body.appendChild(popup);
-      setTimeout(function() {
-        popup.remove();
-        window.open('https://thekinghippopotamus.github.io/HippoResearch_Marketbeat/', '_blank', 'noopener');
-        window.open('https://twitter.com/intent/tweet?text=%D7%9E%D7%97%D7%A7%D7%A8%20%D7%97%D7%93%D7%A9%20%D7%A9%D7%9C%20Hippopotamus%20Research%20%24ROKU%0Ahttps%3A%2F%2Fthekinghippopotamus.github.io%2FHippoResearch_Marketbeat%2Farticles%2FROKU_20250619.html', '_self', 'noopener');
-      }, 3000); // 3 שניות
-      return false;
-    });
-  });
-});
-</script>
-</div>
-</div>
-<div class="content">
-<div class="newsletter-section" style="margin:12px auto 20px auto;max-width:260px;padding:0;background:none;border:none;box-shadow:none;border-radius:0;position:relative;z-index:2;">
-<h3 style="font-weight:400;opacity:0.5;font-size:0.85em;margin-bottom:2px;margin-top:0;color:var(--accent-color);">
+      </div>
+     </div>
+     <div class="social-section">
+      <div class="ticker-badge">
+       ROKU
+      </div>
+      <a class="follow-btn" href="https://twitter.com/your_twitter_handle" rel="noopener" target="_blank">
+       <span class="x-icon">
+        <img alt="X" src="x.png"/>
+       </span>
+       עקבו אחרינו
+      </a>
+      <button class="x-share-btn-custom" type="button">
+       <span class="x-icon">
+        <img alt="X" src="x.png"/>
+       </span>
+       שתף ב־X
+      </button>
+     </div>
+    </div>
+   </div>
+   <div class="content">
+    <div class="newsletter-section" style="margin:12px auto 20px auto;max-width:260px;padding:0;background:none;border:none;box-shadow:none;border-radius:0;position:relative;z-index:2;">
+     <h3 style="font-weight:400;opacity:0.5;font-size:0.85em;margin-bottom:2px;margin-top:0;color:var(--accent-color);">
       הצטרפו לרשימת התפוצה שלנו
      </h3>
-<iframe class="newsletter-iframe" scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="height:110px;width:100%;border:none;background:none;box-shadow:none;border-radius:0;">
-</iframe>
-</div>
-<div class="article-content">
-<p>
+     <iframe class="newsletter-iframe" scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="height:110px;width:100%;border:none;background:none;box-shadow:none;border-radius:0;">
+     </iframe>
+    </div>
+    <div class="article-content">
+     <p>
       ROKU
      </p>
-</div>
-<h3 class="section-header">
+    </div>
+    <h3 class="section-header">
      ניתוח מניית ROKU: מגמות יומיות, סיבתיות והזדמנויות
     </h3>
-<p>
-     מניית Roku, Inc. (ROKU) מציגה ביצועים מרשימים בשוק המניות הנוכחי, מה שמעורר עניין בקרב אנליסטים ומשקיעים כאחד. הנה ניתוח מעמיק של הכוחות המשפיעים על תנועת המניה היומית, תוך התמקדות בהצהרות הנהלה, מוסדות, מגמות שוק ומשמעות המידע שפורסם לאחרונה.
+    <p>
+     מניית Roku, Inc. (ROKU) מציגה ביצועים מרשימים בשוק המניות הנוכחי, מה שמעורר עניין בקרב אנליסטים ומשקיעים כאחד. הנה ניתוח מעמיק של הכוחות המשפיעים על תנועת המניה היומית, תוך התמקדות בהצהרות הנהלה, מוסדות, מגמות שוק ומשמעות המידע שפורסם ל.
     </p>
-<p>
+    <p>
      הצהרות הנהלה ושותפויות אסטרטגיות: השותפות החדשה בין Roku לאמזון היא נקודת מפנה מרכזית בסיפור המניה. הסכם זה משפר את היכולות של פרסום CTV (טלוויזיה מחוברת) ומספק למפרסמים נגישות ל-80 מיליון בתים עם טלוויזיה מחוברת. צעד אסטרטגי זה יכול להגדיל באופן משמעותי את זרימת ההכנסות של Roku, מה שמצדיק את העליות האחרונות במחיר המניה. הצהרת אמזון על שיתוף פעולה זה מדגישה את האמון שלה ב-Roku כפלטפורמה מובילה בתחום הסטרימינג.
     </p>
-<p>
+    <p>
      עדכוני אנליסטים והערכות חדשות: הקהילה האנליטית הגיבה בחיוב למניית ROKU, כאשר מספר דירוגי מניות ואסטרטגיות השקעה מעודדים. בנק אוף אמריקה, לופ קפיטל, JMP Securities, ונידהאם ושות' כולם העלו את יעדי המחירים שלהם, מה שמצביע על אמון עמוק ביצירת ערך לטווח הארוך של החברה. לדוגמה, לופ קפיטל שינתה את דירוג המניה שלה ממחזקת למניית "קנייה", עם יעד מחיר מעודכן של 100 דולר, המייצג פוטנציאל צמיחה משמעותי.
     </p>
-<p>
+    <p>
      מגמות שוק והשפעות רגולטוריות: המגמה החיובית בשוק הטכנולוגיה כולו תומכת בביצועים של ROKU. עם זאת, תנודתיות בשוק היא גורם שיש לקחת בחשבון, כפי שמעיד הירידה הקלה ב-17 ביוני. אנליסטים מזהירים כי תיקונים בתחזיות הרווחים עלולים להשפיע על המניה בטווח הקצר, אך הם גם מציינים את הפוטנציאל לעלייה ארוכת טווח בזכות מעמדה המוביל של Roku בתחום ה-CTV.
     </p>
-<p>
+    <p>
      מידע פנים ופעילות אופציות: פעילות אופציות גדולה ב-ROKU מעידה על עניין מוגבר מצד המשקיעים. זאקס ציין את הזינוק של 10% בעסקת Amazon Ads, אך גם צביע על סיכונים הקשורים להפסדים במכשירים. כמו כן, הדיווח על סרט תיעודי הכולל את רוי ווד ג'וניור וערוץ Roku מדגיש את מחויבות החברה לה התוכן, מה שעלול למשוך צופים ומפרסמים כאחד.
     </p>
-<p>
+    <p>
      איזון כוחות והמשכיות המעקב: המצב הנוכחי של מניית ROKU מאופיין באיזון עדין בין גורמים חיוביים, כגון השותפות עם אמזון ועדכוני האנליסטים, לכוחות מאזנים או שליליים, כמו תנודתיות בשוק והזהירות לגבי תיקוני רווחים. מגמות סקטוריאליות תחרותיות וסיכונים רגולטוריים פוטנציאליים דורשים מעקב מתמשך. לאור זאת, המומחים ב-Hippopotamus Research ממליצים על גישה זהירה אך אופטימית, תוך היצמדות לעדכונים הקשורים לשותפויות אסטרטגיות, תוצאות רבעוניות, ושינויים רגולטוריים.
     </p>
-<p>
+    <p>
      סיכום: מניית ROKU מציגה פוטנציאל צמיחה משמעותי, במיוחד עם תמיכה מצד שחקנים מובילים בתעשייה. עם זאת, המשקיעים צריכים להישאר מעודכנים בהתפתחויות השונות כדי לנהל את הסיכונים באופן יעיל. מעקב מתמשך יספק תובנות לגבי כיוון המניה בטווח הקצר והארוך.
     </p>
-</div>
-<div class="disclaimer">
-<strong>
+   </div>
+   <div class="disclaimer">
+    <strong>
      הסתייגות משפטית:
     </strong>
     המידע הנ״ל מבוסס על מקורות מידע שונים ועלול להשתנות בכל עת. המידע המוזכר בכתבה זו מוגבל לצורך מחקר והנאה ואין לראות בכתוב המלצה להשקעה. יש להתייעץ עם יועץ פיננסי לפני קבלת החלטות השקעה.
     <br/>
-<br/>
-<strong>
+    <br/>
+    <strong>
      הערה:
     </strong>
     הניתוח נוצר באמצעות מודל בינה מלאכותית ועלול לכלול שגיאות כתיב או ניסוח. אנו מתנצלים מראש על אי-הדיוקים האפשריים.
     <br/>
-<br/>
-<strong>
+    <br/>
+    <strong>
      מקורות המידע:
     </strong>
     Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl
     <h3>
      Hippopotamus Research
     </h3>
-</div>
-</div>
-<div class="footer">
-<div class="timestamp">
+   </div>
+  </div>
+  <div class="footer">
+   <div class="timestamp">
     נוצר ב: 19/06/2025 11:32
    </div>
-<div class="source">
+   <div class="source">
     מקורות: Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl | ניתוח באמצעות aya-expanse:8b
    </div>
-</div>
-<script id="dynamic-text-cleaner-script">
+  </div>
+  <script id="dynamic-text-cleaner-script">
    document.addEventListener("DOMContentLoaded", function() {
   // Check if the cleaner has already run to avoid multiple executions
   if (document.body.dataset.jsCleanerApplied) {
@@ -641,12 +735,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
   const elements = document.querySelectorAll('p, h1, h2, h3, h4, li, span');
   
-  // Regex to find all variations of markers:
-  // - Optional hashes (e.g., #TITLE, ## TITLE)
-  // - The marker words in English (TITLE, SUBTITLE, PARA) with an optional colon
-  // - The marker words in Hebrew (כותרת ראשית, כותרת משנה, פסקה) with an optional colon
-  // - Any remaining hash symbols
-  const regex = /(?:#+\s*)?(?:TITLE|SUBTITLE|PARA|כותרת ראשית|כותרת משנה|פסקה):?|#+/gi;
+  // Regex to match marker words anywhere, with optional colon or space after
+  const regex = /(?:#+\s*)?(TITLE|SUBTITLE|PARA|כותרת ראשית|כותרת משנה|פסקה|ראשונה|שניה|שנייה|שלישית|רביעית|חמישית|שישית|אחרונה)[:：]?/gi;
 
   elements.forEach(el => {
     // We iterate through child nodes to only affect text nodes.
@@ -654,7 +744,7 @@ document.addEventListener('DOMContentLoaded', function() {
     Array.from(el.childNodes).forEach(node => {
       if (node.nodeType === Node.TEXT_NODE) { // Process only text nodes
         const originalText = node.textContent;
-        const newText = originalText.replace(regex, '').trim();
+        const newText = originalText.replace(regex, '').replace(/\s{2,}/g, ' ').trim();
         if (originalText !== newText) {
           node.textContent = newText;
         }
@@ -663,5 +753,25 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 });
   </script>
-</body>
+  <script>
+   document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('.x-share-btn-custom').forEach(function(btn) {
+    btn.addEventListener('click', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      var popup = document.createElement('div');
+      popup.className = 'share-popup-message';
+      popup.textContent = 'השיתוף מחכה לך בדף השני :)';
+      document.body.appendChild(popup);
+      setTimeout(function() {
+        popup.remove();
+        window.open('https://thekinghippopotamus.github.io/HippoResearch_Marketbeat/', '_blank', 'noopener');
+        window.open('https://twitter.com/intent/tweet?text=%D7%9E%D7%97%D7%A7%D7%A8%20%D7%97%D7%93%D7%A9%20%D7%A9%D7%9C%20Hippopotamus%20Research%20%24ROKU%0Ahttps%3A%2F%2Fthekinghippopotamus.github.io%2FHippoResearch_Marketbeat%2Farticles%2FROKU_20250619.html', '_self', 'noopener');
+      }, 3000);
+      return false;
+    });
+  });
+});
+  </script>
+ </body>
 </html>

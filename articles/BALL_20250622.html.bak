@@ -1,15 +1,14 @@
 <!DOCTYPE html>
-
 <html dir="rtl" lang="he">
-<head>
-<meta charset="utf-8"/>
-<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
    Ball Corporation (BALL) - מחקר כלכלי מתקדם | Hippopotamus Research
   </title>
-<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
-<style>
+  <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
+  <style>
    :root {
             --primary-color: #1a1a2e;
             --secondary-color: #16213e;
@@ -229,8 +228,8 @@
             }
         }
   </style>
-<style>
-    .x-share-btn {
+  <style>
+   .x-share-btn {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -314,8 +313,9 @@
       height: 16px;
       display: block;
     }
-    </style><style>
-    .x-share-btn-custom {
+  </style>
+  <style>
+   .x-share-btn-custom {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -399,8 +399,9 @@
       height: 16px;
       display: block;
     }
-    </style><style>
-    .x-share-btn-custom {
+  </style>
+  <style>
+   .x-share-btn-custom {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -508,40 +509,44 @@
       90% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
       100% { opacity: 0; transform: translateX(-50%) scale(0.95); }
     }
-    </style></head>
-<body>
-<div class="container">
-<div class="header">
-<div class="header-content">
-<div class="logo-section">
-<div class="logo-container">
-<img alt="Logo" class="logo-image" src="logo.png"/>
-</div>
-<div class="brand-info">
-<div class="brand-name">
+  </style>
+ </head>
+ <body>
+  <div class="container">
+   <div class="header">
+    <div class="header-content">
+     <div class="logo-section">
+      <div class="logo-container">
+       <img alt="Logo" class="logo-image" src="logo.png"/>
+      </div>
+      <div class="brand-info">
+       <div class="brand-name">
         Hippopotamus Research
        </div>
-<div class="brand-subtitle">
+       <div class="brand-subtitle">
         מחקר כלכלי מתקדם
        </div>
-</div>
-</div>
-<div class="social-section">
-<div class="ticker-badge">BALL</div>
-<a class="follow-btn" href="https://twitter.com/your_twitter_handle" rel="noopener" target="_blank">
-<span class="x-icon">
-<img alt="X" src="x.png"/>
-</span>
-    עקבו אחרינו
-  </a>
-<button class="x-share-btn-custom" type="button">
-<span class="x-icon">
-<img alt="X" src="x.png"/>
-</span>
-    שתף ב־X
-  </button>
-</div><script>
-document.addEventListener('DOMContentLoaded', function() {
+      </div>
+     </div>
+     <div class="social-section">
+      <div class="ticker-badge">
+       BALL
+      </div>
+      <a class="follow-btn" href="https://twitter.com/your_twitter_handle" rel="noopener" target="_blank">
+       <span class="x-icon">
+        <img alt="X" src="x.png"/>
+       </span>
+       עקבו אחרינו
+      </a>
+      <button class="x-share-btn-custom" type="button">
+       <span class="x-icon">
+        <img alt="X" src="x.png"/>
+       </span>
+       שתף ב־X
+      </button>
+     </div>
+     <script>
+      document.addEventListener('DOMContentLoaded', function() {
   document.querySelectorAll('.x-share-btn-custom').forEach(function(btn) {
     btn.addEventListener('click', function(e) {
       e.preventDefault();
@@ -560,86 +565,86 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   });
 });
-</script>
-</div>
-</div>
-<div class="content">
-<div class="article-content">
-<div class="article-content-text">
-<p>
+     </script>
+    </div>
+   </div>
+   <div class="content">
+    <div class="article-content">
+     <div class="article-content-text">
+      <p>
        #Title# Ball Corporation: בין אריזות בנות-קיימא ללחצי שוק
       </p>
-<h3>
+      <h3>
        #Subtitle# מסע לתוך הביצועים והעתיד של ענקית האריזות
       </h3>
-<h3>
+      <h3>
        #Para# בעולם העסקים התחרותי של היום, חברות כמו Ball Corporation צריכות לא רק לעמוד בקצב, אלא גם להגדיר טרנדים. עם נוכחות גלובלית מרשימה ותחום מומחיות ייחודי, BALL (NYSE: BALL) היא שחקן מפתח בתעשיית האריזות, במיוחד בתחום האריזות האלומיניום בנות-הקיימא.
       </h3>
-<h3>
+      <h3>
        #Para# אך מאחורי הזוהר של החברה, נתונים פיננסיים ומגמות שוק מגלים סיפור מורכב. לאחר ירידה בביצועים האחרונה, משקיעים וניתוחי Yahoo Finance מפנים את מבטם לעבר הגורמים המשפיעים על המניה. האם האתגרים הנוכחיים הם זמניים או שמא הם מצביעים על שינוי כיוון לטווח הארוך?
       </h3>
-<h3>
+      <h3>
        #Para# עתיד בר-קיימא: Ball Corporation מובילה את הדרך באימוץ טכנולוגיות בנות-קיימא, במיוחד באריזות אלומיניום. גישה זו לא רק עונה על דרישות סביבתיות הולכות וגדלות, אלא גם פותחת הזדמנויות צמיחה חדשות. הביקוש הגובר למוצרים ידידותיים לסביבה מעודד את החברה להמשיך ולהשקיע בפתרונות חדשניים.
       </h3>
-<h3>
+      <h3>
        #Para# אוטומציה ושיפור פרודוקטיביות: אסטרטגיית הצמיחה של BALL כוללת השקעות מתמשכות באוטומציה ובשיפורים תפעוליים. צעדים אלה נועדו לא רק להגדיל את היעילות, אלא גם לשפר את רווחיות החברה בטווח הארוך. עם טכנולוגיות מתקדמות במקום, Ball יכולה להתמודד טוב יותר עם האתגרים של שוק משתנה.
       </h3>
-<h3>
+      <h3>
        #Para# דירוגי אנליסטים ומגמות: בעוד שאנליסטים מציעים פרשנויות שונות לגבי עתידה של המניה, חלקם מדגישים את ההערכה הנמוכה שלה, אחרים מזהירים מפני פוטנציאל מוגבל בטווח הקרוב. צמיחת ההכנסות האחרונה של BALL הייתה מתונה, בהתאמה למגמות התעשייה, אך עדיין מעוררת שאלות לגבי היכולת שלה להתרומם מעל הממוצע.
       </h3>
-<h3>
+      <h3>
        #Para# אתגרי השוק: מאז תחילת השנה, מניות Ball Corporation ביצעו פחות מאשר מגזר הצריכה המחזורית הרחב יותר. חששות אלה עוררו דיון בנוגע לשווי החברה והניעו משקיעים לחפש תשובות. הגורמים העיקריים למצב זה כוללים את העלייה בעלויות חומרי גלם ולוגיסטיקה, יחד עם ירידה בביקוש לפחיות משקאות.
       </h3>
-<h3>
+      <h3>
        #Para# תחזית ההנהלה: בתגובה לאתגרים אלה, הנהלת Ball פרסמה תחזית הכנסות שמרנית יותר. הם ציינו את הירידה בביקוש כגורם מרכזי, מה שהדגיש את הצורך באסטרטגיה מתואמת כדי להתמודד עם המגמות הנוכחיות בשוק.
       </h3>
-<h3>
+      <h3>
        #Para# הסתכלות קדימה: למרות האתגרים, Ball Corporation נמצאת בעמדה חזקה כדי לנווט בסביבה עסקית משתנה. השקעה בטכנולוגיות בנות-קיימא, אוטומציה ושיפור תהליכים מבטיחים צמיחה ארוכת טווח. עם זאת, החברה צריכה להמשיך להתמודד עם לחצי השוק המשתנים ולספק תוצאות מעודדות כדי לשכנע משקיעים באמונה שלה לעתיד מזהיר.
       </h3>
-<p>
+      <p>
        סיפורה של Ball Corporation הוא תזכורת לכך שגם בתעשיות מבוססות, חדשנות והתאמה הן המפתחות להצלחה. עם אסטרטגיה ברורה ומחויבות לקיימות, BALL עשויה להפוך לדוגמה למנהיגות בירוקה ולצמיחה עסקית בת-קיימא.
       </p>
-</div>
-</div>
-<div class="disclaimer">
-<strong>
+     </div>
+    </div>
+    <div class="disclaimer">
+     <strong>
       הסתייגות משפטית:
      </strong>
      המידע הנ״ל מבוסס על מקורות מידע שונים ועלול להשתנות בכל עת. המידע המוזכר בכתבה זו מוגבל לצורך מחקר והנאה ואין לראות בכתוב המלצה להשקעה.
      <br/>
-<br/>
-<strong>
+     <br/>
+     <strong>
       הערה:
      </strong>
      הניתוח נוצר באמצעות מודל בינה מלאכותית ועלול לכלול שגיאות כתיב או ניסוח. אנו מתנצלים מראש על אי-הדיוקים האפשריים.
      <br/>
-<br/>
-<strong>
+     <br/>
+     <strong>
       מקורות המידע:
      </strong>
      Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl
      <h3>
       Hippopotamus Research
      </h3>
-</div>
-<div class="newsletter-section" style="margin: 0 auto 24px auto; max-width: 400px; text-align: center;">
-<div style="font-size: 1em; color: var(--accent-color); margin-bottom: 6px; font-weight: 500; opacity: 0.85;">
+    </div>
+    <div class="newsletter-section" style="margin: 0 auto 24px auto; max-width: 400px; text-align: center;">
+     <div style="font-size: 1em; color: var(--accent-color); margin-bottom: 6px; font-weight: 500; opacity: 0.85;">
       הצטרפו לעדכונים במייל
      </div>
-<iframe scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="width:100%!important; height:120px; border:none!important; border-radius:12px; background:#fff; box-shadow:0 2px 8px rgba(15,52,96,0.07);" title="הרשמה לניוזלטר">
-</iframe>
-</div>
-</div>
-<div class="footer">
-<div class="timestamp">
+     <iframe scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="width:100%!important; height:120px; border:none!important; border-radius:12px; background:#fff; box-shadow:0 2px 8px rgba(15,52,96,0.07);" title="הרשמה לניוזלטר">
+     </iframe>
+    </div>
+   </div>
+   <div class="footer">
+    <div class="timestamp">
      נוצר ב: 22/06/2025 11:53
     </div>
-<div class="source">
+    <div class="source">
      מקורות: Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl | ניתוח באמצעות aya-expanse:8b
     </div>
-</div>
-</div>
-<script id="dynamic-text-cleaner-script">
+   </div>
+  </div>
+  <script id="dynamic-text-cleaner-script">
    document.addEventListener("DOMContentLoaded", function() {
   // Check if the cleaner has already run to avoid multiple executions
   if (document.body.dataset.jsCleanerApplied) {
@@ -649,13 +654,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
   const elements = document.querySelectorAll('p, h1, h2, h3, h4, li, span');
   
-  // Regex to find all variations of markers:
-  // - Optional hashes (e.g., #TITLE, ## TITLE)
-  // - The marker words in English (TITLE, SUBTITLE, PARA) with an optional colon
-  // - The marker words in Hebrew (כותרת ראשית, כותרת משנה, פסקה) with an optional colon
-  // - Hebrew ordinal words (ראשונה:, שניה/שנייה:, שלישית:, רביעית:, חמישית:) with colons
-  // - Any remaining hash symbols
-  const regex = /(?:#+\s*)?(?:TITLE|SUBTITLE|PARA|כותרת ראשית|כותרת משנה|פסקה|ראשונה|שניה|שנייה|שלישית|רביעית|חמישית):?|#+/gi;
+  // Regex to match marker words anywhere, with optional colon or space after
+  const regex = /(?:#+\s*)?(TITLE|SUBTITLE|PARA|כותרת ראשית|כותרת משנה|פסקה|ראשונה|שניה|שנייה|שלישית|רביעית|חמישית|שישית|אחרונה)[:：]?/gi;
 
   elements.forEach(el => {
     // We iterate through child nodes to only affect text nodes.
@@ -663,7 +663,7 @@ document.addEventListener('DOMContentLoaded', function() {
     Array.from(el.childNodes).forEach(node => {
       if (node.nodeType === Node.TEXT_NODE) { // Process only text nodes
         const originalText = node.textContent;
-        const newText = originalText.replace(regex, '').trim();
+        const newText = originalText.replace(regex, '').replace(/\s{2,}/g, ' ').trim();
         if (originalText !== newText) {
           node.textContent = newText;
         }
@@ -672,5 +672,5 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 });
   </script>
-</body>
+ </body>
 </html>

@@ -1,15 +1,14 @@
 <!DOCTYPE html>
-
 <html dir="rtl" lang="he">
-<head>
-<meta charset="utf-8"/>
-<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
    דוח ניתוח סיבתיות - HON
   </title>
-<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
-<style>
+  <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
+  <style>
    :root {
             --primary-color: #1a1a2e;
             --secondary-color: #16213e;
@@ -229,8 +228,8 @@
             }
         }
   </style>
-<style>
-    .x-share-btn {
+  <style>
+   .x-share-btn {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -314,8 +313,9 @@
       height: 16px;
       display: block;
     }
-    </style><style>
-    .x-share-btn-custom {
+  </style>
+  <style>
+   .x-share-btn-custom {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -399,8 +399,9 @@
       height: 16px;
       display: block;
     }
-    </style><style>
-    .x-share-btn-custom {
+  </style>
+  <style>
+   .x-share-btn-custom {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -508,148 +509,241 @@
       90% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
       100% { opacity: 0; transform: translateX(-50%) scale(0.95); }
     }
-    </style></head>
-<body>
-<div class="container">
-<div class="header">
-<div class="header-content">
-<div class="logo-section">
-<div class="logo-container">
-<img alt="Logo" class="logo-image" src="logo.png"/>
-</div>
-<div class="brand-info">
-<div class="brand-name">
+  </style>
+  <style>
+   .x-share-btn-custom {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #14171a 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(29,161,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .x-share-btn-custom:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #14171a 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(29,161,242,0.18);
+    }
+    .x-share-btn-custom .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .x-share-btn-custom:hover .x-icon {
+      background: #1da1f2;
+    }
+    .x-share-btn-custom .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    .follow-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #7b2ff2 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(123,47,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .follow-btn:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #7b2ff2 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(123,47,242,0.18);
+    }
+    .follow-btn .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .follow-btn:hover .x-icon {
+      background: #7b2ff2;
+    }
+    .follow-btn .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    .share-popup-message {
+      position: fixed;
+      top: 30px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: #1da1f2;
+      color: #fff;
+      padding: 18px 32px;
+      border-radius: 30px;
+      font-size: 1.2em;
+      font-weight: 700;
+      box-shadow: 0 4px 24px rgba(29,161,242,0.18);
+      z-index: 9999;
+      opacity: 0.97;
+      text-align: center;
+      letter-spacing: 0.02em;
+      animation: fadeInOut 3s;
+    }
+    @keyframes fadeInOut {
+      0% { opacity: 0; transform: translateX(-50%) scale(0.95); }
+      10% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
+      90% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
+      100% { opacity: 0; transform: translateX(-50%) scale(0.95); }
+    }
+  </style>
+ </head>
+ <body>
+  <div class="container">
+   <div class="header">
+    <div class="header-content">
+     <div class="logo-section">
+      <div class="logo-container">
+       <img alt="Logo" class="logo-image" src="logo.png"/>
+      </div>
+      <div class="brand-info">
+       <div class="brand-name">
         Hippopotamus Research
        </div>
-<div class="brand-subtitle">
-        מחפשים את הסיבה לתנועות בשוק 
+       <div class="brand-subtitle">
+        מחפשים את הסיבה לתנועות בשוק
        </div>
-</div>
-</div>
-<div class="social-section">
-<div class="ticker-badge">HON</div>
-<a class="follow-btn" href="https://twitter.com/your_twitter_handle" rel="noopener" target="_blank">
-<span class="x-icon">
-<img alt="X" src="x.png"/>
-</span>
-    עקבו אחרינו
-  </a>
-<button class="x-share-btn-custom" type="button">
-<span class="x-icon">
-<img alt="X" src="x.png"/>
-</span>
-    שתף ב־X
-  </button>
-</div><script>
-document.addEventListener('DOMContentLoaded', function() {
-  document.querySelectorAll('.x-share-btn-custom').forEach(function(btn) {
-    btn.addEventListener('click', function(e) {
-      e.preventDefault();
-      e.stopPropagation();
-      // הצג פופ-אפ למשתמש
-      var popup = document.createElement('div');
-      popup.className = 'share-popup-message';
-      popup.textContent = 'השיתוף מחכה לך בדף השני :)';
-      document.body.appendChild(popup);
-      setTimeout(function() {
-        popup.remove();
-        window.open('https://thekinghippopotamus.github.io/HippoResearch_Marketbeat/', '_blank', 'noopener');
-        window.open('https://twitter.com/intent/tweet?text=%D7%9E%D7%97%D7%A7%D7%A8%20%D7%97%D7%93%D7%A9%20%D7%A9%D7%9C%20Hippopotamus%20Research%20%24HON%0Ahttps%3A%2F%2Fthekinghippopotamus.github.io%2FHippoResearch_Marketbeat%2Farticles%2FHON_20250619.html', '_self', 'noopener');
-      }, 3000); // 3 שניות
-      return false;
-    });
-  });
-});
-</script>
-</div>
-</div>
-<div class="content">
-<div class="newsletter-section" style="margin:12px auto 20px auto;max-width:260px;padding:0;background:none;border:none;box-shadow:none;border-radius:0;position:relative;z-index:2;">
-<h3 style="font-weight:400;opacity:0.5;font-size:0.85em;margin-bottom:2px;margin-top:0;color:var(--accent-color);">
+      </div>
+     </div>
+     <div class="social-section">
+      <div class="ticker-badge">
+       HON
+      </div>
+      <a class="follow-btn" href="https://twitter.com/your_twitter_handle" rel="noopener" target="_blank">
+       <span class="x-icon">
+        <img alt="X" src="x.png"/>
+       </span>
+       עקבו אחרינו
+      </a>
+      <button class="x-share-btn-custom" type="button">
+       <span class="x-icon">
+        <img alt="X" src="x.png"/>
+       </span>
+       שתף ב־X
+      </button>
+     </div>
+    </div>
+   </div>
+   <div class="content">
+    <div class="newsletter-section" style="margin:12px auto 20px auto;max-width:260px;padding:0;background:none;border:none;box-shadow:none;border-radius:0;position:relative;z-index:2;">
+     <h3 style="font-weight:400;opacity:0.5;font-size:0.85em;margin-bottom:2px;margin-top:0;color:var(--accent-color);">
       הצטרפו לרשימת התפוצה שלנו
      </h3>
-<iframe class="newsletter-iframe" scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="height:110px;width:100%;border:none;background:none;box-shadow:none;border-radius:0;">
-</iframe>
-</div>
-<div class="article-content">
-<p>
+     <iframe class="newsletter-iframe" scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="height:110px;width:100%;border:none;background:none;box-shadow:none;border-radius:0;">
+     </iframe>
+    </div>
+    <div class="article-content">
+     <p>
       HON
      </p>
-</div>
-<p>
+    </div>
+    <p>
      ניתוח תנועת המניה של Honeywell International Inc. (HON)
     </p>
-<p>
+    <p>
      סקירה כללית
     </p>
-<p>
+    <p>
      מניות HON מציגות עלייה עקבית היום, מעודדות על ידי מספר גורמים חיוביים המשפיעים על השוק ועל האסטרטגיה העתידית של החברה. הניתוח שלנו מתמקד בקשרים הסיבתיים בין אירועים עכשוויים ומגמות ארוכות טווח, תוך התמקדות בהשפעתם על הביצועים הפיננסיים של Honeywell.
     </p>
-<p>
+    <p>
      הנהלה ומוסדות: חדשנות ואסטרטגיה
     </p>
-<p>
+    <p>
      ההנהלה הבכירה של Honeywell צועדת בבטחה לעבר העתיד, כפי שמעידים מספר הישגים משמעותיים. ראשית, חתימת הסכם תחזוקה ארוך טווח עם Vietjet Air היא עדות ליכולותיה הטכניות של החברה ולביקוש גבוה לשירותי APU שלה. עסקה זו מספקת הכנסות יציבות חוזרות ומחזקת את מעמדה של Honeywell בשוק התעופה. בנוסף, הצלחתה של הטיסה האוטונומית הראשונה של מסוק AW139 היא פריצת דרך טכנולוגית, במיוחד עבור חיל הנחתים האמריקאי, ומדגישה את מעורבותה של החברה בחדשנות כלי טיס.
     </p>
-<p>
+    <p>
      ג'ים קרמר, פרשן בולט בתעשייה, שיבח את Honeywell על גישתם השקופה לחישוב קוונטי, מה שמעיד על מודעותם לחשיבות התקשורת הטכנולוגית. אסטרטגיה זו יכולה לפתוח הזדמנויות חדשות בשווקים מתפתחים, כפי שמצביעים עסקי הודו המשגשגים של החברה.
     </p>
-<p>
+    <p>
      דיבידנד ותשואות: אטרקטיביות למשקיעים
     </p>
-<p>
+    <p>
      אנליסטים מזהירים כי למרות הביצועים המרשימים, Honeywell עדיין צריכה לשפר את מדדי הרווחיות שלה. עם זאת, הם מציינים כי האטרקטיביות של המניה נובעת מהפוטנציאל לצמיחה עתידית, כמו גם מתשואה נוכחית סבירה. גישה זו מושכת משקיעים המחפשים תשואות ארוכות טווח, במיוחד לאור ההיסטוריה של החברה בתשלום דיבידנדים יציבים.
     </p>
-<p>
+    <p>
      רגולציה וסביבה: אתגרים פוטנציאליים
     </p>
-<p>
-     בעוד ש-Honeywell מצליחה להתקדם בחזית הטכנולוגיה, סביבת הרגולציה עלולה להציב אתגרים. ניתוח לאחרונה העלה ספקות לגבי קצב הצמיחה הנוכחי של החברה, מה שמצביע על לחץ לשפר את היעילות התפעולית והרווחיות. בנוסף, רגולציות חדשות בתחום התעופה והטכנולוגיה עלולות להשפיע על אסטרטגיותיה העתידיות, במיוחד בתחומי ההגנה והתחבורה האוטונומית.
+    <p>
+     בעוד ש-Honeywell מצליחה להתקדם בחזית הטכנולוגיה, סביבת הרגולציה עלולה להציב אתגרים. ניתוח ל העלה ספקות לגבי קצב הצמיחה הנוכחי של החברה, מה שמצביע על לחץ לשפר את היעילות התפעולית והרווחיות. בנוסף, רגולציות חדשות בתחום התעופה והטכנולוגיה עלולות להשפיע על אסטרטגיותיה העתידיות, במיוחד בתחומי ההגנה והתחבורה האוטונומית.
     </p>
-<p>
+    <p>
      מגמות סקטוריאליות ושיח ציבורי: הזדמנויות בשוק מתפתחים
     </p>
-<p>
+    <p>
      השווקים המתפתחים, כמו הודו, מהווים מנוע צמיחה משמעותי עבור Honeywell. הצלחתה באזור זה מדגישה את הפוטנציאל הרחב של החברה להרחיב את נוכחותה הגלובלית. שיח הציבורי סביב טכנולוגיות מתפתחות, כולל תעופה אוטונומית וחישוב קוונטי, מעניק לחברה הזדמנויות נוספות להציג את מומחיותה ולהשפיע על מדיניות עתידית.
     </p>
-<p>
+    <p>
      סיכום
     </p>
-<p>
+    <p>
      מניות HON נהנות מעלייה היום, נתמכות על ידי חוזים חדשים, התקדמות טכנולוגית והישגים אסטרטגיים. עם זאת, יש לציין כי אתגרים רגולטוריים ולחצים לשיפור הרווחיות מהווים שיקולים חשובים. המצב הנוכחי מציע איזון בין כוחות חיוביים, כמו חדשנות וצמיחה בשווקים מתפתחים, לכוחות מאזנים, כולל רגולציות סקטוריאליות ולחצים פנימיים. המשך המעקב אחר הביצועים של Honeywell והשפעות הסביבה העסקית הכוללת יספק תובנות נוספות לגבי הפוטנציאל לטווח הארוך של המניה.
     </p>
-</div>
-<div class="disclaimer">
-<strong>
+   </div>
+   <div class="disclaimer">
+    <strong>
      הסתייגות משפטית:
     </strong>
     המידע הנ״ל מבוסס על מקורות מידע שונים ועלול להשתנות בכל עת. המידע המוזכר בכתבה זו מוגבל לצורך מחקר והנאה ואין לראות בכתוב המלצה להשקעה. יש להתייעץ עם יועץ פיננסי לפני קבלת החלטות השקעה.
     <br/>
-<br/>
-<strong>
+    <br/>
+    <strong>
      הערה:
     </strong>
     הניתוח נוצר באמצעות מודל בינה מלאכותית ועלול לכלול שגיאות כתיב או ניסוח. אנו מתנצלים מראש על אי-הדיוקים האפשריים.
     <br/>
-<br/>
-<strong>
+    <br/>
+    <strong>
      מקורות המידע:
     </strong>
     Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl,MarketBeat
     <h3>
      Hippopotamus Research
     </h3>
-</div>
-</div>
-<div class="footer">
-<div class="timestamp">
+   </div>
+  </div>
+  <div class="footer">
+   <div class="timestamp">
     נוצר ב: 19/06/2025 10:06
    </div>
-<div class="source">
+   <div class="source">
     מקורות: Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl,MarketBeat | ניתוח באמצעות aya-expanse:8b
    </div>
-</div>
-<script id="dynamic-text-cleaner-script">
+  </div>
+  <script id="dynamic-text-cleaner-script">
    document.addEventListener("DOMContentLoaded", function() {
   // Check if the cleaner has already run to avoid multiple executions
   if (document.body.dataset.jsCleanerApplied) {
@@ -659,12 +753,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
   const elements = document.querySelectorAll('p, h1, h2, h3, h4, li, span');
   
-  // Regex to find all variations of markers:
-  // - Optional hashes (e.g., #TITLE, ## TITLE)
-  // - The marker words in English (TITLE, SUBTITLE, PARA) with an optional colon
-  // - The marker words in Hebrew (כותרת ראשית, כותרת משנה, פסקה) with an optional colon
-  // - Any remaining hash symbols
-  const regex = /(?:#+\s*)?(?:TITLE|SUBTITLE|PARA|כותרת ראשית|כותרת משנה|פסקה):?|#+/gi;
+  // Regex to match marker words anywhere, with optional colon or space after
+  const regex = /(?:#+\s*)?(TITLE|SUBTITLE|PARA|כותרת ראשית|כותרת משנה|פסקה|ראשונה|שניה|שנייה|שלישית|רביעית|חמישית|שישית|אחרונה)[:：]?/gi;
 
   elements.forEach(el => {
     // We iterate through child nodes to only affect text nodes.
@@ -672,7 +762,7 @@ document.addEventListener('DOMContentLoaded', function() {
     Array.from(el.childNodes).forEach(node => {
       if (node.nodeType === Node.TEXT_NODE) { // Process only text nodes
         const originalText = node.textContent;
-        const newText = originalText.replace(regex, '').trim();
+        const newText = originalText.replace(regex, '').replace(/\s{2,}/g, ' ').trim();
         if (originalText !== newText) {
           node.textContent = newText;
         }
@@ -681,5 +771,25 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 });
   </script>
-</body>
+  <script>
+   document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('.x-share-btn-custom').forEach(function(btn) {
+    btn.addEventListener('click', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      var popup = document.createElement('div');
+      popup.className = 'share-popup-message';
+      popup.textContent = 'השיתוף מחכה לך בדף השני :)';
+      document.body.appendChild(popup);
+      setTimeout(function() {
+        popup.remove();
+        window.open('https://thekinghippopotamus.github.io/HippoResearch_Marketbeat/', '_blank', 'noopener');
+        window.open('https://twitter.com/intent/tweet?text=%D7%9E%D7%97%D7%A7%D7%A8%20%D7%97%D7%93%D7%A9%20%D7%A9%D7%9C%20Hippopotamus%20Research%20%24HON%0Ahttps%3A%2F%2Fthekinghippopotamus.github.io%2FHippoResearch_Marketbeat%2Farticles%2FHON_20250619.html', '_self', 'noopener');
+      }, 3000);
+      return false;
+    });
+  });
+});
+  </script>
+ </body>
 </html>

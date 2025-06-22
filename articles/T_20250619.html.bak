@@ -1,15 +1,14 @@
 <!DOCTYPE html>
-
 <html dir="rtl" lang="he">
-<head>
-<meta charset="utf-8"/>
-<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
    דוח ניתוח סיבתיות - T
   </title>
-<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
-<style>
+  <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
+  <style>
    :root {
             --primary-color: #1a1a2e;
             --secondary-color: #16213e;
@@ -229,8 +228,8 @@
             }
         }
   </style>
-<style>
-    .x-share-btn {
+  <style>
+   .x-share-btn {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -314,8 +313,9 @@
       height: 16px;
       display: block;
     }
-    </style><style>
-    .x-share-btn-custom {
+  </style>
+  <style>
+   .x-share-btn-custom {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -399,8 +399,9 @@
       height: 16px;
       display: block;
     }
-    </style><style>
-    .x-share-btn-custom {
+  </style>
+  <style>
+   .x-share-btn-custom {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -508,40 +509,44 @@
       90% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
       100% { opacity: 0; transform: translateX(-50%) scale(0.95); }
     }
-    </style></head>
-<body>
-<div class="container">
-<div class="header">
-<div class="header-content">
-<div class="logo-section">
-<div class="logo-container">
-<img alt="Logo" class="logo-image" src="logo.png"/>
-</div>
-<div class="brand-info">
-<div class="brand-name">
+  </style>
+ </head>
+ <body>
+  <div class="container">
+   <div class="header">
+    <div class="header-content">
+     <div class="logo-section">
+      <div class="logo-container">
+       <img alt="Logo" class="logo-image" src="logo.png"/>
+      </div>
+      <div class="brand-info">
+       <div class="brand-name">
         Hippopotamus Research
        </div>
-<div class="brand-subtitle">
-        מחפשים את הסיבה לתנועות בשוק 
+       <div class="brand-subtitle">
+        מחפשים את הסיבה לתנועות בשוק
        </div>
-</div>
-</div>
-<div class="social-section">
-<div class="ticker-badge">T</div>
-<a class="follow-btn" href="https://twitter.com/your_twitter_handle" rel="noopener" target="_blank">
-<span class="x-icon">
-<img alt="X" src="x.png"/>
-</span>
-    עקבו אחרינו
-  </a>
-<button class="x-share-btn-custom" type="button">
-<span class="x-icon">
-<img alt="X" src="x.png"/>
-</span>
-    שתף ב־X
-  </button>
-</div><script>
-document.addEventListener('DOMContentLoaded', function() {
+      </div>
+     </div>
+     <div class="social-section">
+      <div class="ticker-badge">
+       T
+      </div>
+      <a class="follow-btn" href="https://twitter.com/your_twitter_handle" rel="noopener" target="_blank">
+       <span class="x-icon">
+        <img alt="X" src="x.png"/>
+       </span>
+       עקבו אחרינו
+      </a>
+      <button class="x-share-btn-custom" type="button">
+       <span class="x-icon">
+        <img alt="X" src="x.png"/>
+       </span>
+       שתף ב־X
+      </button>
+     </div>
+     <script>
+      document.addEventListener('DOMContentLoaded', function() {
   document.querySelectorAll('.x-share-btn-custom').forEach(function(btn) {
     btn.addEventListener('click', function(e) {
       e.preventDefault();
@@ -560,87 +565,87 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   });
 });
-</script>
-</div>
-</div>
-<div class="content">
-<div class="newsletter-section" style="margin:12px auto 20px auto;max-width:260px;padding:0;background:none;border:none;box-shadow:none;border-radius:0;position:relative;z-index:2;">
-<h3 style="font-weight:400;opacity:0.5;font-size:0.85em;margin-bottom:2px;margin-top:0;color:var(--accent-color);">
+     </script>
+    </div>
+   </div>
+   <div class="content">
+    <div class="newsletter-section" style="margin:12px auto 20px auto;max-width:260px;padding:0;background:none;border:none;box-shadow:none;border-radius:0;position:relative;z-index:2;">
+     <h3 style="font-weight:400;opacity:0.5;font-size:0.85em;margin-bottom:2px;margin-top:0;color:var(--accent-color);">
       הצטרפו לרשימת התפוצה שלנו
      </h3>
-<iframe class="newsletter-iframe" scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="height:110px;width:100%;border:none;background:none;box-shadow:none;border-radius:0;">
-</iframe>
-</div>
-<div class="article-content">
-<p>
+     <iframe class="newsletter-iframe" scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="height:110px;width:100%;border:none;background:none;box-shadow:none;border-radius:0;">
+     </iframe>
+    </div>
+    <div class="article-content">
+     <p>
       T
      </p>
-</div>
-<p>
+    </div>
+    <p>
      ניתוח מניית AT&amp;T Inc. (T): סיכום יומי
     </p>
-<p>
+    <p>
      מגמות חיוביות:
     </p>
-<p>
+    <p>
      השבוע, מניית AT&amp;T (T) הציגה ביצועים מבטיחים, מעודדת על ידי מספר גורמים מרכזיים. שדרוגי דירוג ואנליסטים מצד חברות כמו UBS, יחד עם התחזית האופטימית של Seeking Alpha לגבי עלויות הלוואה נמוכות יותר, תרמו לעלייה במחיר המניה. יוזמות אסטרטגיות שונות של החברה, כגון חסות באירועים שיווקיים, אישורי רגולציה להרחבת רשתות סלולריות, והשקת שירותי "Business Voice" ו-AT&amp;T Fiber, חיזוקות נוספות לאמון המשקיעים.
     </p>
-<p>
+    <p>
      כוחות מאזנים:
     </p>
-<p>
+    <p>
      עם זאת, יש לציין מספר אתגרים שמגבילים את הפוטנציאל החיובי: תחרות גוברת בשוק התקשורת, במיוחד בתחום הסיבים האופטיים, כפי שמעיד השוואה עם Charter Communications (CHTR). הפסקות שירות הקשורות לקווי סיבים פגומים מדגישות את הצורך בשיפור אמינות הרשת, מה שעלול להשפיע לרעה על תדמית החברה. בנוסף, מאמצי הקהילה של AT&amp;T, למרות היותם בולטים, לא השפיעו באופן משמעותי על הביצועים הליבה של החברה, ומצביעים על כך שהשוק עשוי להתמקד יותר בגורמים פיננסיים קונקרטיים.
     </p>
-<p>
+    <p>
      ניתוח עמוק:
     </p>
-<p>
+    <p>
      השינויים הרגולטוריים שעברו על AT&amp;T, כמו אישור הרחבת רשתות הסלולר, הם חיוביים לטווח הארוך, שכן הם מאפשרים לחברה לשפר את הכיסוי והשירות באזורים שונים. השקת "Business Voice" מציעה אלטרנטיבה קווית מודרנית, מה שיכול למשוך לקוחות עסקיים שמחפשים להחליף את קווי הנחושת הישנים שלהם.
     </p>
-<p>
+    <p>
      מצד שני, התביעה נגד AT&amp;T בנוגע לכבלי עופרת הוסרה, אך אירועים משפטיים כאלה עלולים ליצור חוסר ודאות. בנוסף, בעוד ששותפות עם Rakuten Symphony בתחום O-RAN היא צעד אסטרטגי חיובי, השוק מתפתח במהירות, מה שמציב את AT&amp;T בפני אתגר מתמיד להישאר בחזית הטכנולוגיה.
     </p>
-<p>
+    <p>
      סיכום והמלצות:
     </p>
-<p>
+    <p>
      מניית T מציגה סימנים מעודדים, במיוחד עם יוזמותיה האחרונות בתחום השיווק, הרשתות, והשירותים העסקיים. עם זאת, סביבת התקשורת תחרותית מאוד, ו-AT&amp;T צריכה להתמודד עם אתגרים רגולטוריים וטכנולוגיים מתמשכים.
     </p>
-<p>
+    <p>
      לסיכום, המצב הנוכחי מציג איזון בין כוחות חיוביים, כמו יוזמות אסטרטגיות ותמיכה אנליסטית, לכוחות מאזנים ושליליים, כולל תחרות גוברת ואתגרים משפטיים. מומלץ למעקב נוסף אחר ביצועים פיננסיים, התפתחויות טכנולוגיות, ושינויים רגולטוריים שיכולים להשפיע על AT&amp;T בטווח הקצר והארוך. המשך עלייה במניה תלויה ביכולתה של החברה להתגבר על אתגרים אלה ולהציג צמיחה בר-קיימא.
     </p>
-</div>
-<div class="disclaimer">
-<strong>
+   </div>
+   <div class="disclaimer">
+    <strong>
      הסתייגות משפטית:
     </strong>
     המידע הנ״ל מבוסס על מקורות מידע שונים ועלול להשתנות בכל עת. המידע המוזכר בכתבה זו מוגבל לצורך מחקר והנאה ואין לראות בכתוב המלצה להשקעה. יש להתייעץ עם יועץ פיננסי לפני קבלת החלטות השקעה.
     <br/>
-<br/>
-<strong>
+    <br/>
+    <strong>
      הערה:
     </strong>
     הניתוח נוצר באמצעות מודל בינה מלאכותית ועלול לכלול שגיאות כתיב או ניסוח. אנו מתנצלים מראש על אי-הדיוקים האפשריים.
     <br/>
-<br/>
-<strong>
+    <br/>
+    <strong>
      מקורות המידע:
     </strong>
     Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl,MarketBeat
     <h3>
      Hippopotamus Research
     </h3>
-</div>
-</div>
-<div class="footer">
-<div class="timestamp">
+   </div>
+  </div>
+  <div class="footer">
+   <div class="timestamp">
     נוצר ב: 19/06/2025 09:43
    </div>
-<div class="source">
+   <div class="source">
     מקורות: Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl,MarketBeat | ניתוח באמצעות aya-expanse:8b
    </div>
-</div>
-<script id="dynamic-text-cleaner-script">
+  </div>
+  <script id="dynamic-text-cleaner-script">
    document.addEventListener("DOMContentLoaded", function() {
   // Check if the cleaner has already run to avoid multiple executions
   if (document.body.dataset.jsCleanerApplied) {
@@ -650,12 +655,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
   const elements = document.querySelectorAll('p, h1, h2, h3, h4, li, span');
   
-  // Regex to find all variations of markers:
-  // - Optional hashes (e.g., #TITLE, ## TITLE)
-  // - The marker words in English (TITLE, SUBTITLE, PARA) with an optional colon
-  // - The marker words in Hebrew (כותרת ראשית, כותרת משנה, פסקה) with an optional colon
-  // - Any remaining hash symbols
-  const regex = /(?:#+\s*)?(?:TITLE|SUBTITLE|PARA|כותרת ראשית|כותרת משנה|פסקה):?|#+/gi;
+  // Regex to match marker words anywhere, with optional colon or space after
+  const regex = /(?:#+\s*)?(TITLE|SUBTITLE|PARA|כותרת ראשית|כותרת משנה|פסקה|ראשונה|שניה|שנייה|שלישית|רביעית|חמישית|שישית|אחרונה)[:：]?/gi;
 
   elements.forEach(el => {
     // We iterate through child nodes to only affect text nodes.
@@ -663,7 +664,7 @@ document.addEventListener('DOMContentLoaded', function() {
     Array.from(el.childNodes).forEach(node => {
       if (node.nodeType === Node.TEXT_NODE) { // Process only text nodes
         const originalText = node.textContent;
-        const newText = originalText.replace(regex, '').trim();
+        const newText = originalText.replace(regex, '').replace(/\s{2,}/g, ' ').trim();
         if (originalText !== newText) {
           node.textContent = newText;
         }
@@ -672,5 +673,5 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 });
   </script>
-</body>
+ </body>
 </html>

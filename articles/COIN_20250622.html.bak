@@ -230,7 +230,7 @@
         }
   </style>
 <style>
-    .x-share-btn {
+   .x-share-btn {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -314,8 +314,9 @@
       height: 16px;
       display: block;
     }
-    </style><style>
-    .x-share-btn-custom {
+  </style>
+<style>
+   .x-share-btn-custom {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -399,8 +400,9 @@
       height: 16px;
       display: block;
     }
-    </style><style>
-    .x-share-btn-custom {
+  </style>
+<style>
+   .x-share-btn-custom {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -508,7 +510,8 @@
       90% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
       100% { opacity: 0; transform: translateX(-50%) scale(0.95); }
     }
-    </style></head>
+  </style>
+</head>
 <body>
 <div class="container">
 <div class="header">
@@ -527,21 +530,20 @@
 </div>
 </div>
 <div class="social-section">
-<div class="ticker-badge">COIN</div>
+<div class="ticker-badge">
+       COIN
+      </div>
 <a class="follow-btn" href="https://twitter.com/your_twitter_handle" rel="noopener" target="_blank">
-<span class="x-icon">
-<img alt="X" src="x.png"/>
-</span>
-    עקבו אחרינו
-  </a>
+<span class="x-icon"><img alt="X" src="x.png"/></span>
+       עקבו אחרינו
+      </a>
 <button class="x-share-btn-custom" type="button">
-<span class="x-icon">
-<img alt="X" src="x.png"/>
-</span>
-    שתף ב־X
-  </button>
-</div><script>
-document.addEventListener('DOMContentLoaded', function() {
+<span class="x-icon"><img alt="X" src="x.png"/></span>
+       שתף ב־X
+      </button>
+</div>
+<script>
+      document.addEventListener('DOMContentLoaded', function() {
   document.querySelectorAll('.x-share-btn-custom').forEach(function(btn) {
     btn.addEventListener('click', function(e) {
       e.preventDefault();
@@ -560,60 +562,21 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   });
 });
-</script>
+     </script>
 </div>
 </div>
 <div class="content">
 <div class="article-content">
 <div class="article-content-text">
-<h3>
-       כותרת: Coinbase קופצת קדימה: מהפכת הקריפטו האמריקאית פורצת דרך
-      </h3>
-<h3>
-       הבורסה מובילה את הדרך לעידן החדש של פיננסים מבוזרים
-      </h3>
-<h3>
-       ראשונה
-      </h3>
-<p>
-       בלב הסערה של עולם הקריפטו, Coinbase Global, Inc. (נאסד"ק: COIN) זורחת כמו כוכב נופל, מושכת תשומת לב עולמית עם הישגים מרשימים. המניה חווה עלייה חדה של 16% בתוך 24-36 השעות האחרונות, מה שמעיד על התמודדותה עם רגולציה, חדשנות מוצר, ושותפויות אסטרטגיות. זהו סימן מעודד לעולם הפיננסים הדיגיטלי, בו Coinbase קובעת את הטון ומציעה מבט עתידי מבטיח.
-      </p>
-<h3>
-       שנייה
-      </h3>
-<p>
-       ההישג האחרון של Coinbase הוא קבלת רישיון MiCA (Markets in Crypto Assets) של האיחוד האירופי, מה שהופך אותה לבורסת הקריפטו האמריקאית הראשונה עם גישה מלאה לשווקים האירופיים. צעד זה, יחד עם השקת "Coinbase Payments", חבילת תשלומים מבוססת stablecoin, מדגים את מחויבותה של החברה להרחיב את גבולות המסחר האלקטרוני.
-      </p>
-<h3>
-       שלישית
-      </h3>
-<p>
-       אירועים אחרונים אלה, בשילוב עם אישור חוק GENIUS בסנאט האמריקאי, מספקים לכוכב הקריפטו הזה זריקת עידוד. החוק מספק מסגרת רגולטורית להנפקת מטבעות יציבים, מה שמגביר את האמון בקרב משקיעים ומקדם את אימוץ הקריפטו.
-      </p>
-<h3>
-       רביעית
-      </h3>
-<p>
-       אנליסטים מובילים, כולל צוותי צ'יינה רנסנס וצ'יינה מרקט, מביעים אופטימיות לגבי עתידה של Coinbase. הם דירגו את המניה ברכישת "קנייה" או בדירוג ניטרלי, עם יעדי מחיר מעודדים לצמיחה לטווח הארוך. סקירות מ-Seeking Alpha ו-Zacks מדגישות את נפחי המסחר החזקים ואת המומנטום החיובי של מטבעות יציבים הקשורים ל-Coinbase.
-      </p>
-<h3>
-       חמישית
-      </h3>
-<p>
-       עם זאת, בתוך ההתרגשות, יש גם עיניים חת. מכירת מניות על ידי מנהלת הכספים הראשית של Coinbase בשווי 430,900 דולר גורמת לדאגה בקרב חלק מהמשקיעים לגבי אמון הנהלה. בנוסף, תקרית סייבר משמעותית הובילה למכירות צנועות, מה שמדגיש את הצורך בביטחון מחמיר בעידן הדיגיטלי.
-      </p>
-<h3>
-       שישית
-      </h3>
-<p>
-       Coinbase, עם מטה בניו יורק, ממשיכה לנווט בסביבה הרגולטורית המשתנה במהירות, תוך שהיא הופכת לסמל של חדשנות פיננסית. עליותיה האחרונות אינן רק מספרים על גרף; הן סימן למהפכה שמתרחשת, בה Coinbase לוקחת את הקריפטו לידיה ומציעה עולם חדש של הזדמנויות.
-      </p>
-<h3>
-       אחרונה
-      </h3>
-<p>
-       בעוד שהעתיד נראה מבטיח, Coinbase עומדת בפני אתגרים רבים, אך גם בפני פוטנציאל עצום. עם רגולציה מתגבשת, אימוץ ציבורי גדל, וחדשנות טכנולוגית, החברה עשויה להפוך לשחקנית מרכזית בעיצוב העתיד של המערכת הפיננסית הגלובלית. סיפורו של Coinbase הוא רק בתחילתו, והעולם צופה בקוצר רוח לראות מה יביא המחר המבוזר.
-      </p>
+<h3>כותרת: Coinbase קופצת קדימה: מהפכת הקריפטו האמריקאית פורצת דרך</h3>
+<h3>הבורסה מובילה את הדרך לעידן החדש של פיננסים מבוזרים</h3>
+<p>בלב הסערה של עולם הקריפטו, Coinbase Global, Inc. (נאסד"ק: COIN) זורחת כמו כוכב נופל, מושכת תשומת לב עולמית עם הישגים מרשימים. המניה חווה עלייה חדה של 16% בתוך 24-36 השעות האחרונות, מה שמעיד על התמודדותה עם רגולציה, חדשנות מוצר, ושותפויות אסטרטגיות. זהו סימן מעודד לעולם הפיננסים הדיגיטלי, בו Coinbase קובעת את הטון ומציעה מבט עתידי מבטיח.</p>
+<p>ההישג האחרון של Coinbase הוא קבלת רישיון MiCA (Markets in Crypto Assets) של האיחוד האירופי, מה שהופך אותה לבורסת הקריפטו האמריקאית ה עם גישה מלאה לשווקים האירופיים. צעד זה, יחד עם השקת "Coinbase Payments", חבילת תשלומים מבוססת stablecoin, מדגים את מחויבותה של החברה להרחיב את גבולות המסחר האלקטרוני.</p>
+<p>אירועים אחרונים אלה, בשילוב עם אישור חוק GENIUS בסנאט האמריקאי, מספקים לכוכב הקריפטו הזה זריקת עידוד. החוק מספק מסגרת רגולטורית להנפקת מטבעות יציבים, מה שמגביר את האמון בקרב משקיעים ומקדם את אימוץ הקריפטו.</p>
+<p>אנליסטים מובילים, כולל צוותי צ'יינה רנסנס וצ'יינה מרקט, מביעים אופטימיות לגבי עתידה של Coinbase. הם דירגו את המניה ברכישת "קנייה" או בדירוג ניטרלי, עם יעדי מחיר מעודדים לצמיחה לטווח הארוך. סקירות מ-Seeking Alpha ו-Zacks מדגישות את נפחי המסחר החזקים ואת המומנטום החיובי של מטבעות יציבים הקשורים ל-Coinbase.</p>
+<p>עם זאת, בתוך ההתרגשות, יש גם עיניים חת. מכירת מניות על ידי מנהלת הכספים הראשית של Coinbase בשווי 430,900 דולר גורמת לדאגה בקרב חלק מהמשקיעים לגבי אמון הנהלה. בנוסף, תקרית סייבר משמעותית הובילה למכירות צנועות, מה שמדגיש את הצורך בביטחון מחמיר בעידן הדיגיטלי.</p>
+<p>Coinbase, עם מטה בניו יורק, ממשיכה לנווט בסביבה הרגולטורית המשתנה במהירות, תוך שהיא הופכת לסמל של חדשנות פיננסית. עליותיה האחרונות אינן רק מספרים על גרף; הן סימן למהפכה שמתרחשת, בה Coinbase לוקחת את הקריפטו לידיה ומציעה עולם חדש של הזדמנויות.</p>
+<p>בעוד שהעתיד נראה מבטיח, Coinbase עומדת בפני אתגרים רבים, אך גם בפני פוטנציאל עצום. עם רגולציה מתגבשת, אימוץ ציבורי גדל, וחדשנות טכנולוגית, החברה עשויה להפוך לשחקנית מרכזית בעיצוב העתיד של המערכת הפיננסית הגלובלית. סיפורו של Coinbase הוא רק בתחילתו, והעולם צופה בקוצר רוח לראות מה יביא המחר המבוזר.</p>
 </div>
 </div>
 <div class="disclaimer">
@@ -633,9 +596,7 @@ document.addEventListener('DOMContentLoaded', function() {
       מקורות המידע:
      </strong>
      Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl
-     <h3>
-      Hippopotamus Research
-     </h3>
+     <h3>Hippopotamus Research</h3>
 </div>
 <div class="newsletter-section" style="margin: 0 auto 24px auto; max-width: 400px; text-align: center;">
 <div style="font-size: 1em; color: var(--accent-color); margin-bottom: 6px; font-weight: 500; opacity: 0.85;">
@@ -664,13 +625,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
   const elements = document.querySelectorAll('p, h1, h2, h3, h4, li, span');
   
-  // Regex to find all variations of markers:
-  // - Optional hashes (e.g., #TITLE, ## TITLE)
-  // - The marker words in English (TITLE, SUBTITLE, PARA) with an optional colon
-  // - The marker words in Hebrew (כותרת ראשית, כותרת משנה, פסקה) with an optional colon
-  // - Hebrew ordinal words (ראשונה:, שניה/שנייה:, שלישית:, רביעית:, חמישית:) with colons
-  // - Any remaining hash symbols
-  const regex = /(?:#+\s*)?(?:TITLE|SUBTITLE|PARA|כותרת ראשית|כותרת משנה|פסקה|ראשונה|שניה|שנייה|שלישית|רביעית|חמישית):?|#+/gi;
+  // Regex to match marker words anywhere, with optional colon or space after
+  const regex = /(?:#+\s*)?(TITLE|SUBTITLE|PARA|כותרת ראשית|כותרת משנה|פסקה|ראשונה|שניה|שנייה|שלישית|רביעית|חמישית|שישית|אחרונה)[:：]?/gi;
 
   elements.forEach(el => {
     // We iterate through child nodes to only affect text nodes.
@@ -678,7 +634,7 @@ document.addEventListener('DOMContentLoaded', function() {
     Array.from(el.childNodes).forEach(node => {
       if (node.nodeType === Node.TEXT_NODE) { // Process only text nodes
         const originalText = node.textContent;
-        const newText = originalText.replace(regex, '').trim();
+        const newText = originalText.replace(regex, '').replace(/\s{2,}/g, ' ').trim();
         if (originalText !== newText) {
           node.textContent = newText;
         }

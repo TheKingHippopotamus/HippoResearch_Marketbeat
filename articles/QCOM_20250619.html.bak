@@ -1,15 +1,14 @@
 <!DOCTYPE html>
-
 <html dir="rtl" lang="he">
-<head>
-<meta charset="utf-8"/>
-<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
    דוח ניתוח סיבתיות - QCOM
   </title>
-<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
-<style>
+  <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
+  <style>
    :root {
             --primary-color: #1a1a2e;
             --secondary-color: #16213e;
@@ -229,8 +228,8 @@
             }
         }
   </style>
-<style>
-    .x-share-btn {
+  <style>
+   .x-share-btn {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -314,8 +313,9 @@
       height: 16px;
       display: block;
     }
-    </style><style>
-    .x-share-btn-custom {
+  </style>
+  <style>
+   .x-share-btn-custom {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -399,8 +399,9 @@
       height: 16px;
       display: block;
     }
-    </style><style>
-    .x-share-btn-custom {
+  </style>
+  <style>
+   .x-share-btn-custom {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -508,40 +509,44 @@
       90% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
       100% { opacity: 0; transform: translateX(-50%) scale(0.95); }
     }
-    </style></head>
-<body>
-<div class="container">
-<div class="header">
-<div class="header-content">
-<div class="logo-section">
-<div class="logo-container">
-<img alt="Logo" class="logo-image" src="logo.png"/>
-</div>
-<div class="brand-info">
-<div class="brand-name">
+  </style>
+ </head>
+ <body>
+  <div class="container">
+   <div class="header">
+    <div class="header-content">
+     <div class="logo-section">
+      <div class="logo-container">
+       <img alt="Logo" class="logo-image" src="logo.png"/>
+      </div>
+      <div class="brand-info">
+       <div class="brand-name">
         Hippopotamus Research
        </div>
-<div class="brand-subtitle">
-        מחפשים את הסיבה לתנועות בשוק 
+       <div class="brand-subtitle">
+        מחפשים את הסיבה לתנועות בשוק
        </div>
-</div>
-</div>
-<div class="social-section">
-<div class="ticker-badge">QCOM</div>
-<a class="follow-btn" href="https://twitter.com/your_twitter_handle" rel="noopener" target="_blank">
-<span class="x-icon">
-<img alt="X" src="x.png"/>
-</span>
-    עקבו אחרינו
-  </a>
-<button class="x-share-btn-custom" type="button">
-<span class="x-icon">
-<img alt="X" src="x.png"/>
-</span>
-    שתף ב־X
-  </button>
-</div><script>
-document.addEventListener('DOMContentLoaded', function() {
+      </div>
+     </div>
+     <div class="social-section">
+      <div class="ticker-badge">
+       QCOM
+      </div>
+      <a class="follow-btn" href="https://twitter.com/your_twitter_handle" rel="noopener" target="_blank">
+       <span class="x-icon">
+        <img alt="X" src="x.png"/>
+       </span>
+       עקבו אחרינו
+      </a>
+      <button class="x-share-btn-custom" type="button">
+       <span class="x-icon">
+        <img alt="X" src="x.png"/>
+       </span>
+       שתף ב־X
+      </button>
+     </div>
+     <script>
+      document.addEventListener('DOMContentLoaded', function() {
   document.querySelectorAll('.x-share-btn-custom').forEach(function(btn) {
     btn.addEventListener('click', function(e) {
       e.preventDefault();
@@ -560,75 +565,75 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   });
 });
-</script>
-</div>
-</div>
-<div class="content">
-<div class="newsletter-section" style="margin:12px auto 20px auto;max-width:260px;padding:0;background:none;border:none;box-shadow:none;border-radius:0;position:relative;z-index:2;">
-<h3 style="font-weight:400;opacity:0.5;font-size:0.85em;margin-bottom:2px;margin-top:0;color:var(--accent-color);">
+     </script>
+    </div>
+   </div>
+   <div class="content">
+    <div class="newsletter-section" style="margin:12px auto 20px auto;max-width:260px;padding:0;background:none;border:none;box-shadow:none;border-radius:0;position:relative;z-index:2;">
+     <h3 style="font-weight:400;opacity:0.5;font-size:0.85em;margin-bottom:2px;margin-top:0;color:var(--accent-color);">
       הצטרפו לרשימת התפוצה שלנו
      </h3>
-<iframe class="newsletter-iframe" scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="height:110px;width:100%;border:none;background:none;box-shadow:none;border-radius:0;">
-</iframe>
-</div>
-<div class="article-content">
-<p>
+     <iframe class="newsletter-iframe" scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="height:110px;width:100%;border:none;background:none;box-shadow:none;border-radius:0;">
+     </iframe>
+    </div>
+    <div class="article-content">
+     <p>
       QCOM
      </p>
-</div>
-<h3 class="section-header">
+    </div>
+    <h3 class="section-header">
      ניתוח תנועת מניית QCOM (קואלקום) - 20 ביולי
     </h3>
-<p>
+    <p>
      סקירה כללית מניית קוואלקום (QCOM) הציגה תנודתיות במהלך המסחר היומי, כאשר גורמים טכניים ואנליסטיים מתחרים זה בזה. האווירה הכללית נותרה חיובית, אך עם עדכונים מסוימים שמעוררים סקרנות בקרב המשקיעים.
     </p>
-<p>
+    <p>
      ניתוח טכני המערך הטכני ממשיך לתמוך במגמת העלייה של המניה. מדדי RSI (מדד עוצמה יחסי) ו-MACD (ממוצע תנועה מכוון) מצביעים על אימפקט עלייתי חזק, מה שמצפה להמשך מגמת המחירים החיובית. אנליסטים מובילים, כמו ברנשטיין, מאששים את האופטימיות עם דירוג "Outperform" ומחיר יעד אגרסיבי של 185 דולר למניה.
     </p>
-<p>
+    <p>
      מוסדות ואנליסטים דירוגי האנליסטים הם גורם מרכזי המשפיע על המניה. בנק אוף אמריקה, באופן ספציפי, השאיר את דירוגו "קנייה" עם מחיר יעד גבוה של 200 דולר, מה שמעיד על אמון בפוטנציאל הצמיחה של החברה. עם זאת, זאקס ריסרץ' הציגה גישה זהירה יותר כאשר היא מורידה את תחזית הרווח למניה לשנת 2026, מה שעלול להעיב מעט על האופטימיות.
     </p>
-<p>
+    <p>
      עסקאות ורכישות רכישת Alphawave בשווי 2.4 מיליארד דולר היא אירוע מכריע עבור קוואלקום, ומציבה אותה בעמדה חזקה בשוק מרכזי הנתונים. צעד אסטרטגי זה עשוי להניע את המניה בכיוונים חיוביים בטווח הארוך, במיוחד עם האמון שמביעים בה אנליסטים מובילים.
     </p>
-<p>
+    <p>
      רגולציה ומשפטים אין דיווחים חדשים לגבי רגולציה או משפטים שעשויים להשפיע באופן משמעותי על המניה בשלב זה. עם זאת, משקיעים יצטרכו לעקוב אחר כל עדכון בנושא, מכיוון שסיכונים רגולטוריים יכולים להשפיע על תעשיית השבבים כולה.
     </p>
-<p>
-     סיכום ומבט קדימה מניית QCOM מציגה איזון מרתק בין כוחות חיוביים, כמו הדירוגים האנליסטיים והפוטנציאל של רכישת Alphawave, לכוחות מאזנים, כגון העדכונים בתחזיות הרווחים. המשך המעקב אחר הדוחות הכספיים הקרובים בסוף יולי יהיה קריטי להבנת הכיוון העתידי של המניה. הרכישה האחרונה עשויה להיות זרז לצמיחה ארוכת טווח, אך חשוב שהמשקיעים יתחשבו בסיכונים הטמונים בתנודתיות הקרובה.
+    <p>
+     סיכום ומבט קדימה מניית QCOM מציגה איזון מרתק בין כוחות חיוביים, כמו הדירוגים האנליסטיים והפוטנציאל של רכישת Alphawave, לכוחות מאזנים, כגון העדכונים בתחזיות הרווחים. המשך המעקב אחר הדוחות הכספיים הקרובים בסוף יולי יהיה קריטי להבנת הכיוון העתידי של המניה. הרכישה ה עשויה להיות זרז לצמיחה ארוכת טווח, אך חשוב שהמשקיעים יתחשבו בסיכונים הטמונים בתנודתיות הקרובה.
     </p>
-</div>
-<div class="disclaimer">
-<strong>
+   </div>
+   <div class="disclaimer">
+    <strong>
      הסתייגות משפטית:
     </strong>
     המידע הנ״ל מבוסס על מקורות מידע שונים ועלול להשתנות בכל עת. המידע המוזכר בכתבה זו מוגבל לצורך מחקר והנאה ואין לראות בכתוב המלצה להשקעה. יש להתייעץ עם יועץ פיננסי לפני קבלת החלטות השקעה.
     <br/>
-<br/>
-<strong>
+    <br/>
+    <strong>
      הערה:
     </strong>
     הניתוח נוצר באמצעות מודל בינה מלאכותית ועלול לכלול שגיאות כתיב או ניסוח. אנו מתנצלים מראש על אי-הדיוקים האפשריים.
     <br/>
-<br/>
-<strong>
+    <br/>
+    <strong>
      מקורות המידע:
     </strong>
     Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl,MarketBeat
     <h3>
      Hippopotamus Research
     </h3>
-</div>
-</div>
-<div class="footer">
-<div class="timestamp">
+   </div>
+  </div>
+  <div class="footer">
+   <div class="timestamp">
     נוצר ב: 19/06/2025 09:27
    </div>
-<div class="source">
+   <div class="source">
     מקורות: Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl,MarketBeat | ניתוח באמצעות aya-expanse:8b
    </div>
-</div>
-<script id="dynamic-text-cleaner-script">
+  </div>
+  <script id="dynamic-text-cleaner-script">
    document.addEventListener("DOMContentLoaded", function() {
   // Check if the cleaner has already run to avoid multiple executions
   if (document.body.dataset.jsCleanerApplied) {
@@ -638,12 +643,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
   const elements = document.querySelectorAll('p, h1, h2, h3, h4, li, span');
   
-  // Regex to find all variations of markers:
-  // - Optional hashes (e.g., #TITLE, ## TITLE)
-  // - The marker words in English (TITLE, SUBTITLE, PARA) with an optional colon
-  // - The marker words in Hebrew (כותרת ראשית, כותרת משנה, פסקה) with an optional colon
-  // - Any remaining hash symbols
-  const regex = /(?:#+\s*)?(?:TITLE|SUBTITLE|PARA|כותרת ראשית|כותרת משנה|פסקה):?|#+/gi;
+  // Regex to match marker words anywhere, with optional colon or space after
+  const regex = /(?:#+\s*)?(TITLE|SUBTITLE|PARA|כותרת ראשית|כותרת משנה|פסקה|ראשונה|שניה|שנייה|שלישית|רביעית|חמישית|שישית|אחרונה)[:：]?/gi;
 
   elements.forEach(el => {
     // We iterate through child nodes to only affect text nodes.
@@ -651,7 +652,7 @@ document.addEventListener('DOMContentLoaded', function() {
     Array.from(el.childNodes).forEach(node => {
       if (node.nodeType === Node.TEXT_NODE) { // Process only text nodes
         const originalText = node.textContent;
-        const newText = originalText.replace(regex, '').trim();
+        const newText = originalText.replace(regex, '').replace(/\s{2,}/g, ' ').trim();
         if (originalText !== newText) {
           node.textContent = newText;
         }
@@ -660,5 +661,5 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 });
   </script>
-</body>
+ </body>
 </html>

@@ -1,15 +1,14 @@
 <!DOCTYPE html>
-
 <html dir="rtl" lang="he">
-<head>
-<meta charset="utf-8"/>
-<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
    דוח ניתוח סיבתיות - SNAP
   </title>
-<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
-<style>
+  <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
+  <style>
    :root {
             --primary-color: #1a1a2e;
             --secondary-color: #16213e;
@@ -229,8 +228,8 @@
             }
         }
   </style>
-<style>
-    .x-share-btn {
+  <style>
+   .x-share-btn {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -314,8 +313,9 @@
       height: 16px;
       display: block;
     }
-    </style><style>
-    .x-share-btn-custom {
+  </style>
+  <style>
+   .x-share-btn-custom {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -399,8 +399,9 @@
       height: 16px;
       display: block;
     }
-    </style><style>
-    .x-share-btn-custom {
+  </style>
+  <style>
+   .x-share-btn-custom {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -508,40 +509,44 @@
       90% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
       100% { opacity: 0; transform: translateX(-50%) scale(0.95); }
     }
-    </style></head>
-<body>
-<div class="container">
-<div class="header">
-<div class="header-content">
-<div class="logo-section">
-<div class="logo-container">
-<img alt="Logo" class="logo-image" src="logo.png"/>
-</div>
-<div class="brand-info">
-<div class="brand-name">
+  </style>
+ </head>
+ <body>
+  <div class="container">
+   <div class="header">
+    <div class="header-content">
+     <div class="logo-section">
+      <div class="logo-container">
+       <img alt="Logo" class="logo-image" src="logo.png"/>
+      </div>
+      <div class="brand-info">
+       <div class="brand-name">
         Hippopotamus Research
        </div>
-<div class="brand-subtitle">
-        מחפשים את הסיבה לתנועות בשוק 
+       <div class="brand-subtitle">
+        מחפשים את הסיבה לתנועות בשוק
        </div>
-</div>
-</div>
-<div class="social-section">
-<div class="ticker-badge">SNAP</div>
-<a class="follow-btn" href="https://twitter.com/your_twitter_handle" rel="noopener" target="_blank">
-<span class="x-icon">
-<img alt="X" src="x.png"/>
-</span>
-    עקבו אחרינו
-  </a>
-<button class="x-share-btn-custom" type="button">
-<span class="x-icon">
-<img alt="X" src="x.png"/>
-</span>
-    שתף ב־X
-  </button>
-</div><script>
-document.addEventListener('DOMContentLoaded', function() {
+      </div>
+     </div>
+     <div class="social-section">
+      <div class="ticker-badge">
+       SNAP
+      </div>
+      <a class="follow-btn" href="https://twitter.com/your_twitter_handle" rel="noopener" target="_blank">
+       <span class="x-icon">
+        <img alt="X" src="x.png"/>
+       </span>
+       עקבו אחרינו
+      </a>
+      <button class="x-share-btn-custom" type="button">
+       <span class="x-icon">
+        <img alt="X" src="x.png"/>
+       </span>
+       שתף ב־X
+      </button>
+     </div>
+     <script>
+      document.addEventListener('DOMContentLoaded', function() {
   document.querySelectorAll('.x-share-btn-custom').forEach(function(btn) {
     btn.addEventListener('click', function(e) {
       e.preventDefault();
@@ -560,81 +565,81 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   });
 });
-</script>
-</div>
-</div>
-<div class="content">
-<div class="newsletter-section" style="margin:12px auto 20px auto;max-width:260px;padding:0;background:none;border:none;box-shadow:none;border-radius:0;position:relative;z-index:2;">
-<h3 style="font-weight:400;opacity:0.5;font-size:0.85em;margin-bottom:2px;margin-top:0;color:var(--accent-color);">
+     </script>
+    </div>
+   </div>
+   <div class="content">
+    <div class="newsletter-section" style="margin:12px auto 20px auto;max-width:260px;padding:0;background:none;border:none;box-shadow:none;border-radius:0;position:relative;z-index:2;">
+     <h3 style="font-weight:400;opacity:0.5;font-size:0.85em;margin-bottom:2px;margin-top:0;color:var(--accent-color);">
       הצטרפו לרשימת התפוצה שלנו
      </h3>
-<iframe class="newsletter-iframe" scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="height:110px;width:100%;border:none;background:none;box-shadow:none;border-radius:0;">
-</iframe>
-</div>
-<div class="article-content">
-<p>
+     <iframe class="newsletter-iframe" scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="height:110px;width:100%;border:none;background:none;box-shadow:none;border-radius:0;">
+     </iframe>
+    </div>
+    <div class="article-content">
+     <p>
       SNAP
      </p>
-</div>
-<p>
+    </div>
+    <p>
      ניתוח תנועת המניה של Snap Inc. (NYSE: SNAP) - 12 ביולי
     </p>
-<p>
+    <p>
      מניית Snap Inc. (SNAP) חוותה ירידה עקב מכירות פנימיות משמעותיות, אך אופטימיות לטווח הארוך נותרה בעינה בקרב אנליסטים. התנועה הנוכחית מציבה אתגרים, אך גם הזדמנויות לחברה להציג את עוצמתה בשוק התחרותי של המדיה החברתית.
     </p>
-<p>
+    <p>
      הנהלה ומוסדות: דירקטיבית, המכירות הפנימיות על ידי מנהלים וחברים פנימיים מעידות על אמון מסוים בחברה, אך גם על חששות אפשריים לגבי העתיד הקרוב. דרק אנדרסן, מנכ"ל החברה, יחד עם חברי צוות בכירים אחרים, מכרו חלק ממניותיהם במחיר שווה לכל נפש, מה שעשוי להעיד על אסטרטגיה לניהול נזילות או על כוונה לשמור על יציבות המניה בטווח הקצר.
     </p>
-<p>
+    <p>
      אג'יט מוהאן, חבר פנימי, הפגין אמון דומה בחברה עם מכירת מניותיו, מה שמצביע על אמונה ביכולותיה של Snap להמשיך לצמוח ולהתפתח. עם זאת, יש לציין כי אירועי מכירה פנימית הם חלק מהנורמה בתעשיית הטכנולוגיה, ומספקים תובנה לגבי כוונותיהם של מנהיגי החברה, אך אינם מעידים באופן חד-משמעי על מגמות עתידיות.
     </p>
-<p>
+    <p>
      אנליטיקה ותצפיות: המשקיעים מוצאים נחמה בתחזיות אופטימיות של אנליסטים. Seeking Alpha מציג תזה חיובית המדגישה את הצמיחה המשמעותית במספר המנויים, את השיפור באפליקציית Spotlight ואת יכולותיה של Snap Map. ההשוואה בין Snap ל-PINS על ידי זאקס מדגישה את החוזק היחסי של שתי הפלטפורמות, ללא הכרעה ברורה, מה שמצביע על פוטנציאל שווה לצמיחה.
     </p>
-<p>
+    <p>
      רגולציה וסביבה עסקית: הסביבה הרגולטורית נותרה דינמית עבור חברות טכנולוגיה, עם דגש מתמשך על פרטיות נתונים והגנת הצרכן. Snap, כמו כל שחקן בשוק, צריכה להתאים את עצמה למסגרת המשפטית המשתנה, מה שעלול להשפיע על אסטרטגיית התוכן שלה ועל שותפויות פוטנציאליות.
     </p>
-<p>
+    <p>
      שיח ציבורי: השיח הציבורי סביב Snap מתמקד בעיקר בחדשנותה של החברה ובאופן בו היא שומרת על רלוונטיות בקרב משתמשים צעירים. עם זאת, יש חששות לגבי המוניטיזציה שלה והכנסאות מתמשכות, במיוחד בהשוואה למתחרים מבוססים יותר.
     </p>
-<p>
-     סיכום: התנועה האחרונה במניית SNAP משקפת את המורכבות של סקטור המדיה החברתית. בעוד שמכירות פנימיות יכולות להצביע על זהירות בקרב ההנהלה, האנליטיקה החיובית ותחזיות הצמיחה לטווח הארוך מספקות תמיכה אופטימית. Snap נמצאת בצומת דרכים קריטית, בה היא צריכה לאזן בין שמירה על חדשנותה לבין התאמה לסביבה רגולטורית משתנה.
+    <p>
+     סיכום: התנועה ה במניית SNAP משקפת את המורכבות של סקטור המדיה החברתית. בעוד שמכירות פנימיות יכולות להצביע על זהירות בקרב ההנהלה, האנליטיקה החיובית ותחזיות הצמיחה לטווח הארוך מספקות תמיכה אופטימית. Snap נמצאת בצומת דרכים קריטית, בה היא צריכה לאזן בין שמירה על חדשנותה לבין התאמה לסביבה רגולטורית משתנה.
     </p>
-<p>
+    <p>
      המצב הנוכחי מציע הזדמנות מעניינת למשקיעים לטווח הארוך, אך דורש מעקב צמוד כדי להעריך את השפעת האירועים האחרונים על האסטרטגיה העסקית של החברה ועל הביצועים העתידיים שלה בשוק תחרותי.
     </p>
-</div>
-<div class="disclaimer">
-<strong>
+   </div>
+   <div class="disclaimer">
+    <strong>
      הסתייגות משפטית:
     </strong>
     המידע הנ״ל מבוסס על מקורות מידע שונים ועלול להשתנות בכל עת. המידע המוזכר בכתבה זו מוגבל לצורך מחקר והנאה ואין לראות בכתוב המלצה להשקעה. יש להתייעץ עם יועץ פיננסי לפני קבלת החלטות השקעה.
     <br/>
-<br/>
-<strong>
+    <br/>
+    <strong>
      הערה:
     </strong>
     הניתוח נוצר באמצעות מודל בינה מלאכותית ועלול לכלול שגיאות כתיב או ניסוח. אנו מתנצלים מראש על אי-הדיוקים האפשריים.
     <br/>
-<br/>
-<strong>
+    <br/>
+    <strong>
      מקורות המידע:
     </strong>
     Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl,MarketBeat
     <h3>
      Hippopotamus Research
     </h3>
-</div>
-</div>
-<div class="footer">
-<div class="timestamp">
+   </div>
+  </div>
+  <div class="footer">
+   <div class="timestamp">
     נוצר ב: 19/06/2025 09:20
    </div>
-<div class="source">
+   <div class="source">
     מקורות: Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl,MarketBeat | ניתוח באמצעות aya-expanse:8b
    </div>
-</div>
-<script id="dynamic-text-cleaner-script">
+  </div>
+  <script id="dynamic-text-cleaner-script">
    document.addEventListener("DOMContentLoaded", function() {
   // Check if the cleaner has already run to avoid multiple executions
   if (document.body.dataset.jsCleanerApplied) {
@@ -644,12 +649,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
   const elements = document.querySelectorAll('p, h1, h2, h3, h4, li, span');
   
-  // Regex to find all variations of markers:
-  // - Optional hashes (e.g., #TITLE, ## TITLE)
-  // - The marker words in English (TITLE, SUBTITLE, PARA) with an optional colon
-  // - The marker words in Hebrew (כותרת ראשית, כותרת משנה, פסקה) with an optional colon
-  // - Any remaining hash symbols
-  const regex = /(?:#+\s*)?(?:TITLE|SUBTITLE|PARA|כותרת ראשית|כותרת משנה|פסקה):?|#+/gi;
+  // Regex to match marker words anywhere, with optional colon or space after
+  const regex = /(?:#+\s*)?(TITLE|SUBTITLE|PARA|כותרת ראשית|כותרת משנה|פסקה|ראשונה|שניה|שנייה|שלישית|רביעית|חמישית|שישית|אחרונה)[:：]?/gi;
 
   elements.forEach(el => {
     // We iterate through child nodes to only affect text nodes.
@@ -657,7 +658,7 @@ document.addEventListener('DOMContentLoaded', function() {
     Array.from(el.childNodes).forEach(node => {
       if (node.nodeType === Node.TEXT_NODE) { // Process only text nodes
         const originalText = node.textContent;
-        const newText = originalText.replace(regex, '').trim();
+        const newText = originalText.replace(regex, '').replace(/\s{2,}/g, ' ').trim();
         if (originalText !== newText) {
           node.textContent = newText;
         }
@@ -666,5 +667,5 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 });
   </script>
-</body>
+ </body>
 </html>

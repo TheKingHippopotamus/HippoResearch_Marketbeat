@@ -1,15 +1,14 @@
 <!DOCTYPE html>
-
 <html dir="rtl" lang="he">
-<head>
-<meta charset="utf-8"/>
-<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
    דוח ניתוח סיבתיות - NUE
   </title>
-<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
-<style>
+  <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
+  <style>
    :root {
             --primary-color: #1a1a2e;
             --secondary-color: #16213e;
@@ -229,8 +228,8 @@
             }
         }
   </style>
-<style>
-    .x-share-btn {
+  <style>
+   .x-share-btn {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -314,8 +313,9 @@
       height: 16px;
       display: block;
     }
-    </style><style>
-    .x-share-btn-custom {
+  </style>
+  <style>
+   .x-share-btn-custom {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -399,8 +399,9 @@
       height: 16px;
       display: block;
     }
-    </style><style>
-    .x-share-btn-custom {
+  </style>
+  <style>
+   .x-share-btn-custom {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -508,40 +509,44 @@
       90% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
       100% { opacity: 0; transform: translateX(-50%) scale(0.95); }
     }
-    </style></head>
-<body>
-<div class="container">
-<div class="header">
-<div class="header-content">
-<div class="logo-section">
-<div class="logo-container">
-<img alt="Logo" class="logo-image" src="logo.png"/>
-</div>
-<div class="brand-info">
-<div class="brand-name">
+  </style>
+ </head>
+ <body>
+  <div class="container">
+   <div class="header">
+    <div class="header-content">
+     <div class="logo-section">
+      <div class="logo-container">
+       <img alt="Logo" class="logo-image" src="logo.png"/>
+      </div>
+      <div class="brand-info">
+       <div class="brand-name">
         Hippopotamus Research
        </div>
-<div class="brand-subtitle">
-        מחפשים את הסיבה לתנועות בשוק 
+       <div class="brand-subtitle">
+        מחפשים את הסיבה לתנועות בשוק
        </div>
-</div>
-</div>
-<div class="social-section">
-<div class="ticker-badge">NUE</div>
-<a class="follow-btn" href="https://twitter.com/your_twitter_handle" rel="noopener" target="_blank">
-<span class="x-icon">
-<img alt="X" src="x.png"/>
-</span>
-    עקבו אחרינו
-  </a>
-<button class="x-share-btn-custom" type="button">
-<span class="x-icon">
-<img alt="X" src="x.png"/>
-</span>
-    שתף ב־X
-  </button>
-</div><script>
-document.addEventListener('DOMContentLoaded', function() {
+      </div>
+     </div>
+     <div class="social-section">
+      <div class="ticker-badge">
+       NUE
+      </div>
+      <a class="follow-btn" href="https://twitter.com/your_twitter_handle" rel="noopener" target="_blank">
+       <span class="x-icon">
+        <img alt="X" src="x.png"/>
+       </span>
+       עקבו אחרינו
+      </a>
+      <button class="x-share-btn-custom" type="button">
+       <span class="x-icon">
+        <img alt="X" src="x.png"/>
+       </span>
+       שתף ב־X
+      </button>
+     </div>
+     <script>
+      document.addEventListener('DOMContentLoaded', function() {
   document.querySelectorAll('.x-share-btn-custom').forEach(function(btn) {
     btn.addEventListener('click', function(e) {
       e.preventDefault();
@@ -560,78 +565,78 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   });
 });
-</script>
-</div>
-</div>
-<div class="content">
-<div class="newsletter-section" style="margin:12px auto 20px auto;max-width:260px;padding:0;background:none;border:none;box-shadow:none;border-radius:0;position:relative;z-index:2;">
-<h3 style="font-weight:400;opacity:0.5;font-size:0.85em;margin-bottom:2px;margin-top:0;color:var(--accent-color);">
+     </script>
+    </div>
+   </div>
+   <div class="content">
+    <div class="newsletter-section" style="margin:12px auto 20px auto;max-width:260px;padding:0;background:none;border:none;box-shadow:none;border-radius:0;position:relative;z-index:2;">
+     <h3 style="font-weight:400;opacity:0.5;font-size:0.85em;margin-bottom:2px;margin-top:0;color:var(--accent-color);">
       הצטרפו לרשימת התפוצה שלנו
      </h3>
-<iframe class="newsletter-iframe" scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="height:110px;width:100%;border:none;background:none;box-shadow:none;border-radius:0;">
-</iframe>
-</div>
-<div class="article-content">
-<p>
+     <iframe class="newsletter-iframe" scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="height:110px;width:100%;border:none;background:none;box-shadow:none;border-radius:0;">
+     </iframe>
+    </div>
+    <div class="article-content">
+     <p>
       NUE
      </p>
-</div>
-<h3 class="section-header">
+    </div>
+    <h3 class="section-header">
      ניתוח תנועת מניית NUE: חשיפת הדינמיקה מאחורי העליות האחרונות
     </h3>
-<p>
+    <p>
      סקירה כללית מניית NUE של נוקור קורפוריישן (NYSE: NUE) מציגה תנודתיות יומיומית מרתקת, כאשר הגורמים המשפיעים על מחירה מגוונים ומורכבים. הדוח הנוכחי חושף את הדינמיקה החיובית והשלילית הפועלות על המניה, ומספק תובנות לגבי הכיוון העתידי שלה.
     </p>
-<p>
-     הנהלה ותחזיות העלייה האחרונה במחיר המניה מיוחסת בעיקר לעדכון התחזיות האופטימי של החברה לרבעון השני של 2025. NUE הציגה תחזית מעודדת של 2.55–2.65 דולר למניה, שמעלה את הסבילות לרווחים משמעותיים. האנליסטים מפרשים זאת כסימן לשיפור בביצועים בכל מגזרי הפעילות של החברה, מה שמוביל לעלייה בתשומת הלב של המשקיעים. עם זאת, חשוב לציין שסיפורט ריסרץ' פרטנרס, ברצף של עדכונים, קצצה את תחזית הרווח למניה לרבעון השני ל-2.29 דולר, מה שמעיד על ספקנות מסוימת בקרב חלק מהמומחים.
+    <p>
+     הנהלה ותחזיות העלייה ה במחיר המניה מיוחסת בעיקר לעדכון התחזיות האופטימי של החברה לרבעון השני של 2025. NUE הציגה תחזית מעודדת של 2.55–2.65 דולר למניה, שמעלה את הסבילות לרווחים משמעותיים. האנליסטים מפרשים זאת כסימן לשיפור בביצועים בכל מגזרי הפעילות של החברה, מה שמוביל לעלייה בתשומת הלב של המשקיעים. עם זאת, חשוב לציין שסיפורט ריסרץ' פרטנרס, ברצף של עדכונים, קצצה את תחזית הרווח למניה לרבעון השני ל-2.29 דולר, מה שמעיד על ספקנות מסוימת בקרב חלק מהמומחים.
     </p>
-<p>
+    <p>
      מוסדות ואסטרטגיות השקעה מגמת השורט (שורט טייקינג) ב-NUE מושכת תשומת לב. מספר כלי מחקר מציינים את העלייה בפוזיציות השורט במאי, עם 7.28 מיליון מניות שנסחרו בשורט, מה שמצביע על חששות פוטנציאליים בקרב המשקיעים קצרי הטווח. עם זאת, הנחיות החברה האופטימיות תרמו להמלצות קנייה מצד ברוקרים רבים, המעודדים את בעלי המניות לקרוא למניה. הדינמיקה הזו מדגישה את הסתירה בין האסטרטגיות הקצרות והארוכות טווח המשפיעות על תנודתיות המניה.
     </p>
-<p>
+    <p>
      רגולציה וסביבה עסקית הסביבה הרגולטורית והמשפטית נותנות את הטון לעתיד NUE. בעוד שהחברה מציגה ביצועים חזקים, עדכונים משפטיים עלולים להשפיע על המניה. צפי לריבית גבוהה יותר והשפעות סביבתיות על העסקים עשויים ליצור אתגרים, אך נראה כי החברה מתמודדת איתם בהצלחה, כפי שמעידות התחזיות המוגברות שלה.
     </p>
-<p>
+    <p>
      מגמות סקטוריאליות ושיח ציבורי המגמה החיובית בסקטור הטכנולוגיה יכולה לתרום לעלייה ב-NUE, מכיוון שהחברה פועלת בתחום זה. עם זאת, שיח ציבורי סביב רגולציה מחמירה עלול להשפיע על המניה באופן שלילי, במיוחד לאור היסטוריית העסקאות שלה. איזון עדין בין חדשנות לרגולציה הוא קריטי עבור החברה, ומניה זו משקפת את הדילמה הזו.
     </p>
-<p>
+    <p>
      סיכום ומבט קדימה מניית NUE מציגה תמונה מורכבת של כוחות חיוביים ושליליים. הצד החיובי כולל תחזיות מוגברות, אסטרטגיות השקעה תומכות, וביצועים חזקים במגזרי הפעילות השונים. עם זאת, פוזיציות שורט גבוהות, עדכונים משפטיים, וסביבה עסקית משתנה מציבים אתגרים.
     </p>
-<p>
+    <p>
      המצב הנוכחי מצביע על איזון עדין בין אופטימיות לסקפטיות. המשך המעקב אחר חדשות החברה, מגמות סקטוריאליות, והתפתחויות רגולטוריות חיוני כדי להעריך את הכיוון העתידי של NUE. הסיכונים והסיכויים נמצאים במאבק, מה שמציב בפני המשקיעים הזדמנות לניתוח מעמיק לפני קבלת החלטות השקעה.
     </p>
-</div>
-<div class="disclaimer">
-<strong>
+   </div>
+   <div class="disclaimer">
+    <strong>
      הסתייגות משפטית:
     </strong>
     המידע הנ״ל מבוסס על מקורות מידע שונים ועלול להשתנות בכל עת. המידע המוזכר בכתבה זו מוגבל לצורך מחקר והנאה ואין לראות בכתוב המלצה להשקעה. יש להתייעץ עם יועץ פיננסי לפני קבלת החלטות השקעה.
     <br/>
-<br/>
-<strong>
+    <br/>
+    <strong>
      הערה:
     </strong>
     הניתוח נוצר באמצעות מודל בינה מלאכותית ועלול לכלול שגיאות כתיב או ניסוח. אנו מתנצלים מראש על אי-הדיוקים האפשריים.
     <br/>
-<br/>
-<strong>
+    <br/>
+    <strong>
      מקורות המידע:
     </strong>
     Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl
     <h3>
      Hippopotamus Research
     </h3>
-</div>
-</div>
-<div class="footer">
-<div class="timestamp">
+   </div>
+  </div>
+  <div class="footer">
+   <div class="timestamp">
     נוצר ב: 19/06/2025 13:53
    </div>
-<div class="source">
+   <div class="source">
     מקורות: Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl | ניתוח באמצעות aya-expanse:8b
    </div>
-</div>
-<script id="dynamic-text-cleaner-script">
+  </div>
+  <script id="dynamic-text-cleaner-script">
    document.addEventListener("DOMContentLoaded", function() {
   // Check if the cleaner has already run to avoid multiple executions
   if (document.body.dataset.jsCleanerApplied) {
@@ -641,12 +646,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
   const elements = document.querySelectorAll('p, h1, h2, h3, h4, li, span');
   
-  // Regex to find all variations of markers:
-  // - Optional hashes (e.g., #TITLE, ## TITLE)
-  // - The marker words in English (TITLE, SUBTITLE, PARA) with an optional colon
-  // - The marker words in Hebrew (כותרת ראשית, כותרת משנה, פסקה) with an optional colon
-  // - Any remaining hash symbols
-  const regex = /(?:#+\s*)?(?:TITLE|SUBTITLE|PARA|כותרת ראשית|כותרת משנה|פסקה):?|#+/gi;
+  // Regex to match marker words anywhere, with optional colon or space after
+  const regex = /(?:#+\s*)?(TITLE|SUBTITLE|PARA|כותרת ראשית|כותרת משנה|פסקה|ראשונה|שניה|שנייה|שלישית|רביעית|חמישית|שישית|אחרונה)[:：]?/gi;
 
   elements.forEach(el => {
     // We iterate through child nodes to only affect text nodes.
@@ -654,7 +655,7 @@ document.addEventListener('DOMContentLoaded', function() {
     Array.from(el.childNodes).forEach(node => {
       if (node.nodeType === Node.TEXT_NODE) { // Process only text nodes
         const originalText = node.textContent;
-        const newText = originalText.replace(regex, '').trim();
+        const newText = originalText.replace(regex, '').replace(/\s{2,}/g, ' ').trim();
         if (originalText !== newText) {
           node.textContent = newText;
         }
@@ -663,5 +664,5 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 });
   </script>
-</body>
+ </body>
 </html>

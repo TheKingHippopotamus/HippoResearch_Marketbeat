@@ -1,15 +1,14 @@
 <!DOCTYPE html>
-
 <html dir="rtl" lang="he">
-<head>
-<meta charset="utf-8"/>
-<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
    Advanced Micro Devices (AMD) - מחקר כלכלי מתקדם | Hippopotamus Research
   </title>
-<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
-<style>
+  <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
+  <style>
    :root {
             --primary-color: #1a1a2e;
             --secondary-color: #16213e;
@@ -229,8 +228,8 @@
             }
         }
   </style>
-<style>
-    .x-share-btn {
+  <style>
+   .x-share-btn {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -314,8 +313,9 @@
       height: 16px;
       display: block;
     }
-    </style><style>
-    .x-share-btn-custom {
+  </style>
+  <style>
+   .x-share-btn-custom {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -399,8 +399,9 @@
       height: 16px;
       display: block;
     }
-    </style><style>
-    .x-share-btn-custom {
+  </style>
+  <style>
+   .x-share-btn-custom {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -508,40 +509,44 @@
       90% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
       100% { opacity: 0; transform: translateX(-50%) scale(0.95); }
     }
-    </style></head>
-<body>
-<div class="container">
-<div class="header">
-<div class="header-content">
-<div class="logo-section">
-<div class="logo-container">
-<img alt="Logo" class="logo-image" src="logo.png"/>
-</div>
-<div class="brand-info">
-<div class="brand-name">
+  </style>
+ </head>
+ <body>
+  <div class="container">
+   <div class="header">
+    <div class="header-content">
+     <div class="logo-section">
+      <div class="logo-container">
+       <img alt="Logo" class="logo-image" src="logo.png"/>
+      </div>
+      <div class="brand-info">
+       <div class="brand-name">
         Hippopotamus Research
        </div>
-<div class="brand-subtitle">
+       <div class="brand-subtitle">
         מחקר כלכלי מתקדם
        </div>
-</div>
-</div>
-<div class="social-section">
-<div class="ticker-badge">AMD</div>
-<a class="follow-btn" href="https://twitter.com/your_twitter_handle" rel="noopener" target="_blank">
-<span class="x-icon">
-<img alt="X" src="x.png"/>
-</span>
-    עקבו אחרינו
-  </a>
-<button class="x-share-btn-custom" type="button">
-<span class="x-icon">
-<img alt="X" src="x.png"/>
-</span>
-    שתף ב־X
-  </button>
-</div><script>
-document.addEventListener('DOMContentLoaded', function() {
+      </div>
+     </div>
+     <div class="social-section">
+      <div class="ticker-badge">
+       AMD
+      </div>
+      <a class="follow-btn" href="https://twitter.com/your_twitter_handle" rel="noopener" target="_blank">
+       <span class="x-icon">
+        <img alt="X" src="x.png"/>
+       </span>
+       עקבו אחרינו
+      </a>
+      <button class="x-share-btn-custom" type="button">
+       <span class="x-icon">
+        <img alt="X" src="x.png"/>
+       </span>
+       שתף ב־X
+      </button>
+     </div>
+     <script>
+      document.addEventListener('DOMContentLoaded', function() {
   document.querySelectorAll('.x-share-btn-custom').forEach(function(btn) {
     btn.addEventListener('click', function(e) {
       e.preventDefault();
@@ -560,119 +565,119 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   });
 });
-</script>
-</div>
-</div>
-<div class="content">
-<div class="article-content">
-<div class="article-content-text">
-<h1>
+     </script>
+    </div>
+   </div>
+   <div class="content">
+    <div class="article-content">
+     <div class="article-content-text">
+      <h3>
        מהפכת החומרה: AMD מובילה את הדרך בבינה מלאכותית ובטכנולוגיה מתקדמת
-      </h1>
-<h2>
+      </h3>
+      <h3>
        יצירת היסטוריה בשוק המוליכים למחצה
-      </h2>
-<p>
+      </h3>
+      <p>
        חברת Advanced Micro Devices (AMD), ענקית הטכנולוגיה המקומית מסנטה קלארה, קליפורניה, נמצאת במוקד תשומת הלב של עולם ההשקעות והטכנולוגיה. המניה שלה חווה עליות מרשימות לאחר סדרה של חדשות מרגשות וזינוק בפעילות האנליסטית החיובית.
       </p>
-<p>
+      <p>
        ברוקרים מובילים, כולל פייפר סנדלר, רות' קפיטל, ואורקור ISI, מביעים אופטימיות לגבי עתיד החברה, עם דירוגים חיוביים והעלאת מחירי יעד. החציון המשוער של מחיר היעד עומד על 145.50 דולר, כאשר כמה אנליסטים מגיעים אפילו ל-160 דולר למניה.
       </p>
-<h2>
+      <h3>
        סדרת ה-GPU MI400: ניצחון עיצובי בתשתית בינה מלאכותית
-      </h2>
-<p>
+      </h3>
+      <p>
        אחד ההישגים הבולטים של AMD הוא פיתוח סדרת ה-GPU MI400, אשר עשויה להפוך לחלק מרכזי בפרויקט תשתית הבינה המלאכותית "Stargate" של ממשלת ארצות הברית. פרויקט זה, בשווי 500 מיליארד דולר, מציב את AMD בעמדה חזקה בתחרות עיצובית עזה.
       </p>
-<p>
+      <p>
        הניצחון הפוטנציאלי הזה מדגיש את יכולותיה של החברה בתחום הבינה המלאכותית ואת הטכנולוגיה המתקדמת שהיא מביאה לשוק.
       </p>
-<h2>
+      <h3>
        ביצועים פיננסיים יוצאי דופן
-      </h2>
-<p>
+      </h3>
+      <p>
        דוחות החודש האחרון של AMD חשפו צמיחה מרשימה בהכנסות, עם עלייה של 36% במכירות משנה לשנה. הרווחים למניה עקפו גם הם את הציפיות, מה שהוביל לעלייה חדה במחיר המניה.
       </p>
-<p>
+      <p>
        שמועות על עסקה גדולה לאספקת כרטיסי מסך עבור Amazon Web Services (AWS) תרמו לתנופה זו, יחד עם הביקוש הגובר למוצרי AMD, במיוחד למעבדי Ryzen ולמחשבי AI.
       </p>
-<h2>
+      <h3>
        אמון המשקיעים והמומנטום בשוק
-      </h2>
-<p>
+      </h3>
+      <p>
        חברי קונגרס, כמו מרג'ורי טיילור גרין, הוכיחו את אמונם ב-AMD על ידי רכישת מניות החברה, מה שמצביע על ביטחון גובר מצד משקיעים מוסדיים.
       </p>
-<p>
+      <p>
        המניה של AMD עלתה יותר מ-60% מאז השפל בתחילת אפריל, מושכת משקיעים המחפשים הזדמנויות בשוק המוליכים למחצה.
       </p>
-<h2>
+      <h3>
        תחזיות וניתוח
-      </h2>
-<p>
+      </h3>
+      <p>
        אנליסטים ממשיכים לנתח את הפוטנציאל של AMD. Zacks, למשל, כיוונה את המבט אל ארבע מניות רובוטיקה מבטיחות למחצית השנייה של 2025, כולל AMD, TSLA, CDNS, ו-SERV.
       </p>
-<p>
+      <p>
        עם זאת, דוחות טרום שיווק מציגים תחזיות מעורבות עבור יצרניות השבבים, כאשר AMD נראית אופטימית אך לא מובילה את הדרך בהכנסות ממאיצי בינה מלאכותית, כפי שחושף ניתוח אחרון.
       </p>
-<h2>
+      <h3>
        פעילות פנימית של בעלי מניות
-      </h2>
-<p>
+      </h3>
+      <p>
        פעילות מעניינת צצה מצד בכירי החברה. Chief Technology Officer (CTO), מארק פפרמאסטר, מכר יותר מ-70,000 מניות בחמשת החודשים האחרונים, מה שמעלה שאלות לגבי אמון ההנהלה במניה.
       </p>
-<p>
+      <p>
        בנוסף, מוסדות גדולים כמו Fisher Asset Management, Jennison Associates, ו-Baillie Gifford הפחיתו באופן דרסטי את החזקותיהם ב-AMD ברבעון הראשון, מה שיכול להצביע על אסטרטגיות ניהול סיכונים.
       </p>
-<h2>
+      <h3>
        עתיד לא בטוח
-      </h2>
-<p>
+      </h3>
+      <p>
        למרות האופטימיות סביב AMD, ישנם גורמים מגבילים. חוסר ודאות מקרו-כלכלית, כולל דאגות לגבי אינפלציה, ריביות, ומכסי סחר, עלולה להגביל את העליות החדה עד להופעת קטליזטורים חדשים.
       </p>
-<p>
+      <p>
        עם זאת, עבור משקיעים בעלי סבלנות ואופק זמן ארוך, AMD מציעה הזדמנות מרגשת לחקור את הפוטנציאל העצום שלה בעידן של בינה מלאכותית וטכנולוגיה מתקדמת.
       </p>
-</div>
-</div>
-<div class="disclaimer">
-<strong>
+     </div>
+    </div>
+    <div class="disclaimer">
+     <strong>
       הסתייגות משפטית:
      </strong>
      המידע הנ״ל מבוסס על מקורות מידע שונים ועלול להשתנות בכל עת. המידע המוזכר בכתבה זו מוגבל לצורך מחקר והנאה ואין לראות בכתוב המלצה להשקעה.
      <br/>
-<br/>
-<strong>
+     <br/>
+     <strong>
       הערה:
      </strong>
      הניתוח נוצר באמצעות מודל בינה מלאכותית ועלול לכלול שגיאות כתיב או ניסוח. אנו מתנצלים מראש על אי-הדיוקים האפשריים.
      <br/>
-<br/>
-<strong>
+     <br/>
+     <strong>
       מקורות המידע:
      </strong>
      Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl
      <h3>
       Hippopotamus Research
      </h3>
-</div>
-<div class="newsletter-section" style="margin: 0 auto 24px auto; max-width: 400px; text-align: center;">
-<div style="font-size: 1em; color: var(--accent-color); margin-bottom: 6px; font-weight: 500; opacity: 0.85;">
+    </div>
+    <div class="newsletter-section" style="margin: 0 auto 24px auto; max-width: 400px; text-align: center;">
+     <div style="font-size: 1em; color: var(--accent-color); margin-bottom: 6px; font-weight: 500; opacity: 0.85;">
       הצטרפו לעדכונים במייל
      </div>
-<iframe scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="width:100%!important; height:120px; border:none!important; border-radius:12px; background:#fff; box-shadow:0 2px 8px rgba(15,52,96,0.07);" title="הרשמה לניוזלטר">
-</iframe>
-</div>
-</div>
-<div class="footer">
-<div class="timestamp">
+     <iframe scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="width:100%!important; height:120px; border:none!important; border-radius:12px; background:#fff; box-shadow:0 2px 8px rgba(15,52,96,0.07);" title="הרשמה לניוזלטר">
+     </iframe>
+    </div>
+   </div>
+   <div class="footer">
+    <div class="timestamp">
      נוצר ב: 22/06/2025 00:31
     </div>
-<div class="source">
+    <div class="source">
      מקורות: Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl | ניתוח באמצעות aya-expanse:8b
     </div>
-</div>
-</div>
-<script id="dynamic-text-cleaner-script">
+   </div>
+  </div>
+  <script id="dynamic-text-cleaner-script">
    document.addEventListener("DOMContentLoaded", function() {
   // Check if the cleaner has already run to avoid multiple executions
   if (document.body.dataset.jsCleanerApplied) {
@@ -682,12 +687,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
   const elements = document.querySelectorAll('p, h1, h2, h3, h4, li, span');
   
-  // Regex to find all variations of markers:
-  // - Optional hashes (e.g., #TITLE, ## TITLE)
-  // - The marker words in English (TITLE, SUBTITLE, PARA) with an optional colon
-  // - The marker words in Hebrew (כותרת ראשית, כותרת משנה, פסקה) with an optional colon
-  // - Any remaining hash symbols
-  const regex = /(?:#+\s*)?(?:TITLE|SUBTITLE|PARA|כותרת ראשית|כותרת משנה|פסקה):?|#+/gi;
+  // Regex to match marker words anywhere, with optional colon or space after
+  const regex = /(?:#+\s*)?(TITLE|SUBTITLE|PARA|כותרת ראשית|כותרת משנה|פסקה|ראשונה|שניה|שנייה|שלישית|רביעית|חמישית|שישית|אחרונה)[:：]?/gi;
 
   elements.forEach(el => {
     // We iterate through child nodes to only affect text nodes.
@@ -695,7 +696,7 @@ document.addEventListener('DOMContentLoaded', function() {
     Array.from(el.childNodes).forEach(node => {
       if (node.nodeType === Node.TEXT_NODE) { // Process only text nodes
         const originalText = node.textContent;
-        const newText = originalText.replace(regex, '').trim();
+        const newText = originalText.replace(regex, '').replace(/\s{2,}/g, ' ').trim();
         if (originalText !== newText) {
           node.textContent = newText;
         }
@@ -704,5 +705,5 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 });
   </script>
-</body>
+ </body>
 </html>

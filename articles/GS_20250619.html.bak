@@ -1,15 +1,14 @@
 <!DOCTYPE html>
-
 <html dir="rtl" lang="he">
-<head>
-<meta charset="utf-8"/>
-<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
    דוח ניתוח סיבתיות - GS
   </title>
-<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
-<style>
+  <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
+  <style>
    :root {
             --primary-color: #1a1a2e;
             --secondary-color: #16213e;
@@ -229,8 +228,8 @@
             }
         }
   </style>
-<style>
-    .x-share-btn {
+  <style>
+   .x-share-btn {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -314,8 +313,9 @@
       height: 16px;
       display: block;
     }
-    </style><style>
-    .x-share-btn-custom {
+  </style>
+  <style>
+   .x-share-btn-custom {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -399,8 +399,9 @@
       height: 16px;
       display: block;
     }
-    </style><style>
-    .x-share-btn-custom {
+  </style>
+  <style>
+   .x-share-btn-custom {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -508,40 +509,44 @@
       90% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
       100% { opacity: 0; transform: translateX(-50%) scale(0.95); }
     }
-    </style></head>
-<body>
-<div class="container">
-<div class="header">
-<div class="header-content">
-<div class="logo-section">
-<div class="logo-container">
-<img alt="Logo" class="logo-image" src="logo.png"/>
-</div>
-<div class="brand-info">
-<div class="brand-name">
+  </style>
+ </head>
+ <body>
+  <div class="container">
+   <div class="header">
+    <div class="header-content">
+     <div class="logo-section">
+      <div class="logo-container">
+       <img alt="Logo" class="logo-image" src="logo.png"/>
+      </div>
+      <div class="brand-info">
+       <div class="brand-name">
         Hippopotamus Research
        </div>
-<div class="brand-subtitle">
-        מחפשים את הסיבה לתנועות בשוק 
+       <div class="brand-subtitle">
+        מחפשים את הסיבה לתנועות בשוק
        </div>
-</div>
-</div>
-<div class="social-section">
-<div class="ticker-badge">GS</div>
-<a class="follow-btn" href="https://twitter.com/your_twitter_handle" rel="noopener" target="_blank">
-<span class="x-icon">
-<img alt="X" src="x.png"/>
-</span>
-    עקבו אחרינו
-  </a>
-<button class="x-share-btn-custom" type="button">
-<span class="x-icon">
-<img alt="X" src="x.png"/>
-</span>
-    שתף ב־X
-  </button>
-</div><script>
-document.addEventListener('DOMContentLoaded', function() {
+      </div>
+     </div>
+     <div class="social-section">
+      <div class="ticker-badge">
+       GS
+      </div>
+      <a class="follow-btn" href="https://twitter.com/your_twitter_handle" rel="noopener" target="_blank">
+       <span class="x-icon">
+        <img alt="X" src="x.png"/>
+       </span>
+       עקבו אחרינו
+      </a>
+      <button class="x-share-btn-custom" type="button">
+       <span class="x-icon">
+        <img alt="X" src="x.png"/>
+       </span>
+       שתף ב־X
+      </button>
+     </div>
+     <script>
+      document.addEventListener('DOMContentLoaded', function() {
   document.querySelectorAll('.x-share-btn-custom').forEach(function(btn) {
     btn.addEventListener('click', function(e) {
       e.preventDefault();
@@ -560,81 +565,81 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   });
 });
-</script>
-</div>
-</div>
-<div class="content">
-<div class="newsletter-section" style="margin:12px auto 20px auto;max-width:260px;padding:0;background:none;border:none;box-shadow:none;border-radius:0;position:relative;z-index:2;">
-<h3 style="font-weight:400;opacity:0.5;font-size:0.85em;margin-bottom:2px;margin-top:0;color:var(--accent-color);">
+     </script>
+    </div>
+   </div>
+   <div class="content">
+    <div class="newsletter-section" style="margin:12px auto 20px auto;max-width:260px;padding:0;background:none;border:none;box-shadow:none;border-radius:0;position:relative;z-index:2;">
+     <h3 style="font-weight:400;opacity:0.5;font-size:0.85em;margin-bottom:2px;margin-top:0;color:var(--accent-color);">
       הצטרפו לרשימת התפוצה שלנו
      </h3>
-<iframe class="newsletter-iframe" scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="height:110px;width:100%;border:none;background:none;box-shadow:none;border-radius:0;">
-</iframe>
-</div>
-<div class="article-content">
-<p>
+     <iframe class="newsletter-iframe" scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="height:110px;width:100%;border:none;background:none;box-shadow:none;border-radius:0;">
+     </iframe>
+    </div>
+    <div class="article-content">
+     <p>
       GS
      </p>
-</div>
-<h3 class="section-header">
+    </div>
+    <h3 class="section-header">
      ניתוח תנועת מניית GS: אסטרטגיה גדלה מול אתגרים גיאוגרפיים ומקרו-כלכליים
     </h3>
-<p>
+    <p>
      סקירה כללית של השוק ותנועת המניה מניות קבוצת גולדמן זאקס (GS) הציגו ביצועים מרשימים היום, מעליות בשוק הרחב, מה שמדגיש את עמידותה של החברה בסביבה הכלכלית הנוכחית. עליית המחירים באה למרות מגמה ירידה כללית בשווקים, מה שמעיד על אמון המשקיעים ביכולותיה של GS להתמודד עם אתגרים מקרו-כלכליים.
     </p>
-<p>
+    <p>
      אסטרטגיה גיאוגרפית ומהלכי השקעה אסטרטגיית הצמיחה הגלובלית של GS קיבלה דגש נוסף עם רכישת אחזקות משמעותיות ב-Gold Road Resources וב-Resolute Mining. צעדים אלו מדגימים את שאיפתה של החברה להתרחב מעבר לגבולות ארצות הברית, במיוחד באזורים בעלי פוטנציאל גבוה כמו אפריקה. גיוון תיק ההשקעות באמצעות השקעות ישירות בחברות כרייה משקפת את הנכונות של GS להתמודד עם סקטורים רגישים יותר לסביבה המקרו-כלכלית.
     </p>
-<p>
+    <p>
      חיזוק צוות המחקר והמסחר גולדמן זאקס ממשיכה להשקיע בכוח אדם, גיוסה של דמויות מרכזיות לצוות המניות שלה מעידה על מחויבותה לשפר את יכולות המחקר והמסחר. צעד זה עשוי להגביר את יעילות תהליך קבלת ההחלטות של החברה ולתרום לניתוח מעמיק יותר של מגמות שוק.
     </p>
-<p>
+    <p>
      דירוגים ומחירי יעד חיוביים אנליסטים בבית ההשקעות העלו את הדירוגים ואת מחירי היעד למספר מניות, כולל NIO, מה שמעיד על אמון בצפי החברה לצמיחה. חוזק המחקר של GS, כפי שמתבטא בדירוגים אלו, תורם לאטרקטיביות המניה בקרב משקיעים מוסדיים.
     </p>
-<p>
+    <p>
      ביצועים עמידים וחששות מקרו-כלכליים דיווחי GS הדגישו חוסן עסקי, עם ביצועים יציבים בכל החטיבות. עם זאת, הכלכלן הראשי של החברה הציג תחזית זהירה לגבי סביבת המדיניות המקרו-כלכלית, כולל ציפיות לדחייה של קיצוצי ריבית על ידי הפד עד דצמבר והיעדר מכסים חדשים ביולי. פרספקטיבה זו מציבה את GS בעמדה זהירה יותר לגבי הסיכונים הפוטנציאליים בשוק.
     </p>
-<p>
+    <p>
      השוואה עם עמיתים והערכת שווי אנליסטים השוו בין GS לעמיתה Moelis &amp; Company, מה שסיפק תובנות לגבי ההערכה הנוכחית של החברה. בעוד שהפוטנציאל לצמיחה נתפס כאטרקטיבי יחסית, השוואה זו מדגישה את הפרמיה שהשוק מעניק ל-GS, מה שמעלה שאלות לגבי הצדקת המחירים הנוכחיים.
     </p>
-<p>
+    <p>
      מותג יוקרתי ואתגרים קצרי טווח החברה חוותה עלייה במספר בקשות להתמחות, מה שמדגיש את המוניטין היוקרתי שלה ואת המשיכה שהיא מייצגת עבור כישרונות צעירים. עם זאת, ההשפעה הפיננסית הישירה של מגמה זו בטווח הקצר עשויה להיות מוגבלת. במקביל, הורדת דירוג מניית שותפים גרופ עלולה להשפיע על הכנסות העמלות של GS, במיוחד בתחום ייעוץ הביצועים.
     </p>
-<p>
+    <p>
      סיכום ומבט קדימה מניית GS מציגה אסטרטגיה גדלה עם חשיפה גיאוגרפית מגוונת, צוות מחקר חזק, וביצועים עמידים. עם זאת, החברה מתמודדת עם אתגרים מקרו-כלכליים פוטנציאליים, כולל שינויים במדיניות הריבית והמכסים, שעלולים להשפיע על תחזיות הצמיחה. המשך מעקב אחר השפעת הגורמים המיקרו-כלכליים הגלובליים, יחד עם צעדי GS להסתגלות לסביבה המשתנה, יהיה קריטי להערכת הפוטנציאל האמיתי של המניה בטווח הארוך. המצב הנוכחי מציב את GS בעמדה חזקה יחסית, אך דורש סבלנות ותשומת לב לשינויים בשוק.
     </p>
-</div>
-<div class="disclaimer">
-<strong>
+   </div>
+   <div class="disclaimer">
+    <strong>
      הסתייגות משפטית:
     </strong>
     המידע הנ״ל מבוסס על מקורות מידע שונים ועלול להשתנות בכל עת. המידע המוזכר בכתבה זו מוגבל לצורך מחקר והנאה ואין לראות בכתוב המלצה להשקעה. יש להתייעץ עם יועץ פיננסי לפני קבלת החלטות השקעה.
     <br/>
-<br/>
-<strong>
+    <br/>
+    <strong>
      הערה:
     </strong>
     הניתוח נוצר באמצעות מודל בינה מלאכותית ועלול לכלול שגיאות כתיב או ניסוח. אנו מתנצלים מראש על אי-הדיוקים האפשריים.
     <br/>
-<br/>
-<strong>
+    <br/>
+    <strong>
      מקורות המידע:
     </strong>
     Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl,MarketBeat
     <h3>
      Hippopotamus Research
     </h3>
-</div>
-</div>
-<div class="footer">
-<div class="timestamp">
+   </div>
+  </div>
+  <div class="footer">
+   <div class="timestamp">
     נוצר ב: 19/06/2025 09:15
    </div>
-<div class="source">
+   <div class="source">
     מקורות: Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl,MarketBeat | ניתוח באמצעות aya-expanse:8b
    </div>
-</div>
-<script id="dynamic-text-cleaner-script">
+  </div>
+  <script id="dynamic-text-cleaner-script">
    document.addEventListener("DOMContentLoaded", function() {
   // Check if the cleaner has already run to avoid multiple executions
   if (document.body.dataset.jsCleanerApplied) {
@@ -644,12 +649,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
   const elements = document.querySelectorAll('p, h1, h2, h3, h4, li, span');
   
-  // Regex to find all variations of markers:
-  // - Optional hashes (e.g., #TITLE, ## TITLE)
-  // - The marker words in English (TITLE, SUBTITLE, PARA) with an optional colon
-  // - The marker words in Hebrew (כותרת ראשית, כותרת משנה, פסקה) with an optional colon
-  // - Any remaining hash symbols
-  const regex = /(?:#+\s*)?(?:TITLE|SUBTITLE|PARA|כותרת ראשית|כותרת משנה|פסקה):?|#+/gi;
+  // Regex to match marker words anywhere, with optional colon or space after
+  const regex = /(?:#+\s*)?(TITLE|SUBTITLE|PARA|כותרת ראשית|כותרת משנה|פסקה|ראשונה|שניה|שנייה|שלישית|רביעית|חמישית|שישית|אחרונה)[:：]?/gi;
 
   elements.forEach(el => {
     // We iterate through child nodes to only affect text nodes.
@@ -657,7 +658,7 @@ document.addEventListener('DOMContentLoaded', function() {
     Array.from(el.childNodes).forEach(node => {
       if (node.nodeType === Node.TEXT_NODE) { // Process only text nodes
         const originalText = node.textContent;
-        const newText = originalText.replace(regex, '').trim();
+        const newText = originalText.replace(regex, '').replace(/\s{2,}/g, ' ').trim();
         if (originalText !== newText) {
           node.textContent = newText;
         }
@@ -666,5 +667,5 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 });
   </script>
-</body>
+ </body>
 </html>

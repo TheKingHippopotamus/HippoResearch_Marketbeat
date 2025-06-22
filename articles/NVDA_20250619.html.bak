@@ -1,15 +1,14 @@
 <!DOCTYPE html>
-
 <html dir="rtl" lang="he">
-<head>
-<meta charset="utf-8"/>
-<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
    דוח ניתוח סיבתיות - NVDA
   </title>
-<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
-<style>
+  <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
+  <style>
    :root {
             --primary-color: #1a1a2e;
             --secondary-color: #16213e;
@@ -229,8 +228,8 @@
             }
         }
   </style>
-<style>
-    .x-share-btn {
+  <style>
+   .x-share-btn {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -314,8 +313,9 @@
       height: 16px;
       display: block;
     }
-    </style><style>
-    .x-share-btn-custom {
+  </style>
+  <style>
+   .x-share-btn-custom {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -399,8 +399,9 @@
       height: 16px;
       display: block;
     }
-    </style><style>
-    .x-share-btn-custom {
+  </style>
+  <style>
+   .x-share-btn-custom {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -508,40 +509,44 @@
       90% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
       100% { opacity: 0; transform: translateX(-50%) scale(0.95); }
     }
-    </style></head>
-<body>
-<div class="container">
-<div class="header">
-<div class="header-content">
-<div class="logo-section">
-<div class="logo-container">
-<img alt="Logo" class="logo-image" src="logo.png"/>
-</div>
-<div class="brand-info">
-<div class="brand-name">
+  </style>
+ </head>
+ <body>
+  <div class="container">
+   <div class="header">
+    <div class="header-content">
+     <div class="logo-section">
+      <div class="logo-container">
+       <img alt="Logo" class="logo-image" src="logo.png"/>
+      </div>
+      <div class="brand-info">
+       <div class="brand-name">
         Hippopotamus Research
        </div>
-<div class="brand-subtitle">
-        מחפשים את הסיבה לתנועות בשוק 
+       <div class="brand-subtitle">
+        מחפשים את הסיבה לתנועות בשוק
        </div>
-</div>
-</div>
-<div class="social-section">
-<div class="ticker-badge">NVDA</div>
-<a class="follow-btn" href="https://twitter.com/your_twitter_handle" rel="noopener" target="_blank">
-<span class="x-icon">
-<img alt="X" src="x.png"/>
-</span>
-    עקבו אחרינו
-  </a>
-<button class="x-share-btn-custom" type="button">
-<span class="x-icon">
-<img alt="X" src="x.png"/>
-</span>
-    שתף ב־X
-  </button>
-</div><script>
-document.addEventListener('DOMContentLoaded', function() {
+      </div>
+     </div>
+     <div class="social-section">
+      <div class="ticker-badge">
+       NVDA
+      </div>
+      <a class="follow-btn" href="https://twitter.com/your_twitter_handle" rel="noopener" target="_blank">
+       <span class="x-icon">
+        <img alt="X" src="x.png"/>
+       </span>
+       עקבו אחרינו
+      </a>
+      <button class="x-share-btn-custom" type="button">
+       <span class="x-icon">
+        <img alt="X" src="x.png"/>
+       </span>
+       שתף ב־X
+      </button>
+     </div>
+     <script>
+      document.addEventListener('DOMContentLoaded', function() {
   document.querySelectorAll('.x-share-btn-custom').forEach(function(btn) {
     btn.addEventListener('click', function(e) {
       e.preventDefault();
@@ -560,81 +565,81 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   });
 });
-</script>
-</div>
-</div>
-<div class="content">
-<div class="newsletter-section" style="margin:12px auto 20px auto;max-width:260px;padding:0;background:none;border:none;box-shadow:none;border-radius:0;position:relative;z-index:2;">
-<h3 style="font-weight:400;opacity:0.5;font-size:0.85em;margin-bottom:2px;margin-top:0;color:var(--accent-color);">
+     </script>
+    </div>
+   </div>
+   <div class="content">
+    <div class="newsletter-section" style="margin:12px auto 20px auto;max-width:260px;padding:0;background:none;border:none;box-shadow:none;border-radius:0;position:relative;z-index:2;">
+     <h3 style="font-weight:400;opacity:0.5;font-size:0.85em;margin-bottom:2px;margin-top:0;color:var(--accent-color);">
       הצטרפו לרשימת התפוצה שלנו
      </h3>
-<iframe class="newsletter-iframe" scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="height:110px;width:100%;border:none;background:none;box-shadow:none;border-radius:0;">
-</iframe>
-</div>
-<div class="article-content">
-<p>
+     <iframe class="newsletter-iframe" scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="height:110px;width:100%;border:none;background:none;box-shadow:none;border-radius:0;">
+     </iframe>
+    </div>
+    <div class="article-content">
+     <p>
       NVDA
      </p>
-</div>
-<p>
+    </div>
+    <p>
      ניתוח תנועת המניה של NVIDIA Corporation (NVDA)
     </p>
-<p>
-     סקירה כללית מניית NVDA של NVIDIA Corporation מציגה מגמה חיובית בשוק, הנתמכת על ידי תחזיות רווח אופטימיות ושיפורים במחירי היעד שהוצגו לאחרונה. עם זאת, המשקיעים מודעים לאתגרים משמעותיים שעלולים להשפיע על הביצועים העתידיים של החברה. הדוח הזה חוקר את הגורמים המשפיעים על תנועת המניה ומספק תובנות לגבי הסיכונים וההזדמנויות העומדים בפני NVDA.
+    <p>
+     סקירה כללית מניית NVDA של NVIDIA Corporation מציגה מגמה חיובית בשוק, הנתמכת על ידי תחזיות רווח אופטימיות ושיפורים במחירי היעד שהוצגו ל. עם זאת, המשקיעים מודעים לאתגרים משמעותיים שעלולים להשפיע על הביצועים העתידיים של החברה. הדוח הזה חוקר את הגורמים המשפיעים על תנועת המניה ומספק תובנות לגבי הסיכונים וההזדמנויות העומדים בפני NVDA.
     </p>
-<h3 class="section-header">
+    <h3 class="section-header">
      ניתוח פנימי:
     </h3>
-<p>
-     הנהלה ומוסדות: הצפי לרבעון השני של NVIDIA הוא גורם מרכזי בתנודתיות האחרונה במחיר המניה. אנליסטים חוזה צמיחה מרשימה בהכנסות, מעל 50%, מה שמעלה את האפשרות שהחברה תעקוף את הערכות השוק. חברות ברוקרים מובילות כמו Barclays ו-Citi הגבירו את מחירי היעד שלהן, משקפות ביטחון בצמיחה המתמשכת של NVDA. ההנהלה הצליחה לשכנע את השוק עם אסטרטגיה ממוקדת-AI, כפי שמעידים ההסכמים החדשים עם חברות כמו CyberCatch ו-SandboxAQ, התורמים להרחבת האקוסיסטם שלה.
+    <p>
+     הנהלה ומוסדות: הצפי לרבעון השני של NVIDIA הוא גורם מרכזי בתנודתיות ה במחיר המניה. אנליסטים חוזה צמיחה מרשימה בהכנסות, מעל 50%, מה שמעלה את האפשרות שהחברה תעקוף את הערכות השוק. חברות ברוקרים מובילות כמו Barclays ו-Citi הגבירו את מחירי היעד שלהן, משקפות ביטחון בצמיחה המתמשכת של NVDA. ההנהלה הצליחה לשכנע את השוק עם אסטרטגיה ממוקדת-AI, כפי שמעידים ההסכמים החדשים עם חברות כמו CyberCatch ו-SandboxAQ, התורמים להרחבת האקוסיסטם שלה.
     </p>
-<p>
+    <p>
      דיבידנד ותזרים: אין מידע על שינויים בדיבידנד, אך הביצועים הפיננסיים החזקים של החברה מצביעים על תזרים בריא. הצמיחה בהכנסות מדענית הנתונים, במיוחד בתחום מרכזי הענן, מספקת יציבות וצמיחה ארוכת טווח.
     </p>
-<p>
+    <p>
      רגולציה וסביבה חיצונית: הישנו חשש בקרב משקיעים לגבי סביבת הרגולציה המשתנה והשפעתה על NVDA. האתגרים כוללים סנקציות אקספורט, חקירות על ידי רשויות סינגפור ומדיניות אנטי-מונופול אמריקאית אפשרית. עם זאת, נכון לעכשיו, ההשפעה על מחיר המניה הייתה מתונה, מה שמצביע על כך שהשוק מצפה להתמודדות יעילה של החברה עם נושאים רגולטוריים.
     </p>
-<p>
+    <p>
      מגמות סקטוריאליות ושיח ציבורי: NVDA מובילה בשוק שבבים מבוססי AI, אך מתמודדת עם תחרות גוברת מחברות כמו Arm ו-Intel. השבבים האחרונים של Intel, Gaudi 3, מציעים אלטרנטיבה זולה יותר לשוק ה-AI, מה שעלול להשפיע על נתח השוק של NVDA. עם זאת, היכולות המתקדמות של NVDA ומגוון האקוסיסטם שלה נותנים לה יתרון. בנוסף, הרשתות החברתיות והפורומים הטכניים מציגים עניין מתמשך בטכנולוגיית NVIDIA, מה שמגביר את המודעות למותג.
     </p>
-<p>
+    <p>
      סיכום ומסקנות: מניית NVDA מציגה פוטנציאל צמיחה משמעותי בהתחשב בעמדתה המובילה בשוק AI שבבים, באקוסיסטם ההולך וגדל שלה ובצמיחה החדה בהכנסות. עם זאת, יש לנתח בקפידה את ההשפעה של תחרות גוברת, סביבה רגולטורית משתנה וגורמים מאקרו-כלכליים. הרבעון השני של 2023 יספק רמזים קריטיים לביצועים של NVDA, ולכן המשך מעקב אחר עדכוני ההנהלה, התפתחויות תחרותיות ותוצאות רגולטוריות הוא חיוני.
     </p>
-<p>
+    <p>
      הניתוח מצביע על איזון עדין בין כוחות חיוביים, כמו צמיחה חזקה במוצרים ושוקי מפתח, לכוחות מאזנים, כולל תחרות גוברת וסביבה רגולטורית לא יציבה. לפיכך, NVDA נמצאת בעמדה טובה לצמיחה לטווח הארוך, אך עם סיכונים קצרי טווח שיש לנהל בזהירות.
     </p>
-</div>
-<div class="disclaimer">
-<strong>
+   </div>
+   <div class="disclaimer">
+    <strong>
      הסתייגות משפטית:
     </strong>
     המידע הנ״ל מבוסס על מקורות מידע שונים ועלול להשתנות בכל עת. המידע המוזכר בכתבה זו מוגבל לצורך מחקר והנאה ואין לראות בכתוב המלצה להשקעה. יש להתייעץ עם יועץ פיננסי לפני קבלת החלטות השקעה.
     <br/>
-<br/>
-<strong>
+    <br/>
+    <strong>
      הערה:
     </strong>
     הניתוח נוצר באמצעות מודל בינה מלאכותית ועלול לכלול שגיאות כתיב או ניסוח. אנו מתנצלים מראש על אי-הדיוקים האפשריים.
     <br/>
-<br/>
-<strong>
+    <br/>
+    <strong>
      מקורות המידע:
     </strong>
     Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl,MarketBeat
     <h3>
      Hippopotamus Research
     </h3>
-</div>
-</div>
-<div class="footer">
-<div class="timestamp">
+   </div>
+  </div>
+  <div class="footer">
+   <div class="timestamp">
     נוצר ב: 19/06/2025 10:20
    </div>
-<div class="source">
+   <div class="source">
     מקורות: Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl,MarketBeat | ניתוח באמצעות aya-expanse:8b
    </div>
-</div>
-<script id="dynamic-text-cleaner-script">
+  </div>
+  <script id="dynamic-text-cleaner-script">
    document.addEventListener("DOMContentLoaded", function() {
   // Check if the cleaner has already run to avoid multiple executions
   if (document.body.dataset.jsCleanerApplied) {
@@ -644,12 +649,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
   const elements = document.querySelectorAll('p, h1, h2, h3, h4, li, span');
   
-  // Regex to find all variations of markers:
-  // - Optional hashes (e.g., #TITLE, ## TITLE)
-  // - The marker words in English (TITLE, SUBTITLE, PARA) with an optional colon
-  // - The marker words in Hebrew (כותרת ראשית, כותרת משנה, פסקה) with an optional colon
-  // - Any remaining hash symbols
-  const regex = /(?:#+\s*)?(?:TITLE|SUBTITLE|PARA|כותרת ראשית|כותרת משנה|פסקה):?|#+/gi;
+  // Regex to match marker words anywhere, with optional colon or space after
+  const regex = /(?:#+\s*)?(TITLE|SUBTITLE|PARA|כותרת ראשית|כותרת משנה|פסקה|ראשונה|שניה|שנייה|שלישית|רביעית|חמישית|שישית|אחרונה)[:：]?/gi;
 
   elements.forEach(el => {
     // We iterate through child nodes to only affect text nodes.
@@ -657,7 +658,7 @@ document.addEventListener('DOMContentLoaded', function() {
     Array.from(el.childNodes).forEach(node => {
       if (node.nodeType === Node.TEXT_NODE) { // Process only text nodes
         const originalText = node.textContent;
-        const newText = originalText.replace(regex, '').trim();
+        const newText = originalText.replace(regex, '').replace(/\s{2,}/g, ' ').trim();
         if (originalText !== newText) {
           node.textContent = newText;
         }
@@ -666,5 +667,5 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 });
   </script>
-</body>
+ </body>
 </html>

@@ -7,13 +7,15 @@ Now includes automatic monitoring for new HTML files.
 
 import os
 import glob
-from bs4 import BeautifulSoup, Tag
+from bs4 import BeautifulSoup, Tag, NavigableString
 import argparse
 import time
 import threading
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 import logging
+import re
+from bs4.element import NavigableString
 
 # Setup logging
 logging.basicConfig(
@@ -302,7 +304,6 @@ def fix_html_structure(soup):
     return fixed
 
 def inject_script_into_file(file_path, backup=True):
-    """Injects the cleaning JavaScript into a single HTML file."""
     logger.info(f"Processing: {os.path.basename(file_path)}")
 
     # Read the file
@@ -324,6 +325,15 @@ def inject_script_into_file(file_path, backup=True):
     if structure_fixed:
         logger.info(f"  -> HTML structure fixed")
 
+    # Remove all old cleaner scripts
+    for script in soup.find_all('script'):
+        script_id = script.get('id') if isinstance(script, Tag) else None
+        is_cleaner_id = isinstance(script_id, str) and 'cleaner' in script_id
+        script_string = getattr(script, 'string', None)
+        is_cleaner_content = script_string and ('jsCleanerApplied' in script_string or 'text-cleaner' in script_string)
+        if is_cleaner_id or is_cleaner_content:
+            script.decompose()
+
     # --- Prevent duplicate script injection ---
     if soup.find("script", id=JS_CLEANER_ID):
         logger.info(f"  -> Script already exists. Skipping injection.")
@@ -337,15 +347,7 @@ def inject_script_into_file(file_path, backup=True):
     # Create the new script tag
     script_tag = soup.new_tag("script", id=JS_CLEANER_ID)
     script_tag.string = JS_CODE
-
-    # Append the script at the end of the body
     body.append(script_tag)
-
-    # Write the modified content back to the file
-    with open(file_path, 'w', encoding='utf-8') as f:
-        f.write(str(soup.prettify()))
-
-    logger.info(f"  -> Successfully injected script.")
 
     # 1. Add CSS if not present
     head = soup.find('head')
@@ -355,50 +357,17 @@ def inject_script_into_file(file_path, backup=True):
             if isinstance(head, Tag):
                 head.append(style_tag)
 
-    # 2. Add social section to header-content if not present
+    # 2. Always inject the share button and script using the dynamic ticker and filename
     filename = os.path.basename(file_path)
-    import re
     match = re.match(r"([A-Z0-9]+)_", filename)
-    if match:
-        ticker = match.group(1)
-        share_url = build_share_url(ticker, filename)
-        social_html = SOCIAL_SECTION_TEMPLATE.format(
-            ticker=ticker,
-            follow_url=FOLLOW_URL,
-            share_url=share_url,
-            x_icon_src=X_ICON_SRC
-        )
-        social_soup = BeautifulSoup(social_html, 'html.parser')
-        header = soup.find('div', class_='header-content')
-        if header and isinstance(header, Tag):
-            old_social = header.find('div', class_='social-section')
-            if old_social:
-                old_social.replace_with(social_soup)
-            else:
-                logo_section = header.find('div', class_='logo-section')
-                if logo_section and isinstance(logo_section, Tag):
-                    logo_section.insert_after(social_soup)
+    ticker = match.group(1) if match else ""
+    ensure_share_button_and_script(soup, ticker, filename)
 
-        # 3. Add JS for share button (remove old, insert new)
-        js_html = SOCIAL_JS_TEMPLATE.format(share_url=share_url, index_url=INDEX_URL)
-        js_soup = BeautifulSoup(js_html, 'html.parser')
-        # Remove any old script with this logic
-        for script in soup.find_all('script'):
-            script_content = getattr(script, 'string', None)
-            if script_content and 'x-share-btn-custom' in script_content and 'window.open' in script_content:
-                script.decompose()
-        # Insert after social-section
-        social_section = header.find('div', class_='social-section') if header and isinstance(header, Tag) else None
-        if social_section and isinstance(social_section, Tag):
-            social_section.insert_after(js_soup)
+    # Write the modified content back to the file
+    with open(file_path, 'w', encoding='utf-8') as f:
+        f.write(str(soup.prettify()))
 
-        # Remove old share/follow buttons outside header if exist
-        for btn in soup.find_all(['a', 'button']):
-            if isinstance(btn, Tag) and btn.has_attr('class') and any(c in ['x-share-btn-custom', 'follow-btn'] for c in btn['class']):
-                parent_social = btn.find_parent('div', class_='social-section')
-                if not parent_social:
-                    btn.decompose()
-
+    logger.info(f"  -> Successfully injected script.")
     return True
 
 def process_all_articles(articles_dir, backup=True):
@@ -500,6 +469,100 @@ def main():
             process_all_articles(args.dir, should_backup)
         else:
             logger.error(f"Error: Directory not found at '{args.dir}'")
+
+def clean_single_article(filename):
+    from bs4 import BeautifulSoup, Tag
+    marker_words = [
+        'ראשונה', 'שניה', 'שנייה', 'שלישית', 'רביעית', 'חמישית', 'שישית', 'אחרונה'
+    ]
+    marker_regex = re.compile(rf"^\s*({'|'.join(marker_words)})\s*:?\s*$")
+    with open(filename, 'r', encoding='utf-8') as f:
+        html = f.read()
+    soup = BeautifulSoup(html, 'html.parser')
+    # Remove <h3> that are only marker words
+    for h3 in soup.find_all('h3'):
+        if isinstance(h3, Tag):
+            text = h3.get_text(strip=True)
+            if marker_regex.match(text):
+                h3.decompose()
+    # Remove marker words anywhere in text of p/h1/h2/h3/h4/li/span
+    text_tags = soup.find_all(['p', 'h1', 'h2', 'h3', 'h4', 'li', 'span'])
+    marker_anywhere = re.compile(rf"(\s*({'|'.join(marker_words)})\s*:?\s*)")
+    for tag in text_tags:
+        if isinstance(tag, Tag):
+            text = tag.get_text()
+            new_text = marker_anywhere.sub(' ', text)
+            # Only replace tag.string if tag has no children (is NavigableString)
+            if tag.string and len(tag.contents) == 1:
+                tag.string.replace_with(NavigableString(new_text.strip()))
+            else:
+                # If tag has children, replace all text nodes
+                for node in tag.find_all(text=True, recursive=False):
+                    if isinstance(node, NavigableString):
+                        cleaned = marker_anywhere.sub(' ', str(node))
+                        node.replace_with(NavigableString(cleaned.strip()))
+    with open(filename, 'w', encoding='utf-8') as f:
+        f.write(str(soup))
+
+def ensure_share_button_and_script(soup, ticker, filename):
+    from bs4 import Tag
+    # Always ensure social-section exists
+    header_content = soup.find('div', class_='header-content')
+    social_section = soup.find('div', class_='social-section')
+    if not social_section and header_content:
+        # Create social-section if missing
+        social_section = soup.new_tag('div', attrs={'class': 'social-section'})
+        # Try to insert after logo-section if exists, else at end
+        logo_section = header_content.find('div', class_='logo-section')
+        if logo_section:
+            logo_section.insert_after(social_section)
+        else:
+            header_content.append(social_section)
+    if social_section:
+        # Remove all existing share buttons to avoid duplicates
+        for btn in social_section.find_all('button', class_='x-share-btn-custom'):
+            btn.decompose()
+        # Add share button at the end
+        btn = soup.new_tag('button', attrs={'class': 'x-share-btn-custom', 'type': 'button'})
+        x_icon = soup.new_tag('span', attrs={'class': 'x-icon'})
+        x_img = soup.new_tag('img', src='x.png', alt='X')
+        x_icon.append(x_img)
+        btn.append(x_icon)
+        btn.append(' שתף ב־X')
+        social_section.append(btn)
+    # Remove all old share scripts
+    for script in soup.find_all('script'):
+        if script.string and 'x-share-btn-custom' in script.string:
+            script.decompose()
+    # Add the share script at the end of body, with dynamic share_url
+    share_url = f'https://twitter.com/intent/tweet?text=%D7%9E%D7%97%D7%A7%D7%A8%20%D7%97%D7%93%D7%A9%20%D7%A9%D7%9C%20Hippopotamus%20Research%20%24{ticker}%0Ahttps%3A%2F%2Fthekinghippopotamus.github.io%2FHippoResearch_Marketbeat%2Farticles%2F{filename}'
+    share_script = soup.new_tag('script')
+    share_script.string = f'''
+document.addEventListener('DOMContentLoaded', function() {{
+  document.querySelectorAll('.x-share-btn-custom').forEach(function(btn) {{
+    btn.addEventListener('click', function(e) {{
+      e.preventDefault();
+      e.stopPropagation();
+      var popup = document.createElement('div');
+      popup.className = 'share-popup-message';
+      popup.textContent = 'השיתוף מחכה לך בדף השני :)';
+      document.body.appendChild(popup);
+      setTimeout(function() {{
+        popup.remove();
+        window.open('https://thekinghippopotamus.github.io/HippoResearch_Marketbeat/', '_blank', 'noopener');
+        window.open('{share_url}', '_self', 'noopener');
+      }}, 3000);
+      return false;
+    }});
+  }});
+}});
+'''
+    soup.body.append(share_script)
+
+# For testing: clean only COIN_20250622.html
+if __name__ == "__main__":
+    clean_single_article('articles/COIN_20250622.html')
+    print('Cleaned COIN_20250622.html')
 
 if __name__ == "__main__":
     main() 
