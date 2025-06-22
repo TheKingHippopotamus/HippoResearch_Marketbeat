@@ -224,7 +224,18 @@
         .disclaimer strong { color: #856404; }
         .disclaimer h3 { color: var(--accent-color); margin-top: 15px; font-size: 1.2em; }
         @media (max-width: 768px) {
-            body { padding: 10px; }
+        @media (max-width: 480px) {
+            .logo-container { width: 48px !important; height: 48px !important; }
+            .logo-image { width: 40px !important; height: 40px !important; }
+            .brand-name { font-size: 1em !important; }
+            .brand-subtitle { font-size: 0.8em !important; }
+            .ticker-badge { font-size: 0.85em !important; padding: 4px 10px !important; }
+            .content { padding: 6px 3px !important; font-size: 0.98em !important; }
+            .article-content { padding: 10px !important; }
+            .follow-btn, .x-share-btn-custom { min-width: 80px !important; min-height: 28px !important; font-size: 0.85em !important; padding: 5px 10px !important; }
+            .header-content { gap: 10px !important; }
+            .newsletter-section { max-width: 98vw !important; }
+        }            body { padding: 10px; }
             .header-content { flex-direction: column; gap: 10px; text-align: center; }
             .logo-section {
                 flex-direction: column;
@@ -329,7 +340,18 @@
             display: block;
         }
         @media (max-width: 768px) {
-            .newsletter-section {
+        @media (max-width: 480px) {
+            .logo-container { width: 48px !important; height: 48px !important; }
+            .logo-image { width: 40px !important; height: 40px !important; }
+            .brand-name { font-size: 1em !important; }
+            .brand-subtitle { font-size: 0.8em !important; }
+            .ticker-badge { font-size: 0.85em !important; padding: 4px 10px !important; }
+            .content { padding: 6px 3px !important; font-size: 0.98em !important; }
+            .article-content { padding: 10px !important; }
+            .follow-btn, .x-share-btn-custom { min-width: 80px !important; min-height: 28px !important; font-size: 0.85em !important; padding: 5px 10px !important; }
+            .header-content { gap: 10px !important; }
+            .newsletter-section { max-width: 98vw !important; }
+        }            .newsletter-section {
                 padding: 2px 0 2px 0;
                 max-width: 98vw;
             }
