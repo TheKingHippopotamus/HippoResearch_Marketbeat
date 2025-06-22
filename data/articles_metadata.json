@@ -1483,5 +1483,17 @@
     "GICS Sector": "Information Technology",
     "GICS Sub-Industry": "IT Consulting & Other Services",
     "Headquarters Location": "Armonk, New York"
+  },
+  {
+    "ticker": "COIN",
+    "title": "COIN:סיקור יומי  ?",
+    "filename": "COIN_20250622.html",
+    "timestamp": "22/06/2025 12:48",
+    "summary": "כותרת: Coinbase קופצת קדימה: מהפכת הקריפטו האמריקאית פורצת דרך\nכותרת משנה: הבורסה מובילה את הדרך לעידן החדש של פיננסים מבוזרים\nפסקה ראשונה\nבלב הסערה של עולם הקריפטו, Coinbase Global, Inc. (נאסד\"ק: COI...",
+    "tags": [],
+    "Security": "Coinbase",
+    "GICS Sector": "Financials",
+    "GICS Sub-Industry": "Financial Exchanges & Data",
+    "Headquarters Location": "New York City, New York"
   }
 ]
