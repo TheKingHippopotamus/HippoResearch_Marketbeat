@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup, Tag
 ARTICLES_DIR = 'articles'
 DOMAIN = 'https://thekinghippopotamus.github.io/HippoResearch_Marketbeat/articles/'
 INDEX_URL = 'https://thekinghippopotamus.github.io/HippoResearch_Marketbeat/'
-FOLLOW_URL = 'https://twitter.com/your_twitter_handle'
+X_FOLLOW_URL = 'https://x.com/LmlyhNyr'
 X_ICON_SRC = 'x.png'
 
 CSS_BLOCK = '''
@@ -190,7 +190,7 @@ def update_article(file_path):
     share_url = build_share_url(ticker, filename)
     social_html = SOCIAL_SECTION_TEMPLATE.format(
         ticker=ticker,
-        follow_url=FOLLOW_URL,
+        follow_url=X_FOLLOW_URL,
         share_url=share_url,
         x_icon_src=X_ICON_SRC
     )

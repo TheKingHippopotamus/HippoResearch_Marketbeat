@@ -1,14 +1,15 @@
 <!DOCTYPE html>
+
 <html dir="rtl" lang="he">
- <head>
-  <meta charset="utf-8"/>
-  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-  <title>
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>
    General Mills (GIS) - מחקר כלכלי מתקדם | Hippopotamus Research
   </title>
-  <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
-  <style>
+<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
+<style>
    :root {
             --primary-color: #1a1a2e;
             --secondary-color: #16213e;
@@ -20,8 +21,6 @@
             --gradient-accent: linear-gradient(135deg, #e94560 0%, #ff6b6b 100%);
             --shadow-primary: 0 20px 40px rgba(26, 26, 46, 0.15);
             --shadow-accent: 0 10px 30px rgba(233, 69, 96, 0.3);
-            
-
         }
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
@@ -78,72 +77,27 @@
         .header-content {
             position: relative; z-index: 2; padding: 40px 30px;
             display: flex; align-items: center; justify-content: space-between;
-            flex-wrap: wrap;
         }
-        .logo-section {
-            display: flex; align-items: center; gap: 12px;
-            flex: 1 1 0;
-            min-width: 0;
-            max-width: 100%;
-        }
+        .logo-section { display: flex; align-items: center; gap: 20px; }
         .logo-container {
             position: relative; width: 120px; height: 120px;
             background: var(--gradient-accent); border-radius: 50%;
             display: flex; align-items: center; justify-content: center;
             box-shadow: var(--shadow-accent); animation: pulse 2s ease-in-out infinite; overflow: hidden;
-            aspect-ratio: 1/1;
-            flex-shrink: 0; flex-grow: 0;
         }
-        .logo-image {
-            width: 100px; height: 100px; object-fit: cover; border-radius: 50%; z-index: 2;
-            aspect-ratio: 1/1;
+        @keyframes pulse { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.05); } }
+        .logo-container::before {
+            content: '';
+            position: absolute; top: -5px; left: -5px; right: -5px; bottom: -5px;
+            background: var(--gradient-accent); border-radius: 50%; z-index: -1; opacity: 0.3;
+            animation: pulse 2s ease-in-out infinite reverse;
         }
-        .logo-image img {
-            width: 100%; height: 100%; object-fit: cover; border-radius: 50%;
-            aspect-ratio: 1/1;
-        }
-        .brand-info {
-            min-width: 0;
-            max-width: 100%;
-            overflow: visible;
-            white-space: normal;
-        }
-        .brand-name {
-            font-size: 2.1em;
-            font-weight: 800;
-            background: linear-gradient(45deg, #ffffff 0%, #e94560 100%);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-            text-fill-color: transparent;
-            letter-spacing: 0.04em;
-            text-shadow: 0 2px 8px rgba(233,69,96,0.08);
-            margin-bottom: 2px;
-            line-height: 1.1;
-        }
-        .brand-subtitle {
-            font-size: 1.08em;
-            background: linear-gradient(45deg, #ffffff 0%, #e94560 100%);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-            text-fill-color: transparent;
-            opacity: 0.82;
-            font-weight: 500;
-            font-style: italic;
-            letter-spacing: 0.03em;
-            margin-top: 0;
-            margin-bottom: 0;
-            line-height: 1.1;
-        }
-        .social-section {
-            display: flex; align-items: center; gap: 10px;
-        }
-        .twitter-link, .x-share-btn-custom {
-            padding: 8px 14px;
-            font-size: 1em;
-            min-width: 0;
-        }
+        .logo-image { width: 100px; height: 100px; object-fit: contain; border-radius: 50%; z-index: 2; }
+        .logo-image img { width: 100%; height: 100%; object-fit: contain; border-radius: 50%; }
+        .brand-info { text-align: right; }
+        .brand-name { font-size: 2.2em; font-weight: 700; margin-bottom: 5px; background: linear-gradient(45deg, #ffffff, #e94560); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }
+        .brand-subtitle { font-size: 1.1em; opacity: 0.9; font-weight: 300; }
+        .social-section { display: flex; align-items: center; gap: 15px; }
         .twitter-link { display: flex; align-items: center; gap: 10px; background: rgba(255, 255, 255, 0.1); padding: 12px 20px; border-radius: 25px; text-decoration: none; color: var(--text-light); transition: all 0.3s ease; backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.2); }
         .twitter-link:hover { background: rgba(233, 69, 96, 0.2); transform: translateY(-2px); box-shadow: 0 10px 20px rgba(233, 69, 96, 0.3); }
         .twitter-icon { width: 20px; height: 20px; object-fit: contain; }
@@ -229,98 +183,13 @@
         .disclaimer h3 { color: var(--accent-color); margin-top: 15px; font-size: 1.2em; }
         @media (max-width: 768px) {
             body { padding: 10px; }
-            .header-content { flex-direction: column; gap: 10px; text-align: center; }
-            .logo-section {
-                flex-direction: column;
-                align-items: center;
-                gap: 4px;
-                max-width: 100vw;
-                width: 100%;
-            }
-            .brand-info {
-                max-width: 100vw;
-                overflow: visible;
-            }
-            .brand-name {
-                font-size: 1.35em;
-                font-weight: 700;
-                margin-bottom: 2px;
-                letter-spacing: 0.01em;
-                overflow: visible;
-                white-space: normal;
-            }
-            .brand-subtitle {
-                font-size: 0.95em;
-                opacity: 0.85;
-                font-weight: 500;
-            }
-            .ticker-badge {
-                font-size: 0.92em;
-                padding: 5px 10px;
-                border-radius: 16px;
-            }
-            .content { padding: 10px 2px; font-size: 1em; }
-            .article-content { padding: 8px; }
-            .logo-container { width: 60px; height: 60px; aspect-ratio: 1/1; }
-            .logo-image { width: 50px; height: 50px; aspect-ratio: 1/1; }
-            .social-section {
-                gap: 5px;
-                flex-wrap: wrap;
-                justify-content: center;
-            }
-            .twitter-link, .x-share-btn-custom {
-                min-width: 90px;
-                min-height: 32px;
-                font-size: 0.93em;
-                padding: 6px 8px;
-                border-radius: 18px;
-                font-family: 'Heebo', 'Segoe UI', sans-serif;
-                font-weight: 700;
-                letter-spacing: 0.01em;
-                box-shadow: 0 2px 8px rgba(15,52,96,0.07);
-                display: inline-flex;
-                align-items: center;
-                gap: 7px;
-            }
-            .twitter-link {
-                background: linear-gradient(90deg, #7b2ff2 0%, #1da1f2 100%);
-                color: #fff;
-                border: none;
-            }
-            .twitter-link:hover {
-                background: linear-gradient(90deg, #1da1f2 0%, #7b2ff2 100%);
-            }
-            .x-share-btn-custom {
-                background: linear-gradient(90deg, #14171a 0%, #e94560 100%);
-                color: #fff;
-                border: none;
-            }
-            .x-share-btn-custom:hover {
-                background: linear-gradient(90deg, #e94560 0%, #14171a 100%);
-            }
-            .twitter-icon, .x-share-btn-custom .x-icon {
-                width: 13px;
-                height: 13px;
-                min-width: 13px;
-                min-height: 13px;
-                border-radius: 50%;
-                object-fit: cover;
-                background: #fff;
-                display: flex;
-                align-items: center;
-                justify-content: center;
-            }
-            .x-share-btn-custom .x-icon img {
-                width: 9px;
-                height: 9px;
-                border-radius: 50%;
-                object-fit: cover;
-            }
-            .twitter-icon {
-                border-radius: 50%;
-                object-fit: cover;
-                background: #fff;
-            }
+            .header-content { flex-direction: column; gap: 20px; text-align: center; }
+            .brand-info { text-align: center; }
+            .brand-name { font-size: 1.8em; }
+            .content { padding: 30px 20px; font-size: 1em; }
+            .article-content { padding: 25px; }
+            .logo-container { width: 80px; height: 80px; }
+            .logo-image { width: 70px; height: 70px; }
         }
         .newsletter-section {
             margin: 0 auto 24px auto;
@@ -360,7 +229,7 @@
             }
         }
   </style>
-  <style>
+<style>
    .x-share-btn-custom {
       display: inline-flex;
       align-items: center;
@@ -470,8 +339,8 @@
       100% { opacity: 0; transform: translateX(-50%) scale(0.95); }
     }
   </style>
-  <style>
-   .x-share-btn-custom {
+<style>
+    .x-share-btn-custom {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -579,144 +448,162 @@
       90% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
       100% { opacity: 0; transform: translateX(-50%) scale(0.95); }
     }
-  </style>
- </head>
- <body>
-  <div class="container">
-   <div class="header">
-    <div class="header-content">
-     <div class="logo-section">
-      <div class="logo-container">
-       <img alt="Logo" class="logo-image" src="logo.png"/>
-      </div>
-      <div class="brand-info">
-       <div class="brand-name">
+    </style></head>
+<body>
+<div class="container">
+<div class="header">
+<div class="header-content">
+<div class="logo-section">
+<div class="logo-container">
+<img alt="Logo" class="logo-image" src="logo.png"/>
+</div>
+<div class="brand-info">
+<div class="brand-name">
         Hippopotamus Research
        </div>
-       <div class="brand-subtitle">
+<div class="brand-subtitle">
         מחקר כלכלי מתקדם
        </div>
-      </div>
-     </div>
-     <div class="social-section">
-      <div class="ticker-badge">
-       GIS
-      </div>
-      <a class="twitter-link" href="https://x.com/LmlyhNyr" target="_blank">
-        <img alt="X (Twitter)" class="twitter-icon" src="x.png"/>
-        <span>עקבו אחרינו</span>
-      </a>
-      <button class="x-share-btn-custom" type="button">
-        <span class="x-icon">
-          <img alt="X" src="x.png"/>
-        </span>
-        שתף ב־X
-      </button>
-     </div>
-    </div>
-   </div>
-   <div class="content">
-    <div class="article-content">
-     <div class="article-content-text">
-      <p>
-       ג׳נרל מילס: בין ניצחונות שיווקיים לאתגרים כלכליים
+</div>
+</div>
+<div class="social-section">
+<div class="ticker-badge">GIS</div>
+<a class="follow-btn" href="https://x.com/LmlyhNyr" rel="noopener" target="_blank">
+<span class="x-icon">
+<img alt="X" src="x.png"/>
+</span>
+    עקבו אחרינו
+  </a>
+<button class="x-share-btn-custom" type="button">
+<span class="x-icon">
+<img alt="X" src="x.png"/>
+</span>
+    שתף ב־X
+  </button>
+</div><script>
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('.x-share-btn-custom').forEach(function(btn) {
+    btn.addEventListener('click', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      // הצג פופ-אפ למשתמש
+      var popup = document.createElement('div');
+      popup.className = 'share-popup-message';
+      popup.textContent = 'השיתוף מחכה לך בדף השני :)';
+      document.body.appendChild(popup);
+      setTimeout(function() {
+        popup.remove();
+        window.open('https://thekinghippopotamus.github.io/HippoResearch_Marketbeat/', '_blank', 'noopener');
+        window.open('https://twitter.com/intent/tweet?text=%D7%9E%D7%97%D7%A7%D7%A8%20%D7%97%D7%93%D7%A9%20%D7%A9%D7%9C%20Hippopotamus%20Research%20%24GIS%0Ahttps%3A%2F%2Fthekinghippopotamus.github.io%2FHippoResearch_Marketbeat%2Farticles%2FGIS_20250622.html', '_self', 'noopener');
+      }, 3000); // 3 שניות
+      return false;
+    });
+  });
+});
+</script>
+</div>
+</div>
+<div class="content">
+<div class="article-content">
+<div class="article-content-text">
+<p>
+       #כלל מילס: בין ניצחונות שיווקיים לאתגרים כלכליים
       </p>
-      <h3>
+<h3>
        העלייה בשוק: סימנים חיוביים ומבט לא בטוח
-       
       </h3>
-      <p>
+<p>
        מניית General Mills (NYSE: GIS) חווה עליות היום, מה שמעיד על תנודתיות בשוק המונעת על ידי חדשות חיוביות ומאמצי שיווק חדשניים, לצד חששות לגבי לחצים אינפלציוניים ותחרות עזה. משקיעים מנווטים בין סימנים מעודדים לתחזיות זהירות, כאשר החברה מתמודדת עם אתגרים פנימיים וחיצוניים.
       </p>
-      <h3>
+<h3>
        פרסים ויצירתיות בשיווק
       </h3>
-      <p>
+<p>
        הקמפיין המבריק Progresso™ Soup Drops זכה להכרה עולמית בפסטיבל קאן ליונס הבינלאומי 2025, כאשר יצירותיו יצרו "אריות זהב וכסף" של חדשנות בשיווק. הצלחה זו מדגישה את כוחה של General Mills ביצירת קמפיינים יצירתיים ומעורבות מותג חזקה, מה שמחזק את מעמדה בשוק המזון.
       </p>
-      <h3>
+<h3>
        תמיכה אנליסטית מתמשכת
       </h3>
-      <p>
+<p>
        בנק אוף אמריקה ניירות ערך חיזק את האמון במניה על ידי אישור מחדש של דירוג "קנייה" עבור GIS. החלטה זו משקפת את הסנטימנט החיובי בקרב אנליסטים, אשר רואים פוטנציאל בצמיחה העתידית של החברה.
       </p>
-      <h3>
+<h3>
        מעבר לבריאות ואותנטיות
       </h3>
-      <p>
+<p>
        General Mills מציגה מחויבות חדשה לבריאות ולאותנטיות על ידי הסרת צבעים מלאכותיים מכל הדגנים ומוצרי המזון שלה. צעד זה עשוי לשפר את תדמית המותג שלה ולהעניק לצרכנים מוצרים שהם רואים כטבעיים יותר.
       </p>
-      <h3>
+<h3>
        רכישות מוסדיות ונתוני מסחר
       </h3>
-      <p>
+<p>
        דוחות הקונגרס חושפים רכישות משמעותיות של מניות GIS על ידי גופים מוסדיים, מה שמעיד על אמון מתמשך בחברה. נתוני המסחר הללו מספקים אינדיקציה לעניין מתמשך מצד המשקיעים, למרות תנודתיות בשוק.
       </p>
-      <h3>
+<h3>
        רבעון מעורב ותחזיות אנליסטים
       </h3>
-      <p>
+<p>
        דוחות רבעוניים מוקדמים מראים צמיחת הכנסות לצד יציבות במכירות עבור General Mills. פרשני וול סטריט, כולל אלה ב-Seeking Alpha, מתארים תמונה "מעורבת", מה שמשאיר את התחזיות לטווח הקרוב מאוזנות. עם זאת, אנליסטים מזהירים מפני רבעון רביעי מאתגר יותר עקב לחצים כלכליים גלובליים.
       </p>
-      <h3>
+<h3>
        הפסקת ייצור והשפעות על המכירות
       </h3>
-      <p>
+<p>
        בצעד שקט אך משמעותי, General Mills הפסיקה את הייצור של מספר זני צ'יריוס פופולריים, מה שעלול להשפיע על הכנסות החברה ונאמנות הלקוחות. צעד זה מעלה שאלות לגבי אסטרטגיית המוצר שלה ודרישות השוק המשתנות.
       </p>
-      <h3>
+<h3>
        ציפיות מחירים מעודכנות
       </h3>
-      <p>
+<p>
        בנק אוף אמריקה עדכן את ציפיות המחירים ארוכות הטווח עבור GIS, הורדת התחזיות מעט. צעד זה משקף את הסביבה הכלכלית המאתגרת יותר ואת הלחצים על רווחיות החברה.
       </p>
-      <h3>
+<h3>
        סיכום: מאזן בין ניצחונות לאתגרים
       </h3>
-      <p>
+<p>
        General Mills נמצאת בצומת דרכים, עם ניצחונות שיווקיים בולטים אך גם אתגרים כלכליים משמעותיים. בעוד שהחברה ממשיכה לחזק את תדמית המותג שלה באמצעות יוזמות בריאותיות וחדשניות בשיווק, היא מתמודדת עם לחצים אינפלציוניים, תחרות גוברת וביקוש עולמי לא יציב. הרבעון האחרון עשוי לספק רמזים לגבי הכיוון העתידי של החברה, כאשר משקיעים מחכים לתחזיות מעודכנות מנציגי GIS.
       </p>
-     </div>
-    </div>
-    <div class="disclaimer">
-     <strong>
+</div>
+</div>
+<div class="disclaimer">
+<strong>
       הסתייגות משפטית:
      </strong>
      המידע הנ״ל מבוסס על מקורות מידע שונים ועלול להשתנות בכל עת. המידע המוזכר בכתבה זו מוגבל לצורך מחקר והנאה ואין לראות בכתוב המלצה להשקעה.
      <br/>
-     <br/>
-     <strong>
+<br/>
+<strong>
       הערה:
      </strong>
      הניתוח נוצר באמצעות מודל בינה מלאכותית ועלול לכלול שגיאות כתיב או ניסוח. אנו מתנצלים מראש על אי-הדיוקים האפשריים.
      <br/>
-     <br/>
-     <strong>
+<br/>
+<strong>
       מקורות המידע:
      </strong>
      Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl
      <h3>
       Hippopotamus Research
      </h3>
-    </div>
-    <div class="newsletter-section" style="margin: 0 auto 24px auto; max-width: 400px; text-align: center;">
-     <div style="font-size: 1em; color: var(--accent-color); margin-bottom: 6px; font-weight: 500; opacity: 0.85;">
+</div>
+<div class="newsletter-section" style="margin: 0 auto 24px auto; max-width: 400px; text-align: center;">
+<div style="font-size: 1em; color: var(--accent-color); margin-bottom: 6px; font-weight: 500; opacity: 0.85;">
       הצטרפו לעדכונים במייל
      </div>
-     <iframe scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="width:100%!important; height:120px; border:none!important; border-radius:12px; background:#fff; box-shadow:0 2px 8px rgba(15,52,96,0.07);" title="הרשמה לניוזלטר">
-     </iframe>
-    </div>
-   </div>
-   <div class="footer">
-    <div class="timestamp">
+<iframe scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="width:100%!important; height:120px; border:none!important; border-radius:12px; background:#fff; box-shadow:0 2px 8px rgba(15,52,96,0.07);" title="הרשמה לניוזלטר">
+</iframe>
+</div>
+</div>
+<div class="footer">
+<div class="timestamp">
      נוצר ב: 22/06/2025 13:38
     </div>
-    <div class="source">
+<div class="source">
      מקורות: Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl | ניתוח באמצעות aya-expanse:8b
     </div>
-   </div>
-  </div>
-  <script id="dynamic-text-cleaner-script">
+</div>
+</div>
+<script id="dynamic-text-cleaner-script">
    document.addEventListener("DOMContentLoaded", function() {
   // Check if the cleaner has already run to avoid multiple executions
   if (document.body.dataset.jsCleanerApplied) {
@@ -744,25 +631,6 @@
   });
 });
   </script>
-  <script>
-   document.addEventListener('DOMContentLoaded', function() {
-  document.querySelectorAll('.x-share-btn-custom').forEach(function(btn) {
-    btn.addEventListener('click', function(e) {
-      e.preventDefault();
-      e.stopPropagation();
-      var popup = document.createElement('div');
-      popup.className = 'share-popup-message';
-      popup.textContent = 'השיתוף מחכה לך בדף השני :)';
-      document.body.appendChild(popup);
-      setTimeout(function() {
-        popup.remove();
-        window.open('https://thekinghippopotamus.github.io/HippoResearch_Marketbeat/', '_blank', 'noopener');
-        window.open('https://twitter.com/intent/tweet?text=%D7%9E%D7%97%D7%A7%D7%A8%20%D7%97%D7%93%D7%A9%20%D7%A9%D7%9C%20Hippopotamus%20Research%20%24GIS%0Ahttps%3A%2F%2Fthekinghippopotamus.github.io%2FHippoResearch_Marketbeat%2Farticles%2FGIS_20250622.html', '_self', 'noopener');
-      }, 3000);
-      return false;
-    });
-  });
-});
-  </script>
- </body>
+
+</body>
 </html>
