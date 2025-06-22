@@ -1423,5 +1423,17 @@
     "GICS Sector": "Information Technology",
     "GICS Sub-Industry": "Semiconductors",
     "Headquarters Location": "Phoenix, Arizona"
+  },
+  {
+    "ticker": "DUK",
+    "title": "DUK:סיקור יומי  ?",
+    "filename": "DUK_20250622.html",
+    "timestamp": "22/06/2025 12:26",
+    "summary": "דיוק אנרג'י מתמודדת עם סערה של שינויים: ירידות במניות, רגולציה, וסופות\nסערת אלמנטים פוגעת בחברה המובילה בתחום האנרגיה\nחברת דיוק אנרג'י (Duke Energy), ענקית שירותי האנרגיה האמריקאית, נמצאת תחת לחץ ממספ...",
+    "tags": [],
+    "Security": "Duke Energy",
+    "GICS Sector": "Utilities",
+    "GICS Sub-Industry": "Electric Utilities",
+    "Headquarters Location": "Charlotte, North Carolina"
   }
 ]
