@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup, Tag
 
 ARTICLES_DIR = 'articles'
 DOMAIN = 'https://thekinghippopotamus.github.io/HippoResearch_Marketbeat/articles/'
+INDEX_URL = 'https://thekinghippopotamus.github.io/HippoResearch_Marketbeat/'
 FOLLOW_URL = 'https://twitter.com/your_twitter_handle'
 X_ICON_SRC = 'x.png'
 
@@ -93,6 +94,30 @@ CSS_BLOCK = '''
       height: 16px;
       display: block;
     }
+    .share-popup-message {
+      position: fixed;
+      top: 30px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: #1da1f2;
+      color: #fff;
+      padding: 18px 32px;
+      border-radius: 30px;
+      font-size: 1.2em;
+      font-weight: 700;
+      box-shadow: 0 4px 24px rgba(29,161,242,0.18);
+      z-index: 9999;
+      opacity: 0.97;
+      text-align: center;
+      letter-spacing: 0.02em;
+      animation: fadeInOut 3s;
+    }
+    @keyframes fadeInOut {
+      0% { opacity: 0; transform: translateX(-50%) scale(0.95); }
+      10% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
+      90% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
+      100% { opacity: 0; transform: translateX(-50%) scale(0.95); }
+    }
     </style>
 '''
 
@@ -102,8 +127,16 @@ document.addEventListener('DOMContentLoaded', function() {{
     btn.addEventListener('click', function(e) {{
       e.preventDefault();
       e.stopPropagation();
-      window.open('index.html', '_blank');
-      window.open('{share_url}', '_self', 'noopener');
+      // הצג פופ-אפ למשתמש
+      var popup = document.createElement('div');
+      popup.className = 'share-popup-message';
+      popup.textContent = 'השיתוף מחכה לך בדף השני :)';
+      document.body.appendChild(popup);
+      setTimeout(function() {{
+        popup.remove();
+        window.open('{index_url}', '_blank', 'noopener');
+        window.open('{share_url}', '_self', 'noopener');
+      }}, 3000); // 3 שניות
       return false;
     }});
   }});
@@ -131,7 +164,7 @@ def url_encode(text):
     return quote(text, safe='')
 
 def build_share_url(ticker, filename):
-    text = f"מחקר חדש של Hippopotamus Research (${ticker})\n{DOMAIN}{filename}"
+    text = f"מחקר חדש של Hippopotamus Research ${ticker}\n{DOMAIN}{filename}"
     return f"https://twitter.com/intent/tweet?text={url_encode(text)}"
 
 def update_article(file_path):
@@ -176,7 +209,7 @@ def update_article(file_path):
                 logo_section.insert_after(social_soup)
 
     # Insert the JS block after the social-section (if not already present)
-    js_html = SOCIAL_JS_TEMPLATE.format(share_url=share_url)
+    js_html = SOCIAL_JS_TEMPLATE.format(share_url=share_url, index_url=INDEX_URL)
     js_soup = BeautifulSoup(js_html, 'html.parser')
     # Remove any old script with this logic
     for script in soup.find_all('script'):

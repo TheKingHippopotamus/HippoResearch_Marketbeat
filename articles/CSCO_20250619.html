@@ -399,6 +399,115 @@
       height: 16px;
       display: block;
     }
+    </style><style>
+    .x-share-btn-custom {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #14171a 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(29,161,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .x-share-btn-custom:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #14171a 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(29,161,242,0.18);
+    }
+    .x-share-btn-custom .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .x-share-btn-custom:hover .x-icon {
+      background: #1da1f2;
+    }
+    .x-share-btn-custom .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    .follow-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #7b2ff2 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(123,47,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .follow-btn:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #7b2ff2 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(123,47,242,0.18);
+    }
+    .follow-btn .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .follow-btn:hover .x-icon {
+      background: #7b2ff2;
+    }
+    .follow-btn .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    .share-popup-message {
+      position: fixed;
+      top: 30px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: #1da1f2;
+      color: #fff;
+      padding: 18px 32px;
+      border-radius: 30px;
+      font-size: 1.2em;
+      font-weight: 700;
+      box-shadow: 0 4px 24px rgba(29,161,242,0.18);
+      z-index: 9999;
+      opacity: 0.97;
+      text-align: center;
+      letter-spacing: 0.02em;
+      animation: fadeInOut 3s;
+    }
+    @keyframes fadeInOut {
+      0% { opacity: 0; transform: translateX(-50%) scale(0.95); }
+      10% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
+      90% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
+      100% { opacity: 0; transform: translateX(-50%) scale(0.95); }
+    }
     </style></head>
 <body>
 <div class="container">
@@ -437,8 +546,16 @@ document.addEventListener('DOMContentLoaded', function() {
     btn.addEventListener('click', function(e) {
       e.preventDefault();
       e.stopPropagation();
-      window.open('index.html', '_blank');
-      window.open('https://twitter.com/intent/tweet?text=%D7%9E%D7%97%D7%A7%D7%A8%20%D7%97%D7%93%D7%A9%20%D7%A9%D7%9C%20Hippopotamus%20Research%20%28%24CSCO%29%0Ahttps%3A%2F%2Fthekinghippopotamus.github.io%2FHippoResearch_Marketbeat%2Farticles%2FCSCO_20250619.html', '_self', 'noopener');
+      // הצג פופ-אפ למשתמש
+      var popup = document.createElement('div');
+      popup.className = 'share-popup-message';
+      popup.textContent = 'השיתוף מחכה לך בדף השני :)';
+      document.body.appendChild(popup);
+      setTimeout(function() {
+        popup.remove();
+        window.open('https://thekinghippopotamus.github.io/HippoResearch_Marketbeat/', '_blank', 'noopener');
+        window.open('https://twitter.com/intent/tweet?text=%D7%9E%D7%97%D7%A7%D7%A8%20%D7%97%D7%93%D7%A9%20%D7%A9%D7%9C%20Hippopotamus%20Research%20%24CSCO%0Ahttps%3A%2F%2Fthekinghippopotamus.github.io%2FHippoResearch_Marketbeat%2Farticles%2FCSCO_20250619.html', '_self', 'noopener');
+      }, 3000); // 3 שניות
       return false;
     });
   });
