@@ -199,35 +199,79 @@
         .disclaimer h3 { color: var(--accent-color); margin-top: 15px; font-size: 1.2em; }
         @media (max-width: 768px) {
             body { padding: 10px; }
-            .header-content { flex-direction: column; gap: 14px; text-align: center; }
+            .header-content { flex-direction: column; gap: 10px; text-align: center; }
             .logo-section {
                 flex-direction: column;
                 align-items: center;
-                gap: 6px;
+                gap: 4px;
                 max-width: 100vw;
                 width: 100%;
             }
             .brand-info { max-width: 100vw; }
-            .content { padding: 18px 4px; font-size: 1em; }
-            .article-content { padding: 12px; }
+            .brand-name {
+                font-size: 1.05em;
+                font-weight: 700;
+                margin-bottom: 2px;
+                letter-spacing: 0.01em;
+            }
+            .brand-subtitle {
+                font-size: 0.85em;
+                opacity: 0.85;
+                font-weight: 500;
+            }
+            .ticker-badge {
+                font-size: 0.92em;
+                padding: 5px 10px;
+                border-radius: 16px;
+            }
+            .content { padding: 10px 2px; font-size: 1em; }
+            .article-content { padding: 8px; }
             .logo-container { width: 60px; height: 60px; aspect-ratio: 1/1; }
             .logo-image { width: 50px; height: 50px; aspect-ratio: 1/1; }
-            .social-section { gap: 7px; flex-wrap: wrap; justify-content: center; }
+            .social-section {
+                gap: 5px;
+                flex-wrap: wrap;
+                justify-content: center;
+            }
             .twitter-link, .x-share-btn-custom {
                 min-width: 90px;
-                min-height: 36px;
-                font-size: 0.95em;
-                padding: 7px 10px;
+                min-height: 32px;
+                font-size: 0.93em;
+                padding: 6px 8px;
+                border-radius: 18px;
+                font-family: 'Heebo', 'Segoe UI', sans-serif;
+                font-weight: 700;
+                letter-spacing: 0.01em;
+                box-shadow: 0 2px 8px rgba(15,52,96,0.07);
+                display: inline-flex;
+                align-items: center;
+                gap: 7px;
+            }
+            .twitter-link {
+                background: linear-gradient(90deg, #7b2ff2 0%, #1da1f2 100%);
+                color: #fff;
+                border: none;
+            }
+            .twitter-link:hover {
+                background: linear-gradient(90deg, #1da1f2 0%, #7b2ff2 100%);
+            }
+            .x-share-btn-custom {
+                background: linear-gradient(90deg, #14171a 0%, #e94560 100%);
+                color: #fff;
+                border: none;
+            }
+            .x-share-btn-custom:hover {
+                background: linear-gradient(90deg, #e94560 0%, #14171a 100%);
             }
             .twitter-icon, .x-share-btn-custom .x-icon {
-                width: 18px;
-                height: 18px;
-                min-width: 18px;
-                min-height: 18px;
+                width: 15px;
+                height: 15px;
+                min-width: 15px;
+                min-height: 15px;
             }
-            .x-share-btn-custom .x-icon img {
-                width: 13px;
-                height: 13px;
+            .x-share-btn-custom .x-icon img, .twitter-icon img {
+                width: 11px;
+                height: 11px;
             }
         }
         .newsletter-section {
