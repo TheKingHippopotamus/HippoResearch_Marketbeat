@@ -1351,5 +1351,17 @@
     "GICS Sector": "Financials",
     "GICS Sub-Industry": "Diversified Banks",
     "Headquarters Location": "Charlotte, North Carolina"
+  },
+  {
+    "ticker": "SNA",
+    "title": "SNA:סיקור יומי  ?",
+    "filename": "SNA_20250622.html",
+    "timestamp": "22/06/2025 12:01",
+    "summary": "#חשיפת המסתורין: Snap-On ומסעיה מעבר לכלים\nמעבר לכותרות: חקירת ההשפעות הנסתרות\nבתוך עולם העסקים הסואן, חברת Snap-On Incorporated (SNA) מצאה את עצמה במרכזו של דיון מרתק, אך מעט מבלבל. על אף המיקוד בציד...",
+    "tags": [],
+    "Security": "Snap-on",
+    "GICS Sector": "Industrials",
+    "GICS Sub-Industry": "Industrial Machinery & Supplies & Components",
+    "Headquarters Location": "Kenosha, Wisconsin"
   }
 ]
