@@ -1,14 +1,15 @@
 <!DOCTYPE html>
+
 <html dir="rtl" lang="he">
- <head>
-  <meta charset="utf-8"/>
-  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-  <title>
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>
    דוח ניתוח סיבתיות - AAPL
   </title>
-  <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
-  <style>
+<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
+<style>
    :root {
             --primary-color: #1a1a2e;
             --secondary-color: #16213e;
@@ -228,91 +229,394 @@
             }
         }
   </style>
- </head>
- <body>
-  <div class="container">
-   <div class="header">
-    <div class="header-content">
-     <div class="logo-section">
-      <div class="logo-container">
-       <img alt="Logo" class="logo-image" src="logo.png"/>
-      </div>
-      <div class="brand-info">
-       <div class="brand-name">
+<style>
+    .x-share-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #14171a 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(29,161,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .x-share-btn:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #14171a 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(29,161,242,0.18);
+    }
+    .x-share-btn .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .x-share-btn:hover .x-icon {
+      background: #1da1f2;
+    }
+    .x-share-btn .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    .follow-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #7b2ff2 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(123,47,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .follow-btn:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #7b2ff2 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(123,47,242,0.18);
+    }
+    .follow-btn .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .follow-btn:hover .x-icon {
+      background: #7b2ff2;
+    }
+    .follow-btn .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    </style><style>
+    .x-share-btn-custom {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #14171a 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(29,161,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .x-share-btn-custom:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #14171a 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(29,161,242,0.18);
+    }
+    .x-share-btn-custom .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .x-share-btn-custom:hover .x-icon {
+      background: #1da1f2;
+    }
+    .x-share-btn-custom .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    .follow-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #7b2ff2 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(123,47,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .follow-btn:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #7b2ff2 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(123,47,242,0.18);
+    }
+    .follow-btn .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .follow-btn:hover .x-icon {
+      background: #7b2ff2;
+    }
+    .follow-btn .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    </style><style>
+    .x-share-btn-custom {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #14171a 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(29,161,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .x-share-btn-custom:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #14171a 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(29,161,242,0.18);
+    }
+    .x-share-btn-custom .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .x-share-btn-custom:hover .x-icon {
+      background: #1da1f2;
+    }
+    .x-share-btn-custom .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    .follow-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #7b2ff2 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(123,47,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .follow-btn:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #7b2ff2 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(123,47,242,0.18);
+    }
+    .follow-btn .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .follow-btn:hover .x-icon {
+      background: #7b2ff2;
+    }
+    .follow-btn .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    .share-popup-message {
+      position: fixed;
+      top: 30px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: #1da1f2;
+      color: #fff;
+      padding: 18px 32px;
+      border-radius: 30px;
+      font-size: 1.2em;
+      font-weight: 700;
+      box-shadow: 0 4px 24px rgba(29,161,242,0.18);
+      z-index: 9999;
+      opacity: 0.97;
+      text-align: center;
+      letter-spacing: 0.02em;
+      animation: fadeInOut 3s;
+    }
+    @keyframes fadeInOut {
+      0% { opacity: 0; transform: translateX(-50%) scale(0.95); }
+      10% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
+      90% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
+      100% { opacity: 0; transform: translateX(-50%) scale(0.95); }
+    }
+    </style></head>
+<body>
+<div class="container">
+<div class="header">
+<div class="header-content">
+<div class="logo-section">
+<div class="logo-container">
+<img alt="Logo" class="logo-image" src="logo.png"/>
+</div>
+<div class="brand-info">
+<div class="brand-name">
         Hippopotamus Research
        </div>
-       <div class="brand-subtitle">
+<div class="brand-subtitle">
         מחפשים את הסיבה לתנועות בשוק 
        </div>
-      </div>
-     </div>
-     <div class="social-section">
-      <div class="ticker-badge">
-       AAPL
-      </div>
-      <a class="twitter-link" href="https://twitter.com/your_twitter_handle" target="_blank">
-       <img alt="X (Twitter)" class="twitter-icon" src="x.png"/>
-       <span>
-        עקבו אחרינו
-       </span>
-      </a>
-     </div>
-    </div>
-   </div>
-   <div class="content">
-    <div class="newsletter-section" style="margin:12px auto 20px auto;max-width:260px;padding:0;background:none;border:none;box-shadow:none;border-radius:0;position:relative;z-index:2;">
-     <h3 style="font-weight:400;opacity:0.5;font-size:0.85em;margin-bottom:2px;margin-top:0;color:var(--accent-color);">
+</div>
+</div>
+<div class="social-section">
+<div class="ticker-badge">AAPL</div>
+<a class="follow-btn" href="https://twitter.com/your_twitter_handle" rel="noopener" target="_blank">
+<span class="x-icon">
+<img alt="X" src="x.png"/>
+</span>
+    עקבו אחרינו
+  </a>
+<button class="x-share-btn-custom" type="button">
+<span class="x-icon">
+<img alt="X" src="x.png"/>
+</span>
+    שתף ב־X
+  </button>
+</div><script>
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('.x-share-btn-custom').forEach(function(btn) {
+    btn.addEventListener('click', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      // הצג פופ-אפ למשתמש
+      var popup = document.createElement('div');
+      popup.className = 'share-popup-message';
+      popup.textContent = 'השיתוף מחכה לך בדף השני :)';
+      document.body.appendChild(popup);
+      setTimeout(function() {
+        popup.remove();
+        window.open('https://thekinghippopotamus.github.io/HippoResearch_Marketbeat/', '_blank', 'noopener');
+        window.open('https://twitter.com/intent/tweet?text=%D7%9E%D7%97%D7%A7%D7%A8%20%D7%97%D7%93%D7%A9%20%D7%A9%D7%9C%20Hippopotamus%20Research%20%24AAPL%0Ahttps%3A%2F%2Fthekinghippopotamus.github.io%2FHippoResearch_Marketbeat%2Farticles%2FAAPL_20250618.html', '_self', 'noopener');
+      }, 3000); // 3 שניות
+      return false;
+    });
+  });
+});
+</script>
+</div>
+</div>
+<div class="content">
+<div class="newsletter-section" style="margin:12px auto 20px auto;max-width:260px;padding:0;background:none;border:none;box-shadow:none;border-radius:0;position:relative;z-index:2;">
+<h3 style="font-weight:400;opacity:0.5;font-size:0.85em;margin-bottom:2px;margin-top:0;color:var(--accent-color);">
       הצטרפו לרשימת התפוצה שלנו
      </h3>
-     <iframe class="newsletter-iframe" scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="height:110px;width:100%;border:none;background:none;box-shadow:none;border-radius:0;">
-     </iframe>
-    </div>
-    <div class="article-content">
-     <p>
+<iframe class="newsletter-iframe" scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="height:110px;width:100%;border:none;background:none;box-shadow:none;border-radius:0;">
+</iframe>
+</div>
+<div class="article-content">
+<p>
       AAPL
      </p>
-    </div>
-    <h3 class="section-header">
+</div>
+<h3 class="section-header">
      ניתוח תנודתיות מניית AAPL: סקירה של גורמים משפיעים
     </h3>
-    <p>
+<p>
      מניות אפל (AAPL) חוות תנודתיות משמעותית ביום הנוכחי, תחת לחץ רגולטורי ומשפטי כבד, למרות דיווחים מעודדים על צמיחה בעסקים מסוימים. הניתוח שלנו מתמקד בגורמים המרכזיים המשפיעים על התנהגות המניה, ומדגיש את המורכבות של הסביבה בה פועלת החברה.
     </p>
-    <p>
+<p>
      רגולציה והליכים משפטיים: אתגרים משמעותיים החברה מתמודדת עם סדרה של הליכים משפטיים ואתגרים רגולטוריים, אשר משפיעים באופן ישיר על תחושת הביטחון של המשקיעים. בית המשפט ההולנדי הטיל קנס על אפל בגין פגיעה בתחרות בחנות האפליקציות, והאישור לפסקי דין אנטי-תחרותיים בסכסוכים הקשורים לאפליקציות היכרויות מעיב על המוניטין שלה. בנוסף, בית משפט בארה"ב דחה תביעה ייצוגית לגבי בלעדיות iCloud, מה שמגביר את החשיפה המשפטית של החברה. חקירת ניירות ערך על ידי ברונשטיין, גבירץ וגרוסמן מעלה חששות לגבי דיוק הדיווחים של אפל, ומעוררת ספקות בקרב המשקיעים.
     </p>
-    <p>
+<p>
      צמיחה ושיתופי פעולה: אורות ירוקים מעורבים למרות האתגרים, ישנם מספר גורמים חיוביים התורמים לצמיחת החברה. הספקית ג'ביל העלתה את תחזיותיה, מצביעה על ביקוש חזק לתשתיות של אפל. שותפות עם עליבאבא בתחום ה-AI, כולל השקת מודלים מעודכנים לשוק הסיני, עשויה להרחיב את נוכחותה הגלובלית של אפל. בנוסף, עדכון iOS 26 עשוי לשפר את חוויית המשתמש באפליקציות מוזיקה צד שלישי, מה שמגביר את הפוטנציאל למונטיזציה מוגברת ב-App Store.
     </p>
-    <p>
+<p>
      ביקוש מוצר והשפעה על שוק: סימנים חיוביים ניתוח שוק מציג עניין מתמשך במניות אפל מצד משקיעים. MarketBeat הציבה את החברה ברשימת מניות הכושר והמוזיקה המובילות, מה שמעיד על האמון בצמיחה ובפוטנציאל שלה. השקת קרן סל חדשה בבורסת טורונטו, המדגישה את אפל כמנוע הכנסה גבוה, מדגישה גם היא את האטרקטיביות המתמשכת של החברה בקרב משקיעים מוסדיים.
     </p>
-    <p>
+<p>
      סיכום ומבט קדימה: איזון עדין המצב הנוכחי של AAPL מאופיין באיזון עדין בין גורמים חיוביים וצמיחה בשיתופי פעולה, לבין אתגרים משפטיים רגולטוריים ומשפטיים כבדים. בעוד שהחברה מציגה ביצועים מרשימים בתחומים מסוימים, כגון שותפויות אסטרטגיות ושיפורים בטכנולוגיה, הסביבה הרגולטורית והמשפטית הופכת למורכבת יותר. המשך מעקב צמוד הוא חיוני, שכן תוצאות הליכים משפטיים עתידיים יכולות להשפיע באופן משמעותי על ערך החברה ותפיסתה בשוק.
     </p>
-    <p>
+<p>
      בסיכומו של דבר, אפל נמצאת בצומת דרכים, עם פוטנציאל לצמיחה משמעותית, אך גם עם מכשולים שעלולה להיתקל בהם בדרך. המשקיעים יצטרכו להעריך בזהירות את האיזון העדין בין כוחות חיוביים לכוחות מאזנים כדי לקבל החלטות מושכלות בנוגע למניה.
     </p>
-   </div>
-   <div class="disclaimer">
-    <strong>
+</div>
+<div class="disclaimer">
+<strong>
      ⚠️ אזהרה:
     </strong>
     דוח זה מבוסס על מחפשים את הסיבה לתנועות בשוק  ועלול להשתנות בכל עת. המידע המוצג מוגבל לצורך מחקר וניתוח ואין לראות בו המלצה להשקעה. יש להתייעץ עם יועץ פיננסי לפני קבלת החלטות השקעה.
     <h3>
      Hippopotamus Research
     </h3>
-   </div>
-  </div>
-  <div class="footer">
-   <div class="timestamp">
+</div>
+</div>
+<div class="footer">
+<div class="timestamp">
     נוצר ב: 18/06/2025 13:58
    </div>
-   <div class="source">
+<div class="source">
     מקור: MarketBeat | עובד באמצעות LLM - aya-expanse:8b
    </div>
-  </div>
-  <script id="dynamic-text-cleaner-script">
+</div>
+<script id="dynamic-text-cleaner-script">
    document.addEventListener("DOMContentLoaded", function() {
   // Check if the cleaner has already run to avoid multiple executions
   if (document.body.dataset.jsCleanerApplied) {
@@ -321,11 +625,13 @@
   document.body.dataset.jsCleanerApplied = 'true';
 
   const elements = document.querySelectorAll('p, h1, h2, h3, h4, li, span');
+  
   // Regex to find all variations of markers:
   // - Optional hashes (e.g., #TITLE, ## TITLE)
-  // - The marker words (TITLE, SUBTITLE, PARA) with an optional colon
+  // - The marker words in English (TITLE, SUBTITLE, PARA) with an optional colon
+  // - The marker words in Hebrew (כותרת ראשית, כותרת משנה, פסקה) with an optional colon
   // - Any remaining hash symbols
-  const regex = /(?:#+\s*)?(?:TITLE|SUBTITLE|PARA):?|#+/gi;
+  const regex = /(?:#+\s*)?(?:TITLE|SUBTITLE|PARA|כותרת ראשית|כותרת משנה|פסקה):?|#+/gi;
 
   elements.forEach(el => {
     // We iterate through child nodes to only affect text nodes.
@@ -342,5 +648,5 @@
   });
 });
   </script>
- </body>
+</body>
 </html>

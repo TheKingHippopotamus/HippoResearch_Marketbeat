@@ -1,14 +1,15 @@
 <!DOCTYPE html>
+
 <html dir="rtl" lang="he">
- <head>
-  <meta charset="utf-8"/>
-  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-  <title>
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>
    Microsoft (MSFT) - מחקר כלכלי מתקדם | Hippopotamus Research
   </title>
-  <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
-  <style>
+<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
+<style>
    :root {
             --primary-color: #1a1a2e;
             --secondary-color: #16213e;
@@ -202,182 +203,485 @@
             transition: none;
         }
   </style>
- </head>
- <body>
-  <div class="container">
-   <div class="header">
-    <div class="header-content">
-     <div class="logo-section">
-      <div class="logo-container">
-       <div class="logo-image">
-        <img alt="Hippopotamus Research Logo" src="logo.png"/>
-       </div>
-      </div>
-      <div class="brand-info">
-       <div class="brand-name">
+<style>
+    .x-share-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #14171a 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(29,161,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .x-share-btn:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #14171a 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(29,161,242,0.18);
+    }
+    .x-share-btn .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .x-share-btn:hover .x-icon {
+      background: #1da1f2;
+    }
+    .x-share-btn .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    .follow-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #7b2ff2 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(123,47,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .follow-btn:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #7b2ff2 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(123,47,242,0.18);
+    }
+    .follow-btn .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .follow-btn:hover .x-icon {
+      background: #7b2ff2;
+    }
+    .follow-btn .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    </style><style>
+    .x-share-btn-custom {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #14171a 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(29,161,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .x-share-btn-custom:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #14171a 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(29,161,242,0.18);
+    }
+    .x-share-btn-custom .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .x-share-btn-custom:hover .x-icon {
+      background: #1da1f2;
+    }
+    .x-share-btn-custom .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    .follow-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #7b2ff2 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(123,47,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .follow-btn:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #7b2ff2 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(123,47,242,0.18);
+    }
+    .follow-btn .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .follow-btn:hover .x-icon {
+      background: #7b2ff2;
+    }
+    .follow-btn .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    </style><style>
+    .x-share-btn-custom {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #14171a 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(29,161,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .x-share-btn-custom:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #14171a 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(29,161,242,0.18);
+    }
+    .x-share-btn-custom .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .x-share-btn-custom:hover .x-icon {
+      background: #1da1f2;
+    }
+    .x-share-btn-custom .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    .follow-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #7b2ff2 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(123,47,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .follow-btn:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #7b2ff2 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(123,47,242,0.18);
+    }
+    .follow-btn .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .follow-btn:hover .x-icon {
+      background: #7b2ff2;
+    }
+    .follow-btn .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    .share-popup-message {
+      position: fixed;
+      top: 30px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: #1da1f2;
+      color: #fff;
+      padding: 18px 32px;
+      border-radius: 30px;
+      font-size: 1.2em;
+      font-weight: 700;
+      box-shadow: 0 4px 24px rgba(29,161,242,0.18);
+      z-index: 9999;
+      opacity: 0.97;
+      text-align: center;
+      letter-spacing: 0.02em;
+      animation: fadeInOut 3s;
+    }
+    @keyframes fadeInOut {
+      0% { opacity: 0; transform: translateX(-50%) scale(0.95); }
+      10% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
+      90% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
+      100% { opacity: 0; transform: translateX(-50%) scale(0.95); }
+    }
+    </style></head>
+<body>
+<div class="container">
+<div class="header">
+<div class="header-content">
+<div class="logo-section">
+<div class="logo-container">
+<div class="logo-image">
+<img alt="Hippopotamus Research Logo" src="logo.png"/>
+</div>
+</div>
+<div class="brand-info">
+<div class="brand-name">
         Hippopotamus Research
        </div>
-       <div class="brand-subtitle">
+<div class="brand-subtitle">
         מחקר כלכלי מתקדם
        </div>
-      </div>
-     </div>
-     <div class="social-section">
-      <div class="ticker-badge">
-       MSFT
-      </div>
-      <a class="twitter-link" href="https://twitter.com/your_twitter_handle" target="_blank">
-       <img alt="X (Twitter)" class="twitter-icon" src="x.png"/>
-       <span>
-        עקבו אחרינו
-       </span>
-      </a>
-     </div>
-    </div>
-   </div>
-   <div class="content">
-    <div class="article-content">
-     <div class="article-content-text">
-      <h1>
+</div>
+</div>
+<div class="social-section">
+<div class="ticker-badge">MSFT</div>
+<a class="follow-btn" href="https://twitter.com/your_twitter_handle" rel="noopener" target="_blank">
+<span class="x-icon">
+<img alt="X" src="x.png"/>
+</span>
+    עקבו אחרינו
+  </a>
+<button class="x-share-btn-custom" type="button">
+<span class="x-icon">
+<img alt="X" src="x.png"/>
+</span>
+    שתף ב־X
+  </button>
+</div><script>
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('.x-share-btn-custom').forEach(function(btn) {
+    btn.addEventListener('click', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      // הצג פופ-אפ למשתמש
+      var popup = document.createElement('div');
+      popup.className = 'share-popup-message';
+      popup.textContent = 'השיתוף מחכה לך בדף השני :)';
+      document.body.appendChild(popup);
+      setTimeout(function() {
+        popup.remove();
+        window.open('https://thekinghippopotamus.github.io/HippoResearch_Marketbeat/', '_blank', 'noopener');
+        window.open('https://twitter.com/intent/tweet?text=%D7%9E%D7%97%D7%A7%D7%A8%20%D7%97%D7%93%D7%A9%20%D7%A9%D7%9C%20Hippopotamus%20Research%20%24MSFT%0Ahttps%3A%2F%2Fthekinghippopotamus.github.io%2FHippoResearch_Marketbeat%2Farticles%2FMSFT_20250621.html', '_self', 'noopener');
+      }, 3000); // 3 שניות
+      return false;
+    });
+  });
+});
+</script>
+</div>
+</div>
+<div class="content">
+<div class="article-content">
+<div class="article-content-text">
+<h1>
        מיקרוסופט: בין חדשנות למיתון - מסע דרך עליות ומורדות
       </h1>
-      <h2>
+<h2>
        תמונה מקיפה של ענקית הטכנולוגיה
       </h2>
-      <p>
+<p>
        בעולם הדיגיטלי, שם הענקים שולטים, מיקרוסופט (MSFT) היא סמל לחדשנות ולכוח. עם זאת, המסע שלה לא היה חלק, כפי שמעידים תנודות האחרונות בשוק ובמבנה הארגוני שלה. נצלול עמוק אל תוך נתוני החברה, ננתח את הצעדים האסטרטגיים שלה ואת ההשפעות ארוכות הטווח על מעמדה בשוק.
       </p>
-      <h2>
+<h2>
        אנליסטים, שותפויות, וסיכונים מתערבבים
       </h2>
-      <p>
+<p>
        מניות מיקרוסופט היו בתנועה לאחרונה, מגיבות למגוון גורמים. פעולות חיוביות של אנליסטים העריכו את הפוטנציאל שלה, במיוחד עם הרחבת שותפויותיה בתחומי הגיימינג והענן. אך סיכונים אורגניים ומיתון במשא ומתן על עסקאות שותפות הציפו את התמונה.
       </p>
-      <h2>
+<h2>
        וולס פארגו: אמון בנתונים של מיקרוסופט
       </h2>
-      <p>
+<p>
        בנק ההשקעות וולס פארגו העלה את מחיר היעד שלו עבור MSFT, מה שמעיד על אמון בנתונים הבסיסיים של החברה. דירוג "עודף משקל" שלהם מחזק את ההערכה כי מיקרוסופט נמצאת בעמדה חזקה לטווח הקצר, למרות האתגרים.
       </p>
-      <h2>
+<h2>
        AMD והשותפות עם Xbox: הזדמנויות חומרה
       </h2>
-      <p>
+<p>
        חברת השבבים AMD הכריזה על פיתוח שבבים מותאמים למשחקים עבור ה-Xbox הבא של מיקרוסופט. צעד זה משפר את הפוטנציאל ארוך הטווח של עסקי החומרה של Xbox, ומציע הזדמנויות מרגשות לשוק הגיימינג.
       </p>
-      <h2>
+<h2>
        נרדיו: ענן בינה מלאכותית מניע הכנסות
       </h2>
-      <p>
+<p>
        נרדיו, ספקית שירותי ענן, דיווחה על הכנסות שנתיות מרשימות של מעל 100 מיליון דולר. אימוץ מואץ של טכנולוגיות ענן עבור עומסי עבודה של בינה מלאכותית ואוטומציה מצד ארגונים מעלה את הפוטנציאל לצמיחה נוספת עבור מיקרוסופט, המכהנת כשחקנית מרכזית בתחום זה.
       </p>
-      <h2>
+<h2>
        שוק ניהול מכשירים ניידים: צמיחה צפויה
       </h2>
-      <p>
+<p>
        דו"ח של MarketsandMarkets חוזה צמיחה מרשימה בשוק ניהול המכשירים הניידים, עם היעד של 22 מיליארד דולר עד 2027. פתרון Intune של מיקרוסופט שולט במגזר זה, מה שמדגיש את מעמדה המוביל בטכנולוגיית מידע.
       </p>
-      <h2>
+<h2>
        MarketBeat: ציפיות גבוהות לרבעון השני
       </h2>
-      <p>
+<p>
        תחזיות MarketBeat לרבעון השני מצביעות על פוטנציאל עידוד עבור מגזר טכנולוגיית המידע, בהובלת MSFT וחברות בינה מלאכותית אחרות. ציפיות נמוכות יותר עשויות להוביל לתוצאות טובות יותר, מה שמחזק את המניה.
       </p>
-      <h2>
+<h2>
        מרכזי נתונים והטבות מס: הזדמנויות עקיפות
       </h2>
-      <p>
+<p>
        מדינות ברחבי העולם ממשיכות לתמרן הטבות מס כדי למשוך מרכזי נתונים, אסטרטגיה המועילה ישירות לחברות כמו אמזון, גוגל ומיקרוסופט. מגמה זו מדגישה את חשיבותם של מרכזי הנתונים בענן הגלובלי.
       </p>
-      <h2>
+<h2>
        השקעה מוסדית: סימן אמון ארוך טווח
       </h2>
-      <p>
+<p>
        ניתוח של תנועות תיקי השקעות מיליארדרים חושף רכישות מתמשכות של מניות MSFT, מה שמצביע על אמונה ארוכת טווח ביכולותיה של החברה. משקיעים מוסדיים חכמים רואים פוטנציאל צמיחה משמעותי במיקרוסופט.
       </p>
-      <h2>
+<h2>
        Xbox Game Showcase: ציפיות המעריצים מתערבבות
       </h2>
-      <p>
+<p>
        תגובות מעורבות ל-Xbox Game Showcase האחרון של מיקרוסופט משקפות ספקנות מסוימת בקרב מעריצים. בעוד שהם מתרגשים מהחומרה המתקדמת, יש חששות לגבי הכיוון העתידי של קונסולות המשחקים.
       </p>
-      <h2>
+<h2>
        בינה מלאכותית: מועמד מוביל בשווי שוק עצום
       </h2>
-      <p>
+<p>
        מיקרוסופט נבחרה כמועמדת מובילה בתחום הבינה המלאכותית, עם תחזיות לשווי שוק של 5 טריליון דולר עד 2028. תפקידה המרכזי במגזר זה מדגיש את חשיבותה של החברה בעידן הדיגיטלי.
       </p>
-      <h2>
+<h2>
        צמצום משרות: אוטומציה ובינה מלאכותית
       </h2>
-      <p>
+<p>
        דיווחים על כוונתה של מיקרוסופט לצמצם אלפי משרות, בעיקר בצוותי מכירות, מעלים שאלות לגבי האסטרטגיה שלה. האוטומציה של תפקידים באמצעות בינה מלאכותית מעלה חששות לגבי ביצועי החברה ומורל העובדים.
       </p>
-      <h2>
+<h2>
        משא ומתן עם OpenAI: סכסוכי אחזקות
       </h2>
-      <p>
+<p>
        המשא ומתן בין מיקרוסופט ל-OpenAI הסתבך סביב סכסוכי אחזקות. מיקרוסופט, על פי דיווחים, שוקלת השעיית השיחות, מה שמעורר אי ודאות סביב שותפות הדגל שלה בבינה מלאכותית.
       </p>
-      <h2>
+<h2>
        תחרות ChatGPT: לחץ על אסטרטגיות המונטיזציה
       </h2>
-      <p>
+<p>
        השקת תוכניות ChatGPT בעלות נמוכה יותר על ידי OpenAI מציבה אתגר לאסטרטגיות המונטיזציה של מיקרוסופט מבינה מלאכותית. החברה תצטרך להתאים את גישותיה כדי לשמור על יתרון בשוק.
       </p>
-      <h2>
+<h2>
        מכסים ומדיניות סחר: סיכונים מתמשכים
       </h2>
-      <p>
+<p>
        מכסים ומתחי מדיניות סחר ממשיכים להוות סיכון עבור מיקרוסופט. עלייה בעלויות הייבוא עשויה להשפיע על תחזיות הרווחיות שלה, מה שמדגיש את הצורך באסטרטגיות גמישות בשוק הגלובלי.
       </p>
-      <p>
+<p>
        ---
       </p>
-      <p>
+<p>
        סיפורה של מיקרוסופט הוא מסעה של ענקית טכנולוגיה דרך עליות ומורדות, חדשנות ומיתון. עם כל צעד, היא מנווטת בסביבה עסקית דינמית, מתמודדת עם סיכונים ומציעה פתרונות מהפכניים. עתידה של החברה נותר לא ידוע, אך המורשת שלה כמרכז חדשנות טכנולוגית היא ללא ספק מוצקה.
       </p>
-     </div>
-    </div>
-    <div class="disclaimer">
-     <strong>
+</div>
+</div>
+<div class="disclaimer">
+<strong>
       הסתייגות משפטית:
      </strong>
      המידע הנ״ל מבוסס על מקורות מידע שונים ועלול להשתנות בכל עת. המידע המוזכר בכתבה זו מוגבל לצורך מחקר והנאה ואין לראות בכתוב המלצה להשקעה.
      <br/>
-     <br/>
-     <strong>
+<br/>
+<strong>
       הערה:
      </strong>
      הניתוח נוצר באמצעות מודל בינה מלאכותית ועלול לכלול שגיאות כתיב או ניסוח. אנו מתנצלים מראש על אי-הדיוקים האפשריים.
      <br/>
-     <br/>
-     <strong>
+<br/>
+<strong>
       מקורות המידע:
      </strong>
      Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl
      <h3>
       Hippopotamus Research
      </h3>
-    </div>
-    <div class="newsletter-section" style="margin: 0 auto 24px auto; max-width: 400px; text-align: center;">
-     <div style="font-size: 1em; color: var(--accent-color); margin-bottom: 6px; font-weight: 500; opacity: 0.85;">
+</div>
+<div class="newsletter-section" style="margin: 0 auto 24px auto; max-width: 400px; text-align: center;">
+<div style="font-size: 1em; color: var(--accent-color); margin-bottom: 6px; font-weight: 500; opacity: 0.85;">
       הצטרפו לעדכונים במייל
      </div>
-     <iframe scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="width:100%!important; height:120px; border:none!important; border-radius:12px; background:#fff; box-shadow:0 2px 8px rgba(15,52,96,0.07);" title="הרשמה לניוזלטר">
-     </iframe>
-    </div>
-   </div>
-   <div class="footer">
-    <div class="timestamp">
+<iframe scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="width:100%!important; height:120px; border:none!important; border-radius:12px; background:#fff; box-shadow:0 2px 8px rgba(15,52,96,0.07);" title="הרשמה לניוזלטר">
+</iframe>
+</div>
+</div>
+<div class="footer">
+<div class="timestamp">
      נוצר ב: 21/06/2025 21:30
     </div>
-    <div class="source">
+<div class="source">
      מקורות: Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl | ניתוח באמצעות aya-expanse:8b
     </div>
-   </div>
-  </div>
-  <script id="dynamic-text-cleaner-script">
+</div>
+</div>
+<script id="dynamic-text-cleaner-script">
    document.addEventListener("DOMContentLoaded", function() {
   // Check if the cleaner has already run to avoid multiple executions
   if (document.body.dataset.jsCleanerApplied) {
@@ -386,11 +690,13 @@
   document.body.dataset.jsCleanerApplied = 'true';
 
   const elements = document.querySelectorAll('p, h1, h2, h3, h4, li, span');
+  
   // Regex to find all variations of markers:
   // - Optional hashes (e.g., #TITLE, ## TITLE)
-  // - The marker words (TITLE, SUBTITLE, PARA) with an optional colon
+  // - The marker words in English (TITLE, SUBTITLE, PARA) with an optional colon
+  // - The marker words in Hebrew (כותרת ראשית, כותרת משנה, פסקה) with an optional colon
   // - Any remaining hash symbols
-  const regex = /(?:#+\s*)?(?:TITLE|SUBTITLE|PARA):?|#+/gi;
+  const regex = /(?:#+\s*)?(?:TITLE|SUBTITLE|PARA|כותרת ראשית|כותרת משנה|פסקה):?|#+/gi;
 
   elements.forEach(el => {
     // We iterate through child nodes to only affect text nodes.
@@ -407,5 +713,5 @@
   });
 });
   </script>
- </body>
+</body>
 </html>

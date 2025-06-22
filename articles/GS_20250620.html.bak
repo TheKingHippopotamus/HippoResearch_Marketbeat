@@ -1,14 +1,15 @@
 <!DOCTYPE html>
+
 <html dir="rtl" lang="he">
- <head>
-  <meta charset="utf-8"/>
-  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-  <title>
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>
    דוח ניתוח סיבתיות - GS
   </title>
-  <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
-  <style>
+<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
+<style>
    :root {
             --primary-color: #1a1a2e;
             --secondary-color: #16213e;
@@ -230,53 +231,355 @@
             }
         }
   </style>
- </head>
- <body>
-  <div class="container">
-   <div class="header">
-    <div class="header-content">
-     <div class="logo-section">
-      <div class="logo-container">
-       <img alt="Logo" class="logo-image" src="logo.png"/>
-      </div>
-      <div class="brand-info">
-       <div class="brand-name">
+<style>
+    .x-share-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #14171a 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(29,161,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .x-share-btn:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #14171a 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(29,161,242,0.18);
+    }
+    .x-share-btn .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .x-share-btn:hover .x-icon {
+      background: #1da1f2;
+    }
+    .x-share-btn .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    .follow-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #7b2ff2 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(123,47,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .follow-btn:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #7b2ff2 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(123,47,242,0.18);
+    }
+    .follow-btn .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .follow-btn:hover .x-icon {
+      background: #7b2ff2;
+    }
+    .follow-btn .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    </style><style>
+    .x-share-btn-custom {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #14171a 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(29,161,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .x-share-btn-custom:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #14171a 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(29,161,242,0.18);
+    }
+    .x-share-btn-custom .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .x-share-btn-custom:hover .x-icon {
+      background: #1da1f2;
+    }
+    .x-share-btn-custom .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    .follow-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #7b2ff2 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(123,47,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .follow-btn:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #7b2ff2 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(123,47,242,0.18);
+    }
+    .follow-btn .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .follow-btn:hover .x-icon {
+      background: #7b2ff2;
+    }
+    .follow-btn .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    </style><style>
+    .x-share-btn-custom {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #14171a 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(29,161,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .x-share-btn-custom:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #14171a 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(29,161,242,0.18);
+    }
+    .x-share-btn-custom .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .x-share-btn-custom:hover .x-icon {
+      background: #1da1f2;
+    }
+    .x-share-btn-custom .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    .follow-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #7b2ff2 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(123,47,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .follow-btn:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #7b2ff2 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(123,47,242,0.18);
+    }
+    .follow-btn .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .follow-btn:hover .x-icon {
+      background: #7b2ff2;
+    }
+    .follow-btn .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    .share-popup-message {
+      position: fixed;
+      top: 30px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: #1da1f2;
+      color: #fff;
+      padding: 18px 32px;
+      border-radius: 30px;
+      font-size: 1.2em;
+      font-weight: 700;
+      box-shadow: 0 4px 24px rgba(29,161,242,0.18);
+      z-index: 9999;
+      opacity: 0.97;
+      text-align: center;
+      letter-spacing: 0.02em;
+      animation: fadeInOut 3s;
+    }
+    @keyframes fadeInOut {
+      0% { opacity: 0; transform: translateX(-50%) scale(0.95); }
+      10% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
+      90% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
+      100% { opacity: 0; transform: translateX(-50%) scale(0.95); }
+    }
+    </style></head>
+<body>
+<div class="container">
+<div class="header">
+<div class="header-content">
+<div class="logo-section">
+<div class="logo-container">
+<img alt="Logo" class="logo-image" src="logo.png"/>
+</div>
+<div class="brand-info">
+<div class="brand-name">
         Hippopotamus Research
        </div>
-       <div class="brand-subtitle">
+<div class="brand-subtitle">
         מחפשים את הסיבה לתנועות בשוק 
        </div>
-      </div>
-     </div>
-     <div class="social-section">
-      <div class="ticker-badge">
-       <img alt="GS logo" class="company-logo" src="logo.png" style="width: 20px; height: 20px; margin-left: 8px; border-radius: 3px; vertical-align: middle;"/>
-       GS
-      </div>
-      <a class="twitter-link" href="https://x.com/LmlyhNyr" target="_blank">
-       <img alt="X (Twitter)" class="twitter-icon" src="x.png"/>
-       <span>
-        עקבו אחרינו
-       </span>
-      </a>
-     </div>
-    </div>
-   </div>
-   <div class="content">
-    <div class="newsletter-section" style="margin:12px auto 20px auto;max-width:260px;padding:0;background:none;border:none;box-shadow:none;border-radius:0;position:relative;z-index:2;">
-     <h3 style="font-weight:400;opacity:0.5;font-size:0.85em;margin-bottom:2px;margin-top:0;color:var(--accent-color);">
+</div>
+</div>
+<div class="social-section">
+<div class="ticker-badge">GS</div>
+<a class="follow-btn" href="https://twitter.com/your_twitter_handle" rel="noopener" target="_blank">
+<span class="x-icon">
+<img alt="X" src="x.png"/>
+</span>
+    עקבו אחרינו
+  </a>
+<button class="x-share-btn-custom" type="button">
+<span class="x-icon">
+<img alt="X" src="x.png"/>
+</span>
+    שתף ב־X
+  </button>
+</div><script>
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('.x-share-btn-custom').forEach(function(btn) {
+    btn.addEventListener('click', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      // הצג פופ-אפ למשתמש
+      var popup = document.createElement('div');
+      popup.className = 'share-popup-message';
+      popup.textContent = 'השיתוף מחכה לך בדף השני :)';
+      document.body.appendChild(popup);
+      setTimeout(function() {
+        popup.remove();
+        window.open('https://thekinghippopotamus.github.io/HippoResearch_Marketbeat/', '_blank', 'noopener');
+        window.open('https://twitter.com/intent/tweet?text=%D7%9E%D7%97%D7%A7%D7%A8%20%D7%97%D7%93%D7%A9%20%D7%A9%D7%9C%20Hippopotamus%20Research%20%24GS%0Ahttps%3A%2F%2Fthekinghippopotamus.github.io%2FHippoResearch_Marketbeat%2Farticles%2FGS_20250620.html', '_self', 'noopener');
+      }, 3000); // 3 שניות
+      return false;
+    });
+  });
+});
+</script>
+</div>
+</div>
+<div class="content">
+<div class="newsletter-section" style="margin:12px auto 20px auto;max-width:260px;padding:0;background:none;border:none;box-shadow:none;border-radius:0;position:relative;z-index:2;">
+<h3 style="font-weight:400;opacity:0.5;font-size:0.85em;margin-bottom:2px;margin-top:0;color:var(--accent-color);">
       הצטרפו לרשימת התפוצה שלנו
      </h3>
-     <iframe class="newsletter-iframe" scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="height:110px;width:100%;border:none;background:none;box-shadow:none;border-radius:0;">
-     </iframe>
-    </div>
-    <a class="back-home-btn" href="../index.html">
-     <i class="fas fa-home">
-     </i>
+<iframe class="newsletter-iframe" scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="height:110px;width:100%;border:none;background:none;box-shadow:none;border-radius:0;">
+</iframe>
+</div>
+<a class="back-home-btn" href="../index.html">
+<i class="fas fa-home">
+</i>
      חזרה לדף הבית
     </a>
-    <div class="article-content">
-     <style>
+<div class="article-content">
+<style>
       .ticker-badge {
             display: inline-flex;
             align-items: center;
@@ -323,115 +626,115 @@
             text-align: justify;
         }
      </style>
-     <div class="article-container">
-      <div class="article-content-text">
-       <p>
+<div class="article-container">
+<div class="article-content-text">
+<p>
         גולדמן זאקס: מירוץ למרחב הסייבר עם אסטרטגיות מחודשות
         <h2>
          עלייה במניות, הזדמנויות חדשות בשוק
         </h2>
-        <p>
+<p>
          חברת גולדמן זאקס (GS) נמצאת במרכז תשומת הלב לאחרונה, עם עלייה מרשימה במניותיה. המגמה הזו מונעת על ידי מספר גורמים מרכזיים, כולל התחדשות בפעילות העסקאות, גיוסים אסטרטגיים ושינויים במקרו-כלכלה העולמית.
         </p>
-        <p>
+<p>
          אחד הגורמים הבולטים הוא כניסתה מחדש של GS לשוק ה-SPAC (חברות ריקניות צ'קים). אסטרטגיה זו הביאה לזרם מחודש של הכנסות מחיתום עסקאות, מה שמצביע על חיוניותה של החברה להתאים את עצמה למגמות השוק המשתנות.
         </p>
-        <h2>
+<h2>
          אירופה, אסיה והמתחים הגיאופוליטיים
         </h2>
-        <p>
+<p>
          אירופה היא אזור מפתח עבור GS, במיוחד עם תחזיות לעלייה בפעילות העסקאות. גרמניה, בפרט, צפויה להוביל את התחדשות השוק, מה שמגביר את צינורות העמלות הצפויים של מיזוגים ורכישות (M&amp;A) ופעילויות ECM.
         </p>
-        <p>
+<p>
          אך המתחים הגיאופוליטיים העולמיים אינם נותנים מנוח לצוות המחקר. אנליסטים ב-GS מאמינים כי אי-הטלת מכסים הדדיים חדשים בין ארצות הברית למדינות אחרות ביולי תסיר סיכונים מקרו-כלכליים, מה שיכול להשפיע חיובית על סחר בינלאומי.
         </p>
-        <p>
+<p>
          עם זאת, החברה לא מתעלמת מאתגרים גיאופוליטיים. היא ממשיכה לפתח אסטרטגיות כדי להתמודד עם חוסר היציבות, כמו שאומר הכלכלן הראשי סקוט, שמצפה שהפדרל ריזרב לא יקטין את הריבית עד דצמבר.
         </p>
-        <h2>
+<h2>
          גיוסים, חדשנות ואסטרטגיות צמיחה
         </h2>
-        <p>
+<p>
          GS פועלת במרץ כדי לחזק את צוותיה, עם גיוסים אסטרטגיים לצוותי המניות והמכירות. רכישת ראש חדש למכירות מניות היא עדות למאמצים להרחיב את יכולות המסחר וההפצה של החברה.
         </p>
-        <p>
+<p>
          בנוסף, GS מעצבת מחדש את אסטרטגיית הצמיחה שלה באסיה, אזור עם פוטנציאל עצום לעמלות בשווקים מתעוררים. זהו צעד חדשני שיכול להביא הזדמנויות חדשות ומגוונות.
         </p>
-        <p>
+<p>
          בחירה מעניינת של GS היא מחקריה המתמשכים בענף הרכב החשמלי, כפי שמתבטא בדירוגה למניות Nio ו-XPeng. למרות שאין לכך השפעה ישירה על ההכנסות, זה משקף את מחויבותה של החברה לחקר מגמות עתידיות.
         </p>
-        <h2>
+<h2>
          פעילויות מסחר, עסקאות וניתוח
         </h2>
-        <p>
+<p>
          פעילויות המסחר של GS נותרות דינמיות. לאחרונה, הבנק מכר מניות של Ethos Limited בשווי 48 מיליון רופי בעסקת גוש, מה שמדגים את גיוון פעילויותיו.
         </p>
-        <p>
+<p>
          עם זאת, הורדת הדירוג ומחיר היעד עבור פרטנרס גרופ על ידי GS מדגישה זהירות בנוגע לעמלות על נכסים אלטרנטיביים. אנליסטים בחברה מגלים זהירות יתרה בתחזיותיהם.
         </p>
-        <p>
+<p>
          אך GS גם מעלה את דירוגה ומחיר היעד עבור Nio, ומפרסמת מחיר יעד אופטימי למניות מגזר החשמל, מה שמעיד על כיסוי מגזרי מגוון ומעמיק.
         </p>
-        <h2>
+<h2>
          גיוון תיק ההשקעות והשפעות פנימיות
         </h2>
-        <p>
+<p>
          GS ממשיכה לגיוון את חשיפתה למשאבים עם רכישת נתחים משמעותיים בגולד רואד ריסורסס ובחברת כריית הזהב Resolute Mining. צעדים אלה מצביעים על אסטרטגיה לניהול סיכונים ולגיוון מקורות ההכנסה.
         </p>
-        <p>
+<p>
          פנימית, החברה חווה תנועות של מנהלים בכירים, כולל מכירת מניות על ידי בעלי תפקידים בכירים, מה שיכול לסמן זהירות בקרב הנהלה לגבי הערכת השוק הנוכחית.
         </p>
-        <h2>
+<h2>
          השוואה עם עמיתים, כיסוי מגזרי ומגמות שוק
         </h2>
-        <p>
+<p>
          GS ממשיכה להציג את עצמה בהשוואה לעמיתיה בבנק ההשקעות, Moelis &amp; Company, תוך שמירה על תחזית עצמאית חיובית. כיסוי המגזרים הרחב שלה כולל ניתוחים מעמיקים של ענפים כמו מזון ומשקאות וטכנולוגיה.
         </p>
-        <p>
+<p>
          עם זאת, כיסוי של Kraft Heinz ליד 52 השבועות הנמוכים משקף פעילות מחקרית מוגברת ללא השפעה מיידית על העסק הבסיסי. זהו תזכורת לכך שגם חברות גדולות יכולות להיות רגישות לשינויים בשוק.
         </p>
-        <h1>
+<h1>
          סיכום: גולדמן זאקס במסלול צמיחה מחודש
         </h1>
-        <p>
+<p>
          בסך הכל, גולדמן זאקס נמצאת במסלול צמיחה מחודש, עם אסטרטגיות מותאמות היטב לסביבה המקרו-כלכלית המשתנה. גיוסים אסטרטגיים, חדשנות בשווקים מתעוררים ופעילויות מסחר דינמיות הופכים את GS לשחקן מרכזי בעולם הפיננסים. בעוד שאתגרים נותרים, החברה מציגה גמישות ומחויבות להתאים את עצמה למגמות עתידיות.
         </p>
-       </p>
-      </div>
-     </div>
-    </div>
-    <div class="disclaimer">
-     <strong>
+</p>
+</div>
+</div>
+</div>
+<div class="disclaimer">
+<strong>
       הסתייגות משפטית:
      </strong>
      המידע הנ״ל מבוסס על מקורות מידע שונים ועלול להשתנות בכל עת. המידע המוזכר בכתבה זו מוגבל לצורך מחקר והנאה ואין לראות בכתוב המלצה להשקעה. יש להתייעץ עם יועץ פיננסי לפני קבלת החלטות השקעה.
      <br/>
-     <br/>
-     <strong>
+<br/>
+<strong>
       הערה:
      </strong>
      הניתוח נוצר באמצעות מודל בינה מלאכותית ועלול לכלול שגיאות כתיב או ניסוח. אנו מתנצלים מראש על אי-הדיוקים האפשריים.
      <br/>
-     <br/>
-     <strong>
+<br/>
+<strong>
       מקורות המידע:
      </strong>
      Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl,MarketBeat
      <h3>
       Hippopotamus Research
      </h3>
-    </div>
-   </div>
-   <div class="footer">
-    <div class="timestamp">
+</div>
+</div>
+<div class="footer">
+<div class="timestamp">
      נוצר ב: 20/06/2025 12:36
     </div>
-    <div class="source">
+<div class="source">
      מקורות: Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl,MarketBeat | ניתוח באמצעות aya-expanse:8b
     </div>
-   </div>
-  </div>
-  <script id="dynamic-text-cleaner-script">
+</div>
+</div>
+<script id="dynamic-text-cleaner-script">
    document.addEventListener("DOMContentLoaded", function() {
   // Check if the cleaner has already run to avoid multiple executions
   if (document.body.dataset.jsCleanerApplied) {
@@ -440,11 +743,13 @@
   document.body.dataset.jsCleanerApplied = 'true';
 
   const elements = document.querySelectorAll('p, h1, h2, h3, h4, li, span');
+  
   // Regex to find all variations of markers:
   // - Optional hashes (e.g., #TITLE, ## TITLE)
-  // - The marker words (TITLE, SUBTITLE, PARA) with an optional colon
+  // - The marker words in English (TITLE, SUBTITLE, PARA) with an optional colon
+  // - The marker words in Hebrew (כותרת ראשית, כותרת משנה, פסקה) with an optional colon
   // - Any remaining hash symbols
-  const regex = /(?:#+\s*)?(?:TITLE|SUBTITLE|PARA):?|#+/gi;
+  const regex = /(?:#+\s*)?(?:TITLE|SUBTITLE|PARA|כותרת ראשית|כותרת משנה|פסקה):?|#+/gi;
 
   elements.forEach(el => {
     // We iterate through child nodes to only affect text nodes.
@@ -461,5 +766,5 @@
   });
 });
   </script>
- </body>
+</body>
 </html>
