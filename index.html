@@ -464,28 +464,63 @@
             
             .header-content {
                 flex-direction: column;
-                gap: 20px;
+                gap: 10px;
                 text-align: center;
             }
             
-            .brand-info {
-                text-align: center;
+            .logo-section {
+                flex-direction: column;
+                align-items: center;
+                gap: 4px;
+                max-width: 100vw;
+                width: 100%;
             }
-            
-            .brand-name {
-                font-size: 1.8em;
-            }
-            
             .logo-container {
-                width: 80px;
-                height: 80px;
+                width: 56px;
+                height: 56px;
+                aspect-ratio: 1/1;
+                border-radius: 50%;
+                overflow: hidden;
+                box-shadow: var(--shadow-accent);
             }
-            
             .logo-image {
-                width: 70px;
-                height: 70px;
+                width: 48px;
+                height: 48px;
+                border-radius: 50%;
+                object-fit: cover;
+                aspect-ratio: 1/1;
             }
-            
+            .brand-info {
+                max-width: 260px;
+                width: 100%;
+                overflow: visible;
+                text-overflow: unset;
+                white-space: normal;
+                word-break: break-word;
+                text-align: center;
+            }
+            .brand-name {
+                font-size: 0.98em;
+                font-weight: 700;
+                margin-bottom: 2px;
+                letter-spacing: 0.01em;
+                white-space: normal;
+                background: linear-gradient(45deg, #ffffff 0%, #e94560 100%);
+                -webkit-background-clip: text;
+                -webkit-text-fill-color: transparent;
+                background-clip: text;
+                text-fill-color: transparent;
+            }
+            .brand-subtitle {
+                font-size: 0.78em;
+                opacity: 0.85;
+                font-weight: 500;
+            }
+            .social-section {
+                gap: 5px;
+                flex-wrap: wrap;
+                justify-content: center;
+            }
             .scroll-hint {
                 display: block;
             }
@@ -493,6 +528,13 @@
                 max-width: 100vw;
                 overflow-x: hidden;
             }
+        }
+        @media (max-width: 480px) {
+            .logo-container { width: 48px !important; height: 48px !important; }
+            .logo-image { width: 40px !important; height: 40px !important; }
+            .brand-name { font-size: 1em !important; }
+            .brand-subtitle { font-size: 0.8em !important; }
+            .header-content { gap: 10px !important; }
         }
         .search-bar {
             width: 100%;
@@ -577,9 +619,7 @@
             <div class="header-content">
                 <div class="logo-section">
                     <div class="logo-container">
-                        <div class="logo-image">
-                            <img src="articles/logo.png" alt="Hippopotamus Research Logo">
-                        </div>
+                        <img class="logo-image" src="articles/logo.png" alt="Hippopotamus Research Logo" />
                     </div>
                     <div class="brand-info">
                         <div class="brand-name">Hippopotamus Research</div>
