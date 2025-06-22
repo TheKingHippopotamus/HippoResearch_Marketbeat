@@ -46,8 +46,9 @@ document.addEventListener("DOMContentLoaded", function() {
   // - Optional hashes (e.g., #TITLE, ## TITLE)
   // - The marker words in English (TITLE, SUBTITLE, PARA) with an optional colon
   // - The marker words in Hebrew (כותרת ראשית, כותרת משנה, פסקה) with an optional colon
+  // - Hebrew ordinal words (ראשונה:, שניה:, שלישית:, רביעית:, חמישית:) with colons
   // - Any remaining hash symbols
-  const regex = /(?:#+\\s*)?(?:TITLE|SUBTITLE|PARA|כותרת ראשית|כותרת משנה|פסקה):?|#+/gi;
+  const regex = /(?:#+\\s*)?(?:TITLE|SUBTITLE|PARA|כותרת ראשית|כותרת משנה|פסקה|ראשונה|שניה|שלישית|רביעית|חמישית):?|#+/gi;
 
   elements.forEach(el => {
     // We iterate through child nodes to only affect text nodes.
@@ -104,13 +105,14 @@ def fix_html_structure(soup):
     para_markers = ['PARA#', 'פסקה:', 'פסקה']
     title_markers = ['TITLE#', 'כותרת ראשית:', 'כותרת ראשית']
     subtitle_markers = ['SUBTITLE#', 'כותרת משנה:', 'כותרת משנה']
+    ordinal_markers = ['ראשונה:', 'שניה:', 'שלישית:', 'רביעית:', 'חמישית:']
 
     # h1 -> h2
     h1_tags = soup.find_all('h1')
     for h1 in h1_tags:
         text_content = h1.get_text().strip()
         # Remove all markers
-        for m in para_markers + title_markers + subtitle_markers:
+        for m in para_markers + title_markers + subtitle_markers + ordinal_markers:
             if text_content.startswith(m):
                 text_content = text_content[len(m):].strip()
         new_h2 = soup.new_tag('h2')
@@ -123,7 +125,7 @@ def fix_html_structure(soup):
     h2_tags = soup.find_all('h2')
     for h2 in h2_tags:
         text_content = h2.get_text().strip()
-        for m in para_markers + title_markers + subtitle_markers:
+        for m in para_markers + title_markers + subtitle_markers + ordinal_markers:
             if text_content.startswith(m):
                 text_content = text_content[len(m):].strip()
         new_h3 = soup.new_tag('h3')
@@ -136,7 +138,7 @@ def fix_html_structure(soup):
     p_tags = soup.find_all('p')
     for p in p_tags:
         text_content = p.get_text().strip()
-        for m in para_markers + title_markers + subtitle_markers:
+        for m in para_markers + title_markers + subtitle_markers + ordinal_markers:
             if text_content.startswith(m):
                 text_content = text_content[len(m):].strip()
         p.string = text_content
