@@ -156,6 +156,38 @@
             font-size: 1.1em;
             opacity: 0.9;
             font-weight: 300;
+            position: relative;
+            overflow: hidden;
+            white-space: nowrap;
+            border-right: 2px solid var(--highlight-color);
+            animation: typing 3s steps(40, end), blink-caret 0.75s step-end infinite, gradient-shift 4s ease-in-out infinite;
+            background: linear-gradient(45deg, #ffffff, #e94560, #0f3460, #ffffff);
+            background-size: 300% 300%;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            transition: all 0.3s ease;
+        }
+        
+        .brand-subtitle:hover {
+            transform: scale(1.05);
+            text-shadow: 0 0 20px rgba(233, 69, 96, 0.5);
+        }
+        
+        @keyframes typing {
+            from { width: 0; }
+            to { width: 100%; }
+        }
+        
+        @keyframes blink-caret {
+            from, to { border-color: transparent; }
+            50% { border-color: var(--highlight-color); }
+        }
+        
+        @keyframes gradient-shift {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
         }
         
         .social-section {
@@ -319,7 +351,7 @@
         .loading {
             text-align: center;
             padding: 40px;
-            color: var(--text-dark);
+            color: var(--text-light);
         }
         
         .loading i {
@@ -336,7 +368,7 @@
         .no-articles {
             text-align: center;
             padding: 40px;
-            color: var(--text-dark);
+            color: var(--text-light);
         }
         
         .no-articles i {
@@ -351,7 +383,7 @@
             border-radius: 10px;
             padding: 20px;
             margin: 30px 0;
-            color: var(--text-dark);
+            color: var(--text-light);
             font-size: 0.9em;
             line-height: 1.6;
         }
@@ -363,7 +395,10 @@
         }
         
         .disclaimer h3 {
-            color: var(--accent-color);
+            background: linear-gradient(45deg, #ffffff, #e94560);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
             margin-top: 15px;
             margin-bottom: 0;
             font-size: 1.2em;
@@ -548,7 +583,7 @@
                     </div>
                     <div class="brand-info">
                         <div class="brand-name">Hippopotamus Research</div>
-                        <div class="brand-subtitle">ניתוח סיבתיות של תנועות מניה</div>
+                        <div class="brand-subtitle">מחפשים את הסיבה לתנועות בשוק </div>
                     </div>
                 </div>
                 <div class="social-section">
@@ -561,26 +596,33 @@
         </div>
         
         <div class="content">
-            <form class="search-bar" onsubmit="return false;">
-                <i class="fas fa-search"></i>
-                <input type="text" id="searchInput" placeholder="חפש טיקר (למשל: AAPL, TSLA, META)" autocomplete="off">
-            </form>
+          
             <div class="welcome-section">
-                <h2>ניתוח סיבתיות של תנועות מניה</h2>
-                <p>Hippopotamus Research הוא גוף עצמאי המתמחה בניתוח סיבתיות של תנועות מניה בסיום יום המסחר.</p>
-                <p>המערכת בוחנת כל תזוזה מהותית — ומספקת הסבר ממוקד, ענייני ומבוסס נתונים לשאלה: <strong>למה המניה זזה היום?</strong></p>
-                <p>כל כתבה מבוססת על ניתוח הצהרות הנהלה, עסקאות מוסדיות, תחזיות דיבידנד, מהלכים משפטיים, תנועות פנים, שינויי רגולציה, שיח ציבורי, ותנועות סקטוריאליות. אין תיאוריה – רק מידע מסונן ומנותח בקפדנות.</p>
-            </div>
+                <h2> <h1>Hippopotamus Research</h1> מערכת אוטומטית לזיהוי הגורמים שמאחורי תנועות שוק </h2
+                    <p> מפעילה מנוע ניתוח אלגוריתמי שפועל בסיום כל יום מסחר, ומאתר תנועות מניה שאינן מוסברות בתנועת השוק הכללי או במדדי הסקטור.</p>
+                    <p>לאחר הזיהוי, האלגוריתם מנתח מאות מקורות: הצהרות הנהלה, רגולציה חדשה, עסקאות מוסדיים, תביעות, עסקאות פנים, תזוזות בסקטור, ונתוני סנטימנט – במטרה לבודד את הגורמים האפשריים לתנועה.</p>
+                    <p>כל פרסום עובר ולידציה אנושית מינימלית, במטרה לוודא דיוק וניקיון, אך התהליך כולו מונע על ידי קוד — ללא נרטיבים, ללא רעש, וללא תלות בפרשנות אנושית.</p>
+                </div>
             <div class="newsletter-section" style="margin: 0 auto 24px auto; max-width: 400px; text-align: center;">
                 <div style="font-size: 1em; color: var(--accent-color); margin-bottom: 6px; font-weight: 500; opacity: 0.85;">
                     הצטרפו לעדכונים במייל
                 </div>
+                
                 <iframe
                     scrolling="no"
                     style="width:100%!important; height:120px; border:none!important; border-radius:12px; background:#fff; box-shadow:0 2px 8px rgba(15,52,96,0.07);"
                     src="https://buttondown.com/nirstam?as_embed=true"
                     title="הרשמה לניוזלטר"
                 ></iframe>
+                <hr>
+                <br>
+                <form class="search-bar" onsubmit="return false;">
+                    <i class="fas fa-search"></i>
+                    <input type="text" id="searchInput" placeholder="חפש טיקר (למשל: AAPL, TSLA, META)" autocomplete="off">
+                </form>
+            </div>
+            
+        </div>
             </div>
           
             <div id="articles-container">
@@ -682,8 +724,8 @@
             }
             let html = `
                 <div style="background: rgba(233, 69, 96, 0.1); border-radius: 10px; padding: 20px; margin-bottom: 30px; text-align: center;">
-                    <h3 style="color: var(--accent-color); margin-bottom: 10px;">📊 סטטיסטיקות</h3>
-                    <p style="color: var(--text-dark); font-size: 1.1em;">סה\"כ כתבות: ${sortedArticles.length} | כתבה אחרונה: ${sortedArticles[0].timestamp}</p>
+                    <h3 style="color: var(--text-light); margin-bottom: 10px;">📊 סטטיסטיקות</h3>
+                    <p style="color: var(--text-light); font-size: 1.1em;">סה\"כ כתבות: ${sortedArticles.length} | כתבה אחרונה: ${sortedArticles[0].timestamp}</p>
                     <div class=\"scroll-hint\"><i class=\"fas fa-angle-double-left\"></i> <i class=\"fas fa-angle-double-right\"></i></div>
                 </div>
                 <div class=\"articles-grid\">\n`;
@@ -732,9 +774,51 @@
                 .then(metadata => displayArticles(metadata, filterValue));
         }
         
+        // פונקציה להחלפת כותרות משנה דינמית
+        function initDynamicSubtitle() {
+            const subtitleElement = document.querySelector('.brand-subtitle');
+            if (!subtitleElement) return;
+            
+            const subtitles = [
+                "מחפשים את הסיבה לתנועות בשוק",
+                "ניתוח אלגוריתמי של תנועות מניה",
+                "מערכת אוטומטית לזיהוי גורמים",
+                "בינה מלאכותית לניתוח שוק",
+                "מחקר מתקדם של תנועות מניה",
+                "אלגוריתם חכם לניתוח שוק"
+            ];
+            
+            let currentIndex = 0;
+            
+            function changeSubtitle() {
+                subtitleElement.style.opacity = '0';
+                subtitleElement.style.transform = 'translateY(-10px)';
+                
+                setTimeout(() => {
+                    subtitleElement.textContent = subtitles[currentIndex];
+                    subtitleElement.style.opacity = '1';
+                    subtitleElement.style.transform = 'translateY(0)';
+                    
+                    currentIndex = (currentIndex + 1) % subtitles.length;
+                }, 300);
+            }
+            
+            // החלפת כותרת משנה כל 4 שניות
+            setInterval(changeSubtitle, 4000);
+            
+            // אפקט מיוחד בלחיצה
+            subtitleElement.addEventListener('click', function() {
+                this.style.transform = 'scale(1.1) rotate(2deg)';
+                setTimeout(() => {
+                    this.style.transform = 'scale(1) rotate(0deg)';
+                }, 200);
+            });
+        }
+        
         // טעינת הכתבות כשהדף נטען
         document.addEventListener('DOMContentLoaded', function() {
             loadArticles();
+            initDynamicSubtitle();
             document.getElementById('searchInput').addEventListener('input', function(e) {
                 loadArticlesWithFilter(e.target.value);
             });
