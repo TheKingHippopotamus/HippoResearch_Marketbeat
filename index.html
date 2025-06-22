@@ -620,12 +620,25 @@
             body, .content, .welcome-section, .welcome-section p, .newsletter-section, .disclaimer, .footer, .article-title, .article-summary, .article-meta, .article-link, .company-badge, .search-bar input, .no-articles, .loading, .scroll-hint {
                 color: #fff !important;
             }
-            .brand-name, .brand-subtitle, .disclaimer h3 {
+            .brand-name, .disclaimer h3 {
+                background: linear-gradient(90deg, #fff 0%, #fffbe6 30%, #ffe6f7 60%, #ffe066 80%, #fff 100%) !important;
+                -webkit-background-clip: text !important;
+                -webkit-text-fill-color: transparent !important;
+                background-clip: text !important;
+                text-fill-color: transparent !important;
+                filter: brightness(1.35) drop-shadow(0 0 6px #fff8);
+            }
+            .brand-subtitle {
                 background: linear-gradient(90deg, #fff 0%, #ffe6f7 40%, #e94560 70%, #b3e6ff 100%) !important;
                 -webkit-background-clip: text !important;
                 -webkit-text-fill-color: transparent !important;
                 background-clip: text !important;
                 text-fill-color: transparent !important;
+            }
+            .newsletter-section > div {
+                color: #ffe066 !important;
+                font-weight: 700;
+                text-shadow: 0 1px 8px #fff8;
             }
         }
         @media (max-width: 480px) {
