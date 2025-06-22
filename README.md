@@ -1,138 +1,155 @@
-# 📰 Hippopotamus Research — מערכת כתבות כלכליות אוטומטית
+# Hippopotamus Research — MarketBit
 
-מערכת אוטומטית ליצירת, עיבוד ופרסום כתבות כלכליות מבוססות בינה מלאכותית, עם תמיכה מלאה ב-GitHub Pages, ניהול טיקרים, אוטומציה מלאה, עיצוב מודרני, וממשק חיפוש.
+## מהי המערכת?
+מערכת אוטומטית לזיהוי, עיבוד ופרסום כתבות כלכליות על תנועות חריגות במניות. המערכת כוללת סריקת חדשות, עיבוד טקסט עם LLM, הפקת HTML, ניהול מטא-דאטה, ולוגיקה של ניהול טיקרים — הכל בעברית, עם תמיכה מלאה ב-RTL, וללא תלות בממשק ניהול ידני.
 
 ---
 
-## 📢 Follow 
-- [Twitter/X של Hippopotamus Research](https://x.com/LmlyhNyr)
+## תוכן עניינים
+1. [תיאור כללי](#תיאור-כללי)
+2. [מבנה התיקיות והקבצים](#מבנה-התיקיות-והקבצים)
+3. [התקנה והגדרות סביבת עבודה](#התקנה-והגדרות-סביבת-עבודה)
+4. [שימוש — דוגמאות להרצה](#שימוש)
+5. [פירוט תהליכים עיקריים](#פירוט-תהליכים-עיקריים)
+6. [פתרון תקלות](#פתרון-תקלות)
+7. [הרחבות, טיפים והערות](#הרחבות-וטיפים)
+8. [רישיון](#רישיון)
 
+---
 
+## תיאור כללי
 
+- **מטרת המערכת:**  
+  לאתר תנועות חריגות במניות, להסביר אותן אוטומטית, ולפרסם כתבות ניתוח מקצועיות — ללא מגע יד אדם, מלבד ולידציה מינימלית.
+- **שלבי העבודה:**  
+  1. סריקת חדשות ממקורות (MarketBeat, Finviz, Briefing.com, Zacks ועוד)
+  2. עיבוד טקסט עם LLM (מודל שפה גדול)
+  3. הפקת HTML מעוצב
+  4. ניהול מטא-דאטה, חיפוש, הצגה באתר
 
-## 🛠️ התקנה והפעלה
+---
 
-### א. התקנה אוטומטית (מומלץ)
-- **macOS/Linux:**
-  ```bash
-  cd install_scripts
-  bash install.sh
-  ```
-- **Windows:**
-  ```powershell
-  cd install_scripts
-  powershell -ExecutionPolicy Bypass -File install.ps1
-  ```
-- הסקריפט יטפל בכל התלויות: Python, pip, Ollama, aya-expanse:8b, venv, requirements.
+## מבנה התיקיות והקבצים
 
-### ב. התקנה ידנית (למתקדמים)
-1. התקן Python 3.8+, pip, ו-virtualenv
-2. התקן Ollama לפי [הוראות האתר](https://ollama.com/download)
-3. משוך את המודל:
+| קובץ/תיקיה                | תיאור |
+|---------------------------|-------|
+| `main.py`                 | תהליך באצ'י מלא — עיבוד כל הטיקרים |
+| `run_single_ticker.py`    | עיבוד טיקר בודד (לבדיקות/פיתוח) |
+| `scripts/`                | קוד עזר: תבניות HTML, עיבוד LLM, ניקוי טקסט |
+| `articles/`               | כל כתבות ה-HTML שנוצרו |
+| `txt/`                    | טקסטים מקוריים, מעובדים ומנוקים לכל טיקר |
+| `data/`                   | מטא-דאטה (articles_metadata.json), קובץ CSV של טיקרים |
+| `static/`                 | קבצי עיצוב, לוגו, אייקונים |
+| `article_template.html`    | תבנית עיצוב לכתבות |
+| `inject_js_cleaner.py`    | ניקוי קוד JS אוטומטי לכתבות |
+| `processed_tickers/`      | לוגים של טיקרים שעובדו/לא זמינים |
+| `requirements.txt`        | כל התלויות של המערכת |
+| `README.md`               | קובץ זה |
+| `LICENSE`                 | רישיון שימוש |
+
+---
+
+## התקנה והגדרות סביבת עבודה
+
+1. **דרישות מוקדמות:**
+   - Python 3.8 ומעלה
+   - pip
+   - Google Chrome מותקן
+   - ChromeDriver תואם לגרסת הדפדפן (להורדה: https://chromedriver.chromium.org/downloads)
+
+2. **התקנת תלויות:**
    ```bash
-   ollama pull aya-expanse:8b
-   ```
-4. צור סביבה וירטואלית:
-   ```bash
-   python3 -m venv venv
-   source venv/bin/activate  # ב-Windows: venv\Scripts\activate
    pip install -r requirements.txt
    ```
-5. ודא ש-Ollama רץ:
-   ```bash
-   ollama serve
-   ```
-6. הרץ את המערכת כרגיל (ראה בהמשך)
+
+3. **הגדרת קבצי נתונים:**
+   - ודא ש־`data/flat-ui__data-*.csv` קיים (רשימת טיקרים).
+   - ודא ש־`data/articles_metadata.json` קיים (אם לא — יווצר אוטומטית בהרצה).
 
 ---
 
-## 🤖 שימוש ב-Ollama והמודל aya-expanse:8b
-- עיבוד הטקסטים מתבצע באמצעות [Ollama](https://ollama.com/) שרץ לוקלית על המחשב שלך.
-- המערכת משתמשת במודל **aya-expanse:8b** (ראה scripts/llm_processor.py).
-- יש להפעיל את Ollama לפני הרצת המערכת:
-  ```bash
-  ollama serve
-  ```
-- הסקריפט יתחבר ל-Ollama בכתובת http://localhost:11434 וישלח את הטקסט לעיבוד.
-- אם Ollama לא רץ, תופעל לוגיקת fallback פנימית.
+## שימוש
+
+### עיבוד טיקר בודד
+```bash
+python3 run_single_ticker.py AAPL
+```
+- יפיק כתבה חדשה ל־AAPL, כולל טקסטים, HTML ומטא-דאטה.
+
+### עיבוד כל הטיקרים (באצ')
+```bash
+python3 main.py
+```
+- יעבור על כל הטיקרים בקובץ ה־CSV, יפיק כתבות חדשות, יעדכן מטא-דאטה, וינהל לוגים.
+
+### הפעלת סביבה וירטואלית (מומלץ)
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
 
 ---
 
-## 🚀 תכונות עיקריות
-- **סקרייפינג אוטומטי** של חדשות ממקורות מקצועיים (MarketBeat, Finviz, Briefing.com, Zacks ועוד)
-- **עיבוד טקסט עם LLM** (מודל aya-expanse:8b)
-- **שמירת כתבות מעוצבות** ב-HTML בתיקיית `articles/`
-- **ניהול מטא-דאטה** ב-`data/articles_metadata.json`
-- **אינדקס סטטי** עם חיפוש, סינון, גלילה אופקית, כרטיסים רספונסיביים
-- **ניהול טיקרים חכם**: tickers.json, לוג יומי, unavailable, מניעת כפילויות
-- **אוטומציה מלאה**: shell scripts, auto_commit, git integration
-- **עיצוב מקצועי**: RTL, Newsletter, דיסקליימר, תמיכה במובייל
+## פירוט תהליכים עיקריים
+
+### 1. סריקת חדשות (Scraping)
+- מתבצע עם Selenium, כולל טיפול בפופאפים.
+- שומר טקסט מקורי ב־txt/[TICKER]_original_[DATE].txt
+
+### 2. עיבוד טקסט (LLM)
+- עיבוד עם מודל שפה (ראה scripts/llm_processor.py)
+- שומר טקסט מעובד ב־txt/[TICKER]_processed_[DATE].txt
+
+### 3. ניקוי טקסט
+- המרה ל־HTML מסודר (convert_tagged_text_to_html)
+- שומר ב־txt/[TICKER]_cleaned_[DATE].txt
+
+### 4. הפקת כתבה
+- שימוש ב־article_template.html
+- שמירה ב־articles/[TICKER]_[DATE].html
+
+### 5. ניהול מטא-דאטה
+- עדכון data/articles_metadata.json עם כל כתבה חדשה
+
+### 6. ניקוי קוד JS
+- הפעלת inject_js_cleaner.py על כל כתבה חדשה
+
+### 7. לוגים
+- marketbit.log — לוג ראשי של כל התהליך
+- processed_tickers/ — לוגים של טיקרים שעובדו/לא זמינים
 
 ---
 
-## 📊 ניהול טיקרים
-- **tickers.json**: רשימת הטיקרים לעיבוד (מבנה: { "tickers": [ ... ] })
-- **unavailable_tickers.json**: טיקרים שלא ניתן לעבד (נוצר אוטומטית)
-- **processed_YYYYMMDD.json**: לוג טיקרים שעובדו היום (נוצר אוטומטית)
-- **אין כפילויות**: כל טיקר יעובד פעם אחת ביום בלבד
+## פתרון תקלות
+
+- **Selenium לא מוצא דפדפן:**  
+  ודא ש-Chrome מותקן, ועדכן את ChromeDriver.
+- **שגיאת pip/תלויות:**  
+  התקן מחדש עם `pip install -r requirements.txt`
+- **טיקר לא מעובד:**  
+  בדוק ב־processed_tickers/unavailable_tickers.json
+- **קבצים חסרים:**  
+  ודא שכל התיקיות (scripts, data, articles, txt, static) קיימות.
+- **שגיאות בהרצת inject_js_cleaner.py:**  
+  ודא שהקובץ קיים, ושהכתבה נוצרה כראוי.
 
 ---
 
-## 📝 עיבוד כתבות
-- **מקור**: סקרייפינג חדשות ממקורות מגוונים
-- **עיבוד**: LLM (aya-expanse:8b) מסכם, מנתח ומייצר טקסט מקצועי
-- **קבצי טקסט**: נשמרים ב-`data/` כ-[TICKER]_original.txt ו-[TICKER]_processed.txt
-- **HTML**: כתבה מעוצבת נשמרת ב-`articles/`
-- **מטא-דאטה**: כל כתבה מתועדת ב-`data/articles_metadata.json`
+## הרחבות וטיפים
+
+- ניתן להוסיף/להסיר טיקרים ב־data/flat-ui__data-*.csv
+- אפשר להרחיב את תבנית הכתבה ב־article_template.html
+- כל קובץ bak, לוג ישן, או דיאגרמה — ניתן למחוק בבטחה
+- מומלץ לבצע גיבוי לתיקיות articles/ ו־data/ לפני עדכון גרסה
 
 ---
 
-## 🎨 עיצוב וממשק
-- **RTL מלא** ותמיכה בעברית
-- **כרטיסי כתבות רספונסיביים** עם גלילה אופקית במובייל
-- **חיפוש וסינון** לפי טיקר
-- **Newsletter** מובנה (iframe)
-- **דיסקליימר מקצועי** (כולל אזהרת שגיאות AI)
-- **עיצוב אחיד** בין דפי כתבה לאינדקס
-- **הדגשת כותרות פסקה** (subtle highlight)
+## רישיון
+
+כל הזכויות שמורות © 2024 Hippopotamus Research - Nir Elmaliah  
+הקוד, התוכן והעיצוב בפרויקט זה הם קנייניים. אין להעתיק, להפיץ, לשנות, להשתמש או למסחר את הקוד או כל חלק ממנו, ללא אישור מפורש ובכתב מהיוצר.
 
 ---
 
-## 🌐 פרסום ב-GitHub Pages
-1. העלה את כל התיקיות והקבצים ל-repository
-2. ודא ש-`index.html` בשורש
-3. הגדר את GitHub Pages ל-root של ה-main branch
-4. כל commit דוחף כתבות חדשות לאתר
+אם תרצה דוגמאות קוד, הסבר על כל פונקציה, או הרחבה על תהליך מסוים — אשמח להוסיף!
 
----
-
-## 🔧 התאמות ושדרוגים
-- ניתן להוסיף/להסיר טיקרים ב-`data/tickers.json`
-- ניתן להרחיב את הסקריפטים ב-`scripts/`
-- כל נתיב לקובץ עודכן למבנה החדש — יש לעדכן כל קוד חיצוני בהתאם
-
----
-
-## 🚨 פתרון בעיות
-- **שגיאות סקרייפינג**: טיקר יתווסף אוטומטית ל-unavailable
-- **בעיות Git**: ודא הרשאות, branch, ו-remote
-- **בעיות LLM**: ודא זמינות מודל
-- **הרצת סקריפטים**: ודא שאתה ב-scripts/
-
----
-
-## 🛡️ רישיון
-
-**עברית:**
-כל הזכויות שמורות © 2024 Hippopotamus Research - Nir Elmaliah
-הקוד, התוכן, והעיצוב בפרויקט זה הם קנייניים ואינם קוד פתוח. אין להעתיק, להפיץ, לשנות, להשתמש, או למסחר את הקוד או כל חלק ממנו, ללא אישור מפורש ובכתב מהיוצר. הפרה של תנאים אלו עלולה להוביל להליכים משפטיים.
-
-**English:**
-All rights reserved © 2024 Hippopotamus Research - Nir Elmaliah
-The code, content, and design in this project are proprietary and not open source. You may not copy, distribute, modify, use, or commercialize any part of this code or content without explicit written permission from the author. Violation of these terms may result in legal action.
-
-לפרטים מלאים ראה קובץ [LICENSE](LICENSE)
-
----
-
-**הערה מקצועית**: המערכת מיועדת למחקר/למידה בלבד. ייתכנו טעויות ניסוח/תרגום/עובדות עקב שימוש ב-AI. יש להצליב מידע עם מקורות נוספים. אין לראות בניתוחים המלצה לפעולה. 
