@@ -1627,5 +1627,17 @@
     "GICS Sector": "Information Technology",
     "GICS Sub-Industry": "Semiconductors",
     "Headquarters Location": "Santa Clara, California"
+  },
+  {
+    "ticker": "CRM",
+    "title": "CRM:סיקור יומי  ?",
+    "filename": "CRM_20250622.html",
+    "timestamp": "22/06/2025 17:14",
+    "summary": "Salesforce: מהפכת בינה מלאכותית בשוק ה-CRM\nמגמות, שותפויות וניתוח אנליסטי מעודדים משקיעים\nSalesforce, ענקית התוכנה העולמית (סימול: CRM), נמצאת במוקד תשומת הלב של קהילת ההשקעות, כאשר חידושי הבינה המלאכ...",
+    "tags": [],
+    "Security": "Salesforce",
+    "GICS Sector": "Information Technology",
+    "GICS Sub-Industry": "Application Software",
+    "Headquarters Location": "San Francisco, California"
   }
 ]
