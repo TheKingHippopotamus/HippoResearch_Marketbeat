@@ -1363,5 +1363,17 @@
     "GICS Sector": "Industrials",
     "GICS Sub-Industry": "Industrial Machinery & Supplies & Components",
     "Headquarters Location": "Kenosha, Wisconsin"
+  },
+  {
+    "ticker": "WFC",
+    "title": "WFC:סיקור יומי  ?",
+    "filename": "WFC_20250622.html",
+    "timestamp": "22/06/2025 12:04",
+    "summary": "שחרור מהכבלים: וולס פארגו פורצת קדימה לאחר החלטות משפטיות מכריעות\nמסע אל הלא נודע של ענקית הבנקאות\nבעולם הפיננסי, חברות נוצרות ונעלמות, אך וולס פארגו (Wells Fargo), כמו אי מוצק באוקיינוס המשתנה, עומדת...",
+    "tags": [],
+    "Security": "Wells Fargo",
+    "GICS Sector": "Financials",
+    "GICS Sub-Industry": "Diversified Banks",
+    "Headquarters Location": "San Francisco, California"
   }
 ]
