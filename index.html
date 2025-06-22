@@ -630,6 +630,36 @@
             .newsletter-section > div:first-child {
                 color: #e6b800 !important; /* not too bright yellow */
             }
+            #welcome-toggle-btn {
+                display: block;
+                width: 100%;
+                background: none;
+                border: none;
+                color: #0f3460;
+                font-size: 1.1em;
+                font-weight: 700;
+                margin: 0 0 8px 0;
+                padding: 8px 0;
+                text-align: center;
+                cursor: pointer;
+                letter-spacing: 0.03em;
+                transition: color 0.2s;
+            }
+            #welcome-toggle-btn:active {
+                color: #e94560;
+            }
+            .welcome-section {
+                transition: max-height 0.35s cubic-bezier(0.4,0,0.2,1), opacity 0.3s;
+                overflow: hidden;
+                max-height: 0;
+                opacity: 0;
+                margin-bottom: 0;
+            }
+            .welcome-section.open {
+                max-height: 900px;
+                opacity: 1;
+                margin-bottom: 30px;
+            }
         }
         @media (max-width: 480px) {
             .logo-container { width: 48px !important; height: 48px !important; }
@@ -743,6 +773,7 @@
         
         <div class="content">
           
+            <button id="welcome-toggle-btn" style="display:none;">מי אנחנו?</button>
             <div class="welcome-section">
                 <h1 style="font-size:2.2em; font-weight:900; background: linear-gradient(90deg, #1a1a2e 0%, #3b2667 40%, #0f3460 70%, #e94560 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; text-fill-color: transparent; letter-spacing:0.04em; text-shadow: 0 2px 8px rgba(26,26,46,0.18); margin-bottom: 8px; line-height: 1.18;">Hippopotamus Research</h1>
                 <p>מערכת אוטומטית לזיהוי הגורמים שמאחורי תנועות שוק </p>
@@ -980,6 +1011,28 @@
                 });
             }
         });
+
+        // Show/hide welcome-section on mobile only
+        function isMobile() {
+            return window.innerWidth <= 768;
+        }
+        function setWelcomeToggle() {
+            var btn = document.getElementById('welcome-toggle-btn');
+            var section = document.querySelector('.welcome-section');
+            if (!btn || !section) return;
+            if (isMobile()) {
+                btn.style.display = 'block';
+                section.classList.remove('open');
+                btn.onclick = function() {
+                    section.classList.toggle('open');
+                };
+            } else {
+                btn.style.display = 'none';
+                section.classList.add('open');
+            }
+        }
+        window.addEventListener('DOMContentLoaded', setWelcomeToggle);
+        window.addEventListener('resize', setWelcomeToggle);
     </script>
 </body>
 </html> 
