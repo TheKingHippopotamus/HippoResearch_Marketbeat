@@ -1615,5 +1615,17 @@
     "GICS Sector": "Financials",
     "GICS Sub-Industry": "Investment Banking & Brokerage",
     "Headquarters Location": "New York City, New York"
+  },
+  {
+    "ticker": "NVDA",
+    "title": "NVDA:סיקור יומי  ?",
+    "filename": "NVDA_20250622.html",
+    "timestamp": "22/06/2025 17:09",
+    "summary": "חדשנות, שותפויות וצמיחה: NVIDIA מובילה את המהפכה הטכנולוגית\nמסע אל לב הבינה המלאכותית והתשתיות\nבלב עולם הטכנולוגיה המתפתח, NVIDIA Corporation (NVDA) היא כוכב עולה, מנווטת את דרכה דרך נופים דיגיטליים מ...",
+    "tags": [],
+    "Security": "Nvidia",
+    "GICS Sector": "Information Technology",
+    "GICS Sub-Industry": "Semiconductors",
+    "Headquarters Location": "Santa Clara, California"
   }
 ]
