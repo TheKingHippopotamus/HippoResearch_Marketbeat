@@ -9,7 +9,7 @@ X_ICON_SRC = 'x.png'
 
 CSS_BLOCK = '''
     <style>
-    .x-share-btn {
+    .x-share-btn-custom {
       display: inline-flex;
       align-items: center;
       gap: 10px;
@@ -28,12 +28,12 @@ CSS_BLOCK = '''
       position: relative;
       overflow: hidden;
     }
-    .x-share-btn:hover {
+    .x-share-btn-custom:hover {
       background: linear-gradient(90deg, #1da1f2 0%, #14171a 100%);
       transform: translateY(-2px) scale(1.04);
       box-shadow: 0 8px 24px rgba(29,161,242,0.18);
     }
-    .x-share-btn .x-icon {
+    .x-share-btn-custom .x-icon {
       width: 24px;
       height: 24px;
       background: #fff;
@@ -43,10 +43,10 @@ CSS_BLOCK = '''
       justify-content: center;
       transition: background 0.3s;
     }
-    .x-share-btn:hover .x-icon {
+    .x-share-btn-custom:hover .x-icon {
       background: #1da1f2;
     }
-    .x-share-btn .x-icon img {
+    .x-share-btn-custom .x-icon img {
       width: 16px;
       height: 16px;
       display: block;
@@ -104,12 +104,12 @@ SOCIAL_SECTION_TEMPLATE = '''<div class="social-section">
     </span>
     עקבו אחרינו
   </a>
-  <a href="{share_url}" rel="noopener" target="_blank" class="x-share-btn">
+  <button type="button" class="x-share-btn-custom" onclick="window.open('{share_url}', '_blank', 'noopener'); return false;">
     <span class="x-icon">
       <img src="{x_icon_src}" alt="X">
     </span>
     שתף ב־X
-  </a>
+  </button>
 </div>'''
 
 def url_encode(text):
@@ -161,8 +161,8 @@ def update_article(file_path):
             if logo_section:
                 logo_section.insert_after(social_soup)
 
-    # Remove old share/follow buttons outside header if exist
-    for btn in soup.find_all('a', class_=['x-share-btn', 'follow-btn']):
+    # Remove old share/follow buttons outside header if exist (both <a> and <button> for share)
+    for btn in soup.find_all(['a', 'button'], class_=['x-share-btn-custom', 'follow-btn']):
         parent_social = btn.find_parent('div', class_='social-section') if isinstance(btn, Tag) else None
         if not parent_social:
             btn.decompose()

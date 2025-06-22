@@ -1531,5 +1531,17 @@
     "GICS Sector": "Consumer Discretionary",
     "GICS Sub-Industry": "Homebuilding",
     "Headquarters Location": "Miami, Florida"
+  },
+  {
+    "ticker": "LMT",
+    "title": "LMT:סיקור יומי  ?",
+    "filename": "LMT_20250622.html",
+    "timestamp": "22/06/2025 13:12",
+    "summary": "Lockheed Martin: חדשנות, שותפויות ואסטרטגיה בעולם ההגנה\nהתנופה של לוקיד מרטין: בין טכנולוגיה לביטחון גלובלי\nבעולם שבו מתגלמות איומים חדשים על ביטחון לאומי, חברת לוקיד מרטין (Lockheed Martin Corporatio...",
+    "tags": [],
+    "Security": "Lockheed Martin",
+    "GICS Sector": "Industrials",
+    "GICS Sub-Industry": "Aerospace & Defense",
+    "Headquarters Location": "Bethesda, Maryland"
   }
 ]
