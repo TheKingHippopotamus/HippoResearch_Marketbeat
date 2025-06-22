@@ -1747,5 +1747,17 @@
     "GICS Sector": "Information Technology",
     "GICS Sub-Industry": "Electronic Manufacturing Services",
     "Headquarters Location": "St. Petersburg, Florida"
+  },
+  {
+    "ticker": "BRO",
+    "title": "BRO:סיקור יומי  ?",
+    "filename": "BRO_20250622.html",
+    "timestamp": "22/06/2025 17:55",
+    "summary": "#Brown & Brown: מאבקים בשוק, הזדמנויות מעבר לאופק?\nמגמות ומספרים שמספרים סיפור\nבתוך סקטור השירותים הפיננסיים הסוער, מניית Brown & Brown (BRO) מציגה תמונה מורכבת. יחס הימים לכיסוי של 2.2 ימים, עם נפח מ...",
+    "tags": [],
+    "Security": "Brown & Brown",
+    "GICS Sector": "Financials",
+    "GICS Sub-Industry": "Insurance Brokers",
+    "Headquarters Location": "Daytona Beach, Florida"
   }
 ]
