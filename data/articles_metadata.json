@@ -1963,5 +1963,17 @@
     "GICS Sector": "Consumer Staples",
     "GICS Sub-Industry": "Food Retail",
     "Headquarters Location": "Cincinnati, Ohio"
+  },
+  {
+    "ticker": "COIN",
+    "title": "COIN:סיקור יומי  ?",
+    "filename": "COIN_20250624.html",
+    "timestamp": "24/06/2025 00:06",
+    "summary": "Coinbase: צמיחה, רגולציה וחדשנות בעולם הקריפטו\nמסע של עליות ומורדות בשוק המניות\nבמסע המרתק של Coinbase Global, Inc. (נאסד\"ק: COIN), אנו עדים לסיפור הצלחה ולעליות דרמטיות בשוק המניות, אך גם לאתגרים הקש...",
+    "tags": [],
+    "Security": "Coinbase",
+    "GICS Sector": "Financials",
+    "GICS Sub-Industry": "Financial Exchanges & Data",
+    "Headquarters Location": "New York City, New York"
   }
 ]
