@@ -228,7 +228,19 @@ def process_and_create_article(ticker, original_text, original_file_name=None, t
         copy_static_files(articles_dir)
 
         # Extract title and summary for metadata - use the formatted HTML content for summary
-        title = f"{ticker}: סיקור יומי"
+        def build_title(ticker, ticker_info, max_len=70):
+            security = (ticker_info or {}).get('Security', '').strip()
+            sector = (ticker_info or {}).get('GICS Sector', '').strip()
+            sub_industry = (ticker_info or {}).get('GICS Sub-Industry', '').strip()
+            details = [s for s in [security, sector, sub_industry] if s]
+            if details:
+                title = f"{ticker}: " + " | ".join(details)
+            else:
+                title = ticker
+            if len(title) > max_len:
+                title = title[:max_len-1] + '…'
+            return title
+        title = build_title(ticker, ticker_info)
         # Remove HTML tags for summary and take first 200 characters
         import re
         clean_summary = re.sub(r'<[^>]+>', '', formatted_content)
