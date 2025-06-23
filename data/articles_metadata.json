@@ -1771,5 +1771,17 @@
     "GICS Sector": "Information Technology",
     "GICS Sub-Industry": "Technology Hardware, Storage & Peripherals",
     "Headquarters Location": "Cupertino, California"
+  },
+  {
+    "ticker": "INTC",
+    "title": "INTC:סיקור יומי  ?",
+    "filename": "INTC_20250623.html",
+    "timestamp": "23/06/2025 23:09",
+    "summary": "#מהפכה בשבבים: אינטל מול NVIDIA - מאבק על עתיד הבינה המלאכותית\nהעימות בעולם הטכנולוגיה: מי ינצח במרוץ ל-AI?\nבעולם שבו בינה מלאכותית (AI) הופכת לחלק אינטגרלי מחיינו, קרב ענק מתנהל מאחורי הקלעים בין שני...",
+    "tags": [],
+    "Security": "Intel",
+    "GICS Sector": "Information Technology",
+    "GICS Sub-Industry": "Semiconductors",
+    "Headquarters Location": "Santa Clara, California"
   }
 ]
