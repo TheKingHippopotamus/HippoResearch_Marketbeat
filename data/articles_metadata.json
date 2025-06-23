@@ -1915,5 +1915,17 @@
     "GICS Sector": "Communication Services",
     "GICS Sub-Industry": "Movies & Entertainment",
     "Headquarters Location": "Los Gatos, California"
+  },
+  {
+    "ticker": "NVDA",
+    "title": "NVDA:סיקור יומי  ?",
+    "filename": "NVDA_20250623.html",
+    "timestamp": "23/06/2025 23:48",
+    "summary": "Nvidia: מסע אל לב הטכנולוגיה של המחר\nזרזים לצמיחה, אזהרות, והזדמנויות בעולם הבלוקצ'יין, המטא-וורס, ובינה מלאכותית\nבעולם בו טכנולוגיה הופכת למנוע הכלכלה העולמית, חברת Nvidia (NVDA) בולטת כגיבורה דרמטית...",
+    "tags": [],
+    "Security": "Nvidia",
+    "GICS Sector": "Information Technology",
+    "GICS Sub-Industry": "Semiconductors",
+    "Headquarters Location": "Santa Clara, California"
   }
 ]
