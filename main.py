@@ -32,6 +32,20 @@ def setup_logging():
 # Initialize logger
 logger = setup_logging()
 
+def build_title(ticker, ticker_info, max_len=70):
+    """Build title in format: Ticker: Security | GICS Sector | GICS Sub-Industry"""
+    security = (ticker_info or {}).get('Security', '').strip()
+    sector = (ticker_info or {}).get('GICS Sector', '').strip()
+    sub_industry = (ticker_info or {}).get('GICS Sub-Industry', '').strip()
+    details = [s for s in [security, sector, sub_industry] if s]
+    if details:
+        title = f"{ticker}: " + " | ".join(details)
+    else:
+        title = ticker
+    if len(title) > max_len:
+        title = title[:max_len-1] + '…'
+    return title
+
 def start_driver():
     options = Options()
     options.add_argument("--start-maximized")
@@ -228,18 +242,6 @@ def process_and_create_article(ticker, original_text, original_file_name=None, t
         copy_static_files(articles_dir)
 
         # Extract title and summary for metadata - use the formatted HTML content for summary
-        def build_title(ticker, ticker_info, max_len=70):
-            security = (ticker_info or {}).get('Security', '').strip()
-            sector = (ticker_info or {}).get('GICS Sector', '').strip()
-            sub_industry = (ticker_info or {}).get('GICS Sub-Industry', '').strip()
-            details = [s for s in [security, sector, sub_industry] if s]
-            if details:
-                title = f"{ticker}: " + " | ".join(details)
-            else:
-                title = ticker
-            if len(title) > max_len:
-                title = title[:max_len-1] + '…'
-            return title
         title = build_title(ticker, ticker_info)
         # Remove HTML tags for summary and take first 200 characters
         import re
@@ -395,9 +397,14 @@ def migrate_existing_articles():
                     logger.info(f"✅ Updated metadata for {ticker}")
                 else:
                     # Create new metadata entry
+                    ticker_metadata = load_ticker_metadata()
+                    ticker_info = ticker_metadata.get(ticker, {})
+                    
+                    # Use the new title format (using the build_title function defined at the top level)
+                    title = build_title(ticker, ticker_info)
                     new_entry = {
                         "ticker": ticker,
-                        "title": f"{ticker}: סיקור יומי",
+                        "title": title,
                         "filename": new_filename,
                         "timestamp": get_current_timestamp(),
                         "summary": f"מחפשים את הסיבה לתנועות בשוק : {ticker} - ניתוח מעמיק של הצהרות הנהלה, עסקאות מוסדיות ומהלכים משפטיים."
