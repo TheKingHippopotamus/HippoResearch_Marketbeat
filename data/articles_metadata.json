@@ -2119,5 +2119,17 @@
     "GICS Sector": "Financials",
     "GICS Sub-Industry": "Diversified Banks",
     "Headquarters Location": "Charlotte, North Carolina"
+  },
+  {
+    "ticker": "ROL",
+    "title": "ROL:סיקור יומי  ?",
+    "filename": "ROL_20250624.html",
+    "timestamp": "24/06/2025 01:24",
+    "summary": "כותרת ראשית: מניית Rollins, Inc. צוללת לתוך סערה של ספקולציות, לא של תוצאות עסקיות\nכותרת משנה: שוקי המניות מגיבים לסיפורים מאחורי הקלעים של WWE, לא לחדשות החברה\nפסקה ראשונה\nבזמן שמניה של Rollins, Inc....",
+    "tags": [],
+    "Security": "Rollins, Inc.",
+    "GICS Sector": "Industrials",
+    "GICS Sub-Industry": "Environmental & Facilities Services",
+    "Headquarters Location": "Atlanta, Georgia"
   }
 ]
