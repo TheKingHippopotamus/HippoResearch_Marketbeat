@@ -2143,5 +2143,17 @@
     "GICS Sector": "Real Estate",
     "GICS Sub-Industry": "Retail REITs",
     "Headquarters Location": "San Diego, California"
+  },
+  {
+    "ticker": "AAPL",
+    "title": "AAPL:סיקור יומי  ?",
+    "filename": "AAPL_20250624.html",
+    "timestamp": "24/06/2025 01:33",
+    "summary": "Apple Inc.: חדשנות, התמודדות עם אתגרים, ועתיד מזהיר\nמסע בין רכישות, רגולציה, ובינה מלאכותית\nבתוך עולם הטכנולוגיה המשתנה במהירות, Apple Inc. (AAPL) ממשיכה לנווט את דרכה בין הליכים משפטיים, הזדמנויות חד...",
+    "tags": [],
+    "Security": "Apple Inc.",
+    "GICS Sector": "Information Technology",
+    "GICS Sub-Industry": "Technology Hardware, Storage & Peripherals",
+    "Headquarters Location": "Cupertino, California"
   }
 ]
