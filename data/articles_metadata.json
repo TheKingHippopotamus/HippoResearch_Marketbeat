@@ -2155,5 +2155,17 @@
     "GICS Sector": "Information Technology",
     "GICS Sub-Industry": "Technology Hardware, Storage & Peripherals",
     "Headquarters Location": "Cupertino, California"
+  },
+  {
+    "ticker": "BA",
+    "title": "BA:סיקור יומי  ?",
+    "filename": "BA_20250624.html",
+    "timestamp": "24/06/2025 01:37",
+    "summary": "מעוף אל השמיים: בואינג בין עליות ומורדות\nעל כנפי ההצלחה והחקירות\nחברת בואינג, ענקית התעשייה האווירית האמריקאית (NYSE: BA), חווה לאחרונה מסע תנודתי, המציג את המורכבויות של עולם התעופה המודרני. בעוד שמנ...",
+    "tags": [],
+    "Security": "Boeing",
+    "GICS Sector": "Industrials",
+    "GICS Sub-Industry": "Aerospace & Defense",
+    "Headquarters Location": "Arlington, Virginia"
   }
 ]
