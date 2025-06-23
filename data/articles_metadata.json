@@ -1807,5 +1807,17 @@
     "GICS Sector": "Information Technology",
     "GICS Sub-Industry": "Semiconductors",
     "Headquarters Location": "Boise, Idaho"
+  },
+  {
+    "ticker": "TSLA",
+    "title": "TSLA:סיקור יומי  ?",
+    "filename": "TSLA_20250623.html",
+    "timestamp": "23/06/2025 23:20",
+    "summary": "מהפכת הנהיגה האוטונומית: טסלה מובילה את הדרך עם רובוטקסי\nהשקה היסטורית, שאלות מתעוררות\nבעולם בו הטכנולוגיה משבשת תעשיות, טסלה, יצרנית הרכב החשמלי המהפכנית, עושה צעד אמיץ קדימה עם השקת רובוטקסי, שירות ...",
+    "tags": [],
+    "Security": "Tesla, Inc.",
+    "GICS Sector": "Consumer Discretionary",
+    "GICS Sub-Industry": "Automobile Manufacturers",
+    "Headquarters Location": "Austin, Texas"
   }
 ]
