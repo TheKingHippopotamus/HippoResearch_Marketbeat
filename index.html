@@ -1196,7 +1196,7 @@
                     <div class=\"scroll-hint\"><i class=\"fas fa-angle-double-left\"></i> <i class=\"fas fa-angle-double-right\"></i></div>
                 </div>
                 <div style=\"max-width: 420px; margin: 0 auto 24px auto;\">
-                    <form class=\"search-bar\" onsubmit=\"return false;\">
+                    <form class=\"search-bar\" onsubmit=\"return false;\" id=\"searchForm\">
                         <i class=\"fas fa-search\"></i>
                         <input type=\"text\" id=\"searchInput\" placeholder=\"חפש טיקר (למשל: AAPL, TSLA, META)\" autocomplete=\"off\">
                     </form>
@@ -1212,11 +1212,42 @@
             }
             html += '</div>';
             container.innerHTML = html;
-            // הוספת המאזין לשורת החיפוש
+            
+            // הוספת המאזין לשורת החיפוש עם debounce
             const searchInput = document.getElementById('searchInput');
+            const searchForm = document.getElementById('searchForm');
+            
             if (searchInput) {
-                searchInput.addEventListener('input', function(e) {
-                    loadArticlesWithFilter(e.target.value);
+                // הסרת מאזינים קודמים
+                searchInput.removeEventListener('input', searchInput.searchHandler);
+                searchInput.removeEventListener('keydown', searchInput.keydownHandler);
+                
+                // יצירת פונקציה עם debounce
+                let searchTimeout;
+                searchInput.searchHandler = function(e) {
+                    clearTimeout(searchTimeout);
+                    searchTimeout = setTimeout(() => {
+                        loadArticlesWithFilter(e.target.value);
+                    }, 300); // המתנה של 300ms לפני הפעלת החיפוש
+                };
+                
+                // מניעת שליחת הטופס על ידי Enter
+                searchInput.keydownHandler = function(e) {
+                    if (e.key === 'Enter') {
+                        e.preventDefault();
+                        return false;
+                    }
+                };
+                
+                searchInput.addEventListener('input', searchInput.searchHandler);
+                searchInput.addEventListener('keydown', searchInput.keydownHandler);
+            }
+            
+            // הגנה נוספת על הטופס
+            if (searchForm) {
+                searchForm.addEventListener('submit', function(e) {
+                    e.preventDefault();
+                    return false;
                 });
             }
         }
