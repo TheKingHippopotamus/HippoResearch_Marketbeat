@@ -1927,5 +1927,17 @@
     "GICS Sector": "Information Technology",
     "GICS Sub-Industry": "Semiconductors",
     "Headquarters Location": "Santa Clara, California"
+  },
+  {
+    "ticker": "FOX",
+    "title": "FOX:סיקור יומי  ?",
+    "filename": "FOX_20250623.html",
+    "timestamp": "23/06/2025 23:53",
+    "summary": "פוקס קורפוריישן: חדשות, רייטינג ופרסום בסערה הגיאופוליטית\nהעלייה במניות והשפעת האירועים העולמיים\nבעוד העולם מתמודד עם סדרה של משברים גיאופוליטיים מתוקשרים, פוקס קורפוריישן (נאסד\"ק: FOX) נמצאת במרכז הס...",
+    "tags": [],
+    "Security": "Fox Corporation (Class B)",
+    "GICS Sector": "Communication Services",
+    "GICS Sub-Industry": "Broadcasting",
+    "Headquarters Location": "New York City, New York"
   }
 ]
