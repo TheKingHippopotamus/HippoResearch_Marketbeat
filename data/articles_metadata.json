@@ -2242,7 +2242,7 @@
   },
   {
     "ticker": "DRI",
-    "title": "DRI:סיקור יומי  ?",
+    "title": "DRI: Darden Restaurants | Consumer Discretionary | Restaurants",
     "filename": "DRI_20250624.html",
     "timestamp": "24/06/2025 02:07",
     "summary": "Darden Restaurants: צמיחה, רכישות וחוזקה בשוק המסעדנות\nסקירה מקיפה של ביצועים פיננסיים ואסטרטגיות עתידיות\nDarden Restaurants, Inc., ענקית המסעדנות האמריקאית, נמצאת במוקד תשומת הלב לאחר פרסום תוצאות רב...",
@@ -2251,5 +2251,17 @@
     "GICS Sector": "Consumer Discretionary",
     "GICS Sub-Industry": "Restaurants",
     "Headquarters Location": "Orlando, Florida"
+  },
+  {
+    "ticker": "IBM",
+    "title": "IBM:סיקור יומי  ?",
+    "filename": "IBM_20250624.html",
+    "timestamp": "24/06/2025 02:11",
+    "summary": "IBM: מהפכת בינה מלאכותית, דיבידנדים, ועתיד לא ברור\nעליות בשוק, אך צללים עדיין מרחפים\nמניות חברת International Business Machines Corporation (IBM), ענקית הטכנולוגיה העולמית, חוות עלייה חדה במסחר של היו...",
+    "tags": [],
+    "Security": "IBM",
+    "GICS Sector": "Information Technology",
+    "GICS Sub-Industry": "IT Consulting & Other Services",
+    "Headquarters Location": "Armonk, New York"
   }
 ]

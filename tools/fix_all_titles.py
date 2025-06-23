@@ -29,7 +29,7 @@ def build_title(article):
     return title
 
 def fix_titles_to_metadata():
-    metadata_file = os.path.join("data", "articles_metadata.json")
+    metadata_file = os.path.join("..", "data", "articles_metadata.json")
     if not os.path.exists(metadata_file):
         print("❌ קובץ המטא-דאטה לא נמצא!")
         return
