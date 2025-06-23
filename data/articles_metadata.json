@@ -1903,5 +1903,17 @@
     "GICS Sector": "Consumer Staples",
     "GICS Sub-Industry": "Consumer Staples Merchandise Retail",
     "Headquarters Location": "Bentonville, Arkansas"
+  },
+  {
+    "ticker": "NFLX",
+    "title": "NFLX:סיקור יומי  ?",
+    "filename": "NFLX_20250623.html",
+    "timestamp": "23/06/2025 23:44",
+    "summary": "#Netflix: צמיחה, תוכן מקורי, וחששות לגבי מוניטין\nהעלייה המתמשכת של ענקית הסטרימינג\nמניית נטפליקס (NFLX) חווה עלייה מרשימה במהלך היום, מונעת על ידי שורה של חדשות חיוביות ומחירי יעד מעודדים. האנליסטים מ...",
+    "tags": [],
+    "Security": "Netflix",
+    "GICS Sector": "Communication Services",
+    "GICS Sub-Industry": "Movies & Entertainment",
+    "Headquarters Location": "Los Gatos, California"
   }
 ]
