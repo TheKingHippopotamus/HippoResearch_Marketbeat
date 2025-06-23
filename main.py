@@ -228,7 +228,7 @@ def process_and_create_article(ticker, original_text, original_file_name=None, t
         copy_static_files(articles_dir)
 
         # Extract title and summary for metadata - use the formatted HTML content for summary
-        title = f"{ticker}:סיקור יומי  "
+        title = f"{ticker}: סיקור יומי"
         # Remove HTML tags for summary and take first 200 characters
         import re
         clean_summary = re.sub(r'<[^>]+>', '', formatted_content)
@@ -385,7 +385,7 @@ def migrate_existing_articles():
                     # Create new metadata entry
                     new_entry = {
                         "ticker": ticker,
-                        "title": f"{ticker}:סיקור יומי ",
+                        "title": f"{ticker}: סיקור יומי",
                         "filename": new_filename,
                         "timestamp": get_current_timestamp(),
                         "summary": f"מחפשים את הסיבה לתנועות בשוק : {ticker} - ניתוח מעמיק של הצהרות הנהלה, עסקאות מוסדיות ומהלכים משפטיים."
