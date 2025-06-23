@@ -781,6 +781,28 @@
             font-size: 1em;
             margin: 0;
         }
+        .clear-button {
+            background: #f0f0f0;
+            border: none;
+            border-radius: 50%;
+            width: 30px;
+            height: 30px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            margin-right: 5px;
+            color: #666;
+        }
+        .clear-button:hover {
+            background: #e0e0e0;
+            color: #333;
+        }
+        .clear-button i {
+            font-size: 0.9em;
+            margin: 0;
+        }
         @media (max-width: 768px) {
             .search-bar {
                 max-width: 98vw;
@@ -790,6 +812,10 @@
             .search-button {
                 width: 36px;
                 height: 36px;
+            }
+            .clear-button {
+                width: 28px;
+                height: 28px;
             }
         }
         .company-badges-bar {
@@ -1226,6 +1252,9 @@
                     <form class=\"search-bar\" onsubmit=\"return false;\" id=\"searchForm\">
                         <i class=\"fas fa-search\"></i>
                         <input type=\"text\" id=\"searchInput\" placeholder=\"חפש טיקר (למשל: AAPL, TSLA, META)\" autocomplete=\"off\">
+                        <button type=\"button\" id=\"clearButton\" class=\"clear-button\" style=\"display: none;\">
+                            <i class=\"fas fa-times\"></i>
+                        </button>
                         <button type=\"submit\" id=\"searchButton\" class=\"search-button\">
                             <i class=\"fas fa-search\"></i>
                         </button>
@@ -1246,30 +1275,46 @@
             // הוספת המאזין לשורת החיפוש עם debounce
             const searchInput = document.getElementById('searchInput');
             const searchForm = document.getElementById('searchForm');
+            const searchButton = document.getElementById('searchButton');
+            const clearButton = document.getElementById('clearButton');
             
             if (searchInput) {
                 // הסרת מאזינים קודמים
                 searchInput.removeEventListener('input', searchInput.searchHandler);
                 searchInput.removeEventListener('keydown', searchInput.keydownHandler);
                 
-                // יצירת פונקציה עם debounce
-                let searchTimeout;
-                searchInput.searchHandler = function(e) {
-                    clearTimeout(searchTimeout);
-                    searchTimeout = setTimeout(() => {
-                        loadArticlesWithFilter(e.target.value);
-                    }, 300); // המתנה של 300ms לפני הפעלת החיפוש
-                };
+                // פונקציה לביצוע החיפוש
+                function performSearch() {
+                    const searchValue = searchInput.value.trim();
+                    if (searchValue) {
+                        loadArticlesWithFilter(searchValue);
+                    } else {
+                        // אם אין ערך חיפוש, הצג את כל הכתבות
+                        loadArticlesWithFilter('');
+                    }
+                }
+                
+                // פונקציה להצגה/הסתרה של כפתור הניקוי
+                function toggleClearButton() {
+                    if (searchInput.value.trim()) {
+                        clearButton.style.display = 'flex';
+                    } else {
+                        clearButton.style.display = 'none';
+                    }
+                }
+                
+                // מאזין לשינויים בשורת החיפוש
+                searchInput.addEventListener('input', toggleClearButton);
                 
                 // מניעת שליחת הטופס על ידי Enter
                 searchInput.keydownHandler = function(e) {
                     if (e.key === 'Enter') {
                         e.preventDefault();
+                        performSearch();
                         return false;
                     }
                 };
                 
-                searchInput.addEventListener('input', searchInput.searchHandler);
                 searchInput.addEventListener('keydown', searchInput.keydownHandler);
             }
             
@@ -1277,7 +1322,37 @@
             if (searchForm) {
                 searchForm.addEventListener('submit', function(e) {
                     e.preventDefault();
+                    const searchValue = searchInput.value.trim();
+                    if (searchValue) {
+                        loadArticlesWithFilter(searchValue);
+                    } else {
+                        loadArticlesWithFilter('');
+                    }
                     return false;
+                });
+            }
+            
+            // מאזין לכפתור החיפוש
+            if (searchButton) {
+                searchButton.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    const searchValue = searchInput.value.trim();
+                    if (searchValue) {
+                        loadArticlesWithFilter(searchValue);
+                    } else {
+                        loadArticlesWithFilter('');
+                    }
+                });
+            }
+            
+            // מאזין לכפתור הניקוי
+            if (clearButton) {
+                clearButton.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    searchInput.value = '';
+                    clearButton.style.display = 'none';
+                    loadArticlesWithFilter(''); // הצג את כל הכתבות
+                    searchInput.focus(); // החזר פוקוס לשורת החיפוש
                 });
             }
         }
