@@ -3259,5 +3259,17 @@
     "GICS Sector": "Financials",
     "GICS Sub-Industry": "Transaction & Payment Processing Services",
     "Headquarters Location": "Brookfield, Wisconsin"
+  },
+  {
+    "ticker": "XOM",
+    "title": "XOM: ExxonMobil | Energy | Integrated Oil & Gas",
+    "filename": "XOM_20250624.html",
+    "timestamp": "24/06/2025 06:51",
+    "summary": "אקסון מוביל: בין תקווה לאי-ודאות בשוק האנרגיה\nמסחר מתנדנד בסקטור הנפט\nיום סוער בשווקים עבור אקסון מוביל (XOM), ענקית האנרגיה העולמית. המניה חוותה תנודתיות, משקפת את המורכבות של הסביבה הגיאופוליטית הנו...",
+    "tags": [],
+    "Security": "ExxonMobil",
+    "GICS Sector": "Energy",
+    "GICS Sub-Industry": "Integrated Oil & Gas",
+    "Headquarters Location": "Irving, Texas"
   }
 ]
