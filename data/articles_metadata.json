@@ -3271,5 +3271,17 @@
     "GICS Sector": "Energy",
     "GICS Sub-Industry": "Integrated Oil & Gas",
     "Headquarters Location": "Irving, Texas"
+  },
+  {
+    "ticker": "FDS",
+    "title": "FDS: FactSet | Financials | Financial Exchanges & Data",
+    "filename": "FDS_20250624.html",
+    "timestamp": "24/06/2025 07:24",
+    "summary": "FactSet מציגה צמיחה חזקה ומנהלת ציפיות בשוק\nניתוח תוצאות הרבעון השלישי ותוכניות עתידיות\nPARA# חברת FactSet Research Systems Inc., סמל NYSE:FDS, מושכת את תשומת לבם של המשקיעים עם ביצועי רבעון מרשימים, ...",
+    "tags": [],
+    "Security": "FactSet",
+    "GICS Sector": "Financials",
+    "GICS Sub-Industry": "Financial Exchanges & Data",
+    "Headquarters Location": "Norwalk, Connecticut"
   }
 ]
