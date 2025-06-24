@@ -958,21 +958,21 @@
                 margin-left: 4px;
             }
             .tags-container {
-                gap: 4px;
+                gap: 3px;
                 justify-content: flex-start;
                 padding: 0 4px;
             }
             .tag-btn {
-                font-size: 0.85em;
-                padding: 6px 12px;
-                border-radius: 18px;
+                font-size: 0.75em;
+                padding: 4px 8px;
+                border-radius: 14px;
                 min-width: fit-content;
                 white-space: nowrap;
                 flex-shrink: 0;
             }
             .tag-btn i {
-                font-size: 0.8em;
-                margin-right: 4px;
+                font-size: 0.7em;
+                margin-right: 3px;
             }
         }
         
@@ -987,14 +987,36 @@
                 font-size: 0.8em;
             }
             .tag-btn {
-                font-size: 0.8em;
-                padding: 5px 10px;
-                border-radius: 16px;
+                font-size: 0.7em;
+                padding: 3px 6px;
+                border-radius: 12px;
             }
             .tag-btn i {
-                font-size: 0.75em;
-                margin-right: 3px;
+                font-size: 0.65em;
+                margin-right: 2px;
             }
+        }
+        
+        /* Order tags by text length on mobile */
+        @media (max-width: 480px) {
+            .tags-container {
+                display: grid;
+                grid-template-columns: repeat(auto-fill, minmax(auto, 1fr));
+                gap: 3px;
+                justify-items: start;
+            }
+            .tag-btn[data-tag="all"] { order: 1; }
+            .tag-btn[data-tag="סקטור: Energy"] { order: 2; }
+            .tag-btn[data-tag="סקטור: Materials"] { order: 3; }
+            .tag-btn[data-tag="סקטור: Utilities"] { order: 4; }
+            .tag-btn[data-tag="סקטור: Real Estate"] { order: 5; }
+            .tag-btn[data-tag="סקטור: Industrials"] { order: 6; }
+            .tag-btn[data-tag="סקטור: Financials"] { order: 7; }
+            .tag-btn[data-tag="סקטור: Health Care"] { order: 8; }
+            .tag-btn[data-tag="סקטור: Communication Services"] { order: 9; }
+            .tag-btn[data-tag="סקטור: Consumer Staples"] { order: 10; }
+            .tag-btn[data-tag="סקטור: Consumer Discretionary"] { order: 11; }
+            .tag-btn[data-tag="סקטור: Information Technology"] { order: 12; }
         }
         .company-badges-bar {
             display: flex;
