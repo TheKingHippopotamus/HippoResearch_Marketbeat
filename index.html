@@ -1663,17 +1663,6 @@
             }
             html += '</div>';
             container.innerHTML = html;
-            // הוספת כפתור "סיקורים אחרונים" רק בדסקטופ (בתוך שורת החיפוש) או במובייל (מתחת לשורת החיפוש)
-            const latestBtnHtml = `<button id="latest-articles-btn" class="tag-btn" style="background: ${onlyLatestDay ? 'linear-gradient(135deg, #e94560 60%, #ff6b6b 100%)' : 'rgba(255,255,255,0.1)'}; color: ${onlyLatestDay ? 'white' : 'var(--text-light)'}; border: ${onlyLatestDay ? 'none' : '1px solid rgba(255,255,255,0.3)'}; padding: 10px 20px; border-radius: 20px; cursor: pointer; font-size: 1.1em; margin: 8px 0 0 0; transition: all 0.3s ease; box-shadow: ${onlyLatestDay ? '0 4px 16px rgba(233, 69, 96, 0.3)' : 'none'};"><i class="fas fa-clock"></i> סיקורים אחרונים</button>`;
-            if (window.innerWidth <= 768) {
-                // במובייל - מתחת לשורת החיפוש
-                const mobilePlaceholder = document.getElementById('latest-articles-mobile-placeholder');
-                if (mobilePlaceholder) mobilePlaceholder.innerHTML = latestBtnHtml;
-            } else {
-                // בדסקטופ - בתוך שורת החיפוש
-                const searchBarRow = container.querySelector('.search-bar').parentElement;
-                if (searchBarRow) searchBarRow.insertAdjacentHTML('beforeend', latestBtnHtml);
-            }
             // הוספת מאזינים לכפתורי התגים
             const tagButtons = document.querySelectorAll('.tag-btn[data-tag]');
             tagButtons.forEach(button => {
