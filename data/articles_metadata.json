@@ -3571,5 +3571,17 @@
     "GICS Sector": "Industrials",
     "GICS Sub-Industry": "Aerospace & Defense",
     "Headquarters Location": "Waltham, Massachusetts"
+  },
+  {
+    "ticker": "ED",
+    "title": "ED: Consolidated Edison | Utilities | Multi-Utilities",
+    "filename": "ED_20250625.html",
+    "timestamp": "25/06/2025 01:56",
+    "summary": "גל חום קיצוני מאלץ את Consolidated Edison להתמודד עם אתגרים חדשים\nלחץ על רשת החשמל של ניו יורק\nבתוך סערת החום הנוכחית, חברת Consolidated Edison (ED) נמצאת בחזית המאבק לשמור על אספקת חשמל יציבה בעיר ני...",
+    "tags": [],
+    "Security": "Consolidated Edison",
+    "GICS Sector": "Utilities",
+    "GICS Sub-Industry": "Multi-Utilities",
+    "Headquarters Location": "New York City, New York"
   }
 ]
