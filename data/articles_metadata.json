@@ -3463,5 +3463,17 @@
     "GICS Sector": "Information Technology",
     "GICS Sub-Industry": "Semiconductors",
     "Headquarters Location": "Santa Clara, California"
+  },
+  {
+    "ticker": "CRWD",
+    "title": "CRWD: CrowdStrike | Information Technology | Systems Software",
+    "filename": "CRWD_20250625.html",
+    "timestamp": "25/06/2025 01:22",
+    "summary": "#TITLE# עליית CrowdStrike: אבטחת הסייבר תחת אור גיאופוליטי\nמגמות בשוק ומעבר: ניתוח המניה של CrowdStrike\nבעולם בו איומי הסייבר הופכים למורכבים יותר, חברת CrowdStrike (נאסד\"ק: CRWD) מציבה את עצמה בחזית ...",
+    "tags": [],
+    "Security": "CrowdStrike",
+    "GICS Sector": "Information Technology",
+    "GICS Sub-Industry": "Systems Software",
+    "Headquarters Location": "Austin, Texas"
   }
 ]
