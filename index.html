@@ -1459,8 +1459,10 @@
                 window.allArticlesMetadata = metadata;
                 window.lastFilter = null;
                 
-                console.log('✅ מציג כתבות...');
-                displayArticles(metadata);
+                // במובייל, ברירת מחדל - להציג רק כתבות מהיום האחרון
+                const onlyLatestDay = window.innerWidth <= 768 ? true : false;
+                window.activeTag = 'all';
+                displayArticles(metadata, undefined, onlyLatestDay);
                 
             } catch (error) {
                 console.error('❌ שגיאה בטעינת כתבות:', error);
