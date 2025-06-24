@@ -3451,5 +3451,17 @@
     "GICS Sector": "Communication Services",
     "GICS Sub-Industry": "Broadcasting",
     "Headquarters Location": "New York City, New York"
+  },
+  {
+    "ticker": "NVDA",
+    "title": "NVDA: Nvidia | Information Technology | Semiconductors",
+    "filename": "NVDA_20250625.html",
+    "timestamp": "25/06/2025 01:17",
+    "summary": "NVIDIA: מסע אל לב הבינה המלאכותית והטכנולוגיה החדשנית\nפריצה קדימה: עליות במניה, זרזים טכניים ושיתופי פעולה אסטרטגיים\nמניית NVIDIA Corporation (נאסד\"ק: NVDA) צועדת קדימה בשוק עם גלים של אופטימיות, למרו...",
+    "tags": [],
+    "Security": "Nvidia",
+    "GICS Sector": "Information Technology",
+    "GICS Sub-Industry": "Semiconductors",
+    "Headquarters Location": "Santa Clara, California"
   }
 ]
