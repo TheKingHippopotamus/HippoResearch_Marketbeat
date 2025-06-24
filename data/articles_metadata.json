@@ -3415,5 +3415,17 @@
     "GICS Sector": "Consumer Discretionary",
     "GICS Sub-Industry": "Automobile Manufacturers",
     "Headquarters Location": "Dearborn, Michigan"
+  },
+  {
+    "ticker": "AFL",
+    "title": "AFL: Aflac | Financials | Life & Health Insurance",
+    "filename": "AFL_20250625.html",
+    "timestamp": "25/06/2025 01:02",
+    "summary": "כותרת: פריצת אבטחה ב-Aflac: האם נתונים רגישים של לקוחות נמצאים בסכנה?\nכותרת משנה: חשיפת פרטים חדשים על מתקפת הסייבר שמטרידה את ענקית הביטוח\nפסקה ראשונה:\nבצל חששות גוברת ממתקפות סייבר, מניות Aflac Inco...",
+    "tags": [],
+    "Security": "Aflac",
+    "GICS Sector": "Financials",
+    "GICS Sub-Industry": "Life & Health Insurance",
+    "Headquarters Location": "Columbus, Georgia"
   }
 ]
