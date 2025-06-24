@@ -1661,7 +1661,13 @@
             const tagButtons = document.querySelectorAll('.tag-btn[data-tag]');
             tagButtons.forEach(button => {
                 button.addEventListener('click', function() {
-                    // הסרת הפעלה מכל הכפתורים
+                    const selectedTag = this.getAttribute('data-tag');
+                    // אם לוחצים על 'הכל', קבע את window.activeTag ל-'all'
+                    if (selectedTag === 'all') {
+                        window.activeTag = 'all';
+                    } else {
+                        window.activeTag = selectedTag;
+                    }
                     tagButtons.forEach(btn => {
                         btn.classList.remove('active');
                         btn.style.background = 'rgba(255,255,255,0.1)';
@@ -1669,47 +1675,15 @@
                         btn.style.border = '1px solid rgba(255,255,255,0.3)';
                         btn.style.boxShadow = 'none';
                     });
-                    
-                    // הפעלת הכפתור הנוכחי
                     this.classList.add('active');
                     this.style.background = 'linear-gradient(135deg, #4a148c 60%, #6a1b9a 100%)';
                     this.style.color = 'white';
                     this.style.border = 'none';
                     this.style.boxShadow = '0 4px 16px rgba(74, 20, 140, 0.3)';
-                    
-                    // ביצוע סינון לפי התג
-                    const selectedTag = this.getAttribute('data-tag');
-                    const doScroll = () => {
-                        if (window.innerWidth <= 768) {
-                            const grid = document.querySelector('.articles-grid');
-                            if (grid) {
-                                grid.scrollTo({ left: 0, behavior: 'smooth' });
-                            }
-                        }
-                    };
                     if (selectedTag === 'all') {
                         displayArticles(window.allArticlesMetadata, filterValue, false);
-                        // גלילה רק אחרי שהגריד נוצר
-                        if (window.innerWidth <= 768) {
-                            const observer = new MutationObserver((mutations, obs) => {
-                                if (document.querySelector('.articles-grid')) {
-                                    doScroll();
-                                    obs.disconnect();
-                                }
-                            });
-                            observer.observe(document.getElementById('articles-container'), { childList: true, subtree: true });
-                        }
                     } else {
                         filterByTag(window.allArticlesMetadata, selectedTag, filterValue, onlyLatestDay);
-                        if (window.innerWidth <= 768) {
-                            const observer = new MutationObserver((mutations, obs) => {
-                                if (document.querySelector('.articles-grid')) {
-                                    doScroll();
-                                    obs.disconnect();
-                                }
-                            });
-                            observer.observe(document.getElementById('articles-container'), { childList: true, subtree: true });
-                        }
                     }
                 });
             });
@@ -1934,23 +1908,21 @@
             const tagButtons = document.querySelectorAll('.tag-btn[data-tag]');
             tagButtons.forEach(button => {
                 button.addEventListener('click', function() {
-                    tagButtons.forEach(btn => {
-                        btn.classList.remove('active');
-                        btn.style.background = 'rgba(255,255,255,0.1)';
-                        btn.style.color = 'var(--text-light)';
-                        btn.style.border = '1px solid rgba(255,255,255,0.3)';
-                        btn.style.boxShadow = 'none';
-                    });
-                    this.classList.add('active');
-                    this.style.background = 'linear-gradient(135deg, #4a148c 60%, #6a1b9a 100%)';
-                    this.style.color = 'white';
-                    this.style.border = 'none';
-                    this.style.boxShadow = '0 4px 16px rgba(74, 20, 140, 0.3)';
                     const selectedTag = this.getAttribute('data-tag');
+                    window.activeTag = selectedTag;
                     if (selectedTag === 'all') {
-                        displayArticles(window.allArticlesMetadata, filterValue, false);
+                        // הצג הכל והדגש את "הכל"
+                        updateArticlesDisplay(window.allArticlesMetadata, window.allArticlesMetadata, 'all', filterValue, false);
                     } else {
-                        filterByTag(window.allArticlesMetadata, selectedTag, filterValue, onlyLatestDay);
+                        // סנן לפי תג והדגש את התג
+                        const sortedArticles = sortByPublicationTime([...window.allArticlesMetadata]);
+                        const filtered = sortedArticles.filter(article => {
+                            if (article.tags && Array.isArray(article.tags)) {
+                                return article.tags.some(t => t === selectedTag);
+                            }
+                            return false;
+                        });
+                        updateArticlesDisplay(filtered, sortedArticles, selectedTag, filterValue, onlyLatestDay);
                     }
                 });
             });
