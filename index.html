@@ -813,13 +813,23 @@
             z-index: 2;
         }
         .search-bar input {
-            background: transparent;
+            font-size: 1.08em;
+            padding: 14px 10px 14px 0;
             border: none;
             outline: none;
-            font-size: 1.1em;
-            flex: 1;
-            padding: 14px 8px 14px 0;
+            background: transparent;
             color: var(--text-dark);
+            width: 100%;
+            font-family: inherit;
+            font-weight: 500;
+            letter-spacing: 0.03em;
+            border-radius: 12px;
+            transition: background 0.2s, box-shadow 0.2s;
+        }
+        .search-bar input::placeholder {
+            font-size: 0.85em;
+            color: #888;
+            opacity: 1;
         }
         .search-bar .search-button, .search-bar .clear-button {
             background: linear-gradient(135deg, #e94560 60%, #ff6b6b 100%);
@@ -950,6 +960,9 @@
             .search-bar input {
                 font-size: 0.95em;
                 padding: 12px 6px 12px 0;
+            }
+            .search-bar input::placeholder {
+                font-size: 0.75em;
             }
             .search-bar .search-button, .search-bar .clear-button {
                 width: 32px;
