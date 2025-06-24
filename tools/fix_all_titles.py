@@ -6,30 +6,59 @@
 
 import json
 import os
+import csv
 
 MAX_TITLE_LEN = 70
 
+# Load CSV data for Security names
+csv_data = {}
+try:
+    with open('data/flat-ui__data-Thu Jun 19 2025.csv', 'r', encoding='utf-8') as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            csv_data[row['Tickers'].strip()] = row
+except:
+    print("⚠️ לא ניתן לטעון קובץ CSV - יושתמש רק בטיקר")
+
+def extract_from_tags(tags):
+    """Extract sector and sub-industry from tags"""
+    sector = ""
+    sub_industry = ""
+    for tag in tags:
+        if tag.startswith("סקטור: "):
+            sector = tag.replace("סקטור: ", "").strip()
+        elif tag.startswith("תעשייה: "):
+            sub_industry = tag.replace("תעשייה: ", "").strip()
+    return sector, sub_industry
 
 def build_title(article):
-    parts = []
     ticker = article.get('ticker', '').strip()
-    if ticker:
-        parts.append(ticker)
-    security = article.get('Security', '').strip()
-    sector = article.get('GICS Sector', '').strip()
-    sub_industry = article.get('GICS Sub-Industry', '').strip()
+    if not ticker:
+        return ""
+    
+    # Get Security name from CSV
+    security = ""
+    if ticker in csv_data:
+        security = csv_data[ticker].get('Security', '').strip()
+    
+    # Get sector and sub-industry from tags
+    tags = article.get('tags', [])
+    sector, sub_industry = extract_from_tags(tags)
+    
+    # Build title
     details = [s for s in [security, sector, sub_industry] if s]
     if details:
         title = f"{ticker}: " + " | ".join(details)
     else:
         title = ticker
+    
     # קיצור אם צריך
     if len(title) > MAX_TITLE_LEN:
         title = title[:MAX_TITLE_LEN-1] + '…'
     return title
 
 def fix_titles_to_metadata():
-    metadata_file = os.path.join("..", "data", "articles_metadata.json")
+    metadata_file = "data/articles_metadata.json"
     if not os.path.exists(metadata_file):
         print("❌ קובץ המטא-דאטה לא נמצא!")
         return
@@ -40,7 +69,7 @@ def fix_titles_to_metadata():
         fixed_count = 0
         for article in metadata:
             new_title = build_title(article)
-            if article.get('title', '') != new_title:
+            if new_title and article.get('title', '') != new_title:
                 print(f"✅ {article.get('title','')} → {new_title}")
                 article['title'] = new_title
                 fixed_count += 1

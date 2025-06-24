@@ -18,6 +18,7 @@
             --gradient-accent: linear-gradient(135deg, #e94560 0%, #ff6b6b 100%);
             --shadow-primary: 0 20px 40px rgba(26, 26, 46, 0.15);
             --shadow-accent: 0 10px 30px hsl(283, 47%, 78%);
+            --search-bg: #eaf6fb;
         }
         
         * {
@@ -731,91 +732,211 @@
             .brand-subtitle { font-size: 0.8em !important; }
             .header-content { gap: 10px !important; }
         }
+        .search-tags-container {
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 25%, #0f3460 50%, #1a1a2e 75%, #16213e 100%);
+            background-size: 400% 400%;
+            animation: gradientShift 8s ease-in-out infinite;
+            border-radius: 0;
+            box-shadow: 
+                0 8px 32px rgba(15, 52, 96, 0.3),
+                0 0 0 1px rgba(233, 69, 96, 0.1),
+                inset 0 1px 0 rgba(255, 255, 255, 0.1);
+            padding: 32px 30px 22px 30px;
+            margin: 0 auto 36px auto;
+            width: 100%;
+            max-width: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            border: 1.5px solid rgba(233, 69, 96, 0.2);
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .search-tags-container::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: 
+                radial-gradient(circle at 30% 30%, rgba(233, 69, 96, 0.1) 0%, transparent 50%),
+                radial-gradient(circle at 70% 70%, rgba(15, 52, 96, 0.1) 0%, transparent 50%),
+                radial-gradient(circle at 50% 50%, rgba(255, 255, 255, 0.05) 0%, transparent 50%);
+            animation: float 6s ease-in-out infinite;
+            pointer-events: none;
+        }
+        
+        .search-tags-container::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: linear-gradient(45deg, transparent 30%, rgba(255, 255, 255, 0.03) 50%, transparent 70%);
+            animation: shimmer 3s ease-in-out infinite;
+            pointer-events: none;
+        }
+        
+        @keyframes gradientShift {
+            0%, 100% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+        }
+        
+        @keyframes float {
+            0%, 100% { transform: translateY(0px) rotate(0deg); }
+            50% { transform: translateY(-20px) rotate(180deg); }
+        }
+        
+        @keyframes shimmer {
+            0%, 100% { opacity: 0; transform: translateX(-100%); }
+            50% { opacity: 1; transform: translateX(100%); }
+        }
+        
         .search-bar {
             width: 100%;
-            max-width: 400px;
-            margin: 0 auto 25px auto;
+            max-width: 480px;
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border-radius: 18px;
+            box-shadow: 
+                0 4px 16px rgba(15, 52, 96, 0.15),
+                0 0 0 1px rgba(255, 255, 255, 0.2);
+            padding: 0 10px;
             display: flex;
             align-items: center;
-            background: #fff;
-            border-radius: 30px;
-            box-shadow: 0 2px 8px rgba(233,69,96,0.07);
-            border: 1px solid #eee;
-            padding: 6px 18px;
-            font-size: 1.1em;
+            margin-bottom: 14px;
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            position: relative;
+            z-index: 2;
         }
         .search-bar input {
+            background: transparent;
             border: none;
             outline: none;
-            background: transparent;
             font-size: 1.1em;
             flex: 1;
+            padding: 14px 8px 14px 0;
             color: var(--text-dark);
-            padding: 10px 0;
         }
-        .search-bar i {
-            color: var(--highlight-color);
-            margin-left: 10px;
-            font-size: 1.2em;
-        }
-        .search-button {
-            background: var(--gradient-accent);
+        .search-bar .search-button, .search-bar .clear-button {
+            background: linear-gradient(135deg, #e94560 60%, #ff6b6b 100%);
+            color: #fff;
             border: none;
             border-radius: 50%;
-            width: 40px;
-            height: 40px;
+            width: 36px;
+            height: 36px;
             display: flex;
             align-items: center;
             justify-content: center;
-            cursor: pointer;
+            margin-left: 6px;
+            font-size: 1.1em;
             transition: all 0.3s ease;
-            margin-right: 5px;
-            box-shadow: 0 2px 8px rgba(233, 69, 96, 0.2);
+            box-shadow: 0 2px 8px rgba(233,69,96,0.2);
+            cursor: pointer;
+            position: relative;
+            overflow: hidden;
         }
-        .search-button:hover {
-            transform: scale(1.1);
-            box-shadow: 0 4px 12px rgba(233, 69, 96, 0.3);
+        .search-bar .clear-button {
+            background: linear-gradient(135deg, #0f3460 60%, #16213e 100%);
+            color: #fff;
         }
-        .search-button i {
-            color: white;
-            font-size: 1em;
-            margin: 0;
+        .search-bar .search-button::before, .search-bar .clear-button::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.3), transparent);
+            transition: left 0.5s;
         }
-        .clear-button {
-            background: #f0f0f0;
-            border: none;
-            border-radius: 50%;
-            width: 30px;
-            height: 30px;
+        .search-bar .search-button:hover::before, .search-bar .clear-button:hover::before {
+            left: 100%;
+        }
+        .search-bar .search-button:hover {
+            background: linear-gradient(135deg, #ff6b6b 60%, #e94560 100%);
+            transform: scale(1.05);
+            box-shadow: 0 4px 16px rgba(233,69,96,0.3);
+        }
+        .search-bar .clear-button:hover {
+            background: linear-gradient(135deg, #16213e 60%, #0f3460 100%);
+            transform: scale(1.05);
+            box-shadow: 0 4px 16px rgba(15,52,96,0.3);
+        }
+        .tags-section {
+            width: 100%;
+            margin: 0 auto 0 auto;
+            max-width: 100%;
+            text-align: center;
+            position: relative;
+            z-index: 2;
+        }
+        .tags-container {
             display: flex;
-            align-items: center;
+            flex-wrap: wrap;
             justify-content: center;
+            gap: 10px;
+            margin-bottom: 0;
+            max-width: 100%;
+        }
+        .tag-btn {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            color: #fff;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            padding: 10px 20px;
+            border-radius: 22px;
             cursor: pointer;
+            font-size: 1.1em;
+            font-weight: 500;
+            box-shadow: 
+                0 2px 8px rgba(15, 52, 96, 0.2),
+                0 0 0 1px rgba(255, 255, 255, 0.1);
             transition: all 0.3s ease;
-            margin-right: 5px;
-            color: #666;
+            outline: none;
+            position: relative;
+            overflow: hidden;
         }
-        .clear-button:hover {
-            background: #e0e0e0;
-            color: #333;
+        .tag-btn::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.1), transparent);
+            transition: left 0.5s;
         }
-        .clear-button i {
-            font-size: 0.9em;
-            margin: 0;
+        .tag-btn:hover::before {
+            left: 100%;
         }
-        @media (max-width: 768px) {
+        .tag-btn.active, .tag-btn:hover {
+            background: linear-gradient(135deg, #4a148c 60%, #6a1b9a 100%);
+            color: #fff;
+            box-shadow: 
+                0 4px 16px rgba(74, 20, 140, 0.3),
+                0 0 0 1px rgba(74, 20, 140, 0.3);
+        }
+        @media (max-width: 600px) {
+            .search-tags-container {
+                max-width: 100%;
+                width: 100%;
+                padding: 16px 20px 12px 20px;
+            }
             .search-bar {
-                max-width: 98vw;
+                padding: 0 4px;
+                max-width: 100%;
+            }
+            .tags-container {
+                gap: 6px;
+                max-width: 100%;
+            }
+            .tag-btn {
                 font-size: 1em;
-                padding: 4px 10px;
-            }
-            .search-button {
-                width: 36px;
-                height: 36px;
-            }
-            .clear-button {
-                width: 28px;
-                height: 28px;
+                padding: 8px 16px;
             }
         }
         .company-badges-bar {
@@ -1111,6 +1232,14 @@
                 </div>
             </div>
         </div>
+       
+          
+            <div id="articles-container">
+                <div class="loading">
+                    <i class="fas fa-spinner"></i>
+                    <p>טוען כתבות...</p>
+            </div>
+        </div>
         
         <div class="content">
           
@@ -1143,14 +1272,6 @@
             </div>
         </div>
             </div>
-          
-            <div id="articles-container">
-                <div class="loading">
-                    <i class="fas fa-spinner"></i>
-                    <p>טוען כתבות...</p>
-                </div>
-            </div>
-            
             <div class="disclaimer">
                 <strong>הסתייגות משפטית:</strong>
                 המידע הנ״ל מבוסס על מקורות מידע שונים ועלול להשתנות בכל עת. המידע המוזכר בכתבה זו מוגבל לצורך מחקר והנאה ואין לראות בכתוב המלצה להשקעה. יש להתייעץ עם יועץ פיננסי לפני קבלת החלטות השקעה.
@@ -1231,10 +1352,55 @@
                 .replace(/^\s+|\s+$/g, '');
         }
         
+        // פונקציה ליצירת HTML של התגים
+        function generateTagsHTML(activeTag = 'all') {
+            return `
+                <div class="tags-section" style="margin: 0 auto 0 auto; width: 100%; text-align: center;">
+                    <div class="tags-container" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-bottom: 0; width: 100%;">
+                        <button class="tag-btn ${activeTag === 'all' ? 'active' : ''}" data-tag="all" style="background: ${activeTag === 'all' ? 'linear-gradient(135deg, #4a148c 60%, #6a1b9a 100%)' : 'rgba(255,255,255,0.1)'}; color: ${activeTag === 'all' ? 'white' : 'var(--text-light)'}; border: ${activeTag === 'all' ? 'none' : '1px solid rgba(255,255,255,0.3)'}; padding: 10px 20px; border-radius: 20px; cursor: pointer; font-size: 1.1em; transition: all 0.3s ease; box-shadow: ${activeTag === 'all' ? '0 4px 16px rgba(74, 20, 140, 0.3)' : 'none'};">
+                            <i class="fas fa-globe"></i> הכל
+                        </button>
+                        <button class="tag-btn ${activeTag === 'סקטור: Information Technology' ? 'active' : ''}" data-tag="סקטור: Information Technology" style="background: ${activeTag === 'סקטור: Information Technology' ? 'linear-gradient(135deg, #4a148c 60%, #6a1b9a 100%)' : 'rgba(255,255,255,0.1)'}; color: ${activeTag === 'סקטור: Information Technology' ? 'white' : 'var(--text-light)'}; border: ${activeTag === 'סקטור: Information Technology' ? 'none' : '1px solid rgba(255,255,255,0.3)'}; padding: 10px 20px; border-radius: 20px; cursor: pointer; font-size: 1.1em; transition: all 0.3s ease; box-shadow: ${activeTag === 'סקטור: Information Technology' ? '0 4px 16px rgba(74, 20, 140, 0.3)' : 'none'};">
+                            <i class="fas fa-microchip"></i> טכנולוגיה
+                        </button>
+                        <button class="tag-btn ${activeTag === 'סקטור: Financials' ? 'active' : ''}" data-tag="סקטור: Financials" style="background: ${activeTag === 'סקטור: Financials' ? 'linear-gradient(135deg, #4a148c 60%, #6a1b9a 100%)' : 'rgba(255,255,255,0.1)'}; color: ${activeTag === 'סקטור: Financials' ? 'white' : 'var(--text-light)'}; border: ${activeTag === 'סקטור: Financials' ? 'none' : '1px solid rgba(255,255,255,0.3)'}; padding: 10px 20px; border-radius: 20px; cursor: pointer; font-size: 1.1em; transition: all 0.3s ease; box-shadow: ${activeTag === 'סקטור: Financials' ? '0 4px 16px rgba(74, 20, 140, 0.3)' : 'none'};">
+                            <i class="fas fa-chart-line"></i> פיננסים
+                        </button>
+                        <button class="tag-btn ${activeTag === 'סקטור: Health Care' ? 'active' : ''}" data-tag="סקטור: Health Care" style="background: ${activeTag === 'סקטור: Health Care' ? 'linear-gradient(135deg, #4a148c 60%, #6a1b9a 100%)' : 'rgba(255,255,255,0.1)'}; color: ${activeTag === 'סקטור: Health Care' ? 'white' : 'var(--text-light)'}; border: ${activeTag === 'סקטור: Health Care' ? 'none' : '1px solid rgba(255,255,255,0.3)'}; padding: 10px 20px; border-radius: 20px; cursor: pointer; font-size: 1.1em; transition: all 0.3s ease; box-shadow: ${activeTag === 'סקטור: Health Care' ? '0 4px 16px rgba(74, 20, 140, 0.3)' : 'none'};">
+                            <i class="fas fa-heartbeat"></i> בריאות
+                        </button>
+                        <button class="tag-btn ${activeTag === 'סקטור: Consumer Discretionary' ? 'active' : ''}" data-tag="סקטור: Consumer Discretionary" style="background: ${activeTag === 'סקטור: Consumer Discretionary' ? 'linear-gradient(135deg, #4a148c 60%, #6a1b9a 100%)' : 'rgba(255,255,255,0.1)'}; color: ${activeTag === 'סקטור: Consumer Discretionary' ? 'white' : 'var(--text-light)'}; border: ${activeTag === 'סקטור: Consumer Discretionary' ? 'none' : '1px solid rgba(255,255,255,0.3)'}; padding: 10px 20px; border-radius: 20px; cursor: pointer; font-size: 1.1em; transition: all 0.3s ease; box-shadow: ${activeTag === 'סקטור: Consumer Discretionary' ? '0 4px 16px rgba(74, 20, 140, 0.3)' : 'none'};">
+                            <i class="fas fa-shopping-cart"></i> צריכה
+                        </button>
+                        <button class="tag-btn ${activeTag === 'סקטור: Communication Services' ? 'active' : ''}" data-tag="סקטור: Communication Services" style="background: ${activeTag === 'סקטור: Communication Services' ? 'linear-gradient(135deg, #4a148c 60%, #6a1b9a 100%)' : 'rgba(255,255,255,0.1)'}; color: ${activeTag === 'סקטור: Communication Services' ? 'white' : 'var(--text-light)'}; border: ${activeTag === 'סקטור: Communication Services' ? 'none' : '1px solid rgba(255,255,255,0.3)'}; padding: 10px 20px; border-radius: 20px; cursor: pointer; font-size: 1.1em; transition: all 0.3s ease; box-shadow: ${activeTag === 'סקטור: Communication Services' ? '0 4px 16px rgba(74, 20, 140, 0.3)' : 'none'};">
+                            <i class="fas fa-broadcast-tower"></i> תקשורת
+                        </button>
+                        <button class="tag-btn ${activeTag === 'סקטור: Energy' ? 'active' : ''}" data-tag="סקטור: Energy" style="background: ${activeTag === 'סקטור: Energy' ? 'linear-gradient(135deg, #4a148c 60%, #6a1b9a 100%)' : 'rgba(255,255,255,0.1)'}; color: ${activeTag === 'סקטור: Energy' ? 'white' : 'var(--text-light)'}; border: ${activeTag === 'סקטור: Energy' ? 'none' : '1px solid rgba(255,255,255,0.3)'}; padding: 10px 20px; border-radius: 20px; cursor: pointer; font-size: 1.1em; transition: all 0.3s ease; box-shadow: ${activeTag === 'סקטור: Energy' ? '0 4px 16px rgba(74, 20, 140, 0.3)' : 'none'};">
+                            <i class="fas fa-bolt"></i> אנרגיה
+                        </button>
+                        <button class="tag-btn ${activeTag === 'סקטור: Industrials' ? 'active' : ''}" data-tag="סקטור: Industrials" style="background: ${activeTag === 'סקטור: Industrials' ? 'linear-gradient(135deg, #4a148c 60%, #6a1b9a 100%)' : 'rgba(255,255,255,0.1)'}; color: ${activeTag === 'סקטור: Industrials' ? 'white' : 'var(--text-light)'}; border: ${activeTag === 'סקטור: Industrials' ? 'none' : '1px solid rgba(255,255,255,0.3)'}; padding: 10px 20px; border-radius: 20px; cursor: pointer; font-size: 1.1em; transition: all 0.3s ease; box-shadow: ${activeTag === 'סקטור: Industrials' ? '0 4px 16px rgba(74, 20, 140, 0.3)' : 'none'};">
+                            <i class="fas fa-industry"></i> תעשייה
+                        </button>
+                        <button class="tag-btn ${activeTag === 'סקטור: Consumer Staples' ? 'active' : ''}" data-tag="סקטור: Consumer Staples" style="background: ${activeTag === 'סקטור: Consumer Staples' ? 'linear-gradient(135deg, #4a148c 60%, #6a1b9a 100%)' : 'rgba(255,255,255,0.1)'}; color: ${activeTag === 'סקטור: Consumer Staples' ? 'white' : 'var(--text-light)'}; border: ${activeTag === 'סקטור: Consumer Staples' ? 'none' : '1px solid rgba(255,255,255,0.3)'}; padding: 10px 20px; border-radius: 20px; cursor: pointer; font-size: 1.1em; transition: all 0.3s ease; box-shadow: ${activeTag === 'סקטור: Consumer Staples' ? '0 4px 16px rgba(74, 20, 140, 0.3)' : 'none'};">
+                            <i class="fas fa-home"></i> צריכה בסיסית
+                        </button>
+                        <button class="tag-btn ${activeTag === 'סקטור: Utilities' ? 'active' : ''}" data-tag="סקטור: Utilities" style="background: ${activeTag === 'סקטור: Utilities' ? 'linear-gradient(135deg, #4a148c 60%, #6a1b9a 100%)' : 'rgba(255,255,255,0.1)'}; color: ${activeTag === 'סקטור: Utilities' ? 'white' : 'var(--text-light)'}; border: ${activeTag === 'סקטור: Utilities' ? 'none' : '1px solid rgba(255,255,255,0.3)'}; padding: 10px 20px; border-radius: 20px; cursor: pointer; font-size: 1.1em; transition: all 0.3s ease; box-shadow: ${activeTag === 'סקטור: Utilities' ? '0 4px 16px rgba(74, 20, 140, 0.3)' : 'none'};">
+                            <i class="fas fa-plug"></i> שירותים
+                        </button>
+                        <button class="tag-btn ${activeTag === 'סקטור: Materials' ? 'active' : ''}" data-tag="סקטור: Materials" style="background: ${activeTag === 'סקטור: Materials' ? 'linear-gradient(135deg, #4a148c 60%, #6a1b9a 100%)' : 'rgba(255,255,255,0.1)'}; color: ${activeTag === 'סקטור: Materials' ? 'white' : 'var(--text-light)'}; border: ${activeTag === 'סקטור: Materials' ? 'none' : '1px solid rgba(255,255,255,0.3)'}; padding: 10px 20px; border-radius: 20px; cursor: pointer; font-size: 1.1em; transition: all 0.3s ease; box-shadow: ${activeTag === 'סקטור: Materials' ? '0 4px 16px rgba(74, 20, 140, 0.3)' : 'none'};">
+                            <i class="fas fa-cube"></i> חומרים
+                        </button>
+                        <button class="tag-btn ${activeTag === 'סקטור: Real Estate' ? 'active' : ''}" data-tag="סקטור: Real Estate" style="background: ${activeTag === 'סקטור: Real Estate' ? 'linear-gradient(135deg, #4a148c 60%, #6a1b9a 100%)' : 'rgba(255,255,255,0.1)'}; color: ${activeTag === 'סקטור: Real Estate' ? 'white' : 'var(--text-light)'}; border: ${activeTag === 'סקטור: Real Estate' ? 'none' : '1px solid rgba(255,255,255,0.3)'}; padding: 10px 20px; border-radius: 20px; cursor: pointer; font-size: 1.1em; transition: all 0.3s ease; box-shadow: ${activeTag === 'סקטור: Real Estate' ? '0 4px 16px rgba(74, 20, 140, 0.3)' : 'none'};">
+                            <i class="fas fa-building"></i> נדל"ן
+                        </button>
+                    </div>
+                </div>
+            `;
+        }
+        
         // הוספת המאזין רק אחרי שהאלמנט קיים
-        function displayArticles(metadata, filterValue = "") {
+        function displayArticles(metadata, filterValue) {
             const container = document.getElementById('articles-container');
-            // מיון לפי זמן פרסום
             const sortedArticles = sortByPublicationTime([...metadata]);
             // סינון לפי חיפוש
             let filtered = sortedArticles;
@@ -1243,67 +1409,69 @@
                 filtered = sortedArticles.filter(article => article.ticker.toLowerCase().includes(val));
             }
             let html = `
-                <div style="background: rgba(233, 69, 96, 0.1); border-radius: 10px; padding: 20px; margin-bottom: 30px; text-align: center;">
-                    <h3 style="color: var(--text-light); margin-bottom: 10px;">📊 סטטיסטיקות</h3>
-                    <p style="color: var(--text-light); font-size: 1.1em;">סה\"כ כתבות: ${sortedArticles.length} | כתבה אחרונה: ${sortedArticles[0].timestamp}</p>
-                    <div class=\"scroll-hint\"><i class=\"fas fa-angle-double-left\"></i> <i class=\"fas fa-angle-double-right\"></i></div>
+                <div class="search-tags-container">
+                    <div style="background: linear-gradient(135deg, rgba(233, 69, 96, 0.15) 0%, rgba(15, 52, 96, 0.15) 100%); border-radius: 8px; padding: 12px 20px; margin-bottom: 30px; text-align: center; width: 100%; box-shadow: 0 4px 16px rgba(233, 69, 96, 0.1); backdrop-filter: blur(10px);">
+                        <h3 style="color: #fff; margin-bottom: 10px; text-shadow: 0 2px 4px rgba(0,0,0,0.3); font-weight: 600;"></h3>
+                        <p style="color: rgba(255,255,255,0.9); font-size: 1.1em; text-shadow: 0 1px 2px rgba(0,0,0,0.2);">סה\"כ כתבות: ${sortedArticles.length} | כתבה אחרונה: ${sortedArticles[0].timestamp}</p>
+                        <div class=\"scroll-hint\" style=\"color: rgba(255,255,255,0.7); margin-top: 8px;\"><i class=\"fas fa-angle-double-left\"></i> <i class=\"fas fa-angle-double-right\"></i></div>
                 </div>
-                <div style=\"max-width: 420px; margin: 0 auto 24px auto;\">
-                    <form class=\"search-bar\" onsubmit=\"return false;\" id=\"searchForm\">
-                        <i class=\"fas fa-search\"></i>
-                        <input type=\"text\" id=\"searchInput\" placeholder=\"חפש טיקר (למשל: AAPL, TSLA, META)\" autocomplete=\"off\" enterkeyhint=\"search\">
-                        <button type=\"button\" id=\"clearButton\" class=\"clear-button\" style=\"display: none;\">
-                            <i class=\"fas fa-times\"></i>
-                        </button>
-                        <button type=\"submit\" id=\"searchButton\" class=\"search-button\">
-                            <i class=\"fas fa-search\"></i>
-                        </button>
+                    <div style="width: 100%; max-width: 480px; margin: 0 auto 24px auto;">
+                        <form class="search-bar" onsubmit="return false;" id="searchForm">
+                            <i class="fas fa-search"></i>
+                            <input type="text" id="searchInput" placeholder="חפש טיקר (למשל: AAPL, TSLA, META)" autocomplete="off" enterkeyhint="search" value="${filterValue || ''}">
+                            <button type="button" id="clearButton" class="clear-button" style="display: ${filterValue && filterValue.length > 0 ? 'block' : 'none'};">
+                                <i class="fas fa-times"></i>
+                            </button>
+                            <button type="submit" id="searchButton" class="search-button">
+                                <i class="fas fa-search"></i>
+                            </button>
                     </form>
                 </div>
-                
-                <!-- אזור התגים -->
-                <div class=\"tags-section\" style=\"margin: 0 auto 24px auto; max-width: 800px; text-align: center;\">
-                    <div class=\"tags-container\" style=\"display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-bottom: 16px;\">
-                        <button class=\"tag-btn active\" data-tag=\"all\" style=\"background: var(--highlight-color); color: white; border: none; padding: 8px 16px; border-radius: 20px; cursor: pointer; font-size: 0.9em; transition: all 0.3s ease;\">
-                            <i class=\"fas fa-globe\"></i> הכל
-                        </button>
-                        <button class=\"tag-btn\" data-tag=\"סקטור: Information Technology\" style=\"background: rgba(255,255,255,0.1); color: var(--text-light); border: 1px solid rgba(255,255,255,0.3); padding: 8px 16px; border-radius: 20px; cursor: pointer; font-size: 0.9em; transition: all 0.3s ease;\">
-                            <i class=\"fas fa-microchip\"></i> טכנולוגיה
-                        </button>
-                        <button class=\"tag-btn\" data-tag=\"סקטור: Financials\" style=\"background: rgba(255,255,255,0.1); color: var(--text-light); border: 1px solid rgba(255,255,255,0.3); padding: 8px 16px; border-radius: 20px; cursor: pointer; font-size: 0.9em; transition: all 0.3s ease;\">
-                            <i class=\"fas fa-chart-line\"></i> פיננסים
-                        </button>
-                        <button class=\"tag-btn\" data-tag=\"סקטור: Health Care\" style=\"background: rgba(255,255,255,0.1); color: var(--text-light); border: 1px solid rgba(255,255,255,0.3); padding: 8px 16px; border-radius: 20px; cursor: pointer; font-size: 0.9em; transition: all 0.3s ease;\">
-                            <i class=\"fas fa-heartbeat\"></i> בריאות
-                        </button>
-                        <button class=\"tag-btn\" data-tag=\"סקטור: Consumer Discretionary\" style=\"background: rgba(255,255,255,0.1); color: var(--text-light); border: 1px solid rgba(255,255,255,0.3); padding: 8px 16px; border-radius: 20px; cursor: pointer; font-size: 0.9em; transition: all 0.3s ease;\">
-                            <i class=\"fas fa-shopping-cart\"></i> צריכה
-                        </button>
-                        <button class=\"tag-btn\" data-tag=\"סקטור: Communication Services\" style=\"background: rgba(255,255,255,0.1); color: var(--text-light); border: 1px solid rgba(255,255,255,0.3); padding: 8px 16px; border-radius: 20px; cursor: pointer; font-size: 0.9em; transition: all 0.3s ease;\">
-                            <i class=\"fas fa-broadcast-tower\"></i> תקשורת
-                        </button>
-                        <button class=\"tag-btn\" data-tag=\"סקטור: Energy\" style=\"background: rgba(255,255,255,0.1); color: var(--text-light); border: 1px solid rgba(255,255,255,0.3); padding: 8px 16px; border-radius: 20px; cursor: pointer; font-size: 0.9em; transition: all 0.3s ease;\">
-                            <i class=\"fas fa-bolt\"></i> אנרגיה
-                        </button>
-                        <button class=\"tag-btn\" data-tag=\"סקטור: Industrials\" style=\"background: rgba(255,255,255,0.1); color: var(--text-light); border: 1px solid rgba(255,255,255,0.3); padding: 8px 16px; border-radius: 20px; cursor: pointer; font-size: 0.9em; transition: all 0.3s ease;\">
-                            <i class=\"fas fa-industry\"></i> תעשייה
-                        </button>
-                        <button class=\"tag-btn\" data-tag=\"סקטור: Consumer Staples\" style=\"background: rgba(255,255,255,0.1); color: var(--text-light); border: 1px solid rgba(255,255,255,0.3); padding: 8px 16px; border-radius: 20px; cursor: pointer; font-size: 0.9em; transition: all 0.3s ease;\">
-                            <i class=\"fas fa-home\"></i> צריכה בסיסית
-                        </button>
-                        <button class=\"tag-btn\" data-tag=\"סקטור: Utilities\" style=\"background: rgba(255,255,255,0.1); color: var(--text-light); border: 1px solid rgba(255,255,255,0.3); padding: 8px 16px; border-radius: 20px; cursor: pointer; font-size: 0.9em; transition: all 0.3s ease;\">
-                            <i class=\"fas fa-plug\"></i> שירותים
-                        </button>
-                        <button class=\"tag-btn\" data-tag=\"סקטור: Materials\" style=\"background: rgba(255,255,255,0.1); color: var(--text-light); border: 1px solid rgba(255,255,255,0.3); padding: 8px 16px; border-radius: 20px; cursor: pointer; font-size: 0.9em; transition: all 0.3s ease;\">
-                            <i class=\"fas fa-cube\"></i> חומרים
-                        </button>
-                        <button class=\"tag-btn\" data-tag=\"סקטור: Real Estate\" style=\"background: rgba(255,255,255,0.1); color: var(--text-light); border: 1px solid rgba(255,255,255,0.3); padding: 8px 16px; border-radius: 20px; cursor: pointer; font-size: 0.9em; transition: all 0.3s ease;\">
-                            <i class=\"fas fa-building\"></i> נדל\"ן
-                        </button>
+                    <!-- אזור התגים -->
+                    <div class="tags-section" style="margin: 0 auto 0 auto; width: 100%; text-align: center;">
+                        <div class="tags-container" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-bottom: 0; width: 100%;">
+                            <button class="tag-btn active" data-tag="all" style="background: linear-gradient(135deg, #4a148c 60%, #6a1b9a 100%); color: white; border: none; padding: 10px 20px; border-radius: 20px; cursor: pointer; font-size: 1.1em; transition: all 0.3s ease; box-shadow: 0 4px 16px rgba(74, 20, 140, 0.3);">
+                                <i class="fas fa-globe"></i> הכל
+                            </button>
+                            <button class="tag-btn" data-tag="סקטור: Information Technology" style="background: rgba(255,255,255,0.1); color: var(--text-light); border: 1px solid rgba(255,255,255,0.3); padding: 10px 20px; border-radius: 20px; cursor: pointer; font-size: 1.1em; transition: all 0.3s ease;">
+                                <i class="fas fa-microchip"></i> טכנולוגיה
+                            </button>
+                            <button class="tag-btn" data-tag="סקטור: Financials" style="background: rgba(255,255,255,0.1); color: var(--text-light); border: 1px solid rgba(255,255,255,0.3); padding: 10px 20px; border-radius: 20px; cursor: pointer; font-size: 1.1em; transition: all 0.3s ease;">
+                                <i class="fas fa-chart-line"></i> פיננסים
+                            </button>
+                            <button class="tag-btn" data-tag="סקטור: Health Care" style="background: rgba(255,255,255,0.1); color: var(--text-light); border: 1px solid rgba(255,255,255,0.3); padding: 10px 20px; border-radius: 20px; cursor: pointer; font-size: 1.1em; transition: all 0.3s ease;">
+                                <i class="fas fa-heartbeat"></i> בריאות
+                            </button>
+                            <button class="tag-btn" data-tag="סקטור: Consumer Discretionary" style="background: rgba(255,255,255,0.1); color: var(--text-light); border: 1px solid rgba(255,255,255,0.3); padding: 10px 20px; border-radius: 20px; cursor: pointer; font-size: 1.1em; transition: all 0.3s ease;">
+                                <i class="fas fa-shopping-cart"></i> צריכה
+                            </button>
+                            <button class="tag-btn" data-tag="סקטור: Communication Services" style="background: rgba(255,255,255,0.1); color: var(--text-light); border: 1px solid rgba(255,255,255,0.3); padding: 10px 20px; border-radius: 20px; cursor: pointer; font-size: 1.1em; transition: all 0.3s ease;">
+                                <i class="fas fa-broadcast-tower"></i> תקשורת
+                            </button>
+                            <button class="tag-btn" data-tag="סקטור: Energy" style="background: rgba(255,255,255,0.1); color: var(--text-light); border: 1px solid rgba(255,255,255,0.3); padding: 10px 20px; border-radius: 20px; cursor: pointer; font-size: 1.1em; transition: all 0.3s ease;">
+                                <i class="fas fa-bolt"></i> אנרגיה
+                            </button>
+                            <button class="tag-btn" data-tag="סקטור: Industrials" style="background: rgba(255,255,255,0.1); color: var(--text-light); border: 1px solid rgba(255,255,255,0.3); padding: 10px 20px; border-radius: 20px; cursor: pointer; font-size: 1.1em; transition: all 0.3s ease;">
+                                <i class="fas fa-industry"></i> תעשייה
+                            </button>
+                            <button class="tag-btn" data-tag="סקטור: Consumer Staples" style="background: rgba(255,255,255,0.1); color: var(--text-light); border: 1px solid rgba(255,255,255,0.3); padding: 10px 20px; border-radius: 20px; cursor: pointer; font-size: 1.1em; transition: all 0.3s ease;">
+                                <i class="fas fa-home"></i> צריכה בסיסית
+                            </button>
+                            <button class="tag-btn" data-tag="סקטור: Utilities" style="background: rgba(255,255,255,0.1); color: var(--text-light); border: 1px solid rgba(255,255,255,0.3); padding: 10px 20px; border-radius: 20px; cursor: pointer; font-size: 1.1em; transition: all 0.3s ease;">
+                                <i class="fas fa-plug"></i> שירותים
+                            </button>
+                            <button class="tag-btn" data-tag="סקטור: Materials" style="background: rgba(255,255,255,0.1); color: var(--text-light); border: 1px solid rgba(255,255,255,0.3); padding: 10px 20px; border-radius: 20px; cursor: pointer; font-size: 1.1em; transition: all 0.3s ease;">
+                                <i class="fas fa-cube"></i> חומרים
+                            </button>
+                            <button class="tag-btn" data-tag="סקטור: Real Estate" style="background: rgba(255,255,255,0.1); color: var(--text-light); border: 1px solid rgba(255,255,255,0.3); padding: 10px 20px; border-radius: 20px; cursor: pointer; font-size: 1.1em; transition: all 0.3s ease;">
+                                <i class="fas fa-building"></i> נדל"ן
+                            </button>
+                        </div>
                     </div>
                 </div>
-                <div class=\"articles-grid\">
+                <div class="articles-grid">
             `;
+            
             if (filtered.length === 0) {
                 html += `<div style='color:#e94560;text-align:center;width:100%;font-size:1.1em;padding:40px;'>לא נמצאו כתבות לטיקר שחיפשת</div>`;
             } else {
@@ -1315,95 +1483,6 @@
             html += '</div>';
             container.innerHTML = html;
             
-            // הוספת המאזין לשורת החיפוש עם debounce
-            const searchInput = document.getElementById('searchInput');
-            const searchForm = document.getElementById('searchForm');
-            const searchButton = document.getElementById('searchButton');
-            const clearButton = document.getElementById('clearButton');
-            
-            if (searchInput) {
-                // הסרת מאזינים קודמים
-                searchInput.removeEventListener('input', searchInput.searchHandler);
-                searchInput.removeEventListener('keydown', searchInput.keydownHandler);
-                
-                // פונקציה לביצוע החיפוש
-                function performSearch() {
-                    const searchValue = searchInput.value.trim();
-                    if (searchValue) {
-                        loadArticlesWithFilter(searchValue);
-                    } else {
-                        // אם אין ערך חיפוש, הצג את כל הכתבות
-                        loadArticlesWithFilter('');
-                    }
-                }
-                
-                // פונקציה להצגה/הסתרה של כפתור הניקוי
-                function toggleClearButton() {
-                    if (searchInput.value.trim()) {
-                        clearButton.style.display = 'flex';
-                    } else {
-                        clearButton.style.display = 'none';
-                    }
-                }
-                
-                // מאזין לשינויים בשורת החיפוש
-                searchInput.addEventListener('input', toggleClearButton);
-                
-                // מניעת שליחת הטופס על ידי Enter
-                searchInput.addEventListener('keydown', function(e) {
-                    if (e.key === 'Enter') {
-                        e.preventDefault();
-                        performSearch();
-                        return false;
-                    }
-                });
-                
-                // תמיכה בכפתור "Done" בסמארטפון
-                searchInput.addEventListener('search', function(e) {
-                    e.preventDefault();
-                    performSearch();
-                    return false;
-                });
-            }
-            
-            // הגנה נוספת על הטופס
-            if (searchForm) {
-                searchForm.addEventListener('submit', function(e) {
-                    e.preventDefault();
-                    const searchValue = searchInput.value.trim();
-                    if (searchValue) {
-                        loadArticlesWithFilter(searchValue);
-                    } else {
-                        loadArticlesWithFilter('');
-                    }
-                    return false;
-                });
-            }
-            
-            // מאזין לכפתור החיפוש
-            if (searchButton) {
-                searchButton.addEventListener('click', function(e) {
-                    e.preventDefault();
-                    const searchValue = searchInput.value.trim();
-                    if (searchValue) {
-                        loadArticlesWithFilter(searchValue);
-                    } else {
-                        loadArticlesWithFilter('');
-                    }
-                });
-            }
-            
-            // מאזין לכפתור הניקוי
-            if (clearButton) {
-                clearButton.addEventListener('click', function(e) {
-                    e.preventDefault();
-                    searchInput.value = '';
-                    clearButton.style.display = 'none';
-                    loadArticlesWithFilter(''); // הצג את כל הכתבות
-                    searchInput.focus(); // החזר פוקוס לשורת החיפוש
-                });
-            }
-            
             // הוספת מאזינים לכפתורי התגים
             const tagButtons = document.querySelectorAll('.tag-btn');
             tagButtons.forEach(button => {
@@ -1414,140 +1493,28 @@
                         btn.style.background = 'rgba(255,255,255,0.1)';
                         btn.style.color = 'var(--text-light)';
                         btn.style.border = '1px solid rgba(255,255,255,0.3)';
+                        btn.style.boxShadow = 'none';
                     });
                     
                     // הפעלת הכפתור הנוכחי
                     this.classList.add('active');
-                    this.style.background = 'var(--highlight-color)';
+                    this.style.background = 'linear-gradient(135deg, #4a148c 60%, #6a1b9a 100%)';
                     this.style.color = 'white';
                     this.style.border = 'none';
+                    this.style.boxShadow = '0 4px 16px rgba(74, 20, 140, 0.3)';
                     
                     // ביצוע סינון לפי התג
                     const selectedTag = this.getAttribute('data-tag');
                     if (selectedTag === 'all') {
-                        displayArticles(metadata, '');
+                        displayArticles(metadata, filterValue);
                     } else {
-                        filterByTag(metadata, selectedTag);
+                        filterByTag(metadata, selectedTag, filterValue);
                     }
                 });
             });
-        }
-        
-        // פונקציה לסינון לפי תג
-        function filterByTag(metadata, tag) {
-            const container = document.getElementById('articles-container');
-            const sortedArticles = sortByPublicationTime([...metadata]);
             
-            // סינון לפי תג
-            const filtered = sortedArticles.filter(article => {
-                if (article.tags && Array.isArray(article.tags)) {
-                    return article.tags.some(t => t === tag);
-                }
-                return false;
-            });
-            
-            // הצגת התוצאות
-            let html = `
-                <div style="background: rgba(233, 69, 96, 0.1); border-radius: 10px; padding: 20px; margin-bottom: 30px; text-align: center;">
-                    <h3 style="color: var(--text-light); margin-bottom: 10px;">📊 סטטיסטיקות</h3>
-                    <p style="color: var(--text-light); font-size: 1.1em;">סה\"כ כתבות: ${sortedArticles.length} | כתבות בסינון: ${filtered.length} | כתבה אחרונה: ${sortedArticles[0].timestamp}</p>
-                    <div class=\"scroll-hint\"><i class=\"fas fa-angle-double-left\"></i> <i class=\"fas fa-angle-double-right\"></i></div>
-                </div>
-                <div style=\"max-width: 420px; margin: 0 auto 24px auto;\">
-                    <form class=\"search-bar\" onsubmit=\"return false;\" id=\"searchForm\">
-                        <i class=\"fas fa-search\"></i>
-                        <input type=\"text\" id=\"searchInput\" placeholder=\"חפש טיקר (למשל: AAPL, TSLA, META)\" autocomplete=\"off\" enterkeyhint=\"search\">
-                        <button type=\"button\" id=\"clearButton\" class=\"clear-button\" style=\"display: none;\">
-                            <i class=\"fas fa-times\"></i>
-                        </button>
-                        <button type=\"submit\" id=\"searchButton\" class=\"search-button\">
-                            <i class=\"fas fa-search\"></i>
-                        </button>
-                    </form>
-                </div>
-                
-                <!-- אזור התגים -->
-                <div class=\"tags-section\" style=\"margin: 0 auto 24px auto; max-width: 800px; text-align: center;\">
-                    <div class=\"tags-container\" style=\"display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-bottom: 16px;\">
-                        <button class=\"tag-btn\" data-tag=\"all\" style=\"background: rgba(255,255,255,0.1); color: var(--text-light); border: 1px solid rgba(255,255,255,0.3); padding: 8px 16px; border-radius: 20px; cursor: pointer; font-size: 0.9em; transition: all 0.3s ease;\">
-                            <i class=\"fas fa-globe\"></i> הכל
-                        </button>
-                        <button class=\"tag-btn\" data-tag=\"סקטור: Information Technology\" style=\"background: rgba(255,255,255,0.1); color: var(--text-light); border: 1px solid rgba(255,255,255,0.3); padding: 8px 16px; border-radius: 20px; cursor: pointer; font-size: 0.9em; transition: all 0.3s ease;\">
-                            <i class=\"fas fa-microchip\"></i> טכנולוגיה
-                        </button>
-                        <button class=\"tag-btn\" data-tag=\"סקטור: Financials\" style=\"background: rgba(255,255,255,0.1); color: var(--text-light); border: 1px solid rgba(255,255,255,0.3); padding: 8px 16px; border-radius: 20px; cursor: pointer; font-size: 0.9em; transition: all 0.3s ease;\">
-                            <i class=\"fas fa-chart-line\"></i> פיננסים
-                        </button>
-                        <button class=\"tag-btn\" data-tag=\"סקטור: Health Care\" style=\"background: rgba(255,255,255,0.1); color: var(--text-light); border: 1px solid rgba(255,255,255,0.3); padding: 8px 16px; border-radius: 20px; cursor: pointer; font-size: 0.9em; transition: all 0.3s ease;\">
-                            <i class=\"fas fa-heartbeat\"></i> בריאות
-                        </button>
-                        <button class=\"tag-btn\" data-tag=\"סקטור: Consumer Discretionary\" style=\"background: rgba(255,255,255,0.1); color: var(--text-light); border: 1px solid rgba(255,255,255,0.3); padding: 8px 16px; border-radius: 20px; cursor: pointer; font-size: 0.9em; transition: all 0.3s ease;\">
-                            <i class=\"fas fa-shopping-cart\"></i> צריכה
-                        </button>
-                        <button class=\"tag-btn\" data-tag=\"סקטור: Communication Services\" style=\"background: rgba(255,255,255,0.1); color: var(--text-light); border: 1px solid rgba(255,255,255,0.3); padding: 8px 16px; border-radius: 20px; cursor: pointer; font-size: 0.9em; transition: all 0.3s ease;\">
-                            <i class=\"fas fa-broadcast-tower\"></i> תקשורת
-                        </button>
-                        <button class=\"tag-btn\" data-tag=\"סקטור: Energy\" style=\"background: rgba(255,255,255,0.1); color: var(--text-light); border: 1px solid rgba(255,255,255,0.3); padding: 8px 16px; border-radius: 20px; cursor: pointer; font-size: 0.9em; transition: all 0.3s ease;\">
-                            <i class=\"fas fa-bolt\"></i> אנרגיה
-                        </button>
-                        <button class=\"tag-btn\" data-tag=\"סקטור: Industrials\" style=\"background: rgba(255,255,255,0.1); color: var(--text-light); border: 1px solid rgba(255,255,255,0.3); padding: 8px 16px; border-radius: 20px; cursor: pointer; font-size: 0.9em; transition: all 0.3s ease;\">
-                            <i class=\"fas fa-industry\"></i> תעשייה
-                        </button>
-                        <button class=\"tag-btn\" data-tag=\"סקטור: Consumer Staples\" style=\"background: rgba(255,255,255,0.1); color: var(--text-light); border: 1px solid rgba(255,255,255,0.3); padding: 8px 16px; border-radius: 20px; cursor: pointer; font-size: 0.9em; transition: all 0.3s ease;\">
-                            <i class=\"fas fa-home\"></i> צריכה בסיסית
-                        </button>
-                        <button class=\"tag-btn\" data-tag=\"סקטור: Utilities\" style=\"background: rgba(255,255,255,0.1); color: var(--text-light); border: 1px solid rgba(255,255,255,0.3); padding: 8px 16px; border-radius: 20px; cursor: pointer; font-size: 0.9em; transition: all 0.3s ease;\">
-                            <i class=\"fas fa-plug\"></i> שירותים
-                        </button>
-                        <button class=\"tag-btn\" data-tag=\"סקטור: Materials\" style=\"background: rgba(255,255,255,0.1); color: var(--text-light); border: 1px solid rgba(255,255,255,0.3); padding: 8px 16px; border-radius: 20px; cursor: pointer; font-size: 0.9em; transition: all 0.3s ease;\">
-                            <i class=\"fas fa-cube\"></i> חומרים
-                        </button>
-                        <button class=\"tag-btn\" data-tag=\"סקטור: Real Estate\" style=\"background: rgba(255,255,255,0.1); color: var(--text-light); border: 1px solid rgba(255,255,255,0.3); padding: 8px 16px; border-radius: 20px; cursor: pointer; font-size: 0.9em; transition: all 0.3s ease;\">
-                            <i class=\"fas fa-building\"></i> נדל\"ן
-                        </button>
-                    </div>
-                </div>
-                <div class=\"articles-grid\">
-            `;
-            
-            if (filtered.length === 0) {
-                html += `<div style='color:#e94560;text-align:center;width:100%;font-size:1.1em;padding:40px;'>לא נמצאו כתבות עם התג "${tag}"</div>`;
-            } else {
-                filtered.forEach(article => {
-                    html += `
-                        <div class=\"article-card\">\n                            <div class=\"article-ticker\">${article.ticker}</div>\n                            <h3 class=\"article-title\">${article.title}</h3>\n                            <p class=\"article-summary\">${cleanSummary(article.summary)}</p>\n                            <div class=\"article-meta\">\n                                <span>📅 ${article.timestamp}</span>\n                                <a href=\"articles/${article.filename}\" class=\"article-link\">קרא כתבה</a>\n                            </div>\n                        </div>\n                    `;
-                });
-            }
-            html += '</div>';
-            container.innerHTML = html;
-            
-            // הוספת מאזינים לכפתורי התגים
-            const tagButtons = document.querySelectorAll('.tag-btn');
-            tagButtons.forEach(button => {
-                button.addEventListener('click', function() {
-                    // הסרת הפעלה מכל הכפתורים
-                    tagButtons.forEach(btn => {
-                        btn.classList.remove('active');
-                        btn.style.background = 'rgba(255,255,255,0.1)';
-                        btn.style.color = 'var(--text-light)';
-                        btn.style.border = '1px solid rgba(255,255,255,0.3)';
-                    });
-                    
-                    // הפעלת הכפתור הנוכחי
-                    this.classList.add('active');
-                    this.style.background = 'var(--highlight-color)';
-                    this.style.color = 'white';
-                    this.style.border = 'none';
-                    
-                    // ביצוע סינון לפי התג
-                    const selectedTag = this.getAttribute('data-tag');
-                    if (selectedTag === 'all') {
-                        displayArticles(metadata, '');
-                    } else {
-                        filterByTag(metadata, selectedTag);
-                    }
-                });
-            });
+            // הוספת מאזינים לשורת החיפוש
+            setupSearchListeners(metadata, 'all', filterValue);
         }
         
         function showNoArticles() {
@@ -1587,11 +1554,9 @@
             
             const subtitles = [
                 "מערכת מחקר מתקדמת בזמן אמת",
-                "אלגוריתם עצמאי לאיסוף, ניתוח ופרסום יומי של תנועות שוק",
-                "זיהוי אוטומטי של תנועות שוק בלתי מוסברות",
-                "בינה מלאכותית שחושפת את הסיבה לעליות וירידות",
-                "ניתוח ממוקד של כל תנועה משמעותית בשוק",
-                "חיבורים נסתרים בין חדשות, דוחות, וסנטימנט",
+               "סריקה וניטור חדשות באמצעות אלגוריתם מתקדם",
+               "עיבוד באמצעות LLM 8B",
+               "אלגוריתם פרסום יומי מתוזמן"
             ];
             
             let currentIndex = 0;
@@ -1636,6 +1601,211 @@
                 });
             }
         });
+        
+        // פונקציה לסינון לפי תג
+        function filterByTag(metadata, tag, filterValue) {
+            const sortedArticles = sortByPublicationTime([...metadata]);
+            
+            // סינון לפי תג
+            const filtered = sortedArticles.filter(article => {
+                if (article.tags && Array.isArray(article.tags)) {
+                    return article.tags.some(t => t === tag);
+                }
+                return false;
+            });
+            
+            // הצגת התוצאות באמצעות הפונקציה הקיימת
+            updateArticlesDisplay(filtered, sortedArticles, tag, filterValue);
+        }
+        
+        // פונקציה עזר לעדכון תצוגת הכתבות
+        function updateArticlesDisplay(filtered, allArticles, currentTag, filterValue) {
+            const container = document.getElementById('articles-container');
+            
+            // יצירת ה-HTML מחדש עם התוצאות המסוננות
+            let html = `
+                <div class="search-tags-container">
+                    <div style="background: linear-gradient(135deg, rgba(233, 69, 96, 0.15) 0%, rgba(15, 52, 96, 0.15) 100%); border-radius: 8px; padding: 12px 20px; margin-bottom: 30px; text-align: center; width: 100%; box-shadow: 0 4px 16px rgba(233, 69, 96, 0.1); backdrop-filter: blur(10px);">
+                        <h3 style="color: #fff; margin-bottom: 10px; text-shadow: 0 2px 4px rgba(0,0,0,0.3); font-weight: 600;"></h3>
+                        <p style="color: rgba(255,255,255,0.9); font-size: 1.1em; text-shadow: 0 1px 2px rgba(0,0,0,0.2);">סה\"כ כתבות: ${allArticles.length} | כתבות בסינון: ${filtered.length} | כתבה אחרונה: ${allArticles[0].timestamp}</p>
+                        <div class=\"scroll-hint\" style=\"color: rgba(255,255,255,0.7); margin-top: 8px;\"><i class=\"fas fa-angle-double-left\"></i> <i class=\"fas fa-angle-double-right\"></i></div>
+                    </div>
+                    <div style="width: 100%; max-width: 480px; margin: 0 auto 24px auto;">
+                        <form class="search-bar" onsubmit="return false;" id="searchForm">
+                            <i class="fas fa-search"></i>
+                            <input type="text" id="searchInput" placeholder="חפש טיקר (למשל: AAPL, TSLA, META)" autocomplete="off" enterkeyhint="search" value="${filterValue || ''}">
+                            <button type="button" id="clearButton" class="clear-button" style="display: ${filterValue && filterValue.length > 0 ? 'block' : 'none'};">
+                                <i class="fas fa-times"></i>
+                            </button>
+                            <button type="submit" id="searchButton" class="search-button">
+                                <i class="fas fa-search"></i>
+                            </button>
+                        </form>
+                    </div>
+                    <!-- אזור התגים -->
+                    <div class="tags-section" style="margin: 0 auto 0 auto; width: 100%; text-align: center;">
+                        <div class="tags-container" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-bottom: 0; width: 100%;">
+                            <button class="tag-btn" data-tag="all" style="background: rgba(255,255,255,0.1); color: var(--text-light); border: 1px solid rgba(255,255,255,0.3); padding: 10px 20px; border-radius: 20px; cursor: pointer; font-size: 1.1em; transition: all 0.3s ease;">
+                                <i class="fas fa-globe"></i> הכל
+                            </button>
+                            <button class="tag-btn ${currentTag === 'סקטור: Information Technology' ? 'active' : ''}" data-tag="סקטור: Information Technology" style="background: ${currentTag === 'סקטור: Information Technology' ? 'linear-gradient(135deg, #4a148c 60%, #6a1b9a 100%)' : 'rgba(255,255,255,0.1)'}; color: ${currentTag === 'סקטור: Information Technology' ? 'white' : 'var(--text-light)'}; border: ${currentTag === 'סקטור: Information Technology' ? 'none' : '1px solid rgba(255,255,255,0.3)'}; padding: 10px 20px; border-radius: 20px; cursor: pointer; font-size: 1.1em; transition: all 0.3s ease; box-shadow: ${currentTag === 'סקטור: Information Technology' ? '0 4px 16px rgba(74, 20, 140, 0.3)' : 'none'};">
+                                <i class="fas fa-microchip"></i> טכנולוגיה
+                            </button>
+                            <button class="tag-btn ${currentTag === 'סקטור: Financials' ? 'active' : ''}" data-tag="סקטור: Financials" style="background: ${currentTag === 'סקטור: Financials' ? 'linear-gradient(135deg, #4a148c 60%, #6a1b9a 100%)' : 'rgba(255,255,255,0.1)'}; color: ${currentTag === 'סקטור: Financials' ? 'white' : 'var(--text-light)'}; border: ${currentTag === 'סקטור: Financials' ? 'none' : '1px solid rgba(255,255,255,0.3)'}; padding: 10px 20px; border-radius: 20px; cursor: pointer; font-size: 1.1em; transition: all 0.3s ease; box-shadow: ${currentTag === 'סקטור: Financials' ? '0 4px 16px rgba(74, 20, 140, 0.3)' : 'none'};">
+                                <i class="fas fa-chart-line"></i> פיננסים
+                            </button>
+                            <button class="tag-btn ${currentTag === 'סקטור: Health Care' ? 'active' : ''}" data-tag="סקטור: Health Care" style="background: ${currentTag === 'סקטור: Health Care' ? 'linear-gradient(135deg, #4a148c 60%, #6a1b9a 100%)' : 'rgba(255,255,255,0.1)'}; color: ${currentTag === 'סקטור: Health Care' ? 'white' : 'var(--text-light)'}; border: ${currentTag === 'סקטור: Health Care' ? 'none' : '1px solid rgba(255,255,255,0.3)'}; padding: 10px 20px; border-radius: 20px; cursor: pointer; font-size: 1.1em; transition: all 0.3s ease; box-shadow: ${currentTag === 'סקטור: Health Care' ? '0 4px 16px rgba(74, 20, 140, 0.3)' : 'none'};">
+                                <i class="fas fa-heartbeat"></i> בריאות
+                            </button>
+                            <button class="tag-btn ${currentTag === 'סקטור: Consumer Discretionary' ? 'active' : ''}" data-tag="סקטור: Consumer Discretionary" style="background: ${currentTag === 'סקטור: Consumer Discretionary' ? 'linear-gradient(135deg, #4a148c 60%, #6a1b9a 100%)' : 'rgba(255,255,255,0.1)'}; color: ${currentTag === 'סקטור: Consumer Discretionary' ? 'white' : 'var(--text-light)'}; border: ${currentTag === 'סקטור: Consumer Discretionary' ? 'none' : '1px solid rgba(255,255,255,0.3)'}; padding: 10px 20px; border-radius: 20px; cursor: pointer; font-size: 1.1em; transition: all 0.3s ease; box-shadow: ${currentTag === 'סקטור: Consumer Discretionary' ? '0 4px 16px rgba(74, 20, 140, 0.3)' : 'none'};">
+                                <i class="fas fa-shopping-cart"></i> צריכה
+                            </button>
+                            <button class="tag-btn ${currentTag === 'סקטור: Communication Services' ? 'active' : ''}" data-tag="סקטור: Communication Services" style="background: ${currentTag === 'סקטור: Communication Services' ? 'linear-gradient(135deg, #4a148c 60%, #6a1b9a 100%)' : 'rgba(255,255,255,0.1)'}; color: ${currentTag === 'סקטור: Communication Services' ? 'white' : 'var(--text-light)'}; border: ${currentTag === 'סקטור: Communication Services' ? 'none' : '1px solid rgba(255,255,255,0.3)'}; padding: 10px 20px; border-radius: 20px; cursor: pointer; font-size: 1.1em; transition: all 0.3s ease; box-shadow: ${currentTag === 'סקטור: Communication Services' ? '0 4px 16px rgba(74, 20, 140, 0.3)' : 'none'};">
+                                <i class="fas fa-broadcast-tower"></i> תקשורת
+                            </button>
+                            <button class="tag-btn ${currentTag === 'סקטור: Energy' ? 'active' : ''}" data-tag="סקטור: Energy" style="background: ${currentTag === 'סקטור: Energy' ? 'linear-gradient(135deg, #4a148c 60%, #6a1b9a 100%)' : 'rgba(255,255,255,0.1)'}; color: ${currentTag === 'סקטור: Energy' ? 'white' : 'var(--text-light)'}; border: ${currentTag === 'סקטור: Energy' ? 'none' : '1px solid rgba(255,255,255,0.3)'}; padding: 10px 20px; border-radius: 20px; cursor: pointer; font-size: 1.1em; transition: all 0.3s ease; box-shadow: ${currentTag === 'סקטור: Energy' ? '0 4px 16px rgba(74, 20, 140, 0.3)' : 'none'};">
+                                <i class="fas fa-bolt"></i> אנרגיה
+                            </button>
+                            <button class="tag-btn ${currentTag === 'סקטור: Industrials' ? 'active' : ''}" data-tag="סקטור: Industrials" style="background: ${currentTag === 'סקטור: Industrials' ? 'linear-gradient(135deg, #4a148c 60%, #6a1b9a 100%)' : 'rgba(255,255,255,0.1)'}; color: ${currentTag === 'סקטור: Industrials' ? 'white' : 'var(--text-light)'}; border: ${currentTag === 'סקטור: Industrials' ? 'none' : '1px solid rgba(255,255,255,0.3)'}; padding: 10px 20px; border-radius: 20px; cursor: pointer; font-size: 1.1em; transition: all 0.3s ease; box-shadow: ${currentTag === 'סקטור: Industrials' ? '0 4px 16px rgba(74, 20, 140, 0.3)' : 'none'};">
+                                <i class="fas fa-industry"></i> תעשייה
+                            </button>
+                            <button class="tag-btn ${currentTag === 'סקטור: Consumer Staples' ? 'active' : ''}" data-tag="סקטור: Consumer Staples" style="background: ${currentTag === 'סקטור: Consumer Staples' ? 'linear-gradient(135deg, #4a148c 60%, #6a1b9a 100%)' : 'rgba(255,255,255,0.1)'}; color: ${currentTag === 'סקטור: Consumer Staples' ? 'white' : 'var(--text-light)'}; border: ${currentTag === 'סקטור: Consumer Staples' ? 'none' : '1px solid rgba(255,255,255,0.3)'}; padding: 10px 20px; border-radius: 20px; cursor: pointer; font-size: 1.1em; transition: all 0.3s ease; box-shadow: ${currentTag === 'סקטור: Consumer Staples' ? '0 4px 16px rgba(74, 20, 140, 0.3)' : 'none'};">
+                                <i class="fas fa-home"></i> צריכה בסיסית
+                            </button>
+                            <button class="tag-btn ${currentTag === 'סקטור: Utilities' ? 'active' : ''}" data-tag="סקטור: Utilities" style="background: ${currentTag === 'סקטור: Utilities' ? 'linear-gradient(135deg, #4a148c 60%, #6a1b9a 100%)' : 'rgba(255,255,255,0.1)'}; color: ${currentTag === 'סקטור: Utilities' ? 'white' : 'var(--text-light)'}; border: ${currentTag === 'סקטור: Utilities' ? 'none' : '1px solid rgba(255,255,255,0.3)'}; padding: 10px 20px; border-radius: 20px; cursor: pointer; font-size: 1.1em; transition: all 0.3s ease; box-shadow: ${currentTag === 'סקטור: Utilities' ? '0 4px 16px rgba(74, 20, 140, 0.3)' : 'none'};">
+                                <i class="fas fa-plug"></i> שירותים
+                            </button>
+                            <button class="tag-btn ${currentTag === 'סקטור: Materials' ? 'active' : ''}" data-tag="סקטור: Materials" style="background: ${currentTag === 'סקטור: Materials' ? 'linear-gradient(135deg, #4a148c 60%, #6a1b9a 100%)' : 'rgba(255,255,255,0.1)'}; color: ${currentTag === 'סקטור: Materials' ? 'white' : 'var(--text-light)'}; border: ${currentTag === 'סקטור: Materials' ? 'none' : '1px solid rgba(255,255,255,0.3)'}; padding: 10px 20px; border-radius: 20px; cursor: pointer; font-size: 1.1em; transition: all 0.3s ease; box-shadow: ${currentTag === 'סקטור: Materials' ? '0 4px 16px rgba(74, 20, 140, 0.3)' : 'none'};">
+                                <i class="fas fa-cube"></i> חומרים
+                            </button>
+                            <button class="tag-btn ${currentTag === 'סקטור: Real Estate' ? 'active' : ''}" data-tag="סקטור: Real Estate" style="background: ${currentTag === 'סקטור: Real Estate' ? 'linear-gradient(135deg, #4a148c 60%, #6a1b9a 100%)' : 'rgba(255,255,255,0.1)'}; color: ${currentTag === 'סקטור: Real Estate' ? 'white' : 'var(--text-light)'}; border: ${currentTag === 'סקטור: Real Estate' ? 'none' : '1px solid rgba(255,255,255,0.3)'}; padding: 10px 20px; border-radius: 20px; cursor: pointer; font-size: 1.1em; transition: all 0.3s ease; box-shadow: ${currentTag === 'סקטור: Real Estate' ? '0 4px 16px rgba(74, 20, 140, 0.3)' : 'none'};">
+                                <i class="fas fa-building"></i> נדל"ן
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <div class="articles-grid">
+            `;
+            
+            if (filtered.length === 0) {
+                html += `<div style='color:#e94560;text-align:center;width:100%;font-size:1.1em;padding:40px;'>לא נמצאו כתבות עם התג "${currentTag}"</div>`;
+            } else {
+                filtered.forEach(article => {
+                    html += `
+                        <div class=\"article-card\">\n                            <div class=\"article-ticker\">${article.ticker}</div>\n                            <h3 class=\"article-title\">${article.title}</h3>\n                            <p class=\"article-summary\">${cleanSummary(article.summary)}</p>\n                            <div class=\"article-meta\">\n                                <span>📅 ${article.timestamp}</span>\n                                <a href=\"articles/${article.filename}\" class=\"article-link\">קרא כתבה</a>\n                            </div>\n                        </div>\n                    `;
+                });
+            }
+            html += '</div>';
+            container.innerHTML = html;
+            
+            // הוספת מאזינים לכפתורי התגים
+            const tagButtons = document.querySelectorAll('.tag-btn');
+            tagButtons.forEach(button => {
+                button.addEventListener('click', function() {
+                    // הסרת הפעלה מכל הכפתורים
+                    tagButtons.forEach(btn => {
+                        btn.classList.remove('active');
+                        btn.style.background = 'rgba(255,255,255,0.1)';
+                        btn.style.color = 'var(--text-light)';
+                        btn.style.border = '1px solid rgba(255,255,255,0.3)';
+                        btn.style.boxShadow = 'none';
+                    });
+                    
+                    // הפעלת הכפתור הנוכחי
+                    this.classList.add('active');
+                    this.style.background = 'linear-gradient(135deg, #4a148c 60%, #6a1b9a 100%)';
+                    this.style.color = 'white';
+                    this.style.border = 'none';
+                    this.style.boxShadow = '0 4px 16px rgba(74, 20, 140, 0.3)';
+                    
+                    // ביצוע סינון לפי התג
+                    const selectedTag = this.getAttribute('data-tag');
+                    if (selectedTag === 'all') {
+                        displayArticles(allArticles, filterValue);
+                    } else {
+                        filterByTag(allArticles, selectedTag, filterValue);
+                    }
+                });
+            });
+            
+            // הוספת מאזינים לשורת החיפוש
+            setupSearchListeners(allArticles, currentTag, filterValue);
+        }
+        
+        function setupSearchListeners(articles, tag, filterValue) {
+            const searchInput = document.getElementById('searchInput');
+            const searchButton = document.getElementById('searchButton');
+            const clearButton = document.getElementById('clearButton');
+            
+            if (searchInput) {
+                // הצגת/הסתרת כפתור הניקוי בזמן הקלדה (ללא חיפוש)
+                searchInput.addEventListener('input', function() {
+                    const value = this.value.trim();
+                    
+                    if (value.length > 0) {
+                        clearButton.style.display = 'block';
+                    } else {
+                        clearButton.style.display = 'none';
+                    }
+                });
+                
+                // פונקציה לביצוע החיפוש
+                function performSearch() {
+                    const value = searchInput.value.trim();
+                    
+                    if (tag && tag !== 'all') {
+                        const currentFiltered = articles.filter(article => {
+                            if (article.tags && Array.isArray(article.tags)) {
+                                return article.tags.some(t => t === tag);
+                            }
+                            return false;
+                        });
+                        
+                        const searchFiltered = currentFiltered.filter(article => 
+                            article.ticker.toLowerCase().includes(value.toLowerCase())
+                        );
+                        
+                        updateArticlesDisplay(searchFiltered, articles, tag, value);
+                    } else {
+                        displayArticles(articles, value);
+                    }
+                }
+                
+                // חיפוש בלחיצה על כפתור החיפוש
+                searchButton.addEventListener('click', performSearch);
+                
+                // חיפוש בלחיצה על Enter
+                searchInput.addEventListener('keypress', function(e) {
+                    if (e.key === 'Enter') {
+                        e.preventDefault();
+                        performSearch();
+                    }
+                });
+                
+                // חיפוש בלחיצה על "Done" במובייל
+                searchInput.addEventListener('search', function() {
+                    performSearch();
+                });
+                
+                // ניקוי החיפוש
+                clearButton.addEventListener('click', function() {
+                    searchInput.value = '';
+                    clearButton.style.display = 'none';
+                    
+                    if (tag && tag !== 'all') {
+                        const currentFiltered = articles.filter(article => {
+                            if (article.tags && Array.isArray(article.tags)) {
+                                return article.tags.some(t => t === tag);
+                            }
+                            return false;
+                        });
+                        updateArticlesDisplay(currentFiltered, articles, tag, '');
+                    } else {
+                        displayArticles(articles, '');
+                    }
+                });
+            }
+        }
     </script>
 </body>
 </html> 

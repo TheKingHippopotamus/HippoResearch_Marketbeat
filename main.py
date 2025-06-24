@@ -560,10 +560,56 @@ def run_js_cleaner_on_file(ticker):
         logger.error(f"❌ Error running JavaScript cleaner for {ticker}: {e}")
         return False
 
+def check_and_clear_unavailable_tickers():
+    """בדוק אם זה יום חדש ונקה את רשימת הטיקרים הלא זמינים"""
+    today = datetime.now().strftime('%Y%m%d')
+    last_clear_file = 'processed_tickers/last_clear_date.txt'
+    
+    try:
+        # בדוק מתי הייתה הניקוי האחרון
+        if os.path.exists(last_clear_file):
+            with open(last_clear_file, 'r') as f:
+                last_clear_date = f.read().strip()
+            
+            # אם זה אותו יום, אל תעשה כלום
+            if last_clear_date == today:
+                return
+        
+        # זה יום חדש - נקה את הרשימה
+        unavailable_file = 'processed_tickers/unavailable_tickers.json'
+        if os.path.exists(unavailable_file):
+            # גבה את הקובץ הנוכחי
+            backup_path = f'processed_tickers/unavailable_tickers_backup_{today}.json'
+            with open(unavailable_file, 'r', encoding='utf-8') as f:
+                current_data = json.load(f)
+            
+            if current_data:  # רק אם יש נתונים לגבות
+                with open(backup_path, 'w', encoding='utf-8') as f:
+                    json.dump(current_data, f, ensure_ascii=False, indent=2)
+                logger.info(f"📋 גיבוי נשמר: {backup_path}")
+                logger.info(f"📊 מספר טיקרים בגיבוי: {len(current_data)}")
+        
+        # צור קובץ ריק חדש
+        with open(unavailable_file, 'w', encoding='utf-8') as f:
+            json.dump([], f, ensure_ascii=False, indent=2)
+        
+        # שמור את התאריך הנוכחי
+        with open(last_clear_file, 'w') as f:
+            f.write(today)
+        
+        logger.info("🧹 רשימת הטיקרים הלא זמינים נוקתה אוטומטית ליום החדש")
+        logger.info("🔄 כעת ניתן לסרוק מחדש את כל הטיקרים")
+        
+    except Exception as e:
+        logger.error(f"❌ שגיאה בניקוי אוטומטי: {e}")
+
 def process_all_tickers():
     """Process all tickers from CSV file in random order, skipping already processed and unavailable ones"""
     logger.info("🚀 Starting ticker processing pipeline...")
     logger.info("="*60)
+    
+    # בדוק ונקה רשימת טיקרים לא זמינים אם זה יום חדש
+    check_and_clear_unavailable_tickers()
     
     ticker_metadata = load_ticker_metadata()
     tickers = set(ticker_metadata.keys())
