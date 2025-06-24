@@ -964,16 +964,19 @@
                 padding: 0 4px;
             }
             .tag-btn {
-                font-size: 0.6em;
-                padding: 3px 6px;
-                border-radius: 12px;
+                font-size: 0.93em;
+                font-weight: 700;
+                font-family: 'Heebo', 'Segoe UI', sans-serif;
+                padding: 6px 8px;
+                border-radius: 18px;
                 min-width: fit-content;
                 white-space: nowrap;
                 flex-shrink: 0;
+                letter-spacing: 0.01em;
             }
             .tag-btn i {
-                font-size: 0.55em;
-                margin-right: 2px;
+                font-size: 0.85em;
+                margin-right: 3px;
             }
         }
         
@@ -988,13 +991,16 @@
                 font-size: 0.8em;
             }
             .tag-btn {
-                font-size: 0.55em;
-                padding: 2px 4px;
-                border-radius: 10px;
+                font-size: 0.93em;
+                font-weight: 700;
+                font-family: 'Heebo', 'Segoe UI', sans-serif;
+                padding: 6px 8px;
+                border-radius: 18px;
+                letter-spacing: 0.01em;
             }
             .tag-btn i {
-                font-size: 0.5em;
-                margin-right: 1px;
+                font-size: 0.85em;
+                margin-right: 3px;
             }
         }
         
@@ -1681,7 +1687,7 @@
                 });
             }
         });
-        
+
         // פונקציה לסינון לפי תג
         function filterByTag(metadata, tag, filterValue) {
             const sortedArticles = sortByPublicationTime([...metadata]);
@@ -1802,7 +1808,7 @@
                     const selectedTag = this.getAttribute('data-tag');
                     if (selectedTag === 'all') {
                         displayArticles(allArticles, filterValue);
-                    } else {
+            } else {
                         filterByTag(allArticles, selectedTag, filterValue);
                     }
                 });
