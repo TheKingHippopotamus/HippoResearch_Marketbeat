@@ -1716,6 +1716,28 @@
                     if (grid) grid.scrollLeft = grid.scrollWidth;
                 }, 100);
             }
+            // ודא שהכפתור "סיקורים אחרונים" תמיד קיים אחרי כל רינדור
+            const latestBtnHtml = `<button id="latest-articles-btn" class="tag-btn" style="background: ${onlyLatestDay ? 'linear-gradient(135deg, #e94560 60%, #ff6b6b 100%)' : 'rgba(255,255,255,0.1)'}; color: ${onlyLatestDay ? 'white' : 'var(--text-light)'}; border: ${onlyLatestDay ? 'none' : '1px solid rgba(255,255,255,0.3)'}; padding: 10px 20px; border-radius: 20px; cursor: pointer; font-size: 1.1em; margin: 8px 0 0 0; transition: all 0.3s ease; box-shadow: ${onlyLatestDay ? '0 4px 16px rgba(233, 69, 96, 0.3)' : 'none'};"><i class=\"fas fa-clock\"></i> סיקורים אחרונים</button>`;
+            if (window.innerWidth <= 768) {
+                const mobilePlaceholder = document.getElementById('latest-articles-mobile-placeholder');
+                if (mobilePlaceholder) mobilePlaceholder.innerHTML = latestBtnHtml;
+            } else {
+                // בדסקטופ - בתוך שורת החיפוש
+                const searchBarRow = container.querySelector('.search-bar').parentElement;
+                if (searchBarRow) {
+                    // הסר כפתור קודם אם קיים
+                    const oldBtn = searchBarRow.querySelector('#latest-articles-btn');
+                    if (oldBtn) oldBtn.remove();
+                    searchBarRow.insertAdjacentHTML('beforeend', latestBtnHtml);
+                }
+            }
+            // מאזין לכפתור "סיקורים אחרונים"
+            const latestBtn = document.getElementById('latest-articles-btn');
+            if (latestBtn) {
+                latestBtn.addEventListener('click', function() {
+                    displayArticles(window.allArticlesMetadata, filterValue, !onlyLatestDay);
+                });
+            }
         }
         
         function showNoArticles() {
@@ -1937,6 +1959,28 @@
                     const grid = document.querySelector('.articles-grid');
                     if (grid) grid.scrollLeft = grid.scrollWidth;
                 }, 100);
+            }
+            // ודא שהכפתור "סיקורים אחרונים" תמיד קיים אחרי כל רינדור
+            const latestBtnHtml = `<button id="latest-articles-btn" class="tag-btn" style="background: ${onlyLatestDay ? 'linear-gradient(135deg, #e94560 60%, #ff6b6b 100%)' : 'rgba(255,255,255,0.1)'}; color: ${onlyLatestDay ? 'white' : 'var(--text-light)'}; border: ${onlyLatestDay ? 'none' : '1px solid rgba(255,255,255,0.3)'}; padding: 10px 20px; border-radius: 20px; cursor: pointer; font-size: 1.1em; margin: 8px 0 0 0; transition: all 0.3s ease; box-shadow: ${onlyLatestDay ? '0 4px 16px rgba(233, 69, 96, 0.3)' : 'none'};"><i class=\"fas fa-clock\"></i> סיקורים אחרונים</button>`;
+            if (window.innerWidth <= 768) {
+                const mobilePlaceholder = document.getElementById('latest-articles-mobile-placeholder');
+                if (mobilePlaceholder) mobilePlaceholder.innerHTML = latestBtnHtml;
+            } else {
+                // בדסקטופ - בתוך שורת החיפוש
+                const searchBarRow = container.querySelector('.search-bar').parentElement;
+                if (searchBarRow) {
+                    // הסר כפתור קודם אם קיים
+                    const oldBtn = searchBarRow.querySelector('#latest-articles-btn');
+                    if (oldBtn) oldBtn.remove();
+                    searchBarRow.insertAdjacentHTML('beforeend', latestBtnHtml);
+                }
+            }
+            // מאזין לכפתור "סיקורים אחרונים"
+            const latestBtn = document.getElementById('latest-articles-btn');
+            if (latestBtn) {
+                latestBtn.addEventListener('click', function() {
+                    displayArticles(window.allArticlesMetadata, filterValue, !onlyLatestDay);
+                });
             }
         }
         
