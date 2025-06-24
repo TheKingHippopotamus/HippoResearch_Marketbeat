@@ -963,7 +963,7 @@
                 padding: 0 4px;
             }
             .tag-btn {
-                font-size: 0.5em !important;
+                font-size: 0.6em !important;
                 font-weight: 600;
                 font-family: 'Heebo', 'Segoe UI', sans-serif;
                 padding: 3px 5px;
@@ -974,7 +974,7 @@
                 letter-spacing: 0.01em;
             }
             .tag-btn i {
-                font-size: 0.45em;
+                font-size: 0.55em;
                 margin-right: 2px;
             }
         }
@@ -990,7 +990,7 @@
                 font-size: 0.8em;
             }
             .tag-btn {
-                font-size: 0.45em !important;
+                font-size: 0.55em !important;
                 font-weight: 600;
                 font-family: 'Heebo', 'Segoe UI', sans-serif;
                 padding: 2px 4px;
@@ -998,7 +998,7 @@
                 letter-spacing: 0.01em;
             }
             .tag-btn i {
-                font-size: 0.4em;
+                font-size: 0.5em;
                 margin-right: 1px;
             }
         }
@@ -1600,6 +1600,19 @@
             
             // הוספת מאזינים לשורת החיפוש
             setupSearchListeners(metadata, 'all', filterValue);
+            
+            // Scroll למובייל בלבד
+            if (window.innerWidth <= 768) {
+                const articlesGrid = document.querySelector('.articles-grid');
+                if (articlesGrid) {
+                    setTimeout(() => {
+                        articlesGrid.scrollIntoView({ 
+                            behavior: 'smooth', 
+                            block: 'start' 
+                        });
+                    }, 100);
+                }
+            }
         }
         
         function showNoArticles() {
@@ -1701,6 +1714,19 @@
             
             // הצגת התוצאות באמצעות הפונקציה הקיימת
             updateArticlesDisplay(filtered, sortedArticles, tag, filterValue);
+            
+            // Scroll למובייל בלבד
+            if (window.innerWidth <= 768) {
+                const articlesGrid = document.querySelector('.articles-grid');
+                if (articlesGrid) {
+                    setTimeout(() => {
+                        articlesGrid.scrollIntoView({ 
+                            behavior: 'smooth', 
+                            block: 'start' 
+                        });
+                    }, 100);
+                }
+            }
         }
         
         // פונקציה עזר לעדכון תצוגת הכתבות

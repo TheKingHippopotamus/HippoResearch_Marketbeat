@@ -3151,5 +3151,17 @@
       "תעשייה: Broadline Retail",
       "טיקר: AMZN"
     ]
+  },
+  {
+    "ticker": "AFL",
+    "title": "AFL: Aflac | Financials | Life & Health Insurance",
+    "filename": "AFL_20250624.html",
+    "timestamp": "24/06/2025 05:12",
+    "summary": "פריצת סייבר באפלק: מניה נופלת, תקווה לאבטחה משופרת\nלחץ על תעשיית הביטוח לאחר התקפות מחשב מרובות\nPARA# חברת הביטוח הענקית, Aflac Incorporated (NYSE:AFL), נמצאת תחת זכוכית מגדלת לאחר סדרה של אירועי סייב...",
+    "tags": [],
+    "Security": "Aflac",
+    "GICS Sector": "Financials",
+    "GICS Sub-Industry": "Life & Health Insurance",
+    "Headquarters Location": "Columbus, Georgia"
   }
 ]
