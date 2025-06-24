@@ -1720,6 +1720,13 @@
                     }, 1000);
                 }
             }
+            // ודא שבמובייל, אחרי כל רינדור, הגריד גולל לימין (הכי חדש)
+            if (window.innerWidth <= 768) {
+                setTimeout(() => {
+                    const grid = document.querySelector('.articles-grid');
+                    if (grid) grid.scrollLeft = grid.scrollWidth;
+                }, 100);
+            }
         }
         
         function showNoArticles() {
@@ -1935,6 +1942,13 @@
                 });
             });
             setupSearchListeners(window.allArticlesMetadata, currentTag, filterValue, onlyLatestDay);
+            // ודא שבמובייל, אחרי כל רינדור, הגריד גולל לימין (הכי חדש)
+            if (window.innerWidth <= 768) {
+                setTimeout(() => {
+                    const grid = document.querySelector('.articles-grid');
+                    if (grid) grid.scrollLeft = grid.scrollWidth;
+                }, 100);
+            }
         }
         
         function setupSearchListeners(articles, tag, filterValue, onlyLatestDay) {
