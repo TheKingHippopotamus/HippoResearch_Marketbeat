@@ -1,0 +1,765 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="he">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
+   Mastercard (MA) - מחקר כלכלי מתקדם | Hippopotamus Research
+  </title>
+  <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
+  <style>
+   :root {
+            --primary-color: #1a1a2e;
+            --secondary-color: #16213e;
+            --accent-color: #0f3460;
+            --highlight-color: #e94560;
+            --text-light: #ffffff;
+            --text-dark: #1a1a2e;
+            --gradient-primary: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+            --gradient-accent: linear-gradient(135deg, #e94560 0%, #ff6b6b 100%);
+            --shadow-primary: 0 20px 40px rgba(26, 26, 46, 0.15);
+            --shadow-accent: 0 10px 30px rgba(233, 69, 96, 0.3);
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Heebo', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: var(--gradient-primary);
+            min-height: 100vh;
+            padding: 20px;
+            direction: rtl;
+            color: var(--text-light);
+            line-height: 1.6;
+            position: relative;
+            overflow-x: hidden;
+            font-size: 0.97em;
+        }
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background: radial-gradient(circle at 20% 80%, rgba(233, 69, 96, 0.1) 0%, transparent 50%),
+                        radial-gradient(circle at 80% 20%, rgba(15, 52, 96, 0.1) 0%, transparent 50%),
+                        radial-gradient(circle at 40% 40%, rgba(22, 33, 62, 0.1) 0%, transparent 50%);
+            pointer-events: none;
+            z-index: -1;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 20px;
+            box-shadow: var(--shadow-primary);
+            overflow: hidden;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+        .header {
+            background: var(--gradient-primary);
+            color: var(--text-light);
+            padding: 0;
+            position: relative;
+            overflow: hidden;
+        }
+        .header::before {
+            content: '';
+            position: absolute;
+            top: -50%; left: -50%; width: 200%; height: 200%;
+            background: radial-gradient(circle at 30% 30%, rgba(233, 69, 96, 0.2) 0%, transparent 50%),
+                        radial-gradient(circle at 70% 70%, rgba(15, 52, 96, 0.2) 0%, transparent 50%);
+            animation: float 6s ease-in-out infinite;
+        }
+        @keyframes float {
+            0%, 100% { transform: translateY(0px) rotate(0deg); }
+            50% { transform: translateY(-20px) rotate(180deg); }
+        }
+        .header-content {
+            position: relative; z-index: 2; padding: 40px 30px;
+            display: flex; align-items: center; justify-content: space-between;
+        }
+        .logo-section {
+            display: flex; align-items: center; gap: 20px;
+            flex-shrink: 0;
+            max-width: none;
+        }
+        .logo-container {
+            position: relative; width: 120px; height: 120px;
+            background: var(--gradient-accent); border-radius: 50%;
+            display: flex; align-items: center; justify-content: center;
+            box-shadow: var(--shadow-accent); animation: pulse 2s ease-in-out infinite; overflow: hidden;
+            aspect-ratio: 1/1;
+            flex-shrink: 0; flex-grow: 0;
+        }
+        @keyframes pulse { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.05); } }
+        .logo-container::before {
+            content: '';
+            position: absolute; top: -5px; left: -5px; right: -5px; bottom: -5px;
+            background: var(--gradient-accent); border-radius: 50%; z-index: -1; opacity: 0.3;
+            animation: pulse 2s ease-in-out infinite reverse;
+        }
+        .logo-image {
+            width: 100px; height: 100px; object-fit: cover; border-radius: 50%; z-index: 2;
+            aspect-ratio: 1/1;
+        }
+        .logo-image img {
+            width: 100%; height: 100%; object-fit: cover; border-radius: 50%;
+            aspect-ratio: 1/1;
+        }
+        .brand-info {
+            text-align: right;
+            min-width: 0;
+            max-width: 260px;
+            width: 100%;
+            overflow: visible;
+            text-overflow: unset;
+            white-space: normal;
+            word-break: break-word;
+        }
+        .brand-name {
+            font-size: 1.7em;
+            font-weight: 800;
+            background: linear-gradient(45deg, #ffffff 0%, #e94560 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            text-fill-color: transparent;
+            letter-spacing: 0.04em;
+            text-shadow: 0 2px 8px rgba(233,69,96,0.08);
+            margin-bottom: 8px;
+            line-height: 1.18;
+        }
+        .brand-subtitle {
+            font-size: 1.08em;
+            background: linear-gradient(45deg, #ffffff 0%, #e94560 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            text-fill-color: transparent;
+            opacity: 0.82;
+            font-weight: 500;
+            font-style: italic;
+            letter-spacing: 0.03em;
+            margin-top: 0;
+            margin-bottom: 0;
+            line-height: 1.1;
+        }
+        .social-section { display: flex; align-items: center; gap: 15px; }
+        .follow-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            background: linear-gradient(90deg, #3b2667 0%, #4e54c8 100%);
+            color: #fff;
+            border-radius: 30px;
+            text-decoration: none;
+            font-weight: 700;
+            font-size: 1em;
+            box-shadow: 0 4px 16px rgba(78,84,200,0.13);
+            transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+            border: none;
+            outline: none;
+            cursor: pointer;
+            position: relative;
+            overflow: hidden;
+            min-width: 120px;
+            min-height: 44px;
+            justify-content: center;
+            padding: 10px 22px;
+        }
+        .follow-btn:hover {
+            background: linear-gradient(90deg, #4e54c8 0%, #283e51 100%);
+            transform: translateY(-2px) scale(1.04);
+            box-shadow: 0 8px 24px rgba(78,84,200,0.18);
+        }
+        .follow-btn .x-icon {
+            width: 22px;
+            height: 22px;
+            background: #fff;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: background 0.3s;
+            min-width: 22px;
+            min-height: 22px;
+            box-shadow: 0 2px 8px rgba(123,47,242,0.10);
+        }
+        .follow-btn:hover .x-icon {
+            background: #1da1f2;
+        }
+        .follow-btn .x-icon img {
+            width: 16px;
+            height: 16px;
+        }
+        .ticker-badge { background: var(--gradient-accent); padding: 8px 16px; border-radius: 20px; font-weight: 600; font-size: 1.1em; box-shadow: var(--shadow-accent); }
+        .content { padding: 50px 40px; color: var(--text-dark); }
+        .article-content {
+            background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+            border-radius: 15px; padding: 40px; margin-bottom: 30px;
+            border-left: 5px solid var(--highlight-color);
+            box-shadow: 0 5px 20px rgba(0,0,0,0.08); position: relative;
+        }
+        .article-content::before {
+            content: '';
+            position: absolute; top: 0; left: 0; right: 0; height: 3px;
+            background: var(--gradient-accent); border-radius: 15px 15px 0 0;
+        }
+        .article-content-text {
+            font-size: 1em;
+            line-height: 1.8;
+        }
+        .article-content-text h1, .article-content h1 {
+            font-size: 1.3em;
+            font-weight: 700;
+            color: var(--accent-color);
+            margin-top: 0;
+            margin-bottom: 2px;
+            padding-bottom: 4px;
+            border-bottom: 2px solid var(--highlight-color);
+        }
+        .article-content-text h2, .article-content h2 {
+            font-size: 1.1em;
+            font-weight: 600;
+            color: var(--accent-color);
+            margin-top: 0;
+            margin-bottom: 2px;
+            padding-bottom: 3px;
+            border-bottom: 1px solid var(--highlight-color);
+        }
+        .article-content-text h3, .article-content h3 {
+            font-size: 1em;
+            font-weight: 600;
+            color: var(--accent-color);
+            margin-top: 0;
+            margin-bottom: 2px;
+        }
+        .article-content-text p, .article-content p {
+            font-size: 0.97em;
+            line-height: 1.7;
+            margin-top: 0;
+            margin-bottom: 3px;
+            text-align: justify;
+        }
+        .footer {
+            background: var(--gradient-primary);
+            padding: 30px;
+            text-align: center;
+            color: var(--text-light);
+            position: relative;
+        }
+        .footer::before {
+            content: '';
+            position: absolute; top: 0; left: 0; right: 0; height: 1px;
+            background: var(--gradient-accent);
+        }
+        .timestamp { color: var(--highlight-color); font-weight: 500; margin-bottom: 10px; font-size: 1.1em; }
+        .source { font-style: italic; opacity: 0.8; font-size: 0.95em; }
+        .disclaimer {
+            background: linear-gradient(135deg, #fff3cd 0%, #ffeaa7 100%);
+            border: 2px solid #fdcb6e;
+            border-radius: 12px;
+            padding: 20px;
+            margin-top: 30px;
+            font-size: 0.95em;
+            color: #856404;
+            position: relative;
+        }
+        .disclaimer::before {
+            content: '⚠️';
+            position: absolute; top: -10px; right: 20px;
+            background: #fff3cd; padding: 0 10px; font-size: 1.2em;
+        }
+        .disclaimer strong { color: #856404; }
+        .disclaimer h3 { color: var(--accent-color); margin-top: 15px; font-size: 1.2em; }
+        @media (max-width: 768px) {
+            body { padding: 10px; }
+            .header-content { flex-direction: column; gap: 10px; text-align: center; }
+            .logo-section {
+                flex-direction: column;
+                align-items: center;
+                gap: 4px;
+                max-width: 100vw;
+                width: 100%;
+            }
+            .logo-container {
+                width: 56px;
+                height: 56px;
+                aspect-ratio: 1/1;
+                border-radius: 50%;
+                overflow: hidden;
+                box-shadow: var(--shadow-accent);
+            }
+            .logo-image {
+                width: 48px;
+                height: 48px;
+                border-radius: 50%;
+                object-fit: cover;
+                aspect-ratio: 1/1;
+            }
+            .brand-info {
+                max-width: 260px;
+                width: 100%;
+                overflow: visible;
+                text-overflow: unset;
+                white-space: normal;
+                word-break: break-word;
+            }
+            .brand-name {
+                font-size: 0.98em;
+                font-weight: 700;
+                margin-bottom: 2px;
+                letter-spacing: 0.01em;
+                white-space: normal;
+            }
+            .brand-subtitle {
+                font-size: 0.78em;
+                opacity: 0.85;
+                font-weight: 500;
+            }
+            .ticker-badge {
+                font-size: 0.92em;
+                padding: 5px 10px;
+                border-radius: 16px;
+            }
+            .content { padding: 10px 2px; font-size: 1em; }
+            .article-content { padding: 8px; }
+            .social-section {
+                gap: 5px;
+                flex-wrap: wrap;
+                justify-content: center;
+            }
+            .follow-btn {
+                min-width: 90px;
+                min-height: 32px;
+                font-size: 0.93em;
+                padding: 6px 8px;
+                border-radius: 18px;
+                font-family: 'Heebo', 'Segoe UI', sans-serif;
+                font-weight: 700;
+                letter-spacing: 0.01em;
+                box-shadow: 0 2px 8px rgba(78,84,200,0.10);
+                gap: 7px;
+                background: linear-gradient(90deg, #3b2667 0%, #4e54c8 100%);
+            }
+            .follow-btn:hover {
+                background: linear-gradient(90deg, #4e54c8 0%, #283e51 100%);
+            }
+            .follow-btn .x-icon {
+                width: 13px;
+                height: 13px;
+                min-width: 13px;
+                min-height: 13px;
+            }
+            .follow-btn .x-icon img {
+                width: 9px;
+                height: 9px;
+            }
+        }
+        @media (max-width: 480px) {
+            .logo-container { width: 48px !important; height: 48px !important; }
+            .logo-image { width: 40px !important; height: 40px !important; }
+            .brand-name { font-size: 1em !important; }
+            .brand-subtitle { font-size: 0.8em !important; }
+            .ticker-badge { font-size: 0.85em !important; padding: 4px 10px !important; }
+            .content { padding: 6px 3px !important; font-size: 0.98em !important; }
+            .article-content { padding: 10px !important; }
+            .follow-btn, .x-share-btn-custom { min-width: 80px !important; min-height: 28px !important; font-size: 0.85em !important; padding: 5px 10px !important; }
+            .header-content { gap: 10px !important; }
+            .newsletter-section { max-width: 98vw !important; }
+        }
+        .newsletter-section {
+            margin: 0 auto 24px auto;
+            max-width: 400px;
+            text-align: center;
+            background: none;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px rgba(15,52,96,0.07);
+            padding: 4px 0 2px 0;
+            border: none;
+            transition: none;
+        }
+        .newsletter-section h3 {
+            color: var(--accent-color);
+            margin-bottom: 4px;
+            font-size: 0.95em;
+            font-weight: 400;
+            opacity: 0.7;
+        }
+        .newsletter-iframe {
+            width: 100%!important;
+            height: 120px;
+            border: none;
+            border-radius: 12px;
+            background: #fff;
+            box-shadow: 0 2px 8px rgba(15,52,96,0.07);
+            margin: 0 auto;
+            display: block;
+        }
+        @media (max-width: 768px) {
+            .newsletter-section {
+                padding: 2px 0 2px 0;
+                max-width: 98vw;
+            }
+            .newsletter-iframe {
+                height: 120px;
+            }
+        }
+        .x-share-btn-custom {
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            padding: 10px 22px;
+            background: linear-gradient(90deg, #14171a 0%, #1da1f2 100%);
+            color: #fff;
+            border-radius: 30px;
+            text-decoration: none;
+            font-weight: 700;
+            font-size: 1em;
+            box-shadow: 0 4px 16px rgba(29,161,242,0.10);
+            transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+            border: none;
+            outline: none;
+            cursor: pointer;
+            position: relative;
+            overflow: hidden;
+            min-width: 120px;
+            min-height: 44px;
+            justify-content: center;
+        }
+        .x-share-btn-custom:hover {
+            background: linear-gradient(90deg, #1da1f2 0%, #14171a 100%);
+            transform: translateY(-2px) scale(1.04);
+            box-shadow: 0 8px 24px rgba(29,161,242,0.18);
+        }
+        .x-share-btn-custom .x-icon {
+            width: 22px;
+            height: 22px;
+            background: #fff;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: background 0.3s;
+            min-width: 22px;
+            min-height: 22px;
+        }
+        .x-share-btn-custom:hover .x-icon {
+            background: #1da1f2;
+        }
+        .x-share-btn-custom .x-icon img {
+            width: 16px;
+            height: 16px;
+        }
+        .share-popup-message {
+            position: fixed;
+            top: 30px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: #1da1f2;
+            color: #fff;
+            padding: 18px 32px;
+            border-radius: 30px;
+            font-size: 1.2em;
+            font-weight: 700;
+            box-shadow: 0 4px 24px rgba(29,161,242,0.18);
+            z-index: 9999;
+            opacity: 0.97;
+            text-align: center;
+            letter-spacing: 0.02em;
+            animation: fadeInOut 3s;
+        }
+        @keyframes fadeInOut {
+            0% { opacity: 0; transform: translateX(-50%) scale(0.95); }
+            10% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
+            90% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
+            100% { opacity: 0; transform: translateX(-50%) scale(0.95); }
+        }
+  </style>
+  <style>
+   .x-share-btn-custom {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #14171a 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(29,161,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .x-share-btn-custom:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #14171a 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(29,161,242,0.18);
+    }
+    .x-share-btn-custom .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .x-share-btn-custom:hover .x-icon {
+      background: #1da1f2;
+    }
+    .x-share-btn-custom .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    .follow-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #7b2ff2 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(123,47,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .follow-btn:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #7b2ff2 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(123,47,242,0.18);
+    }
+    .follow-btn .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .follow-btn:hover .x-icon {
+      background: #7b2ff2;
+    }
+    .follow-btn .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    .share-popup-message {
+      position: fixed;
+      top: 30px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: #1da1f2;
+      color: #fff;
+      padding: 18px 32px;
+      border-radius: 30px;
+      font-size: 1.2em;
+      font-weight: 700;
+      box-shadow: 0 4px 24px rgba(29,161,242,0.18);
+      z-index: 9999;
+      opacity: 0.97;
+      text-align: center;
+      letter-spacing: 0.02em;
+      animation: fadeInOut 3s;
+    }
+    @keyframes fadeInOut {
+      0% { opacity: 0; transform: translateX(-50%) scale(0.95); }
+      10% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
+      90% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
+      100% { opacity: 0; transform: translateX(-50%) scale(0.95); }
+    }
+  </style>
+ </head>
+ <body>
+  <div class="container">
+   <div class="header">
+    <div class="header-content">
+     <div class="logo-section">
+      <div class="logo-container">
+       <img alt="Logo" class="logo-image" src="logo.png"/>
+      </div>
+      <div class="brand-info">
+       <div class="brand-name">
+        Hippopotamus Research
+       </div>
+       <div class="brand-subtitle">
+        מחקר כלכלי מתקדם
+       </div>
+      </div>
+     </div>
+     <div class="social-section">
+      <div class="ticker-badge">
+       MA
+      </div>
+      <a class="follow-btn" href="https://x.com/LmlyhNyr" rel="noopener" target="_blank">
+       <span class="x-icon">
+        <img alt="X" src="x.png"/>
+       </span>
+       עקבו אחרינו
+      </a>
+      <button class="x-share-btn-custom" type="button">
+       <span class="x-icon">
+        <img alt="X" src="x.png"/>
+       </span>
+       שתף ב־X
+      </button>
+     </div>
+    </div>
+   </div>
+   <div class="content">
+    <div class="article-content">
+     <div class="article-content-text">
+      <h3>
+       כותרת: Mastercard תחת זכוכית מגדלת: שותפויות, חדשנות, ומאבקים משפטיים
+      </h3>
+      <h3>
+       חקר ההשפעות האחרונות על ענקית התשלומים העולמית
+      </h3>
+      <h3>
+       #
+      </h3>
+      <p>
+       בתוך עולם הפיננסים הדינמי, Mastercard Inc. (NYSE: MA) בולטת כגורם מרכזי בעלילה מתפתחת, כאשר צעדי אסטרטגיה נועזים, יוזמות תרבותיות, והסדרים משפטיים מעצבים מחדש את נוף התשלומים הגלובלי. החברה, שממוקמת בהרסון, ניו יורק, נמצאת תחת מיקרוסקופ, עם אירועים אחרונים שמעוררים סקרנות בקרב משקיעים ותובנות לגבי עתיד עסקי התשלומים.
+      </p>
+      <h3>
+       #
+      </h3>
+      <p>
+       שותפויות פורצות דרך: Mastercard מקדמת את גבולות התרבות עם יוזמות מוזיקליות מרתקות באפריקה. המנונים חדשים, "אפרוביט" ו-"אמאפיאנו", הם עדות לקשר העמוק יותר שהחברה בונה עם היבשת. במקביל, שיתוף הפעולה עם אנזה פותח דלת לשווקים מרכזיים עבור שירותי פינטק, מה שמעמיק את מעורבות Mastercard בעולם הדיגיטלי.
+      </p>
+      <h3>
+       #
+      </h3>
+      <p>
+       חדשנות בתשלומים: dtcpay מנצלת את כוחו של Mastercard Move כדי להקל על תשלומים חוצי גבולות, במיוחד בהעברות דיגיטליות, מה שמגדיל את נוכחותה הגלובלית. צעד זה מדגיש את מחויבותה של החברה להרחבת הגישה לפתרונות תשלום חדשניים ברחבי העולם.
+      </p>
+      <h3>
+       #
+      </h3>
+      <p>
+       סידור משפטי משמעותי: ויזا ומאסטרקארד השיגו הישג משמעותי בתיק הגבלים עסקיים ארוך שנים, כאשר קיבלו אישור להסדר בסך 198 מיליון דולר. צעד זה מסיר עומס משפטי כבד ומספק בהירות לגבי התחייבויות פוטנציאליות הקשורות לכספומטים, מה שמצביע על מחויבותן של החברות לפתרון סכסוכים עתיקים.
+      </p>
+      <h3>
+       #
+      </h3>
+      <p>
+       מכירת מניות וגורמים פנימיים: שני גורמים פנימיים, ראג' סשאדרי וקרייג ווסבורג, ביצעו מכירות משמעותיות של מניות Mastercard בשבועות האחרונים. סשאדרי מכר 949 מניות במחיר ממוצע של 535.80 דולר, מה שמצביע על שינוי באסטרטגיית ההשקעה שלו. ווסבורג, מצידו, מכר 9,428 מניות, צמצם את אחזקתו ב-13.9%, מה שמעורר שאלות לגבי תנועות אפשריות של בעלי עניין פנימיים.
+      </p>
+      <h3>
+       #
+      </h3>
+      <p>
+       התמודדות עם תחרות קריפטו: ענקיות התשלומים, כולל Mastercard, מתמודדות עם סערה חדשה - באזז סביב סטייבל-קריפטו (stablecoins). איומים מצד קמעונאים ליצירת מטבעות קריפטוגרפיים משלהם מעלים חששות תחרותיים, כאשר החברה צריכה להתאים את אסטרטגיותיה בעולם הדינמי של כסף דיגיטלי.
+      </p>
+      <h3>
+       סיכום:
+      </h3>
+      <p>
+       Mastercard Inc., עם יוזמותיה התרבותיות, שותפויותיה האסטרטגיות, והסדרים משפטיים האחרונים, מציגה תמונה מורכבת של צמיחה והתמודדות עם אתגרים. בעוד שהחברה ממשיכה לחדש בתשלומים גלובליים, תנועות הגורמים הפנימיים והשינויים בסביבה הרגולטורית מדגישים את המורכבות של עסקי הפיננסים המודרניים. עם כל צעד, Mastercard יוצרת סיפור חדש בשוק התשלומים העולמי, מה שמשאיר משקיעים ותוצפת על קצה המושב.
+      </p>
+     </div>
+    </div>
+    <div class="disclaimer">
+     <strong>
+      הסתייגות משפטית:
+     </strong>
+     המידע הנ״ל מבוסס על מקורות מידע שונים ועלול להשתנות בכל עת. המידע המוזכר בכתבה זו מוגבל לצורך מחקר והנאה ואין לראות בכתוב המלצה להשקעה.
+     <br/>
+     <br/>
+     <strong>
+      הערה:
+     </strong>
+     הניתוח נוצר באמצעות מודל בינה מלאכותית ועלול לכלול שגיאות כתיב או ניסוח. אנו מתנצלים מראש על אי-הדיוקים האפשריים.
+     <br/>
+     <br/>
+     <strong>
+      מקורות המידע:
+     </strong>
+     Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl
+     <h3>
+      Hippopotamus Research
+     </h3>
+    </div>
+    <div class="newsletter-section" style="margin: 0 auto 24px auto; max-width: 400px; text-align: center;">
+     <div style="font-size: 1em; color: var(--accent-color); margin-bottom: 6px; font-weight: 500; opacity: 0.85;">
+      הצטרפו לעדכונים במייל
+     </div>
+     <iframe scrolling="no" src="https://buttondown.com/nirstam?as_embed=true" style="width:100%!important; height:120px; border:none!important; border-radius:12px; background:#fff; box-shadow:0 2px 8px rgba(15,52,96,0.07);" title="הרשמה לניוזלטר">
+     </iframe>
+    </div>
+   </div>
+   <div class="footer">
+    <div class="timestamp">
+     נוצר ב: 24/06/2025 06:03
+    </div>
+    <div class="source">
+     מקורות: Finviz, Briefing.com, Zacks, Alpha Vantage, Quandl | ניתוח באמצעות aya-expanse:8b
+    </div>
+   </div>
+  </div>
+  <script id="dynamic-text-cleaner-script">
+   document.addEventListener("DOMContentLoaded", function() {
+  // Check if the cleaner has already run to avoid multiple executions
+  if (document.body.dataset.jsCleanerApplied) {
+    return;
+  }
+  document.body.dataset.jsCleanerApplied = 'true';
+
+  const elements = document.querySelectorAll('p, h1, h2, h3, h4, li, span');
+  
+  // Regex to match marker words anywhere, with optional colon or space after
+  const regex = /(?:#+\s*)?(TITLE|SUBTITLE|PARA|כותרת ראשית|כותרת משנה|פסקה|ראשונה|שניה|שנייה|שלישית|רביעית|חמישית|שישית|אחרונה)[:：]?/gi;
+
+  elements.forEach(el => {
+    // We iterate through child nodes to only affect text nodes.
+    // This prevents breaking any HTML elements inside the tags (like <a> or <strong>).
+    Array.from(el.childNodes).forEach(node => {
+      if (node.nodeType === Node.TEXT_NODE) { // Process only text nodes
+        const originalText = node.textContent;
+        const newText = originalText.replace(regex, '').replace(/\s{2,}/g, ' ').trim();
+        if (originalText !== newText) {
+          node.textContent = newText;
+        }
+      }
+    });
+  });
+});
+  </script>
+  <script>
+   document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('.x-share-btn-custom').forEach(function(btn) {
+    btn.addEventListener('click', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      var popup = document.createElement('div');
+      popup.className = 'share-popup-message';
+      popup.textContent = 'השיתוף מחכה לך בדף השני :)';
+      document.body.appendChild(popup);
+      setTimeout(function() {
+        popup.remove();
+        window.open('https://thekinghippopotamus.github.io/HippoResearch_Marketbeat/', '_blank', 'noopener');
+        window.open('https://twitter.com/intent/tweet?text=%D7%9E%D7%97%D7%A7%D7%A8%20%D7%97%D7%93%D7%A9%20%D7%A9%D7%9C%20Hippopotamus%20Research%20%24MA%0Ahttps%3A%2F%2Fthekinghippopotamus.github.io%2FHippoResearch_Marketbeat%2Farticles%2FMA_20250624.html', '_self', 'noopener');
+      }, 3000);
+      return false;
+    });
+  });
+});
+  </script>
+ </body>
+</html>

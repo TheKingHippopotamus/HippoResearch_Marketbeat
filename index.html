@@ -1643,16 +1643,16 @@
             // הוספת מאזינים לשורת החיפוש
             setupSearchListeners(metadata, 'all', filterValue);
             
-            // Scroll למובייל בלבד
+            // Scroll למובייל בלבד - לאזור התגים והמאמרים, לאט ועדין
             if (window.innerWidth <= 768) {
-                const articlesGrid = document.querySelector('.articles-grid');
-                if (articlesGrid) {
+                const scrollTarget = document.querySelector('.search-tags-container');
+                if (scrollTarget) {
                     setTimeout(() => {
-                        articlesGrid.scrollIntoView({ 
+                        scrollTarget.scrollIntoView({ 
                             behavior: 'smooth', 
                             block: 'start' 
                         });
-                    }, 100);
+                    }, 1000);
                 }
             }
         }
@@ -1757,16 +1757,16 @@
             // הצגת התוצאות באמצעות הפונקציה הקיימת
             updateArticlesDisplay(filtered, sortedArticles, tag, filterValue);
             
-            // Scroll למובייל בלבד
+            // Scroll למובייל בלבד - לאזור התגים והמאמרים, לאט ועדין
             if (window.innerWidth <= 768) {
-                const articlesGrid = document.querySelector('.articles-grid');
-                if (articlesGrid) {
+                const scrollTarget = document.querySelector('.search-tags-container');
+                if (scrollTarget) {
                     setTimeout(() => {
-                        articlesGrid.scrollIntoView({ 
+                        scrollTarget.scrollIntoView({ 
                             behavior: 'smooth', 
                             block: 'start' 
                         });
-                    }, 100);
+                    }, 1000);
                 }
             }
         }
