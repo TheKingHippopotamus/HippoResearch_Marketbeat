@@ -796,21 +796,25 @@
         }
         
         .search-bar {
-            width: 100%;
-            max-width: 480px;
-            background: rgba(255, 255, 255, 0.95);
-            backdrop-filter: blur(10px);
-            border-radius: 18px;
-            box-shadow: 
-                0 4px 16px rgba(15, 52, 96, 0.15),
-                0 0 0 1px rgba(255, 255, 255, 0.2);
-            padding: 0 10px;
             display: flex;
             align-items: center;
-            margin-bottom: 14px;
-            border: 1px solid rgba(255, 255, 255, 0.3);
-            position: relative;
-            z-index: 2;
+            background: var(--search-bg);
+            border-radius: 16px;
+            box-shadow: 0 2px 8px rgba(26,26,46,0.07);
+            padding: 0 12px;
+            margin-bottom: 0;
+            width: 100%;
+            max-width: 340px;
+            min-width: 0;
+            transition: box-shadow 0.2s;
+        }
+        @media (min-width: 769px) {
+            .search-bar {
+                max-width: 450px;
+            }
+            .search-bar input {
+                max-width: 400px;
+            }
         }
         .search-bar input {
             font-size: 1.08em;
@@ -1345,6 +1349,23 @@
                 justify-content: center;
             }
         }
+        @media (min-width: 769px) {
+            /* יישור שורת החיפוש לימין בדסקטופ */
+            .search-bar-row {
+                display: flex;
+                flex-direction: row;
+                justify-content: flex-end;
+                align-items: center;
+                gap: 8px;
+                width: 100%;
+            }
+            .search-bar {
+                max-width: 450px;
+            }
+            .search-bar input {
+                max-width: 400px;
+            }
+        }
     </style>
 </head>
 <body>
@@ -1596,7 +1617,7 @@
                         <p style="color: rgba(255,255,255,0.9); font-size: 1.1em; text-shadow: 0 1px 2px rgba(0,0,0,0.2);">סה\"כ כתבות: ${sortedArticles.length} | כתבה אחרונה: ${sortedArticles[0] ? sortedArticles[0].timestamp : ''}</p>
                         <div class=\"scroll-hint\" style=\"color: rgba(255,255,255,0.7); margin-top: 8px;\"><i class=\"fas fa-angle-double-left\"></i> <i class=\"fas fa-angle-double-right\"></i></div>
                     </div>
-                    <div style="width: 100%; max-width: 480px; margin: 0 auto 24px auto; display: flex; flex-direction: row; gap: 8px; justify-content: center; align-items: center;">
+                    <div class="search-bar-row" style="width: 100%; max-width: 480px; margin: 0 auto 24px auto; display: flex; flex-direction: row; gap: 8px; justify-content: center; align-items: center;">
                         <form class="search-bar" onsubmit="return false;" id="searchForm" style="flex:1;">
                             <i class="fas fa-search"></i>
                             <input type="text" id="searchInput" placeholder="חפש טיקר או תאריך (למשל: AAPL, 24/06/2025)" autocomplete="off" enterkeyhint="search" value="${filterValue || ''}">
@@ -1863,7 +1884,7 @@
                         <p style="color: rgba(255,255,255,0.9); font-size: 1.1em; text-shadow: 0 1px 2px rgba(0,0,0,0.2);">סה\"כ כתבות: ${allArticles.length} | כתבות בסינון: ${filtered.length} | כתבה אחרונה: ${allArticles[0] ? allArticles[0].timestamp : ''}</p>
                         <div class=\"scroll-hint\" style=\"color: rgba(255,255,255,0.7); margin-top: 8px;\"><i class=\"fas fa-angle-double-left\"></i> <i class=\"fas fa-angle-double-right\"></i></div>
                     </div>
-                    <div style="width: 100%; max-width: 480px; margin: 0 auto 24px auto; display: flex; flex-direction: row; gap: 8px; justify-content: center; align-items: center;">
+                    <div class="search-bar-row" style="width: 100%; max-width: 480px; margin: 0 auto 24px auto; display: flex; flex-direction: row; gap: 8px; justify-content: center; align-items: center;">
                         <form class="search-bar" onsubmit="return false;" id="searchForm" style="flex:1;">
                             <i class="fas fa-search"></i>
                             <input type="text" id="searchInput" placeholder="חפש טיקר או תאריך (למשל: AAPL, 24/06/2025)" autocomplete="off" enterkeyhint="search" value="${filterValue || ''}">
