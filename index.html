@@ -939,6 +939,63 @@
                 padding: 8px 16px;
             }
         }
+        
+        /* Mobile-specific optimizations for tags and search */
+        @media (max-width: 480px) {
+            .search-bar {
+                padding: 0 6px;
+                border-radius: 16px;
+                margin-bottom: 12px;
+            }
+            .search-bar input {
+                font-size: 0.95em;
+                padding: 12px 6px 12px 0;
+            }
+            .search-bar .search-button, .search-bar .clear-button {
+                width: 32px;
+                height: 32px;
+                font-size: 0.9em;
+                margin-left: 4px;
+            }
+            .tags-container {
+                gap: 4px;
+                justify-content: flex-start;
+                padding: 0 4px;
+            }
+            .tag-btn {
+                font-size: 0.85em;
+                padding: 6px 12px;
+                border-radius: 18px;
+                min-width: fit-content;
+                white-space: nowrap;
+                flex-shrink: 0;
+            }
+            .tag-btn i {
+                font-size: 0.8em;
+                margin-right: 4px;
+            }
+        }
+        
+        @media (max-width: 360px) {
+            .search-bar input {
+                font-size: 0.9em;
+                padding: 10px 4px 10px 0;
+            }
+            .search-bar .search-button, .search-bar .clear-button {
+                width: 28px;
+                height: 28px;
+                font-size: 0.8em;
+            }
+            .tag-btn {
+                font-size: 0.8em;
+                padding: 5px 10px;
+                border-radius: 16px;
+            }
+            .tag-btn i {
+                font-size: 0.75em;
+                margin-right: 3px;
+            }
+        }
         .company-badges-bar {
             display: flex;
             flex-wrap: wrap;
