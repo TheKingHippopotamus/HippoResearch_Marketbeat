@@ -1,9 +1,11 @@
 [
   "ADSK",
+  "AIG",
   "ALGN",
   "CB",
   "CFG",
   "CHD",
+  "CHTR",
   "CLX",
   "CME",
   "DAL",
@@ -13,6 +15,9 @@
   "J",
   "MGM",
   "ODFL",
+  "SBAC",
+  "SNPS",
+  "STE",
   "STT",
   "TDG",
   "WELL"
