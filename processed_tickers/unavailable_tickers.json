@@ -2,7 +2,9 @@
   "ADSK",
   "AIG",
   "ALGN",
+  "BRK.B",
   "CB",
+  "CDNS",
   "CFG",
   "CHD",
   "CHTR",
@@ -14,12 +16,15 @@
   "FE",
   "J",
   "MGM",
+  "O",
   "ODFL",
   "PCG",
+  "QCOM",
   "SBAC",
   "SNPS",
   "STE",
   "STT",
   "TDG",
-  "WELL"
+  "WELL",
+  "WMB"
 ]
