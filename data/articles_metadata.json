@@ -3619,5 +3619,17 @@
     "GICS Sector": "Energy",
     "GICS Sub-Industry": "Integrated Oil & Gas",
     "Headquarters Location": "Irving, Texas"
+  },
+  {
+    "ticker": "AMGN",
+    "title": "AMGN: Amgen | Health Care | Biotechnology",
+    "filename": "AMGN_20250625.html",
+    "timestamp": "25/06/2025 05:13",
+    "summary": "Amgen's MariTide: Navigating the Rough Waters of Obesity Treatment\nA Drug's Journey: From Promise to Challenge\nבתוך עולם המחקר הרפואי, מסע של תרופה חדשה הוא סיפור של תקווה ואתגרים. Amgen, ענקית הביוטכ...",
+    "tags": [],
+    "Security": "Amgen",
+    "GICS Sector": "Health Care",
+    "GICS Sub-Industry": "Biotechnology",
+    "Headquarters Location": "Thousand Oaks, California"
   }
 ]
