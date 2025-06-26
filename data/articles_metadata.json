@@ -4495,5 +4495,17 @@
     "GICS Sector": "Industrials",
     "GICS Sub-Industry": "Rail Transportation",
     "Headquarters Location": "Omaha, Nebraska"
+  },
+  {
+    "ticker": "PYPL",
+    "title": "PYPL: PayPal | Financials | Transaction & Payment Processing Services",
+    "filename": "PYPL_20250626.html",
+    "timestamp": "26/06/2025 10:23",
+    "summary": "פייפאל: שותפויות אסטרטגיות ומגמות בשוק התשלומים הדיגיטליים\nעלייה במניות, דירוגים חיוביים, ועתיד מבטיח\nחברת PayPal Holdings Inc. (נאסד\"ק: PYPL) נמצאת במוקד תשומת הלב של אנליסטים ומשקיעים בעקבות סדרה של...",
+    "tags": [],
+    "Security": "PayPal",
+    "GICS Sector": "Financials",
+    "GICS Sub-Industry": "Transaction & Payment Processing Services",
+    "Headquarters Location": "San Jose, California"
   }
 ]
