@@ -1,4 +1,5 @@
 [
+  "A",
   "ACGL",
   "ADI",
   "ADP",
@@ -26,6 +27,7 @@
   "BR",
   "BRK.B",
   "BSX",
+  "BX",
   "CAH",
   "CARR",
   "CB",
@@ -67,6 +69,7 @@
   "ECL",
   "ED",
   "EIX",
+  "ENPH",
   "EQR",
   "ERIE",
   "ES",
