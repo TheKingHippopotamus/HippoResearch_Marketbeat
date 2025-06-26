@@ -93,6 +93,7 @@
   "PRU",
   "QCOM",
   "REG",
+  "RJF",
   "RSG",
   "SBAC",
   "SCHW",
@@ -115,5 +116,6 @@
   "WDC",
   "WEC",
   "WELL",
-  "WMB"
+  "WMB",
+  "XYL"
 ]
