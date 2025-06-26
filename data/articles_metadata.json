@@ -4843,5 +4843,17 @@
     "GICS Sector": "Industrials",
     "GICS Sub-Industry": "Construction Machinery & Heavy Transportation Equipment",
     "Headquarters Location": "Irving, Texas"
+  },
+  {
+    "ticker": "IT",
+    "title": "IT: Gartner | Information Technology | IT Consulting & Other Services",
+    "filename": "IT_20250626.html",
+    "timestamp": "26/06/2025 12:35",
+    "summary": "#כיצד גרטנר מנצחת במרוץ לעתיד הדיגיטלי, למרות אתגרים בינה מלאכותית\nמגמות מתפתחות, החלטות קריטיות\nבעוד שהעולם דוהר קדימה אל עתיד מונע בינה מלאכותית (AI), חברת המחקר והייעוץ גרטנר (Gartner) נמצאת בחזית,...",
+    "tags": [],
+    "Security": "Gartner",
+    "GICS Sector": "Information Technology",
+    "GICS Sub-Industry": "IT Consulting & Other Services",
+    "Headquarters Location": "Stamford, Connecticut"
   }
 ]
