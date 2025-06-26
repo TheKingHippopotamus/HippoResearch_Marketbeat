@@ -21,6 +21,7 @@
   "BAX",
   "BBY",
   "BF.B",
+  "BG",
   "BKR",
   "BLDR",
   "BMY",
@@ -84,6 +85,7 @@
   "FFIV",
   "FOXA",
   "FTNT",
+  "FTV",
   "GD",
   "GPC",
   "HBAN",
@@ -100,6 +102,7 @@
   "IFF",
   "INCY",
   "INTU",
+  "INVH",
   "ISRG",
   "J",
   "JCI",
@@ -171,6 +174,7 @@
   "STLD",
   "STT",
   "SW",
+  "SWK",
   "TDG",
   "TGT",
   "TJX",
@@ -180,6 +184,7 @@
   "TSCO",
   "TYL",
   "UAL",
+  "UHS",
   "URI",
   "USB",
   "VICI",
@@ -198,5 +203,6 @@
   "WY",
   "WYNN",
   "XEL",
-  "XYL"
+  "XYL",
+  "ZTS"
 ]

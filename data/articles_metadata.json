@@ -4879,5 +4879,17 @@
     "GICS Sector": "Consumer Discretionary",
     "GICS Sub-Industry": "Broadline Retail",
     "Headquarters Location": "Seattle, Washington"
+  },
+  {
+    "ticker": "NFLX",
+    "title": "NFLX: Netflix | Communication Services | Movies & Entertainment",
+    "filename": "NFLX_20250626.html",
+    "timestamp": "26/06/2025 12:52",
+    "summary": "נטפליקס: עליות מרשימות על רקע אסטרטגיה חזקה ונתונים טכניים\nסערה של פעילות משפיעה על מניית ענקית הסטרימינג\nבעולם התאגידי הסוער של טכנולוגיה מדיה, נטפליקס (NFLX) עוררה סערה של פעילות שהניעה את המניה שלה...",
+    "tags": [],
+    "Security": "Netflix",
+    "GICS Sector": "Communication Services",
+    "GICS Sub-Industry": "Movies & Entertainment",
+    "Headquarters Location": "Los Gatos, California"
   }
 ]
