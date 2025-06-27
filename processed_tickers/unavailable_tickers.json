@@ -3,6 +3,7 @@
   "ADM",
   "AES",
   "ALGN",
+  "ALL",
   "BG",
   "BX",
   "CB",
@@ -13,9 +14,15 @@
   "EOG",
   "FI",
   "GNRC",
+  "HWM",
+  "ICE",
   "NWS",
+  "OKE",
+  "RSG",
+  "SCHW",
   "STLD",
   "STT",
   "TSN",
+  "UPS",
   "ZTS"
 ]
