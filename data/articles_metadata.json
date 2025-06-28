@@ -5887,5 +5887,17 @@
     "GICS Sector": "Information Technology",
     "GICS Sub-Industry": "Application Software",
     "Headquarters Location": "San Jose, California"
+  },
+  {
+    "ticker": "FDS",
+    "title": "FDS: FactSet | Financials | Financial Exchanges & Data",
+    "filename": "FDS_20250628.html",
+    "timestamp": "28/06/2025 06:51",
+    "summary": "FactSet מובילה את המהפכה בנתונים פיננסיים: אנליסטים מביעים אופטימיות\nעדכוני דירוג והערכות רווח חיוביות דוחפים את מניות החברה לעלייה\nPARA# בעולם בו המידע הוא המטבע החדש, FactSet Research Systems Inc. (...",
+    "tags": [],
+    "Security": "FactSet",
+    "GICS Sector": "Financials",
+    "GICS Sub-Industry": "Financial Exchanges & Data",
+    "Headquarters Location": "Norwalk, Connecticut"
   }
 ]
