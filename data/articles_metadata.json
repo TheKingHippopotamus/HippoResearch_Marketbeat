@@ -5635,5 +5635,17 @@
     "GICS Sector": "Communication Services",
     "GICS Sub-Industry": "Movies & Entertainment",
     "Headquarters Location": "New York City, New York"
+  },
+  {
+    "ticker": "PYPL",
+    "title": "PYPL: PayPal | Financials | Transaction & Payment Processing Services",
+    "filename": "PYPL_20250628.html",
+    "timestamp": "28/06/2025 05:18",
+    "summary": "PayPal: בין לחצים תחרותיים למגמות מבטיחות\nמסע אל לב התמורות של ענקית התשלומים הדיגיטליים\nPARA# בעולם שבו תשלומים דיגיטליים הפכו לנורמה, PayPal Holdings, Inc. (NASDAQ: PYPL) מוצאת את עצמה בחזית המאבק ע...",
+    "tags": [],
+    "Security": "PayPal",
+    "GICS Sector": "Financials",
+    "GICS Sub-Industry": "Transaction & Payment Processing Services",
+    "Headquarters Location": "San Jose, California"
   }
 ]
