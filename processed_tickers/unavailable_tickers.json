@@ -43,6 +43,7 @@
   "EOG",
   "ES",
   "ESS",
+  "ETR",
   "FAST",
   "FI",
   "FIS",
@@ -74,6 +75,7 @@
   "LUV",
   "LYB",
   "MCO",
+  "MET",
   "MHK",
   "MKTX",
   "MOH",
@@ -119,5 +121,6 @@
   "WSM",
   "WY",
   "XEL",
+  "ZBH",
   "ZTS"
 ]
