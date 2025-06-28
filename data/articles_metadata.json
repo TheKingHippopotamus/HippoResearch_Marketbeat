@@ -5347,5 +5347,17 @@
     "GICS Sector": "Financials",
     "GICS Sub-Industry": "Diversified Banks",
     "Headquarters Location": "New York City, New York"
+  },
+  {
+    "ticker": "MSFT",
+    "title": "MSFT: Microsoft | Information Technology | Systems Software",
+    "filename": "MSFT_20250628.html",
+    "timestamp": "28/06/2025 03:25",
+    "summary": "Microsoft: מנהיגות בעולם הטכנולוגיה, בין חזון לסיכונים\nעליית ענקית התוכנה בענני הבינה המלאכותית\nפסקה ראשונה\nMicrosoft, ענקית הטכנולוגיה העולמית, נמצאת במרכז הבמה של מהפכת הבינה המלאכותית (AI) והענן. מ...",
+    "tags": [],
+    "Security": "Microsoft",
+    "GICS Sector": "Information Technology",
+    "GICS Sub-Industry": "Systems Software",
+    "Headquarters Location": "Redmond, Washington"
   }
 ]
