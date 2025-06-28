@@ -5599,5 +5599,17 @@
     "GICS Sector": "Health Care",
     "GICS Sub-Industry": "Pharmaceuticals",
     "Headquarters Location": "New York City, New York"
+  },
+  {
+    "ticker": "TSLA",
+    "title": "TSLA: Tesla, Inc. | Consumer Discretionary | Automobile Manufacturers",
+    "filename": "TSLA_20250628.html",
+    "timestamp": "28/06/2025 05:04",
+    "summary": "#Tesla at a Critical Crossroads: Autonomous Drive Meets Market Headwinds\nNavigating Optimism and Challenges in the Electric Vehicle Revolution\nמסע אל הלא נודע: בין אופטימיות לאתגרים בשוק הרכב החשמלי\nב...",
+    "tags": [],
+    "Security": "Tesla, Inc.",
+    "GICS Sector": "Consumer Discretionary",
+    "GICS Sub-Industry": "Automobile Manufacturers",
+    "Headquarters Location": "Austin, Texas"
   }
 ]
