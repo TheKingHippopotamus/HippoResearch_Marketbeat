@@ -5323,5 +5323,17 @@
     "GICS Sector": "Industrials",
     "GICS Sub-Industry": "Industrial Machinery & Supplies & Components",
     "Headquarters Location": "Downers Grove, Illinois"
+  },
+  {
+    "ticker": "CMCSA",
+    "title": "CMCSA: Comcast | Communication Services | Cable & Satellite",
+    "filename": "CMCSA_20250628.html",
+    "timestamp": "28/06/2025 03:18",
+    "summary": "מהפכת הנתונים ללא גבול: Comcast פורצת דרך בשירותי תקשורת\nצמיחה ללא גבולות: שירותים משופרים ושותפויות אסטרטגיות\nבעידן הדיגיטלי של ימינו, חברת Comcast Corporation (CMCSA) מתמצבת כמובילה בתחום שירותי התק...",
+    "tags": [],
+    "Security": "Comcast",
+    "GICS Sector": "Communication Services",
+    "GICS Sub-Industry": "Cable & Satellite",
+    "Headquarters Location": "Philadelphia, Pennsylvania"
   }
 ]
