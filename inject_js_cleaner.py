@@ -559,10 +559,6 @@ document.addEventListener('DOMContentLoaded', function() {{
 '''
     soup.body.append(share_script)
 
-# For testing: clean only COIN_20250622.html
-if __name__ == "__main__":
-    clean_single_article('articles/COIN_20250622.html')
-    print('Cleaned COIN_20250622.html')
 
 if __name__ == "__main__":
     main() 
