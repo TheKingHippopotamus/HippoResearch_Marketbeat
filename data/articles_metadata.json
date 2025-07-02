@@ -6679,5 +6679,17 @@
     "GICS Sector": "Information Technology",
     "GICS Sub-Industry": "Semiconductors",
     "Headquarters Location": "Tempe, Arizona"
+  },
+  {
+    "ticker": "AMZN",
+    "title": "AMZN: Amazon | Consumer Discretionary | Broadline Retail",
+    "filename": "AMZN_20250702.html",
+    "timestamp": "02/07/2025 11:59",
+    "summary": "Amazon: בין חדשנות למכשולים - מאבק על הדומיננטיות בשוק\nסערה של קטנועים חשמליים ומחשבות עמוקות\n#PARA# בעולם שבו טכנולוגיה קופצת קדימה בקצב מסחרר, Amazon, ענקית המסחר האלקטרוני, נמצאת במרכז סערה של רגשו...",
+    "tags": [],
+    "Security": "Amazon",
+    "GICS Sector": "Consumer Discretionary",
+    "GICS Sub-Industry": "Broadline Retail",
+    "Headquarters Location": "Seattle, Washington"
   }
 ]
