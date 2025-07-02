@@ -16,18 +16,62 @@ import csv
 import logging
 import sys
 import urllib.parse
+import functools
 
-# Setup logging
+# ANSI color codes for log highlighting
+class LogColors:
+    HEADER = '\033[95m'
+    OKBLUE = '\033[94m'
+    OKCYAN = '\033[96m'
+    OKGREEN = '\033[92m'
+    WARNING = '\033[93m'
+    FAIL = '\033[91m'
+    ENDC = '\033[0m'
+    BOLD = '\033[1m'
+    UNDERLINE = '\033[4m'
+    GREY = '\033[90m'
+    WHITE = '\033[97m'
+    YELLOW = '\033[33m'
+    RED = '\033[31m'
+    CYAN = '\033[36m'
+    GREEN = '\033[32m'
+    BLUE = '\033[34m'
+
+# Helper for colored log messages
+def color_log(msg, color):
+    return f"{color}{msg}{LogColors.ENDC}"
+
 def setup_logging():
-    """Setup logging configuration"""
+    """Setup logging configuration with script/function/line and color support"""
+    class ColorFormatter(logging.Formatter):
+        def format(self, record):
+            msg = super().format(record)
+            # Color by level
+            if record.levelno >= logging.ERROR:
+                return color_log(msg, LogColors.FAIL)
+            elif record.levelno == logging.WARNING:
+                return color_log(msg, LogColors.WARNING)
+            elif record.levelno == logging.INFO:
+                # Highlight stage starts/ends
+                if any(x in msg for x in ["[STAGE]", "[DONE]", "[SUCCESS]", "[HTML_GEN]", "[JS_INJECT]", "[GIT]", "[META]"]):
+                    return color_log(msg, LogColors.OKCYAN)
+                elif "[SCRAPE]" in msg or "[TEXT_PREPROCESS]" in msg:
+                    return color_log(msg, LogColors.OKBLUE)
+                elif "[LLM]" in msg:
+                    return color_log(msg, LogColors.OKGREEN)
+                else:
+                    return msg
+            return msg
     logging.basicConfig(
         level=logging.INFO,
-        format='%(asctime)s - %(levelname)s - %(message)s',
+        format='%(asctime)s - %(levelname)s - [%(filename)s:%(funcName)s:%(lineno)d] %(message)s',
         handlers=[
             logging.FileHandler('marketbit.log', encoding='utf-8'),
             logging.StreamHandler()
         ]
     )
+    for handler in logging.getLogger().handlers:
+        handler.setFormatter(ColorFormatter('%(asctime)s - %(levelname)s - [%(filename)s:%(funcName)s:%(lineno)d] %(message)s'))
     return logging.getLogger(__name__)
 
 # Initialize logger
@@ -104,6 +148,8 @@ def find_summary_block(driver, ticker):
         logger.error(f"❌ Error finding summary block: {e}")
         return None
 
+# Add the log_stage decorator to all major process functions
+@log_stage("SCRAPE")
 def scrape_text_from_website(ticker, output_dir="txt"):
     """Scrape text from website and save only clean text file with date"""
     url = f"https://www.marketbeat.com/stocks/NASDAQ/{ticker}/news/"
@@ -155,6 +201,7 @@ def extract_head_section(template_path="arcive/test_V_new_style.html"):
     match = re.search(r'(<head[\s\S]*?</head>)', html, re.IGNORECASE)
     return match.group(1) if match else ""
 
+@log_stage("LLM")
 def process_and_create_article(ticker, original_text, original_file_name=None, ticker_info=None, output_dir="txt"):
     """Process text with LLM and create article files"""
     try:
@@ -451,6 +498,7 @@ def load_tickers_from_json():
         logger.error(f"❌ Error loading tickers from JSON: {e}")
         return []
 
+@log_stage("GIT")
 def commit_and_push_changes(ticker):
     """Commit and push changes to repository after processing a ticker"""
     try:
@@ -537,6 +585,7 @@ def auto_fix_article_html(ticker):
     except Exception as e:
         print(f"❌ Auto-fix failed for {ticker}: {e}")
 
+@log_stage("JS_INJECT")
 def run_js_cleaner_on_file(ticker):
     """הפעל את הניטור האוטומטי על קובץ HTML חדש לפני commit"""
     current_date = datetime.now().strftime("%Y%m%d")
@@ -752,6 +801,25 @@ def process_single_ticker(ticker):
     except Exception as e:
         logger.error(f"❌ Error processing {ticker}: {e}")
         return False
+
+# Add a decorator to log function entry/exit for major steps
+def log_stage(stage):
+    def decorator(func):
+        @functools.wraps(func)
+        def wrapper(*args, **kwargs):
+            ticker = None
+            if 'ticker' in kwargs:
+                ticker = kwargs['ticker']
+            elif args:
+                # Try to infer ticker from first arg if it's a string
+                if isinstance(args[0], str):
+                    ticker = args[0]
+            logger.info(f"[STAGE] {stage} START {'['+ticker+']' if ticker else ''}")
+            result = func(*args, **kwargs)
+            logger.info(f"[STAGE] {stage} END {'['+ticker+']' if ticker else ''}")
+            return result
+        return wrapper
+    return decorator
 
 if __name__ == "__main__":
     # Check if a specific ticker was provided as command line argument

@@ -16,16 +16,58 @@ from watchdog.events import FileSystemEventHandler
 import logging
 import re
 from bs4.element import NavigableString
+import functools
 
-# Setup logging
+# ANSI color codes for log highlighting
+class LogColors:
+    HEADER = '\033[95m'
+    OKBLUE = '\033[94m'
+    OKCYAN = '\033[96m'
+    OKGREEN = '\033[92m'
+    WARNING = '\033[93m'
+    FAIL = '\033[91m'
+    ENDC = '\033[0m'
+    BOLD = '\033[1m'
+    UNDERLINE = '\033[4m'
+    GREY = '\033[90m'
+    WHITE = '\033[97m'
+    YELLOW = '\033[33m'
+    RED = '\033[31m'
+    CYAN = '\033[36m'
+    GREEN = '\033[32m'
+    BLUE = '\033[34m'
+
+# Helper for colored log messages
+def color_log(msg, color):
+    return f"{color}{msg}{LogColors.ENDC}"
+
+# Upgrade logging format
+class ColorFormatter(logging.Formatter):
+    def format(self, record):
+        msg = super().format(record)
+        if record.levelno >= logging.ERROR:
+            return color_log(msg, LogColors.FAIL)
+        elif record.levelno == logging.WARNING:
+            return color_log(msg, LogColors.WARNING)
+        elif record.levelno == logging.INFO:
+            if any(x in msg for x in ["[STAGE]", "[DONE]", "[SUCCESS]", "[INJECT]", "[SOCIAL]", "[STRUCTURE]"]):
+                return color_log(msg, LogColors.OKCYAN)
+            elif "[CLEANER]" in msg:
+                return color_log(msg, LogColors.OKBLUE)
+            else:
+                return msg
+        return msg
+
 logging.basicConfig(
     level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s',
+    format='%(asctime)s - %(levelname)s - [%(filename)s:%(funcName)s:%(lineno)d] %(message)s',
     handlers=[
         logging.FileHandler('js_cleaner.log', encoding='utf-8'),
         logging.StreamHandler()
     ]
 )
+for handler in logging.getLogger().handlers:
+    handler.setFormatter(ColorFormatter('%(asctime)s - %(levelname)s - [%(filename)s:%(funcName)s:%(lineno)d] %(message)s'))
 logger = logging.getLogger(__name__)
 
 # A unique ID for our script tag to prevent duplicate injections
@@ -241,7 +283,7 @@ class HTMLFileHandler(FileSystemEventHandler):
             file_path = event.src_path
             
             # Skip backup files
-            if file_path.endswith('.bak') or file_path.endswith('.backup'):
+            if file_path.endswith((".bak", ".backup")):
                 return
                 
             # Skip if already processed
@@ -258,6 +300,7 @@ class HTMLFileHandler(FileSystemEventHandler):
             except Exception as e:
                 logger.error(f"❌ Error processing new file {os.path.basename(file_path)}: {e}")
 
+@log_stage("STRUCTURE")
 def fix_html_structure(soup):
     """Fix HTML structure: h1->h2, h2->h3, paragraphs->p, remove all markers (English/Hebrew)."""
     fixed = False
@@ -303,6 +346,7 @@ def fix_html_structure(soup):
 
     return fixed
 
+@log_stage("CLEANER")
 def inject_script_into_file(file_path, backup=True):
     logger.info(f"Processing: {os.path.basename(file_path)}")
 
@@ -370,11 +414,12 @@ def inject_script_into_file(file_path, backup=True):
     logger.info(f"  -> Successfully injected script.")
     return True
 
+@log_stage("PROCESS_ALL")
 def process_all_articles(articles_dir, backup=True):
     """Processes all HTML files in the specified directory."""
     html_files = glob.glob(os.path.join(articles_dir, "*.html"))
     # Filter out backup files that we might have created
-    html_files = [f for f in html_files if not f.endswith('.bak') and not f.endswith('.backup')]
+    html_files = [f for f in html_files if not f.endswith((".bak", ".backup"))]
 
     if not html_files:
         logger.info(f"No HTML files found in '{articles_dir}'.")
@@ -400,6 +445,7 @@ def process_all_articles(articles_dir, backup=True):
     logger.info(f"Skipped (already injected): {skipped_count} files")
     logger.info(f"Failed: {failed_count} files")
 
+@log_stage("MONITOR")
 def start_monitoring(articles_dir, backup=True):
     """Start monitoring the articles directory for new HTML files"""
     logger.info(f"🔍 Starting automatic monitoring of '{articles_dir}' directory...")
@@ -559,6 +605,23 @@ document.addEventListener('DOMContentLoaded', function() {{
 '''
     soup.body.append(share_script)
 
+# Add a decorator to log function entry/exit for major steps
+def log_stage(stage):
+    def decorator(func):
+        @functools.wraps(func)
+        def wrapper(*args, **kwargs):
+            filename = None
+            if 'file_path' in kwargs:
+                filename = kwargs['file_path']
+            elif args:
+                if isinstance(args[0], str):
+                    filename = args[0]
+            logger.info(f"[STAGE] {stage} START {'['+filename+']' if filename else ''}")
+            result = func(*args, **kwargs)
+            logger.info(f"[STAGE] {stage} END {'['+filename+']' if filename else ''}")
+            return result
+        return wrapper
+    return decorator
 
 if __name__ == "__main__":
     main() 
