@@ -283,7 +283,7 @@ class HTMLFileHandler(FileSystemEventHandler):
             file_path = event.src_path
             
             # Skip backup files
-            if file_path.endswith((".bak", ".backup")):
+            if file_path.endswith(tuple([".bak", ".backup"])):
                 return
                 
             # Skip if already processed
@@ -300,51 +300,23 @@ class HTMLFileHandler(FileSystemEventHandler):
             except Exception as e:
                 logger.error(f"❌ Error processing new file {os.path.basename(file_path)}: {e}")
 
-@log_stage("STRUCTURE")
-def fix_html_structure(soup):
-    """Fix HTML structure: h1->h2, h2->h3, paragraphs->p, remove all markers (English/Hebrew)."""
-    fixed = False
-    para_markers = ['PARA#', 'פסקה:', 'פסקה']
-    title_markers = ['TITLE#', 'כותרת ראשית:', 'כותרת ראשית']
-    subtitle_markers = ['SUBTITLE#', 'כותרת משנה:', 'כותרת משנה']
-    ordinal_markers = ['ראשונה:', 'שניה:', 'שנייה:', 'שלישית:', 'רביעית:', 'חמישית:', 'שישית:', 'שישית', 'אחרונה:', 'אחרונה']
-
-    # h1 -> h2
-    h1_tags = soup.find_all('h1')
-    for h1 in h1_tags:
-        text_content = h1.get_text().strip()
-        # Remove all markers
-        for m in para_markers + title_markers + subtitle_markers + ordinal_markers:
-            text_content = text_content.replace(m, '').strip()
-        new_h2 = soup.new_tag('h2')
-        new_h2.string = text_content
-        h1.replace_with(new_h2)
-        fixed = True
-        logger.info(f"  -> Fixed: Converted h1 to h2 and cleaned markers")
-
-    # h2 -> h3
-    h2_tags = soup.find_all('h2')
-    for h2 in h2_tags:
-        text_content = h2.get_text().strip()
-        for m in para_markers + title_markers + subtitle_markers + ordinal_markers:
-            text_content = text_content.replace(m, '').strip()
-        new_h3 = soup.new_tag('h3')
-        new_h3.string = text_content
-        h2.replace_with(new_h3)
-        fixed = True
-        logger.info(f"  -> Fixed: Converted h2 to h3 and cleaned markers")
-
-    # p tags: clean markers
-    p_tags = soup.find_all('p')
-    for p in p_tags:
-        text_content = p.get_text().strip()
-        for m in para_markers + title_markers + subtitle_markers + ordinal_markers:
-            text_content = text_content.replace(m, '').strip()
-        p.string = text_content
-        fixed = True
-        logger.info(f"  -> Fixed: Cleaned markers in p tag")
-
-    return fixed
+# Add a decorator to log function entry/exit for major steps
+def log_stage(stage):
+    def decorator(func):
+        @functools.wraps(func)
+        def wrapper(*args, **kwargs):
+            filename = None
+            if 'file_path' in kwargs:
+                filename = kwargs['file_path']
+            elif args:
+                if isinstance(args[0], str):
+                    filename = args[0]
+            logger.info(f"[STAGE] {stage} START {'['+filename+']' if filename else ''}")
+            result = func(*args, **kwargs)
+            logger.info(f"[STAGE] {stage} END {'['+filename+']' if filename else ''}")
+            return result
+        return wrapper
+    return decorator
 
 @log_stage("CLEANER")
 def inject_script_into_file(file_path, backup=True):
@@ -414,12 +386,58 @@ def inject_script_into_file(file_path, backup=True):
     logger.info(f"  -> Successfully injected script.")
     return True
 
+@log_stage("STRUCTURE")
+def fix_html_structure(soup):
+    """Fix HTML structure: h1->h2, h2->h3, paragraphs->p, remove all markers (English/Hebrew)."""
+    fixed = False
+    para_markers = ['PARA#', 'פסקה:', 'פסקה']
+    title_markers = ['TITLE#', 'כותרת ראשית:', 'כותרת ראשית']
+    subtitle_markers = ['SUBTITLE#', 'כותרת משנה:', 'כותרת משנה']
+    ordinal_markers = ['ראשונה:', 'שניה:', 'שנייה:', 'שלישית:', 'רביעית:', 'חמישית:', 'שישית:', 'שישית', 'אחרונה:', 'אחרונה']
+
+    # h1 -> h2
+    h1_tags = soup.find_all('h1')
+    for h1 in h1_tags:
+        text_content = h1.get_text().strip()
+        # Remove all markers
+        for m in para_markers + title_markers + subtitle_markers + ordinal_markers:
+            text_content = text_content.replace(m, '').strip()
+        new_h2 = soup.new_tag('h2')
+        new_h2.string = text_content
+        h1.replace_with(new_h2)
+        fixed = True
+        logger.info(f"  -> Fixed: Converted h1 to h2 and cleaned markers")
+
+    # h2 -> h3
+    h2_tags = soup.find_all('h2')
+    for h2 in h2_tags:
+        text_content = h2.get_text().strip()
+        for m in para_markers + title_markers + subtitle_markers + ordinal_markers:
+            text_content = text_content.replace(m, '').strip()
+        new_h3 = soup.new_tag('h3')
+        new_h3.string = text_content
+        h2.replace_with(new_h3)
+        fixed = True
+        logger.info(f"  -> Fixed: Converted h2 to h3 and cleaned markers")
+
+    # p tags: clean markers
+    p_tags = soup.find_all('p')
+    for p in p_tags:
+        text_content = p.get_text().strip()
+        for m in para_markers + title_markers + subtitle_markers + ordinal_markers:
+            text_content = text_content.replace(m, '').strip()
+        p.string = text_content
+        fixed = True
+        logger.info(f"  -> Fixed: Cleaned markers in p tag")
+
+    return fixed
+
 @log_stage("PROCESS_ALL")
 def process_all_articles(articles_dir, backup=True):
     """Processes all HTML files in the specified directory."""
     html_files = glob.glob(os.path.join(articles_dir, "*.html"))
     # Filter out backup files that we might have created
-    html_files = [f for f in html_files if not f.endswith((".bak", ".backup"))]
+    html_files = [f for f in html_files if not f.endswith(tuple([".bak", ".backup"]))]
 
     if not html_files:
         logger.info(f"No HTML files found in '{articles_dir}'.")
@@ -604,24 +622,6 @@ document.addEventListener('DOMContentLoaded', function() {{
 }});
 '''
     soup.body.append(share_script)
-
-# Add a decorator to log function entry/exit for major steps
-def log_stage(stage):
-    def decorator(func):
-        @functools.wraps(func)
-        def wrapper(*args, **kwargs):
-            filename = None
-            if 'file_path' in kwargs:
-                filename = kwargs['file_path']
-            elif args:
-                if isinstance(args[0], str):
-                    filename = args[0]
-            logger.info(f"[STAGE] {stage} START {'['+filename+']' if filename else ''}")
-            result = func(*args, **kwargs)
-            logger.info(f"[STAGE] {stage} END {'['+filename+']' if filename else ''}")
-            return result
-        return wrapper
-    return decorator
 
 if __name__ == "__main__":
     main() 

@@ -148,6 +148,25 @@ def find_summary_block(driver, ticker):
         logger.error(f"❌ Error finding summary block: {e}")
         return None
 
+# Add a decorator to log function entry/exit for major steps
+def log_stage(stage):
+    def decorator(func):
+        @functools.wraps(func)
+        def wrapper(*args, **kwargs):
+            ticker = None
+            if 'ticker' in kwargs:
+                ticker = kwargs['ticker']
+            elif args:
+                # Try to infer ticker from first arg if it's a string
+                if isinstance(args[0], str):
+                    ticker = args[0]
+            logger.info(f"[STAGE] {stage} START {'['+ticker+']' if ticker else ''}")
+            result = func(*args, **kwargs)
+            logger.info(f"[STAGE] {stage} END {'['+ticker+']' if ticker else ''}")
+            return result
+        return wrapper
+    return decorator
+
 # Add the log_stage decorator to all major process functions
 @log_stage("SCRAPE")
 def scrape_text_from_website(ticker, output_dir="txt"):
@@ -801,25 +820,6 @@ def process_single_ticker(ticker):
     except Exception as e:
         logger.error(f"❌ Error processing {ticker}: {e}")
         return False
-
-# Add a decorator to log function entry/exit for major steps
-def log_stage(stage):
-    def decorator(func):
-        @functools.wraps(func)
-        def wrapper(*args, **kwargs):
-            ticker = None
-            if 'ticker' in kwargs:
-                ticker = kwargs['ticker']
-            elif args:
-                # Try to infer ticker from first arg if it's a string
-                if isinstance(args[0], str):
-                    ticker = args[0]
-            logger.info(f"[STAGE] {stage} START {'['+ticker+']' if ticker else ''}")
-            result = func(*args, **kwargs)
-            logger.info(f"[STAGE] {stage} END {'['+ticker+']' if ticker else ''}")
-            return result
-        return wrapper
-    return decorator
 
 if __name__ == "__main__":
     # Check if a specific ticker was provided as command line argument
