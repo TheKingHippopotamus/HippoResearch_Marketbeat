@@ -61,6 +61,7 @@
   "DECK",
   "DGX",
   "DHR",
+  "DLR",
   "DLTR",
   "DOC",
   "DPZ",
@@ -113,7 +114,9 @@
   "KDP",
   "KEY",
   "KEYS",
+  "KHC",
   "KMI",
+  "KMX",
   "LDOS",
   "LH",
   "LHX",
@@ -193,6 +196,7 @@
   "TXN",
   "TXT",
   "TYL",
+  "UDR",
   "ULTA",
   "UNP",
   "UPS",
@@ -216,5 +220,6 @@
   "WST",
   "WY",
   "WYNN",
-  "XYL"
+  "XYL",
+  "YUM"
 ]
