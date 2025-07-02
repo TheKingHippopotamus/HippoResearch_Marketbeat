@@ -15,6 +15,7 @@ import random
 import csv
 import logging
 import sys
+import urllib.parse
 
 # Setup logging
 def setup_logging():
@@ -49,6 +50,7 @@ def build_title(ticker, ticker_info, max_len=70):
 def start_driver():
     options = Options()
     options.add_argument("--start-maximized")
+    options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36")
     return webdriver.Chrome(options=options)
 
 def close_popup_if_present(driver):
@@ -104,7 +106,7 @@ def find_summary_block(driver, ticker):
 
 def scrape_text_from_website(ticker, output_dir="txt"):
     """Scrape text from website and save only clean text file with date"""
-    url = f"https://translate.google.com/translate?sl=en&tl=he&u=https://www.marketbeat.com/stocks/NASDAQ/{ticker}/news/"
+    url = f"https://www.marketbeat.com/stocks/NASDAQ/{ticker}/news/"
     driver = start_driver()
     try:
         logger.info(f"🌐 Opening URL for {ticker}...")
