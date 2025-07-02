@@ -6895,5 +6895,17 @@
     "GICS Sector": "Industrials",
     "GICS Sub-Industry": "Passenger Ground Transportation",
     "Headquarters Location": "San Francisco, California"
+  },
+  {
+    "ticker": "NVDA",
+    "title": "NVDA: Nvidia | Information Technology | Semiconductors",
+    "filename": "NVDA_20250702.html",
+    "timestamp": "02/07/2025 13:49",
+    "summary": "Nvidia: מובילי המהפכה הבינה המלאכותית בשוק הטכנולוגיה\nעלייה, ירידה, ועתיד מזהיר\nבעולם שבו טכנולוגיית בינה מלאכותית (AI) מעצבת מחדש את נוף העסקים, חברת Nvidia Corporation, או כפי שהיא ידועה בקיצור - NV...",
+    "tags": [],
+    "Security": "Nvidia",
+    "GICS Sector": "Information Technology",
+    "GICS Sub-Industry": "Semiconductors",
+    "Headquarters Location": "Santa Clara, California"
   }
 ]
