@@ -6715,5 +6715,17 @@
     "GICS Sector": "Information Technology",
     "GICS Sub-Industry": "Application Software",
     "Headquarters Location": "Mountain View, California"
+  },
+  {
+    "ticker": "MRNA",
+    "title": "MRNA: Moderna | Health Care | Biotechnology",
+    "filename": "MRNA_20250702.html",
+    "timestamp": "02/07/2025 12:20",
+    "summary": "כותרת: Moderna מובילה את הדרך לעתיד חיסוני: חיסון השפעת mRNA-1010 מבטיח מהפכה\nכותרת משנה: תוצאות ניסויים מבטיחות ומחלוקות בין אנליסטים\nפסקה ראשונה:\nבצעד מרגש קדימה בתחום הבריאות, חברת Moderna (NASDAQ:...",
+    "tags": [],
+    "Security": "Moderna",
+    "GICS Sector": "Health Care",
+    "GICS Sub-Industry": "Biotechnology",
+    "Headquarters Location": "Cambridge, Massachusetts"
   }
 ]
