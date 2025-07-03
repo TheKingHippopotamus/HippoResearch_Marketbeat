@@ -1,5 +1,6 @@
 [
   "A",
+  "AEE",
   "AMAT",
   "AMT",
   "APH",
@@ -10,7 +11,10 @@
   "EVRG",
   "GDDY",
   "HII",
+  "J",
   "LDOS",
+  "LH",
+  "LRCX",
   "LVS",
   "LYB",
   "MAS",
@@ -21,6 +25,8 @@
   "PGR",
   "SHW",
   "SRE",
+  "TDY",
+  "TGT",
   "TJX",
   "TRV",
   "TSCO",
@@ -29,5 +35,6 @@
   "UPS",
   "USB",
   "VICI",
-  "WMB"
+  "WMB",
+  "ZBH"
 ]
