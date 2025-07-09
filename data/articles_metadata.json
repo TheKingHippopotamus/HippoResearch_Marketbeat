@@ -8011,5 +8011,17 @@
     "GICS Sector": "Health Care",
     "GICS Sub-Industry": "Pharmaceuticals",
     "Headquarters Location": "Indianapolis, Indiana"
+  },
+  {
+    "ticker": "NVDA",
+    "title": "NVDA: Nvidia | Information Technology | Semiconductors",
+    "filename": "NVDA_20250709.html",
+    "timestamp": "09/07/2025 12:15",
+    "summary": "#NVIDIA: AI-Driven Growth vs. Geopolitical Headwinds\nA Tale of Two Trends: Optimism and Caution in the Tech Giant's Share Price\nבעידן בו בינה מלאכותית (AI) משנה את חוקי המשחק בתעשיית הטכנולוגיה, NVIDI...",
+    "tags": [],
+    "Security": "Nvidia",
+    "GICS Sector": "Information Technology",
+    "GICS Sub-Industry": "Semiconductors",
+    "Headquarters Location": "Santa Clara, California"
   }
 ]
