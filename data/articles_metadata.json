@@ -7807,5 +7807,17 @@
     "GICS Sector": "Information Technology",
     "GICS Sub-Industry": "Application Software",
     "Headquarters Location": "Austin, Texas"
+  },
+  {
+    "ticker": "NFLX",
+    "title": "NFLX: Netflix | Communication Services | Movies & Entertainment",
+    "filename": "NFLX_20250709.html",
+    "timestamp": "09/07/2025 10:56",
+    "summary": "Netflix: בין ציפיות גבוהות לערעור מחירים\nצמיחה גלובלית, ספקות פנימיים\nבעוד שוק המניות סוער, Netflix (NFLX), ענקית הסטרימינג העולמית, ממשיכה להצית דיונים על עתידה. החברה, אשר הפכה לשם נרדף לבידור דיגיט...",
+    "tags": [],
+    "Security": "Netflix",
+    "GICS Sector": "Communication Services",
+    "GICS Sub-Industry": "Movies & Entertainment",
+    "Headquarters Location": "Los Gatos, California"
   }
 ]
