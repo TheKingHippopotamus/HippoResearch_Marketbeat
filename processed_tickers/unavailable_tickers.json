@@ -18,11 +18,13 @@
   "CHD",
   "CNP",
   "COF",
+  "CVX",
   "DECK",
   "DRI",
   "EPAM",
   "EQIX",
   "ERIE",
+  "FFIV",
   "FTNT",
   "GDDY",
   "GPC",
@@ -37,6 +39,7 @@
   "KLAC",
   "KO",
   "LDOS",
+  "LII",
   "MAA",
   "MNST",
   "MSI",
@@ -50,5 +53,6 @@
   "SPG",
   "VLTO",
   "VTR",
+  "WM",
   "XYL"
 ]
