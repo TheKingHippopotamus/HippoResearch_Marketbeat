@@ -9151,5 +9151,17 @@
     "GICS Sector": "Energy",
     "GICS Sub-Industry": "Oil & Gas Storage & Transportation",
     "Headquarters Location": "Houston, Texas"
+  },
+  {
+    "ticker": "NFLX",
+    "title": "NFLX: Netflix | Communication Services | Movies & Entertainment",
+    "filename": "NFLX_20250711.html",
+    "timestamp": "11/07/2025 07:16",
+    "summary": "Netflix: מסע של צמיחה וציפיות בשוק הבידור\nחדשות אחרונות והשפעתן על תנודתיות המניה\nחברת Netflix, ענקית השירותים הסטרימינג העולמית, נמצאת במוקד תשומת הלב של המשקיעים לאחר סדרה של דיווחים חיוביים וניתוחי...",
+    "tags": [],
+    "Security": "Netflix",
+    "GICS Sector": "Communication Services",
+    "GICS Sub-Industry": "Movies & Entertainment",
+    "Headquarters Location": "Los Gatos, California"
   }
 ]
