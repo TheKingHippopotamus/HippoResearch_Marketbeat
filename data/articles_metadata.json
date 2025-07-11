@@ -8719,5 +8719,17 @@
     "GICS Sector": "Consumer Discretionary",
     "GICS Sub-Industry": "Hotels, Resorts & Cruise Lines",
     "Headquarters Location": "Miami, Florida"
+  },
+  {
+    "ticker": "COIN",
+    "title": "COIN: Coinbase | Financials | Financial Exchanges & Data",
+    "filename": "COIN_20250711.html",
+    "timestamp": "11/07/2025 05:01",
+    "summary": "Coinbase: מסע אל לב השוק הקריפטוגרפי\nמהפכת המטבעות הדיגיטליים: סיפורה של Coinbase\nבעולם שבו טכנולוגיה ומטבעות דיגיטליים מתמזגים, חברת Coinbase צצה כגורם משפיע בשוק הפיננסי. עם מניה שצברה תאוצה לאחרונה...",
+    "tags": [],
+    "Security": "Coinbase",
+    "GICS Sector": "Financials",
+    "GICS Sub-Industry": "Financial Exchanges & Data",
+    "Headquarters Location": "New York City, New York"
   }
 ]

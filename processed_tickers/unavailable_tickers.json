@@ -1,15 +1,21 @@
 [
   "ACGL",
   "ACN",
+  "AEE",
+  "CBRE",
   "CFG",
   "CNP",
   "CTAS",
+  "DD",
   "DE",
   "EXC",
   "EXPD",
   "EXR",
+  "FI",
+  "HBAN",
   "MAR",
   "MCHP",
+  "NWSA",
   "RSG",
   "STX",
   "TAP",
@@ -18,5 +24,6 @@
   "VRSN",
   "VST",
   "VTR",
+  "VTRS",
   "WM"
 ]
