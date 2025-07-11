@@ -1,5 +1,7 @@
 [
+  "ACGL",
   "ACN",
+  "CFG",
   "CNP",
   "CTAS",
   "DE",
@@ -12,5 +14,6 @@
   "TAP",
   "TDY",
   "TPL",
-  "VST"
+  "VST",
+  "VTR"
 ]
