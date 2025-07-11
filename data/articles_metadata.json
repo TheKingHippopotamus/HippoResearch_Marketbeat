@@ -9511,5 +9511,17 @@
     "GICS Sector": "Information Technology",
     "GICS Sub-Industry": "Application Software",
     "Headquarters Location": "Austin, Texas"
+  },
+  {
+    "ticker": "MSFT",
+    "title": "MSFT: Microsoft | Information Technology | Systems Software",
+    "filename": "MSFT_20250711.html",
+    "timestamp": "11/07/2025 09:37",
+    "summary": "מה צופן העתיד עבור Microsoft? סנסציות, עדכונים ושותפויות בעידן ה-AI\nמגמות בשוק: צמיחה ב-Azure ותחזיות אופטימיות\nבעולם הטכנולוגיה המהיר, Microsoft (MSFT) בולטת כגורם מרכזי שמעצב את העתיד. עם עליית ההתל...",
+    "tags": [],
+    "Security": "Microsoft",
+    "GICS Sector": "Information Technology",
+    "GICS Sub-Industry": "Systems Software",
+    "Headquarters Location": "Redmond, Washington"
   }
 ]
