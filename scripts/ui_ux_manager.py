@@ -71,7 +71,7 @@ def run_js_cleaner_on_file(ticker):
         
         # הפעל את הסקריפט ישירות על הקובץ
         result = subprocess.run([
-            sys.executable, "inject_js_cleaner.py", 
+            sys.executable, "scripts/inject_js_cleaner.py", 
             "--file", html_path, 
             "--no-backup"  # אל תיצור גיבוי נוסף
         ], capture_output=True, text=True)

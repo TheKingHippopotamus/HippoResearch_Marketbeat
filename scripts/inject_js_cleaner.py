@@ -7,7 +7,8 @@ Now includes automatic monitoring for new HTML files.
 
 import os
 import glob
-from bs4 import BeautifulSoup, Tag, NavigableString
+from bs4 import BeautifulSoup, Tag
+from bs4.element import NavigableString
 import argparse
 import time
 import threading
@@ -277,13 +278,13 @@ class HTMLFileHandler(FileSystemEventHandler):
         
     def on_created(self, event):
         """Handle file creation events"""
-        if not event.is_directory and event.src_path.endswith('.html'):
+        if not event.is_directory and str(event.src_path).endswith('.html'):
             # Wait a moment for the file to be fully written
             time.sleep(1)
             file_path = event.src_path
             
             # Skip backup files
-            if file_path.endswith(tuple([".bak", ".backup"])):
+            if str(file_path).endswith((".bak", ".backup")):
                 return
                 
             # Skip if already processed
@@ -556,11 +557,12 @@ def clean_single_article(filename):
         if isinstance(tag, Tag):
             text = tag.get_text()
             new_text = marker_anywhere.sub(' ', text)
-            # Only replace tag.string if tag has no children (is NavigableString)
             if tag.string and len(tag.contents) == 1:
-                tag.string.replace_with(NavigableString(new_text.strip()))
+                if isinstance(tag.string, NavigableString):
+                    tag.string.replace_with(NavigableString(new_text.strip()))
+                else:
+                    tag.string = new_text.strip()
             else:
-                # If tag has children, replace all text nodes
                 for node in tag.find_all(text=True, recursive=False):
                     if isinstance(node, NavigableString):
                         cleaned = marker_anywhere.sub(' ', str(node))
