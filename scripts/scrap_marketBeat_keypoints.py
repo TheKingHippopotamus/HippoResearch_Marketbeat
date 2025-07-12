@@ -6,7 +6,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time, os
-from scripts.filemanager import add_article_metadata, get_current_timestamp, get_current_date, create_safe_filename, load_ticker_metadata, build_title
+from scripts.filemanager import add_article_metadata, get_current_timestamp, get_current_date, create_safe_filename
+from tools.ticker_data import build_title, get_company_logo_url
 # Import copy_static_files from ui_ux_manager instead of main to avoid circular import
 from scripts.ui_ux_manager import copy_static_files
 from tools.logger import setup_logging, log_stage
@@ -209,7 +210,7 @@ def process_and_create_article(ticker, original_text, original_file_name=None, t
         # Create HTML with processed content (not cleaned_text which is already HTML)
         logger.info(f"🎨 Creating HTML article for {ticker}...")
         formatted_content = convert_tagged_text_to_html(processed_text)
-        logo_url = get_company_logo_url(ticker, ticker_info)
+        logo_url = get_company_logo_url(ticker)
         company_name = ticker_info.get('Security') or ticker
         dynamic_title = f"{company_name} ({ticker}) - מחקר כלכלי מתקדם | Hippopotamus Research"
         timestamp = get_current_timestamp()
@@ -228,7 +229,7 @@ def process_and_create_article(ticker, original_text, original_file_name=None, t
         copy_static_files(articles_dir)
 
         # Extract title and summary for metadata - use the formatted HTML content for summary
-        title = build_title(ticker, ticker_info)
+        title = build_title(ticker)
         # Remove HTML tags for summary and take first 200 characters
         import re
         clean_summary = re.sub(r'<[^>]+>', '', formatted_content)
@@ -251,7 +252,8 @@ def capture_summary_exact(ticker, output_dir="txt"):
         return
     # Step 2: Process with LLM (after browser is closed)
     # נטען את המידע מה-CSV עבור הטיקר
-    ticker_metadata = load_ticker_metadata()
+    from tools.ticker_data import ticker_manager
+    ticker_metadata = ticker_manager._ticker_data
     ticker_info = ticker_metadata.get(ticker, {})
     process_and_create_article(ticker, original_text, original_file_name, ticker_info=ticker_info, output_dir=output_dir)
     logger.info(f"✅ Process completed for {ticker}")

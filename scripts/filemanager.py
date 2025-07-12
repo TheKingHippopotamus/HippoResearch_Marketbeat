@@ -8,19 +8,8 @@ from datetime import datetime
 logger = setup_logging()
 
 
-def build_title(ticker, ticker_info, max_len=70):
-    """Build title in format: Ticker: Security | GICS Sector | GICS Sub-Industry"""
-    security = (ticker_info or {}).get('Security', '').strip()
-    sector = (ticker_info or {}).get('GICS Sector', '').strip()
-    sub_industry = (ticker_info or {}).get('GICS Sub-Industry', '').strip()
-    details = [s for s in [security, sector, sub_industry] if s]
-    if details:
-        title = f"{ticker}: " + " | ".join(details)
-    else:
-        title = ticker
-    if len(title) > max_len:
-        title = title[:max_len-1] + '…'
-    return title
+# הפונקציה build_title עכשיו מיובאת מהמודול המרכזי
+from tools.ticker_data import build_title
 
 
 
@@ -134,11 +123,12 @@ def migrate_existing_articles():
                     logger.info(f"✅ Updated metadata for {ticker}")
                 else:
                     # Create new metadata entry
-                    ticker_metadata = load_ticker_metadata()
+                    from tools.ticker_data import ticker_manager
+                    ticker_metadata = ticker_manager._ticker_data
                     ticker_info = ticker_metadata.get(ticker, {})
                     
-                    # Use the new title format (using the build_title function defined at the top level)
-                    title = build_title(ticker, ticker_info)
+                    # Use the new title format (using the build_title function from central module)
+                    title = build_title(ticker)
                     new_entry = {
                         "ticker": ticker,
                         "title": title,
@@ -156,25 +146,8 @@ def migrate_existing_articles():
     except Exception as e:
         logger.error(f"❌ Error during migration: {e}")
 
-def load_ticker_metadata():
-    """Load ticker metadata from CSV into a dict: {ticker: {fields...}}"""
-    csv_path = os.path.join("data", "flat-ui__data.csv")
-    ticker_info = {}
-    try:
-        with open(csv_path, 'r', encoding='utf-8') as f:
-            reader = csv.DictReader(f)
-            for row in reader:
-                ticker = row.get('Tickers')
-                if ticker and ticker.strip():
-                    ticker_info[ticker.strip()] = {
-                        "Security": row.get("Security", "").strip(),
-                        "GICS Sector": row.get("GICS Sector", "").strip(),
-                        "GICS Sub-Industry": row.get("GICS Sub-Industry", "").strip(),
-                        "Headquarters Location": row.get("Headquarters Location", "").strip()
-                    }
-    except Exception as e:
-        logger.error(f"❌ Error loading ticker metadata from CSV: {e}")
-    return ticker_info
+# הפונקציה load_ticker_metadata עכשיו מיובאת מהמודול המרכזי
+from tools.ticker_data import get_ticker_info, ticker_manager
 
 def load_tickers_from_json():
     """Load tickers from JSON file"""

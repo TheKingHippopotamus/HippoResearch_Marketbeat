@@ -1,7 +1,7 @@
 from datetime import time
 import random
 import time
-from scripts.filemanager import load_ticker_metadata
+from tools.ticker_data import get_ticker_info
 from scripts.github_automation import commit_and_push_changes
 from scripts.json_manager import load_today_processed, load_unavailable_tickers, save_today_processed, save_unavailable_tickers
 from tools.logger import  setup_logging
@@ -27,8 +27,9 @@ def process_all_tickers():
     # בדוק ונקה רשימת טיקרים לא זמינים אם זה יום חדש --> ui_ux_manager.py
     check_and_clear_unavailable_tickers()
     
-    # load ticker from csv --> filemanager.py 
-    ticker_metadata = load_ticker_metadata()
+    # load ticker from csv --> tools/ticker_data.py 
+    from tools.ticker_data import ticker_manager
+    ticker_metadata = ticker_manager._ticker_data
     tickers = set(ticker_metadata.keys())
 
     # load json -->  json_manager.py
@@ -89,11 +90,11 @@ def process_all_tickers():
             run_js_cleaner_on_file(ticker)
 
             # Step 6: Commit and push changes    --> github_automation.py 
-            logger.info(f"📝 Step 6: Committing changes for {ticker}...")
-            if commit_and_push_changes(ticker):
-                logger.info(f"✅ Successfully committed and pushed changes for {ticker}")
-            else:
-                logger.warning(f"⚠️ Warning: Failed to commit changes for {ticker}")
+            #logger.info(f"📝 Step 6: Committing changes for {ticker}...")
+            #if commit_and_push_changes(ticker):
+                #logger.info(f"✅ Successfully committed and pushed changes for {ticker}")
+            #else:
+                #logger.warning(f"⚠️ Warning: Failed to commit changes for {ticker}")
             
             # Wait before next ticker
             if i < len(candidates):  # Don't wait after the last ticker
@@ -117,7 +118,8 @@ def process_single_ticker(ticker):
     logger.info(f"🚀 Starting single ticker processing for: {ticker}")
     logger.info("="*60)
     
-    ticker_metadata = load_ticker_metadata()
+    from tools.ticker_data import ticker_manager
+    ticker_metadata = ticker_manager._ticker_data
     ticker_info = ticker_metadata.get(ticker, {})
     
     if not ticker_info:

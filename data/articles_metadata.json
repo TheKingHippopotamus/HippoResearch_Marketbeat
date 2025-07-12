@@ -9811,5 +9811,32 @@
     "GICS Sector": "Information Technology",
     "GICS Sub-Industry": "Application Software",
     "Headquarters Location": "Pleasanton, California"
+  },
+  {
+    "ticker": "ORCL",
+    "title": "ORCL: Oracle Corporation | Information Technology | Application Softw…",
+    "filename": "ORCL_20250712.html",
+    "timestamp": "12/07/2025 17:12",
+    "summary": "Oracle Corporation: מהפכת ענן בינה מלאכותית ומעבר לכך\nזינוק קדימה בטכנולוגיה: חדשות אחרונות ממריצות את השוק\nחברת Oracle Corporation (ORCL), ענקית טכנולוגיית המידע, נמצאת תחת מעקב צמוד של המשקיעים לאחר...",
+    "tags": [],
+    "Security": "Oracle Corporation",
+    "GICS Sector": "Information Technology",
+    "GICS Sub-Industry": "Application Software",
+    "Headquarters Location": "Austin, Texas"
+  },
+  {
+    "ticker": "MOH",
+    "title": "MOH: Molina Healthcare | Health Care | Managed Health Care",
+    "filename": "MOH_20250712.html",
+    "timestamp": "12/07/2025 18:19",
+    "summary": "#Molina Healthcare: בין לחצים בשוק לבין תקווה לעתיד\nמצב שוק מתעתע\nבתוך עולם הבריאות הדינמי, חברת Molina Healthcare, Inc (NYSE:MOH) נעה בין סערות של חדשות אנליסטיות ורוחות נגד בסקטור הבריאות. המניות של...",
+    "tags": [],
+    "Security": "Molina Healthcare",
+    "GICS Sector": "Health Care",
+    "GICS Sub-Industry": "Managed Health Care",
+    "Headquarters Location": "Long Beach, California",
+    "Date added": "2022-03-02",
+    "CIK": "1179929",
+    "Founded": "1980"
   }
 ]
