@@ -1,159 +1,267 @@
-# Hippopotamus Research — MarketBit
+# 🦛 MarketBit Research - Automated Market Analysis System
 
-## מהי המערכת?
-מערכת אוטומטית לזיהוי, עיבוד ופרסום כתבות כלכליות על תנועות חריגות במניות. המערכת כוללת סריקת חדשות, עיבוד טקסט עם LLM, הפקת HTML, ניהול מטא-דאטה, ולוגיקה של ניהול טיקרים — הכל בעברית, עם תמיכה מלאה ב-RTL, וללא תלות בממשק ניהול ידני.
+A comprehensive automated system for scraping, processing, and generating market research articles using AI-powered content generation.
 
----
+## 🚀 Quick Start
 
-## תוכן עניינים
-1. [תיאור כללי](#תיאור-כללי)
-2. [מבנה התיקיות והקבצים](#מבנה-התיקיות-והקבצים)
-3. [התקנה והגדרות סביבת עבודה](#התקנה-והגדרות-סביבת-עבודה)
-4. [שימוש — דוגמאות להרצה](#שימוש)
-5. [פירוט תהליכים עיקריים](#פירוט-תהליכים-עיקריים)
-6. [פתרון תקלות](#פתרון-תקלות)
-7. [הרחבות, טיפים והערות](#הרחבות-וטיפים)
-8. [רישיון](#רישיון)
-9. [קישור לארכיון דפי מחקר](#קישור-לארכיון-דפי-מחקר)
+### Prerequisites
+- Python 3.8+
+- Chrome browser (for web scraping)
+- Ollama with `aya-expanse:8b` model installed
+- Git repository initialized
 
----
-
-## תיאור כללי
-
-- **מטרת המערכת:**  
-  לאתר תנועות חריגות במניות, להסביר אותן אוטומטית, ולפרסם כתבות ניתוח מקצועיות — ללא מגע יד אדם, מלבד ולידציה מינימלית.
-- **שלבי העבודה:**  
-  1. סריקת חדשות ממקורות (MarketBeat, Finviz, Briefing.com, Zacks ועוד)
-  2. עיבוד טקסט עם LLM (מודל שפה גדול)
-  3. הפקת HTML מעוצב
-  4. ניהול מטא-דאטה, חיפוש, הצגה באתר
-
----
-
-## מבנה התיקיות והקבצים
-
-| קובץ/תיקיה                | תיאור |
-|---------------------------|-------|
-| `main.py`                 | תהליך באצ'י מלא — עיבוד כל הטיקרים |
-| `run_single_ticker.py`    | עיבוד טיקר בודד (לבדיקות/פיתוח) |
-| `scripts/`                | קוד עזר: תבניות HTML, עיבוד LLM, ניקוי טקסט |
-| `articles/`               | כל כתבות ה-HTML שנוצרו |
-| `txt/`                    | טקסטים מקוריים, מעובדים ומנוקים לכל טיקר |
-| `data/`                   | מטא-דאטה (articles_metadata.json), קובץ CSV של טיקרים |
-| `static/`                 | קבצי עיצוב, לוגו, אייקונים |
-| `article_template.html`    | תבנית עיצוב לכתבות |
-| `inject_js_cleaner.py`    | ניקוי קוד JS אוטומטי לכתבות |
-| `processed_tickers/`      | לוגים של טיקרים שעובדו/לא זמינים |
-| `requirements.txt`        | כל התלויות של המערכת |
-| `README.md`               | קובץ זה |
-| `LICENSE`                 | רישיון שימוש |
-
----
-
-## התקנה והגדרות סביבת עבודה
-
-1. **דרישות מוקדמות:**
-   - Python 3.8 ומעלה
-   - pip
-   - Google Chrome מותקן
-   - ChromeDriver תואם לגרסת הדפדפן (להורדה: https://chromedriver.chromium.org/downloads)
-
-2. **התקנת תלויות:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **הגדרת קבצי נתונים:**
-   - ודא ש־`data/flat-ui__data-*.csv` קיים (רשימת טיקרים).
-   - ודא ש־`data/articles_metadata.json` קיים (אם לא — יווצר אוטומטית בהרצה).
-
----
-
-## שימוש
-
-### עיבוד טיקר בודד
+### Installation
 ```bash
-python3 run_single_ticker.py AAPL
-```
-- יפיק כתבה חדשה ל־AAPL, כולל טקסטים, HTML ומטא-דאטה.
+# Clone the repository
+git clone <your-repo-url>
+cd marketBit
 
-### עיבוד כל הטיקרים (באצ')
-```bash
-python3 main.py
-```
-- יעבור על כל הטיקרים בקובץ ה־CSV, יפיק כתבות חדשות, יעדכן מטא-דאטה, וינהל לוגים.
+# Install dependencies
+pip install -r requirements.txt
 
-### הפעלת סביבה וירטואלית (מומלץ)
-```bash
-python3 -m venv venv
-source venv/bin/activate
+# Install Ollama model
+ollama pull aya-expanse:8b
 ```
 
+## 📋 Main System Interface
+
+The `main.py` file provides a unified interface for all system operations:
+
+### Interactive Mode (Recommended for beginners)
+```bash
+python main.py --interactive
+```
+This starts an easy-to-use menu system where you can:
+- Process individual tickers
+- Process all available tickers
+- Check system status
+- Run maintenance tasks
+
+### Command Line Options
+
+#### Process Individual Ticker
+```bash
+python main.py --ticker AAPL
+# or
+python main.py -t AAPL
+```
+
+#### Process All Available Tickers
+```bash
+python main.py --all
+# or
+python main.py -a
+```
+
+#### System Status
+```bash
+python main.py --status
+# or
+python main.py -s
+```
+
+#### System Maintenance
+```bash
+python main.py --maintenance
+# or
+python main.py -m
+```
+
+#### Migrate Existing Articles
+```bash
+python main.py --migrate
+```
+
+#### Commit Changes for Specific Ticker
+```bash
+python main.py --commit AAPL
+# or
+python main.py -c AAPL
+```
+
+## 🏗️ System Architecture
+
+### Core Modules
+
+#### 1. **Process Manager** (`scripts/process_manager.py`)
+- Orchestrates the entire ticker processing pipeline
+- Handles batch processing and single ticker processing
+- Manages processing state and tracking
+
+#### 2. **Web Scraper** (`scripts/scrap_marketBeat_keypoints.py`)
+- Scrapes market data from MarketBeat
+- Extracts AI-generated summaries and key points
+- Handles browser automation with Selenium
+
+#### 3. **LLM Processor** (`scripts/llm_processor.py`)
+- Processes raw market data with AI (aya-expanse:8b)
+- Generates structured articles with Hebrew content
+- Converts tagged text to HTML format
+
+#### 4. **UI/UX Manager** (`scripts/ui_ux_manager.py`)
+- Handles article formatting and styling
+- Manages JavaScript injection for content cleaning
+- Provides automatic HTML structure fixes
+
+#### 5. **File Manager** (`scripts/filemanager.py`)
+- Manages file operations and metadata
+- Handles CSV data loading and processing
+- Provides safe filename creation
+
+#### 6. **JSON Manager** (`scripts/json_manager.py`)
+- Manages processing state tracking
+- Handles unavailable tickers list
+- Tracks daily processing progress
+
+#### 7. **Git Automation** (`scripts/github_automation.py`)
+- Automates Git commits and pushes
+- Handles repository synchronization
+- Manages deployment workflow
+
+#### 8. **Logger** (`scripts/logger.py`)
+- Provides comprehensive logging system
+- Includes stage tracking and colored output
+- Supports both file and console logging
+
+## 📊 System Features
+
+### Automated Processing Pipeline
+1. **Data Scraping**: Automatically scrapes market data from MarketBeat
+2. **AI Processing**: Uses LLM to generate structured articles
+3. **Content Formatting**: Applies consistent styling and structure
+4. **Quality Assurance**: Runs automatic content cleaning
+5. **Git Integration**: Commits and pushes changes automatically
+
+### Intelligent State Management
+- Tracks processed tickers to avoid duplicates
+- Maintains unavailable tickers list
+- Daily reset of processing state
+- Automatic backup and recovery
+
+### Content Quality Features
+- Automatic HTML structure fixing
+- JavaScript-based content cleaning
+- Social media integration
+- Responsive design support
+
+## 📁 Directory Structure
+
+```
+marketBit/
+├── main.py                 # Main system interface
+├── articles/               # Generated HTML articles
+├── txt/                    # Raw and processed text files
+├── data/                   # CSV data and metadata
+├── processed_tickers/      # Processing state tracking
+├── static/                 # Static assets (logos, icons)
+├── scripts/                # Core system modules
+├── tools/                  # Utility scripts
+└── requirements.txt        # Python dependencies
+```
+
+## 🔧 Configuration
+
+### CSV Data Format
+The system expects a CSV file at `data/flat-ui__data-Thu Jun 19 2025.csv` with columns:
+- `Tickers`: Stock symbol
+- `Security`: Company name
+- `GICS Sector`: Industry sector
+- `GICS Sub-Industry`: Sub-industry classification
+
+### Environment Setup
+1. Ensure Chrome browser is installed
+2. Install Ollama and the required model
+3. Initialize Git repository
+4. Set up proper file permissions
+
+## 🚨 Troubleshooting
+
+### Common Issues
+
+#### "Chrome driver not found"
+- Ensure Chrome browser is installed
+- Check Chrome version compatibility
+
+#### "Ollama model not found"
+```bash
+ollama pull aya-expanse:8b
+```
+
+#### "Git repository not initialized"
+```bash
+git init
+git remote add origin <your-repo-url>
+```
+
+#### "Permission denied"
+```bash
+chmod +x main.py
+chmod +x scripts/*.py
+```
+
+### Log Files
+- Check `js_cleaner.log` for JavaScript injection issues
+- System logs are written to console and files
+- Use `--status` to check system health
+
+## 🔄 Workflow Examples
+
+### Daily Processing
+```bash
+# Check system status
+python main.py --status
+
+# Run maintenance
+python main.py --maintenance
+
+# Process all available tickers
+python main.py --all
+```
+
+### Single Ticker Development
+```bash
+# Process specific ticker
+python main.py --ticker AAPL
+
+# Commit changes
+python main.py --commit AAPL
+```
+
+### Interactive Development
+```bash
+# Start interactive mode
+python main.py --interactive
+```
+
+## 📈 Performance Tips
+
+1. **Batch Processing**: Use `--all` for efficient bulk processing
+2. **Maintenance**: Run `--maintenance` regularly to keep system healthy
+3. **Monitoring**: Use `--status` to track processing progress
+4. **Backup**: System automatically creates backups before major operations
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Test thoroughly
+5. Submit a pull request
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 🆘 Support
+
+For issues and questions:
+1. Check the troubleshooting section
+2. Review log files for error details
+3. Use `--status` to diagnose system issues
+4. Create an issue with detailed error information
+
 ---
 
-## פירוט תהליכים עיקריים
-
-### 1. סריקת חדשות (Scraping)
-- מתבצע עם Selenium, כולל טיפול בפופאפים.
-- שומר טקסט מקורי ב־txt/[TICKER]_original_[DATE].txt
-
-### 2. עיבוד טקסט (LLM)
-- עיבוד עם מודל שפה (ראה scripts/llm_processor.py)
-- שומר טקסט מעובד ב־txt/[TICKER]_processed_[DATE].txt
-
-### 3. ניקוי טקסט
-- המרה ל־HTML מסודר (convert_tagged_text_to_html)
-- שומר ב־txt/[TICKER]_cleaned_[DATE].txt
-
-### 4. הפקת כתבה
-- שימוש ב־article_template.html
-- שמירה ב־articles/[TICKER]_[DATE].html
-
-### 5. ניהול מטא-דאטה
-- עדכון data/articles_metadata.json עם כל כתבה חדשה
-
-### 6. ניקוי קוד JS
-- הפעלת inject_js_cleaner.py על כל כתבה חדשה
-
-### 7. לוגים
-- marketbit.log — לוג ראשי של כל התהליך
-- processed_tickers/ — לוגים של טיקרים שעובדו/לא זמינים
-
----
-
-## פתרון תקלות
-
-- **Selenium לא מוצא דפדפן:**  
-  ודא ש-Chrome מותקן, ועדכן את ChromeDriver.
-- **שגיאת pip/תלויות:**  
-  התקן מחדש עם `pip install -r requirements.txt`
-- **טיקר לא מעובד:**  
-  בדוק ב־processed_tickers/unavailable_tickers.json
-- **קבצים חסרים:**  
-  ודא שכל התיקיות (scripts, data, articles, txt, static) קיימות.
-- **שגיאות בהרצת inject_js_cleaner.py:**  
-  ודא שהקובץ קיים, ושהכתבה נוצרה כראוי.
-
----
-
-## הרחבות וטיפים
-
-- ניתן להוסיף/להסיר טיקרים ב־data/flat-ui__data-*.csv
-- אפשר להרחיב את תבנית הכתבה ב־article_template.html
-- כל קובץ bak, לוג ישן, או דיאגרמה — ניתן למחוק בבטחה
-- מומלץ לבצע גיבוי לתיקיות articles/ ו־data/ לפני עדכון גרסה
-
----
-
-## רישיון
-
-כל הזכויות שמורות © 2024 Hippopotamus Research - Nir Elmaliah  
-הקוד, התוכן והעיצוב בפרויקט זה הם קנייניים. אין להעתיק, להפיץ, לשנות, להשתמש או למסחר את הקוד או כל חלק ממנו, ללא אישור מפורש ובכתב מהיוצר.
-
-## קישור לארכיון דפי מחקר
-
-[לעיון בדפי מחקר היסטוריים (ארכיון)](https://thekinghippopotamus.github.io/marketBit_archives/)
-
-בארכיון תוכל למצוא דפי מחקר ישנים שהוסרו מהמערכת הראשית, לצורך עיון היסטורי בלבד. הדפים מוצגים כפי שהיו בעת פרסומם.
+**🦛 MarketBit Research** - Making market analysis accessible and automated.
 
 

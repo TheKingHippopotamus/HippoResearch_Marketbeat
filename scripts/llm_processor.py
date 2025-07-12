@@ -4,10 +4,10 @@ import json as pyjson
 import re
 import os
 import sys
-import logging
+from scripts.logger import setup_logging
 
 # Setup logging
-logger = logging.getLogger(__name__)
+logger = setup_logging()
 
 # הוספת הנתיב הראשי למערכת כדי שנוכל לקרוא את קובץ ה-CSV
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))

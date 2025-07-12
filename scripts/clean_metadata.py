@@ -2,6 +2,10 @@ import json
 import re
 import os
 from datetime import datetime
+from scripts.logger import setup_logging
+
+# Setup logging
+logger = setup_logging()
 
 # --- ניקוי סימונים והמרה ל-HTML ---
 def convert_tagged_text_to_html(text):
@@ -87,11 +91,11 @@ def clean_metadata_file():
                     cleaned_count += 1
         with open(metadata_path, 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
-        print(f"✅ Cleaned {cleaned_count} summaries in metadata file (plain text, max 200 chars)")
+        logger.info(f"✅ Cleaned {cleaned_count} summaries in metadata file (plain text, max 200 chars)")
     except Exception as e:
-        print(f"❌ Error cleaning metadata: {e}")
+        logger.error(f"❌ Error cleaning metadata: {e}")
 
 if __name__ == "__main__":
-    print("🧹 Starting cleanup process...")
+    logger.info("🧹 Starting cleanup process...")
     clean_metadata_file()
-    print("✨ Cleanup completed!") 
+    logger.info("✨ Cleanup completed!") 

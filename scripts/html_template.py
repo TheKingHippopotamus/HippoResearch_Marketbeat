@@ -3,6 +3,10 @@ import re
 import json
 from datetime import datetime
 import sys
+from scripts.logger import setup_logging
+
+# Setup logging
+logger = setup_logging()
 
 # הוספת הנתיב הראשי למערכת כדי שנוכל לקרוא את קובץ ה-CSV
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -16,9 +20,9 @@ if os.path.exists(csv_path):
         sector_map_df = pd.read_csv(csv_path)
         sector_map = dict(zip(sector_map_df['Tickers'], sector_map_df['GICS Sector']))
     except Exception as e:
-        print(f"⚠️ Warning: Could not load sector mapping: {e}")
+        logger.warning(f"⚠️ Warning: Could not load sector mapping: {e}")
 else:
-    print("⚠️ Warning: CSV file not found, sector mapping will be empty")
+    logger.warning("⚠️ Warning: CSV file not found, sector mapping will be empty")
 
 def create_safe_filename(ticker):
     """Create a safe filename from ticker symbol"""
