@@ -19,199 +19,15 @@ import re
 from bs4.element import NavigableString
 import functools
 from datetime import datetime
-import threading
 
-# ANSI color codes for log highlighting
-class LogColors:
-    HEADER = '\033[95m'
-    OKBLUE = '\033[94m'
-    OKCYAN = '\033[96m'
-    OKGREEN = '\033[92m'
-    WARNING = '\033[93m'
-    FAIL = '\033[91m'
-    ENDC = '\033[0m'
-    BOLD = '\033[1m'
-    UNDERLINE = '\033[4m'
-    GREY = '\033[90m'
-    WHITE = '\033[97m'
-    YELLOW = '\033[33m'
-    RED = '\033[31m'
-    CYAN = '\033[36m'
-    GREEN = '\033[32m'
-    BLUE = '\033[34m'
+# Import shared logging functionality
+import sys
+import os
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from tools.logger import setup_logging, log_stage, daily_log_manager
 
-# Helper for colored log messages
-def color_log(msg, color):
-    return f"{color}{msg}{LogColors.ENDC}"
-
-# Smart Log Management System
-class SmartLogManager:
-    """Manages log file with automatic rotation and sorting"""
-    
-    def __init__(self, log_file='js_cleaner.log', max_lines=150):
-        self.log_file = log_file
-        self.max_lines = max_lines
-        self.lock = threading.Lock()
-        self.line_count = 0
-        self._init_log_file()
-    
-    def _init_log_file(self):
-        """Initialize log file if it doesn't exist"""
-        if not os.path.exists(self.log_file):
-            with open(self.log_file, 'w', encoding='utf-8') as f:
-                f.write(f"=== JS Cleaner Log Started: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} ===\n")
-            self.line_count = 1
-        else:
-            # Count existing lines
-            try:
-                with open(self.log_file, 'r', encoding='utf-8') as f:
-                    self.line_count = sum(1 for _ in f)
-            except:
-                self.line_count = 0
-    
-    def _rotate_log(self):
-        """Rotate log file when it exceeds max_lines"""
-        if self.line_count >= self.max_lines:
-            try:
-                # Read all lines
-                with open(self.log_file, 'r', encoding='utf-8') as f:
-                    lines = f.readlines()
-                
-                # Keep only the most recent 100 lines (leaving room for new entries)
-                recent_lines = lines[-100:] if len(lines) > 100 else lines
-                
-                # Add rotation header
-                rotation_header = f"\n=== LOG ROTATED: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} ===\n"
-                recent_lines.insert(0, rotation_header)
-                
-                # Write back to file
-                with open(self.log_file, 'w', encoding='utf-8') as f:
-                    f.writelines(recent_lines)
-                
-                self.line_count = len(recent_lines)
-                print(f"🔄 Log rotated: {self.log_file} (kept {self.line_count} most recent lines)")
-                
-            except Exception as e:
-                print(f"❌ Error rotating log: {e}")
-    
-    def _sort_log_entries(self):
-        """Sort log entries by timestamp (newest first)"""
-        try:
-            with open(self.log_file, 'r', encoding='utf-8') as f:
-                lines = f.readlines()
-            
-            # Separate header lines from log entries
-            headers = []
-            log_entries = []
-            
-            for line in lines:
-                if line.startswith('===') or line.strip() == '':
-                    headers.append(line)
-                else:
-                    log_entries.append(line)
-            
-            # Sort log entries by timestamp (newest first)
-            def extract_timestamp(line):
-                try:
-                    # Extract timestamp from log line format: "2025-07-12 22:34:25,433 - INFO - ..."
-                    timestamp_str = line.split(' - ')[0]
-                    return datetime.strptime(timestamp_str, '%Y-%m-%d %H:%M:%S,%f')
-                except:
-                    return datetime.min
-            
-            log_entries.sort(key=extract_timestamp, reverse=True)
-            
-            # Write back sorted entries
-            with open(self.log_file, 'w', encoding='utf-8') as f:
-                f.writelines(headers)
-                f.writelines(log_entries)
-            
-            self.line_count = len(lines)
-            
-        except Exception as e:
-            print(f"❌ Error sorting log entries: {e}")
-    
-    def write_log(self, message):
-        """Write message to log with automatic management"""
-        with self.lock:
-            try:
-                # Check if rotation is needed
-                self._rotate_log()
-                
-                # Write the message
-                with open(self.log_file, 'a', encoding='utf-8') as f:
-                    f.write(message + '\n')
-                
-                self.line_count += 1
-                
-                # Sort entries every 10 writes
-                if self.line_count % 10 == 0:
-                    self._sort_log_entries()
-                    
-            except Exception as e:
-                print(f"❌ Error writing to log: {e}")
-    
-    def _show_status(self):
-        """Show log file status"""
-        try:
-            file_size = os.path.getsize(self.log_file) if os.path.exists(self.log_file) else 0
-            print(f"📊 Log File Status:")
-            print(f"   📁 File: {self.log_file}")
-            print(f"   📏 Size: {file_size:,} bytes")
-            print(f"   📝 Lines: {self.line_count}")
-            print(f"   🔄 Max Lines: {self.max_lines}")
-            print(f"   📊 Usage: {self.line_count}/{self.max_lines} ({(self.line_count/self.max_lines)*100:.1f}%)")
-            
-            if os.path.exists(self.log_file):
-                with open(self.log_file, 'r', encoding='utf-8') as f:
-                    lines = f.readlines()
-                    if lines:
-                        print(f"   🕒 Last Entry: {lines[-1].strip()}")
-                        print(f"   🕒 First Entry: {lines[0].strip()}")
-        except Exception as e:
-            print(f"❌ Error showing log status: {e}")
-
-# Global log manager instance
-log_manager = SmartLogManager()
-
-# Upgrade logging format
-class ColorFormatter(logging.Formatter):
-    def format(self, record):
-        msg = super().format(record)
-        if record.levelno >= logging.ERROR:
-            return color_log(msg, LogColors.FAIL)
-        elif record.levelno == logging.WARNING:
-            return color_log(msg, LogColors.WARNING)
-        elif record.levelno == logging.INFO:
-            if any(x in msg for x in ["[STAGE]", "[DONE]", "[SUCCESS]", "[INJECT]", "[SOCIAL]", "[STRUCTURE]"]):
-                return color_log(msg, LogColors.OKCYAN)
-            elif "[CLEANER]" in msg:
-                return color_log(msg, LogColors.OKBLUE)
-            else:
-                return msg
-        return msg
-
-# Custom file handler that uses our smart log manager
-class SmartFileHandler(logging.FileHandler):
-    def emit(self, record):
-        try:
-            msg = self.format(record)
-            log_manager.write_log(msg)
-        except Exception:
-            self.handleError(record)
-
-# Configure logging with smart file handler
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - [%(filename)s:%(funcName)s:%(lineno)d] %(message)s',
-    handlers=[
-        SmartFileHandler('js_cleaner.log', encoding='utf-8'),
-        logging.StreamHandler()
-    ]
-)
-for handler in logging.getLogger().handlers:
-    handler.setFormatter(ColorFormatter('%(asctime)s - %(levelname)s - [%(filename)s:%(funcName)s:%(lineno)d] %(message)s'))
-logger = logging.getLogger(__name__)
+# Configure logging with daily log manager
+logger = setup_logging(use_daily_log=True)
 
 # A unique ID for our script tag to prevent duplicate injections
 JS_CLEANER_ID = "dynamic-text-cleaner-script"
@@ -443,24 +259,6 @@ class HTMLFileHandler(FileSystemEventHandler):
             except Exception as e:
                 logger.error(f"❌ Error processing new file {os.path.basename(file_path)}: {e}")
 
-# Add a decorator to log function entry/exit for major steps
-def log_stage(stage):
-    def decorator(func):
-        @functools.wraps(func)
-        def wrapper(*args, **kwargs):
-            filename = None
-            if 'file_path' in kwargs:
-                filename = kwargs['file_path']
-            elif args:
-                if isinstance(args[0], str):
-                    filename = args[0]
-            logger.info(f"[STAGE] {stage} START {'['+filename+']' if filename else ''}")
-            result = func(*args, **kwargs)
-            logger.info(f"[STAGE] {stage} END {'['+filename+']' if filename else ''}")
-            return result
-        return wrapper
-    return decorator
-
 @log_stage("CLEANER")
 def inject_script_into_file(file_path, backup=True):
     logger.info(f"Processing: {os.path.basename(file_path)}")
@@ -506,7 +304,11 @@ def inject_script_into_file(file_path, backup=True):
     # Create the new script tag
     script_tag = soup.new_tag("script", id=JS_CLEANER_ID)
     script_tag.string = JS_CODE
-    body.append(script_tag)
+    if isinstance(body, Tag):
+        body.append(script_tag)
+    else:
+        logger.warning(f"  -> WARNING: <body> is not a Tag. Skipping script injection.")
+        return False
 
     # 1. Add CSS if not present
     head = soup.find('head')
@@ -666,7 +468,7 @@ def main():
 
     # Show log status if requested
     if args.log_status:
-        log_manager._show_status()
+        daily_log_manager.show_status()
         return
 
     should_backup = not args.no_backup
@@ -775,7 +577,8 @@ document.addEventListener('DOMContentLoaded', function() {{
   }});
 }});
 '''
-    soup.body.append(share_script)
+    if soup.body and isinstance(soup.body, Tag):
+        soup.body.append(share_script)
 
 if __name__ == "__main__":
     main() 

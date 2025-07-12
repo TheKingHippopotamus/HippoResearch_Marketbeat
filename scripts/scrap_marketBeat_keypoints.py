@@ -234,7 +234,7 @@ def process_and_create_article(ticker, original_text, original_file_name=None, t
         dynamic_title = f"{company_name} ({ticker}) - מחקר כלכלי מתקדם | Hippopotamus Research"
         timestamp = get_current_timestamp()
         # Load the new template
-        with open("article_template.html", "r", encoding="utf-8") as f:
+        with open("templates/article_template.html", "r", encoding="utf-8") as f:
             template = f.read()
         # Replace placeholders
         full_html = template.replace("{{TITLE}}", dynamic_title)

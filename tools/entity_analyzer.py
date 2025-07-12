@@ -722,7 +722,7 @@ def analyze_text_for_llm(text: str, ticker: Optional[str] = None) -> str:
     analysis = analyzer.analyze_text(text, ticker)
     return analyzer.generate_entity_context_for_llm(analysis)
 
-def save_entity_analysis(analysis: Dict, ticker: str, output_dir: str = "analysis_results"):
+def save_entity_analysis(analysis: Dict, ticker: str, output_dir: str = "entityAnalyzer_DB"):
     """Save entity analysis to JSON file"""
     try:
         os.makedirs(output_dir, exist_ok=True)
