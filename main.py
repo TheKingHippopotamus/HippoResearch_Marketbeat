@@ -9,9 +9,10 @@ import os
 
 # Add scripts directory to path
 sys.path.append(os.path.join(os.path.dirname(__file__), 'scripts'))
-
+# Add tools directory to path
+sys.path.append(os.path.join(os.path.dirname(__file__), 'tools'))
 # Import modules
-from scripts.logger import setup_logging
+from tools.logger import setup_logging
 from scripts.process_manager import process_single_ticker, process_all_tickers
 
 # Setup logging

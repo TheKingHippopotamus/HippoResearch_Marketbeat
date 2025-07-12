@@ -8,7 +8,7 @@ Example: python run_single_ticker.py AAPL
 import sys
 import os
 from scripts.process_manager import process_single_ticker
-from scripts.logger import setup_logging
+from tools.logger import setup_logging
 
 def main():
     # Setup logging

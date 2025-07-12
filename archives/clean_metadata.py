@@ -2,7 +2,7 @@ import json
 import re
 import os
 from datetime import datetime
-from scripts.logger import setup_logging
+from tools.logger import setup_logging
 
 # Setup logging
 logger = setup_logging()

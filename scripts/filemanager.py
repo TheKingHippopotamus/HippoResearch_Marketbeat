@@ -2,7 +2,7 @@
 import csv
 import json
 import re
-from scripts.logger import setup_logging
+from tools.logger import setup_logging
 import time, os
 from datetime import datetime
 logger = setup_logging()

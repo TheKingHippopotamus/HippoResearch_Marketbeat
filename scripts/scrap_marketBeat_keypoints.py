@@ -9,11 +9,11 @@ import time, os
 from scripts.filemanager import add_article_metadata, get_current_timestamp, get_current_date, create_safe_filename, load_ticker_metadata, build_title
 # Import copy_static_files from ui_ux_manager instead of main to avoid circular import
 from scripts.ui_ux_manager import copy_static_files
-from scripts.logger import setup_logging, log_stage
+from tools.logger import setup_logging, log_stage
 # Initialize logger
 logger = setup_logging()
-from scripts.html_template import create_html_content, get_company_logo_url
-from scripts.llm_processor import process_with_gemma, convert_tagged_text_to_html
+from tools.html_template import  get_company_logo_url
+from tools.llm_processor import process_with_gemma, convert_tagged_text_to_html
 
 
 

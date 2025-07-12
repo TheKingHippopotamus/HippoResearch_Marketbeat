@@ -4,7 +4,7 @@ import time
 from scripts.filemanager import load_ticker_metadata
 from scripts.github_automation import commit_and_push_changes
 from scripts.json_manager import load_today_processed, load_unavailable_tickers, save_today_processed, save_unavailable_tickers
-from scripts.logger import  setup_logging
+from tools.logger import  setup_logging
 from scripts.scrap_marketBeat_keypoints import process_and_create_article, scrape_text_from_website
 from scripts.ui_ux_manager import auto_fix_article_html, check_and_clear_unavailable_tickers, run_js_cleaner_on_file
 
@@ -24,11 +24,14 @@ def process_all_tickers():
     logger.info("🚀 Starting ticker processing pipeline...")
     logger.info("="*60)
     
-    # בדוק ונקה רשימת טיקרים לא זמינים אם זה יום חדש
+    # בדוק ונקה רשימת טיקרים לא זמינים אם זה יום חדש --> ui_ux_manager.py
     check_and_clear_unavailable_tickers()
     
+    # load ticker from csv --> filemanager.py 
     ticker_metadata = load_ticker_metadata()
     tickers = set(ticker_metadata.keys())
+
+    # load json -->  json_manager.py
     unavailable = load_unavailable_tickers()
     today_processed = load_today_processed()
     
@@ -52,7 +55,7 @@ def process_all_tickers():
         logger.info(f"{'='*60}")
         
         try:
-            # Step 1: Scrape text from website
+            # Step 1: Scrape text from website --> scrap_marketBeat.py
             logger.info(f"🌐 Step 1: Scraping text for {ticker}...")
             result = scrape_text_from_website(ticker)
             
@@ -68,24 +71,24 @@ def process_all_tickers():
             logger.info(f"⏳ Waiting 3 seconds before LLM processing...")
             time.sleep(3)
             
-            # Step 2: Process with LLM
+            # Step 2: Process with LLM --> scrap_marketBeat.py --> llm_processor.py
             logger.info(f"🤖 Step 2: Processing {ticker} with LLM...")
             process_and_create_article(ticker, result[0], result[1], ticker_metadata.get(ticker, {}))
             logger.info(f"✅ LLM processing completed for {ticker}")
             
-            # Step 3: Update tracking
+            # Step 3: Update tracking  --> json_manager.py
             today_processed.add(ticker)
             save_today_processed(today_processed)
             logger.info(f"✅ Updated processing status for {ticker}")
             
-            # Step 4: תיקון אוטומטי של עיצוב המאמר
+            # Step 4: automation tool to fix ellements in the html --> ui_ux_manager.py
             auto_fix_article_html(ticker)
             logger.info(f"✅ Auto-fix completed for {ticker}")
 
-            # Step 5: הפעל את הניטור האוטומטי על הקובץ החדש
+            # Step 5:  --> ui_ux_manager.py &&  inject_js_cleaner.py
             run_js_cleaner_on_file(ticker)
 
-            # Step 6: Commit and push changes
+            # Step 6: Commit and push changes    --> github_automation.py 
             logger.info(f"📝 Step 6: Committing changes for {ticker}...")
             if commit_and_push_changes(ticker):
                 logger.info(f"✅ Successfully committed and pushed changes for {ticker}")

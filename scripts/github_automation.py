@@ -1,13 +1,13 @@
 
 
-from scripts.logger import setup_logging 
+from tools.logger import setup_logging 
 import subprocess
 from datetime import datetime
 
 logger = setup_logging()
 
 # Import log_stage decorator
-from scripts.logger import log_stage
+from tools.logger import log_stage
 
 
 

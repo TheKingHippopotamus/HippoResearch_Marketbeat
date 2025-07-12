@@ -93,7 +93,7 @@ python main.py -c AAPL
 - Extracts AI-generated summaries and key points
 - Handles browser automation with Selenium
 
-#### 3. **LLM Processor** (`scripts/llm_processor.py`)
+#### 3. **LLM Processor** (`tools.llm_processor.py`)
 - Processes raw market data with AI (aya-expanse:8b)
 - Generates structured articles with Hebrew content
 - Converts tagged text to HTML format
@@ -162,7 +162,7 @@ marketBit/
 ## 🔧 Configuration
 
 ### CSV Data Format
-The system expects a CSV file at `data/flat-ui__data-Thu Jun 19 2025.csv` with columns:
+The system expects a CSV file at `data/flat-ui__data.csv` with columns:
 - `Tickers`: Stock symbol
 - `Security`: Company name
 - `GICS Sector`: Industry sector

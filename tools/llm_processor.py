@@ -4,7 +4,7 @@ import json as pyjson
 import re
 import os
 import sys
-from scripts.logger import setup_logging
+from tools.logger import setup_logging
 
 # Setup logging
 logger = setup_logging()
@@ -14,7 +14,7 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 # קריאת מיפוי טיקרים לסקטורים - עם טיפול במקרה שהקובץ לא קיים
 sector_map = {}
-csv_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data", "flat-ui__data-Thu Jun 19 2025.csv")
+csv_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data", "flat-ui__data.csv")
 if os.path.exists(csv_path):
     try:
         sector_map_df = pd.read_csv(csv_path)

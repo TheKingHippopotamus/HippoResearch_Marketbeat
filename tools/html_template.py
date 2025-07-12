@@ -3,7 +3,7 @@ import re
 import json
 from datetime import datetime
 import sys
-from scripts.logger import setup_logging
+from tools.logger import setup_logging
 
 # Setup logging
 logger = setup_logging()
@@ -13,7 +13,7 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 # קריאת מיפוי טיקרים לסקטורים - עם טיפול במקרה שהקובץ לא קיים
 sector_map = {}
-csv_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data", "flat-ui__data-Thu Jun 19 2025.csv")
+csv_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data", "flat-ui__data.csv")
 if os.path.exists(csv_path):
     try:
         import pandas as pd
@@ -38,7 +38,7 @@ def get_current_date():
     """Get current date in YYYYMMDD format"""
     return datetime.now().strftime("%Y%m%d")
 
-from scripts.llm_processor import convert_tagged_text_to_html
+from tools.llm_processor import convert_tagged_text_to_html
 
 def get_company_logo_url(ticker, ticker_info=None):
     """Generate a logo URL for a given ticker using Clearbit's logo API"""

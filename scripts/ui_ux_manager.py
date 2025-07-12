@@ -6,10 +6,10 @@ from datetime import datetime
 import re
 import subprocess
 import sys 
-from scripts.logger import log_stage, setup_logging
+from tools.logger import log_stage, setup_logging
 logger = setup_logging()
 
-from scripts.llm_processor import convert_tagged_text_to_html
+from tools.llm_processor import convert_tagged_text_to_html
 
 
 
@@ -71,7 +71,7 @@ def run_js_cleaner_on_file(ticker):
         
         # הפעל את הסקריפט ישירות על הקובץ
         result = subprocess.run([
-            sys.executable, "scripts/inject_js_cleaner.py", 
+            sys.executable, "tools/inject_js_cleaner.py", 
             "--file", html_path, 
             "--no-backup"  # אל תיצור גיבוי נוסף
         ], capture_output=True, text=True)
