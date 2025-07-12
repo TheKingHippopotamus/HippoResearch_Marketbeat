@@ -27,21 +27,143 @@ class EntityAnalysisConfig:
     def __post_init__(self):
         if self.financial_keywords is None:
             self.financial_keywords = [
-                'earnings', 'revenue', 'profit', 'loss', 'growth', 'decline', 'stock', 'share', 
-                'market', 'trading', 'investment', 'quarter', 'annual', 'fiscal', 'dividend',
-                'acquisition', 'merger', 'ipo', 'bankruptcy', 'restructuring', 'layoff',
-                'expansion', 'contraction', 'forecast', 'guidance', 'analyst', 'rating'
+                # Basic financial metrics
+                'earnings', 'revenue', 'profit', 'loss', 'income', 'expense', 'margin', 'ebitda', 'ebit',
+                'growth', 'decline', 'increase', 'decrease', 'performance', 'results', 'quarterly', 'annual',
+                
+                # Market and trading terms
+                'stock', 'share', 'market', 'trading', 'investment', 'portfolio', 'position', 'long', 'short',
+                'options', 'futures', 'derivatives', 'volume', 'liquidity', 'volatility', 'momentum', 'trend',
+                'bull', 'bear', 'rally', 'crash', 'correction', 'bubble', 'rally', 'downturn', 'uptick', 'downtick',
+                
+                # Corporate actions
+                'acquisition', 'merger', 'ipo', 'secondary', 'buyback', 'split', 'reverse split', 'dividend',
+                'bankruptcy', 'restructuring', 'layoff', 'hiring', 'expansion', 'contraction', 'consolidation',
+                'spin-off', 'divestiture', 'joint venture', 'partnership', 'alliance',
+                
+                # Financial planning and guidance
+                'forecast', 'guidance', 'outlook', 'projection', 'estimate', 'target', 'expectation', 'prediction',
+                'budget', 'planning', 'strategy', 'initiative', 'roadmap', 'milestone',
+                
+                # Analyst and ratings
+                'analyst', 'rating', 'upgrade', 'downgrade', 'initiate', 'maintain', 'price target', 'recommendation',
+                'buy', 'sell', 'hold', 'outperform', 'underperform', 'market perform', 'sector perform',
+                
+                # Risk and compliance
+                'risk', 'compliance', 'regulation', 'regulatory', 'audit', 'investigation', 'lawsuit', 'litigation',
+                'settlement', 'fine', 'penalty', 'violation', 'breach', 'security', 'cybersecurity',
+                
+                # Technology and innovation
+                'innovation', 'technology', 'digital', 'automation', 'ai', 'machine learning', 'blockchain',
+                'cloud', 'saas', 'platform', 'software', 'hardware', 'infrastructure', 'data', 'analytics',
+                
+                # Market sectors and industries
+                'sector', 'industry', 'vertical', 'horizontal', 'niche', 'market share', 'competition', 'competitive',
+                'monopoly', 'oligopoly', 'barrier to entry', 'moat', 'competitive advantage',
+                
+                # Economic indicators
+                'inflation', 'deflation', 'interest rate', 'fed', 'central bank', 'monetary policy', 'fiscal policy',
+                'gdp', 'unemployment', 'consumer confidence', 'pmi', 'manufacturing', 'services',
+                
+                # Currency and international
+                'currency', 'forex', 'exchange rate', 'international', 'global', 'domestic', 'export', 'import',
+                'tariff', 'trade war', 'sanctions', 'embargo', 'geopolitical', 'political',
+                
+                # Debt and financing
+                'debt', 'credit', 'loan', 'bond', 'yield', 'interest', 'leverage', 'liquidity', 'solvency',
+                'refinancing', 'restructuring', 'default', 'credit rating', 'moody', 's&p', 'fitch',
+                
+                # Real estate and assets
+                'real estate', 'property', 'asset', 'valuation', 'appraisal', 'depreciation', 'amortization',
+                'capital expenditure', 'capex', 'opex', 'operating expense', 'maintenance',
+                
+                # Supply chain and operations
+                'supply chain', 'logistics', 'inventory', 'warehouse', 'distribution', 'manufacturing', 'production',
+                'capacity', 'utilization', 'efficiency', 'productivity', 'optimization', 'streamlining',
+                
+                # Customer and sales
+                'customer', 'client', 'sales', 'revenue', 'subscription', 'recurring', 'churn', 'retention',
+                'acquisition cost', 'lifetime value', 'conversion', 'pipeline', 'funnel', 'lead',
+                
+                # Environmental and social
+                'esg', 'environmental', 'social', 'governance', 'sustainability', 'carbon', 'renewable', 'green',
+                'diversity', 'inclusion', 'corporate responsibility', 'philanthropy', 'charity'
             ]
         
         if self.industry_keywords is None:
             self.industry_keywords = {
-                'tech': ['software', 'hardware', 'ai', 'machine learning', 'cloud', 'cybersecurity', 'mobile', 'app'],
-                'finance': ['banking', 'insurance', 'credit', 'loan', 'mortgage', 'investment', 'trading'],
-                'healthcare': ['pharmaceutical', 'medical', 'biotech', 'healthcare', 'drug', 'treatment', 'clinical'],
-                'energy': ['oil', 'gas', 'renewable', 'solar', 'wind', 'nuclear', 'electricity'],
-                'retail': ['e-commerce', 'retail', 'consumer', 'shopping', 'online', 'brick-and-mortar'],
-                'automotive': ['car', 'vehicle', 'automotive', 'electric vehicle', 'autonomous', 'tesla'],
-                'media': ['entertainment', 'streaming', 'content', 'advertising', 'social media', 'gaming']
+                # Technology
+                'tech': ['software', 'hardware', 'ai', 'machine learning', 'cloud', 'cybersecurity', 'mobile', 'app', 
+                        'blockchain', 'crypto', 'web3', 'metaverse', 'vr', 'ar', 'iot', '5g', 'semiconductor', 'chip'],
+                
+                # Financial Services
+                'finance': ['banking', 'insurance', 'credit', 'loan', 'mortgage', 'investment', 'trading', 'fintech',
+                           'payment', 'digital wallet', 'cryptocurrency', 'defi', 'nft', 'robo-advisor', 'wealth management'],
+                
+                # Healthcare & Biotech
+                'healthcare': ['pharmaceutical', 'medical', 'biotech', 'healthcare', 'drug', 'treatment', 'clinical',
+                              'vaccine', 'gene therapy', 'immunotherapy', 'telemedicine', 'digital health', 'medtech',
+                              'diagnostic', 'therapeutic', 'oncology', 'cardiology', 'neurology'],
+                
+                # Energy & Utilities
+                'energy': ['oil', 'gas', 'renewable', 'solar', 'wind', 'nuclear', 'electricity', 'utilities',
+                          'clean energy', 'battery', 'hydrogen', 'carbon capture', 'energy storage', 'grid'],
+                
+                # Retail & Consumer
+                'retail': ['e-commerce', 'retail', 'consumer', 'shopping', 'online', 'brick-and-mortar', 'fashion',
+                          'luxury', 'fast fashion', 'department store', 'supermarket', 'convenience store'],
+                
+                # Automotive & Transportation
+                'automotive': ['car', 'vehicle', 'automotive', 'electric vehicle', 'autonomous', 'tesla', 'ev',
+                              'hybrid', 'fuel cell', 'charging station', 'ride sharing', 'logistics', 'delivery'],
+                
+                # Media & Entertainment
+                'media': ['entertainment', 'streaming', 'content', 'advertising', 'social media', 'gaming',
+                         'esports', 'podcast', 'news', 'publishing', 'music', 'film', 'tv', 'broadcasting'],
+                
+                # Industrial & Manufacturing
+                'industrial': ['manufacturing', 'industrial', 'aerospace', 'defense', 'construction', 'materials',
+                              'steel', 'aluminum', 'chemicals', 'machinery', 'equipment', 'automation', 'robotics'],
+                
+                # Real Estate
+                'real_estate': ['real estate', 'property', 'commercial', 'residential', 'office', 'retail space',
+                               'warehouse', 'hotel', 'hospitality', 'reit', 'development', 'construction'],
+                
+                # Telecommunications
+                'telecom': ['telecommunications', 'wireless', 'broadband', 'fiber', 'satellite', 'internet service',
+                           'mobile network', '5g', '6g', 'network infrastructure', 'data center'],
+                
+                # Food & Beverage
+                'food_beverage': ['food', 'beverage', 'restaurant', 'fast food', 'casual dining', 'alcohol', 'wine',
+                                 'beer', 'spirits', 'agriculture', 'farming', 'organic', 'plant-based'],
+                
+                # Travel & Tourism
+                'travel': ['travel', 'tourism', 'airline', 'hotel', 'cruise', 'vacation', 'booking', 'airbnb',
+                          'expedia', 'booking.com', 'leisure', 'business travel'],
+                
+                # Education & Training
+                'education': ['education', 'edtech', 'online learning', 'university', 'college', 'school',
+                             'training', 'certification', 'skill development', 'lms', 'mooc'],
+                
+                # Legal & Professional Services
+                'professional': ['legal', 'law', 'consulting', 'accounting', 'audit', 'professional services',
+                                'advisory', 'management consulting', 'strategy', 'hr', 'recruitment'],
+                
+                # Mining & Materials
+                'mining': ['mining', 'gold', 'silver', 'copper', 'lithium', 'rare earth', 'metals', 'minerals',
+                          'extraction', 'exploration', 'commodities', 'natural resources'],
+                
+                # Aerospace & Defense
+                'aerospace': ['aerospace', 'defense', 'military', 'satellite', 'space', 'rocket', 'aircraft',
+                             'drone', 'missile', 'weapons', 'government contract', 'defense contractor'],
+                
+                # Environmental & Clean Tech
+                'environmental': ['environmental', 'clean tech', 'waste management', 'recycling', 'water treatment',
+                                 'air quality', 'pollution control', 'sustainability', 'carbon reduction'],
+                
+                # Cannabis & Alternative Medicine
+                'cannabis': ['cannabis', 'marijuana', 'cbd', 'thc', 'hemp', 'medical cannabis', 'recreational',
+                            'dispensary', 'cultivation', 'extraction', 'edibles', 'vaping']
             }
 
 class EntityAnalyzer:

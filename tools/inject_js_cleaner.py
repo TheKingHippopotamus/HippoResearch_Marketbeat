@@ -18,6 +18,8 @@ import logging
 import re
 from bs4.element import NavigableString
 import functools
+from datetime import datetime
+import threading
 
 # ANSI color codes for log highlighting
 class LogColors:
@@ -42,6 +44,136 @@ class LogColors:
 def color_log(msg, color):
     return f"{color}{msg}{LogColors.ENDC}"
 
+# Smart Log Management System
+class SmartLogManager:
+    """Manages log file with automatic rotation and sorting"""
+    
+    def __init__(self, log_file='js_cleaner.log', max_lines=150):
+        self.log_file = log_file
+        self.max_lines = max_lines
+        self.lock = threading.Lock()
+        self.line_count = 0
+        self._init_log_file()
+    
+    def _init_log_file(self):
+        """Initialize log file if it doesn't exist"""
+        if not os.path.exists(self.log_file):
+            with open(self.log_file, 'w', encoding='utf-8') as f:
+                f.write(f"=== JS Cleaner Log Started: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} ===\n")
+            self.line_count = 1
+        else:
+            # Count existing lines
+            try:
+                with open(self.log_file, 'r', encoding='utf-8') as f:
+                    self.line_count = sum(1 for _ in f)
+            except:
+                self.line_count = 0
+    
+    def _rotate_log(self):
+        """Rotate log file when it exceeds max_lines"""
+        if self.line_count >= self.max_lines:
+            try:
+                # Read all lines
+                with open(self.log_file, 'r', encoding='utf-8') as f:
+                    lines = f.readlines()
+                
+                # Keep only the most recent 100 lines (leaving room for new entries)
+                recent_lines = lines[-100:] if len(lines) > 100 else lines
+                
+                # Add rotation header
+                rotation_header = f"\n=== LOG ROTATED: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} ===\n"
+                recent_lines.insert(0, rotation_header)
+                
+                # Write back to file
+                with open(self.log_file, 'w', encoding='utf-8') as f:
+                    f.writelines(recent_lines)
+                
+                self.line_count = len(recent_lines)
+                print(f"🔄 Log rotated: {self.log_file} (kept {self.line_count} most recent lines)")
+                
+            except Exception as e:
+                print(f"❌ Error rotating log: {e}")
+    
+    def _sort_log_entries(self):
+        """Sort log entries by timestamp (newest first)"""
+        try:
+            with open(self.log_file, 'r', encoding='utf-8') as f:
+                lines = f.readlines()
+            
+            # Separate header lines from log entries
+            headers = []
+            log_entries = []
+            
+            for line in lines:
+                if line.startswith('===') or line.strip() == '':
+                    headers.append(line)
+                else:
+                    log_entries.append(line)
+            
+            # Sort log entries by timestamp (newest first)
+            def extract_timestamp(line):
+                try:
+                    # Extract timestamp from log line format: "2025-07-12 22:34:25,433 - INFO - ..."
+                    timestamp_str = line.split(' - ')[0]
+                    return datetime.strptime(timestamp_str, '%Y-%m-%d %H:%M:%S,%f')
+                except:
+                    return datetime.min
+            
+            log_entries.sort(key=extract_timestamp, reverse=True)
+            
+            # Write back sorted entries
+            with open(self.log_file, 'w', encoding='utf-8') as f:
+                f.writelines(headers)
+                f.writelines(log_entries)
+            
+            self.line_count = len(lines)
+            
+        except Exception as e:
+            print(f"❌ Error sorting log entries: {e}")
+    
+    def write_log(self, message):
+        """Write message to log with automatic management"""
+        with self.lock:
+            try:
+                # Check if rotation is needed
+                self._rotate_log()
+                
+                # Write the message
+                with open(self.log_file, 'a', encoding='utf-8') as f:
+                    f.write(message + '\n')
+                
+                self.line_count += 1
+                
+                # Sort entries every 10 writes
+                if self.line_count % 10 == 0:
+                    self._sort_log_entries()
+                    
+            except Exception as e:
+                print(f"❌ Error writing to log: {e}")
+    
+    def _show_status(self):
+        """Show log file status"""
+        try:
+            file_size = os.path.getsize(self.log_file) if os.path.exists(self.log_file) else 0
+            print(f"📊 Log File Status:")
+            print(f"   📁 File: {self.log_file}")
+            print(f"   📏 Size: {file_size:,} bytes")
+            print(f"   📝 Lines: {self.line_count}")
+            print(f"   🔄 Max Lines: {self.max_lines}")
+            print(f"   📊 Usage: {self.line_count}/{self.max_lines} ({(self.line_count/self.max_lines)*100:.1f}%)")
+            
+            if os.path.exists(self.log_file):
+                with open(self.log_file, 'r', encoding='utf-8') as f:
+                    lines = f.readlines()
+                    if lines:
+                        print(f"   🕒 Last Entry: {lines[-1].strip()}")
+                        print(f"   🕒 First Entry: {lines[0].strip()}")
+        except Exception as e:
+            print(f"❌ Error showing log status: {e}")
+
+# Global log manager instance
+log_manager = SmartLogManager()
+
 # Upgrade logging format
 class ColorFormatter(logging.Formatter):
     def format(self, record):
@@ -59,11 +191,21 @@ class ColorFormatter(logging.Formatter):
                 return msg
         return msg
 
+# Custom file handler that uses our smart log manager
+class SmartFileHandler(logging.FileHandler):
+    def emit(self, record):
+        try:
+            msg = self.format(record)
+            log_manager.write_log(msg)
+        except Exception:
+            self.handleError(record)
+
+# Configure logging with smart file handler
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - [%(filename)s:%(funcName)s:%(lineno)d] %(message)s',
     handlers=[
-        logging.FileHandler('js_cleaner.log', encoding='utf-8'),
+        SmartFileHandler('js_cleaner.log', encoding='utf-8'),
         logging.StreamHandler()
     ]
 )
@@ -515,7 +657,17 @@ def main():
         action='store_true',
         help="Start automatic monitoring for new HTML files."
     )
+    parser.add_argument(
+        '--log-status',
+        action='store_true',
+        help="Show smart log file status and statistics."
+    )
     args = parser.parse_args()
+
+    # Show log status if requested
+    if args.log_status:
+        log_manager._show_status()
+        return
 
     should_backup = not args.no_backup
 

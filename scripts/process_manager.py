@@ -90,13 +90,13 @@ def process_all_tickers():
             run_js_cleaner_on_file(ticker)
 
             # Step 6: Commit and push changes    --> github_automation.py 
-            #logger.info(f"📝 Step 6: Committing changes for {ticker}...")
-            #if commit_and_push_changes(ticker):
-                #logger.info(f"✅ Successfully committed and pushed changes for {ticker}")
-            #else:
-                #logger.warning(f"⚠️ Warning: Failed to commit changes for {ticker}")
+            logger.info(f"📝 Step 6: Committing changes for {ticker}...")
+            if commit_and_push_changes(ticker):
+                logger.info(f"✅ Successfully committed and pushed changes for {ticker}")
+            else:
+                logger.warning(f"⚠️ Warning: Failed to commit changes for {ticker}")
             
-            # Wait before next ticker
+             #Wait before next ticker
             if i < len(candidates):  # Don't wait after the last ticker
                 logger.info(f"⏳ Waiting 5 seconds before next ticker...")
             time.sleep(5)
