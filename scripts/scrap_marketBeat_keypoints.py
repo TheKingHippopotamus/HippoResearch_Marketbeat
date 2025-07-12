@@ -14,7 +14,8 @@ from tools.logger import setup_logging, log_stage
 # Initialize logger
 logger = setup_logging()
 from tools.html_template import  get_company_logo_url
-from tools.llm_processor import process_with_gemma, convert_tagged_text_to_html
+from tools.llm_processor import process_with_contextual_prompt
+from tools.text_processing import convert_tagged_text_to_html
 
 
 
@@ -145,6 +146,9 @@ def process_and_create_article(ticker, original_text, original_file_name=None, t
     try:
         ticker_info = ticker_info or {}
         
+        # Add ticker to ticker_info for entity analysis
+        ticker_info['ticker'] = ticker
+        
         # Use the clean text for LLM processing
         if original_file_name:
             # Use the clean text file
@@ -155,7 +159,22 @@ def process_and_create_article(ticker, original_text, original_file_name=None, t
             text_for_llm = original_text
             
         logger.info(f"🤖 Processing {ticker} with aya-expanse:8b...")
-        processed_text = process_with_gemma(text_for_llm, ticker_info)
+        logger.info(f"🔍 Running entity analysis for {ticker}...")
+        
+        # Run entity analysis and save results
+        try:
+            from tools.entity_analyzer import get_entity_analyzer, save_entity_analysis
+            analyzer = get_entity_analyzer()
+            entity_analysis = analyzer.analyze_text(text_for_llm, ticker)
+            if entity_analysis:
+                save_entity_analysis(entity_analysis, ticker)
+                logger.info(f"✅ Entity analysis completed for {ticker}")
+            else:
+                logger.warning(f"⚠️ No entity analysis results for {ticker}")
+        except Exception as e:
+            logger.warning(f"⚠️ Entity analysis failed for {ticker}: {e}")
+        
+        processed_text = process_with_contextual_prompt(text_for_llm, ticker_info)
         logger.info(f"📄 Processed text length: {len(processed_text)} characters")
         logger.info(f"📄 Processed text preview: {processed_text[:100]}...")
 

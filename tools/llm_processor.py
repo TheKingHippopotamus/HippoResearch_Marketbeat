@@ -2,6 +2,8 @@ import subprocess
 import json
 import os
 import sys
+import json
+import subprocess
 from tools.logger import setup_logging
 from tools.text_processing import clean_llm_text, remove_json_artifacts
 from tools.ticker_data import get_ticker_info
@@ -24,6 +26,18 @@ def generate_contextual_prompt(text_block: str, ticker_info=None, metadata_path=
     company = ticker_info.get("Security") if ticker_info else ""
     sector = ticker_info.get("GICS Sector") if ticker_info else ""
     titles, subtitles = load_previous_titles(metadata_path) if metadata_path else ([], [])
+    
+    # Add entity analysis context
+    entity_context = ""
+    try:
+        from tools.entity_analyzer import analyze_text_for_llm
+        ticker = ticker_info.get("ticker") if ticker_info else ""
+        entity_context = analyze_text_for_llm(text_block, ticker if ticker else None)
+        if entity_context:
+            entity_context = f"\n\n🔍 ENTITY ANALYSIS CONTEXT:\n{entity_context}\n"
+    except Exception as e:
+        logger.warning(f"Could not generate entity analysis context: {e}")
+        entity_context = ""
 
     prev_titles_str = "\n".join(f"- {t}" for t in titles)
     prev_subtitles_str = "\n".join(f"- {s}" for s in subtitles)
@@ -35,6 +49,8 @@ def generate_contextual_prompt(text_block: str, ticker_info=None, metadata_path=
 שתפקידו לפענח טקסטים מעובדים של חדשות כלכליות ולבצע עליהם ניתוח רב-שכבתי מדויק.
 המשימה שלך היא לפעול בשלבים סדורים ומובנים. אל תדלג על שום שלב. ענה בסגנון אנליטי-מוסדי, ללא קיצורים וללא חזרות מיותרות
 לבסוף אתה תצטרך לערוך את הניתוח שלך למחקר כלכלי עם סגנון כתיבה עיתונאי.
+
+{entity_context}
 
 # OBJECTIVE:
 - ליצור כתבות כלכליות מקצועיות המיועדות לקהל בוגר ומתמצא בשווקים הפיננסיים
@@ -83,7 +99,17 @@ def generate_contextual_prompt(text_block: str, ticker_info=None, metadata_path=
 # LANGUAGE GUIDELINES:
 - אל תתרגם את הטקסט אלא תכתוב אותו בעברית . תרגום טקסט לפעמים לא משתייך להקשר . 
 - חובה עלייך לשים לב לזהות יישויות בטקסט  , ולא לתרגם אותם לעברית אלא להשאיר באנגלית . 
-לדוגמא : שם החברה , שם המנייה , שם בית העסק ,  
+לדוגמא : שם החברה , שם המנייה , שם בית העסק ,
+
+# ENTITY PRESERVATION RULES:
+- **שמור על כל היישויות שזוהו** בניתוח - חברות, אנשים, סכומי כסף, אחוזים, תאריכים
+- **אל תתרגם שמות חברות** - השאר אותם באנגלית (Apple, Microsoft, etc.)
+- **אל תתרגם שמות אנשים** - השאר אותם באנגלית (Tim Cook, Elon Musk, etc.)
+- **שמור על סכומי כסף** בדיוק כפי שהם ($200M, $60 Billion, etc.)
+- **שמור על אחוזים** בדיוק כפי שהם (8%, 15%, etc.)
+- **השתמש בניתוח התעשייה** כדי להבין את ההקשר העסקי
+- **התחשב ברגשות השוק** שזוהו בניתוח
+- **שלב את רמת הסיכון וההזדמנות** בניתוח שלך  
 
 # AVOID REPETITION:
 ## כותרות קודמות:

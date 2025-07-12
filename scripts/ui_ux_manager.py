@@ -9,7 +9,7 @@ import sys
 from tools.logger import log_stage, setup_logging
 logger = setup_logging()
 
-from tools.llm_processor import convert_tagged_text_to_html
+from tools.text_processing import convert_tagged_text_to_html
 
 
 
