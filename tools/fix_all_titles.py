@@ -13,7 +13,7 @@ MAX_TITLE_LEN = 70
 # Load CSV data for Security names
 csv_data = {}
 try:
-    with open('data/flat-ui__data-Thu Jun 19 2025.csv', 'r', encoding='utf-8') as f:
+    with open('data/flat-ui__data', 'r', encoding='utf-8') as f:
         reader = csv.DictReader(f)
         for row in reader:
             csv_data[row['Tickers'].strip()] = row

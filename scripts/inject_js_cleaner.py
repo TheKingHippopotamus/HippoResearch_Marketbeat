@@ -392,7 +392,7 @@ def fix_html_structure(soup):
     """Fix HTML structure: h1->h2, h2->h3, paragraphs->p, remove all markers (English/Hebrew)."""
     fixed = False
     para_markers = ['PARA#', 'פסקה:', 'פסקה']
-    title_markers = ['TITLE#', 'כותרת ראשית:', 'כותרת ראשית']
+    title_markers = ['TITLE#', 'כותרת ראשית:', 'כותרת ראשית',"##"]
     subtitle_markers = ['SUBTITLE#', 'כותרת משנה:', 'כותרת משנה']
     ordinal_markers = ['ראשונה:', 'שניה:', 'שנייה:', 'שלישית:', 'רביעית:', 'חמישית:', 'שישית:', 'שישית', 'אחרונה:', 'אחרונה']
 
