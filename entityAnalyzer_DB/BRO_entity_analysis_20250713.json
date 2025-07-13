@@ -1,0 +1,1867 @@
+{
+  "ticker": "BRO",
+  "entities": [
+    {
+      "text": "Brown & Brown, Inc.",
+      "label": "ORG",
+      "start": 0,
+      "end": 19,
+      "sentence": "Brown & Brown, Inc. (NYSE: BRO) shares have ticked higher as recent peer-comparison reports underscore the company’s operational strengths and attractive risk/reward profile.",
+      "context": "Brown & Brown, Inc. (NYSE: BRO) shares have ticked higher as recent p",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "BRO",
+      "label": "ORG",
+      "start": 27,
+      "end": 30,
+      "sentence": "Brown & Brown, Inc. (NYSE: BRO) shares have ticked higher as recent peer-comparison reports underscore the company’s operational strengths and attractive risk/reward profile.",
+      "context": "Brown & Brown, Inc. (NYSE: BRO) shares have ticked higher as recent peer-compari",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Hannover Rück",
+      "label": "ORG",
+      "start": 239,
+      "end": 252,
+      "sentence": "In a detailed head-to-head analysis against Hannover Rück (OTCMKTS:HVRRY), BRO was shown to deliver stronger revenue growth, higher operating margins and a lower combined ratio, highlighting its industry-leading efficiency and underwriting discipline.",
+      "context": "ment:\nIn a detailed head-to-head analysis against Hannover Rück (OTCMKTS:HVRRY), BRO was shown to deliver stronge",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "HVRRY",
+      "label": "ORG",
+      "start": 262,
+      "end": 267,
+      "sentence": "In a detailed head-to-head analysis against Hannover Rück (OTCMKTS:HVRRY), BRO was shown to deliver stronger revenue growth, higher operating margins and a lower combined ratio, highlighting its industry-leading efficiency and underwriting discipline.",
+      "context": "d-to-head analysis against Hannover Rück (OTCMKTS:HVRRY), BRO was shown to deliver stronger revenue growt",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "BRO",
+      "label": "ORG",
+      "start": 270,
+      "end": 273,
+      "sentence": "In a detailed head-to-head analysis against Hannover Rück (OTCMKTS:HVRRY), BRO was shown to deliver stronger revenue growth, higher operating margins and a lower combined ratio, highlighting its industry-leading efficiency and underwriting discipline.",
+      "context": "d analysis against Hannover Rück (OTCMKTS:HVRRY), BRO was shown to deliver stronger revenue growth, hig",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Brown & Brown",
+      "label": "ORG",
+      "start": 470,
+      "end": 483,
+      "sentence": "Head to Head Analysis: Brown & Brown (NYSE:BRO) vs. Hannover Ruck (OTCMKTS:HVRRY)\nNeutral Sentiment:",
+      "context": "d underwriting discipline.\nHead to Head Analysis: Brown & Brown (NYSE:BRO) vs. Hannover Ruck (OTCMKTS:HVRRY)\nNeut",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "BRO",
+      "label": "ORG",
+      "start": 490,
+      "end": 493,
+      "sentence": "Head to Head Analysis: Brown & Brown (NYSE:BRO) vs. Hannover Ruck (OTCMKTS:HVRRY)\nNeutral Sentiment:",
+      "context": "pline.\nHead to Head Analysis: Brown & Brown (NYSE:BRO) vs. Hannover Ruck (OTCMKTS:HVRRY)\nNeutral Sentim",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Hannover Ruck",
+      "label": "ORG",
+      "start": 499,
+      "end": 512,
+      "sentence": "Head to Head Analysis: Brown & Brown (NYSE:BRO) vs. Hannover Ruck (OTCMKTS:HVRRY)\nNeutral Sentiment:",
+      "context": "ad to Head Analysis: Brown & Brown (NYSE:BRO) vs. Hannover Ruck (OTCMKTS:HVRRY)\nNeutral Sentiment:\nA head-to-head",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "BRO",
+      "label": "ORG",
+      "start": 580,
+      "end": 583,
+      "sentence": "A head-to-head survey comparing BRO with Tiptree Financial (NASDAQ:TIPT) notes that while Tiptree currently offers a marginally higher dividend yield, Brown & Brown’s larger scale, broader product mix and consistent dividend growth track record may appeal more to investors seeking stability.",
+      "context": "eutral Sentiment:\nA head-to-head survey comparing BRO with Tiptree Financial (NASDAQ:TIPT) notes that w",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Tiptree Financial",
+      "label": "ORG",
+      "start": 589,
+      "end": 606,
+      "sentence": "A head-to-head survey comparing BRO with Tiptree Financial (NASDAQ:TIPT) notes that while Tiptree currently offers a marginally higher dividend yield, Brown & Brown’s larger scale, broader product mix and consistent dividend growth track record may appeal more to investors seeking stability.",
+      "context": "ntiment:\nA head-to-head survey comparing BRO with Tiptree Financial (NASDAQ:TIPT) notes that while Tiptree currently",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Tiptree",
+      "label": "ORG",
+      "start": 638,
+      "end": 645,
+      "sentence": "A head-to-head survey comparing BRO with Tiptree Financial (NASDAQ:TIPT) notes that while Tiptree currently offers a marginally higher dividend yield, Brown & Brown’s larger scale, broader product mix and consistent dividend growth track record may appeal more to investors seeking stability.",
+      "context": "Tiptree Financial (NASDAQ:TIPT) notes that while Tiptree currently offers a marginally higher dividend yie",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Brown & Brown’s",
+      "label": "ORG",
+      "start": 699,
+      "end": 714,
+      "sentence": "A head-to-head survey comparing BRO with Tiptree Financial (NASDAQ:TIPT) notes that while Tiptree currently offers a marginally higher dividend yield, Brown & Brown’s larger scale, broader product mix and consistent dividend growth track record may appeal more to investors seeking stability.",
+      "context": "rently offers a marginally higher dividend yield, Brown & Brown’s larger scale, broader product mix and consistent",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Tiptree Financial",
+      "label": "ORG",
+      "start": 862,
+      "end": 879,
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "context": "investors seeking stability.\nHead to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPos",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "TIPT",
+      "label": "ORG",
+      "start": 888,
+      "end": 892,
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "context": "y.\nHead to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days a",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Brown & Brown",
+      "label": "ORG",
+      "start": 901,
+      "end": 914,
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "context": "ad Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated. May C",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "BRO",
+      "label": "ORG",
+      "start": 921,
+      "end": 924,
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "context": "inancial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated. May Contain Err",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "1+ days ago",
+      "label": "DATE",
+      "start": 933,
+      "end": 944,
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "context": "SDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AI Generated",
+      "label": "ORG",
+      "start": 945,
+      "end": 957,
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "context": "ersus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    }
+  ],
+  "relationships": [
+    {
+      "type": "SVO",
+      "subject": "reports",
+      "verb": "underscore",
+      "object": "strengths",
+      "sentence": "Brown & Brown, Inc. (NYSE: BRO) shares have ticked higher as recent peer-comparison reports underscore the company’s operational strengths and attractive risk/reward profile.",
+      "importance": 7
+    },
+    {
+      "type": "SVO",
+      "subject": "Tiptree",
+      "verb": "offers",
+      "object": "yield",
+      "sentence": "A head-to-head survey comparing BRO with Tiptree Financial (NASDAQ:TIPT) notes that while Tiptree currently offers a marginally higher dividend yield, Brown & Brown’s larger scale, broader product mix and consistent dividend growth track record may appeal more to investors seeking stability.",
+      "importance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brown",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "Brown & Brown, Inc. (NYSE: BRO) shares have ticked higher as recent peer-comparison reports underscore the company’s operational strengths and attractive risk/reward profile.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brown",
+      "entity1_type": "ORG",
+      "entity2": "Brown",
+      "entity2_type": "ORG",
+      "sentence": "Brown & Brown, Inc. (NYSE: BRO) shares have ticked higher as recent peer-comparison reports underscore the company’s operational strengths and attractive risk/reward profile.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brown",
+      "entity1_type": "ORG",
+      "entity2": ",",
+      "entity2_type": "ORG",
+      "sentence": "Brown & Brown, Inc. (NYSE: BRO) shares have ticked higher as recent peer-comparison reports underscore the company’s operational strengths and attractive risk/reward profile.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brown",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Brown & Brown, Inc. (NYSE: BRO) shares have ticked higher as recent peer-comparison reports underscore the company’s operational strengths and attractive risk/reward profile.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brown",
+      "entity1_type": "ORG",
+      "entity2": "BRO",
+      "entity2_type": "ORG",
+      "sentence": "Brown & Brown, Inc. (NYSE: BRO) shares have ticked higher as recent peer-comparison reports underscore the company’s operational strengths and attractive risk/reward profile.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Brown",
+      "entity2_type": "ORG",
+      "sentence": "Brown & Brown, Inc. (NYSE: BRO) shares have ticked higher as recent peer-comparison reports underscore the company’s operational strengths and attractive risk/reward profile.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": ",",
+      "entity2_type": "ORG",
+      "sentence": "Brown & Brown, Inc. (NYSE: BRO) shares have ticked higher as recent peer-comparison reports underscore the company’s operational strengths and attractive risk/reward profile.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Brown & Brown, Inc. (NYSE: BRO) shares have ticked higher as recent peer-comparison reports underscore the company’s operational strengths and attractive risk/reward profile.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "BRO",
+      "entity2_type": "ORG",
+      "sentence": "Brown & Brown, Inc. (NYSE: BRO) shares have ticked higher as recent peer-comparison reports underscore the company’s operational strengths and attractive risk/reward profile.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brown",
+      "entity1_type": "ORG",
+      "entity2": ",",
+      "entity2_type": "ORG",
+      "sentence": "Brown & Brown, Inc. (NYSE: BRO) shares have ticked higher as recent peer-comparison reports underscore the company’s operational strengths and attractive risk/reward profile.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brown",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Brown & Brown, Inc. (NYSE: BRO) shares have ticked higher as recent peer-comparison reports underscore the company’s operational strengths and attractive risk/reward profile.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brown",
+      "entity1_type": "ORG",
+      "entity2": "BRO",
+      "entity2_type": "ORG",
+      "sentence": "Brown & Brown, Inc. (NYSE: BRO) shares have ticked higher as recent peer-comparison reports underscore the company’s operational strengths and attractive risk/reward profile.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Brown & Brown, Inc. (NYSE: BRO) shares have ticked higher as recent peer-comparison reports underscore the company’s operational strengths and attractive risk/reward profile.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "BRO",
+      "entity2_type": "ORG",
+      "sentence": "Brown & Brown, Inc. (NYSE: BRO) shares have ticked higher as recent peer-comparison reports underscore the company’s operational strengths and attractive risk/reward profile.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "BRO",
+      "entity2_type": "ORG",
+      "sentence": "Brown & Brown, Inc. (NYSE: BRO) shares have ticked higher as recent peer-comparison reports underscore the company’s operational strengths and attractive risk/reward profile.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Hannover",
+      "entity1_type": "ORG",
+      "entity2": "Rück",
+      "entity2_type": "ORG",
+      "sentence": "In a detailed head-to-head analysis against Hannover Rück (OTCMKTS:HVRRY), BRO was shown to deliver stronger revenue growth, higher operating margins and a lower combined ratio, highlighting its industry-leading efficiency and underwriting discipline.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Hannover",
+      "entity1_type": "ORG",
+      "entity2": "HVRRY",
+      "entity2_type": "ORG",
+      "sentence": "In a detailed head-to-head analysis against Hannover Rück (OTCMKTS:HVRRY), BRO was shown to deliver stronger revenue growth, higher operating margins and a lower combined ratio, highlighting its industry-leading efficiency and underwriting discipline.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Hannover",
+      "entity1_type": "ORG",
+      "entity2": "BRO",
+      "entity2_type": "ORG",
+      "sentence": "In a detailed head-to-head analysis against Hannover Rück (OTCMKTS:HVRRY), BRO was shown to deliver stronger revenue growth, higher operating margins and a lower combined ratio, highlighting its industry-leading efficiency and underwriting discipline.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Rück",
+      "entity1_type": "ORG",
+      "entity2": "HVRRY",
+      "entity2_type": "ORG",
+      "sentence": "In a detailed head-to-head analysis against Hannover Rück (OTCMKTS:HVRRY), BRO was shown to deliver stronger revenue growth, higher operating margins and a lower combined ratio, highlighting its industry-leading efficiency and underwriting discipline.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Rück",
+      "entity1_type": "ORG",
+      "entity2": "BRO",
+      "entity2_type": "ORG",
+      "sentence": "In a detailed head-to-head analysis against Hannover Rück (OTCMKTS:HVRRY), BRO was shown to deliver stronger revenue growth, higher operating margins and a lower combined ratio, highlighting its industry-leading efficiency and underwriting discipline.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "HVRRY",
+      "entity1_type": "ORG",
+      "entity2": "BRO",
+      "entity2_type": "ORG",
+      "sentence": "In a detailed head-to-head analysis against Hannover Rück (OTCMKTS:HVRRY), BRO was shown to deliver stronger revenue growth, higher operating margins and a lower combined ratio, highlighting its industry-leading efficiency and underwriting discipline.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brown",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Analysis: Brown & Brown (NYSE:BRO) vs. Hannover Ruck (OTCMKTS:HVRRY)\nNeutral Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brown",
+      "entity1_type": "ORG",
+      "entity2": "Brown",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Analysis: Brown & Brown (NYSE:BRO) vs. Hannover Ruck (OTCMKTS:HVRRY)\nNeutral Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brown",
+      "entity1_type": "ORG",
+      "entity2": "BRO",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Analysis: Brown & Brown (NYSE:BRO) vs. Hannover Ruck (OTCMKTS:HVRRY)\nNeutral Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brown",
+      "entity1_type": "ORG",
+      "entity2": "Hannover",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Analysis: Brown & Brown (NYSE:BRO) vs. Hannover Ruck (OTCMKTS:HVRRY)\nNeutral Sentiment:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brown",
+      "entity1_type": "ORG",
+      "entity2": "Ruck",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Analysis: Brown & Brown (NYSE:BRO) vs. Hannover Ruck (OTCMKTS:HVRRY)\nNeutral Sentiment:",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Brown",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Analysis: Brown & Brown (NYSE:BRO) vs. Hannover Ruck (OTCMKTS:HVRRY)\nNeutral Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "BRO",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Analysis: Brown & Brown (NYSE:BRO) vs. Hannover Ruck (OTCMKTS:HVRRY)\nNeutral Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Hannover",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Analysis: Brown & Brown (NYSE:BRO) vs. Hannover Ruck (OTCMKTS:HVRRY)\nNeutral Sentiment:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Ruck",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Analysis: Brown & Brown (NYSE:BRO) vs. Hannover Ruck (OTCMKTS:HVRRY)\nNeutral Sentiment:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brown",
+      "entity1_type": "ORG",
+      "entity2": "BRO",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Analysis: Brown & Brown (NYSE:BRO) vs. Hannover Ruck (OTCMKTS:HVRRY)\nNeutral Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brown",
+      "entity1_type": "ORG",
+      "entity2": "Hannover",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Analysis: Brown & Brown (NYSE:BRO) vs. Hannover Ruck (OTCMKTS:HVRRY)\nNeutral Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brown",
+      "entity1_type": "ORG",
+      "entity2": "Ruck",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Analysis: Brown & Brown (NYSE:BRO) vs. Hannover Ruck (OTCMKTS:HVRRY)\nNeutral Sentiment:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "BRO",
+      "entity1_type": "ORG",
+      "entity2": "Hannover",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Analysis: Brown & Brown (NYSE:BRO) vs. Hannover Ruck (OTCMKTS:HVRRY)\nNeutral Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "BRO",
+      "entity1_type": "ORG",
+      "entity2": "Ruck",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Analysis: Brown & Brown (NYSE:BRO) vs. Hannover Ruck (OTCMKTS:HVRRY)\nNeutral Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Hannover",
+      "entity1_type": "ORG",
+      "entity2": "Ruck",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Analysis: Brown & Brown (NYSE:BRO) vs. Hannover Ruck (OTCMKTS:HVRRY)\nNeutral Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "BRO",
+      "entity1_type": "ORG",
+      "entity2": "Tiptree",
+      "entity2_type": "ORG",
+      "sentence": "A head-to-head survey comparing BRO with Tiptree Financial (NASDAQ:TIPT) notes that while Tiptree currently offers a marginally higher dividend yield, Brown & Brown’s larger scale, broader product mix and consistent dividend growth track record may appeal more to investors seeking stability.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "BRO",
+      "entity1_type": "ORG",
+      "entity2": "Financial",
+      "entity2_type": "ORG",
+      "sentence": "A head-to-head survey comparing BRO with Tiptree Financial (NASDAQ:TIPT) notes that while Tiptree currently offers a marginally higher dividend yield, Brown & Brown’s larger scale, broader product mix and consistent dividend growth track record may appeal more to investors seeking stability.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "BRO",
+      "entity1_type": "ORG",
+      "entity2": "Tiptree",
+      "entity2_type": "ORG",
+      "sentence": "A head-to-head survey comparing BRO with Tiptree Financial (NASDAQ:TIPT) notes that while Tiptree currently offers a marginally higher dividend yield, Brown & Brown’s larger scale, broader product mix and consistent dividend growth track record may appeal more to investors seeking stability.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "BRO",
+      "entity1_type": "ORG",
+      "entity2": "Brown",
+      "entity2_type": "ORG",
+      "sentence": "A head-to-head survey comparing BRO with Tiptree Financial (NASDAQ:TIPT) notes that while Tiptree currently offers a marginally higher dividend yield, Brown & Brown’s larger scale, broader product mix and consistent dividend growth track record may appeal more to investors seeking stability.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "BRO",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "A head-to-head survey comparing BRO with Tiptree Financial (NASDAQ:TIPT) notes that while Tiptree currently offers a marginally higher dividend yield, Brown & Brown’s larger scale, broader product mix and consistent dividend growth track record may appeal more to investors seeking stability.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "BRO",
+      "entity1_type": "ORG",
+      "entity2": "Brown",
+      "entity2_type": "ORG",
+      "sentence": "A head-to-head survey comparing BRO with Tiptree Financial (NASDAQ:TIPT) notes that while Tiptree currently offers a marginally higher dividend yield, Brown & Brown’s larger scale, broader product mix and consistent dividend growth track record may appeal more to investors seeking stability.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "BRO",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "A head-to-head survey comparing BRO with Tiptree Financial (NASDAQ:TIPT) notes that while Tiptree currently offers a marginally higher dividend yield, Brown & Brown’s larger scale, broader product mix and consistent dividend growth track record may appeal more to investors seeking stability.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Tiptree",
+      "entity1_type": "ORG",
+      "entity2": "Financial",
+      "entity2_type": "ORG",
+      "sentence": "A head-to-head survey comparing BRO with Tiptree Financial (NASDAQ:TIPT) notes that while Tiptree currently offers a marginally higher dividend yield, Brown & Brown’s larger scale, broader product mix and consistent dividend growth track record may appeal more to investors seeking stability.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Tiptree",
+      "entity1_type": "ORG",
+      "entity2": "Tiptree",
+      "entity2_type": "ORG",
+      "sentence": "A head-to-head survey comparing BRO with Tiptree Financial (NASDAQ:TIPT) notes that while Tiptree currently offers a marginally higher dividend yield, Brown & Brown’s larger scale, broader product mix and consistent dividend growth track record may appeal more to investors seeking stability.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Tiptree",
+      "entity1_type": "ORG",
+      "entity2": "Brown",
+      "entity2_type": "ORG",
+      "sentence": "A head-to-head survey comparing BRO with Tiptree Financial (NASDAQ:TIPT) notes that while Tiptree currently offers a marginally higher dividend yield, Brown & Brown’s larger scale, broader product mix and consistent dividend growth track record may appeal more to investors seeking stability.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Tiptree",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "A head-to-head survey comparing BRO with Tiptree Financial (NASDAQ:TIPT) notes that while Tiptree currently offers a marginally higher dividend yield, Brown & Brown’s larger scale, broader product mix and consistent dividend growth track record may appeal more to investors seeking stability.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Tiptree",
+      "entity1_type": "ORG",
+      "entity2": "Brown",
+      "entity2_type": "ORG",
+      "sentence": "A head-to-head survey comparing BRO with Tiptree Financial (NASDAQ:TIPT) notes that while Tiptree currently offers a marginally higher dividend yield, Brown & Brown’s larger scale, broader product mix and consistent dividend growth track record may appeal more to investors seeking stability.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Tiptree",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "A head-to-head survey comparing BRO with Tiptree Financial (NASDAQ:TIPT) notes that while Tiptree currently offers a marginally higher dividend yield, Brown & Brown’s larger scale, broader product mix and consistent dividend growth track record may appeal more to investors seeking stability.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "Tiptree",
+      "entity2_type": "ORG",
+      "sentence": "A head-to-head survey comparing BRO with Tiptree Financial (NASDAQ:TIPT) notes that while Tiptree currently offers a marginally higher dividend yield, Brown & Brown’s larger scale, broader product mix and consistent dividend growth track record may appeal more to investors seeking stability.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "Brown",
+      "entity2_type": "ORG",
+      "sentence": "A head-to-head survey comparing BRO with Tiptree Financial (NASDAQ:TIPT) notes that while Tiptree currently offers a marginally higher dividend yield, Brown & Brown’s larger scale, broader product mix and consistent dividend growth track record may appeal more to investors seeking stability.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "A head-to-head survey comparing BRO with Tiptree Financial (NASDAQ:TIPT) notes that while Tiptree currently offers a marginally higher dividend yield, Brown & Brown’s larger scale, broader product mix and consistent dividend growth track record may appeal more to investors seeking stability.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "Brown",
+      "entity2_type": "ORG",
+      "sentence": "A head-to-head survey comparing BRO with Tiptree Financial (NASDAQ:TIPT) notes that while Tiptree currently offers a marginally higher dividend yield, Brown & Brown’s larger scale, broader product mix and consistent dividend growth track record may appeal more to investors seeking stability.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "A head-to-head survey comparing BRO with Tiptree Financial (NASDAQ:TIPT) notes that while Tiptree currently offers a marginally higher dividend yield, Brown & Brown’s larger scale, broader product mix and consistent dividend growth track record may appeal more to investors seeking stability.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Tiptree",
+      "entity1_type": "ORG",
+      "entity2": "Brown",
+      "entity2_type": "ORG",
+      "sentence": "A head-to-head survey comparing BRO with Tiptree Financial (NASDAQ:TIPT) notes that while Tiptree currently offers a marginally higher dividend yield, Brown & Brown’s larger scale, broader product mix and consistent dividend growth track record may appeal more to investors seeking stability.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Tiptree",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "A head-to-head survey comparing BRO with Tiptree Financial (NASDAQ:TIPT) notes that while Tiptree currently offers a marginally higher dividend yield, Brown & Brown’s larger scale, broader product mix and consistent dividend growth track record may appeal more to investors seeking stability.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Tiptree",
+      "entity1_type": "ORG",
+      "entity2": "Brown",
+      "entity2_type": "ORG",
+      "sentence": "A head-to-head survey comparing BRO with Tiptree Financial (NASDAQ:TIPT) notes that while Tiptree currently offers a marginally higher dividend yield, Brown & Brown’s larger scale, broader product mix and consistent dividend growth track record may appeal more to investors seeking stability.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Tiptree",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "A head-to-head survey comparing BRO with Tiptree Financial (NASDAQ:TIPT) notes that while Tiptree currently offers a marginally higher dividend yield, Brown & Brown’s larger scale, broader product mix and consistent dividend growth track record may appeal more to investors seeking stability.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brown",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "A head-to-head survey comparing BRO with Tiptree Financial (NASDAQ:TIPT) notes that while Tiptree currently offers a marginally higher dividend yield, Brown & Brown’s larger scale, broader product mix and consistent dividend growth track record may appeal more to investors seeking stability.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brown",
+      "entity1_type": "ORG",
+      "entity2": "Brown",
+      "entity2_type": "ORG",
+      "sentence": "A head-to-head survey comparing BRO with Tiptree Financial (NASDAQ:TIPT) notes that while Tiptree currently offers a marginally higher dividend yield, Brown & Brown’s larger scale, broader product mix and consistent dividend growth track record may appeal more to investors seeking stability.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brown",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "A head-to-head survey comparing BRO with Tiptree Financial (NASDAQ:TIPT) notes that while Tiptree currently offers a marginally higher dividend yield, Brown & Brown’s larger scale, broader product mix and consistent dividend growth track record may appeal more to investors seeking stability.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Brown",
+      "entity2_type": "ORG",
+      "sentence": "A head-to-head survey comparing BRO with Tiptree Financial (NASDAQ:TIPT) notes that while Tiptree currently offers a marginally higher dividend yield, Brown & Brown’s larger scale, broader product mix and consistent dividend growth track record may appeal more to investors seeking stability.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "A head-to-head survey comparing BRO with Tiptree Financial (NASDAQ:TIPT) notes that while Tiptree currently offers a marginally higher dividend yield, Brown & Brown’s larger scale, broader product mix and consistent dividend growth track record may appeal more to investors seeking stability.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brown",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "A head-to-head survey comparing BRO with Tiptree Financial (NASDAQ:TIPT) notes that while Tiptree currently offers a marginally higher dividend yield, Brown & Brown’s larger scale, broader product mix and consistent dividend growth track record may appeal more to investors seeking stability.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Tiptree",
+      "entity1_type": "ORG",
+      "entity2": "Financial",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Tiptree",
+      "entity1_type": "ORG",
+      "entity2": "TIPT",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Tiptree",
+      "entity1_type": "ORG",
+      "entity2": "Brown",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Tiptree",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Tiptree",
+      "entity1_type": "ORG",
+      "entity2": "Brown",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Tiptree",
+      "entity1_type": "ORG",
+      "entity2": "BRO",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Tiptree",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Tiptree",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Tiptree",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Tiptree",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Tiptree",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Tiptree",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "TIPT",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "Brown",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "Brown",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "BRO",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "TIPT",
+      "entity1_type": "ORG",
+      "entity2": "Brown",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "TIPT",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "TIPT",
+      "entity1_type": "ORG",
+      "entity2": "Brown",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "TIPT",
+      "entity1_type": "ORG",
+      "entity2": "BRO",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "TIPT",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "TIPT",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "TIPT",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "TIPT",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "TIPT",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "TIPT",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brown",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brown",
+      "entity1_type": "ORG",
+      "entity2": "Brown",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brown",
+      "entity1_type": "ORG",
+      "entity2": "BRO",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brown",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brown",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brown",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brown",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brown",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brown",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Brown",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "BRO",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brown",
+      "entity1_type": "ORG",
+      "entity2": "BRO",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brown",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brown",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brown",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brown",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brown",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brown",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "BRO",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "BRO",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "BRO",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "BRO",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "BRO",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "BRO",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ago",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ago",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AI",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "recent peer-comparison reports",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the company’s operational strengths",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "attractive risk/reward profile",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Hannover Rück",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "stronger revenue growth",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "higher operating margins",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a lower combined ratio",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its industry-leading efficiency",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "underwriting discipline",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Hannover Ruck",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Tiptree Financial",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a marginally higher dividend yield",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Brown & Brown’s larger scale",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "broader product mix",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "consistent dividend growth track record",
+      "type": "noun_chunk",
+      "category": "trend"
+    },
+    {
+      "text": "Tiptree Financial",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "revenue",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "growth",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "growth",
+      "type": "pattern",
+      "category": "financial_metric"
+    }
+  ],
+  "important_sentences": [
+    {
+      "text": "Head to Head Survey: Tiptree Financial (NASDAQ:TIPT) versus Brown & Brown (NYSE:BRO)\nPosted 1+ days ago\nAI Generated.",
+      "importance_score": 49,
+      "entity_count": 13,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 5,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "A head-to-head survey comparing BRO with Tiptree Financial (NASDAQ:TIPT) notes that while Tiptree currently offers a marginally higher dividend yield, Brown & Brown’s larger scale, broader product mix and consistent dividend growth track record may appeal more to investors seeking stability.",
+      "importance_score": 44,
+      "entity_count": 8,
+      "financial_keyword_count": 4,
+      "money_count": 0,
+      "company_count": 4,
+      "sentiment": "positive"
+    },
+    {
+      "text": "In a detailed head-to-head analysis against Hannover Rück (OTCMKTS:HVRRY), BRO was shown to deliver stronger revenue growth, higher operating margins and a lower combined ratio, highlighting its industry-leading efficiency and underwriting discipline.",
+      "importance_score": 32,
+      "entity_count": 4,
+      "financial_keyword_count": 4,
+      "money_count": 0,
+      "company_count": 3,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Head to Head Analysis: Brown & Brown (NYSE:BRO) vs. Hannover Ruck (OTCMKTS:HVRRY)\nNeutral Sentiment:",
+      "importance_score": 24,
+      "entity_count": 6,
+      "financial_keyword_count": 0,
+      "money_count": 0,
+      "company_count": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Brown & Brown, Inc. (NYSE: BRO) shares have ticked higher as recent peer-comparison reports underscore the company’s operational strengths and attractive risk/reward profile.",
+      "importance_score": 23,
+      "entity_count": 6,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    }
+  ],
+  "entity_statistics": {
+    "total_entities": 18,
+    "unique_entities": 12,
+    "type_counts": {
+      "ORG": 17,
+      "DATE": 1
+    },
+    "type_distribution": {
+      "ORG": 0.9444444444444444,
+      "DATE": 0.05555555555555555
+    },
+    "most_common_entities": [
+      [
+        "BRO",
+        5
+      ],
+      [
+        "Brown & Brown",
+        2
+      ],
+      [
+        "Tiptree Financial",
+        2
+      ],
+      [
+        "Brown & Brown, Inc.",
+        1
+      ],
+      [
+        "Hannover Rück",
+        1
+      ],
+      [
+        "HVRRY",
+        1
+      ],
+      [
+        "Hannover Ruck",
+        1
+      ],
+      [
+        "Tiptree",
+        1
+      ],
+      [
+        "Brown & Brown’s",
+        1
+      ],
+      [
+        "TIPT",
+        1
+      ]
+    ],
+    "entity_types_found": [
+      "ORG",
+      "DATE"
+    ],
+    "company_entities": 17,
+    "person_entities": 0,
+    "financial_entities": 0,
+    "entity_density": 0.12949640287769784
+  },
+  "financial_analysis": {
+    "money_amounts": [],
+    "percentages": [],
+    "companies": [
+      "Brown & Brown, Inc.",
+      "BRO",
+      "Hannover Rück",
+      "HVRRY",
+      "BRO",
+      "Brown & Brown",
+      "BRO",
+      "Hannover Ruck",
+      "BRO",
+      "Tiptree Financial",
+      "Tiptree",
+      "Brown & Brown’s",
+      "Tiptree Financial",
+      "TIPT",
+      "Brown & Brown",
+      "BRO",
+      "AI Generated"
+    ],
+    "people": [],
+    "dates": [
+      "1+ days ago"
+    ],
+    "financial_terms": [
+      "revenue",
+      "growth"
+    ],
+    "financial_metrics": [],
+    "market_indicators": []
+  },
+  "temporal_analysis": {
+    "dates": [
+      "1+ days ago"
+    ],
+    "time_expressions": [],
+    "temporal_relationships": [
+      "recent"
+    ],
+    "quarters": [],
+    "years": [],
+    "time_periods": []
+  },
+  "sentiment_analysis": {
+    "positive_words": 3,
+    "negative_words": 0,
+    "positive_ratio": 0.02158273381294964,
+    "negative_ratio": 0.0,
+    "sentiment_score": 0.02158273381294964,
+    "sentiment_label": "positive",
+    "sentiment_strength": 0.02158273381294964,
+    "confidence": 0.21582733812949642
+  },
+  "industry_analysis": {
+    "dominant_industry": "tech",
+    "industry_scores": {
+      "tech": 1,
+      "finance": 0,
+      "healthcare": 0,
+      "energy": 0,
+      "retail": 0,
+      "automotive": 0,
+      "media": 0,
+      "industrial": 0,
+      "real_estate": 0,
+      "telecom": 0,
+      "food_beverage": 0,
+      "travel": 0,
+      "education": 0,
+      "professional": 0,
+      "mining": 0,
+      "aerospace": 0,
+      "environmental": 0,
+      "cannabis": 0
+    },
+    "confidence": 1.0
+  },
+  "market_analysis": {
+    "market_sentiment": "bullish",
+    "bullish_indicators": 1,
+    "bearish_indicators": 0,
+    "market_conditions": {
+      "volatility": "normal",
+      "volume": "normal",
+      "trend": "bullish"
+    },
+    "trading_activity": "normal"
+  },
+  "competitor_analysis": {
+    "companies_mentioned": [
+      "Brown & Brown, Inc.",
+      "BRO",
+      "Hannover Rück",
+      "HVRRY",
+      "BRO",
+      "Brown & Brown",
+      "BRO",
+      "Hannover Ruck",
+      "BRO",
+      "Tiptree Financial",
+      "Tiptree",
+      "Brown & Brown’s",
+      "Tiptree Financial",
+      "TIPT",
+      "Brown & Brown",
+      "BRO",
+      "AI Generated"
+    ],
+    "competitive_context": [],
+    "competitor_count": 17,
+    "has_competitive_language": false
+  },
+  "risk_analysis": {
+    "risk_sentences": [
+      "Brown & Brown, Inc. (NYSE: BRO) shares have ticked higher as recent peer-comparison reports underscore the company’s operational strengths and attractive risk/reward profile."
+    ],
+    "risk_count": 1,
+    "risk_level": "low"
+  },
+  "opportunity_analysis": {
+    "opportunity_sentences": [
+      "In a detailed head-to-head analysis against Hannover Rück (OTCMKTS:HVRRY), BRO was shown to deliver stronger revenue growth, higher operating margins and a lower combined ratio, highlighting its industry-leading efficiency and underwriting discipline.",
+      "A head-to-head survey comparing BRO with Tiptree Financial (NASDAQ:TIPT) notes that while Tiptree currently offers a marginally higher dividend yield, Brown & Brown’s larger scale, broader product mix and consistent dividend growth track record may appeal more to investors seeking stability."
+    ],
+    "opportunity_count": 2,
+    "opportunity_level": "medium"
+  },
+  "processing_metadata": {
+    "timestamp": "2025-07-13T06:33:13.925253",
+    "model_used": "en_core_web_trf",
+    "text_length": 978
+  }
+}
