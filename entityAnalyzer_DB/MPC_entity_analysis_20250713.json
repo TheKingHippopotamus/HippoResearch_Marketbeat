@@ -1,0 +1,2618 @@
+{
+  "ticker": "MPC",
+  "entities": [
+    {
+      "text": "Marathon Petroleum",
+      "label": "ORG",
+      "start": 0,
+      "end": 18,
+      "sentence": "Marathon Petroleum (NYSE:MPC) shares are moving today as several analysts raised their price targets and the company reported operational updates at its refineries.",
+      "context": "Marathon Petroleum (NYSE:MPC) shares are moving today as several ana",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "MPC",
+      "label": "ORG",
+      "start": 25,
+      "end": 28,
+      "sentence": "Marathon Petroleum (NYSE:MPC) shares are moving today as several analysts raised their price targets and the company reported operational updates at its refineries.",
+      "context": "Marathon Petroleum (NYSE:MPC) shares are moving today as several analysts rais",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "today",
+      "label": "DATE",
+      "start": 48,
+      "end": 53,
+      "sentence": "Marathon Petroleum (NYSE:MPC) shares are moving today as several analysts raised their price targets and the company reported operational updates at its refineries.",
+      "context": "Marathon Petroleum (NYSE:MPC) shares are moving today as several analysts raised their price targets an",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Scotiabank",
+      "label": "ORG",
+      "start": 185,
+      "end": 195,
+      "sentence": "Positive Sentiment:\nScotiabank boosted its price target on MPC to $180.00 and kept a “sector outperform” rating.\nScotiabank Price Target Article\nPositive Sentiment:\nBarclays lifted its price target to $189.00 and assigned an “overweight” rating, signaling upside potential.",
+      "context": "al updates at its refineries.\nPositive Sentiment:\nScotiabank boosted its price target on MPC to $180.00 and ke",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "MPC",
+      "label": "ORG",
+      "start": 224,
+      "end": 227,
+      "sentence": "Positive Sentiment:\nScotiabank boosted its price target on MPC to $180.00 and kept a “sector outperform” rating.\nScotiabank Price Target Article\nPositive Sentiment:\nBarclays lifted its price target to $189.00 and assigned an “overweight” rating, signaling upside potential.",
+      "context": "Sentiment:\nScotiabank boosted its price target on MPC to $180.00 and kept a “sector outperform” rating.",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "180.00",
+      "label": "MONEY",
+      "start": 232,
+      "end": 238,
+      "sentence": "Positive Sentiment:\nScotiabank boosted its price target on MPC to $180.00 and kept a “sector outperform” rating.\nScotiabank Price Target Article\nPositive Sentiment:\nBarclays lifted its price target to $189.00 and assigned an “overweight” rating, signaling upside potential.",
+      "context": "t:\nScotiabank boosted its price target on MPC to $180.00 and kept a “sector outperform” rating.\nScotiabank",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Scotiabank",
+      "label": "ORG",
+      "start": 278,
+      "end": 288,
+      "sentence": "Positive Sentiment:\nScotiabank boosted its price target on MPC to $180.00 and kept a “sector outperform” rating.\nScotiabank Price Target Article\nPositive Sentiment:\nBarclays lifted its price target to $189.00 and assigned an “overweight” rating, signaling upside potential.",
+      "context": "to $180.00 and kept a “sector outperform” rating.\nScotiabank Price Target Article\nPositive Sentiment:\nBarclays",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Barclays",
+      "label": "ORG",
+      "start": 330,
+      "end": 338,
+      "sentence": "Positive Sentiment:\nScotiabank boosted its price target on MPC to $180.00 and kept a “sector outperform” rating.\nScotiabank Price Target Article\nPositive Sentiment:\nBarclays lifted its price target to $189.00 and assigned an “overweight” rating, signaling upside potential.",
+      "context": "otiabank Price Target Article\nPositive Sentiment:\nBarclays lifted its price target to $189.00 and assigned a",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "189.00",
+      "label": "MONEY",
+      "start": 367,
+      "end": 373,
+      "sentence": "Positive Sentiment:\nScotiabank boosted its price target on MPC to $180.00 and kept a “sector outperform” rating.\nScotiabank Price Target Article\nPositive Sentiment:\nBarclays lifted its price target to $189.00 and assigned an “overweight” rating, signaling upside potential.",
+      "context": "e Sentiment:\nBarclays lifted its price target to $189.00 and assigned an “overweight” rating, signaling up",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Barclays",
+      "label": "ORG",
+      "start": 439,
+      "end": 447,
+      "sentence": "Barclays Price Target Article\nPositive Sentiment:\nUBS Group increased its objective to $203.00 and maintained a “buy” rating on the stock.",
+      "context": "“overweight” rating, signaling upside potential.\nBarclays Price Target Article\nPositive Sentiment:\nUBS Grou",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "UBS Group",
+      "label": "ORG",
+      "start": 489,
+      "end": 498,
+      "sentence": "Barclays Price Target Article\nPositive Sentiment:\nUBS Group increased its objective to $203.00 and maintained a “buy” rating on the stock.",
+      "context": "Barclays Price Target Article\nPositive Sentiment:\nUBS Group increased its objective to $203.00 and maintained",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "203.00",
+      "label": "MONEY",
+      "start": 527,
+      "end": 533,
+      "sentence": "Barclays Price Target Article\nPositive Sentiment:\nUBS Group increased its objective to $203.00 and maintained a “buy” rating on the stock.",
+      "context": "Sentiment:\nUBS Group increased its objective to $203.00 and maintained a “buy” rating on the stock.\nUBS P",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "UBS Price Target",
+      "label": "ORG",
+      "start": 578,
+      "end": 594,
+      "sentence": "UBS Price Target Article\nPositive Sentiment:",
+      "context": "03.00 and maintained a “buy” rating on the stock.\nUBS Price Target Article\nPositive Sentiment:\nWells Fargo & Company",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Wells Fargo & Company",
+      "label": "ORG",
+      "start": 623,
+      "end": 644,
+      "sentence": "Wells Fargo & Company raised its target to $205.00 and reiterated an “overweight” stance.",
+      "context": "ock.\nUBS Price Target Article\nPositive Sentiment:\nWells Fargo & Company raised its target to $205.00 and reiterated an “o",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "205.00",
+      "label": "MONEY",
+      "start": 667,
+      "end": 673,
+      "sentence": "Wells Fargo & Company raised its target to $205.00 and reiterated an “overweight” stance.",
+      "context": "ment:\nWells Fargo & Company raised its target to $205.00 and reiterated an “overweight” stance.\nWells Farg",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Wells Fargo Forecast",
+      "label": "ORG",
+      "start": 713,
+      "end": 733,
+      "sentence": "Wells Fargo Forecast Article\nNeutral Sentiment:\nPiper Sandler upped its target to $175.00 but kept a “neutral” rating, indicating limited near-term upside.",
+      "context": "to $205.00 and reiterated an “overweight” stance.\nWells Fargo Forecast Article\nNeutral Sentiment:\nPiper Sandler upped it",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Piper Sandler",
+      "label": "ORG",
+      "start": 761,
+      "end": 774,
+      "sentence": "Wells Fargo Forecast Article\nNeutral Sentiment:\nPiper Sandler upped its target to $175.00 but kept a “neutral” rating, indicating limited near-term upside.",
+      "context": ".\nWells Fargo Forecast Article\nNeutral Sentiment:\nPiper Sandler upped its target to $175.00 but kept a “neutral”",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "175.00",
+      "label": "MONEY",
+      "start": 796,
+      "end": 802,
+      "sentence": "Wells Fargo Forecast Article\nNeutral Sentiment:\nPiper Sandler upped its target to $175.00 but kept a “neutral” rating, indicating limited near-term upside.",
+      "context": "ral Sentiment:\nPiper Sandler upped its target to $175.00 but kept a “neutral” rating, indicating limited n",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Piper Sandler",
+      "label": "ORG",
+      "start": 869,
+      "end": 882,
+      "sentence": "Piper Sandler Price Target Article\nNeutral Sentiment:",
+      "context": "ral” rating, indicating limited near-term upside.\nPiper Sandler Price Target Article\nNeutral Sentiment:\nMPLX LP,",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "MPLX LP",
+      "label": "ORG",
+      "start": 923,
+      "end": 930,
+      "sentence": "MPLX LP, MPC’s midstream affiliate, reported strong earnings and boosted dividend reliability, which may offer indirect support to MPC.",
+      "context": "r Sandler Price Target Article\nNeutral Sentiment:\nMPLX LP, MPC’s midstream affiliate, reported strong earni",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "MPC",
+      "label": "ORG",
+      "start": 932,
+      "end": 935,
+      "sentence": "MPLX LP, MPC’s midstream affiliate, reported strong earnings and boosted dividend reliability, which may offer indirect support to MPC.",
+      "context": "Price Target Article\nNeutral Sentiment:\nMPLX LP, MPC’s midstream affiliate, reported strong earnings a",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "MPC",
+      "label": "ORG",
+      "start": 1054,
+      "end": 1057,
+      "sentence": "MPLX LP, MPC’s midstream affiliate, reported strong earnings and boosted dividend reliability, which may offer indirect support to MPC.",
+      "context": "reliability, which may offer indirect support to MPC.\nMPLX Dividend Reliability Article\nNegative Senti",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "MPLX Dividend Reliability Article",
+      "label": "ORG",
+      "start": 1059,
+      "end": 1092,
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "context": "ability, which may offer indirect support to MPC.\nMPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage cau",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "MPC",
+      "label": "ORG",
+      "start": 1160,
+      "end": 1163,
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "context": "t:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-ter",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "El Paso",
+      "label": "GPE",
+      "start": 1166,
+      "end": 1173,
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "context": "unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughp",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "El Paso Refinery Outage",
+      "label": "ORG",
+      "start": 1227,
+      "end": 1250,
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "context": "inery, potentially trimming near-term throughput.\nEl Paso Refinery Outage Article\nNegative Sentiment:\nMPC will hold a commu",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "MPC",
+      "label": "ORG",
+      "start": 1279,
+      "end": 1282,
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "context": "Paso Refinery Outage Article\nNegative Sentiment:\nMPC will hold a community advisory meeting to address",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Texas City",
+      "label": "GPE",
+      "start": 1354,
+      "end": 1364,
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "context": "advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "Texas City Refinery Fire",
+      "label": "FAC",
+      "start": 1414,
+      "end": 1438,
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "context": "refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated. May Cont",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "1+ days ago",
+      "label": "DATE",
+      "start": 1454,
+      "end": 1465,
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "context": "concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    }
+  ],
+  "relationships": [
+    {
+      "type": "SVO",
+      "subject": "analysts",
+      "verb": "raised",
+      "object": "targets",
+      "sentence": "Marathon Petroleum (NYSE:MPC) shares are moving today as several analysts raised their price targets and the company reported operational updates at its refineries.",
+      "importance": 4
+    },
+    {
+      "type": "SVO",
+      "subject": "company",
+      "verb": "reported",
+      "object": "updates",
+      "sentence": "Marathon Petroleum (NYSE:MPC) shares are moving today as several analysts raised their price targets and the company reported operational updates at its refineries.",
+      "importance": 4
+    },
+    {
+      "type": "SVO",
+      "subject": "Scotiabank",
+      "verb": "boosted",
+      "object": "target",
+      "sentence": "Positive Sentiment:\nScotiabank boosted its price target on MPC to $180.00 and kept a “sector outperform” rating.\nScotiabank Price Target Article\nPositive Sentiment:\nBarclays lifted its price target to $189.00 and assigned an “overweight” rating, signaling upside potential.",
+      "importance": 13
+    },
+    {
+      "type": "SVO",
+      "subject": "Barclays",
+      "verb": "lifted",
+      "object": "target",
+      "sentence": "Positive Sentiment:\nScotiabank boosted its price target on MPC to $180.00 and kept a “sector outperform” rating.\nScotiabank Price Target Article\nPositive Sentiment:\nBarclays lifted its price target to $189.00 and assigned an “overweight” rating, signaling upside potential.",
+      "importance": 13
+    },
+    {
+      "type": "SVO",
+      "subject": "Group",
+      "verb": "increased",
+      "object": "objective",
+      "sentence": "Barclays Price Target Article\nPositive Sentiment:\nUBS Group increased its objective to $203.00 and maintained a “buy” rating on the stock.",
+      "importance": 8
+    },
+    {
+      "type": "SVO",
+      "subject": "Fargo",
+      "verb": "raised",
+      "object": "target",
+      "sentence": "Wells Fargo & Company raised its target to $205.00 and reiterated an “overweight” stance.",
+      "importance": 6
+    },
+    {
+      "type": "SVO",
+      "subject": "Fargo",
+      "verb": "upped",
+      "object": "target",
+      "sentence": "Wells Fargo Forecast Article\nNeutral Sentiment:\nPiper Sandler upped its target to $175.00 but kept a “neutral” rating, indicating limited near-term upside.",
+      "importance": 9
+    },
+    {
+      "type": "SVO",
+      "subject": "Sandler",
+      "verb": "upped",
+      "object": "target",
+      "sentence": "Wells Fargo Forecast Article\nNeutral Sentiment:\nPiper Sandler upped its target to $175.00 but kept a “neutral” rating, indicating limited near-term upside.",
+      "importance": 9
+    },
+    {
+      "type": "SVO",
+      "subject": "LP",
+      "verb": "reported",
+      "object": "earnings",
+      "sentence": "MPLX LP, MPC’s midstream affiliate, reported strong earnings and boosted dividend reliability, which may offer indirect support to MPC.",
+      "importance": 6
+    },
+    {
+      "type": "SVO",
+      "subject": "which",
+      "verb": "offer",
+      "object": "support",
+      "sentence": "MPLX LP, MPC’s midstream affiliate, reported strong earnings and boosted dividend reliability, which may offer indirect support to MPC.",
+      "importance": 6
+    },
+    {
+      "type": "SVO",
+      "subject": "outage",
+      "verb": "caused",
+      "object": "shutdown",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "importance": 12
+    },
+    {
+      "type": "SVO",
+      "subject": "MPC",
+      "verb": "hold",
+      "object": "meeting",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "importance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Marathon",
+      "entity1_type": "ORG",
+      "entity2": "Petroleum",
+      "entity2_type": "ORG",
+      "sentence": "Marathon Petroleum (NYSE:MPC) shares are moving today as several analysts raised their price targets and the company reported operational updates at its refineries.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Marathon",
+      "entity1_type": "ORG",
+      "entity2": "MPC",
+      "entity2_type": "ORG",
+      "sentence": "Marathon Petroleum (NYSE:MPC) shares are moving today as several analysts raised their price targets and the company reported operational updates at its refineries.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Marathon",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "Marathon Petroleum (NYSE:MPC) shares are moving today as several analysts raised their price targets and the company reported operational updates at its refineries.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Petroleum",
+      "entity1_type": "ORG",
+      "entity2": "MPC",
+      "entity2_type": "ORG",
+      "sentence": "Marathon Petroleum (NYSE:MPC) shares are moving today as several analysts raised their price targets and the company reported operational updates at its refineries.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Petroleum",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "Marathon Petroleum (NYSE:MPC) shares are moving today as several analysts raised their price targets and the company reported operational updates at its refineries.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MPC",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "Marathon Petroleum (NYSE:MPC) shares are moving today as several analysts raised their price targets and the company reported operational updates at its refineries.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Scotiabank",
+      "entity1_type": "ORG",
+      "entity2": "MPC",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nScotiabank boosted its price target on MPC to $180.00 and kept a “sector outperform” rating.\nScotiabank Price Target Article\nPositive Sentiment:\nBarclays lifted its price target to $189.00 and assigned an “overweight” rating, signaling upside potential.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Scotiabank",
+      "entity1_type": "ORG",
+      "entity2": "180.00",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nScotiabank boosted its price target on MPC to $180.00 and kept a “sector outperform” rating.\nScotiabank Price Target Article\nPositive Sentiment:\nBarclays lifted its price target to $189.00 and assigned an “overweight” rating, signaling upside potential.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Scotiabank",
+      "entity1_type": "ORG",
+      "entity2": "Scotiabank",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nScotiabank boosted its price target on MPC to $180.00 and kept a “sector outperform” rating.\nScotiabank Price Target Article\nPositive Sentiment:\nBarclays lifted its price target to $189.00 and assigned an “overweight” rating, signaling upside potential.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Scotiabank",
+      "entity1_type": "ORG",
+      "entity2": "Barclays",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nScotiabank boosted its price target on MPC to $180.00 and kept a “sector outperform” rating.\nScotiabank Price Target Article\nPositive Sentiment:\nBarclays lifted its price target to $189.00 and assigned an “overweight” rating, signaling upside potential.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Scotiabank",
+      "entity1_type": "ORG",
+      "entity2": "189.00",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nScotiabank boosted its price target on MPC to $180.00 and kept a “sector outperform” rating.\nScotiabank Price Target Article\nPositive Sentiment:\nBarclays lifted its price target to $189.00 and assigned an “overweight” rating, signaling upside potential.",
+      "distance": 36
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MPC",
+      "entity1_type": "ORG",
+      "entity2": "180.00",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nScotiabank boosted its price target on MPC to $180.00 and kept a “sector outperform” rating.\nScotiabank Price Target Article\nPositive Sentiment:\nBarclays lifted its price target to $189.00 and assigned an “overweight” rating, signaling upside potential.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MPC",
+      "entity1_type": "ORG",
+      "entity2": "Scotiabank",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nScotiabank boosted its price target on MPC to $180.00 and kept a “sector outperform” rating.\nScotiabank Price Target Article\nPositive Sentiment:\nBarclays lifted its price target to $189.00 and assigned an “overweight” rating, signaling upside potential.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MPC",
+      "entity1_type": "ORG",
+      "entity2": "Barclays",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nScotiabank boosted its price target on MPC to $180.00 and kept a “sector outperform” rating.\nScotiabank Price Target Article\nPositive Sentiment:\nBarclays lifted its price target to $189.00 and assigned an “overweight” rating, signaling upside potential.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MPC",
+      "entity1_type": "ORG",
+      "entity2": "189.00",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nScotiabank boosted its price target on MPC to $180.00 and kept a “sector outperform” rating.\nScotiabank Price Target Article\nPositive Sentiment:\nBarclays lifted its price target to $189.00 and assigned an “overweight” rating, signaling upside potential.",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "180.00",
+      "entity1_type": "MONEY",
+      "entity2": "Scotiabank",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nScotiabank boosted its price target on MPC to $180.00 and kept a “sector outperform” rating.\nScotiabank Price Target Article\nPositive Sentiment:\nBarclays lifted its price target to $189.00 and assigned an “overweight” rating, signaling upside potential.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "180.00",
+      "entity1_type": "MONEY",
+      "entity2": "Barclays",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nScotiabank boosted its price target on MPC to $180.00 and kept a “sector outperform” rating.\nScotiabank Price Target Article\nPositive Sentiment:\nBarclays lifted its price target to $189.00 and assigned an “overweight” rating, signaling upside potential.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "180.00",
+      "entity1_type": "MONEY",
+      "entity2": "189.00",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nScotiabank boosted its price target on MPC to $180.00 and kept a “sector outperform” rating.\nScotiabank Price Target Article\nPositive Sentiment:\nBarclays lifted its price target to $189.00 and assigned an “overweight” rating, signaling upside potential.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Scotiabank",
+      "entity1_type": "ORG",
+      "entity2": "Barclays",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nScotiabank boosted its price target on MPC to $180.00 and kept a “sector outperform” rating.\nScotiabank Price Target Article\nPositive Sentiment:\nBarclays lifted its price target to $189.00 and assigned an “overweight” rating, signaling upside potential.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Scotiabank",
+      "entity1_type": "ORG",
+      "entity2": "189.00",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nScotiabank boosted its price target on MPC to $180.00 and kept a “sector outperform” rating.\nScotiabank Price Target Article\nPositive Sentiment:\nBarclays lifted its price target to $189.00 and assigned an “overweight” rating, signaling upside potential.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "189.00",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nScotiabank boosted its price target on MPC to $180.00 and kept a “sector outperform” rating.\nScotiabank Price Target Article\nPositive Sentiment:\nBarclays lifted its price target to $189.00 and assigned an “overweight” rating, signaling upside potential.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "UBS",
+      "entity2_type": "ORG",
+      "sentence": "Barclays Price Target Article\nPositive Sentiment:\nUBS Group increased its objective to $203.00 and maintained a “buy” rating on the stock.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "Group",
+      "entity2_type": "ORG",
+      "sentence": "Barclays Price Target Article\nPositive Sentiment:\nUBS Group increased its objective to $203.00 and maintained a “buy” rating on the stock.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "203.00",
+      "entity2_type": "MONEY",
+      "sentence": "Barclays Price Target Article\nPositive Sentiment:\nUBS Group increased its objective to $203.00 and maintained a “buy” rating on the stock.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UBS",
+      "entity1_type": "ORG",
+      "entity2": "Group",
+      "entity2_type": "ORG",
+      "sentence": "Barclays Price Target Article\nPositive Sentiment:\nUBS Group increased its objective to $203.00 and maintained a “buy” rating on the stock.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UBS",
+      "entity1_type": "ORG",
+      "entity2": "203.00",
+      "entity2_type": "MONEY",
+      "sentence": "Barclays Price Target Article\nPositive Sentiment:\nUBS Group increased its objective to $203.00 and maintained a “buy” rating on the stock.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Group",
+      "entity1_type": "ORG",
+      "entity2": "203.00",
+      "entity2_type": "MONEY",
+      "sentence": "Barclays Price Target Article\nPositive Sentiment:\nUBS Group increased its objective to $203.00 and maintained a “buy” rating on the stock.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UBS",
+      "entity1_type": "ORG",
+      "entity2": "Price",
+      "entity2_type": "ORG",
+      "sentence": "UBS Price Target Article\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UBS",
+      "entity1_type": "ORG",
+      "entity2": "Target",
+      "entity2_type": "ORG",
+      "sentence": "UBS Price Target Article\nPositive Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Price",
+      "entity1_type": "ORG",
+      "entity2": "Target",
+      "entity2_type": "ORG",
+      "sentence": "UBS Price Target Article\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Fargo",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company raised its target to $205.00 and reiterated an “overweight” stance.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company raised its target to $205.00 and reiterated an “overweight” stance.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company raised its target to $205.00 and reiterated an “overweight” stance.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "205.00",
+      "entity2_type": "MONEY",
+      "sentence": "Wells Fargo & Company raised its target to $205.00 and reiterated an “overweight” stance.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company raised its target to $205.00 and reiterated an “overweight” stance.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company raised its target to $205.00 and reiterated an “overweight” stance.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "205.00",
+      "entity2_type": "MONEY",
+      "sentence": "Wells Fargo & Company raised its target to $205.00 and reiterated an “overweight” stance.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company raised its target to $205.00 and reiterated an “overweight” stance.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "205.00",
+      "entity2_type": "MONEY",
+      "sentence": "Wells Fargo & Company raised its target to $205.00 and reiterated an “overweight” stance.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Company",
+      "entity1_type": "ORG",
+      "entity2": "205.00",
+      "entity2_type": "MONEY",
+      "sentence": "Wells Fargo & Company raised its target to $205.00 and reiterated an “overweight” stance.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Fargo",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo Forecast Article\nNeutral Sentiment:\nPiper Sandler upped its target to $175.00 but kept a “neutral” rating, indicating limited near-term upside.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Forecast",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo Forecast Article\nNeutral Sentiment:\nPiper Sandler upped its target to $175.00 but kept a “neutral” rating, indicating limited near-term upside.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Piper",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo Forecast Article\nNeutral Sentiment:\nPiper Sandler upped its target to $175.00 but kept a “neutral” rating, indicating limited near-term upside.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Sandler",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo Forecast Article\nNeutral Sentiment:\nPiper Sandler upped its target to $175.00 but kept a “neutral” rating, indicating limited near-term upside.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "175.00",
+      "entity2_type": "MONEY",
+      "sentence": "Wells Fargo Forecast Article\nNeutral Sentiment:\nPiper Sandler upped its target to $175.00 but kept a “neutral” rating, indicating limited near-term upside.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "Forecast",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo Forecast Article\nNeutral Sentiment:\nPiper Sandler upped its target to $175.00 but kept a “neutral” rating, indicating limited near-term upside.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "Piper",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo Forecast Article\nNeutral Sentiment:\nPiper Sandler upped its target to $175.00 but kept a “neutral” rating, indicating limited near-term upside.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "Sandler",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo Forecast Article\nNeutral Sentiment:\nPiper Sandler upped its target to $175.00 but kept a “neutral” rating, indicating limited near-term upside.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "175.00",
+      "entity2_type": "MONEY",
+      "sentence": "Wells Fargo Forecast Article\nNeutral Sentiment:\nPiper Sandler upped its target to $175.00 but kept a “neutral” rating, indicating limited near-term upside.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Forecast",
+      "entity1_type": "ORG",
+      "entity2": "Piper",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo Forecast Article\nNeutral Sentiment:\nPiper Sandler upped its target to $175.00 but kept a “neutral” rating, indicating limited near-term upside.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Forecast",
+      "entity1_type": "ORG",
+      "entity2": "Sandler",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo Forecast Article\nNeutral Sentiment:\nPiper Sandler upped its target to $175.00 but kept a “neutral” rating, indicating limited near-term upside.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Forecast",
+      "entity1_type": "ORG",
+      "entity2": "175.00",
+      "entity2_type": "MONEY",
+      "sentence": "Wells Fargo Forecast Article\nNeutral Sentiment:\nPiper Sandler upped its target to $175.00 but kept a “neutral” rating, indicating limited near-term upside.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Piper",
+      "entity1_type": "ORG",
+      "entity2": "Sandler",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo Forecast Article\nNeutral Sentiment:\nPiper Sandler upped its target to $175.00 but kept a “neutral” rating, indicating limited near-term upside.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Piper",
+      "entity1_type": "ORG",
+      "entity2": "175.00",
+      "entity2_type": "MONEY",
+      "sentence": "Wells Fargo Forecast Article\nNeutral Sentiment:\nPiper Sandler upped its target to $175.00 but kept a “neutral” rating, indicating limited near-term upside.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sandler",
+      "entity1_type": "ORG",
+      "entity2": "175.00",
+      "entity2_type": "MONEY",
+      "sentence": "Wells Fargo Forecast Article\nNeutral Sentiment:\nPiper Sandler upped its target to $175.00 but kept a “neutral” rating, indicating limited near-term upside.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Piper",
+      "entity1_type": "ORG",
+      "entity2": "Sandler",
+      "entity2_type": "ORG",
+      "sentence": "Piper Sandler Price Target Article\nNeutral Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MPLX",
+      "entity1_type": "ORG",
+      "entity2": "LP",
+      "entity2_type": "ORG",
+      "sentence": "MPLX LP, MPC’s midstream affiliate, reported strong earnings and boosted dividend reliability, which may offer indirect support to MPC.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MPLX",
+      "entity1_type": "ORG",
+      "entity2": "MPC",
+      "entity2_type": "ORG",
+      "sentence": "MPLX LP, MPC’s midstream affiliate, reported strong earnings and boosted dividend reliability, which may offer indirect support to MPC.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MPLX",
+      "entity1_type": "ORG",
+      "entity2": "MPC",
+      "entity2_type": "ORG",
+      "sentence": "MPLX LP, MPC’s midstream affiliate, reported strong earnings and boosted dividend reliability, which may offer indirect support to MPC.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "LP",
+      "entity1_type": "ORG",
+      "entity2": "MPC",
+      "entity2_type": "ORG",
+      "sentence": "MPLX LP, MPC’s midstream affiliate, reported strong earnings and boosted dividend reliability, which may offer indirect support to MPC.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "LP",
+      "entity1_type": "ORG",
+      "entity2": "MPC",
+      "entity2_type": "ORG",
+      "sentence": "MPLX LP, MPC’s midstream affiliate, reported strong earnings and boosted dividend reliability, which may offer indirect support to MPC.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MPC",
+      "entity1_type": "ORG",
+      "entity2": "MPC",
+      "entity2_type": "ORG",
+      "sentence": "MPLX LP, MPC’s midstream affiliate, reported strong earnings and boosted dividend reliability, which may offer indirect support to MPC.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MPLX",
+      "entity1_type": "ORG",
+      "entity2": "Dividend",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MPLX",
+      "entity1_type": "ORG",
+      "entity2": "Reliability",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MPLX",
+      "entity1_type": "ORG",
+      "entity2": "Article",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MPLX",
+      "entity1_type": "ORG",
+      "entity2": "MPC",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MPLX",
+      "entity1_type": "ORG",
+      "entity2": "El",
+      "entity2_type": "GPE",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MPLX",
+      "entity1_type": "ORG",
+      "entity2": "Paso",
+      "entity2_type": "GPE",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MPLX",
+      "entity1_type": "ORG",
+      "entity2": "El",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MPLX",
+      "entity1_type": "ORG",
+      "entity2": "Paso",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 32
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MPLX",
+      "entity1_type": "ORG",
+      "entity2": "Refinery",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 33
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MPLX",
+      "entity1_type": "ORG",
+      "entity2": "Outage",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 34
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Dividend",
+      "entity1_type": "ORG",
+      "entity2": "Reliability",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Dividend",
+      "entity1_type": "ORG",
+      "entity2": "Article",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Dividend",
+      "entity1_type": "ORG",
+      "entity2": "MPC",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Dividend",
+      "entity1_type": "ORG",
+      "entity2": "El",
+      "entity2_type": "GPE",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Dividend",
+      "entity1_type": "ORG",
+      "entity2": "Paso",
+      "entity2_type": "GPE",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Dividend",
+      "entity1_type": "ORG",
+      "entity2": "El",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Dividend",
+      "entity1_type": "ORG",
+      "entity2": "Paso",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Dividend",
+      "entity1_type": "ORG",
+      "entity2": "Refinery",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 32
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Dividend",
+      "entity1_type": "ORG",
+      "entity2": "Outage",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 33
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Reliability",
+      "entity1_type": "ORG",
+      "entity2": "Article",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Reliability",
+      "entity1_type": "ORG",
+      "entity2": "MPC",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Reliability",
+      "entity1_type": "ORG",
+      "entity2": "El",
+      "entity2_type": "GPE",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Reliability",
+      "entity1_type": "ORG",
+      "entity2": "Paso",
+      "entity2_type": "GPE",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Reliability",
+      "entity1_type": "ORG",
+      "entity2": "El",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Reliability",
+      "entity1_type": "ORG",
+      "entity2": "Paso",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Reliability",
+      "entity1_type": "ORG",
+      "entity2": "Refinery",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Reliability",
+      "entity1_type": "ORG",
+      "entity2": "Outage",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 32
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Article",
+      "entity1_type": "ORG",
+      "entity2": "MPC",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Article",
+      "entity1_type": "ORG",
+      "entity2": "El",
+      "entity2_type": "GPE",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Article",
+      "entity1_type": "ORG",
+      "entity2": "Paso",
+      "entity2_type": "GPE",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Article",
+      "entity1_type": "ORG",
+      "entity2": "El",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Article",
+      "entity1_type": "ORG",
+      "entity2": "Paso",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Article",
+      "entity1_type": "ORG",
+      "entity2": "Refinery",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Article",
+      "entity1_type": "ORG",
+      "entity2": "Outage",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MPC",
+      "entity1_type": "ORG",
+      "entity2": "El",
+      "entity2_type": "GPE",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MPC",
+      "entity1_type": "ORG",
+      "entity2": "Paso",
+      "entity2_type": "GPE",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MPC",
+      "entity1_type": "ORG",
+      "entity2": "El",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MPC",
+      "entity1_type": "ORG",
+      "entity2": "Paso",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MPC",
+      "entity1_type": "ORG",
+      "entity2": "Refinery",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MPC",
+      "entity1_type": "ORG",
+      "entity2": "Outage",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "El",
+      "entity1_type": "GPE",
+      "entity2": "Paso",
+      "entity2_type": "GPE",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "El",
+      "entity1_type": "GPE",
+      "entity2": "El",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "El",
+      "entity1_type": "GPE",
+      "entity2": "Paso",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "El",
+      "entity1_type": "GPE",
+      "entity2": "Refinery",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "El",
+      "entity1_type": "GPE",
+      "entity2": "Outage",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Paso",
+      "entity1_type": "GPE",
+      "entity2": "El",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Paso",
+      "entity1_type": "GPE",
+      "entity2": "Paso",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Paso",
+      "entity1_type": "GPE",
+      "entity2": "Refinery",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Paso",
+      "entity1_type": "GPE",
+      "entity2": "Outage",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "El",
+      "entity1_type": "ORG",
+      "entity2": "Paso",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "El",
+      "entity1_type": "ORG",
+      "entity2": "Refinery",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "El",
+      "entity1_type": "ORG",
+      "entity2": "Outage",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Paso",
+      "entity1_type": "ORG",
+      "entity2": "Refinery",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Paso",
+      "entity1_type": "ORG",
+      "entity2": "Outage",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Refinery",
+      "entity1_type": "ORG",
+      "entity2": "Outage",
+      "entity2_type": "ORG",
+      "sentence": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MPC",
+      "entity1_type": "ORG",
+      "entity2": "Texas",
+      "entity2_type": "GPE",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MPC",
+      "entity1_type": "ORG",
+      "entity2": "City",
+      "entity2_type": "GPE",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MPC",
+      "entity1_type": "ORG",
+      "entity2": "Texas",
+      "entity2_type": "FAC",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MPC",
+      "entity1_type": "ORG",
+      "entity2": "City",
+      "entity2_type": "FAC",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MPC",
+      "entity1_type": "ORG",
+      "entity2": "Refinery",
+      "entity2_type": "FAC",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MPC",
+      "entity1_type": "ORG",
+      "entity2": "Fire",
+      "entity2_type": "FAC",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MPC",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MPC",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 32
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MPC",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 33
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MPC",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 34
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Texas",
+      "entity1_type": "GPE",
+      "entity2": "City",
+      "entity2_type": "GPE",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Texas",
+      "entity1_type": "GPE",
+      "entity2": "Texas",
+      "entity2_type": "FAC",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Texas",
+      "entity1_type": "GPE",
+      "entity2": "City",
+      "entity2_type": "FAC",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Texas",
+      "entity1_type": "GPE",
+      "entity2": "Refinery",
+      "entity2_type": "FAC",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Texas",
+      "entity1_type": "GPE",
+      "entity2": "Fire",
+      "entity2_type": "FAC",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Texas",
+      "entity1_type": "GPE",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Texas",
+      "entity1_type": "GPE",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Texas",
+      "entity1_type": "GPE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Texas",
+      "entity1_type": "GPE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "City",
+      "entity1_type": "GPE",
+      "entity2": "Texas",
+      "entity2_type": "FAC",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "City",
+      "entity1_type": "GPE",
+      "entity2": "City",
+      "entity2_type": "FAC",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "City",
+      "entity1_type": "GPE",
+      "entity2": "Refinery",
+      "entity2_type": "FAC",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "City",
+      "entity1_type": "GPE",
+      "entity2": "Fire",
+      "entity2_type": "FAC",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "City",
+      "entity1_type": "GPE",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "City",
+      "entity1_type": "GPE",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "City",
+      "entity1_type": "GPE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "City",
+      "entity1_type": "GPE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Texas",
+      "entity1_type": "FAC",
+      "entity2": "City",
+      "entity2_type": "FAC",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Texas",
+      "entity1_type": "FAC",
+      "entity2": "Refinery",
+      "entity2_type": "FAC",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Texas",
+      "entity1_type": "FAC",
+      "entity2": "Fire",
+      "entity2_type": "FAC",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Texas",
+      "entity1_type": "FAC",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Texas",
+      "entity1_type": "FAC",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Texas",
+      "entity1_type": "FAC",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Texas",
+      "entity1_type": "FAC",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "City",
+      "entity1_type": "FAC",
+      "entity2": "Refinery",
+      "entity2_type": "FAC",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "City",
+      "entity1_type": "FAC",
+      "entity2": "Fire",
+      "entity2_type": "FAC",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "City",
+      "entity1_type": "FAC",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "City",
+      "entity1_type": "FAC",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "City",
+      "entity1_type": "FAC",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "City",
+      "entity1_type": "FAC",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Refinery",
+      "entity1_type": "FAC",
+      "entity2": "Fire",
+      "entity2_type": "FAC",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Refinery",
+      "entity1_type": "FAC",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Refinery",
+      "entity1_type": "FAC",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Refinery",
+      "entity1_type": "FAC",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Refinery",
+      "entity1_type": "FAC",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fire",
+      "entity1_type": "FAC",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fire",
+      "entity1_type": "FAC",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fire",
+      "entity1_type": "FAC",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fire",
+      "entity1_type": "FAC",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "several analysts",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "their price targets",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the company",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "operational updates",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its refineries",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its price target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a “sector outperform” rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Scotiabank Price Target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its price target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "an “overweight” rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "upside potential",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Barclays Price Target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Article\nPositive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "UBS Group",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its objective",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a “buy” rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the stock",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "UBS Price Target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Wells Fargo",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "an “overweight” stance",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Wells Fargo",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Piper Sandler",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a “neutral” rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "limited near-term upside",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Piper Sandler Price Target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "MPLX LP",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "MPC’s midstream affiliate",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "strong earnings",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "dividend reliability",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "indirect support",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "MPLX Dividend Reliability Article",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "An unplanned power outage",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a shutdown",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "MPC’s El Paso refinery",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "near-term throughput",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "El Paso Refinery Outage",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a community advisory meeting",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a recent fire",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its Texas City refinery",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "operational risk concerns",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Texas City Refinery Fire",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "$180.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$189.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$203.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$205.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$175.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "stock",
+      "type": "pattern",
+      "category": "market_term"
+    }
+  ],
+  "important_sentences": [
+    {
+      "text": "Positive Sentiment:\nScotiabank boosted its price target on MPC to $180.00 and kept a “sector outperform” rating.\nScotiabank Price Target Article\nPositive Sentiment:\nBarclays lifted its price target to $189.00 and assigned an “overweight” rating, signaling upside potential.",
+      "importance_score": 59,
+      "entity_count": 6,
+      "financial_keyword_count": 7,
+      "money_count": 2,
+      "company_count": 4,
+      "sentiment": "positive"
+    },
+    {
+      "text": "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage",
+      "importance_score": 37,
+      "entity_count": 11,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 3,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated.",
+      "importance_score": 35,
+      "entity_count": 11,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Wells Fargo Forecast Article\nNeutral Sentiment:\nPiper Sandler upped its target to $175.00 but kept a “neutral” rating, indicating limited near-term upside.",
+      "importance_score": 34,
+      "entity_count": 6,
+      "financial_keyword_count": 3,
+      "money_count": 1,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Barclays Price Target Article\nPositive Sentiment:\nUBS Group increased its objective to $203.00 and maintained a “buy” rating on the stock.",
+      "importance_score": 33,
+      "entity_count": 4,
+      "financial_keyword_count": 4,
+      "money_count": 1,
+      "company_count": 2,
+      "sentiment": "positive"
+    },
+    {
+      "text": "MPLX LP, MPC’s midstream affiliate, reported strong earnings and boosted dividend reliability, which may offer indirect support to MPC.",
+      "importance_score": 26,
+      "entity_count": 4,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 3,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Wells Fargo & Company raised its target to $205.00 and reiterated an “overweight” stance.",
+      "importance_score": 22,
+      "entity_count": 5,
+      "financial_keyword_count": 1,
+      "money_count": 1,
+      "company_count": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Marathon Petroleum (NYSE:MPC) shares are moving today as several analysts raised their price targets and the company reported operational updates at its refineries.",
+      "importance_score": 16,
+      "entity_count": 4,
+      "financial_keyword_count": 0,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "UBS Price Target Article\nPositive Sentiment:",
+      "importance_score": 13,
+      "entity_count": 3,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Piper Sandler Price Target Article\nNeutral Sentiment:",
+      "importance_score": 11,
+      "entity_count": 2,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "neutral"
+    }
+  ],
+  "entity_statistics": {
+    "total_entities": 30,
+    "unique_entities": 22,
+    "type_counts": {
+      "ORG": 20,
+      "DATE": 2,
+      "MONEY": 5,
+      "GPE": 2,
+      "FAC": 1
+    },
+    "type_distribution": {
+      "ORG": 0.6666666666666666,
+      "DATE": 0.06666666666666667,
+      "MONEY": 0.16666666666666666,
+      "GPE": 0.06666666666666667,
+      "FAC": 0.03333333333333333
+    },
+    "most_common_entities": [
+      [
+        "MPC",
+        6
+      ],
+      [
+        "Scotiabank",
+        2
+      ],
+      [
+        "Barclays",
+        2
+      ],
+      [
+        "Piper Sandler",
+        2
+      ],
+      [
+        "Marathon Petroleum",
+        1
+      ],
+      [
+        "today",
+        1
+      ],
+      [
+        "180.00",
+        1
+      ],
+      [
+        "189.00",
+        1
+      ],
+      [
+        "UBS Group",
+        1
+      ],
+      [
+        "203.00",
+        1
+      ]
+    ],
+    "entity_types_found": [
+      "ORG",
+      "DATE",
+      "MONEY",
+      "GPE",
+      "FAC"
+    ],
+    "company_entities": 20,
+    "person_entities": 0,
+    "financial_entities": 5,
+    "entity_density": 0.14285714285714285
+  },
+  "financial_analysis": {
+    "money_amounts": [
+      "180.00",
+      "189.00",
+      "203.00",
+      "205.00",
+      "175.00"
+    ],
+    "percentages": [],
+    "companies": [
+      "Marathon Petroleum",
+      "MPC",
+      "Scotiabank",
+      "MPC",
+      "Scotiabank",
+      "Barclays",
+      "Barclays",
+      "UBS Group",
+      "UBS Price Target",
+      "Wells Fargo & Company",
+      "Wells Fargo Forecast",
+      "Piper Sandler",
+      "Piper Sandler",
+      "MPLX LP",
+      "MPC",
+      "MPC",
+      "MPLX Dividend Reliability Article",
+      "MPC",
+      "El Paso Refinery Outage",
+      "MPC"
+    ],
+    "people": [],
+    "dates": [
+      "today",
+      "1+ days ago"
+    ],
+    "financial_terms": [
+      "earnings",
+      "stock"
+    ],
+    "financial_metrics": [],
+    "market_indicators": [
+      "Price",
+      "price",
+      "target",
+      "rating",
+      "Target"
+    ]
+  },
+  "temporal_analysis": {
+    "dates": [
+      "today",
+      "1+ days ago"
+    ],
+    "time_expressions": [],
+    "temporal_relationships": [
+      "recent",
+      "today"
+    ],
+    "quarters": [],
+    "years": [],
+    "time_periods": []
+  },
+  "sentiment_analysis": {
+    "positive_words": 5,
+    "negative_words": 2,
+    "positive_ratio": 0.023809523809523808,
+    "negative_ratio": 0.009523809523809525,
+    "sentiment_score": 0.014285714285714284,
+    "sentiment_label": "positive",
+    "sentiment_strength": 0.014285714285714284,
+    "confidence": 0.14285714285714285
+  },
+  "industry_analysis": {
+    "dominant_industry": "tech",
+    "industry_scores": {
+      "tech": 1,
+      "finance": 0,
+      "healthcare": 0,
+      "energy": 0,
+      "retail": 0,
+      "automotive": 0,
+      "media": 0,
+      "industrial": 0,
+      "real_estate": 0,
+      "telecom": 0,
+      "food_beverage": 0,
+      "travel": 0,
+      "education": 0,
+      "professional": 1,
+      "mining": 0,
+      "aerospace": 0,
+      "environmental": 0,
+      "cannabis": 0
+    },
+    "confidence": 0.5
+  },
+  "market_analysis": {
+    "market_sentiment": "neutral",
+    "bullish_indicators": 0,
+    "bearish_indicators": 0,
+    "market_conditions": {
+      "volatility": "normal",
+      "volume": "normal",
+      "trend": "neutral"
+    },
+    "trading_activity": "normal"
+  },
+  "competitor_analysis": {
+    "companies_mentioned": [
+      "Marathon Petroleum",
+      "MPC",
+      "Scotiabank",
+      "MPC",
+      "Scotiabank",
+      "Barclays",
+      "Barclays",
+      "UBS Group",
+      "UBS Price Target",
+      "Wells Fargo & Company",
+      "Wells Fargo Forecast",
+      "Piper Sandler",
+      "Piper Sandler",
+      "MPLX LP",
+      "MPC",
+      "MPC",
+      "MPLX Dividend Reliability Article",
+      "MPC",
+      "El Paso Refinery Outage",
+      "MPC"
+    ],
+    "competitive_context": [
+      "Positive Sentiment:\nScotiabank boosted its price target on MPC to $180.00 and kept a “sector outperform” rating.\nScotiabank Price Target Article\nPositive Sentiment:\nBarclays lifted its price target to $189.00 and assigned an “overweight” rating, signaling upside potential."
+    ],
+    "competitor_count": 20,
+    "has_competitive_language": true
+  },
+  "risk_analysis": {
+    "risk_sentences": [
+      "Negative Sentiment:\nMPC will hold a community advisory meeting to address a recent fire at its Texas City refinery, underlining operational risk concerns.\nTexas City Refinery Fire Article\nPosted 1+ days ago\nAI Generated."
+    ],
+    "risk_count": 1,
+    "risk_level": "low"
+  },
+  "opportunity_analysis": {
+    "opportunity_sentences": [
+      "Positive Sentiment:\nScotiabank boosted its price target on MPC to $180.00 and kept a “sector outperform” rating.\nScotiabank Price Target Article\nPositive Sentiment:\nBarclays lifted its price target to $189.00 and assigned an “overweight” rating, signaling upside potential.",
+      "MPLX Dividend Reliability Article\nNegative Sentiment:\nAn unplanned power outage caused a shutdown at MPC’s El Paso refinery, potentially trimming near-term throughput.\nEl Paso Refinery Outage"
+    ],
+    "opportunity_count": 2,
+    "opportunity_level": "medium"
+  },
+  "processing_metadata": {
+    "timestamp": "2025-07-13T08:57:47.924024",
+    "model_used": "en_core_web_trf",
+    "text_length": 1499
+  }
+}
