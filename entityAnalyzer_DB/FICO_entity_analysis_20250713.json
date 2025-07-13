@@ -1,0 +1,3694 @@
+{
+  "ticker": "FICO",
+  "entities": [
+    {
+      "text": "Fair Isaac Corporation",
+      "label": "ORG",
+      "start": 0,
+      "end": 22,
+      "sentence": "Fair Isaac Corporation (NYSE:FICO):",
+      "context": "Fair Isaac Corporation (NYSE:FICO): The stock is moving today on a mix o",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "FICO",
+      "label": "ORG",
+      "start": 29,
+      "end": 33,
+      "sentence": "Fair Isaac Corporation (NYSE:FICO):",
+      "context": "Fair Isaac Corporation (NYSE:FICO): The stock is moving today on a mix of analyst a",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "today",
+      "label": "DATE",
+      "start": 56,
+      "end": 61,
+      "sentence": "The stock is moving today on a mix of analyst actions, insider trades and industry recognition.",
+      "context": "saac Corporation (NYSE:FICO): The stock is moving today on a mix of analyst actions, insider trades and i",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "BMO Capital Markets",
+      "label": "ORG",
+      "start": 152,
+      "end": 171,
+      "sentence": "Positive Sentiment:\nBMO Capital Markets upgraded FICO to a “Strong-Buy” rating in its latest research note.",
+      "context": "des and industry recognition.\nPositive Sentiment:\nBMO Capital Markets upgraded FICO to a “Strong-Buy” rating in its lat",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "FICO",
+      "label": "ORG",
+      "start": 181,
+      "end": 185,
+      "sentence": "Positive Sentiment:\nBMO Capital Markets upgraded FICO to a “Strong-Buy” rating in its latest research note.",
+      "context": "Positive Sentiment:\nBMO Capital Markets upgraded FICO to a “Strong-Buy” rating in its latest research n",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Fair Isaac",
+      "label": "ORG",
+      "start": 240,
+      "end": 250,
+      "sentence": "Fair Isaac (NYSE:FICO) Raised to \"Strong-Buy\" at BMO Capital Markets\nPositive Sentiment:",
+      "context": "“Strong-Buy” rating in its latest research note.\nFair Isaac (NYSE:FICO) Raised to \"Strong-Buy\" at BMO Capital",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "BMO Capital Markets",
+      "label": "ORG",
+      "start": 289,
+      "end": 308,
+      "sentence": "Fair Isaac (NYSE:FICO) Raised to \"Strong-Buy\" at BMO Capital Markets\nPositive Sentiment:",
+      "context": "Fair Isaac (NYSE:FICO) Raised to \"Strong-Buy\" at BMO Capital Markets\nPositive Sentiment:\nBMO Capital Markets also init",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "BMO Capital Markets",
+      "label": "ORG",
+      "start": 329,
+      "end": 348,
+      "sentence": "BMO Capital Markets also initiated coverage on FICO with an “Outperform” rating.",
+      "context": "g-Buy\" at BMO Capital Markets\nPositive Sentiment:\nBMO Capital Markets also initiated coverage on FICO with an “Outperfo",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "FICO",
+      "label": "ORG",
+      "start": 376,
+      "end": 380,
+      "sentence": "BMO Capital Markets also initiated coverage on FICO with an “Outperform” rating.",
+      "context": "t:\nBMO Capital Markets also initiated coverage on FICO with an “Outperform” rating.\nFICO: BMO Capital In",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "FICO",
+      "label": "ORG",
+      "start": 410,
+      "end": 414,
+      "sentence": "FICO: BMO Capital Initiates Coverage with an Outperform Rating |",
+      "context": "ted coverage on FICO with an “Outperform” rating.\nFICO: BMO Capital Initiates Coverage with an Outperfor",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "BMO Capital",
+      "label": "ORG",
+      "start": 416,
+      "end": 427,
+      "sentence": "FICO: BMO Capital Initiates Coverage with an Outperform Rating |",
+      "context": "verage on FICO with an “Outperform” rating.\nFICO: BMO Capital Initiates Coverage with an Outperform Rating | FI",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "FICO",
+      "label": "ORG",
+      "start": 475,
+      "end": 479,
+      "sentence": "FICO Stock News\nPositive Sentiment:",
+      "context": "al Initiates Coverage with an Outperform Rating | FICO Stock News\nPositive Sentiment:\nBarclays and FICO",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Barclays",
+      "label": "ORG",
+      "start": 511,
+      "end": 519,
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "context": "form Rating | FICO Stock News\nPositive Sentiment:\nBarclays and FICO won a Credit Award for Excellence in Fra",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "FICO",
+      "label": "ORG",
+      "start": 524,
+      "end": 528,
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "context": "FICO Stock News\nPositive Sentiment:\nBarclays and FICO won a Credit Award for Excellence in Fraud Preven",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "a Credit Award for Excellence in Fraud Prevention",
+      "label": "WORK_OF_ART",
+      "start": 533,
+      "end": 582,
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "context": "ck News\nPositive Sentiment:\nBarclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "FICO",
+      "label": "ORG",
+      "start": 628,
+      "end": 632,
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "context": "tion for their Scam Signal solution, highlighting FICO’s strength in analytics.\nBarclays and FICO Win Cr",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Barclays",
+      "label": "ORG",
+      "start": 658,
+      "end": 666,
+      "sentence": "Barclays and FICO Win Credit Award for Excellence in Fraud Prevention\nNeutral Sentiment:\nZacks notes FICO trading around $1,540.70 as of its latest update.\nZacks.com\nNegative Sentiment:",
+      "context": "ution, highlighting FICO’s strength in analytics.\nBarclays and FICO Win Credit Award for Excellence in Fraud",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "FICO",
+      "label": "ORG",
+      "start": 671,
+      "end": 675,
+      "sentence": "Barclays and FICO Win Credit Award for Excellence in Fraud Prevention\nNeutral Sentiment:\nZacks notes FICO trading around $1,540.70 as of its latest update.\nZacks.com\nNegative Sentiment:",
+      "context": "ghting FICO’s strength in analytics.\nBarclays and FICO Win Credit Award for Excellence in Fraud Preventi",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Zacks",
+      "label": "ORG",
+      "start": 747,
+      "end": 752,
+      "sentence": "Barclays and FICO Win Credit Award for Excellence in Fraud Prevention\nNeutral Sentiment:\nZacks notes FICO trading around $1,540.70 as of its latest update.\nZacks.com\nNegative Sentiment:",
+      "context": "Excellence in Fraud Prevention\nNeutral Sentiment:\nZacks notes FICO trading around $1,540.70 as of its lat",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "FICO",
+      "label": "ORG",
+      "start": 759,
+      "end": 763,
+      "sentence": "Barclays and FICO Win Credit Award for Excellence in Fraud Prevention\nNeutral Sentiment:\nZacks notes FICO trading around $1,540.70 as of its latest update.\nZacks.com\nNegative Sentiment:",
+      "context": "n Fraud Prevention\nNeutral Sentiment:\nZacks notes FICO trading around $1,540.70 as of its latest update.",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "1,540.70",
+      "label": "MONEY",
+      "start": 780,
+      "end": 788,
+      "sentence": "Barclays and FICO Win Credit Award for Excellence in Fraud Prevention\nNeutral Sentiment:\nZacks notes FICO trading around $1,540.70 as of its latest update.\nZacks.com\nNegative Sentiment:",
+      "context": "utral Sentiment:\nZacks notes FICO trading around $1,540.70 as of its latest update.\nZacks.com\nNegative Senti",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "J. Lansing",
+      "label": "PERSON",
+      "start": 856,
+      "end": 866,
+      "sentence": "CEO William J. Lansing sold a combined 6,011 shares across two transactions, trimming his stake by nearly 8%.\nInsider Selling:",
+      "context": "update.\nZacks.com\nNegative Sentiment:\nCEO William J. Lansing sold a combined 6,011 shares across two transacti",
+      "is_company": false,
+      "is_person": true,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "6,011",
+      "label": "CARDINAL",
+      "start": 883,
+      "end": 888,
+      "sentence": "CEO William J. Lansing sold a combined 6,011 shares across two transactions, trimming his stake by nearly 8%.\nInsider Selling:",
+      "context": "Sentiment:\nCEO William J. Lansing sold a combined 6,011 shares across two transactions, trimming his stak",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "two",
+      "label": "CARDINAL",
+      "start": 903,
+      "end": 906,
+      "sentence": "CEO William J. Lansing sold a combined 6,011 shares across two transactions, trimming his stake by nearly 8%.\nInsider Selling:",
+      "context": "am J. Lansing sold a combined 6,011 shares across two transactions, trimming his stake by nearly 8%.\nIn",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "nearly 8%",
+      "label": "PERCENT",
+      "start": 943,
+      "end": 952,
+      "sentence": "CEO William J. Lansing sold a combined 6,011 shares across two transactions, trimming his stake by nearly 8%.\nInsider Selling:",
+      "context": "es across two transactions, trimming his stake by nearly 8%.\nInsider Selling: Fair Isaac Corporation (NYSE:FI",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Fair Isaac Corporation",
+      "label": "ORG",
+      "start": 971,
+      "end": 993,
+      "sentence": "Fair Isaac Corporation (NYSE:FICO) CEO Sells 2,200 Shares of Stock",
+      "context": "trimming his stake by nearly 8%.\nInsider Selling: Fair Isaac Corporation (NYSE:FICO) CEO Sells 2,200 Shares of Stock\nNegat",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "FICO",
+      "label": "ORG",
+      "start": 1000,
+      "end": 1004,
+      "sentence": "Fair Isaac Corporation (NYSE:FICO) CEO Sells 2,200 Shares of Stock",
+      "context": "8%.\nInsider Selling: Fair Isaac Corporation (NYSE:FICO) CEO Sells 2,200 Shares of Stock\nNegative Sentime",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "2,200",
+      "label": "CARDINAL",
+      "start": 1016,
+      "end": 1021,
+      "sentence": "Fair Isaac Corporation (NYSE:FICO) CEO Sells 2,200 Shares of Stock",
+      "context": "ing: Fair Isaac Corporation (NYSE:FICO) CEO Sells 2,200 Shares of Stock\nNegative Sentiment:\nWells Fargo c",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Wells Fargo",
+      "label": "ORG",
+      "start": 1058,
+      "end": 1069,
+      "sentence": "Wells Fargo cut its FICO price target from $2,600 to $2,300.",
+      "context": "O Sells 2,200 Shares of Stock\nNegative Sentiment:\nWells Fargo cut its FICO price target from $2,600 to $2,300.",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "FICO",
+      "label": "ORG",
+      "start": 1078,
+      "end": 1082,
+      "sentence": "Wells Fargo cut its FICO price target from $2,600 to $2,300.",
+      "context": "of Stock\nNegative Sentiment:\nWells Fargo cut its FICO price target from $2,600 to $2,300.\nWells Fargo &",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "2,600",
+      "label": "MONEY",
+      "start": 1102,
+      "end": 1107,
+      "sentence": "Wells Fargo cut its FICO price target from $2,600 to $2,300.",
+      "context": "ment:\nWells Fargo cut its FICO price target from $2,600 to $2,300.\nWells Fargo & Company Cuts Fair Isaac",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "2,300",
+      "label": "MONEY",
+      "start": 1112,
+      "end": 1117,
+      "sentence": "Wells Fargo cut its FICO price target from $2,600 to $2,300.",
+      "context": "s Fargo cut its FICO price target from $2,600 to $2,300.\nWells Fargo & Company Cuts Fair Isaac (NYSE:FICO",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Wells Fargo & Company",
+      "label": "ORG",
+      "start": 1119,
+      "end": 1140,
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "context": "cut its FICO price target from $2,600 to $2,300.\nWells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,30",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Fair Isaac",
+      "label": "ORG",
+      "start": 1146,
+      "end": 1156,
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "context": "from $2,600 to $2,300.\nWells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Se",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "2,300.00",
+      "label": "MONEY",
+      "start": 1186,
+      "end": 1194,
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "context": "pany Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Fair Isaac",
+      "label": "ORG",
+      "start": 1271,
+      "end": 1281,
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "context": "gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Dow",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Barron’s",
+      "label": "ORG",
+      "start": 1360,
+      "end": 1368,
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "context": "Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Fannie Mae",
+      "label": "ORG",
+      "start": 1403,
+      "end": 1413,
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "context": "ent:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analyt",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Freddie Mac",
+      "label": "ORG",
+      "start": 1418,
+      "end": 1429,
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "context": "article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.\nFa",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "FICO",
+      "label": "ORG",
+      "start": 1441,
+      "end": 1445,
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "context": "changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.\nFair Isaac Stock D",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Fair Isaac",
+      "label": "ORG",
+      "start": 1477,
+      "end": 1487,
+      "sentence": "Fair Isaac Stock Drops.",
+      "context": "ac could hurt FICO’s mortgage analytics business.\nFair Isaac Stock Drops. Changes Are Coming to Fannie and Fre",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Fannie",
+      "label": "ORG",
+      "start": 1523,
+      "end": 1529,
+      "sentence": "Changes Are Coming to Fannie and Freddie.",
+      "context": "ss.\nFair Isaac Stock Drops. Changes Are Coming to Fannie and Freddie.\nOverall, analyst upgrades and award",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Freddie",
+      "label": "ORG",
+      "start": 1534,
+      "end": 1541,
+      "sentence": "Changes Are Coming to Fannie and Freddie.",
+      "context": "aac Stock Drops. Changes Are Coming to Fannie and Freddie.\nOverall, analyst upgrades and award recognition",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "FICO",
+      "label": "ORG",
+      "start": 1705,
+      "end": 1709,
+      "sentence": "Overall, analyst upgrades and award recognition are counterbalanced by insider sales, price-target cuts and potential regulatory headwinds, driving volatility in FICO’s share price.",
+      "context": "ntial regulatory headwinds, driving volatility in FICO’s share price.\nPosted 1+ days ago\nAI Generated. M",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "1+ days ago",
+      "label": "DATE",
+      "start": 1732,
+      "end": 1743,
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "context": "driving volatility in FICO’s share price.\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    }
+  ],
+  "relationships": [
+    {
+      "type": "SVO",
+      "subject": "Markets",
+      "verb": "upgraded",
+      "object": "FICO",
+      "sentence": "Positive Sentiment:\nBMO Capital Markets upgraded FICO to a “Strong-Buy” rating in its latest research note.",
+      "importance": 6
+    },
+    {
+      "type": "SVO",
+      "subject": "Markets",
+      "verb": "initiated",
+      "object": "coverage",
+      "sentence": "BMO Capital Markets also initiated coverage on FICO with an “Outperform” rating.",
+      "importance": 6
+    },
+    {
+      "type": "SVO",
+      "subject": "Capital",
+      "verb": "Initiates",
+      "object": "Coverage",
+      "sentence": "FICO: BMO Capital Initiates Coverage with an Outperform Rating |",
+      "importance": 5
+    },
+    {
+      "type": "SVO",
+      "subject": "Barclays",
+      "verb": "won",
+      "object": "Award",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "importance": 13
+    },
+    {
+      "type": "SVO",
+      "subject": "Barclays",
+      "verb": "Win",
+      "object": "Award",
+      "sentence": "Barclays and FICO Win Credit Award for Excellence in Fraud Prevention\nNeutral Sentiment:\nZacks notes FICO trading around $1,540.70 as of its latest update.\nZacks.com\nNegative Sentiment:",
+      "importance": 7
+    },
+    {
+      "type": "SVO",
+      "subject": "Lansing",
+      "verb": "sold",
+      "object": "shares",
+      "sentence": "CEO William J. Lansing sold a combined 6,011 shares across two transactions, trimming his stake by nearly 8%.\nInsider Selling:",
+      "importance": 7
+    },
+    {
+      "type": "SVO",
+      "subject": "CEO",
+      "verb": "Sells",
+      "object": "Shares",
+      "sentence": "Fair Isaac Corporation (NYSE:FICO) CEO Sells 2,200 Shares of Stock",
+      "importance": 6
+    },
+    {
+      "type": "SVO",
+      "subject": "Fargo",
+      "verb": "cut",
+      "object": "target",
+      "sentence": "Wells Fargo cut its FICO price target from $2,600 to $2,300.",
+      "importance": 6
+    },
+    {
+      "type": "SVO",
+      "subject": "Fargo",
+      "verb": "Cuts",
+      "object": "Target",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "importance": 22
+    },
+    {
+      "type": "SVO",
+      "subject": "changes",
+      "verb": "hurt",
+      "object": "business",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "importance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fair",
+      "entity1_type": "ORG",
+      "entity2": "Isaac",
+      "entity2_type": "ORG",
+      "sentence": "Fair Isaac Corporation (NYSE:FICO):",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fair",
+      "entity1_type": "ORG",
+      "entity2": "Corporation",
+      "entity2_type": "ORG",
+      "sentence": "Fair Isaac Corporation (NYSE:FICO):",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fair",
+      "entity1_type": "ORG",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "Fair Isaac Corporation (NYSE:FICO):",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Isaac",
+      "entity1_type": "ORG",
+      "entity2": "Corporation",
+      "entity2_type": "ORG",
+      "sentence": "Fair Isaac Corporation (NYSE:FICO):",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Isaac",
+      "entity1_type": "ORG",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "Fair Isaac Corporation (NYSE:FICO):",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Corporation",
+      "entity1_type": "ORG",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "Fair Isaac Corporation (NYSE:FICO):",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "BMO",
+      "entity1_type": "ORG",
+      "entity2": "Capital",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nBMO Capital Markets upgraded FICO to a “Strong-Buy” rating in its latest research note.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "BMO",
+      "entity1_type": "ORG",
+      "entity2": "Markets",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nBMO Capital Markets upgraded FICO to a “Strong-Buy” rating in its latest research note.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "BMO",
+      "entity1_type": "ORG",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nBMO Capital Markets upgraded FICO to a “Strong-Buy” rating in its latest research note.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Capital",
+      "entity1_type": "ORG",
+      "entity2": "Markets",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nBMO Capital Markets upgraded FICO to a “Strong-Buy” rating in its latest research note.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Capital",
+      "entity1_type": "ORG",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nBMO Capital Markets upgraded FICO to a “Strong-Buy” rating in its latest research note.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Markets",
+      "entity1_type": "ORG",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nBMO Capital Markets upgraded FICO to a “Strong-Buy” rating in its latest research note.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fair",
+      "entity1_type": "ORG",
+      "entity2": "Isaac",
+      "entity2_type": "ORG",
+      "sentence": "Fair Isaac (NYSE:FICO) Raised to \"Strong-Buy\" at BMO Capital Markets\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fair",
+      "entity1_type": "ORG",
+      "entity2": "BMO",
+      "entity2_type": "ORG",
+      "sentence": "Fair Isaac (NYSE:FICO) Raised to \"Strong-Buy\" at BMO Capital Markets\nPositive Sentiment:",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fair",
+      "entity1_type": "ORG",
+      "entity2": "Capital",
+      "entity2_type": "ORG",
+      "sentence": "Fair Isaac (NYSE:FICO) Raised to \"Strong-Buy\" at BMO Capital Markets\nPositive Sentiment:",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fair",
+      "entity1_type": "ORG",
+      "entity2": "Markets",
+      "entity2_type": "ORG",
+      "sentence": "Fair Isaac (NYSE:FICO) Raised to \"Strong-Buy\" at BMO Capital Markets\nPositive Sentiment:",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Isaac",
+      "entity1_type": "ORG",
+      "entity2": "BMO",
+      "entity2_type": "ORG",
+      "sentence": "Fair Isaac (NYSE:FICO) Raised to \"Strong-Buy\" at BMO Capital Markets\nPositive Sentiment:",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Isaac",
+      "entity1_type": "ORG",
+      "entity2": "Capital",
+      "entity2_type": "ORG",
+      "sentence": "Fair Isaac (NYSE:FICO) Raised to \"Strong-Buy\" at BMO Capital Markets\nPositive Sentiment:",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Isaac",
+      "entity1_type": "ORG",
+      "entity2": "Markets",
+      "entity2_type": "ORG",
+      "sentence": "Fair Isaac (NYSE:FICO) Raised to \"Strong-Buy\" at BMO Capital Markets\nPositive Sentiment:",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "BMO",
+      "entity1_type": "ORG",
+      "entity2": "Capital",
+      "entity2_type": "ORG",
+      "sentence": "Fair Isaac (NYSE:FICO) Raised to \"Strong-Buy\" at BMO Capital Markets\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "BMO",
+      "entity1_type": "ORG",
+      "entity2": "Markets",
+      "entity2_type": "ORG",
+      "sentence": "Fair Isaac (NYSE:FICO) Raised to \"Strong-Buy\" at BMO Capital Markets\nPositive Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Capital",
+      "entity1_type": "ORG",
+      "entity2": "Markets",
+      "entity2_type": "ORG",
+      "sentence": "Fair Isaac (NYSE:FICO) Raised to \"Strong-Buy\" at BMO Capital Markets\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "BMO",
+      "entity1_type": "ORG",
+      "entity2": "Capital",
+      "entity2_type": "ORG",
+      "sentence": "BMO Capital Markets also initiated coverage on FICO with an “Outperform” rating.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "BMO",
+      "entity1_type": "ORG",
+      "entity2": "Markets",
+      "entity2_type": "ORG",
+      "sentence": "BMO Capital Markets also initiated coverage on FICO with an “Outperform” rating.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "BMO",
+      "entity1_type": "ORG",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "BMO Capital Markets also initiated coverage on FICO with an “Outperform” rating.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Capital",
+      "entity1_type": "ORG",
+      "entity2": "Markets",
+      "entity2_type": "ORG",
+      "sentence": "BMO Capital Markets also initiated coverage on FICO with an “Outperform” rating.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Capital",
+      "entity1_type": "ORG",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "BMO Capital Markets also initiated coverage on FICO with an “Outperform” rating.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Markets",
+      "entity1_type": "ORG",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "BMO Capital Markets also initiated coverage on FICO with an “Outperform” rating.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FICO",
+      "entity1_type": "ORG",
+      "entity2": "BMO",
+      "entity2_type": "ORG",
+      "sentence": "FICO: BMO Capital Initiates Coverage with an Outperform Rating |",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FICO",
+      "entity1_type": "ORG",
+      "entity2": "Capital",
+      "entity2_type": "ORG",
+      "sentence": "FICO: BMO Capital Initiates Coverage with an Outperform Rating |",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "BMO",
+      "entity1_type": "ORG",
+      "entity2": "Capital",
+      "entity2_type": "ORG",
+      "sentence": "FICO: BMO Capital Initiates Coverage with an Outperform Rating |",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "a",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "Credit",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "Award",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "for",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "Excellence",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "in",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "Fraud",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "Prevention",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FICO",
+      "entity1_type": "ORG",
+      "entity2": "a",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FICO",
+      "entity1_type": "ORG",
+      "entity2": "Credit",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FICO",
+      "entity1_type": "ORG",
+      "entity2": "Award",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FICO",
+      "entity1_type": "ORG",
+      "entity2": "for",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FICO",
+      "entity1_type": "ORG",
+      "entity2": "Excellence",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FICO",
+      "entity1_type": "ORG",
+      "entity2": "in",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FICO",
+      "entity1_type": "ORG",
+      "entity2": "Fraud",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FICO",
+      "entity1_type": "ORG",
+      "entity2": "Prevention",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FICO",
+      "entity1_type": "ORG",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "a",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "Credit",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "a",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "Award",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "a",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "for",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "a",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "Excellence",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "a",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "in",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "a",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "Fraud",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "a",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "Prevention",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "a",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Credit",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "Award",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Credit",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "for",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Credit",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "Excellence",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Credit",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "in",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Credit",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "Fraud",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Credit",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "Prevention",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Credit",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Award",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "for",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Award",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "Excellence",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Award",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "in",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Award",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "Fraud",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Award",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "Prevention",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Award",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "for",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "Excellence",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "for",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "in",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "for",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "Fraud",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "for",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "Prevention",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "for",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Excellence",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "in",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Excellence",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "Fraud",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Excellence",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "Prevention",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Excellence",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "in",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "Fraud",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "in",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "Prevention",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "in",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fraud",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "Prevention",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fraud",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Prevention",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "Barclays and FICO Win Credit Award for Excellence in Fraud Prevention\nNeutral Sentiment:\nZacks notes FICO trading around $1,540.70 as of its latest update.\nZacks.com\nNegative Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "Zacks",
+      "entity2_type": "ORG",
+      "sentence": "Barclays and FICO Win Credit Award for Excellence in Fraud Prevention\nNeutral Sentiment:\nZacks notes FICO trading around $1,540.70 as of its latest update.\nZacks.com\nNegative Sentiment:",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "Barclays and FICO Win Credit Award for Excellence in Fraud Prevention\nNeutral Sentiment:\nZacks notes FICO trading around $1,540.70 as of its latest update.\nZacks.com\nNegative Sentiment:",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "1,540.70",
+      "entity2_type": "MONEY",
+      "sentence": "Barclays and FICO Win Credit Award for Excellence in Fraud Prevention\nNeutral Sentiment:\nZacks notes FICO trading around $1,540.70 as of its latest update.\nZacks.com\nNegative Sentiment:",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FICO",
+      "entity1_type": "ORG",
+      "entity2": "Zacks",
+      "entity2_type": "ORG",
+      "sentence": "Barclays and FICO Win Credit Award for Excellence in Fraud Prevention\nNeutral Sentiment:\nZacks notes FICO trading around $1,540.70 as of its latest update.\nZacks.com\nNegative Sentiment:",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FICO",
+      "entity1_type": "ORG",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "Barclays and FICO Win Credit Award for Excellence in Fraud Prevention\nNeutral Sentiment:\nZacks notes FICO trading around $1,540.70 as of its latest update.\nZacks.com\nNegative Sentiment:",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FICO",
+      "entity1_type": "ORG",
+      "entity2": "1,540.70",
+      "entity2_type": "MONEY",
+      "sentence": "Barclays and FICO Win Credit Award for Excellence in Fraud Prevention\nNeutral Sentiment:\nZacks notes FICO trading around $1,540.70 as of its latest update.\nZacks.com\nNegative Sentiment:",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "Barclays and FICO Win Credit Award for Excellence in Fraud Prevention\nNeutral Sentiment:\nZacks notes FICO trading around $1,540.70 as of its latest update.\nZacks.com\nNegative Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "1,540.70",
+      "entity2_type": "MONEY",
+      "sentence": "Barclays and FICO Win Credit Award for Excellence in Fraud Prevention\nNeutral Sentiment:\nZacks notes FICO trading around $1,540.70 as of its latest update.\nZacks.com\nNegative Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FICO",
+      "entity1_type": "ORG",
+      "entity2": "1,540.70",
+      "entity2_type": "MONEY",
+      "sentence": "Barclays and FICO Win Credit Award for Excellence in Fraud Prevention\nNeutral Sentiment:\nZacks notes FICO trading around $1,540.70 as of its latest update.\nZacks.com\nNegative Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "J.",
+      "entity1_type": "PERSON",
+      "entity2": "Lansing",
+      "entity2_type": "PERSON",
+      "sentence": "CEO William J. Lansing sold a combined 6,011 shares across two transactions, trimming his stake by nearly 8%.\nInsider Selling:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "J.",
+      "entity1_type": "PERSON",
+      "entity2": "6,011",
+      "entity2_type": "CARDINAL",
+      "sentence": "CEO William J. Lansing sold a combined 6,011 shares across two transactions, trimming his stake by nearly 8%.\nInsider Selling:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "J.",
+      "entity1_type": "PERSON",
+      "entity2": "two",
+      "entity2_type": "CARDINAL",
+      "sentence": "CEO William J. Lansing sold a combined 6,011 shares across two transactions, trimming his stake by nearly 8%.\nInsider Selling:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "J.",
+      "entity1_type": "PERSON",
+      "entity2": "nearly",
+      "entity2_type": "PERCENT",
+      "sentence": "CEO William J. Lansing sold a combined 6,011 shares across two transactions, trimming his stake by nearly 8%.\nInsider Selling:",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "J.",
+      "entity1_type": "PERSON",
+      "entity2": "8",
+      "entity2_type": "PERCENT",
+      "sentence": "CEO William J. Lansing sold a combined 6,011 shares across two transactions, trimming his stake by nearly 8%.\nInsider Selling:",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "J.",
+      "entity1_type": "PERSON",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "CEO William J. Lansing sold a combined 6,011 shares across two transactions, trimming his stake by nearly 8%.\nInsider Selling:",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Lansing",
+      "entity1_type": "PERSON",
+      "entity2": "6,011",
+      "entity2_type": "CARDINAL",
+      "sentence": "CEO William J. Lansing sold a combined 6,011 shares across two transactions, trimming his stake by nearly 8%.\nInsider Selling:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Lansing",
+      "entity1_type": "PERSON",
+      "entity2": "two",
+      "entity2_type": "CARDINAL",
+      "sentence": "CEO William J. Lansing sold a combined 6,011 shares across two transactions, trimming his stake by nearly 8%.\nInsider Selling:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Lansing",
+      "entity1_type": "PERSON",
+      "entity2": "nearly",
+      "entity2_type": "PERCENT",
+      "sentence": "CEO William J. Lansing sold a combined 6,011 shares across two transactions, trimming his stake by nearly 8%.\nInsider Selling:",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Lansing",
+      "entity1_type": "PERSON",
+      "entity2": "8",
+      "entity2_type": "PERCENT",
+      "sentence": "CEO William J. Lansing sold a combined 6,011 shares across two transactions, trimming his stake by nearly 8%.\nInsider Selling:",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Lansing",
+      "entity1_type": "PERSON",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "CEO William J. Lansing sold a combined 6,011 shares across two transactions, trimming his stake by nearly 8%.\nInsider Selling:",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "6,011",
+      "entity1_type": "CARDINAL",
+      "entity2": "two",
+      "entity2_type": "CARDINAL",
+      "sentence": "CEO William J. Lansing sold a combined 6,011 shares across two transactions, trimming his stake by nearly 8%.\nInsider Selling:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "6,011",
+      "entity1_type": "CARDINAL",
+      "entity2": "nearly",
+      "entity2_type": "PERCENT",
+      "sentence": "CEO William J. Lansing sold a combined 6,011 shares across two transactions, trimming his stake by nearly 8%.\nInsider Selling:",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "6,011",
+      "entity1_type": "CARDINAL",
+      "entity2": "8",
+      "entity2_type": "PERCENT",
+      "sentence": "CEO William J. Lansing sold a combined 6,011 shares across two transactions, trimming his stake by nearly 8%.\nInsider Selling:",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "6,011",
+      "entity1_type": "CARDINAL",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "CEO William J. Lansing sold a combined 6,011 shares across two transactions, trimming his stake by nearly 8%.\nInsider Selling:",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "two",
+      "entity1_type": "CARDINAL",
+      "entity2": "nearly",
+      "entity2_type": "PERCENT",
+      "sentence": "CEO William J. Lansing sold a combined 6,011 shares across two transactions, trimming his stake by nearly 8%.\nInsider Selling:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "two",
+      "entity1_type": "CARDINAL",
+      "entity2": "8",
+      "entity2_type": "PERCENT",
+      "sentence": "CEO William J. Lansing sold a combined 6,011 shares across two transactions, trimming his stake by nearly 8%.\nInsider Selling:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "two",
+      "entity1_type": "CARDINAL",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "CEO William J. Lansing sold a combined 6,011 shares across two transactions, trimming his stake by nearly 8%.\nInsider Selling:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "nearly",
+      "entity1_type": "PERCENT",
+      "entity2": "8",
+      "entity2_type": "PERCENT",
+      "sentence": "CEO William J. Lansing sold a combined 6,011 shares across two transactions, trimming his stake by nearly 8%.\nInsider Selling:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "nearly",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "CEO William J. Lansing sold a combined 6,011 shares across two transactions, trimming his stake by nearly 8%.\nInsider Selling:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "8",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "CEO William J. Lansing sold a combined 6,011 shares across two transactions, trimming his stake by nearly 8%.\nInsider Selling:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fair",
+      "entity1_type": "ORG",
+      "entity2": "Isaac",
+      "entity2_type": "ORG",
+      "sentence": "Fair Isaac Corporation (NYSE:FICO) CEO Sells 2,200 Shares of Stock",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fair",
+      "entity1_type": "ORG",
+      "entity2": "Corporation",
+      "entity2_type": "ORG",
+      "sentence": "Fair Isaac Corporation (NYSE:FICO) CEO Sells 2,200 Shares of Stock",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fair",
+      "entity1_type": "ORG",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "Fair Isaac Corporation (NYSE:FICO) CEO Sells 2,200 Shares of Stock",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fair",
+      "entity1_type": "ORG",
+      "entity2": "2,200",
+      "entity2_type": "CARDINAL",
+      "sentence": "Fair Isaac Corporation (NYSE:FICO) CEO Sells 2,200 Shares of Stock",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Isaac",
+      "entity1_type": "ORG",
+      "entity2": "Corporation",
+      "entity2_type": "ORG",
+      "sentence": "Fair Isaac Corporation (NYSE:FICO) CEO Sells 2,200 Shares of Stock",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Isaac",
+      "entity1_type": "ORG",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "Fair Isaac Corporation (NYSE:FICO) CEO Sells 2,200 Shares of Stock",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Isaac",
+      "entity1_type": "ORG",
+      "entity2": "2,200",
+      "entity2_type": "CARDINAL",
+      "sentence": "Fair Isaac Corporation (NYSE:FICO) CEO Sells 2,200 Shares of Stock",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Corporation",
+      "entity1_type": "ORG",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "Fair Isaac Corporation (NYSE:FICO) CEO Sells 2,200 Shares of Stock",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Corporation",
+      "entity1_type": "ORG",
+      "entity2": "2,200",
+      "entity2_type": "CARDINAL",
+      "sentence": "Fair Isaac Corporation (NYSE:FICO) CEO Sells 2,200 Shares of Stock",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FICO",
+      "entity1_type": "ORG",
+      "entity2": "2,200",
+      "entity2_type": "CARDINAL",
+      "sentence": "Fair Isaac Corporation (NYSE:FICO) CEO Sells 2,200 Shares of Stock",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Fargo",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo cut its FICO price target from $2,600 to $2,300.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo cut its FICO price target from $2,600 to $2,300.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "2,600",
+      "entity2_type": "MONEY",
+      "sentence": "Wells Fargo cut its FICO price target from $2,600 to $2,300.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "2,300",
+      "entity2_type": "MONEY",
+      "sentence": "Wells Fargo cut its FICO price target from $2,600 to $2,300.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo cut its FICO price target from $2,600 to $2,300.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "2,600",
+      "entity2_type": "MONEY",
+      "sentence": "Wells Fargo cut its FICO price target from $2,600 to $2,300.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "2,300",
+      "entity2_type": "MONEY",
+      "sentence": "Wells Fargo cut its FICO price target from $2,600 to $2,300.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FICO",
+      "entity1_type": "ORG",
+      "entity2": "2,600",
+      "entity2_type": "MONEY",
+      "sentence": "Wells Fargo cut its FICO price target from $2,600 to $2,300.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FICO",
+      "entity1_type": "ORG",
+      "entity2": "2,300",
+      "entity2_type": "MONEY",
+      "sentence": "Wells Fargo cut its FICO price target from $2,600 to $2,300.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2,600",
+      "entity1_type": "MONEY",
+      "entity2": "2,300",
+      "entity2_type": "MONEY",
+      "sentence": "Wells Fargo cut its FICO price target from $2,600 to $2,300.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Fargo",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Fair",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Isaac",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "2,300.00",
+      "entity2_type": "MONEY",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Fair",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Isaac",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 32
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Barron",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 50
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 51
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Fannie",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 57
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Mae",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 58
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Freddie",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 60
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Mac",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 61
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 64
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "Fair",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "Isaac",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "2,300.00",
+      "entity2_type": "MONEY",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "Fair",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "Isaac",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "Barron",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 49
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 50
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "Fannie",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 56
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "Mae",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 57
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "Freddie",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 59
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "Mac",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 60
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 63
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Fair",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Isaac",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "2,300.00",
+      "entity2_type": "MONEY",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Fair",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Isaac",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Barron",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 48
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 49
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Fannie",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 55
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Mae",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 56
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Freddie",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 58
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Mac",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 59
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 62
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Company",
+      "entity1_type": "ORG",
+      "entity2": "Fair",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Company",
+      "entity1_type": "ORG",
+      "entity2": "Isaac",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Company",
+      "entity1_type": "ORG",
+      "entity2": "2,300.00",
+      "entity2_type": "MONEY",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Company",
+      "entity1_type": "ORG",
+      "entity2": "Fair",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Company",
+      "entity1_type": "ORG",
+      "entity2": "Isaac",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Company",
+      "entity1_type": "ORG",
+      "entity2": "Barron",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 47
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Company",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 48
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Company",
+      "entity1_type": "ORG",
+      "entity2": "Fannie",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 54
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Company",
+      "entity1_type": "ORG",
+      "entity2": "Mae",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 55
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Company",
+      "entity1_type": "ORG",
+      "entity2": "Freddie",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 57
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Company",
+      "entity1_type": "ORG",
+      "entity2": "Mac",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 58
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Company",
+      "entity1_type": "ORG",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 61
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fair",
+      "entity1_type": "ORG",
+      "entity2": "Isaac",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fair",
+      "entity1_type": "ORG",
+      "entity2": "2,300.00",
+      "entity2_type": "MONEY",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fair",
+      "entity1_type": "ORG",
+      "entity2": "Fair",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fair",
+      "entity1_type": "ORG",
+      "entity2": "Isaac",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fair",
+      "entity1_type": "ORG",
+      "entity2": "Barron",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 45
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fair",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 46
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fair",
+      "entity1_type": "ORG",
+      "entity2": "Fannie",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 52
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fair",
+      "entity1_type": "ORG",
+      "entity2": "Mae",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 53
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fair",
+      "entity1_type": "ORG",
+      "entity2": "Freddie",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 55
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fair",
+      "entity1_type": "ORG",
+      "entity2": "Mac",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 56
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fair",
+      "entity1_type": "ORG",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 59
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Isaac",
+      "entity1_type": "ORG",
+      "entity2": "2,300.00",
+      "entity2_type": "MONEY",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Isaac",
+      "entity1_type": "ORG",
+      "entity2": "Fair",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Isaac",
+      "entity1_type": "ORG",
+      "entity2": "Isaac",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Isaac",
+      "entity1_type": "ORG",
+      "entity2": "Barron",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 44
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Isaac",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 45
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Isaac",
+      "entity1_type": "ORG",
+      "entity2": "Fannie",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 51
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Isaac",
+      "entity1_type": "ORG",
+      "entity2": "Mae",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 52
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Isaac",
+      "entity1_type": "ORG",
+      "entity2": "Freddie",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 54
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Isaac",
+      "entity1_type": "ORG",
+      "entity2": "Mac",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 55
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Isaac",
+      "entity1_type": "ORG",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 58
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2,300.00",
+      "entity1_type": "MONEY",
+      "entity2": "Fair",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2,300.00",
+      "entity1_type": "MONEY",
+      "entity2": "Isaac",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2,300.00",
+      "entity1_type": "MONEY",
+      "entity2": "Barron",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 34
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2,300.00",
+      "entity1_type": "MONEY",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 35
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2,300.00",
+      "entity1_type": "MONEY",
+      "entity2": "Fannie",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 41
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2,300.00",
+      "entity1_type": "MONEY",
+      "entity2": "Mae",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 42
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2,300.00",
+      "entity1_type": "MONEY",
+      "entity2": "Freddie",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 44
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2,300.00",
+      "entity1_type": "MONEY",
+      "entity2": "Mac",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 45
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2,300.00",
+      "entity1_type": "MONEY",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 48
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fair",
+      "entity1_type": "ORG",
+      "entity2": "Isaac",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fair",
+      "entity1_type": "ORG",
+      "entity2": "Barron",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fair",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fair",
+      "entity1_type": "ORG",
+      "entity2": "Fannie",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fair",
+      "entity1_type": "ORG",
+      "entity2": "Mae",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fair",
+      "entity1_type": "ORG",
+      "entity2": "Freddie",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fair",
+      "entity1_type": "ORG",
+      "entity2": "Mac",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fair",
+      "entity1_type": "ORG",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 33
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Isaac",
+      "entity1_type": "ORG",
+      "entity2": "Barron",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Isaac",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Isaac",
+      "entity1_type": "ORG",
+      "entity2": "Fannie",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Isaac",
+      "entity1_type": "ORG",
+      "entity2": "Mae",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Isaac",
+      "entity1_type": "ORG",
+      "entity2": "Freddie",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Isaac",
+      "entity1_type": "ORG",
+      "entity2": "Mac",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Isaac",
+      "entity1_type": "ORG",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 32
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barron",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barron",
+      "entity1_type": "ORG",
+      "entity2": "Fannie",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barron",
+      "entity1_type": "ORG",
+      "entity2": "Mae",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barron",
+      "entity1_type": "ORG",
+      "entity2": "Freddie",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barron",
+      "entity1_type": "ORG",
+      "entity2": "Mac",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barron",
+      "entity1_type": "ORG",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "ORG",
+      "entity2": "Fannie",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "ORG",
+      "entity2": "Mae",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "ORG",
+      "entity2": "Freddie",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "ORG",
+      "entity2": "Mac",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "ORG",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fannie",
+      "entity1_type": "ORG",
+      "entity2": "Mae",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fannie",
+      "entity1_type": "ORG",
+      "entity2": "Freddie",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fannie",
+      "entity1_type": "ORG",
+      "entity2": "Mac",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fannie",
+      "entity1_type": "ORG",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mae",
+      "entity1_type": "ORG",
+      "entity2": "Freddie",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mae",
+      "entity1_type": "ORG",
+      "entity2": "Mac",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mae",
+      "entity1_type": "ORG",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Freddie",
+      "entity1_type": "ORG",
+      "entity2": "Mac",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Freddie",
+      "entity1_type": "ORG",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mac",
+      "entity1_type": "ORG",
+      "entity2": "FICO",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fair",
+      "entity1_type": "ORG",
+      "entity2": "Isaac",
+      "entity2_type": "ORG",
+      "sentence": "Fair Isaac Stock Drops.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fannie",
+      "entity1_type": "ORG",
+      "entity2": "Freddie",
+      "entity2_type": "ORG",
+      "sentence": "Changes Are Coming to Fannie and Freddie.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 1
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "Fair Isaac Corporation",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "The stock",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "a mix",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "analyst actions",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "insider trades",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "industry recognition",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "BMO Capital Markets",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "a “Strong-Buy” rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its latest research note",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Fair Isaac",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "BMO Capital Markets",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "BMO Capital Markets",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "an “Outperform” rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "BMO Capital",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "an Outperform Rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "FICO Stock News\nPositive Sentiment",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "a Credit Award",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Fraud Prevention",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "their Scam Signal solution",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "FICO’s strength",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Credit Award",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Fraud Prevention",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its latest update",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "CEO William J. Lansing",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a combined 6,011 shares",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "two transactions",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "his stake",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "nearly 8%",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "2,200 Shares",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Wells Fargo",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its FICO price target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Wells Fargo",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "another analyst downgrade",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Analyst Downgrade",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "A Barron’s article",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "proposed changes",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Fannie Mae",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Freddie Mac",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "FICO’s mortgage analytics business",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Fair Isaac Stock",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "analyst upgrades",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "award recognition",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "insider sales",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "price-target cuts",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "potential regulatory headwinds",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "FICO’s share price",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "$1,540.70",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$2,600",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$2,300",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$2,300.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "8%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "trading",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "share",
+      "type": "pattern",
+      "category": "market_term"
+    }
+  ],
+  "important_sentences": [
+    {
+      "text": "Wells Fargo & Company Cuts Fair Isaac (NYSE:FICO) Price Target to $2,300.00\nNegative Sentiment:\nShares gapped down following another analyst downgrade.\nFair Isaac (NYSE:FICO) Shares Gap Down Following Analyst Downgrade\nNegative Sentiment:\nA Barron’s article warns proposed changes to Fannie Mae and Freddie Mac could hurt FICO’s mortgage analytics business.",
+      "importance_score": 83,
+      "entity_count": 16,
+      "financial_keyword_count": 6,
+      "money_count": 1,
+      "company_count": 7,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Barclays and FICO won a Credit Award for Excellence in Fraud Prevention for their Scam Signal solution, highlighting FICO’s strength in analytics.",
+      "importance_score": 40,
+      "entity_count": 11,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Barclays and FICO Win Credit Award for Excellence in Fraud Prevention\nNeutral Sentiment:\nZacks notes FICO trading around $1,540.70 as of its latest update.\nZacks.com\nNegative Sentiment:",
+      "importance_score": 37,
+      "entity_count": 5,
+      "financial_keyword_count": 2,
+      "money_count": 1,
+      "company_count": 4,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Wells Fargo cut its FICO price target from $2,600 to $2,300.",
+      "importance_score": 31,
+      "entity_count": 5,
+      "financial_keyword_count": 1,
+      "money_count": 2,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Overall, analyst upgrades and award recognition are counterbalanced by insider sales, price-target cuts and potential regulatory headwinds, driving volatility in FICO’s share price.",
+      "importance_score": 24,
+      "entity_count": 1,
+      "financial_keyword_count": 6,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Positive Sentiment:\nBMO Capital Markets upgraded FICO to a “Strong-Buy” rating in its latest research note.",
+      "importance_score": 22,
+      "entity_count": 4,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "positive"
+    },
+    {
+      "text": "BMO Capital Markets also initiated coverage on FICO with an “Outperform” rating.",
+      "importance_score": 22,
+      "entity_count": 4,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Fair Isaac (NYSE:FICO) Raised to \"Strong-Buy\" at BMO Capital Markets\nPositive Sentiment:",
+      "importance_score": 21,
+      "entity_count": 5,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Fair Isaac Corporation (NYSE:FICO) CEO Sells 2,200 Shares of Stock",
+      "importance_score": 21,
+      "entity_count": 5,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "FICO: BMO Capital Initiates Coverage with an Outperform Rating |",
+      "importance_score": 20,
+      "entity_count": 3,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    }
+  ],
+  "entity_statistics": {
+    "total_entities": 45,
+    "unique_entities": 26,
+    "type_counts": {
+      "ORG": 33,
+      "DATE": 2,
+      "WORK_OF_ART": 1,
+      "MONEY": 4,
+      "PERSON": 1,
+      "CARDINAL": 3,
+      "PERCENT": 1
+    },
+    "type_distribution": {
+      "ORG": 0.7333333333333333,
+      "DATE": 0.044444444444444446,
+      "WORK_OF_ART": 0.022222222222222223,
+      "MONEY": 0.08888888888888889,
+      "PERSON": 0.022222222222222223,
+      "CARDINAL": 0.06666666666666667,
+      "PERCENT": 0.022222222222222223
+    },
+    "most_common_entities": [
+      [
+        "FICO",
+        13
+      ],
+      [
+        "Fair Isaac",
+        4
+      ],
+      [
+        "BMO Capital Markets",
+        3
+      ],
+      [
+        "Fair Isaac Corporation",
+        2
+      ],
+      [
+        "Barclays",
+        2
+      ],
+      [
+        "today",
+        1
+      ],
+      [
+        "BMO Capital",
+        1
+      ],
+      [
+        "a Credit Award for Excellence in Fraud Prevention",
+        1
+      ],
+      [
+        "Zacks",
+        1
+      ],
+      [
+        "1,540.70",
+        1
+      ]
+    ],
+    "entity_types_found": [
+      "ORG",
+      "DATE",
+      "WORK_OF_ART",
+      "MONEY",
+      "PERSON",
+      "CARDINAL",
+      "PERCENT"
+    ],
+    "company_entities": 33,
+    "person_entities": 1,
+    "financial_entities": 5,
+    "entity_density": 0.17578125
+  },
+  "financial_analysis": {
+    "money_amounts": [
+      "1,540.70",
+      "2,600",
+      "2,300",
+      "2,300.00"
+    ],
+    "percentages": [
+      "nearly 8%"
+    ],
+    "companies": [
+      "Fair Isaac Corporation",
+      "FICO",
+      "BMO Capital Markets",
+      "FICO",
+      "Fair Isaac",
+      "BMO Capital Markets",
+      "BMO Capital Markets",
+      "FICO",
+      "FICO",
+      "BMO Capital",
+      "FICO",
+      "Barclays",
+      "FICO",
+      "FICO",
+      "Barclays",
+      "FICO",
+      "Zacks",
+      "FICO",
+      "Fair Isaac Corporation",
+      "FICO",
+      "Wells Fargo",
+      "FICO",
+      "Wells Fargo & Company",
+      "Fair Isaac",
+      "Fair Isaac",
+      "Barron’s",
+      "Fannie Mae",
+      "Freddie Mac",
+      "FICO",
+      "Fair Isaac",
+      "Fannie",
+      "Freddie",
+      "FICO"
+    ],
+    "people": [
+      "J. Lansing"
+    ],
+    "dates": [
+      "today",
+      "1+ days ago"
+    ],
+    "financial_terms": [
+      "share",
+      "Stock",
+      "trading",
+      "stock"
+    ],
+    "financial_metrics": [],
+    "market_indicators": [
+      "volatility",
+      "Rating",
+      "Price",
+      "price",
+      "target",
+      "rating",
+      "Downgrade",
+      "Target",
+      "downgrade"
+    ]
+  },
+  "temporal_analysis": {
+    "dates": [
+      "today",
+      "1+ days ago"
+    ],
+    "time_expressions": [],
+    "temporal_relationships": [
+      "today"
+    ],
+    "quarters": [],
+    "years": [],
+    "time_periods": []
+  },
+  "sentiment_analysis": {
+    "positive_words": 5,
+    "negative_words": 6,
+    "positive_ratio": 0.01953125,
+    "negative_ratio": 0.0234375,
+    "sentiment_score": -0.00390625,
+    "sentiment_label": "neutral",
+    "sentiment_strength": 0.00390625,
+    "confidence": 0.0390625
+  },
+  "industry_analysis": {
+    "dominant_industry": "finance",
+    "industry_scores": {
+      "tech": 1,
+      "finance": 4,
+      "healthcare": 0,
+      "energy": 0,
+      "retail": 0,
+      "automotive": 0,
+      "media": 1,
+      "industrial": 0,
+      "real_estate": 0,
+      "telecom": 0,
+      "food_beverage": 0,
+      "travel": 0,
+      "education": 0,
+      "professional": 0,
+      "mining": 0,
+      "aerospace": 0,
+      "environmental": 0,
+      "cannabis": 0
+    },
+    "confidence": 0.6666666666666666
+  },
+  "market_analysis": {
+    "market_sentiment": "bearish",
+    "bullish_indicators": 0,
+    "bearish_indicators": 1,
+    "market_conditions": {
+      "volatility": "high",
+      "volume": "normal",
+      "trend": "bearish"
+    },
+    "trading_activity": "normal"
+  },
+  "competitor_analysis": {
+    "companies_mentioned": [
+      "Fair Isaac Corporation",
+      "FICO",
+      "BMO Capital Markets",
+      "FICO",
+      "Fair Isaac",
+      "BMO Capital Markets",
+      "BMO Capital Markets",
+      "FICO",
+      "FICO",
+      "BMO Capital",
+      "FICO",
+      "Barclays",
+      "FICO",
+      "FICO",
+      "Barclays",
+      "FICO",
+      "Zacks",
+      "FICO",
+      "Fair Isaac Corporation",
+      "FICO",
+      "Wells Fargo",
+      "FICO",
+      "Wells Fargo & Company",
+      "Fair Isaac",
+      "Fair Isaac",
+      "Barron’s",
+      "Fannie Mae",
+      "Freddie Mac",
+      "FICO",
+      "Fair Isaac",
+      "Fannie",
+      "Freddie",
+      "FICO"
+    ],
+    "competitive_context": [
+      "BMO Capital Markets also initiated coverage on FICO with an “Outperform” rating.",
+      "FICO: BMO Capital Initiates Coverage with an Outperform Rating |"
+    ],
+    "competitor_count": 33,
+    "has_competitive_language": true
+  },
+  "risk_analysis": {
+    "risk_sentences": [
+      "Overall, analyst upgrades and award recognition are counterbalanced by insider sales, price-target cuts and potential regulatory headwinds, driving volatility in FICO’s share price."
+    ],
+    "risk_count": 1,
+    "risk_level": "low"
+  },
+  "opportunity_analysis": {
+    "opportunity_sentences": [
+      "Overall, analyst upgrades and award recognition are counterbalanced by insider sales, price-target cuts and potential regulatory headwinds, driving volatility in FICO’s share price."
+    ],
+    "opportunity_count": 1,
+    "opportunity_level": "low"
+  },
+  "processing_metadata": {
+    "timestamp": "2025-07-13T05:23:27.210498",
+    "model_used": "en_core_web_trf",
+    "text_length": 1777
+  }
+}
