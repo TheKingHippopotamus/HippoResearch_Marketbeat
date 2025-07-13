@@ -1,0 +1,4253 @@
+{
+  "ticker": "KKR",
+  "entities": [
+    {
+      "text": "KKR & Co. Inc.",
+      "label": "ORG",
+      "start": 0,
+      "end": 14,
+      "sentence": "KKR & Co. Inc. (NYSE: KKR) shares are trading higher today as several analysts lifted their price targets, although recent fee-related earnings pressures and a rating cut have introduced some headwinds.",
+      "context": "KKR & Co. Inc. (NYSE: KKR) shares are trading higher today as se",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "KKR",
+      "label": "ORG",
+      "start": 22,
+      "end": 25,
+      "sentence": "KKR & Co. Inc. (NYSE: KKR) shares are trading higher today as several analysts lifted their price targets, although recent fee-related earnings pressures and a rating cut have introduced some headwinds.",
+      "context": "KKR & Co. Inc. (NYSE: KKR) shares are trading higher today as several analy",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "today",
+      "label": "DATE",
+      "start": 53,
+      "end": 58,
+      "sentence": "KKR & Co. Inc. (NYSE: KKR) shares are trading higher today as several analysts lifted their price targets, although recent fee-related earnings pressures and a rating cut have introduced some headwinds.",
+      "context": "& Co. Inc. (NYSE: KKR) shares are trading higher today as several analysts lifted their price targets, a",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Wells Fargo",
+      "label": "ORG",
+      "start": 223,
+      "end": 234,
+      "sentence": "Positive Sentiment:\nWells Fargo raised its price objective from $140.00 to $156.00 and maintained an “overweight” rating, implying roughly 10.5% upside.",
+      "context": "ve introduced some headwinds.\nPositive Sentiment:\nWells Fargo raised its price objective from $140.00 to $156.0",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "140.00",
+      "label": "MONEY",
+      "start": 268,
+      "end": 274,
+      "sentence": "Positive Sentiment:\nWells Fargo raised its price objective from $140.00 to $156.00 and maintained an “overweight” rating, implying roughly 10.5% upside.",
+      "context": "ent:\nWells Fargo raised its price objective from $140.00 to $156.00 and maintained an “overweight” rating,",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "156.00",
+      "label": "MONEY",
+      "start": 279,
+      "end": 285,
+      "sentence": "Positive Sentiment:\nWells Fargo raised its price objective from $140.00 to $156.00 and maintained an “overweight” rating, implying roughly 10.5% upside.",
+      "context": "Fargo raised its price objective from $140.00 to $156.00 and maintained an “overweight” rating, implying r",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "roughly 10.5%",
+      "label": "PERCENT",
+      "start": 334,
+      "end": 347,
+      "sentence": "Positive Sentiment:\nWells Fargo raised its price objective from $140.00 to $156.00 and maintained an “overweight” rating, implying roughly 10.5% upside.",
+      "context": "0 and maintained an “overweight” rating, implying roughly 10.5% upside.\nKKR Price Target Raised to $156 at Wells",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "KKR",
+      "label": "ORG",
+      "start": 356,
+      "end": 359,
+      "sentence": "KKR Price Target Raised to $156 at Wells Fargo & Company\nPositive Sentiment:",
+      "context": "verweight” rating, implying roughly 10.5% upside.\nKKR Price Target Raised to $156 at Wells Fargo & Comp",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "156",
+      "label": "MONEY",
+      "start": 384,
+      "end": 387,
+      "sentence": "KKR Price Target Raised to $156 at Wells Fargo & Company\nPositive Sentiment:",
+      "context": "roughly 10.5% upside.\nKKR Price Target Raised to $156 at Wells Fargo & Company\nPositive Sentiment:\nCiti",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Wells Fargo & Company",
+      "label": "ORG",
+      "start": 391,
+      "end": 412,
+      "sentence": "KKR Price Target Raised to $156 at Wells Fargo & Company\nPositive Sentiment:",
+      "context": "10.5% upside.\nKKR Price Target Raised to $156 at Wells Fargo & Company\nPositive Sentiment:\nCitigroup lifted its target f",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Citigroup",
+      "label": "ORG",
+      "start": 433,
+      "end": 442,
+      "sentence": "Citigroup lifted its target from $132.00 to $160.00 with a “buy” rating, suggesting about 13.4% upside.",
+      "context": "$156 at Wells Fargo & Company\nPositive Sentiment:\nCitigroup lifted its target from $132.00 to $160.00 with a",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "132.00",
+      "label": "MONEY",
+      "start": 467,
+      "end": 473,
+      "sentence": "Citigroup lifted its target from $132.00 to $160.00 with a “buy” rating, suggesting about 13.4% upside.",
+      "context": "tive Sentiment:\nCitigroup lifted its target from $132.00 to $160.00 with a “buy” rating, suggesting about",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "160.00",
+      "label": "MONEY",
+      "start": 478,
+      "end": 484,
+      "sentence": "Citigroup lifted its target from $132.00 to $160.00 with a “buy” rating, suggesting about 13.4% upside.",
+      "context": "ent:\nCitigroup lifted its target from $132.00 to $160.00 with a “buy” rating, suggesting about 13.4% upsid",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "about 13.4%",
+      "label": "PERCENT",
+      "start": 517,
+      "end": 528,
+      "sentence": "Citigroup lifted its target from $132.00 to $160.00 with a “buy” rating, suggesting about 13.4% upside.",
+      "context": "132.00 to $160.00 with a “buy” rating, suggesting about 13.4% upside.\nCitigroup Issues Positive Forecast for KK",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Citigroup",
+      "label": "ORG",
+      "start": 537,
+      "end": 546,
+      "sentence": "Citigroup Issues Positive Forecast for KKR Stock Price\nPositive Sentiment:",
+      "context": "th a “buy” rating, suggesting about 13.4% upside.\nCitigroup Issues Positive Forecast for KKR Stock Price\nPosi",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "KKR",
+      "label": "ORG",
+      "start": 576,
+      "end": 579,
+      "sentence": "Citigroup Issues Positive Forecast for KKR Stock Price\nPositive Sentiment:",
+      "context": "4% upside.\nCitigroup Issues Positive Forecast for KKR Stock Price\nPositive Sentiment:\nBarclays increase",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Barclays",
+      "label": "ORG",
+      "start": 612,
+      "end": 620,
+      "sentence": "Barclays increased its objective from $141.00 to $155.00 and kept an “overweight” rating, reflecting nearly 9.8% potential gain.",
+      "context": "Forecast for KKR Stock Price\nPositive Sentiment:\nBarclays increased its objective from $141.00 to $155.00 a",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "141.00",
+      "label": "MONEY",
+      "start": 651,
+      "end": 657,
+      "sentence": "Barclays increased its objective from $141.00 to $155.00 and kept an “overweight” rating, reflecting nearly 9.8% potential gain.",
+      "context": "Sentiment:\nBarclays increased its objective from $141.00 to $155.00 and kept an “overweight” rating, refle",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "155.00",
+      "label": "MONEY",
+      "start": 662,
+      "end": 668,
+      "sentence": "Barclays increased its objective from $141.00 to $155.00 and kept an “overweight” rating, reflecting nearly 9.8% potential gain.",
+      "context": "Barclays increased its objective from $141.00 to $155.00 and kept an “overweight” rating, reflecting nearl",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "nearly 9.8%",
+      "label": "PERCENT",
+      "start": 713,
+      "end": 724,
+      "sentence": "Barclays increased its objective from $141.00 to $155.00 and kept an “overweight” rating, reflecting nearly 9.8% potential gain.",
+      "context": "55.00 and kept an “overweight” rating, reflecting nearly 9.8% potential gain.\nKKR Given New $155 Price Target a",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "KKR",
+      "label": "ORG",
+      "start": 741,
+      "end": 744,
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "context": "t” rating, reflecting nearly 9.8% potential gain.\nKKR Given New $155 Price Target at Barclays\nPositive",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "155",
+      "label": "MONEY",
+      "start": 756,
+      "end": 759,
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "context": "ecting nearly 9.8% potential gain.\nKKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEver",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Barclays",
+      "label": "ORG",
+      "start": 776,
+      "end": 784,
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "context": "otential gain.\nKKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its targe",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Evercore ISI",
+      "label": "ORG",
+      "start": 805,
+      "end": 817,
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "context": "$155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "130.00",
+      "label": "MONEY",
+      "start": 842,
+      "end": 848,
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "context": "e Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicatin",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "150.00",
+      "label": "MONEY",
+      "start": 853,
+      "end": 859,
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "context": ":\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "about 6.3%",
+      "label": "PERCENT",
+      "start": 900,
+      "end": 910,
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "context": "o $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Evercore ISI",
+      "label": "ORG",
+      "start": 919,
+      "end": 931,
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "context": "outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "KKR",
+      "label": "ORG",
+      "start": 939,
+      "end": 942,
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "context": "indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:\nMSN repor",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "150",
+      "label": "MONEY",
+      "start": 960,
+      "end": 963,
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "context": "upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:\nMSN reports KKR “took a breath",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "MSN",
+      "label": "ORG",
+      "start": 983,
+      "end": 986,
+      "sentence": "MSN reports KKR “took a breath after two strong years,” as management revisits deal-sizing and valuations following a period of robust growth.",
+      "context": "aises KKR Price Target to $150\nNeutral Sentiment:\nMSN reports KKR “took a breath after two strong years",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "KKR",
+      "label": "ORG",
+      "start": 995,
+      "end": 998,
+      "sentence": "MSN reports KKR “took a breath after two strong years,” as management revisits deal-sizing and valuations following a period of robust growth.",
+      "context": "ice Target to $150\nNeutral Sentiment:\nMSN reports KKR “took a breath after two strong years,” as manage",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "two strong years",
+      "label": "DATE",
+      "start": 1020,
+      "end": 1036,
+      "sentence": "MSN reports KKR “took a breath after two strong years,” as management revisits deal-sizing and valuations following a period of robust growth.",
+      "context": "l Sentiment:\nMSN reports KKR “took a breath after two strong years,” as management revisits deal-sizing and valuatio",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "KKR",
+      "label": "ORG",
+      "start": 1126,
+      "end": 1129,
+      "sentence": "KKR Took a Breath After Two Strong Years\nNeutral Sentiment:",
+      "context": "d valuations following a period of robust growth.\nKKR Took a Breath After Two Strong Years\nNeutral Sent",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Two Strong Years",
+      "label": "DATE",
+      "start": 1150,
+      "end": 1166,
+      "sentence": "KKR Took a Breath After Two Strong Years\nNeutral Sentiment:",
+      "context": "period of robust growth.\nKKR Took a Breath After Two Strong Years\nNeutral Sentiment:\nFS KKR Capital Corp. (NYSE: FS",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "FS KKR Capital Corp.",
+      "label": "ORG",
+      "start": 1186,
+      "end": 1206,
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "context": "Breath After Two Strong Years\nNeutral Sentiment:\nFS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development c",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "FSK",
+      "label": "ORG",
+      "start": 1214,
+      "end": 1217,
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "context": "rs\nNeutral Sentiment:\nFS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, sch",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "KKR",
+      "label": "ORG",
+      "start": 1222,
+      "end": 1225,
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "context": "al Sentiment:\nFS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled i",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q2",
+      "label": "DATE",
+      "start": 1278,
+      "end": 1280,
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "context": "vised business development company, scheduled its Q2 earnings release for August 6 and a conference ca",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "August 6",
+      "label": "DATE",
+      "start": 1302,
+      "end": 1310,
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "context": "nt company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a t",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "August 7",
+      "label": "DATE",
+      "start": 1337,
+      "end": 1345,
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "context": "gs release for August 6 and a conference call for August 7, providing a timeline for next-period performance",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "FSK",
+      "label": "ORG",
+      "start": 1405,
+      "end": 1408,
+      "sentence": "FSK Announces Q2 Earnings Release and Conference Call Schedule\nNegative Sentiment:",
+      "context": "g a timeline for next-period performance updates.\nFSK Announces Q2 Earnings Release and Conference Call",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q2",
+      "label": "DATE",
+      "start": 1419,
+      "end": 1421,
+      "sentence": "FSK Announces Q2 Earnings Release and Conference Call Schedule\nNegative Sentiment:",
+      "context": "or next-period performance updates.\nFSK Announces Q2 Earnings Release and Conference Call Schedule\nNeg",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "MSN",
+      "label": "ORG",
+      "start": 1488,
+      "end": 1491,
+      "sentence": "MSN highlights that KKR’s shares fell in Q2 due to slower deal activity, lower fee-related earnings and mark-to-market adjustments on investments.",
+      "context": "and Conference Call Schedule\nNegative Sentiment:\nMSN highlights that KKR’s shares fell in Q2 due to sl",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "KKR",
+      "label": "ORG",
+      "start": 1508,
+      "end": 1511,
+      "sentence": "MSN highlights that KKR’s shares fell in Q2 due to slower deal activity, lower fee-related earnings and mark-to-market adjustments on investments.",
+      "context": "Schedule\nNegative Sentiment:\nMSN highlights that KKR’s shares fell in Q2 due to slower deal activity,",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q2",
+      "label": "DATE",
+      "start": 1529,
+      "end": 1531,
+      "sentence": "MSN highlights that KKR’s shares fell in Q2 due to slower deal activity, lower fee-related earnings and mark-to-market adjustments on investments.",
+      "context": "ntiment:\nMSN highlights that KKR’s shares fell in Q2 due to slower deal activity, lower fee-related ea",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "KKR",
+      "label": "ORG",
+      "start": 1646,
+      "end": 1649,
+      "sentence": "Here’s Why KKR Shares Fell in Q2\nNegative Sentiment:",
+      "context": "-to-market adjustments on investments.\nHere’s Why KKR Shares Fell in Q2\nNegative Sentiment:\nHSBC Global",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q2",
+      "label": "DATE",
+      "start": 1665,
+      "end": 1667,
+      "sentence": "Here’s Why KKR Shares Fell in Q2\nNegative Sentiment:",
+      "context": "nts on investments.\nHere’s Why KKR Shares Fell in Q2\nNegative Sentiment:\nHSBC Global Research downgrad",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "HSBC Global Research",
+      "label": "ORG",
+      "start": 1688,
+      "end": 1708,
+      "sentence": "HSBC Global Research downgraded KKR from a “strong-buy” to a “hold,” signaling a more cautious view on near-term growth.",
+      "context": "e’s Why KKR Shares Fell in Q2\nNegative Sentiment:\nHSBC Global Research downgraded KKR from a “strong-buy” to a “hold,” s",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "KKR",
+      "label": "ORG",
+      "start": 1720,
+      "end": 1723,
+      "sentence": "HSBC Global Research downgraded KKR from a “strong-buy” to a “hold,” signaling a more cautious view on near-term growth.",
+      "context": "gative Sentiment:\nHSBC Global Research downgraded KKR from a “strong-buy” to a “hold,” signaling a more",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "KKR",
+      "label": "ORG",
+      "start": 1809,
+      "end": 1812,
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "context": "gnaling a more cautious view on near-term growth.\nKKR Downgraded by HSBC Global Research to Hold\nPosted",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "HSBC Global Research",
+      "label": "ORG",
+      "start": 1827,
+      "end": 1847,
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "context": "tious view on near-term growth.\nKKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated. May Cont",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "1+ days ago",
+      "label": "DATE",
+      "start": 1863,
+      "end": 1874,
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "context": "Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AI Generated",
+      "label": "ORG",
+      "start": 1875,
+      "end": 1887,
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "context": "y HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    }
+  ],
+  "relationships": [
+    {
+      "type": "SVO",
+      "subject": "analysts",
+      "verb": "lifted",
+      "object": "targets",
+      "sentence": "KKR & Co. Inc. (NYSE: KKR) shares are trading higher today as several analysts lifted their price targets, although recent fee-related earnings pressures and a rating cut have introduced some headwinds.",
+      "importance": 9
+    },
+    {
+      "type": "SVO",
+      "subject": "pressures",
+      "verb": "introduced",
+      "object": "headwinds",
+      "sentence": "KKR & Co. Inc. (NYSE: KKR) shares are trading higher today as several analysts lifted their price targets, although recent fee-related earnings pressures and a rating cut have introduced some headwinds.",
+      "importance": 9
+    },
+    {
+      "type": "SVO",
+      "subject": "Fargo",
+      "verb": "raised",
+      "object": "objective",
+      "sentence": "Positive Sentiment:\nWells Fargo raised its price objective from $140.00 to $156.00 and maintained an “overweight” rating, implying roughly 10.5% upside.",
+      "importance": 8
+    },
+    {
+      "type": "SVO",
+      "subject": "Citigroup",
+      "verb": "lifted",
+      "object": "target",
+      "sentence": "Citigroup lifted its target from $132.00 to $160.00 with a “buy” rating, suggesting about 13.4% upside.",
+      "importance": 9
+    },
+    {
+      "type": "SVO",
+      "subject": "Citigroup",
+      "verb": "Issues",
+      "object": "Forecast",
+      "sentence": "Citigroup Issues Positive Forecast for KKR Stock Price\nPositive Sentiment:",
+      "importance": 4
+    },
+    {
+      "type": "SVO",
+      "subject": "Barclays",
+      "verb": "increased",
+      "object": "objective",
+      "sentence": "Barclays increased its objective from $141.00 to $155.00 and kept an “overweight” rating, reflecting nearly 9.8% potential gain.",
+      "importance": 7
+    },
+    {
+      "type": "SVO",
+      "subject": "KKR",
+      "verb": "Given",
+      "object": "Target",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "importance": 19
+    },
+    {
+      "type": "SVO",
+      "subject": "ISI",
+      "verb": "raised",
+      "object": "target",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "importance": 19
+    },
+    {
+      "type": "SVO",
+      "subject": "ISI",
+      "verb": "Raises",
+      "object": "Target",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "importance": 19
+    },
+    {
+      "type": "SVO",
+      "subject": "KKR",
+      "verb": "took",
+      "object": "breath",
+      "sentence": "MSN reports KKR “took a breath after two strong years,” as management revisits deal-sizing and valuations following a period of robust growth.",
+      "importance": 6
+    },
+    {
+      "type": "SVO",
+      "subject": "management",
+      "verb": "revisits",
+      "object": "sizing",
+      "sentence": "MSN reports KKR “took a breath after two strong years,” as management revisits deal-sizing and valuations following a period of robust growth.",
+      "importance": 6
+    },
+    {
+      "type": "SVO",
+      "subject": "KKR",
+      "verb": "Took",
+      "object": "Breath",
+      "sentence": "KKR Took a Breath After Two Strong Years\nNeutral Sentiment:",
+      "importance": 4
+    },
+    {
+      "type": "SVO",
+      "subject": "Corp.",
+      "verb": "scheduled",
+      "object": "release",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "importance": 13
+    },
+    {
+      "type": "SVO",
+      "subject": "FSK",
+      "verb": "Announces",
+      "object": "Release",
+      "sentence": "FSK Announces Q2 Earnings Release and Conference Call Schedule\nNegative Sentiment:",
+      "importance": 3
+    },
+    {
+      "type": "SVO",
+      "subject": "Research",
+      "verb": "downgraded",
+      "object": "KKR",
+      "sentence": "HSBC Global Research downgraded KKR from a “strong-buy” to a “hold,” signaling a more cautious view on near-term growth.",
+      "importance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "KKR & Co. Inc. (NYSE: KKR) shares are trading higher today as several analysts lifted their price targets, although recent fee-related earnings pressures and a rating cut have introduced some headwinds.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "Co.",
+      "entity2_type": "ORG",
+      "sentence": "KKR & Co. Inc. (NYSE: KKR) shares are trading higher today as several analysts lifted their price targets, although recent fee-related earnings pressures and a rating cut have introduced some headwinds.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "KKR & Co. Inc. (NYSE: KKR) shares are trading higher today as several analysts lifted their price targets, although recent fee-related earnings pressures and a rating cut have introduced some headwinds.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "KKR",
+      "entity2_type": "ORG",
+      "sentence": "KKR & Co. Inc. (NYSE: KKR) shares are trading higher today as several analysts lifted their price targets, although recent fee-related earnings pressures and a rating cut have introduced some headwinds.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "KKR & Co. Inc. (NYSE: KKR) shares are trading higher today as several analysts lifted their price targets, although recent fee-related earnings pressures and a rating cut have introduced some headwinds.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Co.",
+      "entity2_type": "ORG",
+      "sentence": "KKR & Co. Inc. (NYSE: KKR) shares are trading higher today as several analysts lifted their price targets, although recent fee-related earnings pressures and a rating cut have introduced some headwinds.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "KKR & Co. Inc. (NYSE: KKR) shares are trading higher today as several analysts lifted their price targets, although recent fee-related earnings pressures and a rating cut have introduced some headwinds.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "KKR",
+      "entity2_type": "ORG",
+      "sentence": "KKR & Co. Inc. (NYSE: KKR) shares are trading higher today as several analysts lifted their price targets, although recent fee-related earnings pressures and a rating cut have introduced some headwinds.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "KKR & Co. Inc. (NYSE: KKR) shares are trading higher today as several analysts lifted their price targets, although recent fee-related earnings pressures and a rating cut have introduced some headwinds.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Co.",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "KKR & Co. Inc. (NYSE: KKR) shares are trading higher today as several analysts lifted their price targets, although recent fee-related earnings pressures and a rating cut have introduced some headwinds.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Co.",
+      "entity1_type": "ORG",
+      "entity2": "KKR",
+      "entity2_type": "ORG",
+      "sentence": "KKR & Co. Inc. (NYSE: KKR) shares are trading higher today as several analysts lifted their price targets, although recent fee-related earnings pressures and a rating cut have introduced some headwinds.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Co.",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "KKR & Co. Inc. (NYSE: KKR) shares are trading higher today as several analysts lifted their price targets, although recent fee-related earnings pressures and a rating cut have introduced some headwinds.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "KKR",
+      "entity2_type": "ORG",
+      "sentence": "KKR & Co. Inc. (NYSE: KKR) shares are trading higher today as several analysts lifted their price targets, although recent fee-related earnings pressures and a rating cut have introduced some headwinds.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "KKR & Co. Inc. (NYSE: KKR) shares are trading higher today as several analysts lifted their price targets, although recent fee-related earnings pressures and a rating cut have introduced some headwinds.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "KKR & Co. Inc. (NYSE: KKR) shares are trading higher today as several analysts lifted their price targets, although recent fee-related earnings pressures and a rating cut have introduced some headwinds.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Fargo",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nWells Fargo raised its price objective from $140.00 to $156.00 and maintained an “overweight” rating, implying roughly 10.5% upside.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "140.00",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nWells Fargo raised its price objective from $140.00 to $156.00 and maintained an “overweight” rating, implying roughly 10.5% upside.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "156.00",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nWells Fargo raised its price objective from $140.00 to $156.00 and maintained an “overweight” rating, implying roughly 10.5% upside.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "roughly",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nWells Fargo raised its price objective from $140.00 to $156.00 and maintained an “overweight” rating, implying roughly 10.5% upside.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "10.5",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nWells Fargo raised its price objective from $140.00 to $156.00 and maintained an “overweight” rating, implying roughly 10.5% upside.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nWells Fargo raised its price objective from $140.00 to $156.00 and maintained an “overweight” rating, implying roughly 10.5% upside.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "140.00",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nWells Fargo raised its price objective from $140.00 to $156.00 and maintained an “overweight” rating, implying roughly 10.5% upside.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "156.00",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nWells Fargo raised its price objective from $140.00 to $156.00 and maintained an “overweight” rating, implying roughly 10.5% upside.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "roughly",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nWells Fargo raised its price objective from $140.00 to $156.00 and maintained an “overweight” rating, implying roughly 10.5% upside.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "10.5",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nWells Fargo raised its price objective from $140.00 to $156.00 and maintained an “overweight” rating, implying roughly 10.5% upside.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nWells Fargo raised its price objective from $140.00 to $156.00 and maintained an “overweight” rating, implying roughly 10.5% upside.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "140.00",
+      "entity1_type": "MONEY",
+      "entity2": "156.00",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nWells Fargo raised its price objective from $140.00 to $156.00 and maintained an “overweight” rating, implying roughly 10.5% upside.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "140.00",
+      "entity1_type": "MONEY",
+      "entity2": "roughly",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nWells Fargo raised its price objective from $140.00 to $156.00 and maintained an “overweight” rating, implying roughly 10.5% upside.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "140.00",
+      "entity1_type": "MONEY",
+      "entity2": "10.5",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nWells Fargo raised its price objective from $140.00 to $156.00 and maintained an “overweight” rating, implying roughly 10.5% upside.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "140.00",
+      "entity1_type": "MONEY",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nWells Fargo raised its price objective from $140.00 to $156.00 and maintained an “overweight” rating, implying roughly 10.5% upside.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "156.00",
+      "entity1_type": "MONEY",
+      "entity2": "roughly",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nWells Fargo raised its price objective from $140.00 to $156.00 and maintained an “overweight” rating, implying roughly 10.5% upside.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "156.00",
+      "entity1_type": "MONEY",
+      "entity2": "10.5",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nWells Fargo raised its price objective from $140.00 to $156.00 and maintained an “overweight” rating, implying roughly 10.5% upside.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "156.00",
+      "entity1_type": "MONEY",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nWells Fargo raised its price objective from $140.00 to $156.00 and maintained an “overweight” rating, implying roughly 10.5% upside.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "roughly",
+      "entity1_type": "PERCENT",
+      "entity2": "10.5",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nWells Fargo raised its price objective from $140.00 to $156.00 and maintained an “overweight” rating, implying roughly 10.5% upside.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "roughly",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nWells Fargo raised its price objective from $140.00 to $156.00 and maintained an “overweight” rating, implying roughly 10.5% upside.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "10.5",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nWells Fargo raised its price objective from $140.00 to $156.00 and maintained an “overweight” rating, implying roughly 10.5% upside.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "156",
+      "entity2_type": "MONEY",
+      "sentence": "KKR Price Target Raised to $156 at Wells Fargo & Company\nPositive Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "Wells",
+      "entity2_type": "ORG",
+      "sentence": "KKR Price Target Raised to $156 at Wells Fargo & Company\nPositive Sentiment:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "Fargo",
+      "entity2_type": "ORG",
+      "sentence": "KKR Price Target Raised to $156 at Wells Fargo & Company\nPositive Sentiment:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "KKR Price Target Raised to $156 at Wells Fargo & Company\nPositive Sentiment:",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "KKR Price Target Raised to $156 at Wells Fargo & Company\nPositive Sentiment:",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "156",
+      "entity1_type": "MONEY",
+      "entity2": "Wells",
+      "entity2_type": "ORG",
+      "sentence": "KKR Price Target Raised to $156 at Wells Fargo & Company\nPositive Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "156",
+      "entity1_type": "MONEY",
+      "entity2": "Fargo",
+      "entity2_type": "ORG",
+      "sentence": "KKR Price Target Raised to $156 at Wells Fargo & Company\nPositive Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "156",
+      "entity1_type": "MONEY",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "KKR Price Target Raised to $156 at Wells Fargo & Company\nPositive Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "156",
+      "entity1_type": "MONEY",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "KKR Price Target Raised to $156 at Wells Fargo & Company\nPositive Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Fargo",
+      "entity2_type": "ORG",
+      "sentence": "KKR Price Target Raised to $156 at Wells Fargo & Company\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "KKR Price Target Raised to $156 at Wells Fargo & Company\nPositive Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "KKR Price Target Raised to $156 at Wells Fargo & Company\nPositive Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "KKR Price Target Raised to $156 at Wells Fargo & Company\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "KKR Price Target Raised to $156 at Wells Fargo & Company\nPositive Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "KKR Price Target Raised to $156 at Wells Fargo & Company\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Citigroup",
+      "entity1_type": "ORG",
+      "entity2": "132.00",
+      "entity2_type": "MONEY",
+      "sentence": "Citigroup lifted its target from $132.00 to $160.00 with a “buy” rating, suggesting about 13.4% upside.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Citigroup",
+      "entity1_type": "ORG",
+      "entity2": "160.00",
+      "entity2_type": "MONEY",
+      "sentence": "Citigroup lifted its target from $132.00 to $160.00 with a “buy” rating, suggesting about 13.4% upside.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Citigroup",
+      "entity1_type": "ORG",
+      "entity2": "about",
+      "entity2_type": "PERCENT",
+      "sentence": "Citigroup lifted its target from $132.00 to $160.00 with a “buy” rating, suggesting about 13.4% upside.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Citigroup",
+      "entity1_type": "ORG",
+      "entity2": "13.4",
+      "entity2_type": "PERCENT",
+      "sentence": "Citigroup lifted its target from $132.00 to $160.00 with a “buy” rating, suggesting about 13.4% upside.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Citigroup",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Citigroup lifted its target from $132.00 to $160.00 with a “buy” rating, suggesting about 13.4% upside.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "132.00",
+      "entity1_type": "MONEY",
+      "entity2": "160.00",
+      "entity2_type": "MONEY",
+      "sentence": "Citigroup lifted its target from $132.00 to $160.00 with a “buy” rating, suggesting about 13.4% upside.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "132.00",
+      "entity1_type": "MONEY",
+      "entity2": "about",
+      "entity2_type": "PERCENT",
+      "sentence": "Citigroup lifted its target from $132.00 to $160.00 with a “buy” rating, suggesting about 13.4% upside.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "132.00",
+      "entity1_type": "MONEY",
+      "entity2": "13.4",
+      "entity2_type": "PERCENT",
+      "sentence": "Citigroup lifted its target from $132.00 to $160.00 with a “buy” rating, suggesting about 13.4% upside.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "132.00",
+      "entity1_type": "MONEY",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Citigroup lifted its target from $132.00 to $160.00 with a “buy” rating, suggesting about 13.4% upside.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "160.00",
+      "entity1_type": "MONEY",
+      "entity2": "about",
+      "entity2_type": "PERCENT",
+      "sentence": "Citigroup lifted its target from $132.00 to $160.00 with a “buy” rating, suggesting about 13.4% upside.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "160.00",
+      "entity1_type": "MONEY",
+      "entity2": "13.4",
+      "entity2_type": "PERCENT",
+      "sentence": "Citigroup lifted its target from $132.00 to $160.00 with a “buy” rating, suggesting about 13.4% upside.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "160.00",
+      "entity1_type": "MONEY",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Citigroup lifted its target from $132.00 to $160.00 with a “buy” rating, suggesting about 13.4% upside.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "about",
+      "entity1_type": "PERCENT",
+      "entity2": "13.4",
+      "entity2_type": "PERCENT",
+      "sentence": "Citigroup lifted its target from $132.00 to $160.00 with a “buy” rating, suggesting about 13.4% upside.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "about",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Citigroup lifted its target from $132.00 to $160.00 with a “buy” rating, suggesting about 13.4% upside.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "13.4",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Citigroup lifted its target from $132.00 to $160.00 with a “buy” rating, suggesting about 13.4% upside.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Citigroup",
+      "entity1_type": "ORG",
+      "entity2": "KKR",
+      "entity2_type": "ORG",
+      "sentence": "Citigroup Issues Positive Forecast for KKR Stock Price\nPositive Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "141.00",
+      "entity2_type": "MONEY",
+      "sentence": "Barclays increased its objective from $141.00 to $155.00 and kept an “overweight” rating, reflecting nearly 9.8% potential gain.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "155.00",
+      "entity2_type": "MONEY",
+      "sentence": "Barclays increased its objective from $141.00 to $155.00 and kept an “overweight” rating, reflecting nearly 9.8% potential gain.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "nearly",
+      "entity2_type": "PERCENT",
+      "sentence": "Barclays increased its objective from $141.00 to $155.00 and kept an “overweight” rating, reflecting nearly 9.8% potential gain.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "9.8",
+      "entity2_type": "PERCENT",
+      "sentence": "Barclays increased its objective from $141.00 to $155.00 and kept an “overweight” rating, reflecting nearly 9.8% potential gain.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Barclays increased its objective from $141.00 to $155.00 and kept an “overweight” rating, reflecting nearly 9.8% potential gain.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "141.00",
+      "entity1_type": "MONEY",
+      "entity2": "155.00",
+      "entity2_type": "MONEY",
+      "sentence": "Barclays increased its objective from $141.00 to $155.00 and kept an “overweight” rating, reflecting nearly 9.8% potential gain.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "141.00",
+      "entity1_type": "MONEY",
+      "entity2": "nearly",
+      "entity2_type": "PERCENT",
+      "sentence": "Barclays increased its objective from $141.00 to $155.00 and kept an “overweight” rating, reflecting nearly 9.8% potential gain.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "141.00",
+      "entity1_type": "MONEY",
+      "entity2": "9.8",
+      "entity2_type": "PERCENT",
+      "sentence": "Barclays increased its objective from $141.00 to $155.00 and kept an “overweight” rating, reflecting nearly 9.8% potential gain.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "141.00",
+      "entity1_type": "MONEY",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Barclays increased its objective from $141.00 to $155.00 and kept an “overweight” rating, reflecting nearly 9.8% potential gain.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "155.00",
+      "entity1_type": "MONEY",
+      "entity2": "nearly",
+      "entity2_type": "PERCENT",
+      "sentence": "Barclays increased its objective from $141.00 to $155.00 and kept an “overweight” rating, reflecting nearly 9.8% potential gain.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "155.00",
+      "entity1_type": "MONEY",
+      "entity2": "9.8",
+      "entity2_type": "PERCENT",
+      "sentence": "Barclays increased its objective from $141.00 to $155.00 and kept an “overweight” rating, reflecting nearly 9.8% potential gain.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "155.00",
+      "entity1_type": "MONEY",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Barclays increased its objective from $141.00 to $155.00 and kept an “overweight” rating, reflecting nearly 9.8% potential gain.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "nearly",
+      "entity1_type": "PERCENT",
+      "entity2": "9.8",
+      "entity2_type": "PERCENT",
+      "sentence": "Barclays increased its objective from $141.00 to $155.00 and kept an “overweight” rating, reflecting nearly 9.8% potential gain.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "nearly",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Barclays increased its objective from $141.00 to $155.00 and kept an “overweight” rating, reflecting nearly 9.8% potential gain.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "9.8",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Barclays increased its objective from $141.00 to $155.00 and kept an “overweight” rating, reflecting nearly 9.8% potential gain.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "155",
+      "entity2_type": "MONEY",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "Barclays",
+      "entity2_type": "ORG",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "Evercore",
+      "entity2_type": "ORG",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "ISI",
+      "entity2_type": "ORG",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "130.00",
+      "entity2_type": "MONEY",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "150.00",
+      "entity2_type": "MONEY",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "about",
+      "entity2_type": "PERCENT",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 33
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "6.3",
+      "entity2_type": "PERCENT",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 34
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 35
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "Evercore",
+      "entity2_type": "ORG",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 39
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "ISI",
+      "entity2_type": "ORG",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 40
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "KKR",
+      "entity2_type": "ORG",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 42
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "150",
+      "entity2_type": "MONEY",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 47
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "155",
+      "entity1_type": "MONEY",
+      "entity2": "Barclays",
+      "entity2_type": "ORG",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "155",
+      "entity1_type": "MONEY",
+      "entity2": "Evercore",
+      "entity2_type": "ORG",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "155",
+      "entity1_type": "MONEY",
+      "entity2": "ISI",
+      "entity2_type": "ORG",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "155",
+      "entity1_type": "MONEY",
+      "entity2": "130.00",
+      "entity2_type": "MONEY",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "155",
+      "entity1_type": "MONEY",
+      "entity2": "150.00",
+      "entity2_type": "MONEY",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "155",
+      "entity1_type": "MONEY",
+      "entity2": "about",
+      "entity2_type": "PERCENT",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "155",
+      "entity1_type": "MONEY",
+      "entity2": "6.3",
+      "entity2_type": "PERCENT",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "155",
+      "entity1_type": "MONEY",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "155",
+      "entity1_type": "MONEY",
+      "entity2": "Evercore",
+      "entity2_type": "ORG",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 35
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "155",
+      "entity1_type": "MONEY",
+      "entity2": "ISI",
+      "entity2_type": "ORG",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 36
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "155",
+      "entity1_type": "MONEY",
+      "entity2": "KKR",
+      "entity2_type": "ORG",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 38
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "155",
+      "entity1_type": "MONEY",
+      "entity2": "150",
+      "entity2_type": "MONEY",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 43
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "Evercore",
+      "entity2_type": "ORG",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "ISI",
+      "entity2_type": "ORG",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "130.00",
+      "entity2_type": "MONEY",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "150.00",
+      "entity2_type": "MONEY",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "about",
+      "entity2_type": "PERCENT",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "6.3",
+      "entity2_type": "PERCENT",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "Evercore",
+      "entity2_type": "ORG",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "ISI",
+      "entity2_type": "ORG",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 32
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "KKR",
+      "entity2_type": "ORG",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 34
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "150",
+      "entity2_type": "MONEY",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 39
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Evercore",
+      "entity1_type": "ORG",
+      "entity2": "ISI",
+      "entity2_type": "ORG",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Evercore",
+      "entity1_type": "ORG",
+      "entity2": "130.00",
+      "entity2_type": "MONEY",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Evercore",
+      "entity1_type": "ORG",
+      "entity2": "150.00",
+      "entity2_type": "MONEY",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Evercore",
+      "entity1_type": "ORG",
+      "entity2": "about",
+      "entity2_type": "PERCENT",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Evercore",
+      "entity1_type": "ORG",
+      "entity2": "6.3",
+      "entity2_type": "PERCENT",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Evercore",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Evercore",
+      "entity1_type": "ORG",
+      "entity2": "Evercore",
+      "entity2_type": "ORG",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Evercore",
+      "entity1_type": "ORG",
+      "entity2": "ISI",
+      "entity2_type": "ORG",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Evercore",
+      "entity1_type": "ORG",
+      "entity2": "KKR",
+      "entity2_type": "ORG",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Evercore",
+      "entity1_type": "ORG",
+      "entity2": "150",
+      "entity2_type": "MONEY",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 33
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ISI",
+      "entity1_type": "ORG",
+      "entity2": "130.00",
+      "entity2_type": "MONEY",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ISI",
+      "entity1_type": "ORG",
+      "entity2": "150.00",
+      "entity2_type": "MONEY",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ISI",
+      "entity1_type": "ORG",
+      "entity2": "about",
+      "entity2_type": "PERCENT",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ISI",
+      "entity1_type": "ORG",
+      "entity2": "6.3",
+      "entity2_type": "PERCENT",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ISI",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ISI",
+      "entity1_type": "ORG",
+      "entity2": "Evercore",
+      "entity2_type": "ORG",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ISI",
+      "entity1_type": "ORG",
+      "entity2": "ISI",
+      "entity2_type": "ORG",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ISI",
+      "entity1_type": "ORG",
+      "entity2": "KKR",
+      "entity2_type": "ORG",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ISI",
+      "entity1_type": "ORG",
+      "entity2": "150",
+      "entity2_type": "MONEY",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 32
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "130.00",
+      "entity1_type": "MONEY",
+      "entity2": "150.00",
+      "entity2_type": "MONEY",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "130.00",
+      "entity1_type": "MONEY",
+      "entity2": "about",
+      "entity2_type": "PERCENT",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "130.00",
+      "entity1_type": "MONEY",
+      "entity2": "6.3",
+      "entity2_type": "PERCENT",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "130.00",
+      "entity1_type": "MONEY",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "130.00",
+      "entity1_type": "MONEY",
+      "entity2": "Evercore",
+      "entity2_type": "ORG",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "130.00",
+      "entity1_type": "MONEY",
+      "entity2": "ISI",
+      "entity2_type": "ORG",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "130.00",
+      "entity1_type": "MONEY",
+      "entity2": "KKR",
+      "entity2_type": "ORG",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "130.00",
+      "entity1_type": "MONEY",
+      "entity2": "150",
+      "entity2_type": "MONEY",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "150.00",
+      "entity1_type": "MONEY",
+      "entity2": "about",
+      "entity2_type": "PERCENT",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "150.00",
+      "entity1_type": "MONEY",
+      "entity2": "6.3",
+      "entity2_type": "PERCENT",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "150.00",
+      "entity1_type": "MONEY",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "150.00",
+      "entity1_type": "MONEY",
+      "entity2": "Evercore",
+      "entity2_type": "ORG",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "150.00",
+      "entity1_type": "MONEY",
+      "entity2": "ISI",
+      "entity2_type": "ORG",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "150.00",
+      "entity1_type": "MONEY",
+      "entity2": "KKR",
+      "entity2_type": "ORG",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "150.00",
+      "entity1_type": "MONEY",
+      "entity2": "150",
+      "entity2_type": "MONEY",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "about",
+      "entity1_type": "PERCENT",
+      "entity2": "6.3",
+      "entity2_type": "PERCENT",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "about",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "about",
+      "entity1_type": "PERCENT",
+      "entity2": "Evercore",
+      "entity2_type": "ORG",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "about",
+      "entity1_type": "PERCENT",
+      "entity2": "ISI",
+      "entity2_type": "ORG",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "about",
+      "entity1_type": "PERCENT",
+      "entity2": "KKR",
+      "entity2_type": "ORG",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "about",
+      "entity1_type": "PERCENT",
+      "entity2": "150",
+      "entity2_type": "MONEY",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "6.3",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "6.3",
+      "entity1_type": "PERCENT",
+      "entity2": "Evercore",
+      "entity2_type": "ORG",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "6.3",
+      "entity1_type": "PERCENT",
+      "entity2": "ISI",
+      "entity2_type": "ORG",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "6.3",
+      "entity1_type": "PERCENT",
+      "entity2": "KKR",
+      "entity2_type": "ORG",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "6.3",
+      "entity1_type": "PERCENT",
+      "entity2": "150",
+      "entity2_type": "MONEY",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "Evercore",
+      "entity2_type": "ORG",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "ISI",
+      "entity2_type": "ORG",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "KKR",
+      "entity2_type": "ORG",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "150",
+      "entity2_type": "MONEY",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Evercore",
+      "entity1_type": "ORG",
+      "entity2": "ISI",
+      "entity2_type": "ORG",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Evercore",
+      "entity1_type": "ORG",
+      "entity2": "KKR",
+      "entity2_type": "ORG",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Evercore",
+      "entity1_type": "ORG",
+      "entity2": "150",
+      "entity2_type": "MONEY",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ISI",
+      "entity1_type": "ORG",
+      "entity2": "KKR",
+      "entity2_type": "ORG",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ISI",
+      "entity1_type": "ORG",
+      "entity2": "150",
+      "entity2_type": "MONEY",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "150",
+      "entity2_type": "MONEY",
+      "sentence": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MSN",
+      "entity1_type": "ORG",
+      "entity2": "KKR",
+      "entity2_type": "ORG",
+      "sentence": "MSN reports KKR “took a breath after two strong years,” as management revisits deal-sizing and valuations following a period of robust growth.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MSN",
+      "entity1_type": "ORG",
+      "entity2": "two",
+      "entity2_type": "DATE",
+      "sentence": "MSN reports KKR “took a breath after two strong years,” as management revisits deal-sizing and valuations following a period of robust growth.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MSN",
+      "entity1_type": "ORG",
+      "entity2": "strong",
+      "entity2_type": "DATE",
+      "sentence": "MSN reports KKR “took a breath after two strong years,” as management revisits deal-sizing and valuations following a period of robust growth.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MSN",
+      "entity1_type": "ORG",
+      "entity2": "years",
+      "entity2_type": "DATE",
+      "sentence": "MSN reports KKR “took a breath after two strong years,” as management revisits deal-sizing and valuations following a period of robust growth.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "two",
+      "entity2_type": "DATE",
+      "sentence": "MSN reports KKR “took a breath after two strong years,” as management revisits deal-sizing and valuations following a period of robust growth.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "strong",
+      "entity2_type": "DATE",
+      "sentence": "MSN reports KKR “took a breath after two strong years,” as management revisits deal-sizing and valuations following a period of robust growth.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "years",
+      "entity2_type": "DATE",
+      "sentence": "MSN reports KKR “took a breath after two strong years,” as management revisits deal-sizing and valuations following a period of robust growth.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "two",
+      "entity1_type": "DATE",
+      "entity2": "strong",
+      "entity2_type": "DATE",
+      "sentence": "MSN reports KKR “took a breath after two strong years,” as management revisits deal-sizing and valuations following a period of robust growth.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "two",
+      "entity1_type": "DATE",
+      "entity2": "years",
+      "entity2_type": "DATE",
+      "sentence": "MSN reports KKR “took a breath after two strong years,” as management revisits deal-sizing and valuations following a period of robust growth.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "strong",
+      "entity1_type": "DATE",
+      "entity2": "years",
+      "entity2_type": "DATE",
+      "sentence": "MSN reports KKR “took a breath after two strong years,” as management revisits deal-sizing and valuations following a period of robust growth.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "Two",
+      "entity2_type": "DATE",
+      "sentence": "KKR Took a Breath After Two Strong Years\nNeutral Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "Strong",
+      "entity2_type": "DATE",
+      "sentence": "KKR Took a Breath After Two Strong Years\nNeutral Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "Years",
+      "entity2_type": "DATE",
+      "sentence": "KKR Took a Breath After Two Strong Years\nNeutral Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Two",
+      "entity1_type": "DATE",
+      "entity2": "Strong",
+      "entity2_type": "DATE",
+      "sentence": "KKR Took a Breath After Two Strong Years\nNeutral Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Two",
+      "entity1_type": "DATE",
+      "entity2": "Years",
+      "entity2_type": "DATE",
+      "sentence": "KKR Took a Breath After Two Strong Years\nNeutral Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Strong",
+      "entity1_type": "DATE",
+      "entity2": "Years",
+      "entity2_type": "DATE",
+      "sentence": "KKR Took a Breath After Two Strong Years\nNeutral Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FS",
+      "entity1_type": "ORG",
+      "entity2": "KKR",
+      "entity2_type": "ORG",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FS",
+      "entity1_type": "ORG",
+      "entity2": "Capital",
+      "entity2_type": "ORG",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FS",
+      "entity1_type": "ORG",
+      "entity2": "Corp.",
+      "entity2_type": "ORG",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FS",
+      "entity1_type": "ORG",
+      "entity2": "FSK",
+      "entity2_type": "ORG",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FS",
+      "entity1_type": "ORG",
+      "entity2": "KKR",
+      "entity2_type": "ORG",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FS",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FS",
+      "entity1_type": "ORG",
+      "entity2": "August",
+      "entity2_type": "DATE",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FS",
+      "entity1_type": "ORG",
+      "entity2": "6",
+      "entity2_type": "DATE",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FS",
+      "entity1_type": "ORG",
+      "entity2": "August",
+      "entity2_type": "DATE",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FS",
+      "entity1_type": "ORG",
+      "entity2": "7",
+      "entity2_type": "DATE",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 32
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "Capital",
+      "entity2_type": "ORG",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "Corp.",
+      "entity2_type": "ORG",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "FSK",
+      "entity2_type": "ORG",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "KKR",
+      "entity2_type": "ORG",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "August",
+      "entity2_type": "DATE",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "6",
+      "entity2_type": "DATE",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "August",
+      "entity2_type": "DATE",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "7",
+      "entity2_type": "DATE",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Capital",
+      "entity1_type": "ORG",
+      "entity2": "Corp.",
+      "entity2_type": "ORG",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Capital",
+      "entity1_type": "ORG",
+      "entity2": "FSK",
+      "entity2_type": "ORG",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Capital",
+      "entity1_type": "ORG",
+      "entity2": "KKR",
+      "entity2_type": "ORG",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Capital",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Capital",
+      "entity1_type": "ORG",
+      "entity2": "August",
+      "entity2_type": "DATE",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Capital",
+      "entity1_type": "ORG",
+      "entity2": "6",
+      "entity2_type": "DATE",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Capital",
+      "entity1_type": "ORG",
+      "entity2": "August",
+      "entity2_type": "DATE",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Capital",
+      "entity1_type": "ORG",
+      "entity2": "7",
+      "entity2_type": "DATE",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Corp.",
+      "entity1_type": "ORG",
+      "entity2": "FSK",
+      "entity2_type": "ORG",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Corp.",
+      "entity1_type": "ORG",
+      "entity2": "KKR",
+      "entity2_type": "ORG",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Corp.",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Corp.",
+      "entity1_type": "ORG",
+      "entity2": "August",
+      "entity2_type": "DATE",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Corp.",
+      "entity1_type": "ORG",
+      "entity2": "6",
+      "entity2_type": "DATE",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Corp.",
+      "entity1_type": "ORG",
+      "entity2": "August",
+      "entity2_type": "DATE",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Corp.",
+      "entity1_type": "ORG",
+      "entity2": "7",
+      "entity2_type": "DATE",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FSK",
+      "entity1_type": "ORG",
+      "entity2": "KKR",
+      "entity2_type": "ORG",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FSK",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FSK",
+      "entity1_type": "ORG",
+      "entity2": "August",
+      "entity2_type": "DATE",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FSK",
+      "entity1_type": "ORG",
+      "entity2": "6",
+      "entity2_type": "DATE",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FSK",
+      "entity1_type": "ORG",
+      "entity2": "August",
+      "entity2_type": "DATE",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FSK",
+      "entity1_type": "ORG",
+      "entity2": "7",
+      "entity2_type": "DATE",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "August",
+      "entity2_type": "DATE",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "6",
+      "entity2_type": "DATE",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "August",
+      "entity2_type": "DATE",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "7",
+      "entity2_type": "DATE",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "August",
+      "entity2_type": "DATE",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "6",
+      "entity2_type": "DATE",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "August",
+      "entity2_type": "DATE",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "7",
+      "entity2_type": "DATE",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "August",
+      "entity1_type": "DATE",
+      "entity2": "6",
+      "entity2_type": "DATE",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "August",
+      "entity1_type": "DATE",
+      "entity2": "August",
+      "entity2_type": "DATE",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "August",
+      "entity1_type": "DATE",
+      "entity2": "7",
+      "entity2_type": "DATE",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "6",
+      "entity1_type": "DATE",
+      "entity2": "August",
+      "entity2_type": "DATE",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "6",
+      "entity1_type": "DATE",
+      "entity2": "7",
+      "entity2_type": "DATE",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "August",
+      "entity1_type": "DATE",
+      "entity2": "7",
+      "entity2_type": "DATE",
+      "sentence": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FSK",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "FSK Announces Q2 Earnings Release and Conference Call Schedule\nNegative Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MSN",
+      "entity1_type": "ORG",
+      "entity2": "KKR",
+      "entity2_type": "ORG",
+      "sentence": "MSN highlights that KKR’s shares fell in Q2 due to slower deal activity, lower fee-related earnings and mark-to-market adjustments on investments.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MSN",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "MSN highlights that KKR’s shares fell in Q2 due to slower deal activity, lower fee-related earnings and mark-to-market adjustments on investments.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "MSN highlights that KKR’s shares fell in Q2 due to slower deal activity, lower fee-related earnings and mark-to-market adjustments on investments.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "Here’s Why KKR Shares Fell in Q2\nNegative Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "HSBC",
+      "entity1_type": "ORG",
+      "entity2": "Global",
+      "entity2_type": "ORG",
+      "sentence": "HSBC Global Research downgraded KKR from a “strong-buy” to a “hold,” signaling a more cautious view on near-term growth.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "HSBC",
+      "entity1_type": "ORG",
+      "entity2": "Research",
+      "entity2_type": "ORG",
+      "sentence": "HSBC Global Research downgraded KKR from a “strong-buy” to a “hold,” signaling a more cautious view on near-term growth.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "HSBC",
+      "entity1_type": "ORG",
+      "entity2": "KKR",
+      "entity2_type": "ORG",
+      "sentence": "HSBC Global Research downgraded KKR from a “strong-buy” to a “hold,” signaling a more cautious view on near-term growth.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Global",
+      "entity1_type": "ORG",
+      "entity2": "Research",
+      "entity2_type": "ORG",
+      "sentence": "HSBC Global Research downgraded KKR from a “strong-buy” to a “hold,” signaling a more cautious view on near-term growth.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Global",
+      "entity1_type": "ORG",
+      "entity2": "KKR",
+      "entity2_type": "ORG",
+      "sentence": "HSBC Global Research downgraded KKR from a “strong-buy” to a “hold,” signaling a more cautious view on near-term growth.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "KKR",
+      "entity2_type": "ORG",
+      "sentence": "HSBC Global Research downgraded KKR from a “strong-buy” to a “hold,” signaling a more cautious view on near-term growth.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "HSBC",
+      "entity2_type": "ORG",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "Global",
+      "entity2_type": "ORG",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "Research",
+      "entity2_type": "ORG",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KKR",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "HSBC",
+      "entity1_type": "ORG",
+      "entity2": "Global",
+      "entity2_type": "ORG",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "HSBC",
+      "entity1_type": "ORG",
+      "entity2": "Research",
+      "entity2_type": "ORG",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "HSBC",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "HSBC",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "HSBC",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "HSBC",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "HSBC",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "HSBC",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Global",
+      "entity1_type": "ORG",
+      "entity2": "Research",
+      "entity2_type": "ORG",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Global",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Global",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Global",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Global",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Global",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Global",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ago",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ago",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AI",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "several analysts",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "their price targets",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "recent fee-related earnings pressures",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "a rating cut",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "some headwinds",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Wells Fargo",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its price objective",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "an “overweight” rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "roughly 10.5% upside",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "KKR Price Target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Wells Fargo",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a “buy” rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "about 13.4% upside",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Forecast",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "KKR Stock Price",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its objective",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "an “overweight” rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "nearly 9.8% potential gain",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "New $155 Price Target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Evercore ISI",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "an “outperform” rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "about 6.3% upside",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Evercore ISI",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "KKR Price Target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a breath",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "two strong years",
+      "type": "noun_chunk",
+      "category": "temporal"
+    },
+    {
+      "text": "a period",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "robust growth",
+      "type": "noun_chunk",
+      "category": "trend"
+    },
+    {
+      "text": "a Breath",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Two Strong Years",
+      "type": "noun_chunk",
+      "category": "temporal"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "FS KKR Capital Corp.",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a KKR-advised business development company",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its Q2 earnings release",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "a conference call",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a timeline",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "next-period performance updates",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Q2 Earnings Release",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Conference Call Schedule",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "KKR’s shares",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "slower deal activity",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "lower fee-related earnings",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "KKR Shares",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "HSBC Global Research",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a “strong-buy",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a “hold",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a more cautious view",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "near-term growth",
+      "type": "noun_chunk",
+      "category": "trend"
+    },
+    {
+      "text": "HSBC Global Research",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "$140.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$156.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$156",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$132.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$160.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$141.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$155.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$155",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$130.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$150.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$150",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "10.5%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "13.4%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "9.8%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "6.3%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "growth",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "growth",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "trading",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "market",
+      "type": "pattern",
+      "category": "market_term"
+    }
+  ],
+  "important_sentences": [
+    {
+      "text": "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:",
+      "importance_score": 83,
+      "entity_count": 14,
+      "financial_keyword_count": 5,
+      "money_count": 4,
+      "company_count": 5,
+      "sentiment": "positive"
+    },
+    {
+      "text": "KKR Downgraded by HSBC Global Research to Hold\nPosted 1+ days ago\nAI Generated.",
+      "importance_score": 41,
+      "entity_count": 10,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "FS KKR Capital Corp. (NYSE: FSK), a KKR-advised business development company, scheduled its Q2 earnings release for August 6 and a conference call for August 7, providing a timeline for next-period performance updates.",
+      "importance_score": 40,
+      "entity_count": 11,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Citigroup lifted its target from $132.00 to $160.00 with a “buy” rating, suggesting about 13.4% upside.",
+      "importance_score": 35,
+      "entity_count": 6,
+      "financial_keyword_count": 3,
+      "money_count": 2,
+      "company_count": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Positive Sentiment:\nWells Fargo raised its price objective from $140.00 to $156.00 and maintained an “overweight” rating, implying roughly 10.5% upside.",
+      "importance_score": 31,
+      "entity_count": 7,
+      "financial_keyword_count": 1,
+      "money_count": 2,
+      "company_count": 1,
+      "sentiment": "positive"
+    },
+    {
+      "text": "KKR & Co. Inc. (NYSE: KKR) shares are trading higher today as several analysts lifted their price targets, although recent fee-related earnings pressures and a rating cut have introduced some headwinds.",
+      "importance_score": 29,
+      "entity_count": 6,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Barclays increased its objective from $141.00 to $155.00 and kept an “overweight” rating, reflecting nearly 9.8% potential gain.",
+      "importance_score": 29,
+      "entity_count": 6,
+      "financial_keyword_count": 1,
+      "money_count": 2,
+      "company_count": 1,
+      "sentiment": "positive"
+    },
+    {
+      "text": "KKR Price Target Raised to $156 at Wells Fargo & Company\nPositive Sentiment:",
+      "importance_score": 28,
+      "entity_count": 6,
+      "financial_keyword_count": 1,
+      "money_count": 1,
+      "company_count": 2,
+      "sentiment": "positive"
+    },
+    {
+      "text": "HSBC Global Research downgraded KKR from a “strong-buy” to a “hold,” signaling a more cautious view on near-term growth.",
+      "importance_score": 28,
+      "entity_count": 4,
+      "financial_keyword_count": 4,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "positive"
+    },
+    {
+      "text": "MSN reports KKR “took a breath after two strong years,” as management revisits deal-sizing and valuations following a period of robust growth.",
+      "importance_score": 21,
+      "entity_count": 5,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "positive"
+    }
+  ],
+  "entity_statistics": {
+    "total_entities": 54,
+    "unique_entities": 34,
+    "type_counts": {
+      "ORG": 29,
+      "DATE": 10,
+      "MONEY": 11,
+      "PERCENT": 4
+    },
+    "type_distribution": {
+      "ORG": 0.5370370370370371,
+      "DATE": 0.18518518518518517,
+      "MONEY": 0.2037037037037037,
+      "PERCENT": 0.07407407407407407
+    },
+    "most_common_entities": [
+      [
+        "KKR",
+        12
+      ],
+      [
+        "Q2",
+        4
+      ],
+      [
+        "Citigroup",
+        2
+      ],
+      [
+        "Barclays",
+        2
+      ],
+      [
+        "Evercore ISI",
+        2
+      ],
+      [
+        "MSN",
+        2
+      ],
+      [
+        "FSK",
+        2
+      ],
+      [
+        "HSBC Global Research",
+        2
+      ],
+      [
+        "KKR & Co. Inc.",
+        1
+      ],
+      [
+        "today",
+        1
+      ]
+    ],
+    "entity_types_found": [
+      "ORG",
+      "DATE",
+      "MONEY",
+      "PERCENT"
+    ],
+    "company_entities": 29,
+    "person_entities": 0,
+    "financial_entities": 15,
+    "entity_density": 0.2
+  },
+  "financial_analysis": {
+    "money_amounts": [
+      "140.00",
+      "156.00",
+      "156",
+      "132.00",
+      "160.00",
+      "141.00",
+      "155.00",
+      "155",
+      "130.00",
+      "150.00",
+      "150"
+    ],
+    "percentages": [
+      "roughly 10.5%",
+      "about 13.4%",
+      "nearly 9.8%",
+      "about 6.3%"
+    ],
+    "companies": [
+      "KKR & Co. Inc.",
+      "KKR",
+      "Wells Fargo",
+      "KKR",
+      "Wells Fargo & Company",
+      "Citigroup",
+      "Citigroup",
+      "KKR",
+      "Barclays",
+      "KKR",
+      "Barclays",
+      "Evercore ISI",
+      "Evercore ISI",
+      "KKR",
+      "MSN",
+      "KKR",
+      "KKR",
+      "FS KKR Capital Corp.",
+      "FSK",
+      "KKR",
+      "FSK",
+      "MSN",
+      "KKR",
+      "KKR",
+      "HSBC Global Research",
+      "KKR",
+      "KKR",
+      "HSBC Global Research",
+      "AI Generated"
+    ],
+    "people": [],
+    "dates": [
+      "today",
+      "two strong years",
+      "Two Strong Years",
+      "Q2",
+      "August 6",
+      "August 7",
+      "Q2",
+      "Q2",
+      "Q2",
+      "1+ days ago"
+    ],
+    "financial_terms": [
+      "Earnings",
+      "Stock",
+      "earnings",
+      "growth",
+      "trading",
+      "market"
+    ],
+    "financial_metrics": [],
+    "market_indicators": [
+      "Price",
+      "price",
+      "target",
+      "rating",
+      "Target"
+    ]
+  },
+  "temporal_analysis": {
+    "dates": [
+      "today",
+      "two strong years",
+      "Two Strong Years",
+      "Q2",
+      "August 6",
+      "August 7",
+      "Q2",
+      "Q2",
+      "Q2",
+      "1+ days ago"
+    ],
+    "time_expressions": [],
+    "temporal_relationships": [
+      "next",
+      "recent",
+      "today"
+    ],
+    "quarters": [
+      "Q2",
+      "Q2",
+      "Q2",
+      "Q2"
+    ],
+    "years": [],
+    "time_periods": []
+  },
+  "sentiment_analysis": {
+    "positive_words": 11,
+    "negative_words": 2,
+    "positive_ratio": 0.040740740740740744,
+    "negative_ratio": 0.007407407407407408,
+    "sentiment_score": 0.03333333333333334,
+    "sentiment_label": "positive",
+    "sentiment_strength": 0.03333333333333334,
+    "confidence": 0.33333333333333337
+  },
+  "industry_analysis": {
+    "dominant_industry": "tech",
+    "industry_scores": {
+      "tech": 1,
+      "finance": 1,
+      "healthcare": 0,
+      "energy": 0,
+      "retail": 0,
+      "automotive": 0,
+      "media": 0,
+      "industrial": 0,
+      "real_estate": 1,
+      "telecom": 0,
+      "food_beverage": 0,
+      "travel": 0,
+      "education": 0,
+      "professional": 0,
+      "mining": 0,
+      "aerospace": 0,
+      "environmental": 0,
+      "cannabis": 0
+    },
+    "confidence": 0.3333333333333333
+  },
+  "market_analysis": {
+    "market_sentiment": "bullish",
+    "bullish_indicators": 1,
+    "bearish_indicators": 0,
+    "market_conditions": {
+      "volatility": "normal",
+      "volume": "normal",
+      "trend": "bullish"
+    },
+    "trading_activity": "normal"
+  },
+  "competitor_analysis": {
+    "companies_mentioned": [
+      "KKR & Co. Inc.",
+      "KKR",
+      "Wells Fargo",
+      "KKR",
+      "Wells Fargo & Company",
+      "Citigroup",
+      "Citigroup",
+      "KKR",
+      "Barclays",
+      "KKR",
+      "Barclays",
+      "Evercore ISI",
+      "Evercore ISI",
+      "KKR",
+      "MSN",
+      "KKR",
+      "KKR",
+      "FS KKR Capital Corp.",
+      "FSK",
+      "KKR",
+      "FSK",
+      "MSN",
+      "KKR",
+      "KKR",
+      "HSBC Global Research",
+      "KKR",
+      "KKR",
+      "HSBC Global Research",
+      "AI Generated"
+    ],
+    "competitive_context": [
+      "KKR Given New $155 Price Target at Barclays\nPositive Sentiment:\nEvercore ISI raised its target from $130.00 to $150.00 with an “outperform” rating, indicating about 6.3% upside.\nEvercore ISI Raises KKR Price Target to $150\nNeutral Sentiment:"
+    ],
+    "competitor_count": 29,
+    "has_competitive_language": true
+  },
+  "risk_analysis": {
+    "risk_sentences": [],
+    "risk_count": 0,
+    "risk_level": "low"
+  },
+  "opportunity_analysis": {
+    "opportunity_sentences": [
+      "Barclays increased its objective from $141.00 to $155.00 and kept an “overweight” rating, reflecting nearly 9.8% potential gain.",
+      "MSN reports KKR “took a breath after two strong years,” as management revisits deal-sizing and valuations following a period of robust growth.",
+      "HSBC Global Research downgraded KKR from a “strong-buy” to a “hold,” signaling a more cautious view on near-term growth."
+    ],
+    "opportunity_count": 3,
+    "opportunity_level": "medium"
+  },
+  "processing_metadata": {
+    "timestamp": "2025-07-13T05:54:34.107065",
+    "model_used": "en_core_web_trf",
+    "text_length": 1908
+  }
+}
