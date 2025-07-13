@@ -56,3 +56,6 @@ z-archives/
 # Temporary files
 *.tmp
 *.temp
+
+# Ignore backup files in articles
+articles/*.bak
