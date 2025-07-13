@@ -1,0 +1,1818 @@
+{
+  "ticker": "ON",
+  "entities": [
+    {
+      "text": "ON Semiconductor",
+      "label": "ORG",
+      "start": 0,
+      "end": 16,
+      "sentence": "ON Semiconductor (NASDAQ:ON) shares are experiencing mixed reactions amid fresh analyst coverage and broader industry developments.",
+      "context": "ON Semiconductor (NASDAQ:ON) shares are experiencing mixed reactio",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "ON",
+      "label": "ORG",
+      "start": 25,
+      "end": 27,
+      "sentence": "ON Semiconductor (NASDAQ:ON) shares are experiencing mixed reactions amid fresh analyst coverage and broader industry developments.",
+      "context": "ON Semiconductor (NASDAQ:ON) shares are experiencing mixed reactions amid fre",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "47%",
+      "label": "PERCENT",
+      "start": 184,
+      "end": 187,
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "context": "sitive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock t",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "the past three months",
+      "label": "DATE",
+      "start": 198,
+      "end": 219,
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "context": "nt:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving a",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "50-day",
+      "label": "DATE",
+      "start": 254,
+      "end": 260,
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "context": "st three months, with the stock trading above its 50-day moving average—an indicator of strong upward mome",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "ON Semiconductor’s",
+      "label": "ORG",
+      "start": 331,
+      "end": 349,
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "context": "dicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sa",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Goldman Sachs",
+      "label": "ORG",
+      "start": 389,
+      "end": 402,
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "context": "onductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "60",
+      "label": "MONEY",
+      "start": 453,
+      "end": 455,
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "context": "initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside fr",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Goldman Sachs",
+      "label": "ORG",
+      "start": 524,
+      "end": 537,
+      "sentence": "Goldman Sachs Initiates Coverage of ON Semiconductor with Neutral Recommendation\nNegative Sentiment:",
+      "context": "aling modest expected upside from current levels.\nGoldman Sachs Initiates Coverage of ON Semiconductor with Neutr",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "ON Semiconductor",
+      "label": "ORG",
+      "start": 560,
+      "end": 576,
+      "sentence": "Goldman Sachs Initiates Coverage of ON Semiconductor with Neutral Recommendation\nNegative Sentiment:",
+      "context": "rrent levels.\nGoldman Sachs Initiates Coverage of ON Semiconductor with Neutral Recommendation\nNegative Sentiment:\nI",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "U.S.",
+      "label": "GPE",
+      "start": 657,
+      "end": 661,
+      "sentence": "Industry uncertainty rose after U.S. tariff threats on Canadian goods—an escalation that could disrupt cross-border supply chains indirectly impacting ON’s operations.",
+      "context": "gative Sentiment:\nIndustry uncertainty rose after U.S. tariff threats on Canadian goods—an escalation th",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "Canadian",
+      "label": "NORP",
+      "start": 680,
+      "end": 688,
+      "sentence": "Industry uncertainty rose after U.S. tariff threats on Canadian goods—an escalation that could disrupt cross-border supply chains indirectly impacting ON’s operations.",
+      "context": "try uncertainty rose after U.S. tariff threats on Canadian goods—an escalation that could disrupt cross-bord",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "ON",
+      "label": "ORG",
+      "start": 776,
+      "end": 778,
+      "sentence": "Industry uncertainty rose after U.S. tariff threats on Canadian goods—an escalation that could disrupt cross-border supply chains indirectly impacting ON’s operations.",
+      "context": "t cross-border supply chains indirectly impacting ON’s operations.\nBusiness leaders lament latest U.S.",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "U.S.",
+      "label": "GPE",
+      "start": 824,
+      "end": 828,
+      "sentence": "Business leaders lament latest U.S. tariff threat as experts play down risks\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "context": "g ON’s operations.\nBusiness leaders lament latest U.S. tariff threat as experts play down risks\nPosted 1",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "1+ days ago",
+      "label": "DATE",
+      "start": 877,
+      "end": 888,
+      "sentence": "Business leaders lament latest U.S. tariff threat as experts play down risks\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "context": ". tariff threat as experts play down risks\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    }
+  ],
+  "relationships": [
+    {
+      "type": "SVO",
+      "subject": "shares",
+      "verb": "experiencing",
+      "object": "reactions",
+      "sentence": "ON Semiconductor (NASDAQ:ON) shares are experiencing mixed reactions amid fresh analyst coverage and broader industry developments.",
+      "importance": 5
+    },
+    {
+      "type": "SVO",
+      "subject": "analysis",
+      "verb": "highlights",
+      "object": "gain",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "importance": 21
+    },
+    {
+      "type": "SVO",
+      "subject": "What",
+      "verb": "Fueling",
+      "object": "Surge",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "importance": 21
+    },
+    {
+      "type": "SVO",
+      "subject": "Sachs",
+      "verb": "initiated",
+      "object": "coverage",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "importance": 21
+    },
+    {
+      "type": "SVO",
+      "subject": "Sachs",
+      "verb": "Initiates",
+      "object": "Coverage",
+      "sentence": "Goldman Sachs Initiates Coverage of ON Semiconductor with Neutral Recommendation\nNegative Sentiment:",
+      "importance": 5
+    },
+    {
+      "type": "SVO",
+      "subject": "that",
+      "verb": "disrupt",
+      "object": "chains",
+      "sentence": "Industry uncertainty rose after U.S. tariff threats on Canadian goods—an escalation that could disrupt cross-border supply chains indirectly impacting ON’s operations.",
+      "importance": 5
+    },
+    {
+      "type": "SVO",
+      "subject": "leaders",
+      "verb": "lament",
+      "object": "threat",
+      "sentence": "Business leaders lament latest U.S. tariff threat as experts play down risks\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "importance": 7
+    },
+    {
+      "type": "SVO",
+      "subject": "experts",
+      "verb": "play",
+      "object": "risks",
+      "sentence": "Business leaders lament latest U.S. tariff threat as experts play down risks\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "importance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ON",
+      "entity1_type": "ORG",
+      "entity2": "Semiconductor",
+      "entity2_type": "ORG",
+      "sentence": "ON Semiconductor (NASDAQ:ON) shares are experiencing mixed reactions amid fresh analyst coverage and broader industry developments.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ON",
+      "entity1_type": "ORG",
+      "entity2": "ON",
+      "entity2_type": "ORG",
+      "sentence": "ON Semiconductor (NASDAQ:ON) shares are experiencing mixed reactions amid fresh analyst coverage and broader industry developments.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Semiconductor",
+      "entity1_type": "ORG",
+      "entity2": "ON",
+      "entity2_type": "ORG",
+      "sentence": "ON Semiconductor (NASDAQ:ON) shares are experiencing mixed reactions amid fresh analyst coverage and broader industry developments.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "47",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "47",
+      "entity1_type": "PERCENT",
+      "entity2": "the",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "47",
+      "entity1_type": "PERCENT",
+      "entity2": "past",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "47",
+      "entity1_type": "PERCENT",
+      "entity2": "three",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "47",
+      "entity1_type": "PERCENT",
+      "entity2": "months",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "47",
+      "entity1_type": "PERCENT",
+      "entity2": "50",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "47",
+      "entity1_type": "PERCENT",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "47",
+      "entity1_type": "PERCENT",
+      "entity2": "day",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "47",
+      "entity1_type": "PERCENT",
+      "entity2": "ON",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 32
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "47",
+      "entity1_type": "PERCENT",
+      "entity2": "Semiconductor",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 33
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "47",
+      "entity1_type": "PERCENT",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 34
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "47",
+      "entity1_type": "PERCENT",
+      "entity2": "Goldman",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 44
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "47",
+      "entity1_type": "PERCENT",
+      "entity2": "Sachs",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 45
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "47",
+      "entity1_type": "PERCENT",
+      "entity2": "60",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 57
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "the",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "past",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "three",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "months",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "50",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "day",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "ON",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "Semiconductor",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 32
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 33
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "Goldman",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 43
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "Sachs",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 44
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "60",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 56
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "past",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "three",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "months",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "50",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "day",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "ON",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "Semiconductor",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "Goldman",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 40
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "Sachs",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 41
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "60",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 53
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "past",
+      "entity1_type": "DATE",
+      "entity2": "three",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "past",
+      "entity1_type": "DATE",
+      "entity2": "months",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "past",
+      "entity1_type": "DATE",
+      "entity2": "50",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "past",
+      "entity1_type": "DATE",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "past",
+      "entity1_type": "DATE",
+      "entity2": "day",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "past",
+      "entity1_type": "DATE",
+      "entity2": "ON",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "past",
+      "entity1_type": "DATE",
+      "entity2": "Semiconductor",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "past",
+      "entity1_type": "DATE",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "past",
+      "entity1_type": "DATE",
+      "entity2": "Goldman",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 39
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "past",
+      "entity1_type": "DATE",
+      "entity2": "Sachs",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 40
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "past",
+      "entity1_type": "DATE",
+      "entity2": "60",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 52
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "three",
+      "entity1_type": "DATE",
+      "entity2": "months",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "three",
+      "entity1_type": "DATE",
+      "entity2": "50",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "three",
+      "entity1_type": "DATE",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "three",
+      "entity1_type": "DATE",
+      "entity2": "day",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "three",
+      "entity1_type": "DATE",
+      "entity2": "ON",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "three",
+      "entity1_type": "DATE",
+      "entity2": "Semiconductor",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "three",
+      "entity1_type": "DATE",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "three",
+      "entity1_type": "DATE",
+      "entity2": "Goldman",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 38
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "three",
+      "entity1_type": "DATE",
+      "entity2": "Sachs",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 39
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "three",
+      "entity1_type": "DATE",
+      "entity2": "60",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 51
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "months",
+      "entity1_type": "DATE",
+      "entity2": "50",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "months",
+      "entity1_type": "DATE",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "months",
+      "entity1_type": "DATE",
+      "entity2": "day",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "months",
+      "entity1_type": "DATE",
+      "entity2": "ON",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "months",
+      "entity1_type": "DATE",
+      "entity2": "Semiconductor",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "months",
+      "entity1_type": "DATE",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "months",
+      "entity1_type": "DATE",
+      "entity2": "Goldman",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 37
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "months",
+      "entity1_type": "DATE",
+      "entity2": "Sachs",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 38
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "months",
+      "entity1_type": "DATE",
+      "entity2": "60",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 50
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "50",
+      "entity1_type": "DATE",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "50",
+      "entity1_type": "DATE",
+      "entity2": "day",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "50",
+      "entity1_type": "DATE",
+      "entity2": "ON",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "50",
+      "entity1_type": "DATE",
+      "entity2": "Semiconductor",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "50",
+      "entity1_type": "DATE",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "50",
+      "entity1_type": "DATE",
+      "entity2": "Goldman",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "50",
+      "entity1_type": "DATE",
+      "entity2": "Sachs",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "50",
+      "entity1_type": "DATE",
+      "entity2": "60",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 42
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "DATE",
+      "entity2": "day",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "DATE",
+      "entity2": "ON",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "DATE",
+      "entity2": "Semiconductor",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "DATE",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "DATE",
+      "entity2": "Goldman",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "DATE",
+      "entity2": "Sachs",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "DATE",
+      "entity2": "60",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 41
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "day",
+      "entity1_type": "DATE",
+      "entity2": "ON",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "day",
+      "entity1_type": "DATE",
+      "entity2": "Semiconductor",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "day",
+      "entity1_type": "DATE",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "day",
+      "entity1_type": "DATE",
+      "entity2": "Goldman",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "day",
+      "entity1_type": "DATE",
+      "entity2": "Sachs",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "day",
+      "entity1_type": "DATE",
+      "entity2": "60",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 40
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ON",
+      "entity1_type": "ORG",
+      "entity2": "Semiconductor",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ON",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ON",
+      "entity1_type": "ORG",
+      "entity2": "Goldman",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ON",
+      "entity1_type": "ORG",
+      "entity2": "Sachs",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ON",
+      "entity1_type": "ORG",
+      "entity2": "60",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Semiconductor",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Semiconductor",
+      "entity1_type": "ORG",
+      "entity2": "Goldman",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Semiconductor",
+      "entity1_type": "ORG",
+      "entity2": "Sachs",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Semiconductor",
+      "entity1_type": "ORG",
+      "entity2": "60",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "ORG",
+      "entity2": "Goldman",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "ORG",
+      "entity2": "Sachs",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "ORG",
+      "entity2": "60",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Goldman",
+      "entity1_type": "ORG",
+      "entity2": "Sachs",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Goldman",
+      "entity1_type": "ORG",
+      "entity2": "60",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sachs",
+      "entity1_type": "ORG",
+      "entity2": "60",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Goldman",
+      "entity1_type": "ORG",
+      "entity2": "Sachs",
+      "entity2_type": "ORG",
+      "sentence": "Goldman Sachs Initiates Coverage of ON Semiconductor with Neutral Recommendation\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Goldman",
+      "entity1_type": "ORG",
+      "entity2": "ON",
+      "entity2_type": "ORG",
+      "sentence": "Goldman Sachs Initiates Coverage of ON Semiconductor with Neutral Recommendation\nNegative Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Goldman",
+      "entity1_type": "ORG",
+      "entity2": "Semiconductor",
+      "entity2_type": "ORG",
+      "sentence": "Goldman Sachs Initiates Coverage of ON Semiconductor with Neutral Recommendation\nNegative Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sachs",
+      "entity1_type": "ORG",
+      "entity2": "ON",
+      "entity2_type": "ORG",
+      "sentence": "Goldman Sachs Initiates Coverage of ON Semiconductor with Neutral Recommendation\nNegative Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sachs",
+      "entity1_type": "ORG",
+      "entity2": "Semiconductor",
+      "entity2_type": "ORG",
+      "sentence": "Goldman Sachs Initiates Coverage of ON Semiconductor with Neutral Recommendation\nNegative Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ON",
+      "entity1_type": "ORG",
+      "entity2": "Semiconductor",
+      "entity2_type": "ORG",
+      "sentence": "Goldman Sachs Initiates Coverage of ON Semiconductor with Neutral Recommendation\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "U.S.",
+      "entity1_type": "GPE",
+      "entity2": "Canadian",
+      "entity2_type": "NORP",
+      "sentence": "Industry uncertainty rose after U.S. tariff threats on Canadian goods—an escalation that could disrupt cross-border supply chains indirectly impacting ON’s operations.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "U.S.",
+      "entity1_type": "GPE",
+      "entity2": "ON",
+      "entity2_type": "ORG",
+      "sentence": "Industry uncertainty rose after U.S. tariff threats on Canadian goods—an escalation that could disrupt cross-border supply chains indirectly impacting ON’s operations.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Canadian",
+      "entity1_type": "NORP",
+      "entity2": "ON",
+      "entity2_type": "ORG",
+      "sentence": "Industry uncertainty rose after U.S. tariff threats on Canadian goods—an escalation that could disrupt cross-border supply chains indirectly impacting ON’s operations.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "U.S.",
+      "entity1_type": "GPE",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Business leaders lament latest U.S. tariff threat as experts play down risks\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "U.S.",
+      "entity1_type": "GPE",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Business leaders lament latest U.S. tariff threat as experts play down risks\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "U.S.",
+      "entity1_type": "GPE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Business leaders lament latest U.S. tariff threat as experts play down risks\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "U.S.",
+      "entity1_type": "GPE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Business leaders lament latest U.S. tariff threat as experts play down risks\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Business leaders lament latest U.S. tariff threat as experts play down risks\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Business leaders lament latest U.S. tariff threat as experts play down risks\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Business leaders lament latest U.S. tariff threat as experts play down risks\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Business leaders lament latest U.S. tariff threat as experts play down risks\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Business leaders lament latest U.S. tariff threat as experts play down risks\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Business leaders lament latest U.S. tariff threat as experts play down risks\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 1
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "mixed reactions",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "fresh analyst coverage",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "broader industry developments",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Technical analysis",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a 47% gain",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the past three months",
+      "type": "noun_chunk",
+      "category": "temporal"
+    },
+    {
+      "text": "the stock",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "its 50-day moving average",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "an indicator",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "strong upward momentum",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "ON Semiconductor’s Recent Stock Surge",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Goldman Sachs",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a “neutral” rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a $60 price target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "modest expected upside",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "current levels",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Goldman Sachs",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "ON Semiconductor",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Recommendation",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Industry uncertainty",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "U.S. tariff threats",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Canadian goods",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "an escalation",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "cross-border supply chains",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "ON’s operations",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Business leaders",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "latest U.S. tariff threat",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "$60",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "47%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "trading",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Stock",
+      "type": "pattern",
+      "category": "market_term"
+    }
+  ],
+  "important_sentences": [
+    {
+      "text": "Positive Sentiment:\nTechnical analysis highlights a 47% gain over the past three months, with the stock trading above its 50-day moving average—an indicator of strong upward momentum.\nWhat’s Fueling ON Semiconductor’s Recent Stock Surge?\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a “neutral” rating and a $60 price target, signaling modest expected upside from current levels.",
+      "importance_score": 61,
+      "entity_count": 15,
+      "financial_keyword_count": 6,
+      "money_count": 1,
+      "company_count": 2,
+      "sentiment": "positive"
+    },
+    {
+      "text": "ON Semiconductor (NASDAQ:ON) shares are experiencing mixed reactions amid fresh analyst coverage and broader industry developments.",
+      "importance_score": 20,
+      "entity_count": 3,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Goldman Sachs Initiates Coverage of ON Semiconductor with Neutral Recommendation\nNegative Sentiment:",
+      "importance_score": 19,
+      "entity_count": 4,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Industry uncertainty rose after U.S. tariff threats on Canadian goods—an escalation that could disrupt cross-border supply chains indirectly impacting ON’s operations.",
+      "importance_score": 16,
+      "entity_count": 3,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Business leaders lament latest U.S. tariff threat as experts play down risks\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "importance_score": 16,
+      "entity_count": 5,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 0,
+      "sentiment": "neutral"
+    }
+  ],
+  "entity_statistics": {
+    "total_entities": 15,
+    "unique_entities": 11,
+    "type_counts": {
+      "ORG": 7,
+      "PERCENT": 1,
+      "DATE": 3,
+      "MONEY": 1,
+      "GPE": 2,
+      "NORP": 1
+    },
+    "type_distribution": {
+      "ORG": 0.4666666666666667,
+      "PERCENT": 0.06666666666666667,
+      "DATE": 0.2,
+      "MONEY": 0.06666666666666667,
+      "GPE": 0.13333333333333333,
+      "NORP": 0.06666666666666667
+    },
+    "most_common_entities": [
+      [
+        "ON Semiconductor",
+        2
+      ],
+      [
+        "ON",
+        2
+      ],
+      [
+        "Goldman Sachs",
+        2
+      ],
+      [
+        "U.S.",
+        2
+      ],
+      [
+        "47%",
+        1
+      ],
+      [
+        "the past three months",
+        1
+      ],
+      [
+        "50-day",
+        1
+      ],
+      [
+        "ON Semiconductor’s",
+        1
+      ],
+      [
+        "60",
+        1
+      ],
+      [
+        "Canadian",
+        1
+      ]
+    ],
+    "entity_types_found": [
+      "ORG",
+      "PERCENT",
+      "DATE",
+      "MONEY",
+      "GPE",
+      "NORP"
+    ],
+    "company_entities": 7,
+    "person_entities": 0,
+    "financial_entities": 2,
+    "entity_density": 0.12
+  },
+  "financial_analysis": {
+    "money_amounts": [
+      "60"
+    ],
+    "percentages": [
+      "47%"
+    ],
+    "companies": [
+      "ON Semiconductor",
+      "ON",
+      "ON Semiconductor’s",
+      "Goldman Sachs",
+      "Goldman Sachs",
+      "ON Semiconductor",
+      "ON"
+    ],
+    "people": [],
+    "dates": [
+      "the past three months",
+      "50-day",
+      "1+ days ago"
+    ],
+    "financial_terms": [
+      "Stock",
+      "trading",
+      "stock"
+    ],
+    "financial_metrics": [],
+    "market_indicators": [
+      "rating",
+      "price",
+      "target"
+    ]
+  },
+  "temporal_analysis": {
+    "dates": [
+      "the past three months",
+      "50-day",
+      "1+ days ago"
+    ],
+    "time_expressions": [],
+    "temporal_relationships": [
+      "Recent",
+      "past"
+    ],
+    "quarters": [],
+    "years": [],
+    "time_periods": []
+  },
+  "sentiment_analysis": {
+    "positive_words": 3,
+    "negative_words": 2,
+    "positive_ratio": 0.024,
+    "negative_ratio": 0.016,
+    "sentiment_score": 0.008,
+    "sentiment_label": "neutral",
+    "sentiment_strength": 0.008,
+    "confidence": 0.08
+  },
+  "industry_analysis": {
+    "dominant_industry": "tech",
+    "industry_scores": {
+      "tech": 4,
+      "finance": 1,
+      "healthcare": 0,
+      "energy": 0,
+      "retail": 0,
+      "automotive": 0,
+      "media": 0,
+      "industrial": 0,
+      "real_estate": 0,
+      "telecom": 0,
+      "food_beverage": 0,
+      "travel": 0,
+      "education": 0,
+      "professional": 0,
+      "mining": 0,
+      "aerospace": 0,
+      "environmental": 0,
+      "cannabis": 0
+    },
+    "confidence": 0.8
+  },
+  "market_analysis": {
+    "market_sentiment": "bullish",
+    "bullish_indicators": 2,
+    "bearish_indicators": 0,
+    "market_conditions": {
+      "volatility": "normal",
+      "volume": "normal",
+      "trend": "bullish"
+    },
+    "trading_activity": "normal"
+  },
+  "competitor_analysis": {
+    "companies_mentioned": [
+      "ON Semiconductor",
+      "ON",
+      "ON Semiconductor’s",
+      "Goldman Sachs",
+      "Goldman Sachs",
+      "ON Semiconductor",
+      "ON"
+    ],
+    "competitive_context": [],
+    "competitor_count": 7,
+    "has_competitive_language": false
+  },
+  "risk_analysis": {
+    "risk_sentences": [
+      "Industry uncertainty rose after U.S. tariff threats on Canadian goods—an escalation that could disrupt cross-border supply chains indirectly impacting ON’s operations.",
+      "Business leaders lament latest U.S. tariff threat as experts play down risks\nPosted 1+ days ago\nAI Generated. May Contain Errors."
+    ],
+    "risk_count": 2,
+    "risk_level": "medium"
+  },
+  "opportunity_analysis": {
+    "opportunity_sentences": [],
+    "opportunity_count": 0,
+    "opportunity_level": "low"
+  },
+  "processing_metadata": {
+    "timestamp": "2025-07-13T09:52:37.526397",
+    "model_used": "en_core_web_trf",
+    "text_length": 922
+  }
+}
