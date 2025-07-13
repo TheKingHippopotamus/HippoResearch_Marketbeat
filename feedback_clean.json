@@ -1,0 +1,135 @@
+[
+  {
+    "error_type": "Entity Translation - Company Name",
+    "rule": "Do not translate company names like 'Abbott Laboratories' into Hebrew. Keep them in English at all times.",
+    "bad_example": "Abbott Laboratories (ABT) צריכה להופיע באנגלית בלבד, גם בתוך טקסט עברי.",
+    "good_example": "Abbott Laboratories (ABT) מופיעה באנגלית בלבד, גם בתוך טקסט עברי, ללא תרגום לעברית.",
+    "comment": "Abbott Laboratories (ABT) צריכה להופיע באנגלית בלבד, גם בתוך טקסט עברי."
+  },
+  {
+    "error_type": "Entity Confusion - People vs Companies",
+    "rule": "Distinguish clearly between people named 'Abbott' and the company 'Abbott Laboratories'. Add a disambiguation sentence when needed.",
+    "bad_example": "יש להוסיף משפט הבהרה: אין קשר בין Abbott Laboratories לבין המושל גרג אבוט או דמויות בידוריות בשם זה.",
+    "good_example": "להוסיף הבהרה: 'אין קשר בין Abbott Laboratories לבין המושל גרג אבוט או דמויות בידוריות בשם זה.'",
+    "comment": "יש להוסיף משפט הבהרה: אין קשר בין Abbott Laboratories לבין המושל גרג אבוט או דמויות בידוריות בשם זה."
+  },
+  {
+    "error_type": "Factual Addition Without Source",
+    "rule": "Avoid inventing strategic acquisitions. Only reference acquisitions explicitly mentioned in the source text.",
+    "bad_example": "בגרסה המעובדת צוינה רכישת PTC כעובדה ('הרכישה האחרונה שזכתה לתשומת לב'), בעוד שבמקור נכתב שזו שמועה בלבד. יש לתקן את הניסוח ל'שמועה לרכישה אפשרית של PTC'.",
+    "good_example": "לנסח: 'שמועה לרכישה אפשרית של PTC', ולא להציג זאת כעובדה מוגמרת.",
+    "comment": "בגרסה המעובדת צוינה רכישת PTC כעובדה ('הרכישה האחרונה שזכתה לתשומת לב'), בעוד שבמקור נכתב שזו שמועה בלבד. יש לתקן את הניסוח ל'שמועה לרכישה אפשרית של PTC'."
+  },
+  {
+    "error_type": "Stylistic Redundancy",
+    "rule": "Avoid redundant phrasing like 'בהירות ותקשורת ברורה'. Replace with a tighter, single concept.",
+    "bad_example": "במקום 'בהירות ותקשורת ברורה' מומלץ לכתוב 'שקיפות וזרימת מידע עקבית'.",
+    "good_example": "לכתוב 'שקיפות וזרימת מידע עקבית' במקום 'בהירות ותקשורת ברורה'.",
+    "comment": "במקום 'בהירות ותקשורת ברורה' מומלץ לכתוב 'שקיפות וזרימת מידע עקבית'."
+  },
+  {
+    "error_type": "Reference Consistency",
+    "rule": "After introducing the company, use consistent references such as 'החברה' instead of alternating with 'ABT' or full name.",
+    "bad_example": "לאחר ההופעה הראשונה של Abbott Laboratories, יש להשתמש רק ב'החברה' לכל אורך הטקסט.",
+    "good_example": "לאחר ההופעה הראשונה של Abbott Laboratories, יש להמשיך ולהשתמש רק ב'החברה' בכל הפניות הבאות.",
+    "comment": "לאחר ההופעה הראשונה של Abbott Laboratories, יש להשתמש רק ב'החברה' לכל אורך הטקסט."
+  },
+  {
+    "error_type": "Sentiment Amplification",
+    "rule": "Do not exaggerate sentiment beyond what is found in the source. Use exact tone when summarizing analyst opinions.",
+    "bad_example": "במקום 'צעדים אלה מצביעים על אופטימיות גוברת לגבי עתיד החברה', עדיף לנסח 'אנליסטים צופים צמיחה ברווחים לשנים הבאות', בהתאם לניסוח המקורי.",
+    "good_example": "לנסח: 'אנליסטים צופים צמיחה ברווחים לשנים הבאות', בהתאם לטון המקורי, במקום להעצים את הסנטימנט.",
+    "comment": "במקום 'צעדים אלה מצביעים על אופטימיות גוברת לגבי עתיד החברה', עדיף לנסח 'אנליסטים צופים צמיחה ברווחים לשנים הבאות', בהתאם לניסוח המקורי."
+  },
+  {
+    "error_type": "Missing EPS Revision Detail",
+    "rule": "Include all financial adjustments mentioned in source text, such as lowered EPS estimates, even if sentiment remains bullish.",
+    "bad_example": "הגרסה המעובדת לא ציינה שמיזוהו הורידו את תחזית הרווח למניה (EPS). יש להוסיף כי תחזית הרווח עודכנה כלפי מטה למרות שמירה על תחזית הכנסות חיובית.",
+    "good_example": "להוסיף: 'תחזית הרווח למניה (EPS) עודכנה כלפי מטה, גם כאשר תחזית ההכנסות נותרה חיובית.'",
+    "comment": "הגרסה המעובדת לא ציינה שמיזוהו הורידו את תחזית הרווח למניה (EPS). יש להוסיף כי תחזית הרווח עודכנה כלפי מטה למרות שמירה על תחזית הכנסות חיובית."
+  },
+  {
+    "error_type": "Overgeneralization of Sector Exposure",
+    "rule": "Avoid overstating geographic or sector reach unless stated. Do not claim 'global presence' if only North America is mentioned.",
+    "bad_example": "'נוכחות גלובלית',",
+    "good_example": "לנסח: 'פעילות בצפון אמריקה, כולל חציית גבולות לקנדה', במקום לטעון לנוכחות גלובלית אם זה לא מצוין במקור.",
+    "comment": "במקום 'נוכחות גלובלית', יש לנסח 'פעילות בצפון אמריקה, כולל חציית גבולות לקנדה', בהתאם למקור."
+  },
+  {
+    "error_type": "EPS Adjustment Omission",
+    "rule": "Include even minor earnings estimate revisions such as the $0.01 drop in EPS forecast.",
+    "bad_example": "בתקציר DVN, יש להדגיש כי תחזית ה־EPS ל־2025 ירדה מ־$3.83 ל־$3.82 — גם ירידה קטנה מהווה שינוי תחזיתי שדורש ציון.",
+    "good_example": "לציין: 'תחזית ה-EPS ל-2025 ירדה מ-$3.83 ל-$3.82', גם אם מדובר בשינוי קטן, כדי לשמר דיוק.",
+    "comment": "בתקציר DVN, יש להדגיש כי תחזית ה־EPS ל־2025 ירדה מ־$3.83 ל־$3.82 — גם ירידה קטנה מהווה שינוי תחזיתי שדורש ציון."
+  },
+  {
+    "error_type": "Ticker Overuse",
+    "rule": "Do not repeat the ticker (e.g., DVN) too frequently within paragraphs.",
+    "bad_example": "בפסקאות DVN, יש גודש של 'DVN' – יש לגוון עם 'החברה', 'Devon Energy' או 'הקבוצה'.",
+    "good_example": "לגוון: להשתמש afresh ב'החברה', 'Devon Energy' או 'הקבוצה' לסירוגין, ולא לחזור שוב ושוב על DVN.",
+    "comment": "בפסקאות DVN, יש גודש של 'DVN' – יש לגוון עם 'החברה', 'Devon Energy' או 'הקבוצה'."
+  },
+  {
+    "error_type": "Sentiment Amplification - DVN",
+    "rule": "Avoid phrases like 'תמונה מעודדת' if overall tone is mixed.",
+    "bad_example": "'תמונה מעודדת עבור DVN'",
+    "good_example": "לנסח: 'שילוב של סימנים חיוביים ואתגרים בענף', כדי לשמר את הגוון המעורב של המקור.",
+    "comment": "במקום 'תמונה מעודדת עבור DVN' יש לומר 'שילוב של סימנים חיוביים ואתגרים בענף', כדי לשמר את הגוון המעורב של המקור."
+  },
+  {
+    "error_type": "Missing EPS Sentiment Context - eBay",
+    "rule": "Include the fact that earnings guidance is a key focus of upcoming investor expectations.",
+    "bad_example": "יש להוסיף התייחסות לכך ש-EBAY עומדת לפרסם דוחות כספיים בקרוב, עם ציפייה להנחיה פיננסית ועדכון שולי רווח.",
+    "good_example": "להוסיף: 'EBAY צפויה לפרסם דוחות כספיים בקרוב, עם ציפייה להנחיה פיננסית ועדכון שולי רווח.'",
+    "comment": "יש להוסיף התייחסות לכך ש-EBAY עומדת לפרסם דוחות כספיים בקרוב, עם ציפייה להנחיה פיננסית ועדכון שולי רווח."
+  },
+  {
+    "error_type": "Overgeneralization - Global Trends",
+    "rule": "Avoid vague statements like 'השפעות גלובליות' without specific macroeconomic or regional triggers.",
+    "bad_example": "במקום 'חשופה להשפעות גלובליות', ניתן לנסח: 'נתונה להשפעות כמו אינפלציה אזורית ושינויים במטבע המקומי בשווקים מזרח־אירופיים ואסייתיים'.",
+    "good_example": "לנסח: 'נתונה להשפעות כמו אינפלציה אזורית ושינויים במטבע המקומי בשווקים מזרח־אירופיים ואסייתיים', במקום 'חשופה להשפעות גלובליות'.",
+    "comment": "במקום 'חשופה להשפעות גלובליות', ניתן לנסח: 'נתונה להשפעות כמו אינפלציה אזורית ושינויים במטבע המקומי בשווקים מזרח־אירופיים ואסייתיים'."
+  },
+  {
+    "error_type": "Misinterpretation of News - Fyre Festival",
+    "rule": "Do not imply corporate partnership where none exists. Mention the novelty, not the strategy.",
+    "bad_example": "הופעת Fyre Festival לא הייתה יוזמה של eBay אלא רשימה פרטית – אין להציג זאת כצעד אסטרטגי של החברה.",
+    "good_example": "לציין: 'הופעת Fyre Festival ב-eBay הייתה יוזמה פרטית של משתמש, ולא מהלך אסטרטגי של החברה.'",
+    "comment": "הופעת Fyre Festival לא הייתה יוזמה של eBay אלא רשימה פרטית – אין להציג זאת כצעד אסטרטגי של החברה."
+  },
+  {
+    "error_type": "Missing Decline Mention - ELV",
+    "rule": "Include the expected decline in Q2 earnings forecasted by Zacks.",
+    "bad_example": "הטקסט לא ציין ש-Zacks חזה ירידה ברווחים ברבעון השני – יש להוסיף זאת כמרכיב סנטימנט שלילי משמעותי.",
+    "good_example": "להוסיף: 'Zacks חזה ירידה ברווחי ELV ברבעון השני', כדי לשקף את הסנטימנט השלילי.",
+    "comment": "הטקסט לא ציין ש-Zacks חזה ירידה ברווחים ברבעון השני – יש להוסיף זאת כמרכיב סנטימנט שלילי משמעותי."
+  },
+  {
+    "error_type": "Missing Class Action Context",
+    "rule": "Make clear the class action lawsuits against ELV include investors with large losses and are active.",
+    "bad_example": "יש להוסיף כי משקיעים שנפגעו בין אפריל לאוקטובר 2024 יכולים להצטרף לתביעה ייצוגית – זו אינפורמציה משפטית חשובה.",
+    "good_example": "להוסיף: 'משקיעים שנפגעו בין אפריל לאוקטובר 2024 יכולים להצטרף לתביעה ייצוגית נגד ELV.'",
+    "comment": "יש להוסיף כי משקיעים שנפגעו בין אפריל לאוקטובר 2024 יכולים להצטרף לתביעה ייצוגית – זו אינפורמציה משפטית חשובה."
+  },
+  {
+    "error_type": "✅ Faithful Quote Preservation",
+    "rule": "Maintain exact figures for price targets and percentage changes.",
+    "bad_example": "כל המחירים והתחזיות (כגון $43.50, $80, $585) נשתמרו נכון – יש להמשיך כך.",
+    "good_example": "להמשיך להקפיד שכל המחירים והתחזיות (כגון $43.50, $80, $585) יישמרו בדיוק כפי שמופיעים במקור.",
+    "comment": "כל המחירים והתחזיות (כגון $43.50, $80, $585) נשתמרו נכון – יש להמשיך כך."
+  },
+  {
+    "error_type": "✅ Sentiment Differentiation by Paragraph",
+    "rule": "Use clear sentiment separation between bullish, bearish and neutral content.",
+    "bad_example": "הכתבות שומרות על הפרדה ניכרת בין חלקים חיוביים, נייטרליים ושליליים – חשוב להמשיך בגישה זו.",
+    "good_example": "להמשיך להפריד בין חלקים חיוביים, נייטרליים ושליליים – כל פסקה תתמקד בסנטימנט אחד בלבד.",
+    "comment": "הכתבות שומרות על הפרדה ניכרת בין חלקים חיוביים, נייטרליים ושליליים – חשוב להמשיך בגישה זו."
+  },
+  {
+    "error_type": "✅ Diverse Source Attribution",
+    "rule": "Include multiple media outlets (e.g., Yahoo, USA Today, MarketBeat) to show diversity of opinion.",
+    "bad_example": "ציון מקורות כמו MSN, IGN, Yahoo, Zacks, MarketBeat תורם לאמינות התוכן – יש להמשיך לכלול מגוון מקורות מוסדיים.",
+    "good_example": "להמשיך לציין מגוון מקורות מוסדיים (MSN, IGN, Yahoo, Zacks, MarketBeat) בכל כתבה, כדי להדגיש אמינות וגיוון.",
+    "comment": "ציון מקורות כמו MSN, IGN, Yahoo, Zacks, MarketBeat תורם לאמינות התוכן – יש להמשיך לכלול מגוון מקורות מוסדיים."
+  }
+]

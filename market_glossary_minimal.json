@@ -1,0 +1,3197 @@
+[
+  {
+    "term_en": "call",
+    "term_he": "לונג / קנייה",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "אופציות"
+  },
+  {
+    "term_en": "put",
+    "term_he": "שורט / מכירה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "אופציות"
+  },
+  {
+    "term_en": "stock",
+    "term_he": "מניה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "שוק ההון"
+  },
+  {
+    "term_en": "stocks",
+    "term_he": "מניות",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "רבים",
+    "context": "שוק ההון"
+  },
+  {
+    "term_en": "option",
+    "term_he": "אופציה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "נגזרים"
+  },
+  {
+    "term_en": "buy",
+    "term_he": "קונה",
+    "pos": "פועל",
+    "binyan": "פעל",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "פעולת שוק"
+  },
+  {
+    "term_en": "sell",
+    "term_he": "מוכרת",
+    "pos": "פועל",
+    "binyan": "פיעל",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "פעולת שוק"
+  },
+  {
+    "term_en": "dividends",
+    "term_he": "דיבידנדים",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "רבים",
+    "context": "פנדמנטלס"
+  },
+  {
+    "term_en": "guidance",
+    "term_he": "תחזית",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "פנדמנטלס"
+  },
+  {
+    "term_en": "ETF",
+    "term_he": "קרן סל",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "מכשירים פיננסיים"
+  },
+  {
+    "term_en": "mutual fund",
+    "term_he": "קרן נאמנות",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "מכשירים פיננסיים"
+  },
+  {
+    "term_en": "diversification",
+    "term_he": "פיזור",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "פנדמנטלס"
+  },
+  {
+    "term_en": "blue chip",
+    "term_he": "מניה כחולה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "שוק ההון"
+  },
+  {
+    "term_en": "penny stock",
+    "term_he": "מניית אגורה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "שוק ההון"
+  },
+  {
+    "term_en": "underlying asset",
+    "term_he": "נכס בסיס",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "נגזרים"
+  },
+  {
+    "term_en": "strike price",
+    "term_he": "מחיר מימוש",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "אופציות"
+  },
+  {
+    "term_en": "expiration date",
+    "term_he": "תאריך פקיעה",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "אופציות"
+  },
+  {
+    "term_en": "premium",
+    "term_he": "פרמיה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "אופציות"
+  },
+  {
+    "term_en": "hedge",
+    "term_he": "גידור",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "נגזרים"
+  },
+  {
+    "term_en": "arbitrage",
+    "term_he": "ארביטראז'",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "שוק ההון"
+  },
+  {
+    "term_en": "market order",
+    "term_he": "הוראת שוק",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "פעולת שוק"
+  },
+  {
+    "term_en": "limit order",
+    "term_he": "הוראת הגבלה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "פעולת שוק"
+  },
+  {
+    "term_en": "stop loss",
+    "term_he": "עצירת הפסד",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "פעולת שוק"
+  },
+  {
+    "term_en": "take profit",
+    "term_he": "לקיחת רווח",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "פעולת שוק"
+  },
+  {
+    "term_en": "over the counter",
+    "term_he": "מעבר לדלפק",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "שוק ההון"
+  },
+  {
+    "term_en": "market maker",
+    "term_he": "עושה שוק",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "שוק ההון"
+  },
+  {
+    "term_en": "liquidation",
+    "term_he": "נזילה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "שוק ההון"
+  },
+  {
+    "term_en": "margin",
+    "term_he": "מרווח בטחון",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "שוק ההון"
+  },
+  {
+    "term_en": "capital gain",
+    "term_he": "רווח הון",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "פנדמנטלס"
+  },
+  {
+    "term_en": "dividend yield",
+    "term_he": "תשואת דיבידנד",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "פנדמנטלס"
+  },
+  {
+    "term_en": "recession",
+    "term_he": "מיתון",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "כלכלה"
+  },
+  {
+    "term_en": "inflation",
+    "term_he": "אינפלציה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "כלכלה"
+  },
+  {
+    "term_en": "deflation",
+    "term_he": "דפלציה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "כלכלה"
+  },
+  {
+    "term_en": "credit rating",
+    "term_he": "דירוג אשראי",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "פנדמנטלס"
+  },
+  {
+    "term_en": "liquidity ratio",
+    "term_he": "יחס נזילות",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "פנדמנטלס"
+  },
+  {
+    "term_en": "price to earnings",
+    "term_he": "מכפיל רווח",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "פנדמנטלס"
+  },
+  {
+    "term_en": "price to book",
+    "term_he": "מכפיל הון",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "פנדמנטלס"
+  },
+  {
+    "term_en": "dividend payout ratio",
+    "term_he": "יחס חלוקת דיבידנד",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "פנדמנטלס"
+  },
+  {
+    "term_en": "shareholder",
+    "term_he": "בעל מניה",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "שוק ההון"
+  },
+  {
+    "term_en": "shareholders",
+    "term_he": "בעלי מניות",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "רבים",
+    "context": "שוק ההון"
+  },
+  {
+    "term_en": "prospectus",
+    "term_he": "תשקיף",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "שוק ההון"
+  },
+  {
+    "term_en": "underwriter",
+    "term_he": "חתם",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "שוק ההון"
+  },
+  {
+    "term_en": "allocation",
+    "term_he": "הקצאה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "שוק ההון"
+  },
+  {
+    "term_en": "voluntary liquidation",
+    "term_he": "פירוק מרצון",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "שוק ההון"
+  },
+  {
+    "term_en": "hostile takeover",
+    "term_he": "השתלטות עוינת",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "שוק ההון"
+  },
+  {
+    "term_en": "merger",
+    "term_he": "מיזוג",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "שוק ההון"
+  },
+  {
+    "term_en": "acquisition",
+    "term_he": "רכישה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "שוק ההון"
+  },
+  {
+    "term_en": "proxy",
+    "term_he": "ייפוי כוח",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "שוק ההון"
+  },
+  {
+    "term_en": "insider trading",
+    "term_he": "מסחר במידע פנים",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "שוק ההון"
+  },
+  {
+    "term_en": "regulator",
+    "term_he": "רגולטור",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "שוק ההון"
+  },
+  {
+    "term_en": "support level",
+    "term_he": "רמת תמיכה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "ניתוח טכני"
+  },
+  {
+    "term_en": "resistance level",
+    "term_he": "רמת התנגדות",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "ניתוח טכני"
+  },
+  {
+    "term_en": "moving average",
+    "term_he": "ממוצע נע",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "ניתוח טכני"
+  },
+  {
+    "term_en": "candlestick",
+    "term_he": "נר יפני",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "ניתוח טכני"
+  },
+  {
+    "term_en": "relative strength index",
+    "term_he": "מדד חוזק יחסי",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "ניתוח טכני"
+  },
+  {
+    "term_en": "MACD",
+    "term_he": "מדד MACD",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "ניתוח טכני"
+  },
+  {
+    "term_en": "blockchain",
+    "term_he": "בלוקצ'יין",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "קריפטו"
+  },
+  {
+    "term_en": "cryptocurrency",
+    "term_he": "מטבע קריפטוגרפי",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "קריפטו"
+  },
+  {
+    "term_en": "bitcoin",
+    "term_he": "ביטקוין",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "קריפטו"
+  },
+  {
+    "term_en": "ethereum",
+    "term_he": "את'ריום",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "קריפטו"
+  },
+  {
+    "term_en": "wallet",
+    "term_he": "ארנק דיגיטלי",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "קריפטו"
+  },
+  {
+    "term_en": "private key",
+    "term_he": "מפתח פרטי",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "קריפטו"
+  },
+  {
+    "term_en": "public key",
+    "term_he": "מפתח ציבורי",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "קריפטו"
+  },
+  {
+    "term_en": "smart contract",
+    "term_he": "חוזה חכם",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "קריפטו"
+  },
+  {
+    "term_en": "insurance premium",
+    "term_he": "פרמיית ביטוח",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "ביטוח"
+  },
+  {
+    "term_en": "deductible",
+    "term_he": "השתתפות עצמית",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "ביטוח"
+  },
+  {
+    "term_en": "policyholder",
+    "term_he": "בעל פוליסה",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "ביטוח"
+  },
+  {
+    "term_en": "beneficiary",
+    "term_he": "מוטב",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "ביטוח"
+  },
+  {
+    "term_en": "actuary",
+    "term_he": "אקטואר",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "ביטוח"
+  },
+  {
+    "term_en": "underwriting",
+    "term_he": "חיתום",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "ביטוח"
+  },
+  {
+    "term_en": "gross domestic product",
+    "term_he": "תוצר מקומי גולמי",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "מקרו-כלכלה"
+  },
+  {
+    "term_en": "interest rate",
+    "term_he": "ריבית",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "מקרו-כלכלה"
+  },
+  {
+    "term_en": "central bank",
+    "term_he": "בנק מרכזי",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "בנקאות"
+  },
+  {
+    "term_en": "monetary policy",
+    "term_he": "מדיניות מוניטרית",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "מקרו-כלכלה"
+  },
+  {
+    "term_en": "fiscal policy",
+    "term_he": "מדיניות פיסקלית",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "מקרו-כלכלה"
+  },
+  {
+    "term_en": "credit line",
+    "term_he": "קו אשראי",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "בנקאות"
+  },
+  {
+    "term_en": "overdraft",
+    "term_he": "יתרת חובה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "בנקאות"
+  },
+  {
+    "term_en": "collateral",
+    "term_he": "בטוחה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "מימון"
+  },
+  {
+    "term_en": "credit score",
+    "term_he": "ציון אשראי",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "מימון"
+  },
+  {
+    "term_en": "fintech",
+    "term_he": "פינטק",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "פינטק"
+  },
+  {
+    "term_en": "peer to peer lending",
+    "term_he": "הלוואות עמית לעמית",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "רבים",
+    "context": "פינטק"
+  },
+  {
+    "term_en": "crowdfunding",
+    "term_he": "מימון המונים",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "פינטק"
+  },
+  {
+    "term_en": "robo-advisor",
+    "term_he": "יועץ רובוטי",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "פינטק"
+  },
+  {
+    "term_en": "sustainable investment",
+    "term_he": "השקעה בת קיימא",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "ESG"
+  },
+
+  {
+    "term_en": "carbon footprint",
+    "term_he": "טביעת רגל פחמנית",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "ESG"
+  },
+  {
+    "term_en": "microfinance",
+    "term_he": "מיקרו-מימון",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "מימון"
+  },
+  {
+    "term_en": "venture capital",
+    "term_he": "הון סיכון",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "מימון"
+  },
+  {
+    "term_en": "angel investor",
+    "term_he": "משקיע אנג'ל",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "מימון"
+  },
+  {
+    "term_en": "market surveillance",
+    "term_he": "פיקוח שוק",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "רגולציה"
+  },
+  {
+    "term_en": "compliance",
+    "term_he": "ציות",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "רגולציה"
+  },
+  {
+    "term_en": "AML",
+    "term_he": "מניעת הלבנת הון",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "רגולציה"
+  },
+  {
+    "term_en": "KYC",
+    "term_he": "הכר את הלקוח",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "רגולציה"
+  },
+  {
+    "term_en": "trading halt",
+    "term_he": "הפסקת מסחר",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "מסחר"
+  },
+  {
+    "term_en": "circuit breaker",
+    "term_he": "מנגנון בלימה",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "מסחר"
+  },
+  {
+    "term_en": "market depth",
+    "term_he": "עומק שוק",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "מסחר"
+  },
+  {
+    "term_en": "bid",
+    "term_he": "הצעת קנייה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "מסחר"
+  },
+  {
+    "term_en": "ask",
+    "term_he": "הצעת מכירה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "מסחר"
+  },
+  {
+    "term_en": "spread trading",
+    "term_he": "מסחר מרווחים",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "מסחר"
+  },
+  {
+    "term_en": "algorithmic trading",
+    "term_he": "מסחר אלגוריתמי",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "מסחר"
+  },
+  {
+    "term_en": "dark pool",
+    "term_he": "בריכת מסחר אפלה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "מסחר"
+  },
+  {
+    "term_en": "front running",
+    "term_he": "מסחר מקדים",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "מסחר"
+  },
+  {
+    "term_en": "insider list",
+    "term_he": "רשימת פנים",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "רגולציה"
+  },
+  {
+    "term_en": "prospectus directive",
+    "term_he": "הנחיית תשקיפים",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "רגולציה"
+  },
+  {
+    "term_en": "MiFID",
+    "term_he": "הוראת שירותי השקעות בשוקי ההון (MiFID)",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "רגולציה"
+  },
+  {
+    "term_en": "SEC",
+    "term_he": "רשות ניירות ערך האמריקאית (SEC)",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "רגולציה"
+  },
+  {
+    "term_en": "ISA",
+    "term_he": "רשות ניירות ערך הישראלית (ISA)",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "רגולציה"
+  },
+  {
+    "term_en": "risk management",
+    "term_he": "ניהול סיכונים",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "ניהול סיכונים"
+  },
+  {
+    "term_en": "value at risk",
+    "term_he": "שווי בסיכון (VaR)",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "ניהול סיכונים"
+  },
+  {
+    "term_en": "stress test",
+    "term_he": "מבחן לחץ",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "ניהול סיכונים"
+  },
+  {
+    "term_en": "backtesting",
+    "term_he": "בדיקת עבר",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "מסחר אלגוריתמי"
+  },
+  {
+    "term_en": "high frequency trading",
+    "term_he": "מסחר בתדירות גבוהה",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "מסחר אלגוריתמי"
+  },
+  {
+    "term_en": "order book",
+    "term_he": "ספר פקודות",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "מסחר"
+  },
+  {
+    "term_en": "settlement",
+    "term_he": "סליקה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "מסחר"
+  },
+  {
+    "term_en": "clearing house",
+    "term_he": "בית סליקה",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "מסחר"
+  },
+  {
+    "term_en": "depository",
+    "term_he": "פנקס רישום",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "מסחר"
+  },
+  {
+    "term_en": "listing",
+    "term_he": "רישום למסחר",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "בורסה"
+  },
+  {
+    "term_en": "delisting",
+    "term_he": "הסרת רישום",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "בורסה"
+  },
+  {
+    "term_en": "IPO prospectus",
+    "term_he": "תשקיף הנפקה",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "בורסה"
+  },
+  {
+    "term_en": "ADR",
+    "term_he": "תעודת פיקדון אמריקאית (ADR)",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "מסחר גלובלי"
+  },
+  {
+    "term_en": "dual listing",
+    "term_he": "רישום כפול",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "מסחר גלובלי"
+  },
+  {
+    "term_en": "FATCA",
+    "term_he": "חוק ציות מס זר (FATCA)",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "רגולציה בינלאומית"
+  },
+  {
+    "term_en": "Basel III",
+    "term_he": "באזל 3",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "רגולציה בינלאומית"
+  },
+  {
+    "term_en": "IOSCO",
+    "term_he": "הארגון הבינלאומי של רשויות ניירות ערך (IOSCO)",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "רגולציה בינלאומית"
+  },
+  {
+    "term_en": "GDR",
+    "term_he": "תעודת פיקדון גלובלית (GDR)",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "מסחר גלובלי"
+  },
+  {
+    "term_en": "bullish",
+    "term_he": "שורי",
+    "pos": "תואר",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "סלאנג וול סטריט"
+  },
+  {
+    "term_en": "bearish",
+    "term_he": "דובי",
+    "pos": "תואר",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "סלאנג וול סטריט"
+  },
+  {
+    "term_en": "blue sky scenario",
+    "term_he": "תרחיש אופטימי במיוחד",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "אנליזה"
+  },
+  {
+    "term_en": "red flag",
+    "term_he": "דגל אדום",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "אנליזה"
+  },
+  {
+    "term_en": "overweight",
+    "term_he": "משקל יתר (המלצה אנליסטים)",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "אנליזה"
+  },
+  {
+    "term_en": "underweight",
+    "term_he": "משקל חסר (המלצה אנליסטים)",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "אנליזה"
+  },
+  {
+    "term_en": "hold",
+    "term_he": "המלצת החזק",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "אנליזה"
+  },
+  {
+    "term_en": "pump and dump",
+    "term_he": "ניפוח ומכירה",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "סלאנג וול סטריט"
+  },
+  {
+    "term_en": "dead cat bounce",
+    "term_he": "קפיצת חתול מת",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "סלאנג וול סטריט"
+  },
+  {
+    "term_en": "bag holder",
+    "term_he": "מחזיק תיק (מי שנתקע עם מניה)",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "סלאנג וול סטריט"
+  },
+  {
+    "term_en": "whale",
+    "term_he": "לווייתן (שחקן גדול בשוק)",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "סלאנג וול סטריט"
+  },
+  {
+    "term_en": "FOMO",
+    "term_he": "פחד להחמיץ (FOMO)",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "סלאנג עיתונאי"
+  },
+  {
+    "term_en": "FUD",
+    "term_he": "פחד, אי ודאות וספק (FUD)",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "סלאנג עיתונאי"
+  },
+  {
+    "term_en": "headline risk",
+    "term_he": "סיכון כותרות",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "סלאנג עיתונאי"
+  },
+  {
+    "term_en": "window dressing",
+    "term_he": "ייפוי דוחות",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "אנליזה"
+  },
+  {
+    "term_en": "run on the bank",
+    "term_he": "ריצה על הבנק",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "סלאנג עיתונאי"
+  },
+  {
+    "term_en": "meme stock",
+    "term_he": "מניית מם",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "סלאנג עיתונאי"
+  },
+  {
+    "term_en": "short squeeze",
+    "term_he": "לחיצת שורט",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "סלאנג וול סטריט"
+  },
+  {
+    "term_en": "unemployment rate",
+    "term_he": "שיעור אבטלה",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "כלכלה"
+  },
+  {
+    "term_en": "labor force",
+    "term_he": "כוח עבודה",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "כלכלה"
+  },
+  {
+    "term_en": "minimum wage",
+    "term_he": "שכר מינימום",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "כלכלה"
+  },
+  {
+    "term_en": "progressive tax",
+    "term_he": "מס פרוגרסיבי",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "מיסוי"
+  },
+  {
+    "term_en": "regressive tax",
+    "term_he": "מס רגרסיבי",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "מיסוי"
+  },
+  {
+    "term_en": "monopoly",
+    "term_he": "מונופול",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "תחרות"
+  },
+  {
+    "term_en": "oligopoly",
+    "term_he": "אוליגופול",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "תחרות"
+  },
+  {
+    "term_en": "perfect competition",
+    "term_he": "תחרות משוכללת",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "תחרות"
+  },
+  {
+    "term_en": "supply and demand",
+    "term_he": "היצע וביקוש",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "רבים",
+    "context": "תיאוריה כלכלית"
+  },
+  {
+    "term_en": "marginal utility",
+    "term_he": "תועלת שולית",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "תיאוריה כלכלית"
+  },
+  {
+    "term_en": "consumer price index",
+    "term_he": "מדד מחירים לצרכן",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "מדדים"
+  },
+  {
+    "term_en": "producer price index",
+    "term_he": "מדד מחירים ליצרן",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "מדדים"
+  },
+  {
+    "term_en": "balance of payments",
+    "term_he": "מאזן תשלומים",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "סחר בינלאומי"
+  },
+  {
+    "term_en": "trade deficit",
+    "term_he": "גירעון מסחרי",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "סחר בינלאומי"
+  },
+  {
+    "term_en": "tariff",
+    "term_he": "מכסה/מכס",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "סחר בינלאומי"
+  },
+  {
+    "term_en": "exchange rate",
+    "term_he": "שער חליפין",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "סחר בינלאומי"
+  },
+  {
+    "term_en": "foreign direct investment",
+    "term_he": "השקעה ישירה זרה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "סחר בינלאומי"
+  },
+  {
+    "term_en": "gross national product",
+    "term_he": "תוצר לאומי גולמי",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "כלכלה"
+  },
+  {
+    "term_en": "stagflation",
+    "term_he": "סטגפלציה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "כלכלה"
+  },
+  {
+    "term_en": "behavioral economics",
+    "term_he": "כלכלה התנהגותית",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "כלכלה התנהגותית"
+  },
+  {
+    "term_en": "nudge",
+    "term_he": "דחיפה התנהגותית",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "כלכלה התנהגותית"
+  },
+  {
+    "term_en": "loss aversion",
+    "term_he": "רתיעה מהפסד",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "כלכלה התנהגותית"
+  },
+  {
+    "term_en": "public goods",
+    "term_he": "מוצרים ציבוריים",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "רבים",
+    "context": "כלכלה ציבורית"
+  },
+  {
+    "term_en": "externality",
+    "term_he": "חיצוניות",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "כלכלה ציבורית"
+  },
+  {
+    "term_en": "market failure",
+    "term_he": "כשל שוק",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "כלכלה ציבורית"
+  },
+  {
+    "term_en": "opportunity cost",
+    "term_he": "עלות אלטרנטיבית",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "מיקרו-כלכלה"
+  },
+  {
+    "term_en": "price elasticity",
+    "term_he": "גמישות מחיר",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "מיקרו-כלכלה"
+  },
+  {
+    "term_en": "diminishing returns",
+    "term_he": "תשואות פוחתות",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "רבים",
+    "context": "מיקרו-כלכלה"
+  },
+  {
+    "term_en": "aggregate demand",
+    "term_he": "ביקוש מצרפי",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "מקרו-כלכלה"
+  },
+  {
+    "term_en": "aggregate supply",
+    "term_he": "היצע מצרפי",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "מקרו-כלכלה"
+  },
+  {
+    "term_en": "Phillips curve",
+    "term_he": "עקומת פיליפס",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "מקרו-כלכלה"
+  },
+  {
+    "term_en": "money supply",
+    "term_he": "היצע כסף",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "תיאוריה מוניטרית"
+  },
+  {
+    "term_en": "quantitative easing",
+    "term_he": "הרחבה כמותית",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "תיאוריה מוניטרית"
+  },
+  {
+    "term_en": "velocity of money",
+    "term_he": "מהירות מחזור הכסף",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "תיאוריה מוניטרית"
+  },
+  {
+    "term_en": "crowding out",
+    "term_he": "אפקט הדחקה",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "מקרו-כלכלה"
+  },
+  {
+    "term_en": "Ricardian equivalence",
+    "term_he": "שקילות ריקרדו",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "מקרו-כלכלה"
+  },
+  {
+    "term_en": "semiconductor",
+    "term_he": "מוליך למחצה",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "טכנולוגיה"
+  },
+  {
+    "term_en": "integrated circuit",
+    "term_he": "מעגל משולב",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "סמיקונדקטור"
+  },
+  {
+    "term_en": "wafer",
+    "term_he": "פרוסת סיליקון",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "סמיקונדקטור"
+  },
+  {
+    "term_en": "fab",
+    "term_he": "מפעל ייצור שבבים (FAB)",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "סמיקונדקטור"
+  },
+  {
+    "term_en": "foundry",
+    "term_he": "פאונדרי (מפעל ייצור חיצוני)",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "סמיקונדקטור"
+  },
+  {
+    "term_en": "node",
+    "term_he": "צומת טכנולוגי (Node)",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "סמיקונדקטור"
+  },
+  {
+    "term_en": "lithography",
+    "term_he": "ליתוגרפיה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "סמיקונדקטור"
+  },
+  {
+    "term_en": "etching",
+    "term_he": "צריבה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "סמיקונדקטור"
+  },
+  {
+    "term_en": "mask",
+    "term_he": "מסכה (בתהליך ייצור שבבים)",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "סמיקונדקטור"
+  },
+  {
+    "term_en": "die",
+    "term_he": "שבב בודד (Die)",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "סמיקונדקטור"
+  },
+  {
+    "term_en": "yield",
+    "term_he": "תפוקה (Yield)",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "סמיקונדקטור"
+  },
+  {
+    "term_en": "packaging",
+    "term_he": "אריזת שבבים",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "סמיקונדקטור"
+  },
+  {
+    "term_en": "test",
+    "term_he": "בדיקת שבבים",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "סמיקונדקטור"
+  },
+  {
+    "term_en": "EDA",
+    "term_he": "כלי תכנון אלקטרוני (EDA)",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "סמיקונדקטור"
+  },
+  {
+    "term_en": "IP core",
+    "term_he": "ליבת IP",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "סמיקונדקטור"
+  },
+  {
+    "term_en": "SoC",
+    "term_he": "מערכת על שבב (SoC)",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "סמיקונדקטור"
+  },
+  {
+    "term_en": "fabless",
+    "term_he": "חברת פבלס (ללא ייצור עצמי)",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "סמיקונדקטור"
+  },
+  {
+    "term_en": "DRAM",
+    "term_he": "זיכרון דינמי (DRAM)",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "סמיקונדקטור"
+  },
+  {
+    "term_en": "foundry service",
+    "term_he": "שירות פאונדרי",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "סמיקונדקטור"
+  },
+  {
+    "term_en": "CPU",
+    "term_he": "מעבד מרכזי (CPU)",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "שבבים"
+  },
+  {
+    "term_en": "GPU",
+    "term_he": "מעבד גרפי (GPU)",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "שבבים"
+  },
+  {
+    "term_en": "ASIC",
+    "term_he": "מעגל משולב ייעודי (ASIC)",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "שבבים"
+  },
+  {
+    "term_en": "FPGA",
+    "term_he": "מערך שערים מתכנת (FPGA)",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "שבבים"
+  },
+  {
+    "term_en": "NAND flash",
+    "term_he": "זיכרון פלאש NAND",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "שבבים"
+  },
+  {
+    "term_en": "SRAM",
+    "term_he": "זיכרון סטטי (SRAM)",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "שבבים"
+  },
+  {
+    "term_en": "3D NAND",
+    "term_he": "זיכרון NAND תלת-מימדי",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "שבבים"
+  },
+  {
+    "term_en": "chip shortage",
+    "term_he": "מחסור בשבבים",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "שוק עולמי"
+  },
+  {
+    "term_en": "supply chain",
+    "term_he": "שרשרת אספקה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "שוק עולמי"
+  },
+  {
+    "term_en": "outsourcing",
+    "term_he": "מיקור חוץ",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "שוק עולמי"
+  },
+  {
+    "term_en": "design win",
+    "term_he": "ניצחון עיצובי",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "שבבים"
+  },
+  {
+    "term_en": "tape out",
+    "term_he": "יציאה לייצור (Tape Out)",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "שבבים"
+  },
+  {
+    "term_en": "silicon",
+    "term_he": "סיליקון",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "סמיקונדקטור"
+  },
+  {
+    "term_en": "gallium arsenide",
+    "term_he": "גליום ארסניד",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "סמיקונדקטור"
+  },
+  {
+    "term_en": "compound semiconductor",
+    "term_he": "מוליך למחצה מורכב",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "סמיקונדקטור"
+  },
+  {
+    "term_en": "power management",
+    "term_he": "ניהול הספק",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "שבבים"
+  },
+  {
+    "term_en": "analog",
+    "term_he": "אנלוגי",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "שבבים"
+  },
+  {
+    "term_en": "digital",
+    "term_he": "דיגיטלי",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "שבבים"
+  },
+  {
+    "term_en": "software development",
+    "term_he": "פיתוח תוכנה",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "תוכנה"
+  },
+  {
+    "term_en": "application programming interface",
+    "term_he": "ממשק תכנות יישומים (API)",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "תוכנה"
+  },
+  {
+    "term_en": "microservices",
+    "term_he": "שירותים זעירים",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "רבים",
+    "context": "ארכיטקטורת תוכנה"
+  },
+  {
+    "term_en": "containerization",
+    "term_he": "מיכלון",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "תוכנה"
+  },
+  {
+    "term_en": "virtualization",
+    "term_he": "וירטואליזציה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "תוכנה"
+  },
+  {
+    "term_en": "cloud computing",
+    "term_he": "חישוב ענן",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "ענן"
+  },
+  {
+    "term_en": "software as a service",
+    "term_he": "תוכנה כשירות (SaaS)",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "ענן"
+  },
+  {
+    "term_en": "platform as a service",
+    "term_he": "פלטפורמה כשירות (PaaS)",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "ענן"
+  },
+  {
+    "term_en": "infrastructure as a service",
+    "term_he": "תשתית כשירות (IaaS)",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "ענן"
+  },
+  {
+    "term_en": "machine learning",
+    "term_he": "למידת מכונה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "בינה מלאכותית"
+  },
+  {
+    "term_en": "deep learning",
+    "term_he": "למידה עמוקה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "בינה מלאכותית"
+  },
+  {
+    "term_en": "neural network",
+    "term_he": "רשת נוירונים",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "בינה מלאכותית"
+  },
+  {
+    "term_en": "cybersecurity",
+    "term_he": "אבטחת סייבר",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "אבטחה"
+  },
+  {
+    "term_en": "encryption",
+    "term_he": "הצפנה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "אבטחה"
+  },
+  {
+    "term_en": "blockchain technology",
+    "term_he": "טכנולוגיית בלוקצ'יין",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "טכנולוגיה"
+  },
+  {
+    "term_en": "distributed ledger",
+    "term_he": "פנקס מבוזר",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "טכנולוגיה"
+  },
+  {
+    "term_en": "open source",
+    "term_he": "קוד פתוח",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "תוכנה"
+  },
+  {
+    "term_en": "proprietary software",
+    "term_he": "תוכנה קניינית",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "תוכנה"
+  },
+  {
+    "term_en": "database",
+    "term_he": "בסיס נתונים",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "תוכנה"
+  },
+  {
+    "term_en": "relational database",
+    "term_he": "בסיס נתונים יחסי",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "בסיסי נתונים"
+  },
+  {
+    "term_en": "NoSQL",
+    "term_he": "בסיס נתונים לא יחסי (NoSQL)",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "בסיסי נתונים"
+  },
+  {
+    "term_en": "big data",
+    "term_he": "נתונים גדולים",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "רבים",
+    "context": "נתונים"
+  },
+  {
+    "term_en": "data analytics",
+    "term_he": "ניתוח נתונים",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "נתונים"
+  },
+  {
+    "term_en": "DevOps",
+    "term_he": "פיתוח ותפעול (DevOps)",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "תוכנה"
+  },
+  {
+    "term_en": "continuous integration",
+    "term_he": "אינטגרציה רציפה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "DevOps"
+  },
+  {
+    "term_en": "continuous deployment",
+    "term_he": "פריסה רציפה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "DevOps"
+  },
+  {
+    "term_en": "agile methodology",
+    "term_he": "מתודולוגיה זריזה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "פיתוח תוכנה"
+  },
+  {
+    "term_en": "scrum",
+    "term_he": "סקראם",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "פיתוח תוכנה"
+  },
+  {
+    "term_en": "sprint",
+    "term_he": "ספרינט",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "פיתוח תוכנה"
+  },
+  {
+    "term_en": "user interface",
+    "term_he": "ממשק משתמש",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "תוכנה"
+  },
+  {
+    "term_en": "user experience",
+    "term_he": "חוויית משתמש",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "תוכנה"
+  },
+  {
+    "term_en": "responsive design",
+    "term_he": "עיצוב רספונסיבי",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "תוכנה"
+  },
+  {
+    "term_en": "mobile application",
+    "term_he": "אפליקציה ניידת",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "תוכנה"
+  },
+  {
+    "term_en": "web application",
+    "term_he": "אפליקציית אינטרנט",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "תוכנה"
+  },
+  {
+    "term_en": "backend",
+    "term_he": "צד שרת",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "תוכנה"
+  },
+  {
+    "term_en": "frontend",
+    "term_he": "צד לקוח",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "תוכנה"
+  },
+  {
+    "term_en": "malware",
+    "term_he": "תוכנה זדונית",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "סייבר"
+  },
+  {
+    "term_en": "ransomware",
+    "term_he": "תוכנת כופר",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "סייבר"
+  },
+  {
+    "term_en": "phishing",
+    "term_he": "דיוג",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "סייבר"
+  },
+  {
+    "term_en": "social engineering",
+    "term_he": "הנדסה חברתית",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "סייבר"
+  },
+  {
+    "term_en": "firewall",
+    "term_he": "חומת אש",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "סייבר"
+  },
+  {
+    "term_en": "antivirus",
+    "term_he": "אנטי-וירוס",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "סייבר"
+  },
+  {
+    "term_en": "intrusion detection system",
+    "term_he": "מערכת זיהוי חדירות",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "סייבר"
+  },
+  {
+    "term_en": "penetration testing",
+    "term_he": "בדיקת חדירה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "סייבר"
+  },
+  {
+    "term_en": "vulnerability assessment",
+    "term_he": "הערכת פגיעויות",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "סייבר"
+  },
+  {
+    "term_en": "zero-day exploit",
+    "term_he": "ניצול פגיעות אפס ימים",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "סייבר"
+  },
+  {
+    "term_en": "data breach",
+    "term_he": "דליפת נתונים",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "סייבר"
+  },
+  {
+    "term_en": "identity theft",
+    "term_he": "גניבת זהות",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "סייבר"
+  },
+  {
+    "term_en": "two-factor authentication",
+    "term_he": "אימות דו-שלבי",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "סייבר"
+  },
+  {
+    "term_en": "biometric authentication",
+    "term_he": "אימות ביומטרי",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "סייבר"
+  },
+  {
+    "term_en": "endpoint security",
+    "term_he": "אבטחת נקודות קצה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "סייבר"
+  },
+  {
+    "term_en": "network security",
+    "term_he": "אבטחת רשת",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "סייבר"
+  },
+  {
+    "term_en": "cloud security",
+    "term_he": "אבטחת ענן",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "סייבר"
+  },
+  {
+    "term_en": "incident response",
+    "term_he": "תגובה לאירועי אבטחה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "סייבר"
+  },
+  {
+    "term_en": "threat intelligence",
+    "term_he": "מודיעין איומים",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "סייבר"
+  },
+  {
+    "term_en": "crude oil",
+    "term_he": "נפט גולמי",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "אנרגיה"
+  },
+  {
+    "term_en": "natural gas",
+    "term_he": "גז טבעי",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "אנרגיה"
+  },
+  {
+    "term_en": "renewable energy",
+    "term_he": "אנרגיה מתחדשת",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "אנרגיה"
+  },
+  {
+    "term_en": "solar power",
+    "term_he": "אנרגיה סולארית",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "אנרגיה"
+  },
+  {
+    "term_en": "wind energy",
+    "term_he": "אנרגיית רוח",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "אנרגיה"
+  },
+  {
+    "term_en": "hydroelectric power",
+    "term_he": "אנרגיה הידרואלקטרית",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "אנרגיה"
+  },
+  {
+    "term_en": "nuclear power",
+    "term_he": "אנרגיה גרעינית",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "אנרגיה"
+  },
+  {
+    "term_en": "fossil fuels",
+    "term_he": "דלקים מאובנים",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "רבים",
+    "context": "אנרגיה"
+  },
+  {
+    "term_en": "oil rig",
+    "term_he": "אסדת קידוח",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "אנרגיה"
+  },
+  {
+    "term_en": "refinery",
+    "term_he": "בית זיקוק",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "אנרגיה"
+  },
+  {
+    "term_en": "pipeline",
+    "term_he": "צינור הולכה",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "אנרגיה"
+  },
+  {
+    "term_en": "liquefied natural gas",
+    "term_he": "גז טבעי נוזלי (LNG)",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "אנרגיה"
+  },
+  {
+    "term_en": "shale gas",
+    "term_he": "גז צפחה",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "אנרגיה"
+  },
+  {
+    "term_en": "fracking",
+    "term_he": "סדיקה הידראולית",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "אנרגיה"
+  },
+  {
+    "term_en": "carbon footprint",
+    "term_he": "טביעת רגל פחמנית",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "אנרגיה"
+  },
+  {
+    "term_en": "carbon credits",
+    "term_he": "אשראי פחמני",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "רבים",
+    "context": "אנרגיה"
+  },
+  {
+    "term_en": "energy efficiency",
+    "term_he": "יעילות אנרגטית",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "אנרגיה"
+  },
+  {
+    "term_en": "smart grid",
+    "term_he": "רשת חכמה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "אנרגיה"
+  },
+  {
+    "term_en": "biotechnology",
+    "term_he": "ביוטכנולוגיה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "רפואה"
+  },
+  {
+    "term_en": "pharmaceutical",
+    "term_he": "תרופה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "רפואה"
+  },
+  {
+    "term_en": "clinical trial",
+    "term_he": "ניסוי קליני",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "רפואה"
+  },
+  {
+    "term_en": "FDA approval",
+    "term_he": "אישור FDA",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "רפואה"
+  },
+  {
+    "term_en": "patent",
+    "term_he": "פטנט",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "רפואה"
+  },
+  {
+    "term_en": "generic drug",
+    "term_he": "תרופה גנרית",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "רפואה"
+  },
+  {
+    "term_en": "orphan drug",
+    "term_he": "תרופת יתום",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "רפואה"
+  },
+  {
+    "term_en": "medical device",
+    "term_he": "מכשור רפואי",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "רפואה"
+  },
+  {
+    "term_en": "diagnostic",
+    "term_he": "אבחון",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "רפואה"
+  },
+  {
+    "term_en": "therapeutic",
+    "term_he": "טיפולי",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "רפואה"
+  },
+  {
+    "term_en": "immunotherapy",
+    "term_he": "אימונותרפיה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "רפואה"
+  },
+  {
+    "term_en": "gene therapy",
+    "term_he": "טיפול גני",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "רפואה"
+  },
+  {
+    "term_en": "precision medicine",
+    "term_he": "רפואה מדויקת",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "רפואה"
+  },
+  {
+    "term_en": "telemedicine",
+    "term_he": "טלרפואה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "רפואה"
+  },
+  {
+    "term_en": "healthcare IT",
+    "term_he": "טכנולוגיית מידע רפואי",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "רפואה"
+  },
+  {
+    "term_en": "electronic health record",
+    "term_he": "תיק רפואי אלקטרוני",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "רפואה"
+  },
+  {
+    "term_en": "drug pipeline",
+    "term_he": "צינור תרופות",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "רפואה"
+  },
+  {
+    "term_en": "phase trial",
+    "term_he": "ניסוי שלב",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "רפואה"
+  },
+  {
+    "term_en": "regulatory approval",
+    "term_he": "אישור רגולטורי",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "רפואה"
+  },
+  {
+    "term_en": "biosimilar",
+    "term_he": "תרופה ביוסימילרית",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "רפואה"
+  },
+  {
+    "term_en": "monoclonal antibody",
+    "term_he": "נוגדן חד-שבטי",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "רפואה"
+  },
+  {
+    "term_en": "vaccine",
+    "term_he": "חיסון",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "רפואה"
+  },
+  {
+    "term_en": "mRNA technology",
+    "term_he": "טכנולוגיית mRNA",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "רפואה"
+  },
+  {
+    "term_en": "stem cell therapy",
+    "term_he": "טיפול בתאי גזע",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "רפואה"
+  },
+  {
+    "term_en": "CAR-T therapy",
+    "term_he": "טיפול CAR-T",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "רפואה"
+  },
+  {
+    "term_en": "oncology",
+    "term_he": "אונקולוגיה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "רפואה"
+  },
+  {
+    "term_en": "rare disease",
+    "term_he": "מחלה נדירה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "רפואה"
+  },
+  {
+    "term_en": "orphan drug designation",
+    "term_he": "הגדרת תרופת יתום",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "רפואה"
+  },
+  {
+    "term_en": "breakthrough therapy",
+    "term_he": "טיפול פורץ דרך",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "רפואה"
+  },
+  {
+    "term_en": "fast track designation",
+    "term_he": "הגדרת מסלול מהיר",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "רפואה"
+  },
+  {
+    "term_en": "priority review",
+    "term_he": "בחינה בעדיפות",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "רפואה"
+  },
+  {
+    "term_en": "accelerated approval",
+    "term_he": "אישור מואץ",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "רפואה"
+  },
+  {
+    "term_en": "compassionate use",
+    "term_he": "שימוש רחמני",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "רפואה"
+  },
+  {
+    "term_en": "real-world evidence",
+    "term_he": "ראיות מהעולם האמיתי",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "רפואה"
+  },
+  {
+    "term_en": "healthcare provider",
+    "term_he": "ספק שירותי בריאות",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "רפואה"
+  },
+  {
+    "term_en": "managed care",
+    "term_he": "טיפול מנוהל",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "רפואה"
+  },
+  {
+    "term_en": "health insurance",
+    "term_he": "ביטוח בריאות",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "רפואה"
+  },
+  {
+    "term_en": "real estate investment trust",
+    "term_he": "קרן נאמנות להשקעות בנדל\"ן (REIT)",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "נדל\"ן"
+  },
+  {
+    "term_en": "commercial real estate",
+    "term_he": "נדל\"ן מסחרי",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "נדל\"ן"
+  },
+  {
+    "term_en": "residential real estate",
+    "term_he": "נדל\"ן למגורים",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "נדל\"ן"
+  },
+  {
+    "term_en": "office building",
+    "term_he": "בניין משרדים",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "נדל\"ן"
+  },
+  {
+    "term_en": "retail property",
+    "term_he": "נכס קמעונאי",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "נדל\"ן"
+  },
+  {
+    "term_en": "industrial property",
+    "term_he": "נכס תעשייתי",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "נדל\"ן"
+  },
+  {
+    "term_en": "warehouse",
+    "term_he": "מחסן",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "נדל\"ן"
+  },
+  {
+    "term_en": "apartment building",
+    "term_he": "בניין דירות",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "נדל\"ן"
+  },
+  {
+    "term_en": "condominium",
+    "term_he": "דירה בבעלות משותפת",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "נדל\"ן"
+  },
+  {
+    "term_en": "rental income",
+    "term_he": "הכנסה משכירות",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "נדל\"ן"
+  },
+  {
+    "term_en": "occupancy rate",
+    "term_he": "שיעור תפוסה",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "נדל\"ן"
+  },
+  {
+    "term_en": "vacancy rate",
+    "term_he": "שיעור פנויות",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "נדל\"ן"
+  },
+  {
+    "term_en": "property management",
+    "term_he": "ניהול נכסים",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "נדל\"ן"
+  },
+  {
+    "term_en": "development project",
+    "term_he": "פרויקט פיתוח",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "נדל\"ן"
+  },
+  {
+    "term_en": "land acquisition",
+    "term_he": "רכישת קרקע",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "נדל\"ן"
+  },
+  {
+    "term_en": "zoning",
+    "term_he": "תכנון עירוני",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "נדל\"ן"
+  },
+  {
+    "term_en": "building permit",
+    "term_he": "היתר בנייה",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "נדל\"ן"
+  },
+  {
+    "term_en": "construction loan",
+    "term_he": "הלוואת בנייה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "נדל\"ן"
+  },
+  {
+    "term_en": "mortgage",
+    "term_he": "משכנתא",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "נדל\"ן"
+  },
+  {
+    "term_en": "mortgage-backed security",
+    "term_he": "נייר ערך מגובה משכנתאות",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "נדל\"ן ובנקאות"
+  },
+  {
+    "term_en": "commercial mortgage",
+    "term_he": "משכנתא מסחרית",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "נדל\"ן ובנקאות"
+  },
+  {
+    "term_en": "bridge loan",
+    "term_he": "הלוואת גישור",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "נדל\"ן ובנקאות"
+  },
+  {
+    "term_en": "mezzanine financing",
+    "term_he": "מימון ביניים",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "נדל\"ן ובנקאות"
+  },
+  {
+    "term_en": "real estate credit",
+    "term_he": "אשראי נדל\"ן",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "נדל\"ן ובנקאות"
+  },
+  {
+    "term_en": "property appraisal",
+    "term_he": "הערכת נכס",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "נדל\"ן ובנקאות"
+  },
+  {
+    "term_en": "loan-to-value ratio",
+    "term_he": "יחס הלוואה לערך",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "נדל\"ן ובנקאות"
+  },
+  {
+    "term_en": "debt service coverage ratio",
+    "term_he": "יחס כיסוי תשלומי חוב",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "נדל\"ן ובנקאות"
+  },
+  {
+    "term_en": "real estate portfolio",
+    "term_he": "תיק השקעות נדל\"ן",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "נדל\"ן ובנקאות"
+  },
+  {
+    "term_en": "property investment fund",
+    "term_he": "קרן השקעות נדל\"ן",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "נדל\"ן ובנקאות"
+  },
+  {
+    "term_en": "real estate syndication",
+    "term_he": "סינדיקציית נדל\"ן",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "נדל\"ן ובנקאות"
+  },
+  {
+    "term_en": "joint venture",
+    "term_he": "שותפות עסקית",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "נדל\"ן ובנקאות"
+  },
+  {
+    "term_en": "real estate development financing",
+    "term_he": "מימון פיתוח נדל\"ן",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "נדל\"ן ובנקאות"
+  },
+  {
+    "term_en": "construction financing",
+    "term_he": "מימון בנייה",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "נדל\"ן ובנקאות"
+  },
+  {
+    "term_en": "real estate asset management",
+    "term_he": "ניהול נכסי נדל\"ן",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "נדל\"ן ובנקאות"
+  },
+  {
+    "term_en": "property valuation",
+    "term_he": "הערכת שווי נכס",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "נדל\"ן ובנקאות"
+  },
+  {
+    "term_en": "real estate investment banking",
+    "term_he": "בנקאות השקעות נדל\"ן",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "נדל\"ן ובנקאות"
+  },
+  {
+    "term_en": "mortgage origination",
+    "term_he": "יצירת משכנתאות",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "נדל\"ן ובנקאות"
+  },
+  {
+    "term_en": "real estate securitization",
+    "term_he": "הנפקת נדל\"ן",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "נדל\"ן ובנקאות"
+  },
+  {
+    "term_en": "commercial bank",
+    "term_he": "בנק מסחרי",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "בנקאות"
+  },
+  {
+    "term_en": "investment bank",
+    "term_he": "בנק השקעות",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "בנקאות"
+  },
+  {
+    "term_en": "retail bank",
+    "term_he": "בנק קמעונאי",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "בנקאות"
+  },
+  {
+    "term_en": "universal bank",
+    "term_he": "בנק אוניברסלי",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "בנקאות"
+  },
+  {
+    "term_en": "deposit",
+    "term_he": "פיקדון",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "בנקאות"
+  },
+  {
+    "term_en": "savings account",
+    "term_he": "חשבון חיסכון",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "בנקאות"
+  },
+  {
+    "term_en": "checking account",
+    "term_he": "חשבון עו\"ש",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "בנקאות"
+  },
+  {
+    "term_en": "certificate of deposit",
+    "term_he": "תעודת פיקדון",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "בנקאות"
+  },
+  {
+    "term_en": "loan portfolio",
+    "term_he": "תיק הלוואות",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "בנקאות"
+  },
+  {
+    "term_en": "non-performing loan",
+    "term_he": "הלוואה לא פועלת",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "בנקאות"
+  },
+  {
+    "term_en": "provision for credit losses",
+    "term_he": "הקצאת אשראי להפסדים",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "בנקאות"
+  },
+  {
+    "term_en": "capital adequacy ratio",
+    "term_he": "יחס נאותות הון",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "בנקאות"
+  },
+  {
+    "term_en": "tier 1 capital",
+    "term_he": "הון מדרגה ראשונה",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "בנקאות"
+  },
+  {
+    "term_en": "tier 2 capital",
+    "term_he": "הון מדרגה שנייה",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "בנקאות"
+  },
+  {
+    "term_en": "net interest margin",
+    "term_he": "מרווח ריבית נטו",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "בנקאות"
+  },
+  {
+    "term_en": "return on assets",
+    "term_he": "תשואה על נכסים",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "בנקאות"
+  },
+  {
+    "term_en": "return on equity",
+    "term_he": "תשואה על הון",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "בנקאות"
+  },
+  {
+    "term_en": "asset-liability management",
+    "term_he": "ניהול נכסים והתחייבויות",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "בנקאות"
+  },
+  {
+    "term_en": "liquidity ratio",
+    "term_he": "יחס נזילות",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "בנקאות"
+  },
+  {
+    "term_en": "consumer discretionary",
+    "term_he": "מוצרי צריכה פרטית",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "רבים",
+    "context": "צריכה פרטית"
+  },
+  {
+    "term_en": "consumer staples",
+    "term_he": "מוצרי צריכה בסיסיים",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "רבים",
+    "context": "צריכה פרטית"
+  },
+  {
+    "term_en": "retail sales",
+    "term_he": "מכירות קמעונאיות",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "רבות",
+    "context": "צריכה פרטית"
+  },
+  {
+    "term_en": "e-commerce",
+    "term_he": "מסחר אלקטרוני",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "צריכה פרטית"
+  },
+  {
+    "term_en": "shopping mall",
+    "term_he": "קניון",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "צריכה פרטית"
+  },
+  {
+    "term_en": "brand loyalty",
+    "term_he": "נאמנות למותג",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "צריכה פרטית"
+  },
+  {
+    "term_en": "private label",
+    "term_he": "מותג פרטי",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "צריכה פרטית"
+  },
+  {
+    "term_en": "household consumption",
+    "term_he": "צריכת משקי בית",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "צריכה פרטית"
+  },
+  {
+    "term_en": "consumer confidence index",
+    "term_he": "מדד אמון הצרכנים",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "צריכה פרטית"
+  },
+  {
+    "term_en": "basket of goods",
+    "term_he": "סל מוצרים",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "צריכה פרטית"
+  },
+  {
+    "term_en": "point of sale",
+    "term_he": "נקודת מכירה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "צריכה פרטית"
+  },
+  {
+    "term_en": "installment payment",
+    "term_he": "תשלום בתשלומים",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "צריכה פרטית"
+  },
+  {
+    "term_en": "consumer credit",
+    "term_he": "אשראי צרכני",
+    "pos": "שם עצם",
+    "gender": "זכר",
+    "number": "יחיד",
+    "context": "צריכה פרטית"
+  },
+  {
+    "term_en": "loyalty program",
+    "term_he": "תוכנית נאמנות",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "צריכה פרטית"
+  },
+  {
+    "term_en": "shopping basket",
+    "term_he": "עגלה",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "צריכה פרטית"
+  },
+  {
+    "term_en": "consumer price sensitivity",
+    "term_he": "רגישות מחירים של צרכנים",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "צריכה פרטית"
+  },
+  {
+    "term_en": "BlackRock",
+    "term_he": "בלאקרוק",
+    "pos": "שם עצם",
+    "gender": "נקבה",
+    "number": "יחיד",
+    "context": "שוק ההון"
+  }
+]

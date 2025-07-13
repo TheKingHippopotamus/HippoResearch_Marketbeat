@@ -1,0 +1,440 @@
+[
+  {
+    "error_type": "Entity Translation - Company Name",
+    "instruction_en": "Do not translate company names like 'Abbott Laboratories' into Hebrew. Keep them in English at all times.",
+    "correction_he": "Abbott Laboratories (ABT) צריכה להופיע באנגלית בלבד, גם בתוך טקסט עברי."
+  },
+  {
+    "error_type": "Entity Confusion - People vs Companies",
+    "instruction_en": "Distinguish clearly between people named 'Abbott' and the company 'Abbott Laboratories'. Add a disambiguation sentence when needed.",
+    "correction_he": "יש להוסיף משפט הבהרה: אין קשר בין Abbott Laboratories לבין המושל גרג אבוט או דמויות בידוריות בשם זה."
+  },
+  {
+    "error_type": "Term Style - Technical Language",
+    "instruction_en": "Avoid childlike or imprecise adjectives like 'דקיק'. Use professional technical terms.",
+    "correction_he": "במקום 'דקיק' יש לכתוב 'קומפקטי' או 'דק במיוחד'."
+  },
+  {
+    "error_type": "Hebrew Grammar - Conjunction Misuse",
+    "instruction_en": "Do not use conjunctions like 'בנוסף' if they have no syntactic function or lead to a broken sentence.",
+    "correction_he": "יש למחוק את 'בנוסף' מהמשפט: 'ולבסוף להבטיח יציבות פיננסית בנוסף בסביבות שוק משתנות' → 'ולהבטיח יציבות פיננסית גם בסביבות שוק משתנות'."
+  },
+  {
+    "error_type": "Opening Clause Style",
+    "instruction_en": "Avoid archaic formulations like 'שם התחרות גוברת יום לאחר יום'. Prefer modern, fluent alternatives.",
+    "correction_he": "במקום 'שם התחרות גוברת יום לאחר יום' יש לכתוב 'שבו התחרות מתעצמת מדי יום'."
+  },
+  {
+    "error_type": "Stylistic Redundancy",
+    "instruction_en": "Avoid redundant phrasing like 'בהירות ותקשורת ברורה'. Replace with a tighter, single concept.",
+    "correction_he": "במקום 'בהירות ותקשורת ברורה' מומלץ לכתוב 'שקיפות וזרימת מידע עקבית'."
+  },
+  {
+    "error_type": "Reference Consistency",
+    "instruction_en": "After introducing the company, use consistent references such as 'החברה' instead of alternating with 'ABT' or full name.",
+    "correction_he": "לאחר ההופעה הראשונה של Abbott Laboratories, יש להשתמש רק ב'החברה' לכל אורך הטקסט."
+  },
+  {
+    "error_type": "Verb Tense Consistency",
+    "instruction_en": "Maintain consistent verb tense. Avoid mixing past and present within the same paragraph.",
+    "correction_he": "יש ליישר את זמני הפעלים – לא לעבור מהווה לעבר באותה פסקה, לדוגמה: 'המשקיעים מצפים' לעומת 'הכריזה'."
+  },
+  {
+    "error_type": "Technical Precision",
+    "instruction_en": "Add technical value when describing products. Avoid general phrases like 'מתקדם' without explanation.",
+    "correction_he": "במקום 'מכשיר ניטור סוכר בדם מתקדם' יש לכתוב 'המכשיר מציע ניטור רציף כל דקה עם תצוגה ישירה לסמארטפון'."
+  }
+ ,
+    {
+      "error_type": "Factual Addition Without Source",
+      "instruction_en": "Avoid inventing strategic acquisitions. Only reference acquisitions explicitly mentioned in the source text.",
+      "correction_he": "בגרסה המעובדת צוינה רכישת PTC כעובדה ('הרכישה האחרונה שזכתה לתשומת לב'), בעוד שבמקור נכתב שזו שמועה בלבד. יש לתקן את הניסוח ל'שמועה לרכישה אפשרית של PTC'."
+    },
+    {
+      "error_type": "Sentiment Amplification",
+      "instruction_en": "Do not exaggerate sentiment beyond what is found in the source. Use exact tone when summarizing analyst opinions.",
+      "correction_he": "במקום 'צעדים אלה מצביעים על אופטימיות גוברת לגבי עתיד החברה', עדיף לנסח 'אנליסטים צופים צמיחה ברווחים לשנים הבאות', בהתאם לניסוח המקורי."
+    },
+    {
+      "error_type": "Incorrect Entity Function",
+      "instruction_en": "Do not attribute action or acquisition to the company unless confirmed. If the original text says 'rumored', use a conditional phrasing.",
+      "correction_he": "במקום 'Autodesk רכשה את PTC', יש לכתוב 'על פי דיווחים, Autodesk שוקלת לרכוש את PTC'."
+    },
+    {
+      "error_type": "Missing EPS Revision Detail",
+      "instruction_en": "Include all financial adjustments mentioned in source text, such as lowered EPS estimates, even if sentiment remains bullish.",
+      "correction_he": "הגרסה המעובדת לא ציינה שמיזוהו הורידו את תחזית הרווח למניה (EPS). יש להוסיף כי תחזית הרווח עודכנה כלפי מטה למרות שמירה על תחזית הכנסות חיובית."
+    },
+    {
+      "error_type": "Translated Entity Ambiguity",
+      "instruction_en": "Do not generalize names of analysts or firms. Preserve the specific attribution like 'Schaeffer’s Research' or 'Seeking Alpha'.",
+      "correction_he": "במקום 'מחקר נוסף מציע השוואה', יש לכתוב 'מחקר שפורסם ב-Seeking Alpha מציע השוואה', כדי לשמור על ייחוס ברור למקור."
+    },
+    {
+      "error_type": "Incorrect Market Reaction Attribution",
+      "instruction_en": "Avoid inventing causal relationships that are not stated. Do not imply specific reasons unless directly mentioned.",
+      "correction_he": "במקום 'הירידה מצביעה על ספקנות לגבי צמיחה מתמשכת', עדיף לכתוב 'יתכן שהירידה נובעת מנטילת רווחים או משינויים זמניים במגמה', כפי שנרמז בטקסט המקורי."
+    },
+    {
+      "error_type": "Entity Name Translation - Company",
+      "instruction_en": "Company names like 'Advanced Micro Devices' or 'Autodesk' must remain in English and be treated as named entities.",
+      "correction_he": "אין לתרגם את השם 'Advanced Micro Devices' לעברית — הוא צריך להופיע תמיד באנגלית, ולא כ'מניית AMD' בלבד."
+    },
+    
+      {
+        "error_type": "Misleading Causal Link",
+        "instruction_en": "Do not conflate correlation with causation unless explicitly stated. Avoid suggesting that bullish activity *caused* the price increase without confirmation.",
+        "correction_he": "במקום 'העלייה במחיר המניה נובעת מגורמים כמו פעילות אופציות גבוהה', עדיף לנסח 'העלייה מלווה בגל של פעילות אופציות גבוהה', כדי לא להשליך סיבתיות שטרם הוכחה."
+      },
+      {
+        "error_type": "Improper Grouping of Sentiment",
+        "instruction_en": "Maintain strict distinction between bullish and neutral mentions. Do not group neutral mentions (e.g. inclusion in stock lists) as positive.",
+        "correction_he": "בכתבה צוין כי מניית CSX הופיעה במספר רשימות, אך טון הניסוח העניק לכך תחושת סנטימנט חיובי. יש להבהיר שמדובר בהכללה ניטרלית ללא המלצה ישירה."
+      },
+      {
+        "error_type": "Attribution Ambiguity",
+        "instruction_en": "Always specify which analyst or firm issued the statement or estimate. Avoid vague phrases like 'אנליסטים צופים'.",
+        "correction_he": "במקום 'אנליסטים צופים עלייה במחיר', יש לציין: 'JPMorgan Chase צופה עלייה במחיר' – לשמירה על ייחוס ישיר ואמינות."
+      },
+      {
+        "error_type": "Improper Hedging Language",
+        "instruction_en": "When presenting mixed sentiment (bullish with short-term concerns), use hedging phrases to reflect uncertainty.",
+        "correction_he": "ניסוחים כמו 'החברה צפויה להציג ביצועים חזקים' צריכים להחליף ל'יתכן והחברה תציג ביצועים חזקים', במיוחד כאשר יש חששות בטווח הקצר."
+      },
+      {
+        "error_type": "Overgeneralization of Sector Exposure",
+        "instruction_en": "Avoid overstating geographic or sector reach unless stated. Do not claim 'global presence' if only North America is mentioned.",
+        "correction_he": "במקום 'נוכחות גלובלית', יש לנסח 'פעילות בצפון אמריקה, כולל חציית גבולות לקנדה', בהתאם למקור."
+      },
+      {
+        "error_type": "Stylistic Tone - News vs Analysis",
+        "instruction_en": "Maintain a neutral tone in headlines. Avoid marketing-style expressions in journalistic outputs.",
+        "correction_he": "במקום 'צמיחה וסיכונים בסקטור התחבורה', כדאי לנסח: 'CSX: סקירה מעורבת עם מגמות חיוביות וחששות תפעוליים', כדי לשמר סגנון אנליטי."
+      },
+      {
+        "error_type": "Inflated Language - Volume Data",
+        "instruction_en": "Quantify options activity precisely without exaggeration or imprecise labels like 'בראש רשימת האופציות הפופולריות'.",
+        "correction_he": "יש להחליף את 'בראש רשימת האופציות הפופולריות' ב-'165% מעל הממוצע היומי – מה שמעיד על עניין שורי מוגבר'."
+      },
+      {
+        "error_type": "Temporal Precision - Analyst Guidance",
+        "instruction_en": "Ensure clarity when referencing future vs. current vs. past earnings projections.",
+        "correction_he": "התחזית לרווח לרבעון הרביעי של 2026 צוינה מבלי להדגיש שמדובר בתחזית עתידית מאוד. יש לנסח: 'תחזית מוקדמת לרווחי Q4 2026 עלתה ל-$0.48 לפי Zacks'."
+      },
+      {
+        "error_type": "Hebrew Syntax - Double Subject",
+        "instruction_en": "Avoid redundant use of subjects like 'המניה מציגה... של המניה'. Simplify structure.",
+        "correction_he": "במקום 'המניה מציגה ביצועים חזקים של המניה', יש לנסח: 'המניה מציגה ביצועים חזקים'."
+      },
+      {
+        "error_type": "Hebrew Punctuation - Enumeration Clarity",
+        "instruction_en": "Ensure clean list formatting when enumerating risks or strengths. Avoid 'נקודות חולשה: ... ; ... ; ...' in paragraph form.",
+        "correction_he": "מומלץ להציג רשימות בצורה תבניתית עם תבליטים (•) או קו מפריד, במיוחד בפסקת 'נקודות חוזק וחולשה' לשיפור קריאות."
+      },
+  
+        {
+          "error_type": "Missing Mention - Key Entity",
+          "instruction_en": "Do not omit mentions of high-profile figures like Jim Cramer if they appear in the source.",
+          "correction_he": "יש להוסיף אזכור של Jim Cramer כפי שמופיע בטקסט המקורי – הוא תמך במניית GEV וציין עלייה של 55% מתחילת השנה."
+        },
+        {
+          "error_type": "Missing Numeric Detail",
+          "instruction_en": "Preserve key numerical values such as exact price levels or lows.",
+          "correction_he": "במקרה של GIS, יש לציין שהמניה ירדה לשפל של $50.13, כפי שמופיע במקור. המידע הזה חשוב למשקיעים ומחזק את הסנטימנט השלילי."
+        },
+        {
+          "error_type": "Stylistic Tone - Informal Phrase",
+          "instruction_en": "Avoid informal or casual phrases like 'הצטרפו לחגיגה' in institutional writing.",
+          "correction_he": "יש להחליף את הביטוי 'הצטרפו לחגיגה' בביטוי מקצועי יותר כגון 'הצטרפו למגמת ההמלצות החיוביות'."
+        },
+        {
+          "error_type": "Repetition - Entity Name",
+          "instruction_en": "After initial mention, alternate between 'החברה' and the ticker to avoid repetition.",
+          "correction_he": "במקום לחזור שוב ושוב על GE Vernova, יש לגוון עם 'החברה', 'GEV', או 'הקבוצה'."
+        },
+        {
+          "error_type": "Missing Disclaimer",
+          "instruction_en": "Add a note when content is AI-generated to ensure transparency.",
+          "correction_he": "יש להוסיף דיסקליימר בסוף הטקסט: 'מבוסס על ניתוח נתונים אוטומטי. ייתכנו טעויות או חוסרים במידע.'"
+        },
+        {
+          "error_type": "Overstated Enthusiasm",
+          "instruction_en": "Ensure enthusiasm in tone does not exceed that of the original source.",
+          "correction_he": "במקום 'GE Vernova מובילה את הדרך עם חדשנות בתשתיות', עדיף 'GE Vernova ממשיכה להרחיב את פעילותה בתחום התשתיות'."
+        },
+        {
+          "error_type": "Section Headline Vagueness",
+          "instruction_en": "Make section headlines specific and actionable.",
+          "correction_he": "במקום 'אסטרטגיית התמודדות', כדאי לנסח: 'התאמות אסטרטגיות של General Mills לנוכח לחצי השוק'."
+        },
+        {
+          "error_type": "Unclear Causal Attribution",
+          "instruction_en": "Avoid implying causality unless explicitly supported in the source.",
+          "correction_he": "במקום 'הנתונים הפיננסיים חושפים סיבה לירידת המניה', יש לכתוב 'הנתונים מצביעים על שילוב של גורמים שיכולים להסביר את הירידה'."
+        },
+        {
+          "error_type": "Stylistic Inconsistency in List Formatting",
+          "instruction_en": "Use consistent bullet list formatting for action points.",
+          "correction_he": "בקטע 'האסטרטגיה שלהם כוללת', יש לוודא שכל נקודה מוצגת באותו פורמט ולא להחליף בין מקפים וכוכביות."
+        },
+        {
+          "error_type": "Exaggerated Phrase",
+          "instruction_en": "Avoid terms like 'מושכת תשומת לב חיובית בשוק' unless such sentiment is clearly stated.",
+          "correction_he": "עדיף להשתמש בביטוי ניטרלי יותר כמו 'זוכה לעניין מצד אנליסטים ומשקיעים'."
+        },
+      
+        {
+          "error_type": "✅ Clarity in Analyst Coverage",
+          "instruction_en": "Maintain clear attribution of each price target or forecast to its respective firm.",
+          "correction_he": "המודל מציין באופן ברור מי העלה את התחזית או קבע את מחיר היעד – יש להמשיך בשיטה זו בכל דיווח עתידי."
+        },
+        {
+          "error_type": "✅ Structural Cohesion",
+          "instruction_en": "Maintain structured layout with title, subtitles, body, and conclusion.",
+          "correction_he": "המבנה של הכתבות כולל כותרת, תקציר, ניתוח, סיכום והמלצה – מצוין. יש להמשיך באותו פורמט עקבי."
+        },
+        {
+          "error_type": "✅ Proper Entity Retention",
+          "instruction_en": "Keep company names in English throughout.",
+          "correction_he": "הקפדה על שמירת השם GE Vernova או General Mills באנגלית בלבד – יש להמשיך באותה עקביות."
+        },
+        {
+          "error_type": "✅ EPS Precision Handling",
+          "instruction_en": "Maintain precise reporting of EPS revisions including quarters and values.",
+          "correction_he": "ציון ה־EPS לפי רבעונים מדויק מאוד (Q1/Q4 2026) – חשוב לשמר את ההקפדה הזו."
+        },
+        {
+          "error_type": "✅ Balance of Risks and Opportunities",
+          "instruction_en": "Maintain balanced tone by clearly presenting both bullish and bearish elements.",
+          "correction_he": "הצגת הסיכונים לצד התחזיות החיוביות נותנת לתוכן אמינות. יש להמשיך באיזון הזה."
+        },
+        {
+          "error_type": "✅ Appropriate Sector Context",
+          "instruction_en": "Provide context by comparing the stock to sector trends.",
+          "correction_he": "המודל משלב השוואה לתעשייה (מזון, אנרגיה) – נכון להמשיך בכך, במיוחד כדי לחזק את הערכת השווי."
+        },
+ 
+  {
+    "error_type": "Missing Entity Mention - Analyst Attribution",
+    "instruction_en": "Do not omit or generalize names of analyst firms like 'Scotiabank' or 'UBS'.",
+    "correction_he": "במקום להתייחס ל'שני בנקים להשקעות', יש לציין מפורשות: Scotiabank ו־UBS, כפי שמופיע במקור."
+  },
+  {
+    "error_type": "EPS Adjustment Omission",
+    "instruction_en": "Include even minor earnings estimate revisions such as the $0.01 drop in EPS forecast.",
+    "correction_he": "בתקציר DVN, יש להדגיש כי תחזית ה־EPS ל־2025 ירדה מ־$3.83 ל־$3.82 — גם ירידה קטנה מהווה שינוי תחזיתי שדורש ציון."
+  },
+  {
+    "error_type": "Sentiment Amplification - DVN",
+    "instruction_en": "Avoid phrases like 'תמונה מעודדת' if overall tone is mixed.",
+    "correction_he": "במקום 'תמונה מעודדת עבור DVN' יש לומר 'שילוב של סימנים חיוביים ואתגרים בענף', כדי לשמר את הגוון המעורב של המקור."
+  },
+  {
+    "error_type": "Ticker Overuse",
+    "instruction_en": "Do not repeat the ticker (e.g., DVN) too frequently within paragraphs.",
+    "correction_he": "בפסקאות DVN, יש גודש של 'DVN' – יש לגוון עם 'החברה', 'Devon Energy' או 'הקבוצה'."
+  },
+  {
+    "error_type": "Terminology Error - Analyst Rating",
+    "instruction_en": "Translate analyst ratings precisely. 'Outperform' is not 'מבצע מעולה'.",
+    "correction_he": "יש לתרגם 'Sector Outperform' ל'תשואת יתר מגזרית' ולא ל'מבצע מעולה'."
+  },
+  {
+    "error_type": "Incorrect Upgrade Label - eBay",
+    "instruction_en": "Ensure rating translations are correct. 'Outperform' is not 'אחת להחזיק'.",
+    "correction_he": "יש להחליף את התרגום ל־'שדרוג לדירוג תשואת יתר' במקום 'אחת להחזיק'."
+  },
+  {
+    "error_type": "Missing EPS Sentiment Context - eBay",
+    "instruction_en": "Include the fact that earnings guidance is a key focus of upcoming investor expectations.",
+    "correction_he": "יש להוסיף התייחסות לכך ש-EBAY עומדת לפרסם דוחות כספיים בקרוב, עם ציפייה להנחיה פיננסית ועדכון שולי רווח."
+  },
+  {
+    "error_type": "Overgeneralization - Global Trends",
+    "instruction_en": "Avoid vague statements like 'השפעות גלובליות' without specific macroeconomic or regional triggers.",
+    "correction_he": "במקום 'חשופה להשפעות גלובליות', ניתן לנסח: 'נתונה להשפעות כמו אינפלציה אזורית ושינויים במטבע המקומי בשווקים מזרח־אירופיים ואסייתיים'."
+  },
+  {
+    "error_type": "Misinterpretation of News - Fyre Festival",
+    "instruction_en": "Do not imply corporate partnership where none exists. Mention the novelty, not the strategy.",
+    "correction_he": "הופעת Fyre Festival לא הייתה יוזמה של eBay אלא רשימה פרטית – אין להציג זאת כצעד אסטרטגי של החברה."
+  },
+  {
+    "error_type": "Missing Decline Mention - ELV",
+    "instruction_en": "Include the expected decline in Q2 earnings forecasted by Zacks.",
+    "correction_he": "הטקסט לא ציין ש-Zacks חזה ירידה ברווחים ברבעון השני – יש להוסיף זאת כמרכיב סנטימנט שלילי משמעותי."
+  },
+  {
+    "error_type": "Missing Class Action Context",
+    "instruction_en": "Make clear the class action lawsuits against ELV include investors with large losses and are active.",
+    "correction_he": "יש להוסיף כי משקיעים שנפגעו בין אפריל לאוקטובר 2024 יכולים להצטרף לתביעה ייצוגית – זו אינפורמציה משפטית חשובה."
+  },
+  {
+    "error_type": "Sentiment Tone Misclassification",
+    "instruction_en": "Avoid calling the overall sentiment toward ELV 'נייטרלי חיובי' if multiple serious legal threats are active.",
+    "correction_he": "במקום 'סנטימנט נייטרלי חיובי', יש לדייק: 'סנטימנט מעורב עם נטייה שלילית בעקבות איומי התביעות'."
+  },
+  {
+    "error_type": "✅ Excellent Structural Coherence",
+    "instruction_en": "Preserve the structure of introduction, event breakdown, market reaction, and conclusion.",
+    "correction_he": "הכתבות מציגות מבנה לוגי חזק – פתיח → ניתוח מגמות → הערכות אנליסטים → תגובת שוק → מסקנה. יש להמשיך באותו מבנה."
+  },
+  {
+    "error_type": "✅ Faithful Quote Preservation",
+    "instruction_en": "Maintain exact figures for price targets and percentage changes.",
+    "correction_he": "כל המחירים והתחזיות (כגון $43.50, $80, $585) נשתמרו נכון – יש להמשיך כך."
+  },
+  {
+    "error_type": "✅ Sentiment Differentiation by Paragraph",
+    "instruction_en": "Use clear sentiment separation between bullish, bearish and neutral content.",
+    "correction_he": "הכתבות שומרות על הפרדה ניכרת בין חלקים חיוביים, נייטרליים ושליליים – חשוב להמשיך בגישה זו."
+  },
+  {
+    "error_type": "✅ Diverse Source Attribution",
+    "instruction_en": "Include multiple media outlets (e.g., Yahoo, USA Today, MarketBeat) to show diversity of opinion.",
+    "correction_he": "ציון מקורות כמו MSN, IGN, Yahoo, Zacks, MarketBeat תורם לאמינות התוכן – יש להמשיך לכלול מגוון מקורות מוסדיים."
+  },
+
+  {
+    "error_type": "Incorrect Numerical Attribution - LEN",
+    "instruction_en": "Match all EPS forecast values to their original source values.",
+    "correction_he": "בתיאור הירידה ב-EPS לשנת 2025 ל-$9.59 יש טעות: המספר הקודם לא היה $12.48 אלא $9.64. המספר $12.48 הוא הקונצנזוס – יש להפריד בין שני המספרים ולהציגם נכון."
+  },
+  {
+    "error_type": "Missing Sentiment Context - LEN",
+    "instruction_en": "Include political or macro triggers such as tariff threats that may explain market weakness.",
+    "correction_he": "הטקסט לא ציין את איומי המכס מצד טראמפ – מדובר בגורם שלילי שהוזכר במקור ויש לשלבו לניתוח המאקרו של לחצי השוק."
+  },
+  {
+    "error_type": "Missing Valuation Context - LLY",
+    "instruction_en": "Include the fact that LLY is down over 15% YoY as a key bearish data point.",
+    "correction_he": "יש להוסיף שהתשואה השנתית של LLY שלילית בכ-15%, נתון שמעלה ספקות בקרב משקיעים ועלה בפסקאות המקור."
+  },
+  {
+    "error_type": "Overgeneralization of Innovation - LLY",
+    "instruction_en": "Be specific when referring to pipeline and innovation—don’t generalize all Phase 3 trials.",
+    "correction_he": "יש לציין שמדובר בניסויים ספציפיים כמו Remternetug ו-EMBER-3 ולא להציג זאת כמחקר כללי בלבד."
+  },
+  {
+    "error_type": "Missing EPS Revision Detail - LLY",
+    "instruction_en": "Include EPS downgrade from $21.91 to $21.76 by Cantor Fitzgerald.",
+    "correction_he": "יש להכניס את ירידת תחזית הרווח המדויקת של קאנטר, כדי לשמר את הקשר בין ציפיות השוק לתגובת המניה."
+  },
+  {
+    "error_type": "Sentiment Tone Imbalance - LLY",
+    "instruction_en": "Balance optimistic tone with the three negative signals in the source: EPS downgrade, 1.3% drop, -15% YTD.",
+    "correction_he": "יש להוסיף התייחסות שלילית בולטת בפסקת הסיכום – כרגע הטקסט אופטימי מדי ביחס למידע המקורי."
+  },
+  {
+    "error_type": "Misinterpretation - MAR",
+    "instruction_en": "Avoid calling appointment of marketing director a strategic move unless framed that way in source.",
+    "correction_he": "יש לנסח את מינוי Pooja Gauur כעדכון ניהולי, לא כ'הובלה אסטרטגית' – המקור מציג זאת כתוספת אזורית בלבד."
+  },
+  {
+    "error_type": "Overuse of 'Leadership Strengthening' Phrase - MAR",
+    "instruction_en": "Avoid repeated use of phrases like 'חיזוק הנהגה' unless structurally justified.",
+    "correction_he": "המונח 'חיזוק הנהגה מקומית' הוזכר פעמיים בהקשרים דומים – יש לגוון ניסוח."
+  },
+  {
+    "error_type": "Overextended Summary - MAR",
+    "instruction_en": "Keep summary tight and not repetitive of body content.",
+    "correction_he": "פסקת הסיכום חוזרת כמעט מילה במילה על שלוש הפסקאות הקודמות – יש לצמצם ולזקק."
+  },
+  {
+    "error_type": "Misleading Phrase - ON",
+    "instruction_en": "Avoid suggesting that 'חששות בשוק' הם תגובה ישירה ל־ON אם המקור מציין השפעה עקיפה.",
+    "correction_he": "יש לדייק: ההשפעה על ON היא עקיפה דרך שרשרת האספקה ולא ישירה – הניסוח הנוכחי מטעה."
+  },
+  {
+    "error_type": "Unbalanced Risk Framing - ON",
+    "instruction_en": "Ensure short-term vs long-term risks and opportunities are clearly separated.",
+    "correction_he": "כרגע פסקאות טווח קצר וטווח ארוך מצטלבות בלי הפרדה ברורה – יש להבהיר מיועדת למשקיע מסוג כלשהו."
+  },
+  {
+    "error_type": "✅ Accurate Ticker Representation",
+    "instruction_en": "Preserve all tickers (e.g., LEN, LLY, MAR, ON) in correct format and position.",
+    "correction_he": "שמות הסימולים נשמרו במדויק (LEN, LLY, MAR, ON) – יש להמשיך להקפיד על עקביות זו בכל מאמר."
+  },
+  {
+    "error_type": "✅ Consistent Structural Layout",
+    "instruction_en": "Maintain breakdown into thematic sections such as strategy, sentiment, financials, and conclusion.",
+    "correction_he": "הכתבות מחולקות למקטעים ברורים – סנטימנט, מגמות, אסטרטגיה, סיכום – מבנה תקין וקריא, יש לשמר אותו."
+  },
+  {
+    "error_type": "✅ Strong Use of Source-Backed Claims",
+    "instruction_en": "Only include claims that are traceable to the source text.",
+    "correction_he": "לא נמצאו טענות שהומצאו – המידע כולו נאמן למקור, כולל אחוזים, שמות, והקשרים – יש להמשיך בגישה זו."
+  },
+  
+    {
+      "error_type": "Hebrew Grammar - Gender and Number Agreement",
+      "instruction_en": "Ensure grammatical agreement between subject and verb in gender (masculine/feminine) and number (singular/plural).",
+      "correction_he": "לא נכון: 'מניית BlackRock פורח' → נכון: 'מניית BlackRock פורחת' — הפועל חייב להתאים למין ומספר של הנושא."
+    },
+    {
+      "error_type": "Hebrew Grammar - Plural Verb Form",
+      "instruction_en": "Use plural verb forms with plural subjects.",
+      "correction_he": "לא נכון: 'מניות הטכנולוגיה ריכז' → נכון: 'מניות הטכנולוגיה ריכזו'."
+    },
+    {
+      "error_type": "Hebrew Grammar - Gender Agreement in Compound Phrases",
+      "instruction_en": "Ensure gender consistency when referring to abstract nouns like 'תחזיות', 'מגמות', etc.",
+      "correction_he": "לא נכון: 'תחזיות הרווח מצביע' → נכון: 'תחזיות הרווח מצביעות'."
+    },
+    {
+      "error_type": "Hebrew Grammar - Verb Agreement with Collective Nouns",
+      "instruction_en": "Treat collective plural nouns like 'שוקי הון' as plural when conjugating verbs.",
+      "correction_he": "לא נכון: 'שוקי הון ציפתה' → נכון: 'שוקי הון ציפו'."
+    },
+    {
+      "error_type": "Hebrew Grammar - Mixed Plural Confusion",
+      "instruction_en": "Avoid mismatched verbs in complex noun structures.",
+      "correction_he": "לא נכון: 'המשקיעים בוחן מקרוב' → נכון: 'המשקיעים בוחנים מקרוב'."
+    },
+    {
+      "error_type": "Hebrew Syntax - Redundant Clause",
+      "instruction_en": "Avoid redundant use of subjects or structures like 'של המניה'.",
+      "correction_he": "לא נכון: 'המניה מציגה ביצועים חזקים של המניה' → נכון: 'המניה מציגה ביצועים חזקים'."
+    },
+    {
+      "error_type": "Hebrew Punctuation - Coordinating Conjunctions",
+      "instruction_en": "Ensure conjunctions like 'מה שמעיד על' are used correctly and clearly.",
+      "correction_he": "לא נכון: 'המניה זינקה, מצביע על אמון' → נכון: 'המניה זינקה, מה שמעיד על אמון'."
+    },
+    {
+      "error_type": "Hebrew Syntax - Verb Tense Alignment",
+      "instruction_en": "Maintain tense consistency within each sentence or paragraph.",
+      "correction_he": "לא נכון: 'המשקיעים מצפים, והחברה הכריזה' → נכון: 'המשקיעים מצפים, והחברה מכריזה' או 'ציפו, והכריזה'."
+    },
+    {
+      "error_type": "Entity Style - Feminine Entity Reference",
+      "instruction_en": "Use feminine verb forms for corporate entities like 'החברה' or named firms.",
+      "correction_he": "לא נכון: 'GE Vernova מוביל חדשנות' → נכון: 'GE Vernova מובילה חדשנות'."
+    },
+    {
+      "error_type": "Stylistic Register - Archaic or Slang Usage",
+      "instruction_en": "Avoid marketing slang or casual phrases in analytical writing.",
+      "correction_he": "לא נכון: 'הצטרפו לחגיגה סביב המניה' → נכון: 'המניה זוכה לעניין מוגבר בקרב משקיעים מוסדיים'."
+    },
+    {
+      "error_type": "✅ Morphological Clarity",
+      "instruction_en": "Model successfully differentiates masculine/feminine forms in verbs and maintains grammatical consistency.",
+      "correction_he": "יש להמשיך להבחין נכון בין פועל זכר לנקבה ('עלתה' לעומת 'עלה') – הבחנה זו נשמרת היטב ברוב המקרים."
+    },
+    {
+      "error_type": "✅ Accurate Use of Abstract Plurals",
+      "instruction_en": "Model correctly handles plural abstract terms like 'תחזיות', 'מגמות', 'הערכות'.",
+      "correction_he": "המודל מתמודד היטב עם צורת הרבים של שמות עצם מופשטים, ויש להקפיד להמשיך כך גם בכתיבה מורכבת."
+    }
+  ]
+  
+]
+
+
+
+  
+      
+    
+    
+
+  
