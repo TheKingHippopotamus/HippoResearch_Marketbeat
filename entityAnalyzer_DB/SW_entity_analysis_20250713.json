@@ -1,0 +1,4604 @@
+{
+  "ticker": "SW",
+  "entities": [
+    {
+      "text": "Smurfit Westrock PLC",
+      "label": "ORG",
+      "start": 0,
+      "end": 20,
+      "sentence": "Smurfit Westrock PLC (NYSE:SW) saw a mix of contract wins and analyst updates today, driving its share performance.",
+      "context": "Smurfit Westrock PLC (NYSE:SW) saw a mix of contract wins and analyst",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "SW",
+      "label": "ORG",
+      "start": 27,
+      "end": 29,
+      "sentence": "Smurfit Westrock PLC (NYSE:SW) saw a mix of contract wins and analyst updates today, driving its share performance.",
+      "context": "Smurfit Westrock PLC (NYSE:SW) saw a mix of contract wins and analyst updates t",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "today",
+      "label": "DATE",
+      "start": 78,
+      "end": 83,
+      "sentence": "Smurfit Westrock PLC (NYSE:SW) saw a mix of contract wins and analyst updates today, driving its share performance.",
+      "context": "W) saw a mix of contract wins and analyst updates today, driving its share performance. Investors are rea",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Smurfit Westrock",
+      "label": "ORG",
+      "start": 227,
+      "end": 243,
+      "sentence": "Positive Sentiment:\nSmurfit Westrock won a multi-year contract in Ireland to supply tobacco product identification packaging, strengthening its regulated-products segment.",
+      "context": "gets, and earnings forecasts:\nPositive Sentiment:\nSmurfit Westrock won a multi-year contract in Ireland to supply to",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "multi-year",
+      "label": "DATE",
+      "start": 250,
+      "end": 260,
+      "sentence": "Positive Sentiment:\nSmurfit Westrock won a multi-year contract in Ireland to supply tobacco product identification packaging, strengthening its regulated-products segment.",
+      "context": "casts:\nPositive Sentiment:\nSmurfit Westrock won a multi-year contract in Ireland to supply tobacco product ide",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Ireland",
+      "label": "GPE",
+      "start": 273,
+      "end": 280,
+      "sentence": "Positive Sentiment:\nSmurfit Westrock won a multi-year contract in Ireland to supply tobacco product identification packaging, strengthening its regulated-products segment.",
+      "context": "nt:\nSmurfit Westrock won a multi-year contract in Ireland to supply tobacco product identification packagin",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "Smurfit Westrock",
+      "label": "ORG",
+      "start": 379,
+      "end": 395,
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "context": "ng, strengthening its regulated-products segment.\nSmurfit Westrock wins Irish contract for tobacco IDs\nPositive Sent",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Irish",
+      "label": "NORP",
+      "start": 401,
+      "end": 406,
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "context": "regulated-products segment.\nSmurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTrui",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Truist Financial",
+      "label": "ORG",
+      "start": 452,
+      "end": 468,
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "context": "rish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "SW",
+      "label": "ORG",
+      "start": 496,
+      "end": 498,
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "context": "ment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rati",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "50.00",
+      "label": "MONEY",
+      "start": 505,
+      "end": 510,
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "context": "ist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "54.00",
+      "label": "MONEY",
+      "start": 515,
+      "end": 520,
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "context": "ial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 1",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "roughly 14.4%",
+      "label": "PERCENT",
+      "start": 561,
+      "end": 574,
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "context": "to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.\nSmurfit Westrock (NYSE:SW) Price Target R",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Smurfit Westrock",
+      "label": "ORG",
+      "start": 583,
+      "end": 599,
+      "sentence": "Smurfit Westrock (NYSE:SW) Price Target Raised to $54.00",
+      "context": "ed a “buy” rating, implying roughly 14.4% upside.\nSmurfit Westrock (NYSE:SW) Price Target Raised to $54.00\nPositive",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "SW",
+      "label": "ORG",
+      "start": 606,
+      "end": 608,
+      "sentence": "Smurfit Westrock (NYSE:SW) Price Target Raised to $54.00",
+      "context": "ying roughly 14.4% upside.\nSmurfit Westrock (NYSE:SW) Price Target Raised to $54.00\nPositive Sentiment",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "54.00",
+      "label": "MONEY",
+      "start": 634,
+      "end": 639,
+      "sentence": "Smurfit Westrock (NYSE:SW) Price Target Raised to $54.00",
+      "context": "murfit Westrock (NYSE:SW) Price Target Raised to $54.00\nPositive Sentiment:\nMorgan Stanley set a new $53.",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Morgan Stanley",
+      "label": "ORG",
+      "start": 660,
+      "end": 674,
+      "sentence": "Morgan Stanley set a new $53.00 price target on SW, signaling confidence in the company’s mid-cycle earnings power.",
+      "context": "Price Target Raised to $54.00\nPositive Sentiment:\nMorgan Stanley set a new $53.00 price target on SW, signaling co",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "53.00",
+      "label": "MONEY",
+      "start": 686,
+      "end": 691,
+      "sentence": "Morgan Stanley set a new $53.00 price target on SW, signaling confidence in the company’s mid-cycle earnings power.",
+      "context": ".00\nPositive Sentiment:\nMorgan Stanley set a new $53.00 price target on SW, signaling confidence in the c",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "SW",
+      "label": "ORG",
+      "start": 708,
+      "end": 710,
+      "sentence": "Morgan Stanley set a new $53.00 price target on SW, signaling confidence in the company’s mid-cycle earnings power.",
+      "context": ":\nMorgan Stanley set a new $53.00 price target on SW, signaling confidence in the company’s mid-cycle",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "mid-cycle",
+      "label": "DATE",
+      "start": 750,
+      "end": 759,
+      "sentence": "Morgan Stanley set a new $53.00 price target on SW, signaling confidence in the company’s mid-cycle earnings power.",
+      "context": "rget on SW, signaling confidence in the company’s mid-cycle earnings power.\nSmurfit Westrock (NYSE:SW) Given",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Smurfit Westrock",
+      "label": "ORG",
+      "start": 776,
+      "end": 792,
+      "sentence": "Smurfit Westrock (NYSE:SW) Given New $53.00 Price Target at Morgan Stanley\nNeutral Sentiment:",
+      "context": "idence in the company’s mid-cycle earnings power.\nSmurfit Westrock (NYSE:SW) Given New $53.00 Price Target at Morgan",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "SW",
+      "label": "ORG",
+      "start": 799,
+      "end": 801,
+      "sentence": "Smurfit Westrock (NYSE:SW) Given New $53.00 Price Target at Morgan Stanley\nNeutral Sentiment:",
+      "context": "mid-cycle earnings power.\nSmurfit Westrock (NYSE:SW) Given New $53.00 Price Target at Morgan Stanley",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "53.00",
+      "label": "MONEY",
+      "start": 814,
+      "end": 819,
+      "sentence": "Smurfit Westrock (NYSE:SW) Given New $53.00 Price Target at Morgan Stanley\nNeutral Sentiment:",
+      "context": "ings power.\nSmurfit Westrock (NYSE:SW) Given New $53.00 Price Target at Morgan Stanley\nNeutral Sentiment:",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Morgan Stanley",
+      "label": "ORG",
+      "start": 836,
+      "end": 850,
+      "sentence": "Smurfit Westrock (NYSE:SW) Given New $53.00 Price Target at Morgan Stanley\nNeutral Sentiment:",
+      "context": "strock (NYSE:SW) Given New $53.00 Price Target at Morgan Stanley\nNeutral Sentiment:\nSeaport Research Partners fore",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Seaport Research Partners",
+      "label": "ORG",
+      "start": 870,
+      "end": 895,
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "context": "Price Target at Morgan Stanley\nNeutral Sentiment:\nSeaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS o",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q2",
+      "label": "DATE",
+      "start": 905,
+      "end": 907,
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "context": "ral Sentiment:\nSeaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "0.55",
+      "label": "MONEY",
+      "start": 916,
+      "end": 920,
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "context": "nt:\nSeaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with furt",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "full-year",
+      "label": "DATE",
+      "start": 925,
+      "end": 934,
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "context": "rt Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "2025",
+      "label": "DATE",
+      "start": 935,
+      "end": 939,
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "context": "h Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "3.25",
+      "label": "MONEY",
+      "start": 948,
+      "end": 952,
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "context": "recast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "SW",
+      "label": "ORG",
+      "start": 957,
+      "end": 959,
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "context": "EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 fo",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "0.78",
+      "label": "MONEY",
+      "start": 988,
+      "end": 992,
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "context": "5 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.\nQ2 Ea",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Q3",
+      "label": "DATE",
+      "start": 997,
+      "end": 999,
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "context": "$3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.\nQ2 Earnings",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "0.72",
+      "label": "MONEY",
+      "start": 1002,
+      "end": 1006,
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "context": "for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.\nQ2 Earnings Forecas",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Q4",
+      "label": "DATE",
+      "start": 1011,
+      "end": 1013,
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "context": "with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.\nQ2 Earnings Forecast for S",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "3.59",
+      "label": "MONEY",
+      "start": 1020,
+      "end": 1024,
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "context": "her estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.\nQ2 Earnings Forecast for SW Issued By",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "FY2026",
+      "label": "DATE",
+      "start": 1029,
+      "end": 1035,
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "context": "ates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.\nQ2 Earnings Forecast for SW Issued By Seaport Re",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q2",
+      "label": "DATE",
+      "start": 1037,
+      "end": 1039,
+      "sentence": "Q2 Earnings Forecast for SW Issued By Seaport Res Ptn\nNeutral Sentiment:",
+      "context": "$0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.\nQ2 Earnings Forecast for SW Issued By Seaport Res Pt",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "SW",
+      "label": "ORG",
+      "start": 1062,
+      "end": 1064,
+      "sentence": "Q2 Earnings Forecast for SW Issued By Seaport Res Ptn\nNeutral Sentiment:",
+      "context": "4, and $3.59 for FY2026.\nQ2 Earnings Forecast for SW Issued By Seaport Res Ptn\nNeutral Sentiment:\nWell",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Seaport Res Ptn",
+      "label": "ORG",
+      "start": 1075,
+      "end": 1090,
+      "sentence": "Q2 Earnings Forecast for SW Issued By Seaport Res Ptn\nNeutral Sentiment:",
+      "context": "for FY2026.\nQ2 Earnings Forecast for SW Issued By Seaport Res Ptn\nNeutral Sentiment:\nWells Fargo increased its SW t",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Wells Fargo",
+      "label": "ORG",
+      "start": 1110,
+      "end": 1121,
+      "sentence": "Wells Fargo increased its SW target from $43.00 to $45.00 but kept an “equal weight” rating, indicating limited near-term upside.",
+      "context": "r SW Issued By Seaport Res Ptn\nNeutral Sentiment:\nWells Fargo increased its SW target from $43.00 to $45.00 but",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "SW",
+      "label": "ORG",
+      "start": 1136,
+      "end": 1138,
+      "sentence": "Wells Fargo increased its SW target from $43.00 to $45.00 but kept an “equal weight” rating, indicating limited near-term upside.",
+      "context": "Ptn\nNeutral Sentiment:\nWells Fargo increased its SW target from $43.00 to $45.00 but kept an “equal w",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "43.00",
+      "label": "MONEY",
+      "start": 1152,
+      "end": 1157,
+      "sentence": "Wells Fargo increased its SW target from $43.00 to $45.00 but kept an “equal weight” rating, indicating limited near-term upside.",
+      "context": "timent:\nWells Fargo increased its SW target from $43.00 to $45.00 but kept an “equal weight” rating, indi",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "45.00",
+      "label": "MONEY",
+      "start": 1162,
+      "end": 1167,
+      "sentence": "Wells Fargo increased its SW target from $43.00 to $45.00 but kept an “equal weight” rating, indicating limited near-term upside.",
+      "context": "lls Fargo increased its SW target from $43.00 to $45.00 but kept an “equal weight” rating, indicating lim",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Wells Fargo & Company",
+      "label": "ORG",
+      "start": 1240,
+      "end": 1261,
+      "sentence": "Wells Fargo & Company Issues Positive Forecast for Smurfit Westrock (NYSE:SW) Stock Price\nNegative Sentiment:",
+      "context": "ght” rating, indicating limited near-term upside.\nWells Fargo & Company Issues Positive Forecast for Smurfit Westrock (NY",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Smurfit Westrock",
+      "label": "ORG",
+      "start": 1291,
+      "end": 1307,
+      "sentence": "Wells Fargo & Company Issues Positive Forecast for Smurfit Westrock (NYSE:SW) Stock Price\nNegative Sentiment:",
+      "context": "ells Fargo & Company Issues Positive Forecast for Smurfit Westrock (NYSE:SW) Stock Price\nNegative Sentiment:\nDespite",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "daily",
+      "label": "DATE",
+      "start": 1360,
+      "end": 1365,
+      "sentence": "Despite a daily gain, SW underperformed peers on Thursday, highlighting potential competitive or sentiment headwinds.",
+      "context": "YSE:SW) Stock Price\nNegative Sentiment:\nDespite a daily gain, SW underperformed peers on Thursday, highli",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "SW",
+      "label": "ORG",
+      "start": 1372,
+      "end": 1374,
+      "sentence": "Despite a daily gain, SW underperformed peers on Thursday, highlighting potential competitive or sentiment headwinds.",
+      "context": "k Price\nNegative Sentiment:\nDespite a daily gain, SW underperformed peers on Thursday, highlighting po",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Thursday",
+      "label": "DATE",
+      "start": 1399,
+      "end": 1407,
+      "sentence": "Despite a daily gain, SW underperformed peers on Thursday, highlighting potential competitive or sentiment headwinds.",
+      "context": "Despite a daily gain, SW underperformed peers on Thursday, highlighting potential competitive or sentiment",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Smurfit Westrock PLC",
+      "label": "ORG",
+      "start": 1468,
+      "end": 1488,
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "context": "ing potential competitive or sentiment headwinds.\nSmurfit Westrock PLC stock underperforms Thursday when compared to com",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Thursday",
+      "label": "DATE",
+      "start": 1509,
+      "end": 1517,
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "context": "adwinds.\nSmurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "daily",
+      "label": "DATE",
+      "start": 1555,
+      "end": 1560,
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "context": "rms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contai",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "1+ days ago",
+      "label": "DATE",
+      "start": 1574,
+      "end": 1585,
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "context": "ompared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AI Generated",
+      "label": "ORG",
+      "start": 1586,
+      "end": 1598,
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "context": "ompetitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    }
+  ],
+  "relationships": [
+    {
+      "type": "SVO",
+      "subject": "PLC",
+      "verb": "saw",
+      "object": "mix",
+      "sentence": "Smurfit Westrock PLC (NYSE:SW) saw a mix of contract wins and analyst updates today, driving its share performance.",
+      "importance": 8
+    },
+    {
+      "type": "SVO",
+      "subject": "Westrock",
+      "verb": "won",
+      "object": "contract",
+      "sentence": "Positive Sentiment:\nSmurfit Westrock won a multi-year contract in Ireland to supply tobacco product identification packaging, strengthening its regulated-products segment.",
+      "importance": 6
+    },
+    {
+      "type": "SVO",
+      "subject": "Westrock",
+      "verb": "wins",
+      "object": "contract",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "importance": 14
+    },
+    {
+      "type": "SVO",
+      "subject": "Financial",
+      "verb": "raised",
+      "object": "target",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "importance": 14
+    },
+    {
+      "type": "SVO",
+      "subject": "Stanley",
+      "verb": "set",
+      "object": "target",
+      "sentence": "Morgan Stanley set a new $53.00 price target on SW, signaling confidence in the company’s mid-cycle earnings power.",
+      "importance": 9
+    },
+    {
+      "type": "SVO",
+      "subject": "Westrock",
+      "verb": "Given",
+      "object": "Target",
+      "sentence": "Smurfit Westrock (NYSE:SW) Given New $53.00 Price Target at Morgan Stanley\nNeutral Sentiment:",
+      "importance": 7
+    },
+    {
+      "type": "SVO",
+      "subject": "Partners",
+      "verb": "forecast",
+      "object": "EPS",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "importance": 18
+    },
+    {
+      "type": "SVO",
+      "subject": "Fargo",
+      "verb": "increased",
+      "object": "target",
+      "sentence": "Wells Fargo increased its SW target from $43.00 to $45.00 but kept an “equal weight” rating, indicating limited near-term upside.",
+      "importance": 7
+    },
+    {
+      "type": "SVO",
+      "subject": "Fargo",
+      "verb": "Issues",
+      "object": "Forecast",
+      "sentence": "Wells Fargo & Company Issues Positive Forecast for Smurfit Westrock (NYSE:SW) Stock Price\nNegative Sentiment:",
+      "importance": 8
+    },
+    {
+      "type": "SVO",
+      "subject": "SW",
+      "verb": "underperformed",
+      "object": "peers",
+      "sentence": "Despite a daily gain, SW underperformed peers on Thursday, highlighting potential competitive or sentiment headwinds.",
+      "importance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Smurfit",
+      "entity1_type": "ORG",
+      "entity2": "Westrock",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock PLC (NYSE:SW) saw a mix of contract wins and analyst updates today, driving its share performance.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Smurfit",
+      "entity1_type": "ORG",
+      "entity2": "PLC",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock PLC (NYSE:SW) saw a mix of contract wins and analyst updates today, driving its share performance.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Smurfit",
+      "entity1_type": "ORG",
+      "entity2": "SW",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock PLC (NYSE:SW) saw a mix of contract wins and analyst updates today, driving its share performance.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Smurfit",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "Smurfit Westrock PLC (NYSE:SW) saw a mix of contract wins and analyst updates today, driving its share performance.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Westrock",
+      "entity1_type": "ORG",
+      "entity2": "PLC",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock PLC (NYSE:SW) saw a mix of contract wins and analyst updates today, driving its share performance.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Westrock",
+      "entity1_type": "ORG",
+      "entity2": "SW",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock PLC (NYSE:SW) saw a mix of contract wins and analyst updates today, driving its share performance.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Westrock",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "Smurfit Westrock PLC (NYSE:SW) saw a mix of contract wins and analyst updates today, driving its share performance.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "PLC",
+      "entity1_type": "ORG",
+      "entity2": "SW",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock PLC (NYSE:SW) saw a mix of contract wins and analyst updates today, driving its share performance.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "PLC",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "Smurfit Westrock PLC (NYSE:SW) saw a mix of contract wins and analyst updates today, driving its share performance.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SW",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "Smurfit Westrock PLC (NYSE:SW) saw a mix of contract wins and analyst updates today, driving its share performance.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Smurfit",
+      "entity1_type": "ORG",
+      "entity2": "Westrock",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nSmurfit Westrock won a multi-year contract in Ireland to supply tobacco product identification packaging, strengthening its regulated-products segment.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Smurfit",
+      "entity1_type": "ORG",
+      "entity2": "multi",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nSmurfit Westrock won a multi-year contract in Ireland to supply tobacco product identification packaging, strengthening its regulated-products segment.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Smurfit",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nSmurfit Westrock won a multi-year contract in Ireland to supply tobacco product identification packaging, strengthening its regulated-products segment.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Smurfit",
+      "entity1_type": "ORG",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nSmurfit Westrock won a multi-year contract in Ireland to supply tobacco product identification packaging, strengthening its regulated-products segment.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Smurfit",
+      "entity1_type": "ORG",
+      "entity2": "Ireland",
+      "entity2_type": "GPE",
+      "sentence": "Positive Sentiment:\nSmurfit Westrock won a multi-year contract in Ireland to supply tobacco product identification packaging, strengthening its regulated-products segment.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Westrock",
+      "entity1_type": "ORG",
+      "entity2": "multi",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nSmurfit Westrock won a multi-year contract in Ireland to supply tobacco product identification packaging, strengthening its regulated-products segment.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Westrock",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nSmurfit Westrock won a multi-year contract in Ireland to supply tobacco product identification packaging, strengthening its regulated-products segment.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Westrock",
+      "entity1_type": "ORG",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nSmurfit Westrock won a multi-year contract in Ireland to supply tobacco product identification packaging, strengthening its regulated-products segment.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Westrock",
+      "entity1_type": "ORG",
+      "entity2": "Ireland",
+      "entity2_type": "GPE",
+      "sentence": "Positive Sentiment:\nSmurfit Westrock won a multi-year contract in Ireland to supply tobacco product identification packaging, strengthening its regulated-products segment.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "multi",
+      "entity1_type": "DATE",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nSmurfit Westrock won a multi-year contract in Ireland to supply tobacco product identification packaging, strengthening its regulated-products segment.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "multi",
+      "entity1_type": "DATE",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nSmurfit Westrock won a multi-year contract in Ireland to supply tobacco product identification packaging, strengthening its regulated-products segment.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "multi",
+      "entity1_type": "DATE",
+      "entity2": "Ireland",
+      "entity2_type": "GPE",
+      "sentence": "Positive Sentiment:\nSmurfit Westrock won a multi-year contract in Ireland to supply tobacco product identification packaging, strengthening its regulated-products segment.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "DATE",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nSmurfit Westrock won a multi-year contract in Ireland to supply tobacco product identification packaging, strengthening its regulated-products segment.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "DATE",
+      "entity2": "Ireland",
+      "entity2_type": "GPE",
+      "sentence": "Positive Sentiment:\nSmurfit Westrock won a multi-year contract in Ireland to supply tobacco product identification packaging, strengthening its regulated-products segment.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "year",
+      "entity1_type": "DATE",
+      "entity2": "Ireland",
+      "entity2_type": "GPE",
+      "sentence": "Positive Sentiment:\nSmurfit Westrock won a multi-year contract in Ireland to supply tobacco product identification packaging, strengthening its regulated-products segment.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Smurfit",
+      "entity1_type": "ORG",
+      "entity2": "Westrock",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Smurfit",
+      "entity1_type": "ORG",
+      "entity2": "Irish",
+      "entity2_type": "NORP",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Smurfit",
+      "entity1_type": "ORG",
+      "entity2": "Truist",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Smurfit",
+      "entity1_type": "ORG",
+      "entity2": "Financial",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Smurfit",
+      "entity1_type": "ORG",
+      "entity2": "SW",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Smurfit",
+      "entity1_type": "ORG",
+      "entity2": "50.00",
+      "entity2_type": "MONEY",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Smurfit",
+      "entity1_type": "ORG",
+      "entity2": "54.00",
+      "entity2_type": "MONEY",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Smurfit",
+      "entity1_type": "ORG",
+      "entity2": "roughly",
+      "entity2_type": "PERCENT",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 36
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Smurfit",
+      "entity1_type": "ORG",
+      "entity2": "14.4",
+      "entity2_type": "PERCENT",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 37
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Smurfit",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 38
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Westrock",
+      "entity1_type": "ORG",
+      "entity2": "Irish",
+      "entity2_type": "NORP",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Westrock",
+      "entity1_type": "ORG",
+      "entity2": "Truist",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Westrock",
+      "entity1_type": "ORG",
+      "entity2": "Financial",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Westrock",
+      "entity1_type": "ORG",
+      "entity2": "SW",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Westrock",
+      "entity1_type": "ORG",
+      "entity2": "50.00",
+      "entity2_type": "MONEY",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Westrock",
+      "entity1_type": "ORG",
+      "entity2": "54.00",
+      "entity2_type": "MONEY",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Westrock",
+      "entity1_type": "ORG",
+      "entity2": "roughly",
+      "entity2_type": "PERCENT",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 35
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Westrock",
+      "entity1_type": "ORG",
+      "entity2": "14.4",
+      "entity2_type": "PERCENT",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 36
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Westrock",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 37
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Irish",
+      "entity1_type": "NORP",
+      "entity2": "Truist",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Irish",
+      "entity1_type": "NORP",
+      "entity2": "Financial",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Irish",
+      "entity1_type": "NORP",
+      "entity2": "SW",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Irish",
+      "entity1_type": "NORP",
+      "entity2": "50.00",
+      "entity2_type": "MONEY",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Irish",
+      "entity1_type": "NORP",
+      "entity2": "54.00",
+      "entity2_type": "MONEY",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Irish",
+      "entity1_type": "NORP",
+      "entity2": "roughly",
+      "entity2_type": "PERCENT",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 33
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Irish",
+      "entity1_type": "NORP",
+      "entity2": "14.4",
+      "entity2_type": "PERCENT",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 34
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Irish",
+      "entity1_type": "NORP",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 35
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Truist",
+      "entity1_type": "ORG",
+      "entity2": "Financial",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Truist",
+      "entity1_type": "ORG",
+      "entity2": "SW",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Truist",
+      "entity1_type": "ORG",
+      "entity2": "50.00",
+      "entity2_type": "MONEY",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Truist",
+      "entity1_type": "ORG",
+      "entity2": "54.00",
+      "entity2_type": "MONEY",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Truist",
+      "entity1_type": "ORG",
+      "entity2": "roughly",
+      "entity2_type": "PERCENT",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Truist",
+      "entity1_type": "ORG",
+      "entity2": "14.4",
+      "entity2_type": "PERCENT",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Truist",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "SW",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "50.00",
+      "entity2_type": "MONEY",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "54.00",
+      "entity2_type": "MONEY",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "roughly",
+      "entity2_type": "PERCENT",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "14.4",
+      "entity2_type": "PERCENT",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SW",
+      "entity1_type": "ORG",
+      "entity2": "50.00",
+      "entity2_type": "MONEY",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SW",
+      "entity1_type": "ORG",
+      "entity2": "54.00",
+      "entity2_type": "MONEY",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SW",
+      "entity1_type": "ORG",
+      "entity2": "roughly",
+      "entity2_type": "PERCENT",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SW",
+      "entity1_type": "ORG",
+      "entity2": "14.4",
+      "entity2_type": "PERCENT",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SW",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "50.00",
+      "entity1_type": "MONEY",
+      "entity2": "54.00",
+      "entity2_type": "MONEY",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "50.00",
+      "entity1_type": "MONEY",
+      "entity2": "roughly",
+      "entity2_type": "PERCENT",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "50.00",
+      "entity1_type": "MONEY",
+      "entity2": "14.4",
+      "entity2_type": "PERCENT",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "50.00",
+      "entity1_type": "MONEY",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "54.00",
+      "entity1_type": "MONEY",
+      "entity2": "roughly",
+      "entity2_type": "PERCENT",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "54.00",
+      "entity1_type": "MONEY",
+      "entity2": "14.4",
+      "entity2_type": "PERCENT",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "54.00",
+      "entity1_type": "MONEY",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "roughly",
+      "entity1_type": "PERCENT",
+      "entity2": "14.4",
+      "entity2_type": "PERCENT",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "roughly",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "14.4",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Smurfit",
+      "entity1_type": "ORG",
+      "entity2": "Westrock",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock (NYSE:SW) Price Target Raised to $54.00",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Smurfit",
+      "entity1_type": "ORG",
+      "entity2": "SW",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock (NYSE:SW) Price Target Raised to $54.00",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Smurfit",
+      "entity1_type": "ORG",
+      "entity2": "54.00",
+      "entity2_type": "MONEY",
+      "sentence": "Smurfit Westrock (NYSE:SW) Price Target Raised to $54.00",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Westrock",
+      "entity1_type": "ORG",
+      "entity2": "SW",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock (NYSE:SW) Price Target Raised to $54.00",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Westrock",
+      "entity1_type": "ORG",
+      "entity2": "54.00",
+      "entity2_type": "MONEY",
+      "sentence": "Smurfit Westrock (NYSE:SW) Price Target Raised to $54.00",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SW",
+      "entity1_type": "ORG",
+      "entity2": "54.00",
+      "entity2_type": "MONEY",
+      "sentence": "Smurfit Westrock (NYSE:SW) Price Target Raised to $54.00",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "Stanley",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley set a new $53.00 price target on SW, signaling confidence in the company’s mid-cycle earnings power.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "53.00",
+      "entity2_type": "MONEY",
+      "sentence": "Morgan Stanley set a new $53.00 price target on SW, signaling confidence in the company’s mid-cycle earnings power.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "SW",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley set a new $53.00 price target on SW, signaling confidence in the company’s mid-cycle earnings power.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "mid",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley set a new $53.00 price target on SW, signaling confidence in the company’s mid-cycle earnings power.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley set a new $53.00 price target on SW, signaling confidence in the company’s mid-cycle earnings power.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "cycle",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley set a new $53.00 price target on SW, signaling confidence in the company’s mid-cycle earnings power.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "53.00",
+      "entity2_type": "MONEY",
+      "sentence": "Morgan Stanley set a new $53.00 price target on SW, signaling confidence in the company’s mid-cycle earnings power.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "SW",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley set a new $53.00 price target on SW, signaling confidence in the company’s mid-cycle earnings power.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "mid",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley set a new $53.00 price target on SW, signaling confidence in the company’s mid-cycle earnings power.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley set a new $53.00 price target on SW, signaling confidence in the company’s mid-cycle earnings power.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "cycle",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley set a new $53.00 price target on SW, signaling confidence in the company’s mid-cycle earnings power.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "53.00",
+      "entity1_type": "MONEY",
+      "entity2": "SW",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley set a new $53.00 price target on SW, signaling confidence in the company’s mid-cycle earnings power.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "53.00",
+      "entity1_type": "MONEY",
+      "entity2": "mid",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley set a new $53.00 price target on SW, signaling confidence in the company’s mid-cycle earnings power.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "53.00",
+      "entity1_type": "MONEY",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley set a new $53.00 price target on SW, signaling confidence in the company’s mid-cycle earnings power.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "53.00",
+      "entity1_type": "MONEY",
+      "entity2": "cycle",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley set a new $53.00 price target on SW, signaling confidence in the company’s mid-cycle earnings power.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SW",
+      "entity1_type": "ORG",
+      "entity2": "mid",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley set a new $53.00 price target on SW, signaling confidence in the company’s mid-cycle earnings power.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SW",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley set a new $53.00 price target on SW, signaling confidence in the company’s mid-cycle earnings power.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SW",
+      "entity1_type": "ORG",
+      "entity2": "cycle",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley set a new $53.00 price target on SW, signaling confidence in the company’s mid-cycle earnings power.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "mid",
+      "entity1_type": "DATE",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley set a new $53.00 price target on SW, signaling confidence in the company’s mid-cycle earnings power.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "mid",
+      "entity1_type": "DATE",
+      "entity2": "cycle",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley set a new $53.00 price target on SW, signaling confidence in the company’s mid-cycle earnings power.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "DATE",
+      "entity2": "cycle",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley set a new $53.00 price target on SW, signaling confidence in the company’s mid-cycle earnings power.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Smurfit",
+      "entity1_type": "ORG",
+      "entity2": "Westrock",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock (NYSE:SW) Given New $53.00 Price Target at Morgan Stanley\nNeutral Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Smurfit",
+      "entity1_type": "ORG",
+      "entity2": "SW",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock (NYSE:SW) Given New $53.00 Price Target at Morgan Stanley\nNeutral Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Smurfit",
+      "entity1_type": "ORG",
+      "entity2": "53.00",
+      "entity2_type": "MONEY",
+      "sentence": "Smurfit Westrock (NYSE:SW) Given New $53.00 Price Target at Morgan Stanley\nNeutral Sentiment:",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Smurfit",
+      "entity1_type": "ORG",
+      "entity2": "Morgan",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock (NYSE:SW) Given New $53.00 Price Target at Morgan Stanley\nNeutral Sentiment:",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Smurfit",
+      "entity1_type": "ORG",
+      "entity2": "Stanley",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock (NYSE:SW) Given New $53.00 Price Target at Morgan Stanley\nNeutral Sentiment:",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Westrock",
+      "entity1_type": "ORG",
+      "entity2": "SW",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock (NYSE:SW) Given New $53.00 Price Target at Morgan Stanley\nNeutral Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Westrock",
+      "entity1_type": "ORG",
+      "entity2": "53.00",
+      "entity2_type": "MONEY",
+      "sentence": "Smurfit Westrock (NYSE:SW) Given New $53.00 Price Target at Morgan Stanley\nNeutral Sentiment:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Westrock",
+      "entity1_type": "ORG",
+      "entity2": "Morgan",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock (NYSE:SW) Given New $53.00 Price Target at Morgan Stanley\nNeutral Sentiment:",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Westrock",
+      "entity1_type": "ORG",
+      "entity2": "Stanley",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock (NYSE:SW) Given New $53.00 Price Target at Morgan Stanley\nNeutral Sentiment:",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SW",
+      "entity1_type": "ORG",
+      "entity2": "53.00",
+      "entity2_type": "MONEY",
+      "sentence": "Smurfit Westrock (NYSE:SW) Given New $53.00 Price Target at Morgan Stanley\nNeutral Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SW",
+      "entity1_type": "ORG",
+      "entity2": "Morgan",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock (NYSE:SW) Given New $53.00 Price Target at Morgan Stanley\nNeutral Sentiment:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SW",
+      "entity1_type": "ORG",
+      "entity2": "Stanley",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock (NYSE:SW) Given New $53.00 Price Target at Morgan Stanley\nNeutral Sentiment:",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "53.00",
+      "entity1_type": "MONEY",
+      "entity2": "Morgan",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock (NYSE:SW) Given New $53.00 Price Target at Morgan Stanley\nNeutral Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "53.00",
+      "entity1_type": "MONEY",
+      "entity2": "Stanley",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock (NYSE:SW) Given New $53.00 Price Target at Morgan Stanley\nNeutral Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "Stanley",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock (NYSE:SW) Given New $53.00 Price Target at Morgan Stanley\nNeutral Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "Research",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "Partners",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "0.55",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "full",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "3.25",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "SW",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "0.78",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "0.72",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "Q4",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 33
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "3.59",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 37
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "FY2026",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 39
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "Partners",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "0.55",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "full",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "3.25",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "SW",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "0.78",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "0.72",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "Q4",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 32
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "3.59",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 36
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "FY2026",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 38
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Partners",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Partners",
+      "entity1_type": "ORG",
+      "entity2": "0.55",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Partners",
+      "entity1_type": "ORG",
+      "entity2": "full",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Partners",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Partners",
+      "entity1_type": "ORG",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Partners",
+      "entity1_type": "ORG",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Partners",
+      "entity1_type": "ORG",
+      "entity2": "3.25",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Partners",
+      "entity1_type": "ORG",
+      "entity2": "SW",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Partners",
+      "entity1_type": "ORG",
+      "entity2": "0.78",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Partners",
+      "entity1_type": "ORG",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Partners",
+      "entity1_type": "ORG",
+      "entity2": "0.72",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Partners",
+      "entity1_type": "ORG",
+      "entity2": "Q4",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Partners",
+      "entity1_type": "ORG",
+      "entity2": "3.59",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 35
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Partners",
+      "entity1_type": "ORG",
+      "entity2": "FY2026",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 37
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "0.55",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "full",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "3.25",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "SW",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "0.78",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "0.72",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "Q4",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "3.59",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 33
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "FY2026",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 35
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "0.55",
+      "entity1_type": "MONEY",
+      "entity2": "full",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "0.55",
+      "entity1_type": "MONEY",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "0.55",
+      "entity1_type": "MONEY",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "0.55",
+      "entity1_type": "MONEY",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "0.55",
+      "entity1_type": "MONEY",
+      "entity2": "3.25",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "0.55",
+      "entity1_type": "MONEY",
+      "entity2": "SW",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "0.55",
+      "entity1_type": "MONEY",
+      "entity2": "0.78",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "0.55",
+      "entity1_type": "MONEY",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "0.55",
+      "entity1_type": "MONEY",
+      "entity2": "0.72",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "0.55",
+      "entity1_type": "MONEY",
+      "entity2": "Q4",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "0.55",
+      "entity1_type": "MONEY",
+      "entity2": "3.59",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "0.55",
+      "entity1_type": "MONEY",
+      "entity2": "FY2026",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "full",
+      "entity1_type": "DATE",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "full",
+      "entity1_type": "DATE",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "full",
+      "entity1_type": "DATE",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "full",
+      "entity1_type": "DATE",
+      "entity2": "3.25",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "full",
+      "entity1_type": "DATE",
+      "entity2": "SW",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "full",
+      "entity1_type": "DATE",
+      "entity2": "0.78",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "full",
+      "entity1_type": "DATE",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "full",
+      "entity1_type": "DATE",
+      "entity2": "0.72",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "full",
+      "entity1_type": "DATE",
+      "entity2": "Q4",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "full",
+      "entity1_type": "DATE",
+      "entity2": "3.59",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "full",
+      "entity1_type": "DATE",
+      "entity2": "FY2026",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "DATE",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "DATE",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "DATE",
+      "entity2": "3.25",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "DATE",
+      "entity2": "SW",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "DATE",
+      "entity2": "0.78",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "DATE",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "DATE",
+      "entity2": "0.72",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "DATE",
+      "entity2": "Q4",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "DATE",
+      "entity2": "3.59",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "DATE",
+      "entity2": "FY2026",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "year",
+      "entity1_type": "DATE",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "year",
+      "entity1_type": "DATE",
+      "entity2": "3.25",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "year",
+      "entity1_type": "DATE",
+      "entity2": "SW",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "year",
+      "entity1_type": "DATE",
+      "entity2": "0.78",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "year",
+      "entity1_type": "DATE",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "year",
+      "entity1_type": "DATE",
+      "entity2": "0.72",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "year",
+      "entity1_type": "DATE",
+      "entity2": "Q4",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "year",
+      "entity1_type": "DATE",
+      "entity2": "3.59",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "year",
+      "entity1_type": "DATE",
+      "entity2": "FY2026",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "3.25",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "SW",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "0.78",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "0.72",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "Q4",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "3.59",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "FY2026",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3.25",
+      "entity1_type": "MONEY",
+      "entity2": "SW",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3.25",
+      "entity1_type": "MONEY",
+      "entity2": "0.78",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3.25",
+      "entity1_type": "MONEY",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3.25",
+      "entity1_type": "MONEY",
+      "entity2": "0.72",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3.25",
+      "entity1_type": "MONEY",
+      "entity2": "Q4",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3.25",
+      "entity1_type": "MONEY",
+      "entity2": "3.59",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3.25",
+      "entity1_type": "MONEY",
+      "entity2": "FY2026",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SW",
+      "entity1_type": "ORG",
+      "entity2": "0.78",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SW",
+      "entity1_type": "ORG",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SW",
+      "entity1_type": "ORG",
+      "entity2": "0.72",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SW",
+      "entity1_type": "ORG",
+      "entity2": "Q4",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SW",
+      "entity1_type": "ORG",
+      "entity2": "3.59",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SW",
+      "entity1_type": "ORG",
+      "entity2": "FY2026",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "0.78",
+      "entity1_type": "MONEY",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "0.78",
+      "entity1_type": "MONEY",
+      "entity2": "0.72",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "0.78",
+      "entity1_type": "MONEY",
+      "entity2": "Q4",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "0.78",
+      "entity1_type": "MONEY",
+      "entity2": "3.59",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "0.78",
+      "entity1_type": "MONEY",
+      "entity2": "FY2026",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "0.72",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "Q4",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "3.59",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "FY2026",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "0.72",
+      "entity1_type": "MONEY",
+      "entity2": "Q4",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "0.72",
+      "entity1_type": "MONEY",
+      "entity2": "3.59",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "0.72",
+      "entity1_type": "MONEY",
+      "entity2": "FY2026",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q4",
+      "entity1_type": "DATE",
+      "entity2": "3.59",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q4",
+      "entity1_type": "DATE",
+      "entity2": "FY2026",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3.59",
+      "entity1_type": "MONEY",
+      "entity2": "FY2026",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "SW",
+      "entity2_type": "ORG",
+      "sentence": "Q2 Earnings Forecast for SW Issued By Seaport Res Ptn\nNeutral Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "Seaport",
+      "entity2_type": "ORG",
+      "sentence": "Q2 Earnings Forecast for SW Issued By Seaport Res Ptn\nNeutral Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "Res",
+      "entity2_type": "ORG",
+      "sentence": "Q2 Earnings Forecast for SW Issued By Seaport Res Ptn\nNeutral Sentiment:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "Ptn",
+      "entity2_type": "ORG",
+      "sentence": "Q2 Earnings Forecast for SW Issued By Seaport Res Ptn\nNeutral Sentiment:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SW",
+      "entity1_type": "ORG",
+      "entity2": "Seaport",
+      "entity2_type": "ORG",
+      "sentence": "Q2 Earnings Forecast for SW Issued By Seaport Res Ptn\nNeutral Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SW",
+      "entity1_type": "ORG",
+      "entity2": "Res",
+      "entity2_type": "ORG",
+      "sentence": "Q2 Earnings Forecast for SW Issued By Seaport Res Ptn\nNeutral Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SW",
+      "entity1_type": "ORG",
+      "entity2": "Ptn",
+      "entity2_type": "ORG",
+      "sentence": "Q2 Earnings Forecast for SW Issued By Seaport Res Ptn\nNeutral Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "Res",
+      "entity2_type": "ORG",
+      "sentence": "Q2 Earnings Forecast for SW Issued By Seaport Res Ptn\nNeutral Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "Ptn",
+      "entity2_type": "ORG",
+      "sentence": "Q2 Earnings Forecast for SW Issued By Seaport Res Ptn\nNeutral Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Res",
+      "entity1_type": "ORG",
+      "entity2": "Ptn",
+      "entity2_type": "ORG",
+      "sentence": "Q2 Earnings Forecast for SW Issued By Seaport Res Ptn\nNeutral Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Fargo",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo increased its SW target from $43.00 to $45.00 but kept an “equal weight” rating, indicating limited near-term upside.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "SW",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo increased its SW target from $43.00 to $45.00 but kept an “equal weight” rating, indicating limited near-term upside.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "43.00",
+      "entity2_type": "MONEY",
+      "sentence": "Wells Fargo increased its SW target from $43.00 to $45.00 but kept an “equal weight” rating, indicating limited near-term upside.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "45.00",
+      "entity2_type": "MONEY",
+      "sentence": "Wells Fargo increased its SW target from $43.00 to $45.00 but kept an “equal weight” rating, indicating limited near-term upside.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "SW",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo increased its SW target from $43.00 to $45.00 but kept an “equal weight” rating, indicating limited near-term upside.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "43.00",
+      "entity2_type": "MONEY",
+      "sentence": "Wells Fargo increased its SW target from $43.00 to $45.00 but kept an “equal weight” rating, indicating limited near-term upside.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "45.00",
+      "entity2_type": "MONEY",
+      "sentence": "Wells Fargo increased its SW target from $43.00 to $45.00 but kept an “equal weight” rating, indicating limited near-term upside.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SW",
+      "entity1_type": "ORG",
+      "entity2": "43.00",
+      "entity2_type": "MONEY",
+      "sentence": "Wells Fargo increased its SW target from $43.00 to $45.00 but kept an “equal weight” rating, indicating limited near-term upside.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SW",
+      "entity1_type": "ORG",
+      "entity2": "45.00",
+      "entity2_type": "MONEY",
+      "sentence": "Wells Fargo increased its SW target from $43.00 to $45.00 but kept an “equal weight” rating, indicating limited near-term upside.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "43.00",
+      "entity1_type": "MONEY",
+      "entity2": "45.00",
+      "entity2_type": "MONEY",
+      "sentence": "Wells Fargo increased its SW target from $43.00 to $45.00 but kept an “equal weight” rating, indicating limited near-term upside.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Fargo",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Issues Positive Forecast for Smurfit Westrock (NYSE:SW) Stock Price\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Issues Positive Forecast for Smurfit Westrock (NYSE:SW) Stock Price\nNegative Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Issues Positive Forecast for Smurfit Westrock (NYSE:SW) Stock Price\nNegative Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Smurfit",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Issues Positive Forecast for Smurfit Westrock (NYSE:SW) Stock Price\nNegative Sentiment:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Westrock",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Issues Positive Forecast for Smurfit Westrock (NYSE:SW) Stock Price\nNegative Sentiment:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Issues Positive Forecast for Smurfit Westrock (NYSE:SW) Stock Price\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Issues Positive Forecast for Smurfit Westrock (NYSE:SW) Stock Price\nNegative Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "Smurfit",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Issues Positive Forecast for Smurfit Westrock (NYSE:SW) Stock Price\nNegative Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "Westrock",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Issues Positive Forecast for Smurfit Westrock (NYSE:SW) Stock Price\nNegative Sentiment:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Issues Positive Forecast for Smurfit Westrock (NYSE:SW) Stock Price\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Smurfit",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Issues Positive Forecast for Smurfit Westrock (NYSE:SW) Stock Price\nNegative Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Westrock",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Issues Positive Forecast for Smurfit Westrock (NYSE:SW) Stock Price\nNegative Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Company",
+      "entity1_type": "ORG",
+      "entity2": "Smurfit",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Issues Positive Forecast for Smurfit Westrock (NYSE:SW) Stock Price\nNegative Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Company",
+      "entity1_type": "ORG",
+      "entity2": "Westrock",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Issues Positive Forecast for Smurfit Westrock (NYSE:SW) Stock Price\nNegative Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Smurfit",
+      "entity1_type": "ORG",
+      "entity2": "Westrock",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo & Company Issues Positive Forecast for Smurfit Westrock (NYSE:SW) Stock Price\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "daily",
+      "entity1_type": "DATE",
+      "entity2": "SW",
+      "entity2_type": "ORG",
+      "sentence": "Despite a daily gain, SW underperformed peers on Thursday, highlighting potential competitive or sentiment headwinds.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "daily",
+      "entity1_type": "DATE",
+      "entity2": "Thursday",
+      "entity2_type": "DATE",
+      "sentence": "Despite a daily gain, SW underperformed peers on Thursday, highlighting potential competitive or sentiment headwinds.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SW",
+      "entity1_type": "ORG",
+      "entity2": "Thursday",
+      "entity2_type": "DATE",
+      "sentence": "Despite a daily gain, SW underperformed peers on Thursday, highlighting potential competitive or sentiment headwinds.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Smurfit",
+      "entity1_type": "ORG",
+      "entity2": "Westrock",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Smurfit",
+      "entity1_type": "ORG",
+      "entity2": "PLC",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Smurfit",
+      "entity1_type": "ORG",
+      "entity2": "Thursday",
+      "entity2_type": "DATE",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Smurfit",
+      "entity1_type": "ORG",
+      "entity2": "daily",
+      "entity2_type": "DATE",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Smurfit",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Smurfit",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Smurfit",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Smurfit",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Smurfit",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Smurfit",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Westrock",
+      "entity1_type": "ORG",
+      "entity2": "PLC",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Westrock",
+      "entity1_type": "ORG",
+      "entity2": "Thursday",
+      "entity2_type": "DATE",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Westrock",
+      "entity1_type": "ORG",
+      "entity2": "daily",
+      "entity2_type": "DATE",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Westrock",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Westrock",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Westrock",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Westrock",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Westrock",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Westrock",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "PLC",
+      "entity1_type": "ORG",
+      "entity2": "Thursday",
+      "entity2_type": "DATE",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "PLC",
+      "entity1_type": "ORG",
+      "entity2": "daily",
+      "entity2_type": "DATE",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "PLC",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "PLC",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "PLC",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "PLC",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "PLC",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "PLC",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Thursday",
+      "entity1_type": "DATE",
+      "entity2": "daily",
+      "entity2_type": "DATE",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Thursday",
+      "entity1_type": "DATE",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Thursday",
+      "entity1_type": "DATE",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Thursday",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Thursday",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Thursday",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Thursday",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "daily",
+      "entity1_type": "DATE",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "daily",
+      "entity1_type": "DATE",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "daily",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "daily",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "daily",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "daily",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ago",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ago",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AI",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 1
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "Smurfit Westrock PLC",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a mix",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "contract wins",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "analyst updates",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its share performance",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "new business wins",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "raised price targets",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "earnings forecasts",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Smurfit Westrock",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a multi-year contract",
+      "type": "noun_chunk",
+      "category": "temporal"
+    },
+    {
+      "text": "tobacco product identification packaging",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its regulated-products segment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Smurfit Westrock",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Irish contract",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "tobacco IDs",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Truist Financial",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its price target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a “buy” rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "roughly 14.4% upside",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Morgan Stanley",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a new $53.00 price target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the company’s mid-cycle earnings power",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Smurfit Westrock",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "New $53.00 Price Target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Morgan Stanley",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Seaport Research Partners",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Q2 EPS",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "full-year 2025 EPS",
+      "type": "noun_chunk",
+      "category": "temporal"
+    },
+    {
+      "text": "further estimates",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Q2 Earnings Forecast",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Seaport Res Ptn",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Wells Fargo",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its SW target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "an “equal weight” rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "limited near-term upside",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Wells Fargo",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Forecast",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a daily gain",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "potential competitive or sentiment headwinds",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Smurfit Westrock PLC stock",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "daily gains",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "$50.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$54.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$54.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$53.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$53.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$0.55",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$3.25",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$0.78",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$0.72",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$3.59",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$43.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$45.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "14.4%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "FY2026",
+      "type": "pattern",
+      "category": "fiscal_year"
+    },
+    {
+      "text": "earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "share",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "stock",
+      "type": "pattern",
+      "category": "market_term"
+    }
+  ],
+  "important_sentences": [
+    {
+      "text": "Seaport Research Partners forecast Q2 EPS of $0.55 and full-year 2025 EPS of $3.25 for SW, with further estimates of $0.78 for Q3, $0.72 for Q4, and $3.59 for FY2026.",
+      "importance_score": 70,
+      "entity_count": 17,
+      "financial_keyword_count": 1,
+      "money_count": 5,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Smurfit Westrock wins Irish contract for tobacco IDs\nPositive Sentiment:\nTruist Financial raised its price target on SW from $50.00 to $54.00 and maintained a “buy” rating, implying roughly 14.4% upside.",
+      "importance_score": 53,
+      "entity_count": 11,
+      "financial_keyword_count": 3,
+      "money_count": 2,
+      "company_count": 3,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "importance_score": 36,
+      "entity_count": 11,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Wells Fargo increased its SW target from $43.00 to $45.00 but kept an “equal weight” rating, indicating limited near-term upside.",
+      "importance_score": 34,
+      "entity_count": 5,
+      "financial_keyword_count": 2,
+      "money_count": 2,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Morgan Stanley set a new $53.00 price target on SW, signaling confidence in the company’s mid-cycle earnings power.",
+      "importance_score": 33,
+      "entity_count": 7,
+      "financial_keyword_count": 2,
+      "money_count": 1,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Smurfit Westrock (NYSE:SW) Given New $53.00 Price Target at Morgan Stanley\nNeutral Sentiment:",
+      "importance_score": 32,
+      "entity_count": 6,
+      "financial_keyword_count": 1,
+      "money_count": 1,
+      "company_count": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Smurfit Westrock PLC (NYSE:SW) saw a mix of contract wins and analyst updates today, driving its share performance.",
+      "importance_score": 27,
+      "entity_count": 5,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Wells Fargo & Company Issues Positive Forecast for Smurfit Westrock (NYSE:SW) Stock Price\nNegative Sentiment:",
+      "importance_score": 26,
+      "entity_count": 6,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Smurfit Westrock (NYSE:SW) Price Target Raised to $54.00",
+      "importance_score": 24,
+      "entity_count": 4,
+      "financial_keyword_count": 1,
+      "money_count": 1,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Q2 Earnings Forecast for SW Issued By Seaport Res Ptn\nNeutral Sentiment:",
+      "importance_score": 24,
+      "entity_count": 5,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    }
+  ],
+  "entity_statistics": {
+    "total_entities": 54,
+    "unique_entities": 35,
+    "type_counts": {
+      "ORG": 24,
+      "DATE": 15,
+      "GPE": 1,
+      "NORP": 1,
+      "MONEY": 12,
+      "PERCENT": 1
+    },
+    "type_distribution": {
+      "ORG": 0.4444444444444444,
+      "DATE": 0.2777777777777778,
+      "GPE": 0.018518518518518517,
+      "NORP": 0.018518518518518517,
+      "MONEY": 0.2222222222222222,
+      "PERCENT": 0.018518518518518517
+    },
+    "most_common_entities": [
+      [
+        "SW",
+        9
+      ],
+      [
+        "Smurfit Westrock",
+        5
+      ],
+      [
+        "Smurfit Westrock PLC",
+        2
+      ],
+      [
+        "54.00",
+        2
+      ],
+      [
+        "Morgan Stanley",
+        2
+      ],
+      [
+        "53.00",
+        2
+      ],
+      [
+        "Q2",
+        2
+      ],
+      [
+        "daily",
+        2
+      ],
+      [
+        "Thursday",
+        2
+      ],
+      [
+        "today",
+        1
+      ]
+    ],
+    "entity_types_found": [
+      "ORG",
+      "DATE",
+      "GPE",
+      "NORP",
+      "MONEY",
+      "PERCENT"
+    ],
+    "company_entities": 24,
+    "person_entities": 0,
+    "financial_entities": 13,
+    "entity_density": 0.24
+  },
+  "financial_analysis": {
+    "money_amounts": [
+      "50.00",
+      "54.00",
+      "54.00",
+      "53.00",
+      "53.00",
+      "0.55",
+      "3.25",
+      "0.78",
+      "0.72",
+      "3.59",
+      "43.00",
+      "45.00"
+    ],
+    "percentages": [
+      "roughly 14.4%"
+    ],
+    "companies": [
+      "Smurfit Westrock PLC",
+      "SW",
+      "Smurfit Westrock",
+      "Smurfit Westrock",
+      "Truist Financial",
+      "SW",
+      "Smurfit Westrock",
+      "SW",
+      "Morgan Stanley",
+      "SW",
+      "Smurfit Westrock",
+      "SW",
+      "Morgan Stanley",
+      "Seaport Research Partners",
+      "SW",
+      "SW",
+      "Seaport Res Ptn",
+      "Wells Fargo",
+      "SW",
+      "Wells Fargo & Company",
+      "Smurfit Westrock",
+      "SW",
+      "Smurfit Westrock PLC",
+      "AI Generated"
+    ],
+    "people": [],
+    "dates": [
+      "today",
+      "multi-year",
+      "mid-cycle",
+      "Q2",
+      "full-year",
+      "2025",
+      "Q3",
+      "Q4",
+      "FY2026",
+      "Q2",
+      "daily",
+      "Thursday",
+      "Thursday",
+      "daily",
+      "1+ days ago"
+    ],
+    "financial_terms": [
+      "Earnings",
+      "Stock",
+      "earnings",
+      "share",
+      "stock"
+    ],
+    "financial_metrics": [],
+    "market_indicators": [
+      "Price",
+      "price",
+      "target",
+      "rating",
+      "Target"
+    ]
+  },
+  "temporal_analysis": {
+    "dates": [
+      "today",
+      "multi-year",
+      "mid-cycle",
+      "Q2",
+      "full-year",
+      "2025",
+      "Q3",
+      "Q4",
+      "FY2026",
+      "Q2",
+      "daily",
+      "Thursday",
+      "Thursday",
+      "daily",
+      "1+ days ago"
+    ],
+    "time_expressions": [],
+    "temporal_relationships": [
+      "today"
+    ],
+    "quarters": [
+      "Q2",
+      "Q3",
+      "Q4",
+      "Q2"
+    ],
+    "years": [
+      "2025"
+    ],
+    "time_periods": []
+  },
+  "sentiment_analysis": {
+    "positive_words": 5,
+    "negative_words": 1,
+    "positive_ratio": 0.022222222222222223,
+    "negative_ratio": 0.0044444444444444444,
+    "sentiment_score": 0.017777777777777778,
+    "sentiment_label": "positive",
+    "sentiment_strength": 0.017777777777777778,
+    "confidence": 0.17777777777777778
+  },
+  "industry_analysis": {
+    "dominant_industry": "tech",
+    "industry_scores": {
+      "tech": 1,
+      "finance": 0,
+      "healthcare": 0,
+      "energy": 0,
+      "retail": 0,
+      "automotive": 0,
+      "media": 0,
+      "industrial": 0,
+      "real_estate": 0,
+      "telecom": 0,
+      "food_beverage": 0,
+      "travel": 0,
+      "education": 0,
+      "professional": 0,
+      "mining": 0,
+      "aerospace": 0,
+      "environmental": 0,
+      "cannabis": 0
+    },
+    "confidence": 1.0
+  },
+  "market_analysis": {
+    "market_sentiment": "bullish",
+    "bullish_indicators": 1,
+    "bearish_indicators": 0,
+    "market_conditions": {
+      "volatility": "normal",
+      "volume": "normal",
+      "trend": "bullish"
+    },
+    "trading_activity": "normal"
+  },
+  "competitor_analysis": {
+    "companies_mentioned": [
+      "Smurfit Westrock PLC",
+      "SW",
+      "Smurfit Westrock",
+      "Smurfit Westrock",
+      "Truist Financial",
+      "SW",
+      "Smurfit Westrock",
+      "SW",
+      "Morgan Stanley",
+      "SW",
+      "Smurfit Westrock",
+      "SW",
+      "Morgan Stanley",
+      "Seaport Research Partners",
+      "SW",
+      "SW",
+      "Seaport Res Ptn",
+      "Wells Fargo",
+      "SW",
+      "Wells Fargo & Company",
+      "Smurfit Westrock",
+      "SW",
+      "Smurfit Westrock PLC",
+      "AI Generated"
+    ],
+    "competitive_context": [
+      "Despite a daily gain, SW underperformed peers on Thursday, highlighting potential competitive or sentiment headwinds.",
+      "Smurfit Westrock PLC stock underperforms Thursday when compared to competitors despite daily gains\nPosted 1+ days ago\nAI Generated. May Contain Errors."
+    ],
+    "competitor_count": 24,
+    "has_competitive_language": true
+  },
+  "risk_analysis": {
+    "risk_sentences": [],
+    "risk_count": 0,
+    "risk_level": "low"
+  },
+  "opportunity_analysis": {
+    "opportunity_sentences": [
+      "Despite a daily gain, SW underperformed peers on Thursday, highlighting potential competitive or sentiment headwinds."
+    ],
+    "opportunity_count": 1,
+    "opportunity_level": "low"
+  },
+  "processing_metadata": {
+    "timestamp": "2025-07-13T08:35:09.474460",
+    "model_used": "en_core_web_trf",
+    "text_length": 1619
+  }
+}
