@@ -1,0 +1,3070 @@
+{
+  "ticker": "IT",
+  "entities": [
+    {
+      "text": "Gartner, Inc.",
+      "label": "ORG",
+      "start": 0,
+      "end": 13,
+      "sentence": "Gartner, Inc. (NYSE: IT) stock has seen mixed drivers in the last 24–36 hours.",
+      "context": "Gartner, Inc. (NYSE: IT) stock has seen mixed drivers in the la",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "IT",
+      "label": "ORG",
+      "start": 21,
+      "end": 23,
+      "sentence": "Gartner, Inc. (NYSE: IT) stock has seen mixed drivers in the last 24–36 hours.",
+      "context": "Gartner, Inc. (NYSE: IT) stock has seen mixed drivers in the last 24–36 h",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "the last 24–36 hours",
+      "label": "TIME",
+      "start": 57,
+      "end": 77,
+      "sentence": "Gartner, Inc. (NYSE: IT) stock has seen mixed drivers in the last 24–36 hours.",
+      "context": ", Inc. (NYSE: IT) stock has seen mixed drivers in the last 24–36 hours. Key highlights for investors include:\nPositive S",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Gartner",
+      "label": "ORG",
+      "start": 137,
+      "end": 144,
+      "sentence": "Positive Sentiment:\nGartner’s forecast that by 2028 one in four job candidates will be deepfake AI profiles underlines strong demand for its advisory services and research.",
+      "context": "lights for investors include:\nPositive Sentiment:\nGartner’s forecast that by 2028 one in four job candidate",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "2028",
+      "label": "DATE",
+      "start": 164,
+      "end": 168,
+      "sentence": "Positive Sentiment:\nGartner’s forecast that by 2028 one in four job candidates will be deepfake AI profiles underlines strong demand for its advisory services and research.",
+      "context": "e:\nPositive Sentiment:\nGartner’s forecast that by 2028 one in four job candidates will be deepfake AI pr",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "one",
+      "label": "CARDINAL",
+      "start": 169,
+      "end": 172,
+      "sentence": "Positive Sentiment:\nGartner’s forecast that by 2028 one in four job candidates will be deepfake AI profiles underlines strong demand for its advisory services and research.",
+      "context": "sitive Sentiment:\nGartner’s forecast that by 2028 one in four job candidates will be deepfake AI profil",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "four",
+      "label": "CARDINAL",
+      "start": 176,
+      "end": 180,
+      "sentence": "Positive Sentiment:\nGartner’s forecast that by 2028 one in four job candidates will be deepfake AI profiles underlines strong demand for its advisory services and research.",
+      "context": "Sentiment:\nGartner’s forecast that by 2028 one in four job candidates will be deepfake AI profiles under",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Gartner",
+      "label": "ORG",
+      "start": 396,
+      "end": 403,
+      "sentence": "A bullish analysis highlights Gartner’s leading research role and attractive valuation metrics (trailing P/E 25.39, forward P/E 30.83) as potential catalysts for further upside.",
+      "context": "Positive Sentiment:\nA bullish analysis highlights Gartner’s leading research role and attractive valuation",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "25.39",
+      "label": "CARDINAL",
+      "start": 475,
+      "end": 480,
+      "sentence": "A bullish analysis highlights Gartner’s leading research role and attractive valuation metrics (trailing P/E 25.39, forward P/E 30.83) as potential catalysts for further upside.",
+      "context": "le and attractive valuation metrics (trailing P/E 25.39, forward P/E 30.83) as potential catalysts for fu",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "30.83",
+      "label": "CARDINAL",
+      "start": 494,
+      "end": 499,
+      "sentence": "A bullish analysis highlights Gartner’s leading research role and attractive valuation metrics (trailing P/E 25.39, forward P/E 30.83) as potential catalysts for further upside.",
+      "context": "aluation metrics (trailing P/E 25.39, forward P/E 30.83) as potential catalysts for further upside.\nGartn",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Gartner",
+      "label": "ORG",
+      "start": 544,
+      "end": 551,
+      "sentence": "Gartner (IT): A Bull Case Theory\nNeutral Sentiment:",
+      "context": "30.83) as potential catalysts for further upside.\nGartner (IT): A Bull Case Theory\nNeutral Sentiment:\nAnaly",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Gartner",
+      "label": "ORG",
+      "start": 661,
+      "end": 668,
+      "sentence": "Analysts’ consensus remains at “Hold,” reflecting split views on Gartner’s near-term growth prospects.\nGartner, Inc. Receives Consensus Rating of \"Hold\"\nNeutral Sentiment:\nPreview articles suggest Gartner’s upcoming earnings may show moderate revenue growth and margin expansion.\nHere's What to Expect From Gartner's Next Earnings Report\nNegative Sentiment:",
+      "context": "nsus remains at “Hold,” reflecting split views on Gartner’s near-term growth prospects.\nGartner, Inc. Recei",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Gartner, Inc.",
+      "label": "ORG",
+      "start": 699,
+      "end": 712,
+      "sentence": "Analysts’ consensus remains at “Hold,” reflecting split views on Gartner’s near-term growth prospects.\nGartner, Inc. Receives Consensus Rating of \"Hold\"\nNeutral Sentiment:\nPreview articles suggest Gartner’s upcoming earnings may show moderate revenue growth and margin expansion.\nHere's What to Expect From Gartner's Next Earnings Report\nNegative Sentiment:",
+      "context": "it views on Gartner’s near-term growth prospects.\nGartner, Inc. Receives Consensus Rating of \"Hold\"\nNeutral Senti",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Gartner",
+      "label": "ORG",
+      "start": 793,
+      "end": 800,
+      "sentence": "Analysts’ consensus remains at “Hold,” reflecting split views on Gartner’s near-term growth prospects.\nGartner, Inc. Receives Consensus Rating of \"Hold\"\nNeutral Sentiment:\nPreview articles suggest Gartner’s upcoming earnings may show moderate revenue growth and margin expansion.\nHere's What to Expect From Gartner's Next Earnings Report\nNegative Sentiment:",
+      "context": "Hold\"\nNeutral Sentiment:\nPreview articles suggest Gartner’s upcoming earnings may show moderate revenue gro",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Gartner",
+      "label": "ORG",
+      "start": 903,
+      "end": 910,
+      "sentence": "Analysts’ consensus remains at “Hold,” reflecting split views on Gartner’s near-term growth prospects.\nGartner, Inc. Receives Consensus Rating of \"Hold\"\nNeutral Sentiment:\nPreview articles suggest Gartner’s upcoming earnings may show moderate revenue growth and margin expansion.\nHere's What to Expect From Gartner's Next Earnings Report\nNegative Sentiment:",
+      "context": "and margin expansion.\nHere's What to Expect From Gartner's Next Earnings Report\nNegative Sentiment:\nCompet",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Cato Networks",
+      "label": "ORG",
+      "start": 976,
+      "end": 989,
+      "sentence": "Competing SASE vendor Cato Networks was again named a Leader in the 2025 Gartner Magic Quadrant for SASE Platforms, highlighting intensifying competition in Gartner’s research segments.",
+      "context": "Report\nNegative Sentiment:\nCompeting SASE vendor Cato Networks was again named a Leader in the 2025 Gartner Magi",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "2025",
+      "label": "DATE",
+      "start": 1022,
+      "end": 1026,
+      "sentence": "Competing SASE vendor Cato Networks was again named a Leader in the 2025 Gartner Magic Quadrant for SASE Platforms, highlighting intensifying competition in Gartner’s research segments.",
+      "context": "dor Cato Networks was again named a Leader in the 2025 Gartner Magic Quadrant for SASE Platforms, highli",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Gartner",
+      "label": "ORG",
+      "start": 1027,
+      "end": 1034,
+      "sentence": "Competing SASE vendor Cato Networks was again named a Leader in the 2025 Gartner Magic Quadrant for SASE Platforms, highlighting intensifying competition in Gartner’s research segments.",
+      "context": "ato Networks was again named a Leader in the 2025 Gartner Magic Quadrant for SASE Platforms, highlighting i",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Gartner",
+      "label": "ORG",
+      "start": 1111,
+      "end": 1118,
+      "sentence": "Competing SASE vendor Cato Networks was again named a Leader in the 2025 Gartner Magic Quadrant for SASE Platforms, highlighting intensifying competition in Gartner’s research segments.",
+      "context": "atforms, highlighting intensifying competition in Gartner’s research segments.\nCato Networks Named a Leader",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Cato Networks",
+      "label": "ORG",
+      "start": 1140,
+      "end": 1153,
+      "sentence": "Cato Networks Named a Leader in 2025 Gartner Magic Quadrant for SASE\nNegative Sentiment:",
+      "context": "fying competition in Gartner’s research segments.\nCato Networks Named a Leader in 2025 Gartner Magic Quadrant for",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "2025",
+      "label": "DATE",
+      "start": 1172,
+      "end": 1176,
+      "sentence": "Cato Networks Named a Leader in 2025 Gartner Magic Quadrant for SASE\nNegative Sentiment:",
+      "context": "esearch segments.\nCato Networks Named a Leader in 2025 Gartner Magic Quadrant for SASE\nNegative Sentimen",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Gartner",
+      "label": "ORG",
+      "start": 1177,
+      "end": 1184,
+      "sentence": "Cato Networks Named a Leader in 2025 Gartner Magic Quadrant for SASE\nNegative Sentiment:",
+      "context": "ch segments.\nCato Networks Named a Leader in 2025 Gartner Magic Quadrant for SASE\nNegative Sentiment:\nChron",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Chronosphere",
+      "label": "ORG",
+      "start": 1229,
+      "end": 1241,
+      "sentence": "Chronosphere secured Leader status in the 2025 Magic Quadrant for Observability, underscoring growing competition for Gartner’s core observability research offerings.",
+      "context": "rtner Magic Quadrant for SASE\nNegative Sentiment:\nChronosphere secured Leader status in the 2025 Magic Quadrant",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "2025",
+      "label": "DATE",
+      "start": 1271,
+      "end": 1275,
+      "sentence": "Chronosphere secured Leader status in the 2025 Magic Quadrant for Observability, underscoring growing competition for Gartner’s core observability research offerings.",
+      "context": "timent:\nChronosphere secured Leader status in the 2025 Magic Quadrant for Observability, underscoring gr",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Gartner",
+      "label": "ORG",
+      "start": 1347,
+      "end": 1354,
+      "sentence": "Chronosphere secured Leader status in the 2025 Magic Quadrant for Observability, underscoring growing competition for Gartner’s core observability research offerings.",
+      "context": "servability, underscoring growing competition for Gartner’s core observability research offerings.\nChronosp",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Chronosphere",
+      "label": "ORG",
+      "start": 1396,
+      "end": 1408,
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "context": "Gartner’s core observability research offerings.\nChronosphere Named a Leader for Second Consecutive Year in the",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Second",
+      "label": "ORDINAL",
+      "start": 1428,
+      "end": 1434,
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "context": "search offerings.\nChronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadra",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "2025",
+      "label": "DATE",
+      "start": 1459,
+      "end": 1463,
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "context": "Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Gartner",
+      "label": "ORG",
+      "start": 1464,
+      "end": 1471,
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "context": "a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentime",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "New Relic",
+      "label": "ORG",
+      "start": 1525,
+      "end": 1534,
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "context": "ic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ f",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "2025",
+      "label": "DATE",
+      "start": 1561,
+      "end": 1565,
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "context": "ve Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, i",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "the 13th consecutive year",
+      "label": "DATE",
+      "start": 1587,
+      "end": 1612,
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "context": "s named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research fran",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Gartner",
+      "label": "ORG",
+      "start": 1639,
+      "end": 1646,
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "context": "e 13th consecutive year, intensifying pressure on Gartner’s research franchises.\nNew Relic Named a Leader i",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "New Relic",
+      "label": "ORG",
+      "start": 1670,
+      "end": 1679,
+      "sentence": "New Relic Named a Leader in 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:",
+      "context": "ifying pressure on Gartner’s research franchises.\nNew Relic Named a Leader in 2025 Gartner Magic Quadrant for",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "2025",
+      "label": "DATE",
+      "start": 1698,
+      "end": 1702,
+      "sentence": "New Relic Named a Leader in 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:",
+      "context": "research franchises.\nNew Relic Named a Leader in 2025 Gartner Magic Quadrant for Observability\nNegative",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Gartner",
+      "label": "ORG",
+      "start": 1703,
+      "end": 1710,
+      "sentence": "New Relic Named a Leader in 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:",
+      "context": "arch franchises.\nNew Relic Named a Leader in 2025 Gartner Magic Quadrant for Observability\nNegative Sentime",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Grafana Labs",
+      "label": "ORG",
+      "start": 1764,
+      "end": 1776,
+      "sentence": "Grafana Labs earned Leader status in the 2025 Observability MQ, further raising the bar for Gartner’s market positioning.",
+      "context": "ic Quadrant for Observability\nNegative Sentiment:\nGrafana Labs earned Leader status in the 2025 Observability MQ",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "2025",
+      "label": "DATE",
+      "start": 1805,
+      "end": 1809,
+      "sentence": "Grafana Labs earned Leader status in the 2025 Observability MQ, further raising the bar for Gartner’s market positioning.",
+      "context": "ntiment:\nGrafana Labs earned Leader status in the 2025 Observability MQ, further raising the bar for Gar",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Gartner",
+      "label": "ORG",
+      "start": 1856,
+      "end": 1863,
+      "sentence": "Grafana Labs earned Leader status in the 2025 Observability MQ, further raising the bar for Gartner’s market positioning.",
+      "context": "025 Observability MQ, further raising the bar for Gartner’s market positioning.\nGrafana Labs Named a Leader",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Grafana Labs",
+      "label": "ORG",
+      "start": 1886,
+      "end": 1898,
+      "sentence": "Grafana Labs Named a Leader in 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:",
+      "context": "raising the bar for Gartner’s market positioning.\nGrafana Labs Named a Leader in 2025 Gartner Magic Quadrant for",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "2025",
+      "label": "DATE",
+      "start": 1917,
+      "end": 1921,
+      "sentence": "Grafana Labs Named a Leader in 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:",
+      "context": "arket positioning.\nGrafana Labs Named a Leader in 2025 Gartner Magic Quadrant for Observability\nNegative",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Gartner",
+      "label": "ORG",
+      "start": 1922,
+      "end": 1929,
+      "sentence": "Grafana Labs Named a Leader in 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:",
+      "context": "positioning.\nGrafana Labs Named a Leader in 2025 Gartner Magic Quadrant for Observability\nNegative Sentime",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Datadog",
+      "label": "ORG",
+      "start": 1983,
+      "end": 1990,
+      "sentence": "Datadog also clinched a Leader spot in the 2025 Observability MQ, signaling robust competition across Gartner’s primary research markets.",
+      "context": "ic Quadrant for Observability\nNegative Sentiment:\nDatadog also clinched a Leader spot in the 2025 Observabi",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "2025",
+      "label": "DATE",
+      "start": 2026,
+      "end": 2030,
+      "sentence": "Datadog also clinched a Leader spot in the 2025 Observability MQ, signaling robust competition across Gartner’s primary research markets.",
+      "context": "iment:\nDatadog also clinched a Leader spot in the 2025 Observability MQ, signaling robust competition ac",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Gartner",
+      "label": "ORG",
+      "start": 2085,
+      "end": 2092,
+      "sentence": "Datadog also clinched a Leader spot in the 2025 Observability MQ, signaling robust competition across Gartner’s primary research markets.",
+      "context": "rvability MQ, signaling robust competition across Gartner’s primary research markets.\nDatadog Named a Leade",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Datadog",
+      "label": "ORG",
+      "start": 2121,
+      "end": 2128,
+      "sentence": "Datadog Named a Leader in the 2025 Gartner Magic Quadrant for Observability Platforms\nPosted 1+ days ago\nAI Generated.",
+      "context": "tition across Gartner’s primary research markets.\nDatadog Named a Leader in the 2025 Gartner Magic Quadrant",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "2025",
+      "label": "DATE",
+      "start": 2151,
+      "end": 2155,
+      "sentence": "Datadog Named a Leader in the 2025 Gartner Magic Quadrant for Observability Platforms\nPosted 1+ days ago\nAI Generated.",
+      "context": "y research markets.\nDatadog Named a Leader in the 2025 Gartner Magic Quadrant for Observability Platform",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Gartner",
+      "label": "ORG",
+      "start": 2156,
+      "end": 2163,
+      "sentence": "Datadog Named a Leader in the 2025 Gartner Magic Quadrant for Observability Platforms\nPosted 1+ days ago\nAI Generated.",
+      "context": "earch markets.\nDatadog Named a Leader in the 2025 Gartner Magic Quadrant for Observability Platforms\nPosted",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "1+ days ago",
+      "label": "DATE",
+      "start": 2214,
+      "end": 2225,
+      "sentence": "Datadog Named a Leader in the 2025 Gartner Magic Quadrant for Observability Platforms\nPosted 1+ days ago\nAI Generated.",
+      "context": "Magic Quadrant for Observability Platforms\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    }
+  ],
+  "relationships": [
+    {
+      "type": "SVO",
+      "subject": "stock",
+      "verb": "seen",
+      "object": "drivers",
+      "sentence": "Gartner, Inc. (NYSE: IT) stock has seen mixed drivers in the last 24–36 hours.",
+      "importance": 9
+    },
+    {
+      "type": "SVO",
+      "subject": "forecast",
+      "verb": "underlines",
+      "object": "demand",
+      "sentence": "Positive Sentiment:\nGartner’s forecast that by 2028 one in four job candidates will be deepfake AI profiles underlines strong demand for its advisory services and research.",
+      "importance": 7
+    },
+    {
+      "type": "SVO",
+      "subject": "applicants",
+      "verb": "stealing",
+      "object": "work",
+      "sentence": "How deepfake AI job applicants are stealing remote work\nPositive Sentiment:",
+      "importance": 1
+    },
+    {
+      "type": "SVO",
+      "subject": "analysis",
+      "verb": "highlights",
+      "object": "role",
+      "sentence": "A bullish analysis highlights Gartner’s leading research role and attractive valuation metrics (trailing P/E 25.39, forward P/E 30.83) as potential catalysts for further upside.",
+      "importance": 4
+    },
+    {
+      "type": "SVO",
+      "subject": "consensus",
+      "verb": "remains",
+      "object": "Sentiment",
+      "sentence": "Analysts’ consensus remains at “Hold,” reflecting split views on Gartner’s near-term growth prospects.\nGartner, Inc. Receives Consensus Rating of \"Hold\"\nNeutral Sentiment:\nPreview articles suggest Gartner’s upcoming earnings may show moderate revenue growth and margin expansion.\nHere's What to Expect From Gartner's Next Earnings Report\nNegative Sentiment:",
+      "importance": 17
+    },
+    {
+      "type": "SVO",
+      "subject": "Inc.",
+      "verb": "Receives",
+      "object": "Rating",
+      "sentence": "Analysts’ consensus remains at “Hold,” reflecting split views on Gartner’s near-term growth prospects.\nGartner, Inc. Receives Consensus Rating of \"Hold\"\nNeutral Sentiment:\nPreview articles suggest Gartner’s upcoming earnings may show moderate revenue growth and margin expansion.\nHere's What to Expect From Gartner's Next Earnings Report\nNegative Sentiment:",
+      "importance": 17
+    },
+    {
+      "type": "SVO",
+      "subject": "earnings",
+      "verb": "show",
+      "object": "growth",
+      "sentence": "Analysts’ consensus remains at “Hold,” reflecting split views on Gartner’s near-term growth prospects.\nGartner, Inc. Receives Consensus Rating of \"Hold\"\nNeutral Sentiment:\nPreview articles suggest Gartner’s upcoming earnings may show moderate revenue growth and margin expansion.\nHere's What to Expect From Gartner's Next Earnings Report\nNegative Sentiment:",
+      "importance": 17
+    },
+    {
+      "type": "SVO",
+      "subject": "Chronosphere",
+      "verb": "secured",
+      "object": "status",
+      "sentence": "Chronosphere secured Leader status in the 2025 Magic Quadrant for Observability, underscoring growing competition for Gartner’s core observability research offerings.",
+      "importance": 4
+    },
+    {
+      "type": "SVO",
+      "subject": "Labs",
+      "verb": "earned",
+      "object": "status",
+      "sentence": "Grafana Labs earned Leader status in the 2025 Observability MQ, further raising the bar for Gartner’s market positioning.",
+      "importance": 5
+    },
+    {
+      "type": "SVO",
+      "subject": "Datadog",
+      "verb": "clinched",
+      "object": "spot",
+      "sentence": "Datadog also clinched a Leader spot in the 2025 Observability MQ, signaling robust competition across Gartner’s primary research markets.",
+      "importance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gartner",
+      "entity1_type": "ORG",
+      "entity2": ",",
+      "entity2_type": "ORG",
+      "sentence": "Gartner, Inc. (NYSE: IT) stock has seen mixed drivers in the last 24–36 hours.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gartner",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Gartner, Inc. (NYSE: IT) stock has seen mixed drivers in the last 24–36 hours.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gartner",
+      "entity1_type": "ORG",
+      "entity2": "IT",
+      "entity2_type": "ORG",
+      "sentence": "Gartner, Inc. (NYSE: IT) stock has seen mixed drivers in the last 24–36 hours.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gartner",
+      "entity1_type": "ORG",
+      "entity2": "the",
+      "entity2_type": "TIME",
+      "sentence": "Gartner, Inc. (NYSE: IT) stock has seen mixed drivers in the last 24–36 hours.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gartner",
+      "entity1_type": "ORG",
+      "entity2": "last",
+      "entity2_type": "TIME",
+      "sentence": "Gartner, Inc. (NYSE: IT) stock has seen mixed drivers in the last 24–36 hours.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gartner",
+      "entity1_type": "ORG",
+      "entity2": "24–36",
+      "entity2_type": "TIME",
+      "sentence": "Gartner, Inc. (NYSE: IT) stock has seen mixed drivers in the last 24–36 hours.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gartner",
+      "entity1_type": "ORG",
+      "entity2": "hours",
+      "entity2_type": "TIME",
+      "sentence": "Gartner, Inc. (NYSE: IT) stock has seen mixed drivers in the last 24–36 hours.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Gartner, Inc. (NYSE: IT) stock has seen mixed drivers in the last 24–36 hours.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "IT",
+      "entity2_type": "ORG",
+      "sentence": "Gartner, Inc. (NYSE: IT) stock has seen mixed drivers in the last 24–36 hours.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "the",
+      "entity2_type": "TIME",
+      "sentence": "Gartner, Inc. (NYSE: IT) stock has seen mixed drivers in the last 24–36 hours.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "last",
+      "entity2_type": "TIME",
+      "sentence": "Gartner, Inc. (NYSE: IT) stock has seen mixed drivers in the last 24–36 hours.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "24–36",
+      "entity2_type": "TIME",
+      "sentence": "Gartner, Inc. (NYSE: IT) stock has seen mixed drivers in the last 24–36 hours.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "hours",
+      "entity2_type": "TIME",
+      "sentence": "Gartner, Inc. (NYSE: IT) stock has seen mixed drivers in the last 24–36 hours.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "IT",
+      "entity2_type": "ORG",
+      "sentence": "Gartner, Inc. (NYSE: IT) stock has seen mixed drivers in the last 24–36 hours.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "the",
+      "entity2_type": "TIME",
+      "sentence": "Gartner, Inc. (NYSE: IT) stock has seen mixed drivers in the last 24–36 hours.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "last",
+      "entity2_type": "TIME",
+      "sentence": "Gartner, Inc. (NYSE: IT) stock has seen mixed drivers in the last 24–36 hours.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "24–36",
+      "entity2_type": "TIME",
+      "sentence": "Gartner, Inc. (NYSE: IT) stock has seen mixed drivers in the last 24–36 hours.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "hours",
+      "entity2_type": "TIME",
+      "sentence": "Gartner, Inc. (NYSE: IT) stock has seen mixed drivers in the last 24–36 hours.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "IT",
+      "entity1_type": "ORG",
+      "entity2": "the",
+      "entity2_type": "TIME",
+      "sentence": "Gartner, Inc. (NYSE: IT) stock has seen mixed drivers in the last 24–36 hours.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "IT",
+      "entity1_type": "ORG",
+      "entity2": "last",
+      "entity2_type": "TIME",
+      "sentence": "Gartner, Inc. (NYSE: IT) stock has seen mixed drivers in the last 24–36 hours.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "IT",
+      "entity1_type": "ORG",
+      "entity2": "24–36",
+      "entity2_type": "TIME",
+      "sentence": "Gartner, Inc. (NYSE: IT) stock has seen mixed drivers in the last 24–36 hours.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "IT",
+      "entity1_type": "ORG",
+      "entity2": "hours",
+      "entity2_type": "TIME",
+      "sentence": "Gartner, Inc. (NYSE: IT) stock has seen mixed drivers in the last 24–36 hours.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "TIME",
+      "entity2": "last",
+      "entity2_type": "TIME",
+      "sentence": "Gartner, Inc. (NYSE: IT) stock has seen mixed drivers in the last 24–36 hours.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "TIME",
+      "entity2": "24–36",
+      "entity2_type": "TIME",
+      "sentence": "Gartner, Inc. (NYSE: IT) stock has seen mixed drivers in the last 24–36 hours.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "TIME",
+      "entity2": "hours",
+      "entity2_type": "TIME",
+      "sentence": "Gartner, Inc. (NYSE: IT) stock has seen mixed drivers in the last 24–36 hours.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "last",
+      "entity1_type": "TIME",
+      "entity2": "24–36",
+      "entity2_type": "TIME",
+      "sentence": "Gartner, Inc. (NYSE: IT) stock has seen mixed drivers in the last 24–36 hours.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "last",
+      "entity1_type": "TIME",
+      "entity2": "hours",
+      "entity2_type": "TIME",
+      "sentence": "Gartner, Inc. (NYSE: IT) stock has seen mixed drivers in the last 24–36 hours.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "24–36",
+      "entity1_type": "TIME",
+      "entity2": "hours",
+      "entity2_type": "TIME",
+      "sentence": "Gartner, Inc. (NYSE: IT) stock has seen mixed drivers in the last 24–36 hours.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gartner",
+      "entity1_type": "ORG",
+      "entity2": "2028",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nGartner’s forecast that by 2028 one in four job candidates will be deepfake AI profiles underlines strong demand for its advisory services and research.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gartner",
+      "entity1_type": "ORG",
+      "entity2": "one",
+      "entity2_type": "CARDINAL",
+      "sentence": "Positive Sentiment:\nGartner’s forecast that by 2028 one in four job candidates will be deepfake AI profiles underlines strong demand for its advisory services and research.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gartner",
+      "entity1_type": "ORG",
+      "entity2": "four",
+      "entity2_type": "CARDINAL",
+      "sentence": "Positive Sentiment:\nGartner’s forecast that by 2028 one in four job candidates will be deepfake AI profiles underlines strong demand for its advisory services and research.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2028",
+      "entity1_type": "DATE",
+      "entity2": "one",
+      "entity2_type": "CARDINAL",
+      "sentence": "Positive Sentiment:\nGartner’s forecast that by 2028 one in four job candidates will be deepfake AI profiles underlines strong demand for its advisory services and research.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2028",
+      "entity1_type": "DATE",
+      "entity2": "four",
+      "entity2_type": "CARDINAL",
+      "sentence": "Positive Sentiment:\nGartner’s forecast that by 2028 one in four job candidates will be deepfake AI profiles underlines strong demand for its advisory services and research.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "one",
+      "entity1_type": "CARDINAL",
+      "entity2": "four",
+      "entity2_type": "CARDINAL",
+      "sentence": "Positive Sentiment:\nGartner’s forecast that by 2028 one in four job candidates will be deepfake AI profiles underlines strong demand for its advisory services and research.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gartner",
+      "entity1_type": "ORG",
+      "entity2": "25.39",
+      "entity2_type": "CARDINAL",
+      "sentence": "A bullish analysis highlights Gartner’s leading research role and attractive valuation metrics (trailing P/E 25.39, forward P/E 30.83) as potential catalysts for further upside.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gartner",
+      "entity1_type": "ORG",
+      "entity2": "30.83",
+      "entity2_type": "CARDINAL",
+      "sentence": "A bullish analysis highlights Gartner’s leading research role and attractive valuation metrics (trailing P/E 25.39, forward P/E 30.83) as potential catalysts for further upside.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "25.39",
+      "entity1_type": "CARDINAL",
+      "entity2": "30.83",
+      "entity2_type": "CARDINAL",
+      "sentence": "A bullish analysis highlights Gartner’s leading research role and attractive valuation metrics (trailing P/E 25.39, forward P/E 30.83) as potential catalysts for further upside.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gartner",
+      "entity1_type": "ORG",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Analysts’ consensus remains at “Hold,” reflecting split views on Gartner’s near-term growth prospects.\nGartner, Inc. Receives Consensus Rating of \"Hold\"\nNeutral Sentiment:\nPreview articles suggest Gartner’s upcoming earnings may show moderate revenue growth and margin expansion.\nHere's What to Expect From Gartner's Next Earnings Report\nNegative Sentiment:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gartner",
+      "entity1_type": "ORG",
+      "entity2": ",",
+      "entity2_type": "ORG",
+      "sentence": "Analysts’ consensus remains at “Hold,” reflecting split views on Gartner’s near-term growth prospects.\nGartner, Inc. Receives Consensus Rating of \"Hold\"\nNeutral Sentiment:\nPreview articles suggest Gartner’s upcoming earnings may show moderate revenue growth and margin expansion.\nHere's What to Expect From Gartner's Next Earnings Report\nNegative Sentiment:",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gartner",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Analysts’ consensus remains at “Hold,” reflecting split views on Gartner’s near-term growth prospects.\nGartner, Inc. Receives Consensus Rating of \"Hold\"\nNeutral Sentiment:\nPreview articles suggest Gartner’s upcoming earnings may show moderate revenue growth and margin expansion.\nHere's What to Expect From Gartner's Next Earnings Report\nNegative Sentiment:",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gartner",
+      "entity1_type": "ORG",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Analysts’ consensus remains at “Hold,” reflecting split views on Gartner’s near-term growth prospects.\nGartner, Inc. Receives Consensus Rating of \"Hold\"\nNeutral Sentiment:\nPreview articles suggest Gartner’s upcoming earnings may show moderate revenue growth and margin expansion.\nHere's What to Expect From Gartner's Next Earnings Report\nNegative Sentiment:",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gartner",
+      "entity1_type": "ORG",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Analysts’ consensus remains at “Hold,” reflecting split views on Gartner’s near-term growth prospects.\nGartner, Inc. Receives Consensus Rating of \"Hold\"\nNeutral Sentiment:\nPreview articles suggest Gartner’s upcoming earnings may show moderate revenue growth and margin expansion.\nHere's What to Expect From Gartner's Next Earnings Report\nNegative Sentiment:",
+      "distance": 47
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gartner",
+      "entity1_type": "ORG",
+      "entity2": ",",
+      "entity2_type": "ORG",
+      "sentence": "Analysts’ consensus remains at “Hold,” reflecting split views on Gartner’s near-term growth prospects.\nGartner, Inc. Receives Consensus Rating of \"Hold\"\nNeutral Sentiment:\nPreview articles suggest Gartner’s upcoming earnings may show moderate revenue growth and margin expansion.\nHere's What to Expect From Gartner's Next Earnings Report\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gartner",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Analysts’ consensus remains at “Hold,” reflecting split views on Gartner’s near-term growth prospects.\nGartner, Inc. Receives Consensus Rating of \"Hold\"\nNeutral Sentiment:\nPreview articles suggest Gartner’s upcoming earnings may show moderate revenue growth and margin expansion.\nHere's What to Expect From Gartner's Next Earnings Report\nNegative Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gartner",
+      "entity1_type": "ORG",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Analysts’ consensus remains at “Hold,” reflecting split views on Gartner’s near-term growth prospects.\nGartner, Inc. Receives Consensus Rating of \"Hold\"\nNeutral Sentiment:\nPreview articles suggest Gartner’s upcoming earnings may show moderate revenue growth and margin expansion.\nHere's What to Expect From Gartner's Next Earnings Report\nNegative Sentiment:",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gartner",
+      "entity1_type": "ORG",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Analysts’ consensus remains at “Hold,” reflecting split views on Gartner’s near-term growth prospects.\nGartner, Inc. Receives Consensus Rating of \"Hold\"\nNeutral Sentiment:\nPreview articles suggest Gartner’s upcoming earnings may show moderate revenue growth and margin expansion.\nHere's What to Expect From Gartner's Next Earnings Report\nNegative Sentiment:",
+      "distance": 38
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Analysts’ consensus remains at “Hold,” reflecting split views on Gartner’s near-term growth prospects.\nGartner, Inc. Receives Consensus Rating of \"Hold\"\nNeutral Sentiment:\nPreview articles suggest Gartner’s upcoming earnings may show moderate revenue growth and margin expansion.\nHere's What to Expect From Gartner's Next Earnings Report\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Analysts’ consensus remains at “Hold,” reflecting split views on Gartner’s near-term growth prospects.\nGartner, Inc. Receives Consensus Rating of \"Hold\"\nNeutral Sentiment:\nPreview articles suggest Gartner’s upcoming earnings may show moderate revenue growth and margin expansion.\nHere's What to Expect From Gartner's Next Earnings Report\nNegative Sentiment:",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Analysts’ consensus remains at “Hold,” reflecting split views on Gartner’s near-term growth prospects.\nGartner, Inc. Receives Consensus Rating of \"Hold\"\nNeutral Sentiment:\nPreview articles suggest Gartner’s upcoming earnings may show moderate revenue growth and margin expansion.\nHere's What to Expect From Gartner's Next Earnings Report\nNegative Sentiment:",
+      "distance": 37
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Analysts’ consensus remains at “Hold,” reflecting split views on Gartner’s near-term growth prospects.\nGartner, Inc. Receives Consensus Rating of \"Hold\"\nNeutral Sentiment:\nPreview articles suggest Gartner’s upcoming earnings may show moderate revenue growth and margin expansion.\nHere's What to Expect From Gartner's Next Earnings Report\nNegative Sentiment:",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Analysts’ consensus remains at “Hold,” reflecting split views on Gartner’s near-term growth prospects.\nGartner, Inc. Receives Consensus Rating of \"Hold\"\nNeutral Sentiment:\nPreview articles suggest Gartner’s upcoming earnings may show moderate revenue growth and margin expansion.\nHere's What to Expect From Gartner's Next Earnings Report\nNegative Sentiment:",
+      "distance": 36
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gartner",
+      "entity1_type": "ORG",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Analysts’ consensus remains at “Hold,” reflecting split views on Gartner’s near-term growth prospects.\nGartner, Inc. Receives Consensus Rating of \"Hold\"\nNeutral Sentiment:\nPreview articles suggest Gartner’s upcoming earnings may show moderate revenue growth and margin expansion.\nHere's What to Expect From Gartner's Next Earnings Report\nNegative Sentiment:",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cato",
+      "entity1_type": "ORG",
+      "entity2": "Networks",
+      "entity2_type": "ORG",
+      "sentence": "Competing SASE vendor Cato Networks was again named a Leader in the 2025 Gartner Magic Quadrant for SASE Platforms, highlighting intensifying competition in Gartner’s research segments.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cato",
+      "entity1_type": "ORG",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Competing SASE vendor Cato Networks was again named a Leader in the 2025 Gartner Magic Quadrant for SASE Platforms, highlighting intensifying competition in Gartner’s research segments.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cato",
+      "entity1_type": "ORG",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Competing SASE vendor Cato Networks was again named a Leader in the 2025 Gartner Magic Quadrant for SASE Platforms, highlighting intensifying competition in Gartner’s research segments.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cato",
+      "entity1_type": "ORG",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Competing SASE vendor Cato Networks was again named a Leader in the 2025 Gartner Magic Quadrant for SASE Platforms, highlighting intensifying competition in Gartner’s research segments.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Networks",
+      "entity1_type": "ORG",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Competing SASE vendor Cato Networks was again named a Leader in the 2025 Gartner Magic Quadrant for SASE Platforms, highlighting intensifying competition in Gartner’s research segments.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Networks",
+      "entity1_type": "ORG",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Competing SASE vendor Cato Networks was again named a Leader in the 2025 Gartner Magic Quadrant for SASE Platforms, highlighting intensifying competition in Gartner’s research segments.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Networks",
+      "entity1_type": "ORG",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Competing SASE vendor Cato Networks was again named a Leader in the 2025 Gartner Magic Quadrant for SASE Platforms, highlighting intensifying competition in Gartner’s research segments.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Competing SASE vendor Cato Networks was again named a Leader in the 2025 Gartner Magic Quadrant for SASE Platforms, highlighting intensifying competition in Gartner’s research segments.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Competing SASE vendor Cato Networks was again named a Leader in the 2025 Gartner Magic Quadrant for SASE Platforms, highlighting intensifying competition in Gartner’s research segments.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gartner",
+      "entity1_type": "ORG",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Competing SASE vendor Cato Networks was again named a Leader in the 2025 Gartner Magic Quadrant for SASE Platforms, highlighting intensifying competition in Gartner’s research segments.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cato",
+      "entity1_type": "ORG",
+      "entity2": "Networks",
+      "entity2_type": "ORG",
+      "sentence": "Cato Networks Named a Leader in 2025 Gartner Magic Quadrant for SASE\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cato",
+      "entity1_type": "ORG",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Cato Networks Named a Leader in 2025 Gartner Magic Quadrant for SASE\nNegative Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cato",
+      "entity1_type": "ORG",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Cato Networks Named a Leader in 2025 Gartner Magic Quadrant for SASE\nNegative Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Networks",
+      "entity1_type": "ORG",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Cato Networks Named a Leader in 2025 Gartner Magic Quadrant for SASE\nNegative Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Networks",
+      "entity1_type": "ORG",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Cato Networks Named a Leader in 2025 Gartner Magic Quadrant for SASE\nNegative Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Cato Networks Named a Leader in 2025 Gartner Magic Quadrant for SASE\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Chronosphere",
+      "entity1_type": "ORG",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Chronosphere secured Leader status in the 2025 Magic Quadrant for Observability, underscoring growing competition for Gartner’s core observability research offerings.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Chronosphere",
+      "entity1_type": "ORG",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Chronosphere secured Leader status in the 2025 Magic Quadrant for Observability, underscoring growing competition for Gartner’s core observability research offerings.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Chronosphere secured Leader status in the 2025 Magic Quadrant for Observability, underscoring growing competition for Gartner’s core observability research offerings.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Chronosphere",
+      "entity1_type": "ORG",
+      "entity2": "Second",
+      "entity2_type": "ORDINAL",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Chronosphere",
+      "entity1_type": "ORG",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Chronosphere",
+      "entity1_type": "ORG",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Chronosphere",
+      "entity1_type": "ORG",
+      "entity2": "New",
+      "entity2_type": "ORG",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Chronosphere",
+      "entity1_type": "ORG",
+      "entity2": "Relic",
+      "entity2_type": "ORG",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Chronosphere",
+      "entity1_type": "ORG",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Chronosphere",
+      "entity1_type": "ORG",
+      "entity2": "the",
+      "entity2_type": "DATE",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 33
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Chronosphere",
+      "entity1_type": "ORG",
+      "entity2": "13th",
+      "entity2_type": "DATE",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 34
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Chronosphere",
+      "entity1_type": "ORG",
+      "entity2": "consecutive",
+      "entity2_type": "DATE",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 35
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Chronosphere",
+      "entity1_type": "ORG",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 36
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Chronosphere",
+      "entity1_type": "ORG",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 41
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Second",
+      "entity1_type": "ORDINAL",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Second",
+      "entity1_type": "ORDINAL",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Second",
+      "entity1_type": "ORDINAL",
+      "entity2": "New",
+      "entity2_type": "ORG",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Second",
+      "entity1_type": "ORDINAL",
+      "entity2": "Relic",
+      "entity2_type": "ORG",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Second",
+      "entity1_type": "ORDINAL",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Second",
+      "entity1_type": "ORDINAL",
+      "entity2": "the",
+      "entity2_type": "DATE",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Second",
+      "entity1_type": "ORDINAL",
+      "entity2": "13th",
+      "entity2_type": "DATE",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Second",
+      "entity1_type": "ORDINAL",
+      "entity2": "consecutive",
+      "entity2_type": "DATE",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Second",
+      "entity1_type": "ORDINAL",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Second",
+      "entity1_type": "ORDINAL",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 36
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "New",
+      "entity2_type": "ORG",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "Relic",
+      "entity2_type": "ORG",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "the",
+      "entity2_type": "DATE",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "13th",
+      "entity2_type": "DATE",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "consecutive",
+      "entity2_type": "DATE",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gartner",
+      "entity1_type": "ORG",
+      "entity2": "New",
+      "entity2_type": "ORG",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gartner",
+      "entity1_type": "ORG",
+      "entity2": "Relic",
+      "entity2_type": "ORG",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gartner",
+      "entity1_type": "ORG",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gartner",
+      "entity1_type": "ORG",
+      "entity2": "the",
+      "entity2_type": "DATE",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gartner",
+      "entity1_type": "ORG",
+      "entity2": "13th",
+      "entity2_type": "DATE",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gartner",
+      "entity1_type": "ORG",
+      "entity2": "consecutive",
+      "entity2_type": "DATE",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gartner",
+      "entity1_type": "ORG",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gartner",
+      "entity1_type": "ORG",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "New",
+      "entity1_type": "ORG",
+      "entity2": "Relic",
+      "entity2_type": "ORG",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "New",
+      "entity1_type": "ORG",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "New",
+      "entity1_type": "ORG",
+      "entity2": "the",
+      "entity2_type": "DATE",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "New",
+      "entity1_type": "ORG",
+      "entity2": "13th",
+      "entity2_type": "DATE",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "New",
+      "entity1_type": "ORG",
+      "entity2": "consecutive",
+      "entity2_type": "DATE",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "New",
+      "entity1_type": "ORG",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "New",
+      "entity1_type": "ORG",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Relic",
+      "entity1_type": "ORG",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Relic",
+      "entity1_type": "ORG",
+      "entity2": "the",
+      "entity2_type": "DATE",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Relic",
+      "entity1_type": "ORG",
+      "entity2": "13th",
+      "entity2_type": "DATE",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Relic",
+      "entity1_type": "ORG",
+      "entity2": "consecutive",
+      "entity2_type": "DATE",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Relic",
+      "entity1_type": "ORG",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Relic",
+      "entity1_type": "ORG",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "the",
+      "entity2_type": "DATE",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "13th",
+      "entity2_type": "DATE",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "consecutive",
+      "entity2_type": "DATE",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "13th",
+      "entity2_type": "DATE",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "consecutive",
+      "entity2_type": "DATE",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "13th",
+      "entity1_type": "DATE",
+      "entity2": "consecutive",
+      "entity2_type": "DATE",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "13th",
+      "entity1_type": "DATE",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "13th",
+      "entity1_type": "DATE",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "consecutive",
+      "entity1_type": "DATE",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "consecutive",
+      "entity1_type": "DATE",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "year",
+      "entity1_type": "DATE",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "New",
+      "entity1_type": "ORG",
+      "entity2": "Relic",
+      "entity2_type": "ORG",
+      "sentence": "New Relic Named a Leader in 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "New",
+      "entity1_type": "ORG",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "New Relic Named a Leader in 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "New",
+      "entity1_type": "ORG",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "New Relic Named a Leader in 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Relic",
+      "entity1_type": "ORG",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "New Relic Named a Leader in 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Relic",
+      "entity1_type": "ORG",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "New Relic Named a Leader in 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "New Relic Named a Leader in 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Grafana",
+      "entity1_type": "ORG",
+      "entity2": "Labs",
+      "entity2_type": "ORG",
+      "sentence": "Grafana Labs earned Leader status in the 2025 Observability MQ, further raising the bar for Gartner’s market positioning.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Grafana",
+      "entity1_type": "ORG",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Grafana Labs earned Leader status in the 2025 Observability MQ, further raising the bar for Gartner’s market positioning.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Grafana",
+      "entity1_type": "ORG",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Grafana Labs earned Leader status in the 2025 Observability MQ, further raising the bar for Gartner’s market positioning.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Labs",
+      "entity1_type": "ORG",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Grafana Labs earned Leader status in the 2025 Observability MQ, further raising the bar for Gartner’s market positioning.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Labs",
+      "entity1_type": "ORG",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Grafana Labs earned Leader status in the 2025 Observability MQ, further raising the bar for Gartner’s market positioning.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Grafana Labs earned Leader status in the 2025 Observability MQ, further raising the bar for Gartner’s market positioning.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Grafana",
+      "entity1_type": "ORG",
+      "entity2": "Labs",
+      "entity2_type": "ORG",
+      "sentence": "Grafana Labs Named a Leader in 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Grafana",
+      "entity1_type": "ORG",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Grafana Labs Named a Leader in 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Grafana",
+      "entity1_type": "ORG",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Grafana Labs Named a Leader in 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Labs",
+      "entity1_type": "ORG",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Grafana Labs Named a Leader in 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Labs",
+      "entity1_type": "ORG",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Grafana Labs Named a Leader in 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Grafana Labs Named a Leader in 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Datadog",
+      "entity1_type": "ORG",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Datadog also clinched a Leader spot in the 2025 Observability MQ, signaling robust competition across Gartner’s primary research markets.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Datadog",
+      "entity1_type": "ORG",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Datadog also clinched a Leader spot in the 2025 Observability MQ, signaling robust competition across Gartner’s primary research markets.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Datadog also clinched a Leader spot in the 2025 Observability MQ, signaling robust competition across Gartner’s primary research markets.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Datadog",
+      "entity1_type": "ORG",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Datadog Named a Leader in the 2025 Gartner Magic Quadrant for Observability Platforms\nPosted 1+ days ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Datadog",
+      "entity1_type": "ORG",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Datadog Named a Leader in the 2025 Gartner Magic Quadrant for Observability Platforms\nPosted 1+ days ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Datadog",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Datadog Named a Leader in the 2025 Gartner Magic Quadrant for Observability Platforms\nPosted 1+ days ago\nAI Generated.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Datadog",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Datadog Named a Leader in the 2025 Gartner Magic Quadrant for Observability Platforms\nPosted 1+ days ago\nAI Generated.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Datadog",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Datadog Named a Leader in the 2025 Gartner Magic Quadrant for Observability Platforms\nPosted 1+ days ago\nAI Generated.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Datadog",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Datadog Named a Leader in the 2025 Gartner Magic Quadrant for Observability Platforms\nPosted 1+ days ago\nAI Generated.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "Gartner",
+      "entity2_type": "ORG",
+      "sentence": "Datadog Named a Leader in the 2025 Gartner Magic Quadrant for Observability Platforms\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Datadog Named a Leader in the 2025 Gartner Magic Quadrant for Observability Platforms\nPosted 1+ days ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Datadog Named a Leader in the 2025 Gartner Magic Quadrant for Observability Platforms\nPosted 1+ days ago\nAI Generated.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Datadog Named a Leader in the 2025 Gartner Magic Quadrant for Observability Platforms\nPosted 1+ days ago\nAI Generated.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Datadog Named a Leader in the 2025 Gartner Magic Quadrant for Observability Platforms\nPosted 1+ days ago\nAI Generated.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gartner",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Datadog Named a Leader in the 2025 Gartner Magic Quadrant for Observability Platforms\nPosted 1+ days ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gartner",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Datadog Named a Leader in the 2025 Gartner Magic Quadrant for Observability Platforms\nPosted 1+ days ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gartner",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Datadog Named a Leader in the 2025 Gartner Magic Quadrant for Observability Platforms\nPosted 1+ days ago\nAI Generated.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gartner",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Datadog Named a Leader in the 2025 Gartner Magic Quadrant for Observability Platforms\nPosted 1+ days ago\nAI Generated.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Datadog Named a Leader in the 2025 Gartner Magic Quadrant for Observability Platforms\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Datadog Named a Leader in the 2025 Gartner Magic Quadrant for Observability Platforms\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Datadog Named a Leader in the 2025 Gartner Magic Quadrant for Observability Platforms\nPosted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Datadog Named a Leader in the 2025 Gartner Magic Quadrant for Observability Platforms\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Datadog Named a Leader in the 2025 Gartner Magic Quadrant for Observability Platforms\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Datadog Named a Leader in the 2025 Gartner Magic Quadrant for Observability Platforms\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "mixed drivers",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the last 24–36 hours",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Key highlights",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Gartner’s forecast",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "one in four job candidates",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "deepfake AI profiles",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "strong demand",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its advisory services",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "deepfake AI job applicants",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "remote work",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "A bullish analysis",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Gartner’s leading research role",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "attractive valuation metrics",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "forward P/E",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "potential catalysts",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "further upside",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "A Bull Case Theory",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Analysts’ consensus",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "split views",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Gartner’s near-term growth prospects",
+      "type": "noun_chunk",
+      "category": "trend"
+    },
+    {
+      "text": "Gartner, Inc.",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Consensus Rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Preview articles",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Gartner’s upcoming earnings",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "moderate revenue growth",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "margin expansion",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Gartner's Next Earnings Report",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Competing SASE vendor Cato Networks",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a Leader",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the 2025 Gartner Magic Quadrant",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "SASE Platforms",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "intensifying competition",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Gartner’s research segments",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Cato Networks",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a Leader",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "2025 Gartner Magic Quadrant",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Leader status",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the 2025 Magic Quadrant",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "growing competition",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Gartner’s core observability research offerings",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a Leader",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Second Consecutive Year",
+      "type": "noun_chunk",
+      "category": "temporal"
+    },
+    {
+      "text": "the 2025 Gartner Magic Quadrant",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "New Relic",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a Leader",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the 2025 Observability MQ",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the 13th consecutive year",
+      "type": "noun_chunk",
+      "category": "temporal"
+    },
+    {
+      "text": "Gartner’s research franchises",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "New Relic",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a Leader",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "2025 Gartner Magic Quadrant",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Grafana Labs",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Leader status",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the 2025 Observability MQ",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the bar",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Gartner’s market positioning",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Grafana Labs",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a Leader",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "2025 Gartner Magic Quadrant",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a Leader spot",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the 2025 Observability MQ",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "robust competition",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Gartner’s primary research markets",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "a Leader",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the 2025 Gartner Magic Quadrant",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Observability Platforms",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "growth",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "revenue",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "growth",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "market",
+      "type": "pattern",
+      "category": "market_term"
+    }
+  ],
+  "important_sentences": [
+    {
+      "text": "Analysts’ consensus remains at “Hold,” reflecting split views on Gartner’s near-term growth prospects.\nGartner, Inc. Receives Consensus Rating of \"Hold\"\nNeutral Sentiment:\nPreview articles suggest Gartner’s upcoming earnings may show moderate revenue growth and margin expansion.\nHere's What to Expect From Gartner's Next Earnings Report\nNegative Sentiment:",
+      "importance_score": 61,
+      "entity_count": 6,
+      "financial_keyword_count": 11,
+      "money_count": 0,
+      "company_count": 4,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Chronosphere Named a Leader for Second Consecutive Year in the 2025 Gartner Magic Quadrant for Observability\nNegative Sentiment:\nNew Relic was named a Leader in the 2025 Observability MQ for the 13th consecutive year, intensifying pressure on Gartner’s research franchises.",
+      "importance_score": 40,
+      "entity_count": 12,
+      "financial_keyword_count": 0,
+      "money_count": 0,
+      "company_count": 4,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Gartner, Inc. (NYSE: IT) stock has seen mixed drivers in the last 24–36 hours.",
+      "importance_score": 27,
+      "entity_count": 8,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Competing SASE vendor Cato Networks was again named a Leader in the 2025 Gartner Magic Quadrant for SASE Platforms, highlighting intensifying competition in Gartner’s research segments.",
+      "importance_score": 25,
+      "entity_count": 5,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Datadog Named a Leader in the 2025 Gartner Magic Quadrant for Observability Platforms\nPosted 1+ days ago\nAI Generated.",
+      "importance_score": 25,
+      "entity_count": 7,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Positive Sentiment:\nGartner’s forecast that by 2028 one in four job candidates will be deepfake AI profiles underlines strong demand for its advisory services and research.",
+      "importance_score": 21,
+      "entity_count": 4,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Grafana Labs earned Leader status in the 2025 Observability MQ, further raising the bar for Gartner’s market positioning.",
+      "importance_score": 19,
+      "entity_count": 4,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Chronosphere secured Leader status in the 2025 Magic Quadrant for Observability, underscoring growing competition for Gartner’s core observability research offerings.",
+      "importance_score": 17,
+      "entity_count": 3,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Datadog also clinched a Leader spot in the 2025 Observability MQ, signaling robust competition across Gartner’s primary research markets.",
+      "importance_score": 17,
+      "entity_count": 3,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Cato Networks Named a Leader in 2025 Gartner Magic Quadrant for SASE\nNegative Sentiment:",
+      "importance_score": 16,
+      "entity_count": 4,
+      "financial_keyword_count": 0,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "negative"
+    }
+  ],
+  "entity_statistics": {
+    "total_entities": 49,
+    "unique_entities": 18,
+    "type_counts": {
+      "ORG": 30,
+      "TIME": 1,
+      "DATE": 13,
+      "CARDINAL": 4,
+      "ORDINAL": 1
+    },
+    "type_distribution": {
+      "ORG": 0.6122448979591837,
+      "TIME": 0.02040816326530612,
+      "DATE": 0.2653061224489796,
+      "CARDINAL": 0.08163265306122448,
+      "ORDINAL": 0.02040816326530612
+    },
+    "most_common_entities": [
+      [
+        "Gartner",
+        17
+      ],
+      [
+        "2025",
+        10
+      ],
+      [
+        "Gartner, Inc.",
+        2
+      ],
+      [
+        "Cato Networks",
+        2
+      ],
+      [
+        "Chronosphere",
+        2
+      ],
+      [
+        "New Relic",
+        2
+      ],
+      [
+        "Grafana Labs",
+        2
+      ],
+      [
+        "Datadog",
+        2
+      ],
+      [
+        "IT",
+        1
+      ],
+      [
+        "the last 24–36 hours",
+        1
+      ]
+    ],
+    "entity_types_found": [
+      "ORG",
+      "TIME",
+      "DATE",
+      "CARDINAL",
+      "ORDINAL"
+    ],
+    "company_entities": 32,
+    "person_entities": 0,
+    "financial_entities": 0,
+    "entity_density": 0.15960912052117263
+  },
+  "financial_analysis": {
+    "money_amounts": [],
+    "percentages": [],
+    "companies": [
+      "Gartner, Inc.",
+      "IT",
+      "Gartner",
+      "Gartner",
+      "Gartner",
+      "Gartner",
+      "Gartner, Inc.",
+      "Gartner",
+      "Gartner",
+      "Cato Networks",
+      "Gartner",
+      "Gartner",
+      "Cato Networks",
+      "Gartner",
+      "Chronosphere",
+      "Gartner",
+      "Chronosphere",
+      "Gartner",
+      "New Relic",
+      "Gartner",
+      "New Relic",
+      "Gartner",
+      "Grafana Labs",
+      "Gartner",
+      "Grafana Labs",
+      "Gartner",
+      "Datadog",
+      "Gartner",
+      "Datadog",
+      "Gartner"
+    ],
+    "people": [],
+    "dates": [
+      "2028",
+      "2025",
+      "2025",
+      "2025",
+      "2025",
+      "2025",
+      "the 13th consecutive year",
+      "2025",
+      "2025",
+      "2025",
+      "2025",
+      "2025",
+      "1+ days ago"
+    ],
+    "financial_terms": [
+      "Earnings",
+      "earnings",
+      "growth",
+      "market",
+      "revenue",
+      "stock"
+    ],
+    "financial_metrics": [],
+    "market_indicators": [
+      "Bull",
+      "Rating"
+    ]
+  },
+  "temporal_analysis": {
+    "dates": [
+      "2028",
+      "2025",
+      "2025",
+      "2025",
+      "2025",
+      "2025",
+      "the 13th consecutive year",
+      "2025",
+      "2025",
+      "2025",
+      "2025",
+      "2025",
+      "1+ days ago"
+    ],
+    "time_expressions": [
+      "the last 24–36 hours"
+    ],
+    "temporal_relationships": [
+      "upcoming",
+      "Next",
+      "last"
+    ],
+    "quarters": [],
+    "years": [
+      "2028",
+      "2025",
+      "2025",
+      "2025",
+      "2025",
+      "2025",
+      "2025",
+      "2025",
+      "2025",
+      "2025",
+      "2025"
+    ],
+    "time_periods": []
+  },
+  "sentiment_analysis": {
+    "positive_words": 6,
+    "negative_words": 5,
+    "positive_ratio": 0.019543973941368076,
+    "negative_ratio": 0.016286644951140065,
+    "sentiment_score": 0.003257328990228011,
+    "sentiment_label": "neutral",
+    "sentiment_strength": 0.003257328990228011,
+    "confidence": 0.03257328990228011
+  },
+  "industry_analysis": {
+    "dominant_industry": "tech",
+    "industry_scores": {
+      "tech": 3,
+      "finance": 0,
+      "healthcare": 0,
+      "energy": 0,
+      "retail": 0,
+      "automotive": 0,
+      "media": 0,
+      "industrial": 0,
+      "real_estate": 0,
+      "telecom": 0,
+      "food_beverage": 0,
+      "travel": 0,
+      "education": 0,
+      "professional": 1,
+      "mining": 0,
+      "aerospace": 0,
+      "environmental": 0,
+      "cannabis": 0
+    },
+    "confidence": 0.75
+  },
+  "market_analysis": {
+    "market_sentiment": "bullish",
+    "bullish_indicators": 2,
+    "bearish_indicators": 0,
+    "market_conditions": {
+      "volatility": "normal",
+      "volume": "normal",
+      "trend": "bullish"
+    },
+    "trading_activity": "normal"
+  },
+  "competitor_analysis": {
+    "companies_mentioned": [
+      "Gartner, Inc.",
+      "IT",
+      "Gartner",
+      "Gartner",
+      "Gartner",
+      "Gartner",
+      "Gartner, Inc.",
+      "Gartner",
+      "Gartner",
+      "Cato Networks",
+      "Gartner",
+      "Gartner",
+      "Cato Networks",
+      "Gartner",
+      "Chronosphere",
+      "Gartner",
+      "Chronosphere",
+      "Gartner",
+      "New Relic",
+      "Gartner",
+      "New Relic",
+      "Gartner",
+      "Grafana Labs",
+      "Gartner",
+      "Grafana Labs",
+      "Gartner",
+      "Datadog",
+      "Gartner",
+      "Datadog",
+      "Gartner"
+    ],
+    "competitive_context": [
+      "Competing SASE vendor Cato Networks was again named a Leader in the 2025 Gartner Magic Quadrant for SASE Platforms, highlighting intensifying competition in Gartner’s research segments.",
+      "Chronosphere secured Leader status in the 2025 Magic Quadrant for Observability, underscoring growing competition for Gartner’s core observability research offerings.",
+      "Datadog also clinched a Leader spot in the 2025 Observability MQ, signaling robust competition across Gartner’s primary research markets."
+    ],
+    "competitor_count": 30,
+    "has_competitive_language": true
+  },
+  "risk_analysis": {
+    "risk_sentences": [],
+    "risk_count": 0,
+    "risk_level": "low"
+  },
+  "opportunity_analysis": {
+    "opportunity_sentences": [
+      "A bullish analysis highlights Gartner’s leading research role and attractive valuation metrics (trailing P/E 25.39, forward P/E 30.83) as potential catalysts for further upside.",
+      "Analysts’ consensus remains at “Hold,” reflecting split views on Gartner’s near-term growth prospects.\nGartner, Inc. Receives Consensus Rating of \"Hold\"\nNeutral Sentiment:\nPreview articles suggest Gartner’s upcoming earnings may show moderate revenue growth and margin expansion.\nHere's What to Expect From Gartner's Next Earnings Report\nNegative Sentiment:"
+    ],
+    "opportunity_count": 2,
+    "opportunity_level": "medium"
+  },
+  "processing_metadata": {
+    "timestamp": "2025-07-13T06:22:48.133733",
+    "model_used": "en_core_web_trf",
+    "text_length": 2259
+  }
+}
