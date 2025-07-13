@@ -1,0 +1,3650 @@
+{
+  "ticker": "ETR",
+  "entities": [
+    {
+      "text": "Entergy Corporation",
+      "label": "ORG",
+      "start": 0,
+      "end": 19,
+      "sentence": "Entergy Corporation (ETR) saw a mix of positive analyst revisions and operational updates today, driving the stock’s movement.",
+      "context": "Entergy Corporation (ETR) saw a mix of positive analyst revisions and",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "ETR",
+      "label": "ORG",
+      "start": 21,
+      "end": 24,
+      "sentence": "Entergy Corporation (ETR) saw a mix of positive analyst revisions and operational updates today, driving the stock’s movement.",
+      "context": "Entergy Corporation (ETR) saw a mix of positive analyst revisions and oper",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "today",
+      "label": "DATE",
+      "start": 90,
+      "end": 95,
+      "sentence": "Entergy Corporation (ETR) saw a mix of positive analyst revisions and operational updates today, driving the stock’s movement.",
+      "context": "ositive analyst revisions and operational updates today, driving the stock’s movement.\nPositive Sentiment",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Entergy",
+      "label": "ORG",
+      "start": 147,
+      "end": 154,
+      "sentence": "Positive Sentiment:\nEntergy launched bill management tools and resources to help customers manage cooling costs and save money, potentially boosting customer satisfaction and retention.\nEntergy Helping Customers Stay Cool and Save Money With Bill Management Tools and Resources\nPositive Sentiment:",
+      "context": "driving the stock’s movement.\nPositive Sentiment:\nEntergy launched bill management tools and resources to h",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Entergy",
+      "label": "ORG",
+      "start": 313,
+      "end": 320,
+      "sentence": "Positive Sentiment:\nEntergy launched bill management tools and resources to help customers manage cooling costs and save money, potentially boosting customer satisfaction and retention.\nEntergy Helping Customers Stay Cool and Save Money With Bill Management Tools and Resources\nPositive Sentiment:",
+      "context": "lly boosting customer satisfaction and retention.\nEntergy Helping Customers Stay Cool and Save Money With B",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Zacks Research",
+      "label": "ORG",
+      "start": 425,
+      "end": 439,
+      "sentence": "Zacks Research raised its Q2 2025 EPS estimate for ETR from $0.72 to $0.81, signaling stronger near-term earnings potential.",
+      "context": "anagement Tools and Resources\nPositive Sentiment:\nZacks Research raised its Q2 2025 EPS estimate for ETR from $0.7",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q2 2025",
+      "label": "DATE",
+      "start": 451,
+      "end": 458,
+      "sentence": "Zacks Research raised its Q2 2025 EPS estimate for ETR from $0.72 to $0.81, signaling stronger near-term earnings potential.",
+      "context": "ces\nPositive Sentiment:\nZacks Research raised its Q2 2025 EPS estimate for ETR from $0.72 to $0.81, signali",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "ETR",
+      "label": "ORG",
+      "start": 476,
+      "end": 479,
+      "sentence": "Zacks Research raised its Q2 2025 EPS estimate for ETR from $0.72 to $0.81, signaling stronger near-term earnings potential.",
+      "context": "acks Research raised its Q2 2025 EPS estimate for ETR from $0.72 to $0.81, signaling stronger near-term",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "0.72",
+      "label": "MONEY",
+      "start": 486,
+      "end": 490,
+      "sentence": "Zacks Research raised its Q2 2025 EPS estimate for ETR from $0.72 to $0.81, signaling stronger near-term earnings potential.",
+      "context": "rch raised its Q2 2025 EPS estimate for ETR from $0.72 to $0.81, signaling stronger near-term earnings p",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "0.81",
+      "label": "MONEY",
+      "start": 495,
+      "end": 499,
+      "sentence": "Zacks Research raised its Q2 2025 EPS estimate for ETR from $0.72 to $0.81, signaling stronger near-term earnings potential.",
+      "context": "d its Q2 2025 EPS estimate for ETR from $0.72 to $0.81, signaling stronger near-term earnings potential.",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Zacks Research",
+      "label": "ORG",
+      "start": 550,
+      "end": 564,
+      "sentence": "Zacks Research Comments on Entergy's Q2 Earnings\nNeutral Sentiment:\nBarclays cut its price target for ETR from $91 to $87 but maintained an “overweight” rating, suggesting modest upside remains.",
+      "context": "signaling stronger near-term earnings potential.\nZacks Research Comments on Entergy's Q2 Earnings\nNeutral Sentime",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Entergy",
+      "label": "ORG",
+      "start": 577,
+      "end": 584,
+      "sentence": "Zacks Research Comments on Entergy's Q2 Earnings\nNeutral Sentiment:\nBarclays cut its price target for ETR from $91 to $87 but maintained an “overweight” rating, suggesting modest upside remains.",
+      "context": "rm earnings potential.\nZacks Research Comments on Entergy's Q2 Earnings\nNeutral Sentiment:\nBarclays cut its",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q2",
+      "label": "DATE",
+      "start": 587,
+      "end": 589,
+      "sentence": "Zacks Research Comments on Entergy's Q2 Earnings\nNeutral Sentiment:\nBarclays cut its price target for ETR from $91 to $87 but maintained an “overweight” rating, suggesting modest upside remains.",
+      "context": "s potential.\nZacks Research Comments on Entergy's Q2 Earnings\nNeutral Sentiment:\nBarclays cut its pric",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Barclays",
+      "label": "ORG",
+      "start": 618,
+      "end": 626,
+      "sentence": "Zacks Research Comments on Entergy's Q2 Earnings\nNeutral Sentiment:\nBarclays cut its price target for ETR from $91 to $87 but maintained an “overweight” rating, suggesting modest upside remains.",
+      "context": "ments on Entergy's Q2 Earnings\nNeutral Sentiment:\nBarclays cut its price target for ETR from $91 to $87 but",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "ETR",
+      "label": "ORG",
+      "start": 652,
+      "end": 655,
+      "sentence": "Zacks Research Comments on Entergy's Q2 Earnings\nNeutral Sentiment:\nBarclays cut its price target for ETR from $91 to $87 but maintained an “overweight” rating, suggesting modest upside remains.",
+      "context": "tral Sentiment:\nBarclays cut its price target for ETR from $91 to $87 but maintained an “overweight” ra",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "91",
+      "label": "MONEY",
+      "start": 662,
+      "end": 664,
+      "sentence": "Zacks Research Comments on Entergy's Q2 Earnings\nNeutral Sentiment:\nBarclays cut its price target for ETR from $91 to $87 but maintained an “overweight” rating, suggesting modest upside remains.",
+      "context": "ment:\nBarclays cut its price target for ETR from $91 to $87 but maintained an “overweight” rating, sug",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "87",
+      "label": "MONEY",
+      "start": 669,
+      "end": 671,
+      "sentence": "Zacks Research Comments on Entergy's Q2 Earnings\nNeutral Sentiment:\nBarclays cut its price target for ETR from $91 to $87 but maintained an “overweight” rating, suggesting modest upside remains.",
+      "context": "arclays cut its price target for ETR from $91 to $87 but maintained an “overweight” rating, suggesting",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Barclays",
+      "label": "ORG",
+      "start": 745,
+      "end": 753,
+      "sentence": "Barclays Lowers Entergy Price Target to $87\nNeutral Sentiment:",
+      "context": "weight” rating, suggesting modest upside remains.\nBarclays Lowers Entergy Price Target to $87\nNeutral Sentim",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Entergy",
+      "label": "ORG",
+      "start": 761,
+      "end": 768,
+      "sentence": "Barclays Lowers Entergy Price Target to $87\nNeutral Sentiment:",
+      "context": "suggesting modest upside remains.\nBarclays Lowers Entergy Price Target to $87\nNeutral Sentiment:\nEntergy pl",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "87",
+      "label": "MONEY",
+      "start": 786,
+      "end": 788,
+      "sentence": "Barclays Lowers Entergy Price Target to $87\nNeutral Sentiment:",
+      "context": "remains.\nBarclays Lowers Entergy Price Target to $87\nNeutral Sentiment:\nEntergy plans scheduled power",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Entergy",
+      "label": "ORG",
+      "start": 808,
+      "end": 815,
+      "sentence": "Entergy plans scheduled power outages in parts of Denham Springs as part of routine infrastructure maintenance.",
+      "context": "rs Entergy Price Target to $87\nNeutral Sentiment:\nEntergy plans scheduled power outages in parts of Denham",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Denham Springs",
+      "label": "GPE",
+      "start": 858,
+      "end": 872,
+      "sentence": "Entergy plans scheduled power outages in parts of Denham Springs as part of routine infrastructure maintenance.",
+      "context": "Entergy plans scheduled power outages in parts of Denham Springs as part of routine infrastructure maintenance.\nEn",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "Entergy",
+      "label": "ORG",
+      "start": 920,
+      "end": 927,
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "context": "gs as part of routine infrastructure maintenance.\nEntergy plans power outages for parts of Denham Springs\nN",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Denham Springs",
+      "label": "GPE",
+      "start": 961,
+      "end": 975,
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "context": "tenance.\nEntergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "Zacks Research",
+      "label": "ORG",
+      "start": 996,
+      "end": 1010,
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "context": "s for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q3 2025",
+      "label": "DATE",
+      "start": 1023,
+      "end": 1030,
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "context": "gs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointin",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "1.41",
+      "label": "MONEY",
+      "start": 1058,
+      "end": 1062,
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "context": "ch lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later i",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "1.34",
+      "label": "MONEY",
+      "start": 1067,
+      "end": 1071,
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "context": "d its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the yea",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "later in the year",
+      "label": "DATE",
+      "start": 1105,
+      "end": 1122,
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "context": "m $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Zacks Research's",
+      "label": "ORG",
+      "start": 1132,
+      "end": 1148,
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "context": "to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Entergy",
+      "label": "ORG",
+      "start": 1162,
+      "end": 1169,
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "context": "n the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated. May",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q3",
+      "label": "DATE",
+      "start": 1170,
+      "end": 1172,
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "context": "ar.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated. May Co",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "1+ days ago",
+      "label": "DATE",
+      "start": 1190,
+      "end": 1201,
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "context": "search's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    }
+  ],
+  "relationships": [
+    {
+      "type": "SVO",
+      "subject": "Corporation",
+      "verb": "saw",
+      "object": "mix",
+      "sentence": "Entergy Corporation (ETR) saw a mix of positive analyst revisions and operational updates today, driving the stock’s movement.",
+      "importance": 6
+    },
+    {
+      "type": "SVO",
+      "subject": "Entergy",
+      "verb": "launched",
+      "object": "tools",
+      "sentence": "Positive Sentiment:\nEntergy launched bill management tools and resources to help customers manage cooling costs and save money, potentially boosting customer satisfaction and retention.\nEntergy Helping Customers Stay Cool and Save Money With Bill Management Tools and Resources\nPositive Sentiment:",
+      "importance": 4
+    },
+    {
+      "type": "SVO",
+      "subject": "customers",
+      "verb": "manage",
+      "object": "costs",
+      "sentence": "Positive Sentiment:\nEntergy launched bill management tools and resources to help customers manage cooling costs and save money, potentially boosting customer satisfaction and retention.\nEntergy Helping Customers Stay Cool and Save Money With Bill Management Tools and Resources\nPositive Sentiment:",
+      "importance": 4
+    },
+    {
+      "type": "SVO",
+      "subject": "Research",
+      "verb": "raised",
+      "object": "estimate",
+      "sentence": "Zacks Research raised its Q2 2025 EPS estimate for ETR from $0.72 to $0.81, signaling stronger near-term earnings potential.",
+      "importance": 9
+    },
+    {
+      "type": "SVO",
+      "subject": "Barclays",
+      "verb": "cut",
+      "object": "target",
+      "sentence": "Zacks Research Comments on Entergy's Q2 Earnings\nNeutral Sentiment:\nBarclays cut its price target for ETR from $91 to $87 but maintained an “overweight” rating, suggesting modest upside remains.",
+      "importance": 11
+    },
+    {
+      "type": "SVO",
+      "subject": "Barclays",
+      "verb": "Lowers",
+      "object": "Target",
+      "sentence": "Barclays Lowers Entergy Price Target to $87\nNeutral Sentiment:",
+      "importance": 4
+    },
+    {
+      "type": "SVO",
+      "subject": "Entergy",
+      "verb": "plans",
+      "object": "outages",
+      "sentence": "Entergy plans scheduled power outages in parts of Denham Springs as part of routine infrastructure maintenance.",
+      "importance": 5
+    },
+    {
+      "type": "SVO",
+      "subject": "Entergy",
+      "verb": "plans",
+      "object": "outages",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "importance": 26
+    },
+    {
+      "type": "SVO",
+      "subject": "Research",
+      "verb": "lowered",
+      "object": "estimate",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "importance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Entergy",
+      "entity1_type": "ORG",
+      "entity2": "Corporation",
+      "entity2_type": "ORG",
+      "sentence": "Entergy Corporation (ETR) saw a mix of positive analyst revisions and operational updates today, driving the stock’s movement.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Entergy",
+      "entity1_type": "ORG",
+      "entity2": "ETR",
+      "entity2_type": "ORG",
+      "sentence": "Entergy Corporation (ETR) saw a mix of positive analyst revisions and operational updates today, driving the stock’s movement.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Entergy",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "Entergy Corporation (ETR) saw a mix of positive analyst revisions and operational updates today, driving the stock’s movement.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Corporation",
+      "entity1_type": "ORG",
+      "entity2": "ETR",
+      "entity2_type": "ORG",
+      "sentence": "Entergy Corporation (ETR) saw a mix of positive analyst revisions and operational updates today, driving the stock’s movement.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Corporation",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "Entergy Corporation (ETR) saw a mix of positive analyst revisions and operational updates today, driving the stock’s movement.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ETR",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "Entergy Corporation (ETR) saw a mix of positive analyst revisions and operational updates today, driving the stock’s movement.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Entergy",
+      "entity1_type": "ORG",
+      "entity2": "Entergy",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nEntergy launched bill management tools and resources to help customers manage cooling costs and save money, potentially boosting customer satisfaction and retention.\nEntergy Helping Customers Stay Cool and Save Money With Bill Management Tools and Resources\nPositive Sentiment:",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "Research",
+      "entity2_type": "ORG",
+      "sentence": "Zacks Research raised its Q2 2025 EPS estimate for ETR from $0.72 to $0.81, signaling stronger near-term earnings potential.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "Zacks Research raised its Q2 2025 EPS estimate for ETR from $0.72 to $0.81, signaling stronger near-term earnings potential.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Zacks Research raised its Q2 2025 EPS estimate for ETR from $0.72 to $0.81, signaling stronger near-term earnings potential.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "ETR",
+      "entity2_type": "ORG",
+      "sentence": "Zacks Research raised its Q2 2025 EPS estimate for ETR from $0.72 to $0.81, signaling stronger near-term earnings potential.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "0.72",
+      "entity2_type": "MONEY",
+      "sentence": "Zacks Research raised its Q2 2025 EPS estimate for ETR from $0.72 to $0.81, signaling stronger near-term earnings potential.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "0.81",
+      "entity2_type": "MONEY",
+      "sentence": "Zacks Research raised its Q2 2025 EPS estimate for ETR from $0.72 to $0.81, signaling stronger near-term earnings potential.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "Zacks Research raised its Q2 2025 EPS estimate for ETR from $0.72 to $0.81, signaling stronger near-term earnings potential.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Zacks Research raised its Q2 2025 EPS estimate for ETR from $0.72 to $0.81, signaling stronger near-term earnings potential.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "ETR",
+      "entity2_type": "ORG",
+      "sentence": "Zacks Research raised its Q2 2025 EPS estimate for ETR from $0.72 to $0.81, signaling stronger near-term earnings potential.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "0.72",
+      "entity2_type": "MONEY",
+      "sentence": "Zacks Research raised its Q2 2025 EPS estimate for ETR from $0.72 to $0.81, signaling stronger near-term earnings potential.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "0.81",
+      "entity2_type": "MONEY",
+      "sentence": "Zacks Research raised its Q2 2025 EPS estimate for ETR from $0.72 to $0.81, signaling stronger near-term earnings potential.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Zacks Research raised its Q2 2025 EPS estimate for ETR from $0.72 to $0.81, signaling stronger near-term earnings potential.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "ETR",
+      "entity2_type": "ORG",
+      "sentence": "Zacks Research raised its Q2 2025 EPS estimate for ETR from $0.72 to $0.81, signaling stronger near-term earnings potential.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "0.72",
+      "entity2_type": "MONEY",
+      "sentence": "Zacks Research raised its Q2 2025 EPS estimate for ETR from $0.72 to $0.81, signaling stronger near-term earnings potential.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "0.81",
+      "entity2_type": "MONEY",
+      "sentence": "Zacks Research raised its Q2 2025 EPS estimate for ETR from $0.72 to $0.81, signaling stronger near-term earnings potential.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "ETR",
+      "entity2_type": "ORG",
+      "sentence": "Zacks Research raised its Q2 2025 EPS estimate for ETR from $0.72 to $0.81, signaling stronger near-term earnings potential.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "0.72",
+      "entity2_type": "MONEY",
+      "sentence": "Zacks Research raised its Q2 2025 EPS estimate for ETR from $0.72 to $0.81, signaling stronger near-term earnings potential.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "0.81",
+      "entity2_type": "MONEY",
+      "sentence": "Zacks Research raised its Q2 2025 EPS estimate for ETR from $0.72 to $0.81, signaling stronger near-term earnings potential.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ETR",
+      "entity1_type": "ORG",
+      "entity2": "0.72",
+      "entity2_type": "MONEY",
+      "sentence": "Zacks Research raised its Q2 2025 EPS estimate for ETR from $0.72 to $0.81, signaling stronger near-term earnings potential.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ETR",
+      "entity1_type": "ORG",
+      "entity2": "0.81",
+      "entity2_type": "MONEY",
+      "sentence": "Zacks Research raised its Q2 2025 EPS estimate for ETR from $0.72 to $0.81, signaling stronger near-term earnings potential.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "0.72",
+      "entity1_type": "MONEY",
+      "entity2": "0.81",
+      "entity2_type": "MONEY",
+      "sentence": "Zacks Research raised its Q2 2025 EPS estimate for ETR from $0.72 to $0.81, signaling stronger near-term earnings potential.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "Research",
+      "entity2_type": "ORG",
+      "sentence": "Zacks Research Comments on Entergy's Q2 Earnings\nNeutral Sentiment:\nBarclays cut its price target for ETR from $91 to $87 but maintained an “overweight” rating, suggesting modest upside remains.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "Entergy",
+      "entity2_type": "ORG",
+      "sentence": "Zacks Research Comments on Entergy's Q2 Earnings\nNeutral Sentiment:\nBarclays cut its price target for ETR from $91 to $87 but maintained an “overweight” rating, suggesting modest upside remains.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "Zacks Research Comments on Entergy's Q2 Earnings\nNeutral Sentiment:\nBarclays cut its price target for ETR from $91 to $87 but maintained an “overweight” rating, suggesting modest upside remains.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "Barclays",
+      "entity2_type": "ORG",
+      "sentence": "Zacks Research Comments on Entergy's Q2 Earnings\nNeutral Sentiment:\nBarclays cut its price target for ETR from $91 to $87 but maintained an “overweight” rating, suggesting modest upside remains.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "ETR",
+      "entity2_type": "ORG",
+      "sentence": "Zacks Research Comments on Entergy's Q2 Earnings\nNeutral Sentiment:\nBarclays cut its price target for ETR from $91 to $87 but maintained an “overweight” rating, suggesting modest upside remains.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "91",
+      "entity2_type": "MONEY",
+      "sentence": "Zacks Research Comments on Entergy's Q2 Earnings\nNeutral Sentiment:\nBarclays cut its price target for ETR from $91 to $87 but maintained an “overweight” rating, suggesting modest upside remains.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "87",
+      "entity2_type": "MONEY",
+      "sentence": "Zacks Research Comments on Entergy's Q2 Earnings\nNeutral Sentiment:\nBarclays cut its price target for ETR from $91 to $87 but maintained an “overweight” rating, suggesting modest upside remains.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "Entergy",
+      "entity2_type": "ORG",
+      "sentence": "Zacks Research Comments on Entergy's Q2 Earnings\nNeutral Sentiment:\nBarclays cut its price target for ETR from $91 to $87 but maintained an “overweight” rating, suggesting modest upside remains.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "Zacks Research Comments on Entergy's Q2 Earnings\nNeutral Sentiment:\nBarclays cut its price target for ETR from $91 to $87 but maintained an “overweight” rating, suggesting modest upside remains.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "Barclays",
+      "entity2_type": "ORG",
+      "sentence": "Zacks Research Comments on Entergy's Q2 Earnings\nNeutral Sentiment:\nBarclays cut its price target for ETR from $91 to $87 but maintained an “overweight” rating, suggesting modest upside remains.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "ETR",
+      "entity2_type": "ORG",
+      "sentence": "Zacks Research Comments on Entergy's Q2 Earnings\nNeutral Sentiment:\nBarclays cut its price target for ETR from $91 to $87 but maintained an “overweight” rating, suggesting modest upside remains.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "91",
+      "entity2_type": "MONEY",
+      "sentence": "Zacks Research Comments on Entergy's Q2 Earnings\nNeutral Sentiment:\nBarclays cut its price target for ETR from $91 to $87 but maintained an “overweight” rating, suggesting modest upside remains.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "87",
+      "entity2_type": "MONEY",
+      "sentence": "Zacks Research Comments on Entergy's Q2 Earnings\nNeutral Sentiment:\nBarclays cut its price target for ETR from $91 to $87 but maintained an “overweight” rating, suggesting modest upside remains.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Entergy",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "Zacks Research Comments on Entergy's Q2 Earnings\nNeutral Sentiment:\nBarclays cut its price target for ETR from $91 to $87 but maintained an “overweight” rating, suggesting modest upside remains.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Entergy",
+      "entity1_type": "ORG",
+      "entity2": "Barclays",
+      "entity2_type": "ORG",
+      "sentence": "Zacks Research Comments on Entergy's Q2 Earnings\nNeutral Sentiment:\nBarclays cut its price target for ETR from $91 to $87 but maintained an “overweight” rating, suggesting modest upside remains.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Entergy",
+      "entity1_type": "ORG",
+      "entity2": "ETR",
+      "entity2_type": "ORG",
+      "sentence": "Zacks Research Comments on Entergy's Q2 Earnings\nNeutral Sentiment:\nBarclays cut its price target for ETR from $91 to $87 but maintained an “overweight” rating, suggesting modest upside remains.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Entergy",
+      "entity1_type": "ORG",
+      "entity2": "91",
+      "entity2_type": "MONEY",
+      "sentence": "Zacks Research Comments on Entergy's Q2 Earnings\nNeutral Sentiment:\nBarclays cut its price target for ETR from $91 to $87 but maintained an “overweight” rating, suggesting modest upside remains.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Entergy",
+      "entity1_type": "ORG",
+      "entity2": "87",
+      "entity2_type": "MONEY",
+      "sentence": "Zacks Research Comments on Entergy's Q2 Earnings\nNeutral Sentiment:\nBarclays cut its price target for ETR from $91 to $87 but maintained an “overweight” rating, suggesting modest upside remains.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "Barclays",
+      "entity2_type": "ORG",
+      "sentence": "Zacks Research Comments on Entergy's Q2 Earnings\nNeutral Sentiment:\nBarclays cut its price target for ETR from $91 to $87 but maintained an “overweight” rating, suggesting modest upside remains.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "ETR",
+      "entity2_type": "ORG",
+      "sentence": "Zacks Research Comments on Entergy's Q2 Earnings\nNeutral Sentiment:\nBarclays cut its price target for ETR from $91 to $87 but maintained an “overweight” rating, suggesting modest upside remains.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "91",
+      "entity2_type": "MONEY",
+      "sentence": "Zacks Research Comments on Entergy's Q2 Earnings\nNeutral Sentiment:\nBarclays cut its price target for ETR from $91 to $87 but maintained an “overweight” rating, suggesting modest upside remains.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "87",
+      "entity2_type": "MONEY",
+      "sentence": "Zacks Research Comments on Entergy's Q2 Earnings\nNeutral Sentiment:\nBarclays cut its price target for ETR from $91 to $87 but maintained an “overweight” rating, suggesting modest upside remains.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "ETR",
+      "entity2_type": "ORG",
+      "sentence": "Zacks Research Comments on Entergy's Q2 Earnings\nNeutral Sentiment:\nBarclays cut its price target for ETR from $91 to $87 but maintained an “overweight” rating, suggesting modest upside remains.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "91",
+      "entity2_type": "MONEY",
+      "sentence": "Zacks Research Comments on Entergy's Q2 Earnings\nNeutral Sentiment:\nBarclays cut its price target for ETR from $91 to $87 but maintained an “overweight” rating, suggesting modest upside remains.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "87",
+      "entity2_type": "MONEY",
+      "sentence": "Zacks Research Comments on Entergy's Q2 Earnings\nNeutral Sentiment:\nBarclays cut its price target for ETR from $91 to $87 but maintained an “overweight” rating, suggesting modest upside remains.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ETR",
+      "entity1_type": "ORG",
+      "entity2": "91",
+      "entity2_type": "MONEY",
+      "sentence": "Zacks Research Comments on Entergy's Q2 Earnings\nNeutral Sentiment:\nBarclays cut its price target for ETR from $91 to $87 but maintained an “overweight” rating, suggesting modest upside remains.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ETR",
+      "entity1_type": "ORG",
+      "entity2": "87",
+      "entity2_type": "MONEY",
+      "sentence": "Zacks Research Comments on Entergy's Q2 Earnings\nNeutral Sentiment:\nBarclays cut its price target for ETR from $91 to $87 but maintained an “overweight” rating, suggesting modest upside remains.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "91",
+      "entity1_type": "MONEY",
+      "entity2": "87",
+      "entity2_type": "MONEY",
+      "sentence": "Zacks Research Comments on Entergy's Q2 Earnings\nNeutral Sentiment:\nBarclays cut its price target for ETR from $91 to $87 but maintained an “overweight” rating, suggesting modest upside remains.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "Entergy",
+      "entity2_type": "ORG",
+      "sentence": "Barclays Lowers Entergy Price Target to $87\nNeutral Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "87",
+      "entity2_type": "MONEY",
+      "sentence": "Barclays Lowers Entergy Price Target to $87\nNeutral Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Entergy",
+      "entity1_type": "ORG",
+      "entity2": "87",
+      "entity2_type": "MONEY",
+      "sentence": "Barclays Lowers Entergy Price Target to $87\nNeutral Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Entergy",
+      "entity1_type": "ORG",
+      "entity2": "Denham",
+      "entity2_type": "GPE",
+      "sentence": "Entergy plans scheduled power outages in parts of Denham Springs as part of routine infrastructure maintenance.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Entergy",
+      "entity1_type": "ORG",
+      "entity2": "Springs",
+      "entity2_type": "GPE",
+      "sentence": "Entergy plans scheduled power outages in parts of Denham Springs as part of routine infrastructure maintenance.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Denham",
+      "entity1_type": "GPE",
+      "entity2": "Springs",
+      "entity2_type": "GPE",
+      "sentence": "Entergy plans scheduled power outages in parts of Denham Springs as part of routine infrastructure maintenance.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Entergy",
+      "entity1_type": "ORG",
+      "entity2": "Denham",
+      "entity2_type": "GPE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Entergy",
+      "entity1_type": "ORG",
+      "entity2": "Springs",
+      "entity2_type": "GPE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Entergy",
+      "entity1_type": "ORG",
+      "entity2": "Zacks",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Entergy",
+      "entity1_type": "ORG",
+      "entity2": "Research",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Entergy",
+      "entity1_type": "ORG",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Entergy",
+      "entity1_type": "ORG",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Entergy",
+      "entity1_type": "ORG",
+      "entity2": "1.41",
+      "entity2_type": "MONEY",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Entergy",
+      "entity1_type": "ORG",
+      "entity2": "1.34",
+      "entity2_type": "MONEY",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Entergy",
+      "entity1_type": "ORG",
+      "entity2": "later",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 35
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Entergy",
+      "entity1_type": "ORG",
+      "entity2": "in",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 36
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Entergy",
+      "entity1_type": "ORG",
+      "entity2": "the",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 37
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Entergy",
+      "entity1_type": "ORG",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 38
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Entergy",
+      "entity1_type": "ORG",
+      "entity2": "Zacks",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 43
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Entergy",
+      "entity1_type": "ORG",
+      "entity2": "Research",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 44
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Entergy",
+      "entity1_type": "ORG",
+      "entity2": "'s",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 45
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Entergy",
+      "entity1_type": "ORG",
+      "entity2": "Entergy",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 48
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Entergy",
+      "entity1_type": "ORG",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 49
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Entergy",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 54
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Entergy",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 55
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Entergy",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 56
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Entergy",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 57
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Denham",
+      "entity1_type": "GPE",
+      "entity2": "Springs",
+      "entity2_type": "GPE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Denham",
+      "entity1_type": "GPE",
+      "entity2": "Zacks",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Denham",
+      "entity1_type": "GPE",
+      "entity2": "Research",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Denham",
+      "entity1_type": "GPE",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Denham",
+      "entity1_type": "GPE",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Denham",
+      "entity1_type": "GPE",
+      "entity2": "1.41",
+      "entity2_type": "MONEY",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Denham",
+      "entity1_type": "GPE",
+      "entity2": "1.34",
+      "entity2_type": "MONEY",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Denham",
+      "entity1_type": "GPE",
+      "entity2": "later",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Denham",
+      "entity1_type": "GPE",
+      "entity2": "in",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Denham",
+      "entity1_type": "GPE",
+      "entity2": "the",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Denham",
+      "entity1_type": "GPE",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Denham",
+      "entity1_type": "GPE",
+      "entity2": "Zacks",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 36
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Denham",
+      "entity1_type": "GPE",
+      "entity2": "Research",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 37
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Denham",
+      "entity1_type": "GPE",
+      "entity2": "'s",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 38
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Denham",
+      "entity1_type": "GPE",
+      "entity2": "Entergy",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 41
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Denham",
+      "entity1_type": "GPE",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 42
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Denham",
+      "entity1_type": "GPE",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 47
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Denham",
+      "entity1_type": "GPE",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 48
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Denham",
+      "entity1_type": "GPE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 49
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Denham",
+      "entity1_type": "GPE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 50
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Springs",
+      "entity1_type": "GPE",
+      "entity2": "Zacks",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Springs",
+      "entity1_type": "GPE",
+      "entity2": "Research",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Springs",
+      "entity1_type": "GPE",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Springs",
+      "entity1_type": "GPE",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Springs",
+      "entity1_type": "GPE",
+      "entity2": "1.41",
+      "entity2_type": "MONEY",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Springs",
+      "entity1_type": "GPE",
+      "entity2": "1.34",
+      "entity2_type": "MONEY",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Springs",
+      "entity1_type": "GPE",
+      "entity2": "later",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Springs",
+      "entity1_type": "GPE",
+      "entity2": "in",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Springs",
+      "entity1_type": "GPE",
+      "entity2": "the",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Springs",
+      "entity1_type": "GPE",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Springs",
+      "entity1_type": "GPE",
+      "entity2": "Zacks",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 35
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Springs",
+      "entity1_type": "GPE",
+      "entity2": "Research",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 36
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Springs",
+      "entity1_type": "GPE",
+      "entity2": "'s",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 37
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Springs",
+      "entity1_type": "GPE",
+      "entity2": "Entergy",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 40
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Springs",
+      "entity1_type": "GPE",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 41
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Springs",
+      "entity1_type": "GPE",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 46
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Springs",
+      "entity1_type": "GPE",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 47
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Springs",
+      "entity1_type": "GPE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 48
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Springs",
+      "entity1_type": "GPE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 49
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "Research",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "1.41",
+      "entity2_type": "MONEY",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "1.34",
+      "entity2_type": "MONEY",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "later",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "in",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "the",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "Zacks",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "Research",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "'s",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "Entergy",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 34
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 35
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 40
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 41
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 42
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 43
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "1.41",
+      "entity2_type": "MONEY",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "1.34",
+      "entity2_type": "MONEY",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "later",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "in",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "the",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "Zacks",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "Research",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "'s",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "Entergy",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 33
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 34
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 39
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 40
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 41
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 42
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "1.41",
+      "entity2_type": "MONEY",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "1.34",
+      "entity2_type": "MONEY",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "later",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "in",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "the",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "Zacks",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "Research",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "'s",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "Entergy",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 36
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 37
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 38
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 39
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "1.41",
+      "entity2_type": "MONEY",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "1.34",
+      "entity2_type": "MONEY",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "later",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "in",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "the",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "Zacks",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "Research",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "'s",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "Entergy",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 35
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 36
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 37
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 38
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.41",
+      "entity1_type": "MONEY",
+      "entity2": "1.34",
+      "entity2_type": "MONEY",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.41",
+      "entity1_type": "MONEY",
+      "entity2": "later",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.41",
+      "entity1_type": "MONEY",
+      "entity2": "in",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.41",
+      "entity1_type": "MONEY",
+      "entity2": "the",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.41",
+      "entity1_type": "MONEY",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.41",
+      "entity1_type": "MONEY",
+      "entity2": "Zacks",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.41",
+      "entity1_type": "MONEY",
+      "entity2": "Research",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.41",
+      "entity1_type": "MONEY",
+      "entity2": "'s",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.41",
+      "entity1_type": "MONEY",
+      "entity2": "Entergy",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.41",
+      "entity1_type": "MONEY",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.41",
+      "entity1_type": "MONEY",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.41",
+      "entity1_type": "MONEY",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.41",
+      "entity1_type": "MONEY",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.41",
+      "entity1_type": "MONEY",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.34",
+      "entity1_type": "MONEY",
+      "entity2": "later",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.34",
+      "entity1_type": "MONEY",
+      "entity2": "in",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.34",
+      "entity1_type": "MONEY",
+      "entity2": "the",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.34",
+      "entity1_type": "MONEY",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.34",
+      "entity1_type": "MONEY",
+      "entity2": "Zacks",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.34",
+      "entity1_type": "MONEY",
+      "entity2": "Research",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.34",
+      "entity1_type": "MONEY",
+      "entity2": "'s",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.34",
+      "entity1_type": "MONEY",
+      "entity2": "Entergy",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.34",
+      "entity1_type": "MONEY",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.34",
+      "entity1_type": "MONEY",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.34",
+      "entity1_type": "MONEY",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.34",
+      "entity1_type": "MONEY",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.34",
+      "entity1_type": "MONEY",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "later",
+      "entity1_type": "DATE",
+      "entity2": "in",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "later",
+      "entity1_type": "DATE",
+      "entity2": "the",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "later",
+      "entity1_type": "DATE",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "later",
+      "entity1_type": "DATE",
+      "entity2": "Zacks",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "later",
+      "entity1_type": "DATE",
+      "entity2": "Research",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "later",
+      "entity1_type": "DATE",
+      "entity2": "'s",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "later",
+      "entity1_type": "DATE",
+      "entity2": "Entergy",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "later",
+      "entity1_type": "DATE",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "later",
+      "entity1_type": "DATE",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "later",
+      "entity1_type": "DATE",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "later",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "later",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "in",
+      "entity1_type": "DATE",
+      "entity2": "the",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "in",
+      "entity1_type": "DATE",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "in",
+      "entity1_type": "DATE",
+      "entity2": "Zacks",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "in",
+      "entity1_type": "DATE",
+      "entity2": "Research",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "in",
+      "entity1_type": "DATE",
+      "entity2": "'s",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "in",
+      "entity1_type": "DATE",
+      "entity2": "Entergy",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "in",
+      "entity1_type": "DATE",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "in",
+      "entity1_type": "DATE",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "in",
+      "entity1_type": "DATE",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "in",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "in",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "Zacks",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "Research",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "'s",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "Entergy",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "year",
+      "entity1_type": "DATE",
+      "entity2": "Zacks",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "year",
+      "entity1_type": "DATE",
+      "entity2": "Research",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "year",
+      "entity1_type": "DATE",
+      "entity2": "'s",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "year",
+      "entity1_type": "DATE",
+      "entity2": "Entergy",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "year",
+      "entity1_type": "DATE",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "year",
+      "entity1_type": "DATE",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "year",
+      "entity1_type": "DATE",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "year",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "year",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "Research",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "'s",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "Entergy",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "'s",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "Entergy",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "'s",
+      "entity1_type": "ORG",
+      "entity2": "Entergy",
+      "entity2_type": "ORG",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "'s",
+      "entity1_type": "ORG",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "'s",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "'s",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "'s",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "'s",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Entergy",
+      "entity1_type": "ORG",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Entergy",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Entergy",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Entergy",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Entergy",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "Entergy Corporation",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a mix",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "positive analyst revisions",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "operational updates",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the stock’s movement",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "bill management tools",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "cooling costs",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "customer satisfaction",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Bill Management Tools",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Zacks Research",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its Q2 2025 EPS estimate",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "stronger near-term earnings potential",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Zacks Research",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Entergy's Q2 Earnings",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its price target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "an “overweight” rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "modest upside",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Entergy Price Target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "scheduled power outages",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Denham Springs",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "routine infrastructure maintenance",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "power outages",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Denham Springs",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Zacks Research",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its Q3 2025 EPS estimate",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "potential headwinds",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the year",
+      "type": "noun_chunk",
+      "category": "temporal"
+    },
+    {
+      "text": "Zacks Research's Forecast",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Entergy Q3 Earnings",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "$0.72",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$0.81",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$91",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$87",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$87",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$1.41",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$1.34",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "Q2 2025",
+      "type": "pattern",
+      "category": "quarter"
+    },
+    {
+      "text": "Q3 2025",
+      "type": "pattern",
+      "category": "quarter"
+    },
+    {
+      "text": "earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "stock",
+      "type": "pattern",
+      "category": "market_term"
+    }
+  ],
+  "important_sentences": [
+    {
+      "text": "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "importance_score": 82,
+      "entity_count": 22,
+      "financial_keyword_count": 4,
+      "money_count": 2,
+      "company_count": 4,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Zacks Research Comments on Entergy's Q2 Earnings\nNeutral Sentiment:\nBarclays cut its price target for ETR from $91 to $87 but maintained an “overweight” rating, suggesting modest upside remains.",
+      "importance_score": 51,
+      "entity_count": 8,
+      "financial_keyword_count": 3,
+      "money_count": 2,
+      "company_count": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Zacks Research raised its Q2 2025 EPS estimate for ETR from $0.72 to $0.81, signaling stronger near-term earnings potential.",
+      "importance_score": 38,
+      "entity_count": 7,
+      "financial_keyword_count": 2,
+      "money_count": 2,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Entergy Corporation (ETR) saw a mix of positive analyst revisions and operational updates today, driving the stock’s movement.",
+      "importance_score": 22,
+      "entity_count": 4,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Barclays Lowers Entergy Price Target to $87\nNeutral Sentiment:",
+      "importance_score": 22,
+      "entity_count": 3,
+      "financial_keyword_count": 1,
+      "money_count": 1,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Positive Sentiment:\nEntergy launched bill management tools and resources to help customers manage cooling costs and save money, potentially boosting customer satisfaction and retention.\nEntergy Helping Customers Stay Cool and Save Money With Bill Management Tools and Resources\nPositive Sentiment:",
+      "importance_score": 18,
+      "entity_count": 2,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Entergy plans scheduled power outages in parts of Denham Springs as part of routine infrastructure maintenance.",
+      "importance_score": 16,
+      "entity_count": 3,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "neutral"
+    }
+  ],
+  "entity_statistics": {
+    "total_entities": 33,
+    "unique_entities": 20,
+    "type_counts": {
+      "ORG": 17,
+      "DATE": 7,
+      "MONEY": 7,
+      "GPE": 2
+    },
+    "type_distribution": {
+      "ORG": 0.5151515151515151,
+      "DATE": 0.21212121212121213,
+      "MONEY": 0.21212121212121213,
+      "GPE": 0.06060606060606061
+    },
+    "most_common_entities": [
+      [
+        "Entergy",
+        7
+      ],
+      [
+        "ETR",
+        3
+      ],
+      [
+        "Zacks Research",
+        3
+      ],
+      [
+        "Barclays",
+        2
+      ],
+      [
+        "87",
+        2
+      ],
+      [
+        "Denham Springs",
+        2
+      ],
+      [
+        "Entergy Corporation",
+        1
+      ],
+      [
+        "today",
+        1
+      ],
+      [
+        "Q2 2025",
+        1
+      ],
+      [
+        "0.72",
+        1
+      ]
+    ],
+    "entity_types_found": [
+      "ORG",
+      "DATE",
+      "MONEY",
+      "GPE"
+    ],
+    "company_entities": 17,
+    "person_entities": 0,
+    "financial_entities": 7,
+    "entity_density": 0.1952662721893491
+  },
+  "financial_analysis": {
+    "money_amounts": [
+      "0.72",
+      "0.81",
+      "91",
+      "87",
+      "87",
+      "1.41",
+      "1.34"
+    ],
+    "percentages": [],
+    "companies": [
+      "Entergy Corporation",
+      "ETR",
+      "Entergy",
+      "Entergy",
+      "Zacks Research",
+      "ETR",
+      "Zacks Research",
+      "Entergy",
+      "Barclays",
+      "ETR",
+      "Barclays",
+      "Entergy",
+      "Entergy",
+      "Entergy",
+      "Zacks Research",
+      "Zacks Research's",
+      "Entergy"
+    ],
+    "people": [],
+    "dates": [
+      "today",
+      "Q2 2025",
+      "Q2",
+      "Q3 2025",
+      "later in the year",
+      "Q3",
+      "1+ days ago"
+    ],
+    "financial_terms": [
+      "Earnings",
+      "earnings",
+      "stock"
+    ],
+    "financial_metrics": [],
+    "market_indicators": [
+      "Price",
+      "price",
+      "target",
+      "rating",
+      "Target"
+    ]
+  },
+  "temporal_analysis": {
+    "dates": [
+      "today",
+      "Q2 2025",
+      "Q2",
+      "Q3 2025",
+      "later in the year",
+      "Q3",
+      "1+ days ago"
+    ],
+    "time_expressions": [],
+    "temporal_relationships": [
+      "today"
+    ],
+    "quarters": [
+      "Q2 2025",
+      "Q2",
+      "Q3 2025",
+      "Q3"
+    ],
+    "years": [
+      "Q2 2025",
+      "Q3 2025"
+    ],
+    "time_periods": []
+  },
+  "sentiment_analysis": {
+    "positive_words": 3,
+    "negative_words": 1,
+    "positive_ratio": 0.01775147928994083,
+    "negative_ratio": 0.005917159763313609,
+    "sentiment_score": 0.01183431952662722,
+    "sentiment_label": "positive",
+    "sentiment_strength": 0.01183431952662722,
+    "confidence": 0.11834319526627221
+  },
+  "industry_analysis": {
+    "dominant_industry": "tech",
+    "industry_scores": {
+      "tech": 1,
+      "finance": 0,
+      "healthcare": 0,
+      "energy": 0,
+      "retail": 0,
+      "automotive": 0,
+      "media": 0,
+      "industrial": 0,
+      "real_estate": 0,
+      "telecom": 0,
+      "food_beverage": 0,
+      "travel": 0,
+      "education": 0,
+      "professional": 0,
+      "mining": 0,
+      "aerospace": 0,
+      "environmental": 0,
+      "cannabis": 0
+    },
+    "confidence": 1.0
+  },
+  "market_analysis": {
+    "market_sentiment": "neutral",
+    "bullish_indicators": 0,
+    "bearish_indicators": 0,
+    "market_conditions": {
+      "volatility": "normal",
+      "volume": "normal",
+      "trend": "neutral"
+    },
+    "trading_activity": "normal"
+  },
+  "competitor_analysis": {
+    "companies_mentioned": [
+      "Entergy Corporation",
+      "ETR",
+      "Entergy",
+      "Entergy",
+      "Zacks Research",
+      "ETR",
+      "Zacks Research",
+      "Entergy",
+      "Barclays",
+      "ETR",
+      "Barclays",
+      "Entergy",
+      "Entergy",
+      "Entergy",
+      "Zacks Research",
+      "Zacks Research's",
+      "Entergy"
+    ],
+    "competitive_context": [],
+    "competitor_count": 17,
+    "has_competitive_language": false
+  },
+  "risk_analysis": {
+    "risk_sentences": [],
+    "risk_count": 0,
+    "risk_level": "low"
+  },
+  "opportunity_analysis": {
+    "opportunity_sentences": [
+      "Positive Sentiment:\nEntergy launched bill management tools and resources to help customers manage cooling costs and save money, potentially boosting customer satisfaction and retention.\nEntergy Helping Customers Stay Cool and Save Money With Bill Management Tools and Resources\nPositive Sentiment:",
+      "Zacks Research raised its Q2 2025 EPS estimate for ETR from $0.72 to $0.81, signaling stronger near-term earnings potential.",
+      "Entergy plans power outages for parts of Denham Springs\nNegative Sentiment:\nZacks Research lowered its Q3 2025 EPS estimate for ETR from $1.41 to $1.34, pointing to potential headwinds later in the year.\nWhat is Zacks Research's Forecast for Entergy Q3 Earnings?\nPosted 1+ days ago\nAI Generated."
+    ],
+    "opportunity_count": 3,
+    "opportunity_level": "medium"
+  },
+  "processing_metadata": {
+    "timestamp": "2025-07-13T08:00:34.530013",
+    "model_used": "en_core_web_trf",
+    "text_length": 1235
+  }
+}
