@@ -1,0 +1,4144 @@
+{
+  "ticker": "SYF",
+  "entities": [
+    {
+      "text": "Synchrony Financial",
+      "label": "ORG",
+      "start": 12,
+      "end": 31,
+      "sentence": "Summary for Synchrony Financial (SYF)",
+      "context": "Summary for Synchrony Financial (SYF)\nShares of Synchrony Financial (NYSE:SYF) ar",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Synchrony Financial",
+      "label": "ORG",
+      "start": 48,
+      "end": 67,
+      "sentence": "Shares of Synchrony Financial (NYSE:SYF) are trading higher after a wave of analyst upgrades, price-target increases and the stock hitting fresh highs.",
+      "context": "Summary for Synchrony Financial (SYF)\nShares of Synchrony Financial (NYSE:SYF) are trading higher after a wave of ana",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "JPMorgan Chase & Co.",
+      "label": "ORG",
+      "start": 236,
+      "end": 256,
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. boosted its rating on SYF to “overweight” and lifted the price target from $52.00 to $80.00, signaling strong upside potential.",
+      "context": "hs. Key developments include:\nPositive Sentiment:\nJPMorgan Chase & Co. boosted its rating on SYF to “overweight” and lif",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "SYF",
+      "label": "ORG",
+      "start": 279,
+      "end": 282,
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. boosted its rating on SYF to “overweight” and lifted the price target from $52.00 to $80.00, signaling strong upside potential.",
+      "context": "iment:\nJPMorgan Chase & Co. boosted its rating on SYF to “overweight” and lifted the price target from",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "52.00",
+      "label": "MONEY",
+      "start": 333,
+      "end": 338,
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. boosted its rating on SYF to “overweight” and lifted the price target from $52.00 to $80.00, signaling strong upside potential.",
+      "context": "to “overweight” and lifted the price target from $52.00 to $80.00, signaling strong upside potential.\nSyn",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "80.00",
+      "label": "MONEY",
+      "start": 343,
+      "end": 348,
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. boosted its rating on SYF to “overweight” and lifted the price target from $52.00 to $80.00, signaling strong upside potential.",
+      "context": "ight” and lifted the price target from $52.00 to $80.00, signaling strong upside potential.\nSynchrony Fin",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Synchrony Financial",
+      "label": "ORG",
+      "start": 385,
+      "end": 404,
+      "sentence": "Synchrony Financial (NYSE:SYF) Price Target Raised to $80.00 at JPMorgan Chase & Co.",
+      "context": ".00 to $80.00, signaling strong upside potential.\nSynchrony Financial (NYSE:SYF) Price Target Raised to $80.00 at JPMor",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "80.00",
+      "label": "MONEY",
+      "start": 440,
+      "end": 445,
+      "sentence": "Synchrony Financial (NYSE:SYF) Price Target Raised to $80.00 at JPMorgan Chase & Co.",
+      "context": "rony Financial (NYSE:SYF) Price Target Raised to $80.00 at JPMorgan Chase & Co.\nPositive Sentiment:\nJPMor",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "JPMorgan Chase & Co.",
+      "label": "ORG",
+      "start": 449,
+      "end": 469,
+      "sentence": "Synchrony Financial (NYSE:SYF) Price Target Raised to $80.00 at JPMorgan Chase & Co.",
+      "context": "ncial (NYSE:SYF) Price Target Raised to $80.00 at JPMorgan Chase & Co.\nPositive Sentiment:\nJPMorgan’s price-target raise",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "JPMorgan",
+      "label": "ORG",
+      "start": 490,
+      "end": 498,
+      "sentence": "JPMorgan’s price-target raise to $80 (from $52) was also highlighted by Benzinga, noting an overweight rating and roughly 13.4% upside from recent levels.\nBenzinga Coverage\nPositive Sentiment",
+      "context": "80.00 at JPMorgan Chase & Co.\nPositive Sentiment:\nJPMorgan’s price-target raise to $80 (from $52) was also h",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "80",
+      "label": "MONEY",
+      "start": 524,
+      "end": 526,
+      "sentence": "JPMorgan’s price-target raise to $80 (from $52) was also highlighted by Benzinga, noting an overweight rating and roughly 13.4% upside from recent levels.\nBenzinga Coverage\nPositive Sentiment",
+      "context": "tive Sentiment:\nJPMorgan’s price-target raise to $80 (from $52) was also highlighted by Benzinga, noti",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "52",
+      "label": "MONEY",
+      "start": 534,
+      "end": 536,
+      "sentence": "JPMorgan’s price-target raise to $80 (from $52) was also highlighted by Benzinga, noting an overweight rating and roughly 13.4% upside from recent levels.\nBenzinga Coverage\nPositive Sentiment",
+      "context": "ment:\nJPMorgan’s price-target raise to $80 (from $52) was also highlighted by Benzinga, noting an over",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Benzinga",
+      "label": "ORG",
+      "start": 562,
+      "end": 570,
+      "sentence": "JPMorgan’s price-target raise to $80 (from $52) was also highlighted by Benzinga, noting an overweight rating and roughly 13.4% upside from recent levels.\nBenzinga Coverage\nPositive Sentiment",
+      "context": "t raise to $80 (from $52) was also highlighted by Benzinga, noting an overweight rating and roughly 13.4% up",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "roughly 13.4%",
+      "label": "PERCENT",
+      "start": 604,
+      "end": 617,
+      "sentence": "JPMorgan’s price-target raise to $80 (from $52) was also highlighted by Benzinga, noting an overweight rating and roughly 13.4% upside from recent levels.\nBenzinga Coverage\nPositive Sentiment",
+      "context": "hted by Benzinga, noting an overweight rating and roughly 13.4% upside from recent levels.\nBenzinga Coverage\nPosi",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Benzinga",
+      "label": "ORG",
+      "start": 645,
+      "end": 653,
+      "sentence": "JPMorgan’s price-target raise to $80 (from $52) was also highlighted by Benzinga, noting an overweight rating and roughly 13.4% upside from recent levels.\nBenzinga Coverage\nPositive Sentiment",
+      "context": "ting and roughly 13.4% upside from recent levels.\nBenzinga Coverage\nPositive Sentiment:\nAccording to GuruFoc",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "GuruFocus",
+      "label": "ORG",
+      "start": 696,
+      "end": 705,
+      "sentence": "According to GuruFocus, JPMorgan’s upgrade to an $80 price target further underscores growing bullishness among institutional analysts.",
+      "context": "enzinga Coverage\nPositive Sentiment:\nAccording to GuruFocus, JPMorgan’s upgrade to an $80 price target furthe",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "JPMorgan",
+      "label": "ORG",
+      "start": 707,
+      "end": 715,
+      "sentence": "According to GuruFocus, JPMorgan’s upgrade to an $80 price target further underscores growing bullishness among institutional analysts.",
+      "context": "erage\nPositive Sentiment:\nAccording to GuruFocus, JPMorgan’s upgrade to an $80 price target further undersco",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "80",
+      "label": "MONEY",
+      "start": 733,
+      "end": 735,
+      "sentence": "According to GuruFocus, JPMorgan’s upgrade to an $80 price target further underscores growing bullishness among institutional analysts.",
+      "context": "According to GuruFocus, JPMorgan’s upgrade to an $80 price target further underscores growing bullishn",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "JPMorgan",
+      "label": "ORG",
+      "start": 819,
+      "end": 827,
+      "sentence": "JPMorgan Enhances Synchrony Financial (SYF) Price Target to $80 |",
+      "context": "growing bullishness among institutional analysts.\nJPMorgan Enhances Synchrony Financial (SYF) Price Target t",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Synchrony Financial",
+      "label": "ORG",
+      "start": 837,
+      "end": 856,
+      "sentence": "JPMorgan Enhances Synchrony Financial (SYF) Price Target to $80 |",
+      "context": "s among institutional analysts.\nJPMorgan Enhances Synchrony Financial (SYF) Price Target to $80 | SYF Stock News\nPositi",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "SYF",
+      "label": "ORG",
+      "start": 858,
+      "end": 861,
+      "sentence": "JPMorgan Enhances Synchrony Financial (SYF) Price Target to $80 |",
+      "context": "analysts.\nJPMorgan Enhances Synchrony Financial (SYF) Price Target to $80 | SYF Stock News\nPositive Se",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "80",
+      "label": "MONEY",
+      "start": 880,
+      "end": 882,
+      "sentence": "JPMorgan Enhances Synchrony Financial (SYF) Price Target to $80 |",
+      "context": "hances Synchrony Financial (SYF) Price Target to $80 | SYF Stock News\nPositive Sentiment:\nSynchrony Fi",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "SYF Stock News",
+      "label": "ORG",
+      "start": 885,
+      "end": 899,
+      "sentence": "SYF Stock News\nPositive Sentiment:",
+      "context": "s Synchrony Financial (SYF) Price Target to $80 | SYF Stock News\nPositive Sentiment:\nSynchrony Financial shares hi",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Synchrony Financial",
+      "label": "ORG",
+      "start": 920,
+      "end": 939,
+      "sentence": "Synchrony Financial shares hit a record intraday high of $70.94, reflecting strong buying momentum.",
+      "context": "arget to $80 | SYF Stock News\nPositive Sentiment:\nSynchrony Financial shares hit a record intraday high of $70.94, refl",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "intraday",
+      "label": "TIME",
+      "start": 960,
+      "end": 968,
+      "sentence": "Synchrony Financial shares hit a record intraday high of $70.94, reflecting strong buying momentum.",
+      "context": "entiment:\nSynchrony Financial shares hit a record intraday high of $70.94, reflecting strong buying momentum",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "70.94",
+      "label": "MONEY",
+      "start": 978,
+      "end": 983,
+      "sentence": "Synchrony Financial shares hit a record intraday high of $70.94, reflecting strong buying momentum.",
+      "context": "y Financial shares hit a record intraday high of $70.94, reflecting strong buying momentum.\nSynchrony Fin",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Synchrony Financial",
+      "label": "ORG",
+      "start": 1020,
+      "end": 1039,
+      "sentence": "Synchrony Financial Stock Hits Record High of $70.94\nPositive Sentiment:\nThe stock reached a new 12-month high following an analyst upgrade, according to MarketBeat.",
+      "context": "igh of $70.94, reflecting strong buying momentum.\nSynchrony Financial Stock Hits Record High of $70.94\nPositive Sentime",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "70.94",
+      "label": "MONEY",
+      "start": 1067,
+      "end": 1072,
+      "sentence": "Synchrony Financial Stock Hits Record High of $70.94\nPositive Sentiment:\nThe stock reached a new 12-month high following an analyst upgrade, according to MarketBeat.",
+      "context": "m.\nSynchrony Financial Stock Hits Record High of $70.94\nPositive Sentiment:\nThe stock reached a new 12-mo",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "12-month",
+      "label": "DATE",
+      "start": 1117,
+      "end": 1125,
+      "sentence": "Synchrony Financial Stock Hits Record High of $70.94\nPositive Sentiment:\nThe stock reached a new 12-month high following an analyst upgrade, according to MarketBeat.",
+      "context": "70.94\nPositive Sentiment:\nThe stock reached a new 12-month high following an analyst upgrade, according to M",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "MarketBeat",
+      "label": "ORG",
+      "start": 1174,
+      "end": 1184,
+      "sentence": "Synchrony Financial Stock Hits Record High of $70.94\nPositive Sentiment:\nThe stock reached a new 12-month high following an analyst upgrade, according to MarketBeat.",
+      "context": "h high following an analyst upgrade, according to MarketBeat.\nSynchrony Financial (NYSE:SYF) Hits New 12-Month",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Synchrony Financial",
+      "label": "ORG",
+      "start": 1186,
+      "end": 1205,
+      "sentence": "Synchrony Financial (NYSE:SYF) Hits New 12-Month High After Analyst Upgrade\nPositive Sentiment:",
+      "context": "wing an analyst upgrade, according to MarketBeat.\nSynchrony Financial (NYSE:SYF) Hits New 12-Month High After Analyst U",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "SYF",
+      "label": "ORG",
+      "start": 1212,
+      "end": 1215,
+      "sentence": "Synchrony Financial (NYSE:SYF) Hits New 12-Month High After Analyst Upgrade\nPositive Sentiment:",
+      "context": "ccording to MarketBeat.\nSynchrony Financial (NYSE:SYF) Hits New 12-Month High After Analyst Upgrade\nPos",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "12-Month",
+      "label": "DATE",
+      "start": 1226,
+      "end": 1234,
+      "sentence": "Synchrony Financial (NYSE:SYF) Hits New 12-Month High After Analyst Upgrade\nPositive Sentiment:",
+      "context": "rketBeat.\nSynchrony Financial (NYSE:SYF) Hits New 12-Month High After Analyst Upgrade\nPositive Sentiment:\nJe",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Jefferies",
+      "label": "ORG",
+      "start": 1282,
+      "end": 1291,
+      "sentence": "Jefferies reaffirmed its “buy” rating on SYF, backing continued confidence in the company’s consumer-finance growth prospects.",
+      "context": "th High After Analyst Upgrade\nPositive Sentiment:\nJefferies reaffirmed its “buy” rating on SYF, backing conti",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "SYF",
+      "label": "ORG",
+      "start": 1323,
+      "end": 1326,
+      "sentence": "Jefferies reaffirmed its “buy” rating on SYF, backing continued confidence in the company’s consumer-finance growth prospects.",
+      "context": "ntiment:\nJefferies reaffirmed its “buy” rating on SYF, backing continued confidence in the company’s co",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Jefferies",
+      "label": "ORG",
+      "start": 1409,
+      "end": 1418,
+      "sentence": "Jefferies Reaffirms Their Buy Rating on Synchrony Financial (SYF)\nPositive Sentiment:",
+      "context": "the company’s consumer-finance growth prospects.\nJefferies Reaffirms Their Buy Rating on Synchrony Financial",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Synchrony Financial",
+      "label": "ORG",
+      "start": 1449,
+      "end": 1468,
+      "sentence": "Jefferies Reaffirms Their Buy Rating on Synchrony Financial (SYF)\nPositive Sentiment:",
+      "context": "rospects.\nJefferies Reaffirms Their Buy Rating on Synchrony Financial (SYF)\nPositive Sentiment:\nSeaport Global raised i",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Seaport Global",
+      "label": "ORG",
+      "start": 1495,
+      "end": 1509,
+      "sentence": "Seaport Global raised its price target on SYF and maintained a “buy” rating, reinforcing the bullish trend.",
+      "context": "on Synchrony Financial (SYF)\nPositive Sentiment:\nSeaport Global raised its price target on SYF and maintained a “",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "SYF",
+      "label": "ORG",
+      "start": 1537,
+      "end": 1540,
+      "sentence": "Seaport Global raised its price target on SYF and maintained a “buy” rating, reinforcing the bullish trend.",
+      "context": "timent:\nSeaport Global raised its price target on SYF and maintained a “buy” rating, reinforcing the bu",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Seaport Global",
+      "label": "ORG",
+      "start": 1603,
+      "end": 1617,
+      "sentence": "Seaport Global Raises PT on Synchrony Financial (SYF); Maintains ‘Buy’ Rating\nPositive Sentiment:",
+      "context": "ed a “buy” rating, reinforcing the bullish trend.\nSeaport Global Raises PT on Synchrony Financial (SYF); Maintains",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Synchrony Financial",
+      "label": "ORG",
+      "start": 1631,
+      "end": 1650,
+      "sentence": "Seaport Global Raises PT on Synchrony Financial (SYF); Maintains ‘Buy’ Rating\nPositive Sentiment:",
+      "context": "ng the bullish trend.\nSeaport Global Raises PT on Synchrony Financial (SYF); Maintains ‘Buy’ Rating\nPositive Sentiment:",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Barclays",
+      "label": "ORG",
+      "start": 1701,
+      "end": 1709,
+      "sentence": "Barclays projected strong price appreciation for SYF, reflecting optimism about consumer spending and credit-card trends.",
+      "context": "(SYF); Maintains ‘Buy’ Rating\nPositive Sentiment:\nBarclays projected strong price appreciation for SYF, refl",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "SYF",
+      "label": "ORG",
+      "start": 1750,
+      "end": 1753,
+      "sentence": "Barclays projected strong price appreciation for SYF, reflecting optimism about consumer spending and credit-card trends.",
+      "context": "Barclays projected strong price appreciation for SYF, reflecting optimism about consumer spending and",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Barclays",
+      "label": "ORG",
+      "start": 1823,
+      "end": 1831,
+      "sentence": "Barclays Forecasts Strong Price Appreciation for Synchrony Financial (NYSE:SYF) Stock\nNeutral Sentiment:\nMorgan Stanley increased its price target on SYF from $48.00 to $70.00 but kept an “equal weight” rating, suggesting limited near-term upside.",
+      "context": "m about consumer spending and credit-card trends.\nBarclays Forecasts Strong Price Appreciation for Synchrony",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Synchrony Financial",
+      "label": "ORG",
+      "start": 1872,
+      "end": 1891,
+      "sentence": "Barclays Forecasts Strong Price Appreciation for Synchrony Financial (NYSE:SYF) Stock\nNeutral Sentiment:\nMorgan Stanley increased its price target on SYF from $48.00 to $70.00 but kept an “equal weight” rating, suggesting limited near-term upside.",
+      "context": "Barclays Forecasts Strong Price Appreciation for Synchrony Financial (NYSE:SYF) Stock\nNeutral Sentiment:\nMorgan Stanle",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Morgan Stanley",
+      "label": "ORG",
+      "start": 1928,
+      "end": 1942,
+      "sentence": "Barclays Forecasts Strong Price Appreciation for Synchrony Financial (NYSE:SYF) Stock\nNeutral Sentiment:\nMorgan Stanley increased its price target on SYF from $48.00 to $70.00 but kept an “equal weight” rating, suggesting limited near-term upside.",
+      "context": "ony Financial (NYSE:SYF) Stock\nNeutral Sentiment:\nMorgan Stanley increased its price target on SYF from $48.00 to",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "SYF",
+      "label": "ORG",
+      "start": 1973,
+      "end": 1976,
+      "sentence": "Barclays Forecasts Strong Price Appreciation for Synchrony Financial (NYSE:SYF) Stock\nNeutral Sentiment:\nMorgan Stanley increased its price target on SYF from $48.00 to $70.00 but kept an “equal weight” rating, suggesting limited near-term upside.",
+      "context": "ent:\nMorgan Stanley increased its price target on SYF from $48.00 to $70.00 but kept an “equal weight”",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "48.00",
+      "label": "MONEY",
+      "start": 1983,
+      "end": 1988,
+      "sentence": "Barclays Forecasts Strong Price Appreciation for Synchrony Financial (NYSE:SYF) Stock\nNeutral Sentiment:\nMorgan Stanley increased its price target on SYF from $48.00 to $70.00 but kept an “equal weight” rating, suggesting limited near-term upside.",
+      "context": "n Stanley increased its price target on SYF from $48.00 to $70.00 but kept an “equal weight” rating, sugg",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "70.00",
+      "label": "MONEY",
+      "start": 1993,
+      "end": 1998,
+      "sentence": "Barclays Forecasts Strong Price Appreciation for Synchrony Financial (NYSE:SYF) Stock\nNeutral Sentiment:\nMorgan Stanley increased its price target on SYF from $48.00 to $70.00 but kept an “equal weight” rating, suggesting limited near-term upside.",
+      "context": "increased its price target on SYF from $48.00 to $70.00 but kept an “equal weight” rating, suggesting lim",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Morgan Stanley",
+      "label": "ORG",
+      "start": 2071,
+      "end": 2085,
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "context": "ght” rating, suggesting limited near-term upside.\nMorgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Ta",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Synchrony Financial",
+      "label": "ORG",
+      "start": 2096,
+      "end": 2115,
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "context": "imited near-term upside.\nMorgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentime",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "70.00",
+      "label": "MONEY",
+      "start": 2144,
+      "end": 2149,
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "context": "s Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley not",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Morgan Stanley",
+      "label": "ORG",
+      "start": 2181,
+      "end": 2195,
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "context": "e Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "70",
+      "label": "MONEY",
+      "start": 2207,
+      "end": 2209,
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "context": "Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Benzinga",
+      "label": "ORG",
+      "start": 2307,
+      "end": 2315,
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "context": "nt levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated. May Con",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "1+ days ago",
+      "label": "DATE",
+      "start": 2332,
+      "end": 2343,
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "context": "ixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AI Generated",
+      "label": "ORG",
+      "start": 2344,
+      "end": 2356,
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "context": "n valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    }
+  ],
+  "relationships": [
+    {
+      "type": "SVO",
+      "subject": "stock",
+      "verb": "hitting",
+      "object": "highs",
+      "sentence": "Shares of Synchrony Financial (NYSE:SYF) are trading higher after a wave of analyst upgrades, price-target increases and the stock hitting fresh highs.",
+      "importance": 6
+    },
+    {
+      "type": "SVO",
+      "subject": "Chase",
+      "verb": "boosted",
+      "object": "rating",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. boosted its rating on SYF to “overweight” and lifted the price target from $52.00 to $80.00, signaling strong upside potential.",
+      "importance": 9
+    },
+    {
+      "type": "SVO",
+      "subject": "upgrade",
+      "verb": "underscores",
+      "object": "bullishness",
+      "sentence": "According to GuruFocus, JPMorgan’s upgrade to an $80 price target further underscores growing bullishness among institutional analysts.",
+      "importance": 5
+    },
+    {
+      "type": "SVO",
+      "subject": "JPMorgan",
+      "verb": "Enhances",
+      "object": "Target",
+      "sentence": "JPMorgan Enhances Synchrony Financial (SYF) Price Target to $80 |",
+      "importance": 6
+    },
+    {
+      "type": "SVO",
+      "subject": "shares",
+      "verb": "hit",
+      "object": "high",
+      "sentence": "Synchrony Financial shares hit a record intraday high of $70.94, reflecting strong buying momentum.",
+      "importance": 5
+    },
+    {
+      "type": "SVO",
+      "subject": "Stock",
+      "verb": "Hits",
+      "object": "High",
+      "sentence": "Synchrony Financial Stock Hits Record High of $70.94\nPositive Sentiment:\nThe stock reached a new 12-month high following an analyst upgrade, according to MarketBeat.",
+      "importance": 11
+    },
+    {
+      "type": "SVO",
+      "subject": "stock",
+      "verb": "reached",
+      "object": "high",
+      "sentence": "Synchrony Financial Stock Hits Record High of $70.94\nPositive Sentiment:\nThe stock reached a new 12-month high following an analyst upgrade, according to MarketBeat.",
+      "importance": 11
+    },
+    {
+      "type": "SVO",
+      "subject": "Financial",
+      "verb": "Hits",
+      "object": "High",
+      "sentence": "Synchrony Financial (NYSE:SYF) Hits New 12-Month High After Analyst Upgrade\nPositive Sentiment:",
+      "importance": 8
+    },
+    {
+      "type": "SVO",
+      "subject": "Jefferies",
+      "verb": "reaffirmed",
+      "object": "rating",
+      "sentence": "Jefferies reaffirmed its “buy” rating on SYF, backing continued confidence in the company’s consumer-finance growth prospects.",
+      "importance": 5
+    },
+    {
+      "type": "SVO",
+      "subject": "Jefferies",
+      "verb": "Reaffirms",
+      "object": "Rating",
+      "sentence": "Jefferies Reaffirms Their Buy Rating on Synchrony Financial (SYF)\nPositive Sentiment:",
+      "importance": 5
+    },
+    {
+      "type": "SVO",
+      "subject": "Global",
+      "verb": "raised",
+      "object": "target",
+      "sentence": "Seaport Global raised its price target on SYF and maintained a “buy” rating, reinforcing the bullish trend.",
+      "importance": 8
+    },
+    {
+      "type": "SVO",
+      "subject": "Global",
+      "verb": "Raises",
+      "object": "PT",
+      "sentence": "Seaport Global Raises PT on Synchrony Financial (SYF); Maintains ‘Buy’ Rating\nPositive Sentiment:",
+      "importance": 7
+    },
+    {
+      "type": "SVO",
+      "subject": "Barclays",
+      "verb": "projected",
+      "object": "appreciation",
+      "sentence": "Barclays projected strong price appreciation for SYF, reflecting optimism about consumer spending and credit-card trends.",
+      "importance": 3
+    },
+    {
+      "type": "SVO",
+      "subject": "Barclays",
+      "verb": "Forecasts",
+      "object": "Appreciation",
+      "sentence": "Barclays Forecasts Strong Price Appreciation for Synchrony Financial (NYSE:SYF) Stock\nNeutral Sentiment:\nMorgan Stanley increased its price target on SYF from $48.00 to $70.00 but kept an “equal weight” rating, suggesting limited near-term upside.",
+      "importance": 11
+    },
+    {
+      "type": "SVO",
+      "subject": "Stanley",
+      "verb": "increased",
+      "object": "target",
+      "sentence": "Barclays Forecasts Strong Price Appreciation for Synchrony Financial (NYSE:SYF) Stock\nNeutral Sentiment:\nMorgan Stanley increased its price target on SYF from $48.00 to $70.00 but kept an “equal weight” rating, suggesting limited near-term upside.",
+      "importance": 11
+    },
+    {
+      "type": "SVO",
+      "subject": "Stanley",
+      "verb": "Increases",
+      "object": "Target",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "importance": 19
+    },
+    {
+      "type": "SVO",
+      "subject": "target",
+      "verb": "represents",
+      "object": "downside",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "importance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "Financial",
+      "entity2_type": "ORG",
+      "sentence": "Summary for Synchrony Financial (SYF)",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "Financial",
+      "entity2_type": "ORG",
+      "sentence": "Shares of Synchrony Financial (NYSE:SYF) are trading higher after a wave of analyst upgrades, price-target increases and the stock hitting fresh highs.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "Chase",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. boosted its rating on SYF to “overweight” and lifted the price target from $52.00 to $80.00, signaling strong upside potential.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. boosted its rating on SYF to “overweight” and lifted the price target from $52.00 to $80.00, signaling strong upside potential.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "Co.",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. boosted its rating on SYF to “overweight” and lifted the price target from $52.00 to $80.00, signaling strong upside potential.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "SYF",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. boosted its rating on SYF to “overweight” and lifted the price target from $52.00 to $80.00, signaling strong upside potential.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "52.00",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. boosted its rating on SYF to “overweight” and lifted the price target from $52.00 to $80.00, signaling strong upside potential.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "80.00",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. boosted its rating on SYF to “overweight” and lifted the price target from $52.00 to $80.00, signaling strong upside potential.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Chase",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. boosted its rating on SYF to “overweight” and lifted the price target from $52.00 to $80.00, signaling strong upside potential.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Chase",
+      "entity1_type": "ORG",
+      "entity2": "Co.",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. boosted its rating on SYF to “overweight” and lifted the price target from $52.00 to $80.00, signaling strong upside potential.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Chase",
+      "entity1_type": "ORG",
+      "entity2": "SYF",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. boosted its rating on SYF to “overweight” and lifted the price target from $52.00 to $80.00, signaling strong upside potential.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Chase",
+      "entity1_type": "ORG",
+      "entity2": "52.00",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. boosted its rating on SYF to “overweight” and lifted the price target from $52.00 to $80.00, signaling strong upside potential.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Chase",
+      "entity1_type": "ORG",
+      "entity2": "80.00",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. boosted its rating on SYF to “overweight” and lifted the price target from $52.00 to $80.00, signaling strong upside potential.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Co.",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. boosted its rating on SYF to “overweight” and lifted the price target from $52.00 to $80.00, signaling strong upside potential.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "SYF",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. boosted its rating on SYF to “overweight” and lifted the price target from $52.00 to $80.00, signaling strong upside potential.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "52.00",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. boosted its rating on SYF to “overweight” and lifted the price target from $52.00 to $80.00, signaling strong upside potential.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "80.00",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. boosted its rating on SYF to “overweight” and lifted the price target from $52.00 to $80.00, signaling strong upside potential.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Co.",
+      "entity1_type": "ORG",
+      "entity2": "SYF",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. boosted its rating on SYF to “overweight” and lifted the price target from $52.00 to $80.00, signaling strong upside potential.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Co.",
+      "entity1_type": "ORG",
+      "entity2": "52.00",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. boosted its rating on SYF to “overweight” and lifted the price target from $52.00 to $80.00, signaling strong upside potential.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Co.",
+      "entity1_type": "ORG",
+      "entity2": "80.00",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. boosted its rating on SYF to “overweight” and lifted the price target from $52.00 to $80.00, signaling strong upside potential.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SYF",
+      "entity1_type": "ORG",
+      "entity2": "52.00",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. boosted its rating on SYF to “overweight” and lifted the price target from $52.00 to $80.00, signaling strong upside potential.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SYF",
+      "entity1_type": "ORG",
+      "entity2": "80.00",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. boosted its rating on SYF to “overweight” and lifted the price target from $52.00 to $80.00, signaling strong upside potential.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "52.00",
+      "entity1_type": "MONEY",
+      "entity2": "80.00",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. boosted its rating on SYF to “overweight” and lifted the price target from $52.00 to $80.00, signaling strong upside potential.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "Financial",
+      "entity2_type": "ORG",
+      "sentence": "Synchrony Financial (NYSE:SYF) Price Target Raised to $80.00 at JPMorgan Chase & Co.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "80.00",
+      "entity2_type": "MONEY",
+      "sentence": "Synchrony Financial (NYSE:SYF) Price Target Raised to $80.00 at JPMorgan Chase & Co.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "JPMorgan",
+      "entity2_type": "ORG",
+      "sentence": "Synchrony Financial (NYSE:SYF) Price Target Raised to $80.00 at JPMorgan Chase & Co.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "Chase",
+      "entity2_type": "ORG",
+      "sentence": "Synchrony Financial (NYSE:SYF) Price Target Raised to $80.00 at JPMorgan Chase & Co.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "Synchrony Financial (NYSE:SYF) Price Target Raised to $80.00 at JPMorgan Chase & Co.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "Co.",
+      "entity2_type": "ORG",
+      "sentence": "Synchrony Financial (NYSE:SYF) Price Target Raised to $80.00 at JPMorgan Chase & Co.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "80.00",
+      "entity2_type": "MONEY",
+      "sentence": "Synchrony Financial (NYSE:SYF) Price Target Raised to $80.00 at JPMorgan Chase & Co.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "JPMorgan",
+      "entity2_type": "ORG",
+      "sentence": "Synchrony Financial (NYSE:SYF) Price Target Raised to $80.00 at JPMorgan Chase & Co.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "Chase",
+      "entity2_type": "ORG",
+      "sentence": "Synchrony Financial (NYSE:SYF) Price Target Raised to $80.00 at JPMorgan Chase & Co.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "Synchrony Financial (NYSE:SYF) Price Target Raised to $80.00 at JPMorgan Chase & Co.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "Co.",
+      "entity2_type": "ORG",
+      "sentence": "Synchrony Financial (NYSE:SYF) Price Target Raised to $80.00 at JPMorgan Chase & Co.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "80.00",
+      "entity1_type": "MONEY",
+      "entity2": "JPMorgan",
+      "entity2_type": "ORG",
+      "sentence": "Synchrony Financial (NYSE:SYF) Price Target Raised to $80.00 at JPMorgan Chase & Co.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "80.00",
+      "entity1_type": "MONEY",
+      "entity2": "Chase",
+      "entity2_type": "ORG",
+      "sentence": "Synchrony Financial (NYSE:SYF) Price Target Raised to $80.00 at JPMorgan Chase & Co.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "80.00",
+      "entity1_type": "MONEY",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "Synchrony Financial (NYSE:SYF) Price Target Raised to $80.00 at JPMorgan Chase & Co.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "80.00",
+      "entity1_type": "MONEY",
+      "entity2": "Co.",
+      "entity2_type": "ORG",
+      "sentence": "Synchrony Financial (NYSE:SYF) Price Target Raised to $80.00 at JPMorgan Chase & Co.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "Chase",
+      "entity2_type": "ORG",
+      "sentence": "Synchrony Financial (NYSE:SYF) Price Target Raised to $80.00 at JPMorgan Chase & Co.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "Synchrony Financial (NYSE:SYF) Price Target Raised to $80.00 at JPMorgan Chase & Co.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "Co.",
+      "entity2_type": "ORG",
+      "sentence": "Synchrony Financial (NYSE:SYF) Price Target Raised to $80.00 at JPMorgan Chase & Co.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Chase",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "Synchrony Financial (NYSE:SYF) Price Target Raised to $80.00 at JPMorgan Chase & Co.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Chase",
+      "entity1_type": "ORG",
+      "entity2": "Co.",
+      "entity2_type": "ORG",
+      "sentence": "Synchrony Financial (NYSE:SYF) Price Target Raised to $80.00 at JPMorgan Chase & Co.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Co.",
+      "entity2_type": "ORG",
+      "sentence": "Synchrony Financial (NYSE:SYF) Price Target Raised to $80.00 at JPMorgan Chase & Co.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "80",
+      "entity2_type": "MONEY",
+      "sentence": "JPMorgan’s price-target raise to $80 (from $52) was also highlighted by Benzinga, noting an overweight rating and roughly 13.4% upside from recent levels.\nBenzinga Coverage\nPositive Sentiment",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "52",
+      "entity2_type": "MONEY",
+      "sentence": "JPMorgan’s price-target raise to $80 (from $52) was also highlighted by Benzinga, noting an overweight rating and roughly 13.4% upside from recent levels.\nBenzinga Coverage\nPositive Sentiment",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "Benzinga",
+      "entity2_type": "ORG",
+      "sentence": "JPMorgan’s price-target raise to $80 (from $52) was also highlighted by Benzinga, noting an overweight rating and roughly 13.4% upside from recent levels.\nBenzinga Coverage\nPositive Sentiment",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "roughly",
+      "entity2_type": "PERCENT",
+      "sentence": "JPMorgan’s price-target raise to $80 (from $52) was also highlighted by Benzinga, noting an overweight rating and roughly 13.4% upside from recent levels.\nBenzinga Coverage\nPositive Sentiment",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "13.4",
+      "entity2_type": "PERCENT",
+      "sentence": "JPMorgan’s price-target raise to $80 (from $52) was also highlighted by Benzinga, noting an overweight rating and roughly 13.4% upside from recent levels.\nBenzinga Coverage\nPositive Sentiment",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "JPMorgan’s price-target raise to $80 (from $52) was also highlighted by Benzinga, noting an overweight rating and roughly 13.4% upside from recent levels.\nBenzinga Coverage\nPositive Sentiment",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "Benzinga",
+      "entity2_type": "ORG",
+      "sentence": "JPMorgan’s price-target raise to $80 (from $52) was also highlighted by Benzinga, noting an overweight rating and roughly 13.4% upside from recent levels.\nBenzinga Coverage\nPositive Sentiment",
+      "distance": 34
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "80",
+      "entity1_type": "MONEY",
+      "entity2": "52",
+      "entity2_type": "MONEY",
+      "sentence": "JPMorgan’s price-target raise to $80 (from $52) was also highlighted by Benzinga, noting an overweight rating and roughly 13.4% upside from recent levels.\nBenzinga Coverage\nPositive Sentiment",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "80",
+      "entity1_type": "MONEY",
+      "entity2": "Benzinga",
+      "entity2_type": "ORG",
+      "sentence": "JPMorgan’s price-target raise to $80 (from $52) was also highlighted by Benzinga, noting an overweight rating and roughly 13.4% upside from recent levels.\nBenzinga Coverage\nPositive Sentiment",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "80",
+      "entity1_type": "MONEY",
+      "entity2": "roughly",
+      "entity2_type": "PERCENT",
+      "sentence": "JPMorgan’s price-target raise to $80 (from $52) was also highlighted by Benzinga, noting an overweight rating and roughly 13.4% upside from recent levels.\nBenzinga Coverage\nPositive Sentiment",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "80",
+      "entity1_type": "MONEY",
+      "entity2": "13.4",
+      "entity2_type": "PERCENT",
+      "sentence": "JPMorgan’s price-target raise to $80 (from $52) was also highlighted by Benzinga, noting an overweight rating and roughly 13.4% upside from recent levels.\nBenzinga Coverage\nPositive Sentiment",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "80",
+      "entity1_type": "MONEY",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "JPMorgan’s price-target raise to $80 (from $52) was also highlighted by Benzinga, noting an overweight rating and roughly 13.4% upside from recent levels.\nBenzinga Coverage\nPositive Sentiment",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "80",
+      "entity1_type": "MONEY",
+      "entity2": "Benzinga",
+      "entity2_type": "ORG",
+      "sentence": "JPMorgan’s price-target raise to $80 (from $52) was also highlighted by Benzinga, noting an overweight rating and roughly 13.4% upside from recent levels.\nBenzinga Coverage\nPositive Sentiment",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "52",
+      "entity1_type": "MONEY",
+      "entity2": "Benzinga",
+      "entity2_type": "ORG",
+      "sentence": "JPMorgan’s price-target raise to $80 (from $52) was also highlighted by Benzinga, noting an overweight rating and roughly 13.4% upside from recent levels.\nBenzinga Coverage\nPositive Sentiment",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "52",
+      "entity1_type": "MONEY",
+      "entity2": "roughly",
+      "entity2_type": "PERCENT",
+      "sentence": "JPMorgan’s price-target raise to $80 (from $52) was also highlighted by Benzinga, noting an overweight rating and roughly 13.4% upside from recent levels.\nBenzinga Coverage\nPositive Sentiment",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "52",
+      "entity1_type": "MONEY",
+      "entity2": "13.4",
+      "entity2_type": "PERCENT",
+      "sentence": "JPMorgan’s price-target raise to $80 (from $52) was also highlighted by Benzinga, noting an overweight rating and roughly 13.4% upside from recent levels.\nBenzinga Coverage\nPositive Sentiment",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "52",
+      "entity1_type": "MONEY",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "JPMorgan’s price-target raise to $80 (from $52) was also highlighted by Benzinga, noting an overweight rating and roughly 13.4% upside from recent levels.\nBenzinga Coverage\nPositive Sentiment",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "52",
+      "entity1_type": "MONEY",
+      "entity2": "Benzinga",
+      "entity2_type": "ORG",
+      "sentence": "JPMorgan’s price-target raise to $80 (from $52) was also highlighted by Benzinga, noting an overweight rating and roughly 13.4% upside from recent levels.\nBenzinga Coverage\nPositive Sentiment",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Benzinga",
+      "entity1_type": "ORG",
+      "entity2": "roughly",
+      "entity2_type": "PERCENT",
+      "sentence": "JPMorgan’s price-target raise to $80 (from $52) was also highlighted by Benzinga, noting an overweight rating and roughly 13.4% upside from recent levels.\nBenzinga Coverage\nPositive Sentiment",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Benzinga",
+      "entity1_type": "ORG",
+      "entity2": "13.4",
+      "entity2_type": "PERCENT",
+      "sentence": "JPMorgan’s price-target raise to $80 (from $52) was also highlighted by Benzinga, noting an overweight rating and roughly 13.4% upside from recent levels.\nBenzinga Coverage\nPositive Sentiment",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Benzinga",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "JPMorgan’s price-target raise to $80 (from $52) was also highlighted by Benzinga, noting an overweight rating and roughly 13.4% upside from recent levels.\nBenzinga Coverage\nPositive Sentiment",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Benzinga",
+      "entity1_type": "ORG",
+      "entity2": "Benzinga",
+      "entity2_type": "ORG",
+      "sentence": "JPMorgan’s price-target raise to $80 (from $52) was also highlighted by Benzinga, noting an overweight rating and roughly 13.4% upside from recent levels.\nBenzinga Coverage\nPositive Sentiment",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "roughly",
+      "entity1_type": "PERCENT",
+      "entity2": "13.4",
+      "entity2_type": "PERCENT",
+      "sentence": "JPMorgan’s price-target raise to $80 (from $52) was also highlighted by Benzinga, noting an overweight rating and roughly 13.4% upside from recent levels.\nBenzinga Coverage\nPositive Sentiment",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "roughly",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "JPMorgan’s price-target raise to $80 (from $52) was also highlighted by Benzinga, noting an overweight rating and roughly 13.4% upside from recent levels.\nBenzinga Coverage\nPositive Sentiment",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "roughly",
+      "entity1_type": "PERCENT",
+      "entity2": "Benzinga",
+      "entity2_type": "ORG",
+      "sentence": "JPMorgan’s price-target raise to $80 (from $52) was also highlighted by Benzinga, noting an overweight rating and roughly 13.4% upside from recent levels.\nBenzinga Coverage\nPositive Sentiment",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "13.4",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "JPMorgan’s price-target raise to $80 (from $52) was also highlighted by Benzinga, noting an overweight rating and roughly 13.4% upside from recent levels.\nBenzinga Coverage\nPositive Sentiment",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "13.4",
+      "entity1_type": "PERCENT",
+      "entity2": "Benzinga",
+      "entity2_type": "ORG",
+      "sentence": "JPMorgan’s price-target raise to $80 (from $52) was also highlighted by Benzinga, noting an overweight rating and roughly 13.4% upside from recent levels.\nBenzinga Coverage\nPositive Sentiment",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "Benzinga",
+      "entity2_type": "ORG",
+      "sentence": "JPMorgan’s price-target raise to $80 (from $52) was also highlighted by Benzinga, noting an overweight rating and roughly 13.4% upside from recent levels.\nBenzinga Coverage\nPositive Sentiment",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GuruFocus",
+      "entity1_type": "ORG",
+      "entity2": "JPMorgan",
+      "entity2_type": "ORG",
+      "sentence": "According to GuruFocus, JPMorgan’s upgrade to an $80 price target further underscores growing bullishness among institutional analysts.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GuruFocus",
+      "entity1_type": "ORG",
+      "entity2": "80",
+      "entity2_type": "MONEY",
+      "sentence": "According to GuruFocus, JPMorgan’s upgrade to an $80 price target further underscores growing bullishness among institutional analysts.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "80",
+      "entity2_type": "MONEY",
+      "sentence": "According to GuruFocus, JPMorgan’s upgrade to an $80 price target further underscores growing bullishness among institutional analysts.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "Synchrony",
+      "entity2_type": "ORG",
+      "sentence": "JPMorgan Enhances Synchrony Financial (SYF) Price Target to $80 |",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "Financial",
+      "entity2_type": "ORG",
+      "sentence": "JPMorgan Enhances Synchrony Financial (SYF) Price Target to $80 |",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "SYF",
+      "entity2_type": "ORG",
+      "sentence": "JPMorgan Enhances Synchrony Financial (SYF) Price Target to $80 |",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "80",
+      "entity2_type": "MONEY",
+      "sentence": "JPMorgan Enhances Synchrony Financial (SYF) Price Target to $80 |",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "Financial",
+      "entity2_type": "ORG",
+      "sentence": "JPMorgan Enhances Synchrony Financial (SYF) Price Target to $80 |",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "SYF",
+      "entity2_type": "ORG",
+      "sentence": "JPMorgan Enhances Synchrony Financial (SYF) Price Target to $80 |",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "80",
+      "entity2_type": "MONEY",
+      "sentence": "JPMorgan Enhances Synchrony Financial (SYF) Price Target to $80 |",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "SYF",
+      "entity2_type": "ORG",
+      "sentence": "JPMorgan Enhances Synchrony Financial (SYF) Price Target to $80 |",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "80",
+      "entity2_type": "MONEY",
+      "sentence": "JPMorgan Enhances Synchrony Financial (SYF) Price Target to $80 |",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SYF",
+      "entity1_type": "ORG",
+      "entity2": "80",
+      "entity2_type": "MONEY",
+      "sentence": "JPMorgan Enhances Synchrony Financial (SYF) Price Target to $80 |",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SYF",
+      "entity1_type": "ORG",
+      "entity2": "Stock",
+      "entity2_type": "ORG",
+      "sentence": "SYF Stock News\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SYF",
+      "entity1_type": "ORG",
+      "entity2": "News",
+      "entity2_type": "ORG",
+      "sentence": "SYF Stock News\nPositive Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stock",
+      "entity1_type": "ORG",
+      "entity2": "News",
+      "entity2_type": "ORG",
+      "sentence": "SYF Stock News\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "Financial",
+      "entity2_type": "ORG",
+      "sentence": "Synchrony Financial shares hit a record intraday high of $70.94, reflecting strong buying momentum.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "intraday",
+      "entity2_type": "TIME",
+      "sentence": "Synchrony Financial shares hit a record intraday high of $70.94, reflecting strong buying momentum.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "70.94",
+      "entity2_type": "MONEY",
+      "sentence": "Synchrony Financial shares hit a record intraday high of $70.94, reflecting strong buying momentum.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "intraday",
+      "entity2_type": "TIME",
+      "sentence": "Synchrony Financial shares hit a record intraday high of $70.94, reflecting strong buying momentum.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "70.94",
+      "entity2_type": "MONEY",
+      "sentence": "Synchrony Financial shares hit a record intraday high of $70.94, reflecting strong buying momentum.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "intraday",
+      "entity1_type": "TIME",
+      "entity2": "70.94",
+      "entity2_type": "MONEY",
+      "sentence": "Synchrony Financial shares hit a record intraday high of $70.94, reflecting strong buying momentum.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "Financial",
+      "entity2_type": "ORG",
+      "sentence": "Synchrony Financial Stock Hits Record High of $70.94\nPositive Sentiment:\nThe stock reached a new 12-month high following an analyst upgrade, according to MarketBeat.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "70.94",
+      "entity2_type": "MONEY",
+      "sentence": "Synchrony Financial Stock Hits Record High of $70.94\nPositive Sentiment:\nThe stock reached a new 12-month high following an analyst upgrade, according to MarketBeat.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "12",
+      "entity2_type": "DATE",
+      "sentence": "Synchrony Financial Stock Hits Record High of $70.94\nPositive Sentiment:\nThe stock reached a new 12-month high following an analyst upgrade, according to MarketBeat.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Synchrony Financial Stock Hits Record High of $70.94\nPositive Sentiment:\nThe stock reached a new 12-month high following an analyst upgrade, according to MarketBeat.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "month",
+      "entity2_type": "DATE",
+      "sentence": "Synchrony Financial Stock Hits Record High of $70.94\nPositive Sentiment:\nThe stock reached a new 12-month high following an analyst upgrade, according to MarketBeat.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "MarketBeat",
+      "entity2_type": "ORG",
+      "sentence": "Synchrony Financial Stock Hits Record High of $70.94\nPositive Sentiment:\nThe stock reached a new 12-month high following an analyst upgrade, according to MarketBeat.",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "70.94",
+      "entity2_type": "MONEY",
+      "sentence": "Synchrony Financial Stock Hits Record High of $70.94\nPositive Sentiment:\nThe stock reached a new 12-month high following an analyst upgrade, according to MarketBeat.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "12",
+      "entity2_type": "DATE",
+      "sentence": "Synchrony Financial Stock Hits Record High of $70.94\nPositive Sentiment:\nThe stock reached a new 12-month high following an analyst upgrade, according to MarketBeat.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Synchrony Financial Stock Hits Record High of $70.94\nPositive Sentiment:\nThe stock reached a new 12-month high following an analyst upgrade, according to MarketBeat.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "month",
+      "entity2_type": "DATE",
+      "sentence": "Synchrony Financial Stock Hits Record High of $70.94\nPositive Sentiment:\nThe stock reached a new 12-month high following an analyst upgrade, according to MarketBeat.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "MarketBeat",
+      "entity2_type": "ORG",
+      "sentence": "Synchrony Financial Stock Hits Record High of $70.94\nPositive Sentiment:\nThe stock reached a new 12-month high following an analyst upgrade, according to MarketBeat.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "70.94",
+      "entity1_type": "MONEY",
+      "entity2": "12",
+      "entity2_type": "DATE",
+      "sentence": "Synchrony Financial Stock Hits Record High of $70.94\nPositive Sentiment:\nThe stock reached a new 12-month high following an analyst upgrade, according to MarketBeat.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "70.94",
+      "entity1_type": "MONEY",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Synchrony Financial Stock Hits Record High of $70.94\nPositive Sentiment:\nThe stock reached a new 12-month high following an analyst upgrade, according to MarketBeat.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "70.94",
+      "entity1_type": "MONEY",
+      "entity2": "month",
+      "entity2_type": "DATE",
+      "sentence": "Synchrony Financial Stock Hits Record High of $70.94\nPositive Sentiment:\nThe stock reached a new 12-month high following an analyst upgrade, according to MarketBeat.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "70.94",
+      "entity1_type": "MONEY",
+      "entity2": "MarketBeat",
+      "entity2_type": "ORG",
+      "sentence": "Synchrony Financial Stock Hits Record High of $70.94\nPositive Sentiment:\nThe stock reached a new 12-month high following an analyst upgrade, according to MarketBeat.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "12",
+      "entity1_type": "DATE",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Synchrony Financial Stock Hits Record High of $70.94\nPositive Sentiment:\nThe stock reached a new 12-month high following an analyst upgrade, according to MarketBeat.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "12",
+      "entity1_type": "DATE",
+      "entity2": "month",
+      "entity2_type": "DATE",
+      "sentence": "Synchrony Financial Stock Hits Record High of $70.94\nPositive Sentiment:\nThe stock reached a new 12-month high following an analyst upgrade, according to MarketBeat.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "12",
+      "entity1_type": "DATE",
+      "entity2": "MarketBeat",
+      "entity2_type": "ORG",
+      "sentence": "Synchrony Financial Stock Hits Record High of $70.94\nPositive Sentiment:\nThe stock reached a new 12-month high following an analyst upgrade, according to MarketBeat.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "DATE",
+      "entity2": "month",
+      "entity2_type": "DATE",
+      "sentence": "Synchrony Financial Stock Hits Record High of $70.94\nPositive Sentiment:\nThe stock reached a new 12-month high following an analyst upgrade, according to MarketBeat.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "DATE",
+      "entity2": "MarketBeat",
+      "entity2_type": "ORG",
+      "sentence": "Synchrony Financial Stock Hits Record High of $70.94\nPositive Sentiment:\nThe stock reached a new 12-month high following an analyst upgrade, according to MarketBeat.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "month",
+      "entity1_type": "DATE",
+      "entity2": "MarketBeat",
+      "entity2_type": "ORG",
+      "sentence": "Synchrony Financial Stock Hits Record High of $70.94\nPositive Sentiment:\nThe stock reached a new 12-month high following an analyst upgrade, according to MarketBeat.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "Financial",
+      "entity2_type": "ORG",
+      "sentence": "Synchrony Financial (NYSE:SYF) Hits New 12-Month High After Analyst Upgrade\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "SYF",
+      "entity2_type": "ORG",
+      "sentence": "Synchrony Financial (NYSE:SYF) Hits New 12-Month High After Analyst Upgrade\nPositive Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "12",
+      "entity2_type": "DATE",
+      "sentence": "Synchrony Financial (NYSE:SYF) Hits New 12-Month High After Analyst Upgrade\nPositive Sentiment:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Synchrony Financial (NYSE:SYF) Hits New 12-Month High After Analyst Upgrade\nPositive Sentiment:",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "Month",
+      "entity2_type": "DATE",
+      "sentence": "Synchrony Financial (NYSE:SYF) Hits New 12-Month High After Analyst Upgrade\nPositive Sentiment:",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "SYF",
+      "entity2_type": "ORG",
+      "sentence": "Synchrony Financial (NYSE:SYF) Hits New 12-Month High After Analyst Upgrade\nPositive Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "12",
+      "entity2_type": "DATE",
+      "sentence": "Synchrony Financial (NYSE:SYF) Hits New 12-Month High After Analyst Upgrade\nPositive Sentiment:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Synchrony Financial (NYSE:SYF) Hits New 12-Month High After Analyst Upgrade\nPositive Sentiment:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "Month",
+      "entity2_type": "DATE",
+      "sentence": "Synchrony Financial (NYSE:SYF) Hits New 12-Month High After Analyst Upgrade\nPositive Sentiment:",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SYF",
+      "entity1_type": "ORG",
+      "entity2": "12",
+      "entity2_type": "DATE",
+      "sentence": "Synchrony Financial (NYSE:SYF) Hits New 12-Month High After Analyst Upgrade\nPositive Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SYF",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Synchrony Financial (NYSE:SYF) Hits New 12-Month High After Analyst Upgrade\nPositive Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SYF",
+      "entity1_type": "ORG",
+      "entity2": "Month",
+      "entity2_type": "DATE",
+      "sentence": "Synchrony Financial (NYSE:SYF) Hits New 12-Month High After Analyst Upgrade\nPositive Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "12",
+      "entity1_type": "DATE",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Synchrony Financial (NYSE:SYF) Hits New 12-Month High After Analyst Upgrade\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "12",
+      "entity1_type": "DATE",
+      "entity2": "Month",
+      "entity2_type": "DATE",
+      "sentence": "Synchrony Financial (NYSE:SYF) Hits New 12-Month High After Analyst Upgrade\nPositive Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "DATE",
+      "entity2": "Month",
+      "entity2_type": "DATE",
+      "sentence": "Synchrony Financial (NYSE:SYF) Hits New 12-Month High After Analyst Upgrade\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jefferies",
+      "entity1_type": "ORG",
+      "entity2": "SYF",
+      "entity2_type": "ORG",
+      "sentence": "Jefferies reaffirmed its “buy” rating on SYF, backing continued confidence in the company’s consumer-finance growth prospects.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jefferies",
+      "entity1_type": "ORG",
+      "entity2": "Synchrony",
+      "entity2_type": "ORG",
+      "sentence": "Jefferies Reaffirms Their Buy Rating on Synchrony Financial (SYF)\nPositive Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jefferies",
+      "entity1_type": "ORG",
+      "entity2": "Financial",
+      "entity2_type": "ORG",
+      "sentence": "Jefferies Reaffirms Their Buy Rating on Synchrony Financial (SYF)\nPositive Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "Financial",
+      "entity2_type": "ORG",
+      "sentence": "Jefferies Reaffirms Their Buy Rating on Synchrony Financial (SYF)\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "Global",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Global raised its price target on SYF and maintained a “buy” rating, reinforcing the bullish trend.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "SYF",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Global raised its price target on SYF and maintained a “buy” rating, reinforcing the bullish trend.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Global",
+      "entity1_type": "ORG",
+      "entity2": "SYF",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Global raised its price target on SYF and maintained a “buy” rating, reinforcing the bullish trend.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "Global",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Global Raises PT on Synchrony Financial (SYF); Maintains ‘Buy’ Rating\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "Synchrony",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Global Raises PT on Synchrony Financial (SYF); Maintains ‘Buy’ Rating\nPositive Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "Financial",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Global Raises PT on Synchrony Financial (SYF); Maintains ‘Buy’ Rating\nPositive Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Global",
+      "entity1_type": "ORG",
+      "entity2": "Synchrony",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Global Raises PT on Synchrony Financial (SYF); Maintains ‘Buy’ Rating\nPositive Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Global",
+      "entity1_type": "ORG",
+      "entity2": "Financial",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Global Raises PT on Synchrony Financial (SYF); Maintains ‘Buy’ Rating\nPositive Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "Financial",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Global Raises PT on Synchrony Financial (SYF); Maintains ‘Buy’ Rating\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "SYF",
+      "entity2_type": "ORG",
+      "sentence": "Barclays projected strong price appreciation for SYF, reflecting optimism about consumer spending and credit-card trends.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "Synchrony",
+      "entity2_type": "ORG",
+      "sentence": "Barclays Forecasts Strong Price Appreciation for Synchrony Financial (NYSE:SYF) Stock\nNeutral Sentiment:\nMorgan Stanley increased its price target on SYF from $48.00 to $70.00 but kept an “equal weight” rating, suggesting limited near-term upside.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "Financial",
+      "entity2_type": "ORG",
+      "sentence": "Barclays Forecasts Strong Price Appreciation for Synchrony Financial (NYSE:SYF) Stock\nNeutral Sentiment:\nMorgan Stanley increased its price target on SYF from $48.00 to $70.00 but kept an “equal weight” rating, suggesting limited near-term upside.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "Morgan",
+      "entity2_type": "ORG",
+      "sentence": "Barclays Forecasts Strong Price Appreciation for Synchrony Financial (NYSE:SYF) Stock\nNeutral Sentiment:\nMorgan Stanley increased its price target on SYF from $48.00 to $70.00 but kept an “equal weight” rating, suggesting limited near-term upside.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "Stanley",
+      "entity2_type": "ORG",
+      "sentence": "Barclays Forecasts Strong Price Appreciation for Synchrony Financial (NYSE:SYF) Stock\nNeutral Sentiment:\nMorgan Stanley increased its price target on SYF from $48.00 to $70.00 but kept an “equal weight” rating, suggesting limited near-term upside.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "SYF",
+      "entity2_type": "ORG",
+      "sentence": "Barclays Forecasts Strong Price Appreciation for Synchrony Financial (NYSE:SYF) Stock\nNeutral Sentiment:\nMorgan Stanley increased its price target on SYF from $48.00 to $70.00 but kept an “equal weight” rating, suggesting limited near-term upside.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "48.00",
+      "entity2_type": "MONEY",
+      "sentence": "Barclays Forecasts Strong Price Appreciation for Synchrony Financial (NYSE:SYF) Stock\nNeutral Sentiment:\nMorgan Stanley increased its price target on SYF from $48.00 to $70.00 but kept an “equal weight” rating, suggesting limited near-term upside.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barclays",
+      "entity1_type": "ORG",
+      "entity2": "70.00",
+      "entity2_type": "MONEY",
+      "sentence": "Barclays Forecasts Strong Price Appreciation for Synchrony Financial (NYSE:SYF) Stock\nNeutral Sentiment:\nMorgan Stanley increased its price target on SYF from $48.00 to $70.00 but kept an “equal weight” rating, suggesting limited near-term upside.",
+      "distance": 32
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "Financial",
+      "entity2_type": "ORG",
+      "sentence": "Barclays Forecasts Strong Price Appreciation for Synchrony Financial (NYSE:SYF) Stock\nNeutral Sentiment:\nMorgan Stanley increased its price target on SYF from $48.00 to $70.00 but kept an “equal weight” rating, suggesting limited near-term upside.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "Morgan",
+      "entity2_type": "ORG",
+      "sentence": "Barclays Forecasts Strong Price Appreciation for Synchrony Financial (NYSE:SYF) Stock\nNeutral Sentiment:\nMorgan Stanley increased its price target on SYF from $48.00 to $70.00 but kept an “equal weight” rating, suggesting limited near-term upside.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "Stanley",
+      "entity2_type": "ORG",
+      "sentence": "Barclays Forecasts Strong Price Appreciation for Synchrony Financial (NYSE:SYF) Stock\nNeutral Sentiment:\nMorgan Stanley increased its price target on SYF from $48.00 to $70.00 but kept an “equal weight” rating, suggesting limited near-term upside.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "SYF",
+      "entity2_type": "ORG",
+      "sentence": "Barclays Forecasts Strong Price Appreciation for Synchrony Financial (NYSE:SYF) Stock\nNeutral Sentiment:\nMorgan Stanley increased its price target on SYF from $48.00 to $70.00 but kept an “equal weight” rating, suggesting limited near-term upside.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "48.00",
+      "entity2_type": "MONEY",
+      "sentence": "Barclays Forecasts Strong Price Appreciation for Synchrony Financial (NYSE:SYF) Stock\nNeutral Sentiment:\nMorgan Stanley increased its price target on SYF from $48.00 to $70.00 but kept an “equal weight” rating, suggesting limited near-term upside.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "70.00",
+      "entity2_type": "MONEY",
+      "sentence": "Barclays Forecasts Strong Price Appreciation for Synchrony Financial (NYSE:SYF) Stock\nNeutral Sentiment:\nMorgan Stanley increased its price target on SYF from $48.00 to $70.00 but kept an “equal weight” rating, suggesting limited near-term upside.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "Morgan",
+      "entity2_type": "ORG",
+      "sentence": "Barclays Forecasts Strong Price Appreciation for Synchrony Financial (NYSE:SYF) Stock\nNeutral Sentiment:\nMorgan Stanley increased its price target on SYF from $48.00 to $70.00 but kept an “equal weight” rating, suggesting limited near-term upside.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "Stanley",
+      "entity2_type": "ORG",
+      "sentence": "Barclays Forecasts Strong Price Appreciation for Synchrony Financial (NYSE:SYF) Stock\nNeutral Sentiment:\nMorgan Stanley increased its price target on SYF from $48.00 to $70.00 but kept an “equal weight” rating, suggesting limited near-term upside.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "SYF",
+      "entity2_type": "ORG",
+      "sentence": "Barclays Forecasts Strong Price Appreciation for Synchrony Financial (NYSE:SYF) Stock\nNeutral Sentiment:\nMorgan Stanley increased its price target on SYF from $48.00 to $70.00 but kept an “equal weight” rating, suggesting limited near-term upside.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "48.00",
+      "entity2_type": "MONEY",
+      "sentence": "Barclays Forecasts Strong Price Appreciation for Synchrony Financial (NYSE:SYF) Stock\nNeutral Sentiment:\nMorgan Stanley increased its price target on SYF from $48.00 to $70.00 but kept an “equal weight” rating, suggesting limited near-term upside.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "70.00",
+      "entity2_type": "MONEY",
+      "sentence": "Barclays Forecasts Strong Price Appreciation for Synchrony Financial (NYSE:SYF) Stock\nNeutral Sentiment:\nMorgan Stanley increased its price target on SYF from $48.00 to $70.00 but kept an “equal weight” rating, suggesting limited near-term upside.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "Stanley",
+      "entity2_type": "ORG",
+      "sentence": "Barclays Forecasts Strong Price Appreciation for Synchrony Financial (NYSE:SYF) Stock\nNeutral Sentiment:\nMorgan Stanley increased its price target on SYF from $48.00 to $70.00 but kept an “equal weight” rating, suggesting limited near-term upside.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "SYF",
+      "entity2_type": "ORG",
+      "sentence": "Barclays Forecasts Strong Price Appreciation for Synchrony Financial (NYSE:SYF) Stock\nNeutral Sentiment:\nMorgan Stanley increased its price target on SYF from $48.00 to $70.00 but kept an “equal weight” rating, suggesting limited near-term upside.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "48.00",
+      "entity2_type": "MONEY",
+      "sentence": "Barclays Forecasts Strong Price Appreciation for Synchrony Financial (NYSE:SYF) Stock\nNeutral Sentiment:\nMorgan Stanley increased its price target on SYF from $48.00 to $70.00 but kept an “equal weight” rating, suggesting limited near-term upside.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "70.00",
+      "entity2_type": "MONEY",
+      "sentence": "Barclays Forecasts Strong Price Appreciation for Synchrony Financial (NYSE:SYF) Stock\nNeutral Sentiment:\nMorgan Stanley increased its price target on SYF from $48.00 to $70.00 but kept an “equal weight” rating, suggesting limited near-term upside.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "SYF",
+      "entity2_type": "ORG",
+      "sentence": "Barclays Forecasts Strong Price Appreciation for Synchrony Financial (NYSE:SYF) Stock\nNeutral Sentiment:\nMorgan Stanley increased its price target on SYF from $48.00 to $70.00 but kept an “equal weight” rating, suggesting limited near-term upside.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "48.00",
+      "entity2_type": "MONEY",
+      "sentence": "Barclays Forecasts Strong Price Appreciation for Synchrony Financial (NYSE:SYF) Stock\nNeutral Sentiment:\nMorgan Stanley increased its price target on SYF from $48.00 to $70.00 but kept an “equal weight” rating, suggesting limited near-term upside.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "70.00",
+      "entity2_type": "MONEY",
+      "sentence": "Barclays Forecasts Strong Price Appreciation for Synchrony Financial (NYSE:SYF) Stock\nNeutral Sentiment:\nMorgan Stanley increased its price target on SYF from $48.00 to $70.00 but kept an “equal weight” rating, suggesting limited near-term upside.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SYF",
+      "entity1_type": "ORG",
+      "entity2": "48.00",
+      "entity2_type": "MONEY",
+      "sentence": "Barclays Forecasts Strong Price Appreciation for Synchrony Financial (NYSE:SYF) Stock\nNeutral Sentiment:\nMorgan Stanley increased its price target on SYF from $48.00 to $70.00 but kept an “equal weight” rating, suggesting limited near-term upside.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SYF",
+      "entity1_type": "ORG",
+      "entity2": "70.00",
+      "entity2_type": "MONEY",
+      "sentence": "Barclays Forecasts Strong Price Appreciation for Synchrony Financial (NYSE:SYF) Stock\nNeutral Sentiment:\nMorgan Stanley increased its price target on SYF from $48.00 to $70.00 but kept an “equal weight” rating, suggesting limited near-term upside.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "48.00",
+      "entity1_type": "MONEY",
+      "entity2": "70.00",
+      "entity2_type": "MONEY",
+      "sentence": "Barclays Forecasts Strong Price Appreciation for Synchrony Financial (NYSE:SYF) Stock\nNeutral Sentiment:\nMorgan Stanley increased its price target on SYF from $48.00 to $70.00 but kept an “equal weight” rating, suggesting limited near-term upside.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "Stanley",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "Synchrony",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "Financial",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "70.00",
+      "entity2_type": "MONEY",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "Morgan",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "Stanley",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "70",
+      "entity2_type": "MONEY",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "Benzinga",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 44
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 48
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 49
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 50
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 51
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 53
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 54
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "Synchrony",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "Financial",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "70.00",
+      "entity2_type": "MONEY",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "Morgan",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "Stanley",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "70",
+      "entity2_type": "MONEY",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "Benzinga",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 43
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 47
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 48
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 49
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 50
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 52
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 53
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "Financial",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "70.00",
+      "entity2_type": "MONEY",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "Morgan",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "Stanley",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "70",
+      "entity2_type": "MONEY",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "Benzinga",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 41
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 45
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 46
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 47
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 48
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 50
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Synchrony",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 51
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "70.00",
+      "entity2_type": "MONEY",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "Morgan",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "Stanley",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "70",
+      "entity2_type": "MONEY",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "Benzinga",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 40
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 44
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 45
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 46
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 47
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 49
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 50
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "70.00",
+      "entity1_type": "MONEY",
+      "entity2": "Morgan",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "70.00",
+      "entity1_type": "MONEY",
+      "entity2": "Stanley",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "70.00",
+      "entity1_type": "MONEY",
+      "entity2": "70",
+      "entity2_type": "MONEY",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "70.00",
+      "entity1_type": "MONEY",
+      "entity2": "Benzinga",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "70.00",
+      "entity1_type": "MONEY",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 34
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "70.00",
+      "entity1_type": "MONEY",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 35
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "70.00",
+      "entity1_type": "MONEY",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 36
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "70.00",
+      "entity1_type": "MONEY",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 37
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "70.00",
+      "entity1_type": "MONEY",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 39
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "70.00",
+      "entity1_type": "MONEY",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 40
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "Stanley",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "70",
+      "entity2_type": "MONEY",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "Benzinga",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 32
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "70",
+      "entity2_type": "MONEY",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "Benzinga",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "70",
+      "entity1_type": "MONEY",
+      "entity2": "Benzinga",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "70",
+      "entity1_type": "MONEY",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "70",
+      "entity1_type": "MONEY",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "70",
+      "entity1_type": "MONEY",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "70",
+      "entity1_type": "MONEY",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "70",
+      "entity1_type": "MONEY",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "70",
+      "entity1_type": "MONEY",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Benzinga",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Benzinga",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Benzinga",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Benzinga",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Benzinga",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Benzinga",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ago",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ago",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AI",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "Synchrony Financial",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Synchrony Financial",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a wave",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "analyst upgrades",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "price-target increases",
+      "type": "noun_chunk",
+      "category": "trend"
+    },
+    {
+      "text": "the stock",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "fresh highs",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Key developments",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "JPMorgan Chase",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the price target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "strong upside potential",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "JPMorgan Chase",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "JPMorgan’s price-target raise",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "an overweight rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "roughly 13.4% upside",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "recent levels",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "JPMorgan’s upgrade",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "an $80 price target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "growing bullishness",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "institutional analysts",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Synchrony Financial (SYF) Price Target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "SYF Stock News",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Synchrony Financial shares",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "strong buying momentum",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Synchrony Financial Stock",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "The stock",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "a new 12-month high",
+      "type": "noun_chunk",
+      "category": "temporal"
+    },
+    {
+      "text": "an analyst upgrade",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Synchrony Financial",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "New 12-Month High",
+      "type": "noun_chunk",
+      "category": "temporal"
+    },
+    {
+      "text": "Analyst Upgrade",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its “buy” rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "continued confidence",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the company’s consumer-finance growth prospects",
+      "type": "noun_chunk",
+      "category": "trend"
+    },
+    {
+      "text": "Their Buy Rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Synchrony Financial (SYF",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Seaport Global",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its price target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a “buy” rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the bullish trend",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Seaport Global",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Synchrony Financial",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "‘Buy’ Rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "strong price appreciation",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "consumer spending",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "credit-card trends",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Strong Price Appreciation",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Synchrony Financial",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Morgan Stanley",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its price target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "an “equal weight” rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "limited near-term upside",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Morgan Stanley",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Morgan Stanley",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the $70 target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a modest downside",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "recent levels",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "mixed views",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Benzinga Coverage",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "$52.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$80.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$80.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$80",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$52",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$80",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$80",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$70.94",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$70.94",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$48.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$70.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$70.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$70",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "13.4%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "growth",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "trading",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Stock",
+      "type": "pattern",
+      "category": "market_term"
+    }
+  ],
+  "important_sentences": [
+    {
+      "text": "Morgan Stanley Increases Synchrony Financial (NYSE:SYF) Price Target to $70.00\nNeutral Sentiment:\nAnalysts at Morgan Stanley noted the $70 target represents a modest downside versus recent levels, underscoring mixed views on valuation.\nBenzinga Coverage\nPosted 1+ days ago\nAI Generated.",
+      "importance_score": 72,
+      "entity_count": 15,
+      "financial_keyword_count": 4,
+      "money_count": 2,
+      "company_count": 5,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Barclays Forecasts Strong Price Appreciation for Synchrony Financial (NYSE:SYF) Stock\nNeutral Sentiment:\nMorgan Stanley increased its price target on SYF from $48.00 to $70.00 but kept an “equal weight” rating, suggesting limited near-term upside.",
+      "importance_score": 51,
+      "entity_count": 8,
+      "financial_keyword_count": 3,
+      "money_count": 2,
+      "company_count": 4,
+      "sentiment": "positive"
+    },
+    {
+      "text": "JPMorgan’s price-target raise to $80 (from $52) was also highlighted by Benzinga, noting an overweight rating and roughly 13.4% upside from recent levels.\nBenzinga Coverage\nPositive Sentiment",
+      "importance_score": 44,
+      "entity_count": 8,
+      "financial_keyword_count": 2,
+      "money_count": 2,
+      "company_count": 3,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Synchrony Financial Stock Hits Record High of $70.94\nPositive Sentiment:\nThe stock reached a new 12-month high following an analyst upgrade, according to MarketBeat.",
+      "importance_score": 39,
+      "entity_count": 7,
+      "financial_keyword_count": 4,
+      "money_count": 1,
+      "company_count": 2,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Positive Sentiment:\nJPMorgan Chase & Co. boosted its rating on SYF to “overweight” and lifted the price target from $52.00 to $80.00, signaling strong upside potential.",
+      "importance_score": 38,
+      "entity_count": 7,
+      "financial_keyword_count": 2,
+      "money_count": 2,
+      "company_count": 2,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Synchrony Financial (NYSE:SYF) Price Target Raised to $80.00 at JPMorgan Chase & Co.",
+      "importance_score": 30,
+      "entity_count": 7,
+      "financial_keyword_count": 1,
+      "money_count": 1,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "JPMorgan Enhances Synchrony Financial (SYF) Price Target to $80 |",
+      "importance_score": 30,
+      "entity_count": 5,
+      "financial_keyword_count": 1,
+      "money_count": 1,
+      "company_count": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Seaport Global raised its price target on SYF and maintained a “buy” rating, reinforcing the bullish trend.",
+      "importance_score": 29,
+      "entity_count": 3,
+      "financial_keyword_count": 5,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Synchrony Financial (NYSE:SYF) Hits New 12-Month High After Analyst Upgrade\nPositive Sentiment:",
+      "importance_score": 26,
+      "entity_count": 6,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "positive"
+    },
+    {
+      "text": "According to GuruFocus, JPMorgan’s upgrade to an $80 price target further underscores growing bullishness among institutional analysts.",
+      "importance_score": 25,
+      "entity_count": 3,
+      "financial_keyword_count": 2,
+      "money_count": 1,
+      "company_count": 2,
+      "sentiment": "neutral"
+    }
+  ],
+  "entity_statistics": {
+    "total_entities": 57,
+    "unique_entities": 26,
+    "type_counts": {
+      "ORG": 39,
+      "MONEY": 13,
+      "PERCENT": 1,
+      "TIME": 1,
+      "DATE": 3
+    },
+    "type_distribution": {
+      "ORG": 0.6842105263157895,
+      "MONEY": 0.22807017543859648,
+      "PERCENT": 0.017543859649122806,
+      "TIME": 0.017543859649122806,
+      "DATE": 0.05263157894736842
+    },
+    "most_common_entities": [
+      [
+        "Synchrony Financial",
+        11
+      ],
+      [
+        "SYF",
+        7
+      ],
+      [
+        "JPMorgan",
+        3
+      ],
+      [
+        "80",
+        3
+      ],
+      [
+        "Benzinga",
+        3
+      ],
+      [
+        "Morgan Stanley",
+        3
+      ],
+      [
+        "JPMorgan Chase & Co.",
+        2
+      ],
+      [
+        "80.00",
+        2
+      ],
+      [
+        "70.94",
+        2
+      ],
+      [
+        "Jefferies",
+        2
+      ]
+    ],
+    "entity_types_found": [
+      "ORG",
+      "MONEY",
+      "PERCENT",
+      "TIME",
+      "DATE"
+    ],
+    "company_entities": 39,
+    "person_entities": 0,
+    "financial_entities": 14,
+    "entity_density": 0.1786833855799373
+  },
+  "financial_analysis": {
+    "money_amounts": [
+      "52.00",
+      "80.00",
+      "80.00",
+      "80",
+      "52",
+      "80",
+      "80",
+      "70.94",
+      "70.94",
+      "48.00",
+      "70.00",
+      "70.00",
+      "70"
+    ],
+    "percentages": [
+      "roughly 13.4%"
+    ],
+    "companies": [
+      "Synchrony Financial",
+      "Synchrony Financial",
+      "JPMorgan Chase & Co.",
+      "SYF",
+      "Synchrony Financial",
+      "JPMorgan Chase & Co.",
+      "JPMorgan",
+      "Benzinga",
+      "Benzinga",
+      "GuruFocus",
+      "JPMorgan",
+      "JPMorgan",
+      "Synchrony Financial",
+      "SYF",
+      "SYF Stock News",
+      "Synchrony Financial",
+      "Synchrony Financial",
+      "MarketBeat",
+      "Synchrony Financial",
+      "SYF",
+      "Jefferies",
+      "SYF",
+      "Jefferies",
+      "Synchrony Financial",
+      "Seaport Global",
+      "SYF",
+      "Seaport Global",
+      "Synchrony Financial",
+      "Barclays",
+      "SYF",
+      "Barclays",
+      "Synchrony Financial",
+      "Morgan Stanley",
+      "SYF",
+      "Morgan Stanley",
+      "Synchrony Financial",
+      "Morgan Stanley",
+      "Benzinga",
+      "AI Generated"
+    ],
+    "people": [],
+    "dates": [
+      "12-month",
+      "12-Month",
+      "1+ days ago"
+    ],
+    "financial_terms": [
+      "growth",
+      "Stock",
+      "trading",
+      "stock"
+    ],
+    "financial_metrics": [],
+    "market_indicators": [
+      "Rating",
+      "Price",
+      "price",
+      "target",
+      "upgrade",
+      "Upgrade",
+      "rating",
+      "Target"
+    ]
+  },
+  "temporal_analysis": {
+    "dates": [
+      "12-month",
+      "12-Month",
+      "1+ days ago"
+    ],
+    "time_expressions": [
+      "intraday"
+    ],
+    "temporal_relationships": [
+      "recent"
+    ],
+    "quarters": [],
+    "years": [],
+    "time_periods": []
+  },
+  "sentiment_analysis": {
+    "positive_words": 14,
+    "negative_words": 0,
+    "positive_ratio": 0.0438871473354232,
+    "negative_ratio": 0.0,
+    "sentiment_score": 0.0438871473354232,
+    "sentiment_label": "positive",
+    "sentiment_strength": 0.0438871473354232,
+    "confidence": 0.438871473354232
+  },
+  "industry_analysis": {
+    "dominant_industry": "finance",
+    "industry_scores": {
+      "tech": 1,
+      "finance": 2,
+      "healthcare": 0,
+      "energy": 0,
+      "retail": 2,
+      "automotive": 0,
+      "media": 1,
+      "industrial": 0,
+      "real_estate": 0,
+      "telecom": 0,
+      "food_beverage": 0,
+      "travel": 0,
+      "education": 0,
+      "professional": 0,
+      "mining": 0,
+      "aerospace": 0,
+      "environmental": 0,
+      "cannabis": 0
+    },
+    "confidence": 0.3333333333333333
+  },
+  "market_analysis": {
+    "market_sentiment": "bullish",
+    "bullish_indicators": 1,
+    "bearish_indicators": 0,
+    "market_conditions": {
+      "volatility": "normal",
+      "volume": "normal",
+      "trend": "bullish"
+    },
+    "trading_activity": "normal"
+  },
+  "competitor_analysis": {
+    "companies_mentioned": [
+      "Synchrony Financial",
+      "Synchrony Financial",
+      "JPMorgan Chase & Co.",
+      "SYF",
+      "Synchrony Financial",
+      "JPMorgan Chase & Co.",
+      "JPMorgan",
+      "Benzinga",
+      "Benzinga",
+      "GuruFocus",
+      "JPMorgan",
+      "JPMorgan",
+      "Synchrony Financial",
+      "SYF",
+      "SYF Stock News",
+      "Synchrony Financial",
+      "Synchrony Financial",
+      "MarketBeat",
+      "Synchrony Financial",
+      "SYF",
+      "Jefferies",
+      "SYF",
+      "Jefferies",
+      "Synchrony Financial",
+      "Seaport Global",
+      "SYF",
+      "Seaport Global",
+      "Synchrony Financial",
+      "Barclays",
+      "SYF",
+      "Barclays",
+      "Synchrony Financial",
+      "Morgan Stanley",
+      "SYF",
+      "Morgan Stanley",
+      "Synchrony Financial",
+      "Morgan Stanley",
+      "Benzinga",
+      "AI Generated"
+    ],
+    "competitive_context": [],
+    "competitor_count": 39,
+    "has_competitive_language": false
+  },
+  "risk_analysis": {
+    "risk_sentences": [],
+    "risk_count": 0,
+    "risk_level": "low"
+  },
+  "opportunity_analysis": {
+    "opportunity_sentences": [
+      "Positive Sentiment:\nJPMorgan Chase & Co. boosted its rating on SYF to “overweight” and lifted the price target from $52.00 to $80.00, signaling strong upside potential.",
+      "Jefferies reaffirmed its “buy” rating on SYF, backing continued confidence in the company’s consumer-finance growth prospects."
+    ],
+    "opportunity_count": 2,
+    "opportunity_level": "medium"
+  },
+  "processing_metadata": {
+    "timestamp": "2025-07-13T06:59:27.339909",
+    "model_used": "en_core_web_trf",
+    "text_length": 2377
+  }
+}
