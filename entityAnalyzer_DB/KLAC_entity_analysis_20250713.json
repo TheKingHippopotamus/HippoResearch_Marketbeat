@@ -1,0 +1,3141 @@
+{
+  "ticker": "KLAC",
+  "entities": [
+    {
+      "text": "KLA Corporation",
+      "label": "ORG",
+      "start": 0,
+      "end": 15,
+      "sentence": "KLA Corporation (NASDAQ: KLAC) is seeing mixed sentiment today as investors weigh fresh financing and sector tailwinds against recent analyst downgrades and bearish theses.",
+      "context": "KLA Corporation (NASDAQ: KLAC) is seeing mixed sentiment today as",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "KLAC",
+      "label": "ORG",
+      "start": 25,
+      "end": 29,
+      "sentence": "KLA Corporation (NASDAQ: KLAC) is seeing mixed sentiment today as investors weigh fresh financing and sector tailwinds against recent analyst downgrades and bearish theses.",
+      "context": "KLA Corporation (NASDAQ: KLAC) is seeing mixed sentiment today as investors wei",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "today",
+      "label": "DATE",
+      "start": 57,
+      "end": 62,
+      "sentence": "KLA Corporation (NASDAQ: KLAC) is seeing mixed sentiment today as investors weigh fresh financing and sector tailwinds against recent analyst downgrades and bearish theses.",
+      "context": "poration (NASDAQ: KLAC) is seeing mixed sentiment today as investors weigh fresh financing and sector tai",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "KLA",
+      "label": "ORG",
+      "start": 266,
+      "end": 269,
+      "sentence": "Positive Sentiment:\nKLA secured a $1.5 billion sustainability-linked credit facility, boosting its financial flexibility and supporting ESG goals.",
+      "context": "uencing the stock’s movement:\nPositive Sentiment:\nKLA secured a $1.5 billion sustainability-linked cred",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "$1.5 billion",
+      "label": "MONEY",
+      "start": 280,
+      "end": 292,
+      "sentence": "Positive Sentiment:\nKLA secured a $1.5 billion sustainability-linked credit facility, boosting its financial flexibility and supporting ESG goals.",
+      "context": "ock’s movement:\nPositive Sentiment:\nKLA secured a $1.5 billion sustainability-linked credit facility, boosting i",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "KLA",
+      "label": "ORG",
+      "start": 393,
+      "end": 396,
+      "sentence": "KLA (NasdaqGS:KLAC) Secures New US$1.5 Billion Credit Agreement With Sustainability Links\nPositive Sentiment:\nThe stock hit a 52-week high on growing optimism around its fundamentals, suggesting strong investor confidence.",
+      "context": "s financial flexibility and supporting ESG goals.\nKLA (NasdaqGS:KLAC) Secures New US$1.5 Billion Credit",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "KLAC",
+      "label": "ORG",
+      "start": 407,
+      "end": 411,
+      "sentence": "KLA (NasdaqGS:KLAC) Secures New US$1.5 Billion Credit Agreement With Sustainability Links\nPositive Sentiment:\nThe stock hit a 52-week high on growing optimism around its fundamentals, suggesting strong investor confidence.",
+      "context": "exibility and supporting ESG goals.\nKLA (NasdaqGS:KLAC) Secures New US$1.5 Billion Credit Agreement With",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "US$1.5 Billion",
+      "label": "MONEY",
+      "start": 425,
+      "end": 439,
+      "sentence": "KLA (NasdaqGS:KLAC) Secures New US$1.5 Billion Credit Agreement With Sustainability Links\nPositive Sentiment:\nThe stock hit a 52-week high on growing optimism around its fundamentals, suggesting strong investor confidence.",
+      "context": "orting ESG goals.\nKLA (NasdaqGS:KLAC) Secures New US$1.5 Billion Credit Agreement With Sustainability Links\nPositi",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "52-week",
+      "label": "DATE",
+      "start": 519,
+      "end": 526,
+      "sentence": "KLA (NasdaqGS:KLAC) Secures New US$1.5 Billion Credit Agreement With Sustainability Links\nPositive Sentiment:\nThe stock hit a 52-week high on growing optimism around its fundamentals, suggesting strong investor confidence.",
+      "context": "ability Links\nPositive Sentiment:\nThe stock hit a 52-week high on growing optimism around its fundamentals,",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "KLA Corporation",
+      "label": "ORG",
+      "start": 616,
+      "end": 631,
+      "sentence": "KLA Corporation (KLAC) Hits Fresh High:",
+      "context": "damentals, suggesting strong investor confidence.\nKLA Corporation (KLAC) Hits Fresh High: Is There Still Room to Ru",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "KLAC",
+      "label": "ORG",
+      "start": 633,
+      "end": 637,
+      "sentence": "KLA Corporation (KLAC) Hits Fresh High:",
+      "context": "ting strong investor confidence.\nKLA Corporation (KLAC) Hits Fresh High: Is There Still Room to Run?\nPos",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "KLA",
+      "label": "ORG",
+      "start": 704,
+      "end": 707,
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "context": ": Is There Still Room to Run?\nPositive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Ra",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "3",
+      "label": "CARDINAL",
+      "start": 882,
+      "end": 883,
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "context": "n advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJ",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "JPMorgan",
+      "label": "ORG",
+      "start": 932,
+      "end": 940,
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "context": "3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price t",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "900",
+      "label": "MONEY",
+      "start": 979,
+      "end": 982,
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "context": "t:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equip",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "JPMorgan",
+      "label": "ORG",
+      "start": 1063,
+      "end": 1071,
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "context": "fer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Co",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "KLA",
+      "label": "ORG",
+      "start": 1097,
+      "end": 1100,
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "context": "ing WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nN",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "KLAC",
+      "label": "ORG",
+      "start": 1102,
+      "end": 1106,
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "context": "FE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Wells Fargo & Company",
+      "label": "ORG",
+      "start": 1168,
+      "end": 1189,
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "context": "Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indica",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "KLAC",
+      "label": "ORG",
+      "start": 1227,
+      "end": 1231,
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "context": "go & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "KLA",
+      "label": "ORG",
+      "start": 1281,
+      "end": 1284,
+      "sentence": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "context": ", indicating a balanced view on near-term upside.\nKLA's (KLAC) Equal Weight Rating Reiterated at Wells",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "KLAC",
+      "label": "ORG",
+      "start": 1288,
+      "end": 1292,
+      "sentence": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "context": "ating a balanced view on near-term upside.\nKLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo &",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Wells Fargo & Company",
+      "label": "ORG",
+      "start": 1328,
+      "end": 1349,
+      "sentence": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "context": "e.\nKLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated covera",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Goldman Sachs",
+      "label": "ORG",
+      "start": 1369,
+      "end": 1382,
+      "sentence": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "context": "rated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $9",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "980",
+      "label": "MONEY",
+      "start": 1431,
+      "end": 1434,
+      "sentence": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "context": "s initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directio",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "KLA",
+      "label": "ORG",
+      "start": 1494,
+      "end": 1497,
+      "sentence": "KLA (NASDAQ:KLAC) Coverage Initiated by Analysts at The Goldman Sachs Group\nNeutral Sentiment:\nShort interest remains negligible, suggesting limited bearish positioning against the stock.\nNegative Sentiment:",
+      "context": "get, implying limited near-term directional bias.\nKLA (NASDAQ:KLAC) Coverage Initiated by Analysts at T",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "KLAC",
+      "label": "ORG",
+      "start": 1506,
+      "end": 1510,
+      "sentence": "KLA (NASDAQ:KLAC) Coverage Initiated by Analysts at The Goldman Sachs Group\nNeutral Sentiment:\nShort interest remains negligible, suggesting limited bearish positioning against the stock.\nNegative Sentiment:",
+      "context": "g limited near-term directional bias.\nKLA (NASDAQ:KLAC) Coverage Initiated by Analysts at The Goldman Sa",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "The Goldman Sachs Group",
+      "label": "ORG",
+      "start": 1546,
+      "end": 1569,
+      "sentence": "KLA (NASDAQ:KLAC) Coverage Initiated by Analysts at The Goldman Sachs Group\nNeutral Sentiment:\nShort interest remains negligible, suggesting limited bearish positioning against the stock.\nNegative Sentiment:",
+      "context": "A (NASDAQ:KLAC) Coverage Initiated by Analysts at The Goldman Sachs Group\nNeutral Sentiment:\nShort interest remains negligi",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Wells Fargo",
+      "label": "ORG",
+      "start": 1702,
+      "end": 1713,
+      "sentence": "Wells Fargo downgraded KLAC to Equal Weight from an Outperform stance, reflecting reduced conviction in near-term upside.",
+      "context": "ositioning against the stock.\nNegative Sentiment:\nWells Fargo downgraded KLAC to Equal Weight from an Outperfor",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "KLAC",
+      "label": "ORG",
+      "start": 1725,
+      "end": 1729,
+      "sentence": "Wells Fargo downgraded KLAC to Equal Weight from an Outperform stance, reflecting reduced conviction in near-term upside.",
+      "context": "stock.\nNegative Sentiment:\nWells Fargo downgraded KLAC to Equal Weight from an Outperform stance, reflec",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Wells Fargo",
+      "label": "ORG",
+      "start": 1824,
+      "end": 1835,
+      "sentence": "Wells Fargo Downgrades KLA Corporation (KLAC) Stock to Equal Weight\nNegative Sentiment:",
+      "context": "eflecting reduced conviction in near-term upside.\nWells Fargo Downgrades KLA Corporation (KLAC) Stock to Equal",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "KLA Corporation",
+      "label": "ORG",
+      "start": 1847,
+      "end": 1862,
+      "sentence": "Wells Fargo Downgrades KLA Corporation (KLAC) Stock to Equal Weight\nNegative Sentiment:",
+      "context": "ction in near-term upside.\nWells Fargo Downgrades KLA Corporation (KLAC) Stock to Equal Weight\nNegative Sentiment:",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "KLAC",
+      "label": "ORG",
+      "start": 1864,
+      "end": 1868,
+      "sentence": "Wells Fargo Downgrades KLA Corporation (KLAC) Stock to Equal Weight\nNegative Sentiment:",
+      "context": "m upside.\nWells Fargo Downgrades KLA Corporation (KLAC) Stock to Equal Weight\nNegative Sentiment:\nA bear",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "KLA",
+      "label": "ORG",
+      "start": 1967,
+      "end": 1970,
+      "sentence": "A bearish thesis highlighted valuation concerns around KLA’s elevated P/E multiples, warning of limited room for multiple expansion.\nKLA Corporation (KLAC): A Bear Case Theory\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "context": "rish thesis highlighted valuation concerns around KLA’s elevated P/E multiples, warning of limited room",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "KLA Corporation",
+      "label": "ORG",
+      "start": 2045,
+      "end": 2060,
+      "sentence": "A bearish thesis highlighted valuation concerns around KLA’s elevated P/E multiples, warning of limited room for multiple expansion.\nKLA Corporation (KLAC): A Bear Case Theory\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "context": ", warning of limited room for multiple expansion.\nKLA Corporation (KLAC): A Bear Case Theory\nPosted 1+ days ago\nAI",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "KLAC",
+      "label": "ORG",
+      "start": 2062,
+      "end": 2066,
+      "sentence": "A bearish thesis highlighted valuation concerns around KLA’s elevated P/E multiples, warning of limited room for multiple expansion.\nKLA Corporation (KLAC): A Bear Case Theory\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "context": "ted room for multiple expansion.\nKLA Corporation (KLAC): A Bear Case Theory\nPosted 1+ days ago\nAI Genera",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "1+ days ago",
+      "label": "DATE",
+      "start": 2095,
+      "end": 2106,
+      "sentence": "A bearish thesis highlighted valuation concerns around KLA’s elevated P/E multiples, warning of limited room for multiple expansion.\nKLA Corporation (KLAC): A Bear Case Theory\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "context": "KLA Corporation (KLAC): A Bear Case Theory\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    }
+  ],
+  "relationships": [
+    {
+      "type": "SVO",
+      "subject": "Corporation",
+      "verb": "seeing",
+      "object": "sentiment",
+      "sentence": "KLA Corporation (NASDAQ: KLAC) is seeing mixed sentiment today as investors weigh fresh financing and sector tailwinds against recent analyst downgrades and bearish theses.",
+      "importance": 6
+    },
+    {
+      "type": "SVO",
+      "subject": "investors",
+      "verb": "weigh",
+      "object": "financing",
+      "sentence": "KLA Corporation (NASDAQ: KLAC) is seeing mixed sentiment today as investors weigh fresh financing and sector tailwinds against recent analyst downgrades and bearish theses.",
+      "importance": 6
+    },
+    {
+      "type": "SVO",
+      "subject": "KLA",
+      "verb": "secured",
+      "object": "facility",
+      "sentence": "Positive Sentiment:\nKLA secured a $1.5 billion sustainability-linked credit facility, boosting its financial flexibility and supporting ESG goals.",
+      "importance": 7
+    },
+    {
+      "type": "SVO",
+      "subject": "KLA",
+      "verb": "Secures",
+      "object": "Agreement",
+      "sentence": "KLA (NasdaqGS:KLAC) Secures New US$1.5 Billion Credit Agreement With Sustainability Links\nPositive Sentiment:\nThe stock hit a 52-week high on growing optimism around its fundamentals, suggesting strong investor confidence.",
+      "importance": 11
+    },
+    {
+      "type": "SVO",
+      "subject": "stock",
+      "verb": "hit",
+      "object": "high",
+      "sentence": "KLA (NasdaqGS:KLAC) Secures New US$1.5 Billion Credit Agreement With Sustainability Links\nPositive Sentiment:\nThe stock hit a 52-week high on growing optimism around its fundamentals, suggesting strong investor confidence.",
+      "importance": 11
+    },
+    {
+      "type": "SVO",
+      "subject": "Corporation",
+      "verb": "Hits",
+      "object": "High",
+      "sentence": "KLA Corporation (KLAC) Hits Fresh High:",
+      "importance": 3
+    },
+    {
+      "type": "SVO",
+      "subject": "Race",
+      "verb": "reiterated",
+      "object": "rating",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "importance": 24
+    },
+    {
+      "type": "SVO",
+      "subject": "3",
+      "verb": "Watch",
+      "object": "Stocks",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "importance": 24
+    },
+    {
+      "type": "SVO",
+      "subject": "JPMorgan",
+      "verb": "reiterated",
+      "object": "rating",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "importance": 24
+    },
+    {
+      "type": "SVO",
+      "subject": "JPMorgan",
+      "verb": "Reiterates",
+      "object": "Overweight",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "importance": 24
+    },
+    {
+      "type": "SVO",
+      "subject": "Sales",
+      "verb": "Lead",
+      "object": "Growth",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "importance": 24
+    },
+    {
+      "type": "SVO",
+      "subject": "Fargo",
+      "verb": "reiterated",
+      "object": "rating",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "importance": 24
+    },
+    {
+      "type": "SVO",
+      "subject": "Rating",
+      "verb": "initiated",
+      "object": "coverage",
+      "sentence": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "importance": 12
+    },
+    {
+      "type": "SVO",
+      "subject": "Sachs",
+      "verb": "initiated",
+      "object": "coverage",
+      "sentence": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "importance": 12
+    },
+    {
+      "type": "SVO",
+      "subject": "Fargo",
+      "verb": "downgraded",
+      "object": "KLAC",
+      "sentence": "Wells Fargo downgraded KLAC to Equal Weight from an Outperform stance, reflecting reduced conviction in near-term upside.",
+      "importance": 4
+    },
+    {
+      "type": "SVO",
+      "subject": "Fargo",
+      "verb": "Downgrades",
+      "object": "Stock",
+      "sentence": "Wells Fargo Downgrades KLA Corporation (KLAC) Stock to Equal Weight\nNegative Sentiment:",
+      "importance": 6
+    },
+    {
+      "type": "SVO",
+      "subject": "thesis",
+      "verb": "highlighted",
+      "object": "concerns",
+      "sentence": "A bearish thesis highlighted valuation concerns around KLA’s elevated P/E multiples, warning of limited room for multiple expansion.\nKLA Corporation (KLAC): A Bear Case Theory\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "importance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "Corporation",
+      "entity2_type": "ORG",
+      "sentence": "KLA Corporation (NASDAQ: KLAC) is seeing mixed sentiment today as investors weigh fresh financing and sector tailwinds against recent analyst downgrades and bearish theses.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "KLAC",
+      "entity2_type": "ORG",
+      "sentence": "KLA Corporation (NASDAQ: KLAC) is seeing mixed sentiment today as investors weigh fresh financing and sector tailwinds against recent analyst downgrades and bearish theses.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "KLA Corporation (NASDAQ: KLAC) is seeing mixed sentiment today as investors weigh fresh financing and sector tailwinds against recent analyst downgrades and bearish theses.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Corporation",
+      "entity1_type": "ORG",
+      "entity2": "KLAC",
+      "entity2_type": "ORG",
+      "sentence": "KLA Corporation (NASDAQ: KLAC) is seeing mixed sentiment today as investors weigh fresh financing and sector tailwinds against recent analyst downgrades and bearish theses.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Corporation",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "KLA Corporation (NASDAQ: KLAC) is seeing mixed sentiment today as investors weigh fresh financing and sector tailwinds against recent analyst downgrades and bearish theses.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLAC",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "KLA Corporation (NASDAQ: KLAC) is seeing mixed sentiment today as investors weigh fresh financing and sector tailwinds against recent analyst downgrades and bearish theses.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nKLA secured a $1.5 billion sustainability-linked credit facility, boosting its financial flexibility and supporting ESG goals.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "1.5",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nKLA secured a $1.5 billion sustainability-linked credit facility, boosting its financial flexibility and supporting ESG goals.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "billion",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nKLA secured a $1.5 billion sustainability-linked credit facility, boosting its financial flexibility and supporting ESG goals.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "1.5",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nKLA secured a $1.5 billion sustainability-linked credit facility, boosting its financial flexibility and supporting ESG goals.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "billion",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nKLA secured a $1.5 billion sustainability-linked credit facility, boosting its financial flexibility and supporting ESG goals.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.5",
+      "entity1_type": "MONEY",
+      "entity2": "billion",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nKLA secured a $1.5 billion sustainability-linked credit facility, boosting its financial flexibility and supporting ESG goals.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "KLAC",
+      "entity2_type": "ORG",
+      "sentence": "KLA (NasdaqGS:KLAC) Secures New US$1.5 Billion Credit Agreement With Sustainability Links\nPositive Sentiment:\nThe stock hit a 52-week high on growing optimism around its fundamentals, suggesting strong investor confidence.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "US$",
+      "entity2_type": "MONEY",
+      "sentence": "KLA (NasdaqGS:KLAC) Secures New US$1.5 Billion Credit Agreement With Sustainability Links\nPositive Sentiment:\nThe stock hit a 52-week high on growing optimism around its fundamentals, suggesting strong investor confidence.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "1.5",
+      "entity2_type": "MONEY",
+      "sentence": "KLA (NasdaqGS:KLAC) Secures New US$1.5 Billion Credit Agreement With Sustainability Links\nPositive Sentiment:\nThe stock hit a 52-week high on growing optimism around its fundamentals, suggesting strong investor confidence.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "Billion",
+      "entity2_type": "MONEY",
+      "sentence": "KLA (NasdaqGS:KLAC) Secures New US$1.5 Billion Credit Agreement With Sustainability Links\nPositive Sentiment:\nThe stock hit a 52-week high on growing optimism around its fundamentals, suggesting strong investor confidence.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "52",
+      "entity2_type": "DATE",
+      "sentence": "KLA (NasdaqGS:KLAC) Secures New US$1.5 Billion Credit Agreement With Sustainability Links\nPositive Sentiment:\nThe stock hit a 52-week high on growing optimism around its fundamentals, suggesting strong investor confidence.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "KLA (NasdaqGS:KLAC) Secures New US$1.5 Billion Credit Agreement With Sustainability Links\nPositive Sentiment:\nThe stock hit a 52-week high on growing optimism around its fundamentals, suggesting strong investor confidence.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "week",
+      "entity2_type": "DATE",
+      "sentence": "KLA (NasdaqGS:KLAC) Secures New US$1.5 Billion Credit Agreement With Sustainability Links\nPositive Sentiment:\nThe stock hit a 52-week high on growing optimism around its fundamentals, suggesting strong investor confidence.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLAC",
+      "entity1_type": "ORG",
+      "entity2": "US$",
+      "entity2_type": "MONEY",
+      "sentence": "KLA (NasdaqGS:KLAC) Secures New US$1.5 Billion Credit Agreement With Sustainability Links\nPositive Sentiment:\nThe stock hit a 52-week high on growing optimism around its fundamentals, suggesting strong investor confidence.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLAC",
+      "entity1_type": "ORG",
+      "entity2": "1.5",
+      "entity2_type": "MONEY",
+      "sentence": "KLA (NasdaqGS:KLAC) Secures New US$1.5 Billion Credit Agreement With Sustainability Links\nPositive Sentiment:\nThe stock hit a 52-week high on growing optimism around its fundamentals, suggesting strong investor confidence.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLAC",
+      "entity1_type": "ORG",
+      "entity2": "Billion",
+      "entity2_type": "MONEY",
+      "sentence": "KLA (NasdaqGS:KLAC) Secures New US$1.5 Billion Credit Agreement With Sustainability Links\nPositive Sentiment:\nThe stock hit a 52-week high on growing optimism around its fundamentals, suggesting strong investor confidence.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLAC",
+      "entity1_type": "ORG",
+      "entity2": "52",
+      "entity2_type": "DATE",
+      "sentence": "KLA (NasdaqGS:KLAC) Secures New US$1.5 Billion Credit Agreement With Sustainability Links\nPositive Sentiment:\nThe stock hit a 52-week high on growing optimism around its fundamentals, suggesting strong investor confidence.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLAC",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "KLA (NasdaqGS:KLAC) Secures New US$1.5 Billion Credit Agreement With Sustainability Links\nPositive Sentiment:\nThe stock hit a 52-week high on growing optimism around its fundamentals, suggesting strong investor confidence.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLAC",
+      "entity1_type": "ORG",
+      "entity2": "week",
+      "entity2_type": "DATE",
+      "sentence": "KLA (NasdaqGS:KLAC) Secures New US$1.5 Billion Credit Agreement With Sustainability Links\nPositive Sentiment:\nThe stock hit a 52-week high on growing optimism around its fundamentals, suggesting strong investor confidence.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "US$",
+      "entity1_type": "MONEY",
+      "entity2": "1.5",
+      "entity2_type": "MONEY",
+      "sentence": "KLA (NasdaqGS:KLAC) Secures New US$1.5 Billion Credit Agreement With Sustainability Links\nPositive Sentiment:\nThe stock hit a 52-week high on growing optimism around its fundamentals, suggesting strong investor confidence.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "US$",
+      "entity1_type": "MONEY",
+      "entity2": "Billion",
+      "entity2_type": "MONEY",
+      "sentence": "KLA (NasdaqGS:KLAC) Secures New US$1.5 Billion Credit Agreement With Sustainability Links\nPositive Sentiment:\nThe stock hit a 52-week high on growing optimism around its fundamentals, suggesting strong investor confidence.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "US$",
+      "entity1_type": "MONEY",
+      "entity2": "52",
+      "entity2_type": "DATE",
+      "sentence": "KLA (NasdaqGS:KLAC) Secures New US$1.5 Billion Credit Agreement With Sustainability Links\nPositive Sentiment:\nThe stock hit a 52-week high on growing optimism around its fundamentals, suggesting strong investor confidence.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "US$",
+      "entity1_type": "MONEY",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "KLA (NasdaqGS:KLAC) Secures New US$1.5 Billion Credit Agreement With Sustainability Links\nPositive Sentiment:\nThe stock hit a 52-week high on growing optimism around its fundamentals, suggesting strong investor confidence.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "US$",
+      "entity1_type": "MONEY",
+      "entity2": "week",
+      "entity2_type": "DATE",
+      "sentence": "KLA (NasdaqGS:KLAC) Secures New US$1.5 Billion Credit Agreement With Sustainability Links\nPositive Sentiment:\nThe stock hit a 52-week high on growing optimism around its fundamentals, suggesting strong investor confidence.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.5",
+      "entity1_type": "MONEY",
+      "entity2": "Billion",
+      "entity2_type": "MONEY",
+      "sentence": "KLA (NasdaqGS:KLAC) Secures New US$1.5 Billion Credit Agreement With Sustainability Links\nPositive Sentiment:\nThe stock hit a 52-week high on growing optimism around its fundamentals, suggesting strong investor confidence.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.5",
+      "entity1_type": "MONEY",
+      "entity2": "52",
+      "entity2_type": "DATE",
+      "sentence": "KLA (NasdaqGS:KLAC) Secures New US$1.5 Billion Credit Agreement With Sustainability Links\nPositive Sentiment:\nThe stock hit a 52-week high on growing optimism around its fundamentals, suggesting strong investor confidence.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.5",
+      "entity1_type": "MONEY",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "KLA (NasdaqGS:KLAC) Secures New US$1.5 Billion Credit Agreement With Sustainability Links\nPositive Sentiment:\nThe stock hit a 52-week high on growing optimism around its fundamentals, suggesting strong investor confidence.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.5",
+      "entity1_type": "MONEY",
+      "entity2": "week",
+      "entity2_type": "DATE",
+      "sentence": "KLA (NasdaqGS:KLAC) Secures New US$1.5 Billion Credit Agreement With Sustainability Links\nPositive Sentiment:\nThe stock hit a 52-week high on growing optimism around its fundamentals, suggesting strong investor confidence.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Billion",
+      "entity1_type": "MONEY",
+      "entity2": "52",
+      "entity2_type": "DATE",
+      "sentence": "KLA (NasdaqGS:KLAC) Secures New US$1.5 Billion Credit Agreement With Sustainability Links\nPositive Sentiment:\nThe stock hit a 52-week high on growing optimism around its fundamentals, suggesting strong investor confidence.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Billion",
+      "entity1_type": "MONEY",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "KLA (NasdaqGS:KLAC) Secures New US$1.5 Billion Credit Agreement With Sustainability Links\nPositive Sentiment:\nThe stock hit a 52-week high on growing optimism around its fundamentals, suggesting strong investor confidence.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Billion",
+      "entity1_type": "MONEY",
+      "entity2": "week",
+      "entity2_type": "DATE",
+      "sentence": "KLA (NasdaqGS:KLAC) Secures New US$1.5 Billion Credit Agreement With Sustainability Links\nPositive Sentiment:\nThe stock hit a 52-week high on growing optimism around its fundamentals, suggesting strong investor confidence.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "52",
+      "entity1_type": "DATE",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "KLA (NasdaqGS:KLAC) Secures New US$1.5 Billion Credit Agreement With Sustainability Links\nPositive Sentiment:\nThe stock hit a 52-week high on growing optimism around its fundamentals, suggesting strong investor confidence.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "52",
+      "entity1_type": "DATE",
+      "entity2": "week",
+      "entity2_type": "DATE",
+      "sentence": "KLA (NasdaqGS:KLAC) Secures New US$1.5 Billion Credit Agreement With Sustainability Links\nPositive Sentiment:\nThe stock hit a 52-week high on growing optimism around its fundamentals, suggesting strong investor confidence.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "DATE",
+      "entity2": "week",
+      "entity2_type": "DATE",
+      "sentence": "KLA (NasdaqGS:KLAC) Secures New US$1.5 Billion Credit Agreement With Sustainability Links\nPositive Sentiment:\nThe stock hit a 52-week high on growing optimism around its fundamentals, suggesting strong investor confidence.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "Corporation",
+      "entity2_type": "ORG",
+      "sentence": "KLA Corporation (KLAC) Hits Fresh High:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "KLAC",
+      "entity2_type": "ORG",
+      "sentence": "KLA Corporation (KLAC) Hits Fresh High:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Corporation",
+      "entity1_type": "ORG",
+      "entity2": "KLAC",
+      "entity2_type": "ORG",
+      "sentence": "KLA Corporation (KLAC) Hits Fresh High:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "3",
+      "entity2_type": "CARDINAL",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 38
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "JPMorgan",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 49
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "900",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 56
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "JPMorgan",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 73
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "KLA",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 77
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "KLAC",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 79
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "Wells",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 93
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "Fargo",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 94
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 95
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 96
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "KLAC",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 103
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3",
+      "entity1_type": "CARDINAL",
+      "entity2": "JPMorgan",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3",
+      "entity1_type": "CARDINAL",
+      "entity2": "900",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3",
+      "entity1_type": "CARDINAL",
+      "entity2": "JPMorgan",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 35
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3",
+      "entity1_type": "CARDINAL",
+      "entity2": "KLA",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 39
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3",
+      "entity1_type": "CARDINAL",
+      "entity2": "KLAC",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 41
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3",
+      "entity1_type": "CARDINAL",
+      "entity2": "Wells",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 55
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3",
+      "entity1_type": "CARDINAL",
+      "entity2": "Fargo",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 56
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3",
+      "entity1_type": "CARDINAL",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 57
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3",
+      "entity1_type": "CARDINAL",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 58
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3",
+      "entity1_type": "CARDINAL",
+      "entity2": "KLAC",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 65
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "900",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "JPMorgan",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "KLA",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "KLAC",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "Wells",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 44
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "Fargo",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 45
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 46
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 47
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "KLAC",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 54
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "900",
+      "entity1_type": "MONEY",
+      "entity2": "JPMorgan",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "900",
+      "entity1_type": "MONEY",
+      "entity2": "KLA",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "900",
+      "entity1_type": "MONEY",
+      "entity2": "KLAC",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "900",
+      "entity1_type": "MONEY",
+      "entity2": "Wells",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 37
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "900",
+      "entity1_type": "MONEY",
+      "entity2": "Fargo",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 38
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "900",
+      "entity1_type": "MONEY",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 39
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "900",
+      "entity1_type": "MONEY",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 40
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "900",
+      "entity1_type": "MONEY",
+      "entity2": "KLAC",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 47
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "KLA",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "KLAC",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "Wells",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "Fargo",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "KLAC",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "KLAC",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "Wells",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "Fargo",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "KLAC",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLAC",
+      "entity1_type": "ORG",
+      "entity2": "Wells",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLAC",
+      "entity1_type": "ORG",
+      "entity2": "Fargo",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLAC",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLAC",
+      "entity1_type": "ORG",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLAC",
+      "entity1_type": "ORG",
+      "entity2": "KLAC",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Fargo",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "KLAC",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "KLAC",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "KLAC",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Company",
+      "entity1_type": "ORG",
+      "entity2": "KLAC",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "KLAC",
+      "entity2_type": "ORG",
+      "sentence": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "Wells",
+      "entity2_type": "ORG",
+      "sentence": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "Fargo",
+      "entity2_type": "ORG",
+      "sentence": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "Goldman",
+      "entity2_type": "ORG",
+      "sentence": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "Sachs",
+      "entity2_type": "ORG",
+      "sentence": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "980",
+      "entity2_type": "MONEY",
+      "sentence": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLAC",
+      "entity1_type": "ORG",
+      "entity2": "Wells",
+      "entity2_type": "ORG",
+      "sentence": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLAC",
+      "entity1_type": "ORG",
+      "entity2": "Fargo",
+      "entity2_type": "ORG",
+      "sentence": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLAC",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLAC",
+      "entity1_type": "ORG",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLAC",
+      "entity1_type": "ORG",
+      "entity2": "Goldman",
+      "entity2_type": "ORG",
+      "sentence": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLAC",
+      "entity1_type": "ORG",
+      "entity2": "Sachs",
+      "entity2_type": "ORG",
+      "sentence": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLAC",
+      "entity1_type": "ORG",
+      "entity2": "980",
+      "entity2_type": "MONEY",
+      "sentence": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Fargo",
+      "entity2_type": "ORG",
+      "sentence": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Goldman",
+      "entity2_type": "ORG",
+      "sentence": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Sachs",
+      "entity2_type": "ORG",
+      "sentence": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "980",
+      "entity2_type": "MONEY",
+      "sentence": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "Goldman",
+      "entity2_type": "ORG",
+      "sentence": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "Sachs",
+      "entity2_type": "ORG",
+      "sentence": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "980",
+      "entity2_type": "MONEY",
+      "sentence": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Goldman",
+      "entity2_type": "ORG",
+      "sentence": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Sachs",
+      "entity2_type": "ORG",
+      "sentence": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "980",
+      "entity2_type": "MONEY",
+      "sentence": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Company",
+      "entity1_type": "ORG",
+      "entity2": "Goldman",
+      "entity2_type": "ORG",
+      "sentence": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Company",
+      "entity1_type": "ORG",
+      "entity2": "Sachs",
+      "entity2_type": "ORG",
+      "sentence": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Company",
+      "entity1_type": "ORG",
+      "entity2": "980",
+      "entity2_type": "MONEY",
+      "sentence": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Goldman",
+      "entity1_type": "ORG",
+      "entity2": "Sachs",
+      "entity2_type": "ORG",
+      "sentence": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Goldman",
+      "entity1_type": "ORG",
+      "entity2": "980",
+      "entity2_type": "MONEY",
+      "sentence": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sachs",
+      "entity1_type": "ORG",
+      "entity2": "980",
+      "entity2_type": "MONEY",
+      "sentence": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "KLAC",
+      "entity2_type": "ORG",
+      "sentence": "KLA (NASDAQ:KLAC) Coverage Initiated by Analysts at The Goldman Sachs Group\nNeutral Sentiment:\nShort interest remains negligible, suggesting limited bearish positioning against the stock.\nNegative Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "The",
+      "entity2_type": "ORG",
+      "sentence": "KLA (NASDAQ:KLAC) Coverage Initiated by Analysts at The Goldman Sachs Group\nNeutral Sentiment:\nShort interest remains negligible, suggesting limited bearish positioning against the stock.\nNegative Sentiment:",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "Goldman",
+      "entity2_type": "ORG",
+      "sentence": "KLA (NASDAQ:KLAC) Coverage Initiated by Analysts at The Goldman Sachs Group\nNeutral Sentiment:\nShort interest remains negligible, suggesting limited bearish positioning against the stock.\nNegative Sentiment:",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "Sachs",
+      "entity2_type": "ORG",
+      "sentence": "KLA (NASDAQ:KLAC) Coverage Initiated by Analysts at The Goldman Sachs Group\nNeutral Sentiment:\nShort interest remains negligible, suggesting limited bearish positioning against the stock.\nNegative Sentiment:",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "Group",
+      "entity2_type": "ORG",
+      "sentence": "KLA (NASDAQ:KLAC) Coverage Initiated by Analysts at The Goldman Sachs Group\nNeutral Sentiment:\nShort interest remains negligible, suggesting limited bearish positioning against the stock.\nNegative Sentiment:",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLAC",
+      "entity1_type": "ORG",
+      "entity2": "The",
+      "entity2_type": "ORG",
+      "sentence": "KLA (NASDAQ:KLAC) Coverage Initiated by Analysts at The Goldman Sachs Group\nNeutral Sentiment:\nShort interest remains negligible, suggesting limited bearish positioning against the stock.\nNegative Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLAC",
+      "entity1_type": "ORG",
+      "entity2": "Goldman",
+      "entity2_type": "ORG",
+      "sentence": "KLA (NASDAQ:KLAC) Coverage Initiated by Analysts at The Goldman Sachs Group\nNeutral Sentiment:\nShort interest remains negligible, suggesting limited bearish positioning against the stock.\nNegative Sentiment:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLAC",
+      "entity1_type": "ORG",
+      "entity2": "Sachs",
+      "entity2_type": "ORG",
+      "sentence": "KLA (NASDAQ:KLAC) Coverage Initiated by Analysts at The Goldman Sachs Group\nNeutral Sentiment:\nShort interest remains negligible, suggesting limited bearish positioning against the stock.\nNegative Sentiment:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLAC",
+      "entity1_type": "ORG",
+      "entity2": "Group",
+      "entity2_type": "ORG",
+      "sentence": "KLA (NASDAQ:KLAC) Coverage Initiated by Analysts at The Goldman Sachs Group\nNeutral Sentiment:\nShort interest remains negligible, suggesting limited bearish positioning against the stock.\nNegative Sentiment:",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "The",
+      "entity1_type": "ORG",
+      "entity2": "Goldman",
+      "entity2_type": "ORG",
+      "sentence": "KLA (NASDAQ:KLAC) Coverage Initiated by Analysts at The Goldman Sachs Group\nNeutral Sentiment:\nShort interest remains negligible, suggesting limited bearish positioning against the stock.\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "The",
+      "entity1_type": "ORG",
+      "entity2": "Sachs",
+      "entity2_type": "ORG",
+      "sentence": "KLA (NASDAQ:KLAC) Coverage Initiated by Analysts at The Goldman Sachs Group\nNeutral Sentiment:\nShort interest remains negligible, suggesting limited bearish positioning against the stock.\nNegative Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "The",
+      "entity1_type": "ORG",
+      "entity2": "Group",
+      "entity2_type": "ORG",
+      "sentence": "KLA (NASDAQ:KLAC) Coverage Initiated by Analysts at The Goldman Sachs Group\nNeutral Sentiment:\nShort interest remains negligible, suggesting limited bearish positioning against the stock.\nNegative Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Goldman",
+      "entity1_type": "ORG",
+      "entity2": "Sachs",
+      "entity2_type": "ORG",
+      "sentence": "KLA (NASDAQ:KLAC) Coverage Initiated by Analysts at The Goldman Sachs Group\nNeutral Sentiment:\nShort interest remains negligible, suggesting limited bearish positioning against the stock.\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Goldman",
+      "entity1_type": "ORG",
+      "entity2": "Group",
+      "entity2_type": "ORG",
+      "sentence": "KLA (NASDAQ:KLAC) Coverage Initiated by Analysts at The Goldman Sachs Group\nNeutral Sentiment:\nShort interest remains negligible, suggesting limited bearish positioning against the stock.\nNegative Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sachs",
+      "entity1_type": "ORG",
+      "entity2": "Group",
+      "entity2_type": "ORG",
+      "sentence": "KLA (NASDAQ:KLAC) Coverage Initiated by Analysts at The Goldman Sachs Group\nNeutral Sentiment:\nShort interest remains negligible, suggesting limited bearish positioning against the stock.\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Fargo",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo downgraded KLAC to Equal Weight from an Outperform stance, reflecting reduced conviction in near-term upside.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "KLAC",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo downgraded KLAC to Equal Weight from an Outperform stance, reflecting reduced conviction in near-term upside.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "KLAC",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo downgraded KLAC to Equal Weight from an Outperform stance, reflecting reduced conviction in near-term upside.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Fargo",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo Downgrades KLA Corporation (KLAC) Stock to Equal Weight\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "KLA",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo Downgrades KLA Corporation (KLAC) Stock to Equal Weight\nNegative Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Corporation",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo Downgrades KLA Corporation (KLAC) Stock to Equal Weight\nNegative Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "KLAC",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo Downgrades KLA Corporation (KLAC) Stock to Equal Weight\nNegative Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "KLA",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo Downgrades KLA Corporation (KLAC) Stock to Equal Weight\nNegative Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "Corporation",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo Downgrades KLA Corporation (KLAC) Stock to Equal Weight\nNegative Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "KLAC",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo Downgrades KLA Corporation (KLAC) Stock to Equal Weight\nNegative Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "Corporation",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo Downgrades KLA Corporation (KLAC) Stock to Equal Weight\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "KLAC",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo Downgrades KLA Corporation (KLAC) Stock to Equal Weight\nNegative Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Corporation",
+      "entity1_type": "ORG",
+      "entity2": "KLAC",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo Downgrades KLA Corporation (KLAC) Stock to Equal Weight\nNegative Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "KLA",
+      "entity2_type": "ORG",
+      "sentence": "A bearish thesis highlighted valuation concerns around KLA’s elevated P/E multiples, warning of limited room for multiple expansion.\nKLA Corporation (KLAC): A Bear Case Theory\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "Corporation",
+      "entity2_type": "ORG",
+      "sentence": "A bearish thesis highlighted valuation concerns around KLA’s elevated P/E multiples, warning of limited room for multiple expansion.\nKLA Corporation (KLAC): A Bear Case Theory\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "KLAC",
+      "entity2_type": "ORG",
+      "sentence": "A bearish thesis highlighted valuation concerns around KLA’s elevated P/E multiples, warning of limited room for multiple expansion.\nKLA Corporation (KLAC): A Bear Case Theory\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "A bearish thesis highlighted valuation concerns around KLA’s elevated P/E multiples, warning of limited room for multiple expansion.\nKLA Corporation (KLAC): A Bear Case Theory\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "A bearish thesis highlighted valuation concerns around KLA’s elevated P/E multiples, warning of limited room for multiple expansion.\nKLA Corporation (KLAC): A Bear Case Theory\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "A bearish thesis highlighted valuation concerns around KLA’s elevated P/E multiples, warning of limited room for multiple expansion.\nKLA Corporation (KLAC): A Bear Case Theory\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "A bearish thesis highlighted valuation concerns around KLA’s elevated P/E multiples, warning of limited room for multiple expansion.\nKLA Corporation (KLAC): A Bear Case Theory\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "Corporation",
+      "entity2_type": "ORG",
+      "sentence": "A bearish thesis highlighted valuation concerns around KLA’s elevated P/E multiples, warning of limited room for multiple expansion.\nKLA Corporation (KLAC): A Bear Case Theory\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "KLAC",
+      "entity2_type": "ORG",
+      "sentence": "A bearish thesis highlighted valuation concerns around KLA’s elevated P/E multiples, warning of limited room for multiple expansion.\nKLA Corporation (KLAC): A Bear Case Theory\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "A bearish thesis highlighted valuation concerns around KLA’s elevated P/E multiples, warning of limited room for multiple expansion.\nKLA Corporation (KLAC): A Bear Case Theory\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "A bearish thesis highlighted valuation concerns around KLA’s elevated P/E multiples, warning of limited room for multiple expansion.\nKLA Corporation (KLAC): A Bear Case Theory\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "A bearish thesis highlighted valuation concerns around KLA’s elevated P/E multiples, warning of limited room for multiple expansion.\nKLA Corporation (KLAC): A Bear Case Theory\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLA",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "A bearish thesis highlighted valuation concerns around KLA’s elevated P/E multiples, warning of limited room for multiple expansion.\nKLA Corporation (KLAC): A Bear Case Theory\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Corporation",
+      "entity1_type": "ORG",
+      "entity2": "KLAC",
+      "entity2_type": "ORG",
+      "sentence": "A bearish thesis highlighted valuation concerns around KLA’s elevated P/E multiples, warning of limited room for multiple expansion.\nKLA Corporation (KLAC): A Bear Case Theory\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Corporation",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "A bearish thesis highlighted valuation concerns around KLA’s elevated P/E multiples, warning of limited room for multiple expansion.\nKLA Corporation (KLAC): A Bear Case Theory\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Corporation",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "A bearish thesis highlighted valuation concerns around KLA’s elevated P/E multiples, warning of limited room for multiple expansion.\nKLA Corporation (KLAC): A Bear Case Theory\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Corporation",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "A bearish thesis highlighted valuation concerns around KLA’s elevated P/E multiples, warning of limited room for multiple expansion.\nKLA Corporation (KLAC): A Bear Case Theory\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Corporation",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "A bearish thesis highlighted valuation concerns around KLA’s elevated P/E multiples, warning of limited room for multiple expansion.\nKLA Corporation (KLAC): A Bear Case Theory\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLAC",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "A bearish thesis highlighted valuation concerns around KLA’s elevated P/E multiples, warning of limited room for multiple expansion.\nKLA Corporation (KLAC): A Bear Case Theory\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLAC",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "A bearish thesis highlighted valuation concerns around KLA’s elevated P/E multiples, warning of limited room for multiple expansion.\nKLA Corporation (KLAC): A Bear Case Theory\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLAC",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "A bearish thesis highlighted valuation concerns around KLA’s elevated P/E multiples, warning of limited room for multiple expansion.\nKLA Corporation (KLAC): A Bear Case Theory\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KLAC",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "A bearish thesis highlighted valuation concerns around KLA’s elevated P/E multiples, warning of limited room for multiple expansion.\nKLA Corporation (KLAC): A Bear Case Theory\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "A bearish thesis highlighted valuation concerns around KLA’s elevated P/E multiples, warning of limited room for multiple expansion.\nKLA Corporation (KLAC): A Bear Case Theory\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "A bearish thesis highlighted valuation concerns around KLA’s elevated P/E multiples, warning of limited room for multiple expansion.\nKLA Corporation (KLAC): A Bear Case Theory\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "A bearish thesis highlighted valuation concerns around KLA’s elevated P/E multiples, warning of limited room for multiple expansion.\nKLA Corporation (KLAC): A Bear Case Theory\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "A bearish thesis highlighted valuation concerns around KLA’s elevated P/E multiples, warning of limited room for multiple expansion.\nKLA Corporation (KLAC): A Bear Case Theory\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "A bearish thesis highlighted valuation concerns around KLA’s elevated P/E multiples, warning of limited room for multiple expansion.\nKLA Corporation (KLAC): A Bear Case Theory\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "A bearish thesis highlighted valuation concerns around KLA’s elevated P/E multiples, warning of limited room for multiple expansion.\nKLA Corporation (KLAC): A Bear Case Theory\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 1
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "KLA Corporation",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "mixed sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "fresh financing",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "sector tailwinds",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "recent analyst downgrades",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "bearish theses",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a recap",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "recent news",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the stock’s movement",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a $1.5 billion sustainability-linked credit facility",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its financial flexibility",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "ESG goals",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "New US$1.5 Billion Credit Agreement",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Sustainability Links",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "The stock",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "a 52-week high",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "growing optimism",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its fundamentals",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "strong investor confidence",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "KLA Corporation",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Fresh High",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a top pick",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "an “AI Chip Arms Race” report",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its critical role",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "yield management",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "defect detection",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "advanced-node manufacturing",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "AI Chip Arms Race",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Equipment Stocks",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its Overweight rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "$900 price target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "robust wafer front-end equipment sales",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "WFE growth",
+      "type": "noun_chunk",
+      "category": "trend"
+    },
+    {
+      "text": "Process Control Sales",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "WFE Growth",
+      "type": "noun_chunk",
+      "category": "trend"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Wells Fargo",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "an Equal Weight rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a balanced view",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "near-term upside",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "KLA's (KLAC) Equal Weight Rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Wells Fargo",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Goldman Sachs",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a Neutral rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a $980 price target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "limited near-term directional bias",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "KLA (NASDAQ:KLAC) Coverage",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "The Goldman Sachs Group",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Short interest",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "limited bearish positioning",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the stock",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Wells Fargo",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Equal Weight",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "an Outperform stance",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "reduced conviction",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "near-term upside",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Wells Fargo",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "KLA Corporation (KLAC) Stock",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "A bearish thesis",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "valuation concerns",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "KLA’s elevated P/E multiples",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "limited room",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "multiple expansion",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "A Bear Case Theory",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "$1",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$1",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$900",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$980",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "growth",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Growth",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Stock",
+      "type": "pattern",
+      "category": "market_term"
+    }
+  ],
+  "important_sentences": [
+    {
+      "text": "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "importance_score": 93,
+      "entity_count": 12,
+      "financial_keyword_count": 12,
+      "money_count": 1,
+      "company_count": 7,
+      "sentiment": "positive"
+    },
+    {
+      "text": "KLA's (KLAC) Equal Weight Rating Reiterated at Wells Fargo & Company\nNeutral Sentiment:\nGoldman Sachs initiated coverage with a Neutral rating and a $980 price target, implying limited near-term directional bias.",
+      "importance_score": 48,
+      "entity_count": 9,
+      "financial_keyword_count": 3,
+      "money_count": 1,
+      "company_count": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "A bearish thesis highlighted valuation concerns around KLA’s elevated P/E multiples, warning of limited room for multiple expansion.\nKLA Corporation (KLAC): A Bear Case Theory\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "importance_score": 40,
+      "entity_count": 8,
+      "financial_keyword_count": 4,
+      "money_count": 0,
+      "company_count": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "KLA (NasdaqGS:KLAC) Secures New US$1.5 Billion Credit Agreement With Sustainability Links\nPositive Sentiment:\nThe stock hit a 52-week high on growing optimism around its fundamentals, suggesting strong investor confidence.",
+      "importance_score": 38,
+      "entity_count": 8,
+      "financial_keyword_count": 3,
+      "money_count": 1,
+      "company_count": 2,
+      "sentiment": "positive"
+    },
+    {
+      "text": "KLA (NASDAQ:KLAC) Coverage Initiated by Analysts at The Goldman Sachs Group\nNeutral Sentiment:\nShort interest remains negligible, suggesting limited bearish positioning against the stock.\nNegative Sentiment:",
+      "importance_score": 33,
+      "entity_count": 6,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 3,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Positive Sentiment:\nKLA secured a $1.5 billion sustainability-linked credit facility, boosting its financial flexibility and supporting ESG goals.",
+      "importance_score": 26,
+      "entity_count": 4,
+      "financial_keyword_count": 3,
+      "money_count": 1,
+      "company_count": 1,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Wells Fargo Downgrades KLA Corporation (KLAC) Stock to Equal Weight\nNegative Sentiment:",
+      "importance_score": 25,
+      "entity_count": 5,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 3,
+      "sentiment": "negative"
+    },
+    {
+      "text": "KLA Corporation (NASDAQ: KLAC) is seeing mixed sentiment today as investors weigh fresh financing and sector tailwinds against recent analyst downgrades and bearish theses.",
+      "importance_score": 22,
+      "entity_count": 4,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Wells Fargo downgraded KLAC to Equal Weight from an Outperform stance, reflecting reduced conviction in near-term upside.",
+      "importance_score": 17,
+      "entity_count": 3,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "KLA Corporation (KLAC) Hits Fresh High:",
+      "importance_score": 14,
+      "entity_count": 3,
+      "financial_keyword_count": 0,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    }
+  ],
+  "entity_statistics": {
+    "total_entities": 37,
+    "unique_entities": 16,
+    "type_counts": {
+      "ORG": 29,
+      "DATE": 3,
+      "MONEY": 4,
+      "CARDINAL": 1
+    },
+    "type_distribution": {
+      "ORG": 0.7837837837837838,
+      "DATE": 0.08108108108108109,
+      "MONEY": 0.10810810810810811,
+      "CARDINAL": 0.02702702702702703
+    },
+    "most_common_entities": [
+      [
+        "KLAC",
+        10
+      ],
+      [
+        "KLA",
+        7
+      ],
+      [
+        "KLA Corporation",
+        4
+      ],
+      [
+        "JPMorgan",
+        2
+      ],
+      [
+        "Wells Fargo & Company",
+        2
+      ],
+      [
+        "Wells Fargo",
+        2
+      ],
+      [
+        "today",
+        1
+      ],
+      [
+        "$1.5 billion",
+        1
+      ],
+      [
+        "US$1.5 Billion",
+        1
+      ],
+      [
+        "52-week",
+        1
+      ]
+    ],
+    "entity_types_found": [
+      "ORG",
+      "DATE",
+      "MONEY",
+      "CARDINAL"
+    ],
+    "company_entities": 29,
+    "person_entities": 0,
+    "financial_entities": 4,
+    "entity_density": 0.12052117263843648
+  },
+  "financial_analysis": {
+    "money_amounts": [
+      "$1.5 billion",
+      "US$1.5 Billion",
+      "900",
+      "980"
+    ],
+    "percentages": [],
+    "companies": [
+      "KLA Corporation",
+      "KLAC",
+      "KLA",
+      "KLA",
+      "KLAC",
+      "KLA Corporation",
+      "KLAC",
+      "KLA",
+      "JPMorgan",
+      "JPMorgan",
+      "KLA",
+      "KLAC",
+      "Wells Fargo & Company",
+      "KLAC",
+      "KLA",
+      "KLAC",
+      "Wells Fargo & Company",
+      "Goldman Sachs",
+      "KLA",
+      "KLAC",
+      "The Goldman Sachs Group",
+      "Wells Fargo",
+      "KLAC",
+      "Wells Fargo",
+      "KLA Corporation",
+      "KLAC",
+      "KLA",
+      "KLA Corporation",
+      "KLAC"
+    ],
+    "people": [],
+    "dates": [
+      "today",
+      "52-week",
+      "1+ days ago"
+    ],
+    "financial_terms": [
+      "Stock",
+      "Growth",
+      "growth",
+      "stock"
+    ],
+    "financial_metrics": [],
+    "market_indicators": [
+      "Rating",
+      "price",
+      "target",
+      "rating",
+      "Bear"
+    ]
+  },
+  "temporal_analysis": {
+    "dates": [
+      "today",
+      "52-week",
+      "1+ days ago"
+    ],
+    "time_expressions": [],
+    "temporal_relationships": [
+      "recent",
+      "today"
+    ],
+    "quarters": [],
+    "years": [],
+    "time_periods": []
+  },
+  "sentiment_analysis": {
+    "positive_words": 7,
+    "negative_words": 5,
+    "positive_ratio": 0.02280130293159609,
+    "negative_ratio": 0.016286644951140065,
+    "sentiment_score": 0.0065146579804560255,
+    "sentiment_label": "neutral",
+    "sentiment_strength": 0.0065146579804560255,
+    "confidence": 0.06514657980456026
+  },
+  "industry_analysis": {
+    "dominant_industry": "tech",
+    "industry_scores": {
+      "tech": 5,
+      "finance": 2,
+      "healthcare": 0,
+      "energy": 0,
+      "retail": 0,
+      "automotive": 0,
+      "media": 1,
+      "industrial": 3,
+      "real_estate": 0,
+      "telecom": 0,
+      "food_beverage": 0,
+      "travel": 0,
+      "education": 0,
+      "professional": 0,
+      "mining": 0,
+      "aerospace": 0,
+      "environmental": 2,
+      "cannabis": 0
+    },
+    "confidence": 0.38461538461538464
+  },
+  "market_analysis": {
+    "market_sentiment": "neutral",
+    "bullish_indicators": 1,
+    "bearish_indicators": 1,
+    "market_conditions": {
+      "volatility": "normal",
+      "volume": "normal",
+      "trend": "neutral"
+    },
+    "trading_activity": "normal"
+  },
+  "competitor_analysis": {
+    "companies_mentioned": [
+      "KLA Corporation",
+      "KLAC",
+      "KLA",
+      "KLA",
+      "KLAC",
+      "KLA Corporation",
+      "KLAC",
+      "KLA",
+      "JPMorgan",
+      "JPMorgan",
+      "KLA",
+      "KLAC",
+      "Wells Fargo & Company",
+      "KLAC",
+      "KLA",
+      "KLAC",
+      "Wells Fargo & Company",
+      "Goldman Sachs",
+      "KLA",
+      "KLAC",
+      "The Goldman Sachs Group",
+      "Wells Fargo",
+      "KLAC",
+      "Wells Fargo",
+      "KLA Corporation",
+      "KLAC",
+      "KLA",
+      "KLA Corporation",
+      "KLAC"
+    ],
+    "competitive_context": [
+      "Wells Fargo downgraded KLAC to Equal Weight from an Outperform stance, reflecting reduced conviction in near-term upside."
+    ],
+    "competitor_count": 29,
+    "has_competitive_language": true
+  },
+  "risk_analysis": {
+    "risk_sentences": [
+      "A bearish thesis highlighted valuation concerns around KLA’s elevated P/E multiples, warning of limited room for multiple expansion.\nKLA Corporation (KLAC): A Bear Case Theory\nPosted 1+ days ago\nAI Generated. May Contain Errors."
+    ],
+    "risk_count": 1,
+    "risk_level": "low"
+  },
+  "opportunity_analysis": {
+    "opportunity_sentences": [
+      "Positive Sentiment:\nKLA was featured as a top pick in an “AI Chip Arms Race” report for its critical role in yield management and defect detection in advanced-node manufacturing.\nAI Chip Arms Race: 3 Must-Watch Equipment Stocks\nPositive Sentiment:\nJPMorgan reiterated its Overweight rating and $900 price target, citing robust wafer front-end equipment sales driving WFE growth.\nJPMorgan Reiterates Overweight on KLA (KLAC) as Process Control Sales Lead WFE Growth\nNeutral Sentiment:\nWells Fargo & Company reiterated an Equal Weight rating on KLAC, indicating a balanced view on near-term upside.",
+      "A bearish thesis highlighted valuation concerns around KLA’s elevated P/E multiples, warning of limited room for multiple expansion.\nKLA Corporation (KLAC): A Bear Case Theory\nPosted 1+ days ago\nAI Generated. May Contain Errors."
+    ],
+    "opportunity_count": 2,
+    "opportunity_level": "medium"
+  },
+  "processing_metadata": {
+    "timestamp": "2025-07-13T06:55:09.255932",
+    "model_used": "en_core_web_trf",
+    "text_length": 2140
+  }
+}
