@@ -1,0 +1,548 @@
+{
+  "financial_nouns": {
+    "מניה": {
+      "singular": "מניה",
+      "plural": "מניות",
+      "type": "noun",
+      "context": "stock_market",
+      "synonyms": [
+        "נייר ערך",
+        "אקשן"
+      ],
+      "usage_example": "מניית Apple עלתה ב-5% היום"
+    },
+    "חברה": {
+      "singular": "חברה",
+      "plural": "חברות",
+      "type": "noun",
+      "context": "business",
+      "synonyms": [
+        "עסק",
+        "פירמה",
+        "ארגון"
+      ],
+      "usage_example": "החברה דיווחה על רווחים גבוהים"
+    },
+    "שוק": {
+      "singular": "שוק",
+      "plural": "שווקים",
+      "type": "noun",
+      "context": "market",
+      "synonyms": [
+        "בורסה",
+        "מסחר"
+      ],
+      "usage_example": "השוק הגיב בחיוביות לחדשות"
+    },
+    "רווח": {
+      "singular": "רווח",
+      "plural": "רווחים",
+      "type": "noun",
+      "context": "financial",
+      "synonyms": [
+        "הכנסה",
+        "תועלת",
+        "גדילה"
+      ],
+      "antonyms": [
+        "הפסד",
+        "נזק"
+      ],
+      "usage_example": "החברה דיווחה על רווחים גבוהים מהצפוי"
+    },
+    "הפסד": {
+      "singular": "הפסד",
+      "plural": "הפסדים",
+      "type": "noun",
+      "context": "financial",
+      "synonyms": [
+        "נזק",
+        "ירידה"
+      ],
+      "antonyms": [
+        "רווח",
+        "גדילה"
+      ],
+      "usage_example": "החברה ספגה הפסדים ברבעון האחרון"
+    },
+    "משקיע": {
+      "singular": "משקיע",
+      "plural": "משקיעים",
+      "type": "noun",
+      "context": "investment",
+      "synonyms": [
+        "בעל מניות",
+        "בעל הון"
+      ],
+      "usage_example": "המשקיעים הגיבו בחיוביות לחדשות"
+    },
+    "אנליסט": {
+      "singular": "אנליסט",
+      "plural": "אנליסטים",
+      "type": "noun",
+      "context": "analysis",
+      "synonyms": [
+        "חוקר",
+        "מומחה"
+      ],
+      "usage_example": "האנליסטים העלו את תחזיות הרווח"
+    },
+    "תנודתיות": {
+      "singular": "תנודתיות",
+      "plural": "תנודתיות",
+      "type": "noun",
+      "context": "volatility",
+      "synonyms": [
+        "שינויים",
+        "תנודות"
+      ],
+      "usage_example": "התנודתיות בשוק עלתה השבוע"
+    },
+    "צמיחה": {
+      "singular": "צמיחה",
+      "plural": "צמיחות",
+      "type": "noun",
+      "context": "growth",
+      "synonyms": [
+        "התפתחות",
+        "התרחבות",
+        "גדילה"
+      ],
+      "antonyms": [
+        "ירידה",
+        "צמצום"
+      ],
+      "usage_example": "החברה דיווחה על צמיחה של 15%"
+    },
+    "ירידה": {
+      "singular": "ירידה",
+      "plural": "ירידות",
+      "type": "noun",
+      "context": "decline",
+      "synonyms": [
+        "צניחה",
+        "נפילה",
+        "צמצום"
+      ],
+      "antonyms": [
+        "עלייה",
+        "צמיחה"
+      ],
+      "usage_example": "המניה חוותה ירידה של 8%"
+    }
+  },
+  "financial_verbs": {
+    "עלה": {
+      "singular": "עלה",
+      "plural": "עלו",
+      "type": "verb",
+      "context": "increase",
+      "synonyms": [
+        "טיפס",
+        "התחזק",
+        "גדל"
+      ],
+      "antonyms": [
+        "ירד",
+        "נפל",
+        "צנח"
+      ],
+      "usage_example": "המניה עלתה ב-5% היום"
+    },
+    "ירד": {
+      "singular": "ירד",
+      "plural": "ירדו",
+      "type": "verb",
+      "context": "decrease",
+      "synonyms": [
+        "צנח",
+        "נפל",
+        "התדרדר"
+      ],
+      "antonyms": [
+        "עלה",
+        "טיפס",
+        "התחזק"
+      ],
+      "usage_example": "המניה ירדה ב-3% היום"
+    },
+    "דיווח": {
+      "singular": "דיווח",
+      "plural": "דיווחו",
+      "type": "verb",
+      "context": "report",
+      "synonyms": [
+        "פרסם",
+        "הכריז",
+        "הודיע"
+      ],
+      "usage_example": "החברה דיווחה על רווחים גבוהים"
+    },
+    "העריך": {
+      "singular": "העריך",
+      "plural": "העריכו",
+      "type": "verb",
+      "context": "estimate",
+      "synonyms": [
+        "תחזק",
+        "חזה",
+        "העריך"
+      ],
+      "usage_example": "האנליסטים העריכו את הרווחים"
+    },
+    "המליץ": {
+      "singular": "המליץ",
+      "plural": "המליצו",
+      "type": "verb",
+      "context": "recommend",
+      "synonyms": [
+        "יעץ",
+        "הציע",
+        "תמך"
+      ],
+      "usage_example": "האנליסטים המליצו לרכוש את המניה"
+    },
+    "התמודד": {
+      "singular": "התמודד",
+      "plural": "התמודדו",
+      "type": "verb",
+      "context": "cope",
+      "synonyms": [
+        "טפל",
+        "ניהל",
+        "טיפל"
+      ],
+      "usage_example": "החברה התמודדה עם האתגרים בהצלחה"
+    },
+    "השקיע": {
+      "singular": "השקיע",
+      "plural": "השקיעו",
+      "type": "verb",
+      "context": "invest",
+      "synonyms": [
+        "הקצה",
+        "הקדיש",
+        "העניק"
+      ],
+      "usage_example": "המשקיעים השקיעו מיליונים בחברה"
+    },
+    "ניבא": {
+      "singular": "ניבא",
+      "plural": "ניבאו",
+      "type": "verb",
+      "context": "predict",
+      "synonyms": [
+        "חזה",
+        "תחזק",
+        "העריך"
+      ],
+      "usage_example": "האנליסטים ניבאו צמיחה עתידית"
+    }
+  },
+  "financial_adjectives": {
+    "חיובי": {
+      "masculine": "חיובי",
+      "feminine": "חיובית",
+      "plural_masculine": "חיוביים",
+      "plural_feminine": "חיוביות",
+      "type": "adjective",
+      "context": "positive",
+      "synonyms": [
+        "טוב",
+        "מוצלח",
+        "מעודד"
+      ],
+      "antonyms": [
+        "שלילי",
+        "רע",
+        "מדכא"
+      ],
+      "usage_example": "התוצאות היו חיוביות מאוד"
+    },
+    "שלילי": {
+      "masculine": "שלילי",
+      "feminine": "שלילית",
+      "plural_masculine": "שליליים",
+      "plural_feminine": "שליליות",
+      "type": "adjective",
+      "context": "negative",
+      "synonyms": [
+        "רע",
+        "מדכא",
+        "מאכזב"
+      ],
+      "antonyms": [
+        "חיובי",
+        "טוב",
+        "מעודד"
+      ],
+      "usage_example": "החדשות היו שליליות למשקיעים"
+    },
+    "חזק": {
+      "masculine": "חזק",
+      "feminine": "חזקה",
+      "plural_masculine": "חזקים",
+      "plural_feminine": "חזקות",
+      "type": "adjective",
+      "context": "strong",
+      "synonyms": [
+        "עוצמתי",
+        "יציב",
+        "מוצק"
+      ],
+      "antonyms": [
+        "חלש",
+        "רעוע",
+        "לא יציב"
+      ],
+      "usage_example": "החברה הציגה ביצועים חזקים"
+    },
+    "חלש": {
+      "masculine": "חלש",
+      "feminine": "חלשה",
+      "plural_masculine": "חלשים",
+      "plural_feminine": "חלשות",
+      "type": "adjective",
+      "context": "weak",
+      "synonyms": [
+        "רעוע",
+        "לא יציב",
+        "חלש"
+      ],
+      "antonyms": [
+        "חזק",
+        "יציב",
+        "מוצק"
+      ],
+      "usage_example": "הביצועים היו חלשים מהצפוי"
+    },
+    "גבוה": {
+      "masculine": "גבוה",
+      "feminine": "גבוהה",
+      "plural_masculine": "גבוהים",
+      "plural_feminine": "גבוהות",
+      "type": "adjective",
+      "context": "high",
+      "synonyms": [
+        "רב",
+        "משמעותי",
+        "ניכר"
+      ],
+      "antonyms": [
+        "נמוך",
+        "קטן",
+        "מזערי"
+      ],
+      "usage_example": "הרווחים היו גבוהים מהצפוי"
+    },
+    "נמוך": {
+      "masculine": "נמוך",
+      "feminine": "נמוכה",
+      "plural_masculine": "נמוכים",
+      "plural_feminine": "נמוכות",
+      "type": "adjective",
+      "context": "low",
+      "synonyms": [
+        "קטן",
+        "מזערי",
+        "מועט"
+      ],
+      "antonyms": [
+        "גבוה",
+        "רב",
+        "משמעותי"
+      ],
+      "usage_example": "המחירים היו נמוכים מהרגיל"
+    },
+    "מעורב": {
+      "masculine": "מעורב",
+      "feminine": "מעורבת",
+      "plural_masculine": "מעורבים",
+      "plural_feminine": "מעורבות",
+      "type": "adjective",
+      "context": "mixed",
+      "synonyms": [
+        "מגוון",
+        "שילוב",
+        "תערובת"
+      ],
+      "usage_example": "התגובות היו מעורבות"
+    },
+    "יציב": {
+      "masculine": "יציב",
+      "feminine": "יציבה",
+      "plural_masculine": "יציבים",
+      "plural_feminine": "יציבות",
+      "type": "adjective",
+      "context": "stable",
+      "synonyms": [
+        "קבוע",
+        "עקבי",
+        "יציב"
+      ],
+      "antonyms": [
+        "לא יציב",
+        "תנודתי",
+        "משתנה"
+      ],
+      "usage_example": "המניה שמרה על יציבות"
+    }
+  },
+  "financial_adverbs": {
+    "בחיוביות": {
+      "type": "adverb",
+      "context": "positively",
+      "synonyms": [
+        "באופן חיובי",
+        "בצורה חיובית"
+      ],
+      "antonyms": [
+        "בשליליות",
+        "באופן שלילי"
+      ],
+      "usage_example": "השוק הגיב בחיוביות לחדשות"
+    },
+    "בשליליות": {
+      "type": "adverb",
+      "context": "negatively",
+      "synonyms": [
+        "באופן שלילי",
+        "בצורה שלילית"
+      ],
+      "antonyms": [
+        "בחיוביות",
+        "באופן חיובי"
+      ],
+      "usage_example": "המשקיעים הגיבו בשליליות"
+    },
+    "באופן משמעותי": {
+      "type": "adverb",
+      "context": "significantly",
+      "synonyms": [
+        "במידה ניכרת",
+        "בצורה משמעותית"
+      ],
+      "usage_example": "המניה עלתה באופן משמעותי"
+    },
+    "בהדרגה": {
+      "type": "adverb",
+      "context": "gradually",
+      "synonyms": [
+        "לאט לאט",
+        "בצורה הדרגתית"
+      ],
+      "antonyms": [
+        "בפתאומיות",
+        "בבת אחת"
+      ],
+      "usage_example": "המחירים עלו בהדרגה"
+    },
+    "בפתאומיות": {
+      "type": "adverb",
+      "context": "suddenly",
+      "synonyms": [
+        "בבת אחת",
+        "באופן פתאומי"
+      ],
+      "antonyms": [
+        "בהדרגה",
+        "לאט לאט"
+      ],
+      "usage_example": "המניה צנחה בפתאומיות"
+    }
+  },
+  "financial_conjunctions": {
+    "יתר על כן": {
+      "type": "conjunction",
+      "context": "furthermore",
+      "synonyms": [
+        "בנוסף",
+        "גם",
+        "מלבד זאת"
+      ],
+      "usage_example": "יתר על כן, החברה הציגה תוצאות מעודדות"
+    },
+    "לעומת זאת": {
+      "type": "conjunction",
+      "context": "however",
+      "synonyms": [
+        "אולם",
+        "אבל",
+        "מצד שני"
+      ],
+      "usage_example": "לעומת זאת, האנליסטים הביעו חששות"
+    },
+    "בנוסף": {
+      "type": "conjunction",
+      "context": "additionally",
+      "synonyms": [
+        "יתר על כן",
+        "גם",
+        "מלבד זאת"
+      ],
+      "usage_example": "בנוסף, החברה הודיעה על רכישה חדשה"
+    },
+    "לפיכך": {
+      "type": "conjunction",
+      "context": "therefore",
+      "synonyms": [
+        "לכן",
+        "מכאן",
+        "כתוצאה מכך"
+      ],
+      "usage_example": "לפיכך, המשקיעים הגיבו בחיוביות"
+    },
+    "מצד אחד": {
+      "type": "conjunction",
+      "context": "on_one_hand",
+      "synonyms": [
+        "מצד אחד",
+        "מצד אחד"
+      ],
+      "usage_example": "מצד אחד, התוצאות היו חיוביות"
+    },
+    "מצד שני": {
+      "type": "conjunction",
+      "context": "on_other_hand",
+      "synonyms": [
+        "מצד שני",
+        "מצד שני"
+      ],
+      "usage_example": "מצד שני, האתגרים נותרו משמעותיים"
+    }
+  },
+  "context_phrases": {
+    "stock_market": [
+      "שוק המניות",
+      "הבורסה",
+      "מסחר במניות",
+      "תנודתיות בשוק",
+      "מחיר המניה",
+      "ערך השוק"
+    ],
+    "financial_analysis": [
+      "ניתוח פיננסי",
+      "תחזית רווחים",
+      "הערכת שווי",
+      "ניתוח טכני",
+      "ניתוח יסוד",
+      "מדדי ביצוע"
+    ],
+    "investment": [
+      "השקעה",
+      "תיק השקעות",
+      "אסטרטגיית השקעה",
+      "סיכון השקעה",
+      "תשואה על השקעה",
+      "הון השקעה"
+    ],
+    "business": [
+      "פעילות עסקית",
+      "אסטרטגיה עסקית",
+      "ביצועים עסקיים",
+      "צמיחה עסקית",
+      "ניהול עסקי",
+      "תחרות עסקית"
+    ]
+  }
+}
