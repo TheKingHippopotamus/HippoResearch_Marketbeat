@@ -1,0 +1,2598 @@
+{
+  "ticker": "EBAY",
+  "entities": [
+    {
+      "text": "eBay Inc.",
+      "label": "ORG",
+      "start": 0,
+      "end": 9,
+      "sentence": "eBay Inc. (EBAY) shares are reacting to fresh analyst outlooks, marketing promotions and positioning ahead of its upcoming earnings report.",
+      "context": "eBay Inc. (EBAY) shares are reacting to fresh analyst outlo",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "EBAY",
+      "label": "ORG",
+      "start": 11,
+      "end": 15,
+      "sentence": "eBay Inc. (EBAY) shares are reacting to fresh analyst outlooks, marketing promotions and positioning ahead of its upcoming earnings report.",
+      "context": "eBay Inc. (EBAY) shares are reacting to fresh analyst outlooks, m",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Robert W. Baird",
+      "label": "ORG",
+      "start": 273,
+      "end": 288,
+      "sentence": "Positive Sentiment:\nRobert W. Baird upgraded eBay to “outperform” and boosted its price target to $80, signaling strong expected upside.",
+      "context": "ght uptick in short interest.\nPositive Sentiment:\nRobert W. Baird upgraded eBay to “outperform” and boosted its pri",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "eBay",
+      "label": "ORG",
+      "start": 298,
+      "end": 302,
+      "sentence": "Positive Sentiment:\nRobert W. Baird upgraded eBay to “outperform” and boosted its price target to $80, signaling strong expected upside.",
+      "context": "est.\nPositive Sentiment:\nRobert W. Baird upgraded eBay to “outperform” and boosted its price target to $",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "80",
+      "label": "MONEY",
+      "start": 352,
+      "end": 354,
+      "sentence": "Positive Sentiment:\nRobert W. Baird upgraded eBay to “outperform” and boosted its price target to $80, signaling strong expected upside.",
+      "context": "to “outperform” and boosted its price target to $80, signaling strong expected upside.\nRobert W. Bair",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Robert W. Baird",
+      "label": "ORG",
+      "start": 390,
+      "end": 405,
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "context": "target to $80, signaling strong expected upside.\nRobert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black F",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "July",
+      "label": "DATE",
+      "start": 442,
+      "end": 446,
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "context": "bert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime D",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Black Friday",
+      "label": "DATE",
+      "start": 448,
+      "end": 460,
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "context": ". Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts,",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "eBay",
+      "label": "ORG",
+      "start": 471,
+      "end": 475,
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "context": "ive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boo",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Amazon Prime",
+      "label": "ORG",
+      "start": 482,
+      "end": 494,
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "context": "nt:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagem",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "USA Today",
+      "label": "ORG",
+      "start": 581,
+      "end": 590,
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "context": "buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for Ju",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "eBay",
+      "label": "ORG",
+      "start": 621,
+      "end": 625,
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "context": "entiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sa",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "July",
+      "label": "DATE",
+      "start": 638,
+      "end": 642,
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "context": "ay is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.\nUSA T",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "USA Today",
+      "label": "ORG",
+      "start": 687,
+      "end": 696,
+      "sentence": "USA Today Coupons\nNeutral Sentiment:",
+      "context": "July, which could drive additional sales volume.\nUSA Today Coupons\nNeutral Sentiment:\nJPMorgan Chase & Co. r",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "JPMorgan Chase & Co.",
+      "label": "ORG",
+      "start": 724,
+      "end": 744,
+      "sentence": "JPMorgan Chase & Co. raised its price target on eBay from $66 to $68 but maintained a “neutral” rating.",
+      "context": "ales volume.\nUSA Today Coupons\nNeutral Sentiment:\nJPMorgan Chase & Co. raised its price target on eBay from $66 to $68 b",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "eBay",
+      "label": "ORG",
+      "start": 772,
+      "end": 776,
+      "sentence": "JPMorgan Chase & Co. raised its price target on eBay from $66 to $68 but maintained a “neutral” rating.",
+      "context": ":\nJPMorgan Chase & Co. raised its price target on eBay from $66 to $68 but maintained a “neutral” rating",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "66",
+      "label": "MONEY",
+      "start": 783,
+      "end": 785,
+      "sentence": "JPMorgan Chase & Co. raised its price target on eBay from $66 to $68 but maintained a “neutral” rating.",
+      "context": "Chase & Co. raised its price target on eBay from $66 to $68 but maintained a “neutral” rating.\nMarketB",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "68",
+      "label": "MONEY",
+      "start": 790,
+      "end": 792,
+      "sentence": "JPMorgan Chase & Co. raised its price target on eBay from $66 to $68 but maintained a “neutral” rating.",
+      "context": "Co. raised its price target on eBay from $66 to $68 but maintained a “neutral” rating.\nMarketBeat Ale",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Citizens Jmp",
+      "label": "ORG",
+      "start": 864,
+      "end": 876,
+      "sentence": "MarketBeat Alert\nNeutral Sentiment:\nCitizens Jmp initiated coverage of eBay with a “market perform” (hold) rating.",
+      "context": "tral” rating.\nMarketBeat Alert\nNeutral Sentiment:\nCitizens Jmp initiated coverage of eBay with a “market perform",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "eBay",
+      "label": "ORG",
+      "start": 899,
+      "end": 903,
+      "sentence": "MarketBeat Alert\nNeutral Sentiment:\nCitizens Jmp initiated coverage of eBay with a “market perform” (hold) rating.",
+      "context": "ral Sentiment:\nCitizens Jmp initiated coverage of eBay with a “market perform” (hold) rating.\nMarketBeat",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "eBay",
+      "label": "ORG",
+      "start": 982,
+      "end": 986,
+      "sentence": "MarketBeat Coverage\nNeutral Sentiment:\neBay’s extended bidding test drew mixed reviews from card buyers, sellers and “snipers,” leaving impacts on user experience unclear.",
+      "context": "d) rating.\nMarketBeat Coverage\nNeutral Sentiment:\neBay’s extended bidding test drew mixed reviews from c",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Yahoo Sports",
+      "label": "ORG",
+      "start": 1115,
+      "end": 1127,
+      "sentence": "Yahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than revenue driver.",
+      "context": "ers,” leaving impacts on user experience unclear.\nYahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put th",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Billy McFarland",
+      "label": "PERSON",
+      "start": 1155,
+      "end": 1170,
+      "sentence": "Yahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than revenue driver.",
+      "context": "unclear.\nYahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay",
+      "is_company": false,
+      "is_person": true,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Fyre Festival",
+      "label": "EVENT",
+      "start": 1193,
+      "end": 1206,
+      "sentence": "Yahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than revenue driver.",
+      "context": "Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual lis",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "eBay",
+      "label": "ORG",
+      "start": 1216,
+      "end": 1220,
+      "sentence": "Yahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than revenue driver.",
+      "context": "land put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is m",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "one cent",
+      "label": "MONEY",
+      "start": 1233,
+      "end": 1241,
+      "sentence": "Yahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than revenue driver.",
+      "context": "ts to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than reve",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "eBay",
+      "label": "ORG",
+      "start": 1375,
+      "end": 1379,
+      "sentence": "Analysts and investors are preparing for eBay’s upcoming earnings release, focusing on potential guidance and margin trends.\nMSN Earnings Preview\nNegative Sentiment:",
+      "context": "ntiment:\nAnalysts and investors are preparing for eBay’s upcoming earnings release, focusing on potentia",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "eBay",
+      "label": "ORG",
+      "start": 1518,
+      "end": 1522,
+      "sentence": "Short interest in eBay rose modestly in early July, signaling some bearish bets against the shares.",
+      "context": "ngs Preview\nNegative Sentiment:\nShort interest in eBay rose modestly in early July, signaling some beari",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "early July",
+      "label": "DATE",
+      "start": 1540,
+      "end": 1550,
+      "sentence": "Short interest in eBay rose modestly in early July, signaling some bearish bets against the shares.",
+      "context": "entiment:\nShort interest in eBay rose modestly in early July, signaling some bearish bets against the shares.",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "1+ days ago",
+      "label": "DATE",
+      "start": 1607,
+      "end": 1618,
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "context": "ling some bearish bets against the shares.\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AI Generated",
+      "label": "ORG",
+      "start": 1619,
+      "end": 1631,
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "context": "arish bets against the shares.\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    }
+  ],
+  "relationships": [
+    {
+      "type": "SVO",
+      "subject": "Investors",
+      "verb": "weighing",
+      "object": "raises",
+      "sentence": "Investors are weighing upbeat price‐target raises against neutral ratings and a slight uptick in short interest.",
+      "importance": 3
+    },
+    {
+      "type": "SVO",
+      "subject": "Baird",
+      "verb": "upgraded",
+      "object": "eBay",
+      "sentence": "Positive Sentiment:\nRobert W. Baird upgraded eBay to “outperform” and boosted its price target to $80, signaling strong expected upside.",
+      "importance": 7
+    },
+    {
+      "type": "SVO",
+      "subject": "Baird",
+      "verb": "Forecasts",
+      "object": "Sentiment",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "importance": 15
+    },
+    {
+      "type": "SVO",
+      "subject": "deals",
+      "verb": "rival",
+      "object": "discounts",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "importance": 15
+    },
+    {
+      "type": "SVO",
+      "subject": "Today",
+      "verb": "promoting",
+      "object": "coupons",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "importance": 15
+    },
+    {
+      "type": "SVO",
+      "subject": "which",
+      "verb": "drive",
+      "object": "volume",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "importance": 15
+    },
+    {
+      "type": "SVO",
+      "subject": "Chase",
+      "verb": "raised",
+      "object": "target",
+      "sentence": "JPMorgan Chase & Co. raised its price target on eBay from $66 to $68 but maintained a “neutral” rating.",
+      "importance": 9
+    },
+    {
+      "type": "SVO",
+      "subject": "Jmp",
+      "verb": "initiated",
+      "object": "coverage",
+      "sentence": "MarketBeat Alert\nNeutral Sentiment:\nCitizens Jmp initiated coverage of eBay with a “market perform” (hold) rating.",
+      "importance": 6
+    },
+    {
+      "type": "SVO",
+      "subject": "test",
+      "verb": "drew",
+      "object": "reviews",
+      "sentence": "MarketBeat Coverage\nNeutral Sentiment:\neBay’s extended bidding test drew mixed reviews from card buyers, sellers and “snipers,” leaving impacts on user experience unclear.",
+      "importance": 1
+    },
+    {
+      "type": "SVO",
+      "subject": "McFarland",
+      "verb": "put",
+      "object": "rights",
+      "sentence": "Yahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than revenue driver.",
+      "importance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "eBay",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "eBay Inc. (EBAY) shares are reacting to fresh analyst outlooks, marketing promotions and positioning ahead of its upcoming earnings report.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "eBay",
+      "entity1_type": "ORG",
+      "entity2": "EBAY",
+      "entity2_type": "ORG",
+      "sentence": "eBay Inc. (EBAY) shares are reacting to fresh analyst outlooks, marketing promotions and positioning ahead of its upcoming earnings report.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "EBAY",
+      "entity2_type": "ORG",
+      "sentence": "eBay Inc. (EBAY) shares are reacting to fresh analyst outlooks, marketing promotions and positioning ahead of its upcoming earnings report.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Robert",
+      "entity1_type": "ORG",
+      "entity2": "W.",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nRobert W. Baird upgraded eBay to “outperform” and boosted its price target to $80, signaling strong expected upside.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Robert",
+      "entity1_type": "ORG",
+      "entity2": "Baird",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nRobert W. Baird upgraded eBay to “outperform” and boosted its price target to $80, signaling strong expected upside.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Robert",
+      "entity1_type": "ORG",
+      "entity2": "eBay",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nRobert W. Baird upgraded eBay to “outperform” and boosted its price target to $80, signaling strong expected upside.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Robert",
+      "entity1_type": "ORG",
+      "entity2": "80",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nRobert W. Baird upgraded eBay to “outperform” and boosted its price target to $80, signaling strong expected upside.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "W.",
+      "entity1_type": "ORG",
+      "entity2": "Baird",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nRobert W. Baird upgraded eBay to “outperform” and boosted its price target to $80, signaling strong expected upside.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "W.",
+      "entity1_type": "ORG",
+      "entity2": "eBay",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nRobert W. Baird upgraded eBay to “outperform” and boosted its price target to $80, signaling strong expected upside.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "W.",
+      "entity1_type": "ORG",
+      "entity2": "80",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nRobert W. Baird upgraded eBay to “outperform” and boosted its price target to $80, signaling strong expected upside.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Baird",
+      "entity1_type": "ORG",
+      "entity2": "eBay",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nRobert W. Baird upgraded eBay to “outperform” and boosted its price target to $80, signaling strong expected upside.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Baird",
+      "entity1_type": "ORG",
+      "entity2": "80",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nRobert W. Baird upgraded eBay to “outperform” and boosted its price target to $80, signaling strong expected upside.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "eBay",
+      "entity1_type": "ORG",
+      "entity2": "80",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nRobert W. Baird upgraded eBay to “outperform” and boosted its price target to $80, signaling strong expected upside.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Robert",
+      "entity1_type": "ORG",
+      "entity2": "W.",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Robert",
+      "entity1_type": "ORG",
+      "entity2": "Baird",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Robert",
+      "entity1_type": "ORG",
+      "entity2": "July",
+      "entity2_type": "DATE",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Robert",
+      "entity1_type": "ORG",
+      "entity2": "Black",
+      "entity2_type": "DATE",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Robert",
+      "entity1_type": "ORG",
+      "entity2": "Friday",
+      "entity2_type": "DATE",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Robert",
+      "entity1_type": "ORG",
+      "entity2": "eBay",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Robert",
+      "entity1_type": "ORG",
+      "entity2": "Amazon",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Robert",
+      "entity1_type": "ORG",
+      "entity2": "Prime",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Robert",
+      "entity1_type": "ORG",
+      "entity2": "USA",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 37
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Robert",
+      "entity1_type": "ORG",
+      "entity2": "Today",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 38
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Robert",
+      "entity1_type": "ORG",
+      "entity2": "eBay",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 43
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Robert",
+      "entity1_type": "ORG",
+      "entity2": "July",
+      "entity2_type": "DATE",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 46
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "W.",
+      "entity1_type": "ORG",
+      "entity2": "Baird",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "W.",
+      "entity1_type": "ORG",
+      "entity2": "July",
+      "entity2_type": "DATE",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "W.",
+      "entity1_type": "ORG",
+      "entity2": "Black",
+      "entity2_type": "DATE",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "W.",
+      "entity1_type": "ORG",
+      "entity2": "Friday",
+      "entity2_type": "DATE",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "W.",
+      "entity1_type": "ORG",
+      "entity2": "eBay",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "W.",
+      "entity1_type": "ORG",
+      "entity2": "Amazon",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "W.",
+      "entity1_type": "ORG",
+      "entity2": "Prime",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "W.",
+      "entity1_type": "ORG",
+      "entity2": "USA",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 36
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "W.",
+      "entity1_type": "ORG",
+      "entity2": "Today",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 37
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "W.",
+      "entity1_type": "ORG",
+      "entity2": "eBay",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 42
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "W.",
+      "entity1_type": "ORG",
+      "entity2": "July",
+      "entity2_type": "DATE",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 45
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Baird",
+      "entity1_type": "ORG",
+      "entity2": "July",
+      "entity2_type": "DATE",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Baird",
+      "entity1_type": "ORG",
+      "entity2": "Black",
+      "entity2_type": "DATE",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Baird",
+      "entity1_type": "ORG",
+      "entity2": "Friday",
+      "entity2_type": "DATE",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Baird",
+      "entity1_type": "ORG",
+      "entity2": "eBay",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Baird",
+      "entity1_type": "ORG",
+      "entity2": "Amazon",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Baird",
+      "entity1_type": "ORG",
+      "entity2": "Prime",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Baird",
+      "entity1_type": "ORG",
+      "entity2": "USA",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 35
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Baird",
+      "entity1_type": "ORG",
+      "entity2": "Today",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 36
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Baird",
+      "entity1_type": "ORG",
+      "entity2": "eBay",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 41
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Baird",
+      "entity1_type": "ORG",
+      "entity2": "July",
+      "entity2_type": "DATE",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 44
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "July",
+      "entity1_type": "DATE",
+      "entity2": "Black",
+      "entity2_type": "DATE",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "July",
+      "entity1_type": "DATE",
+      "entity2": "Friday",
+      "entity2_type": "DATE",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "July",
+      "entity1_type": "DATE",
+      "entity2": "eBay",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "July",
+      "entity1_type": "DATE",
+      "entity2": "Amazon",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "July",
+      "entity1_type": "DATE",
+      "entity2": "Prime",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "July",
+      "entity1_type": "DATE",
+      "entity2": "USA",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "July",
+      "entity1_type": "DATE",
+      "entity2": "Today",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "July",
+      "entity1_type": "DATE",
+      "entity2": "eBay",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 33
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "July",
+      "entity1_type": "DATE",
+      "entity2": "July",
+      "entity2_type": "DATE",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 36
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Black",
+      "entity1_type": "DATE",
+      "entity2": "Friday",
+      "entity2_type": "DATE",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Black",
+      "entity1_type": "DATE",
+      "entity2": "eBay",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Black",
+      "entity1_type": "DATE",
+      "entity2": "Amazon",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Black",
+      "entity1_type": "DATE",
+      "entity2": "Prime",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Black",
+      "entity1_type": "DATE",
+      "entity2": "USA",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Black",
+      "entity1_type": "DATE",
+      "entity2": "Today",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Black",
+      "entity1_type": "DATE",
+      "entity2": "eBay",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Black",
+      "entity1_type": "DATE",
+      "entity2": "July",
+      "entity2_type": "DATE",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 34
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Friday",
+      "entity1_type": "DATE",
+      "entity2": "eBay",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Friday",
+      "entity1_type": "DATE",
+      "entity2": "Amazon",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Friday",
+      "entity1_type": "DATE",
+      "entity2": "Prime",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Friday",
+      "entity1_type": "DATE",
+      "entity2": "USA",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Friday",
+      "entity1_type": "DATE",
+      "entity2": "Today",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Friday",
+      "entity1_type": "DATE",
+      "entity2": "eBay",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Friday",
+      "entity1_type": "DATE",
+      "entity2": "July",
+      "entity2_type": "DATE",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 33
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "eBay",
+      "entity1_type": "ORG",
+      "entity2": "Amazon",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "eBay",
+      "entity1_type": "ORG",
+      "entity2": "Prime",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "eBay",
+      "entity1_type": "ORG",
+      "entity2": "USA",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "eBay",
+      "entity1_type": "ORG",
+      "entity2": "Today",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "eBay",
+      "entity1_type": "ORG",
+      "entity2": "eBay",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "eBay",
+      "entity1_type": "ORG",
+      "entity2": "July",
+      "entity2_type": "DATE",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Amazon",
+      "entity1_type": "ORG",
+      "entity2": "Prime",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Amazon",
+      "entity1_type": "ORG",
+      "entity2": "USA",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Amazon",
+      "entity1_type": "ORG",
+      "entity2": "Today",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Amazon",
+      "entity1_type": "ORG",
+      "entity2": "eBay",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Amazon",
+      "entity1_type": "ORG",
+      "entity2": "July",
+      "entity2_type": "DATE",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Prime",
+      "entity1_type": "ORG",
+      "entity2": "USA",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Prime",
+      "entity1_type": "ORG",
+      "entity2": "Today",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Prime",
+      "entity1_type": "ORG",
+      "entity2": "eBay",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Prime",
+      "entity1_type": "ORG",
+      "entity2": "July",
+      "entity2_type": "DATE",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "USA",
+      "entity1_type": "ORG",
+      "entity2": "Today",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "USA",
+      "entity1_type": "ORG",
+      "entity2": "eBay",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "USA",
+      "entity1_type": "ORG",
+      "entity2": "July",
+      "entity2_type": "DATE",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Today",
+      "entity1_type": "ORG",
+      "entity2": "eBay",
+      "entity2_type": "ORG",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Today",
+      "entity1_type": "ORG",
+      "entity2": "July",
+      "entity2_type": "DATE",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "eBay",
+      "entity1_type": "ORG",
+      "entity2": "July",
+      "entity2_type": "DATE",
+      "sentence": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "USA",
+      "entity1_type": "ORG",
+      "entity2": "Today",
+      "entity2_type": "ORG",
+      "sentence": "USA Today Coupons\nNeutral Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "Chase",
+      "entity2_type": "ORG",
+      "sentence": "JPMorgan Chase & Co. raised its price target on eBay from $66 to $68 but maintained a “neutral” rating.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "JPMorgan Chase & Co. raised its price target on eBay from $66 to $68 but maintained a “neutral” rating.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "Co.",
+      "entity2_type": "ORG",
+      "sentence": "JPMorgan Chase & Co. raised its price target on eBay from $66 to $68 but maintained a “neutral” rating.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "eBay",
+      "entity2_type": "ORG",
+      "sentence": "JPMorgan Chase & Co. raised its price target on eBay from $66 to $68 but maintained a “neutral” rating.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "66",
+      "entity2_type": "MONEY",
+      "sentence": "JPMorgan Chase & Co. raised its price target on eBay from $66 to $68 but maintained a “neutral” rating.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "68",
+      "entity2_type": "MONEY",
+      "sentence": "JPMorgan Chase & Co. raised its price target on eBay from $66 to $68 but maintained a “neutral” rating.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Chase",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "JPMorgan Chase & Co. raised its price target on eBay from $66 to $68 but maintained a “neutral” rating.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Chase",
+      "entity1_type": "ORG",
+      "entity2": "Co.",
+      "entity2_type": "ORG",
+      "sentence": "JPMorgan Chase & Co. raised its price target on eBay from $66 to $68 but maintained a “neutral” rating.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Chase",
+      "entity1_type": "ORG",
+      "entity2": "eBay",
+      "entity2_type": "ORG",
+      "sentence": "JPMorgan Chase & Co. raised its price target on eBay from $66 to $68 but maintained a “neutral” rating.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Chase",
+      "entity1_type": "ORG",
+      "entity2": "66",
+      "entity2_type": "MONEY",
+      "sentence": "JPMorgan Chase & Co. raised its price target on eBay from $66 to $68 but maintained a “neutral” rating.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Chase",
+      "entity1_type": "ORG",
+      "entity2": "68",
+      "entity2_type": "MONEY",
+      "sentence": "JPMorgan Chase & Co. raised its price target on eBay from $66 to $68 but maintained a “neutral” rating.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Co.",
+      "entity2_type": "ORG",
+      "sentence": "JPMorgan Chase & Co. raised its price target on eBay from $66 to $68 but maintained a “neutral” rating.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "eBay",
+      "entity2_type": "ORG",
+      "sentence": "JPMorgan Chase & Co. raised its price target on eBay from $66 to $68 but maintained a “neutral” rating.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "66",
+      "entity2_type": "MONEY",
+      "sentence": "JPMorgan Chase & Co. raised its price target on eBay from $66 to $68 but maintained a “neutral” rating.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "68",
+      "entity2_type": "MONEY",
+      "sentence": "JPMorgan Chase & Co. raised its price target on eBay from $66 to $68 but maintained a “neutral” rating.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Co.",
+      "entity1_type": "ORG",
+      "entity2": "eBay",
+      "entity2_type": "ORG",
+      "sentence": "JPMorgan Chase & Co. raised its price target on eBay from $66 to $68 but maintained a “neutral” rating.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Co.",
+      "entity1_type": "ORG",
+      "entity2": "66",
+      "entity2_type": "MONEY",
+      "sentence": "JPMorgan Chase & Co. raised its price target on eBay from $66 to $68 but maintained a “neutral” rating.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Co.",
+      "entity1_type": "ORG",
+      "entity2": "68",
+      "entity2_type": "MONEY",
+      "sentence": "JPMorgan Chase & Co. raised its price target on eBay from $66 to $68 but maintained a “neutral” rating.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "eBay",
+      "entity1_type": "ORG",
+      "entity2": "66",
+      "entity2_type": "MONEY",
+      "sentence": "JPMorgan Chase & Co. raised its price target on eBay from $66 to $68 but maintained a “neutral” rating.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "eBay",
+      "entity1_type": "ORG",
+      "entity2": "68",
+      "entity2_type": "MONEY",
+      "sentence": "JPMorgan Chase & Co. raised its price target on eBay from $66 to $68 but maintained a “neutral” rating.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "66",
+      "entity1_type": "MONEY",
+      "entity2": "68",
+      "entity2_type": "MONEY",
+      "sentence": "JPMorgan Chase & Co. raised its price target on eBay from $66 to $68 but maintained a “neutral” rating.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Citizens",
+      "entity1_type": "ORG",
+      "entity2": "Jmp",
+      "entity2_type": "ORG",
+      "sentence": "MarketBeat Alert\nNeutral Sentiment:\nCitizens Jmp initiated coverage of eBay with a “market perform” (hold) rating.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Citizens",
+      "entity1_type": "ORG",
+      "entity2": "eBay",
+      "entity2_type": "ORG",
+      "sentence": "MarketBeat Alert\nNeutral Sentiment:\nCitizens Jmp initiated coverage of eBay with a “market perform” (hold) rating.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jmp",
+      "entity1_type": "ORG",
+      "entity2": "eBay",
+      "entity2_type": "ORG",
+      "sentence": "MarketBeat Alert\nNeutral Sentiment:\nCitizens Jmp initiated coverage of eBay with a “market perform” (hold) rating.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yahoo",
+      "entity1_type": "ORG",
+      "entity2": "Sports",
+      "entity2_type": "ORG",
+      "sentence": "Yahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than revenue driver.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yahoo",
+      "entity1_type": "ORG",
+      "entity2": "Billy",
+      "entity2_type": "PERSON",
+      "sentence": "Yahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than revenue driver.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yahoo",
+      "entity1_type": "ORG",
+      "entity2": "McFarland",
+      "entity2_type": "PERSON",
+      "sentence": "Yahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than revenue driver.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yahoo",
+      "entity1_type": "ORG",
+      "entity2": "Fyre",
+      "entity2_type": "EVENT",
+      "sentence": "Yahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than revenue driver.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yahoo",
+      "entity1_type": "ORG",
+      "entity2": "Festival",
+      "entity2_type": "EVENT",
+      "sentence": "Yahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than revenue driver.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yahoo",
+      "entity1_type": "ORG",
+      "entity2": "eBay",
+      "entity2_type": "ORG",
+      "sentence": "Yahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than revenue driver.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yahoo",
+      "entity1_type": "ORG",
+      "entity2": "one",
+      "entity2_type": "MONEY",
+      "sentence": "Yahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than revenue driver.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yahoo",
+      "entity1_type": "ORG",
+      "entity2": "cent",
+      "entity2_type": "MONEY",
+      "sentence": "Yahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than revenue driver.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sports",
+      "entity1_type": "ORG",
+      "entity2": "Billy",
+      "entity2_type": "PERSON",
+      "sentence": "Yahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than revenue driver.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sports",
+      "entity1_type": "ORG",
+      "entity2": "McFarland",
+      "entity2_type": "PERSON",
+      "sentence": "Yahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than revenue driver.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sports",
+      "entity1_type": "ORG",
+      "entity2": "Fyre",
+      "entity2_type": "EVENT",
+      "sentence": "Yahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than revenue driver.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sports",
+      "entity1_type": "ORG",
+      "entity2": "Festival",
+      "entity2_type": "EVENT",
+      "sentence": "Yahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than revenue driver.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sports",
+      "entity1_type": "ORG",
+      "entity2": "eBay",
+      "entity2_type": "ORG",
+      "sentence": "Yahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than revenue driver.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sports",
+      "entity1_type": "ORG",
+      "entity2": "one",
+      "entity2_type": "MONEY",
+      "sentence": "Yahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than revenue driver.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sports",
+      "entity1_type": "ORG",
+      "entity2": "cent",
+      "entity2_type": "MONEY",
+      "sentence": "Yahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than revenue driver.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Billy",
+      "entity1_type": "PERSON",
+      "entity2": "McFarland",
+      "entity2_type": "PERSON",
+      "sentence": "Yahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than revenue driver.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Billy",
+      "entity1_type": "PERSON",
+      "entity2": "Fyre",
+      "entity2_type": "EVENT",
+      "sentence": "Yahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than revenue driver.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Billy",
+      "entity1_type": "PERSON",
+      "entity2": "Festival",
+      "entity2_type": "EVENT",
+      "sentence": "Yahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than revenue driver.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Billy",
+      "entity1_type": "PERSON",
+      "entity2": "eBay",
+      "entity2_type": "ORG",
+      "sentence": "Yahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than revenue driver.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Billy",
+      "entity1_type": "PERSON",
+      "entity2": "one",
+      "entity2_type": "MONEY",
+      "sentence": "Yahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than revenue driver.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Billy",
+      "entity1_type": "PERSON",
+      "entity2": "cent",
+      "entity2_type": "MONEY",
+      "sentence": "Yahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than revenue driver.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "McFarland",
+      "entity1_type": "PERSON",
+      "entity2": "Fyre",
+      "entity2_type": "EVENT",
+      "sentence": "Yahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than revenue driver.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "McFarland",
+      "entity1_type": "PERSON",
+      "entity2": "Festival",
+      "entity2_type": "EVENT",
+      "sentence": "Yahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than revenue driver.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "McFarland",
+      "entity1_type": "PERSON",
+      "entity2": "eBay",
+      "entity2_type": "ORG",
+      "sentence": "Yahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than revenue driver.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "McFarland",
+      "entity1_type": "PERSON",
+      "entity2": "one",
+      "entity2_type": "MONEY",
+      "sentence": "Yahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than revenue driver.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "McFarland",
+      "entity1_type": "PERSON",
+      "entity2": "cent",
+      "entity2_type": "MONEY",
+      "sentence": "Yahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than revenue driver.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fyre",
+      "entity1_type": "EVENT",
+      "entity2": "Festival",
+      "entity2_type": "EVENT",
+      "sentence": "Yahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than revenue driver.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fyre",
+      "entity1_type": "EVENT",
+      "entity2": "eBay",
+      "entity2_type": "ORG",
+      "sentence": "Yahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than revenue driver.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fyre",
+      "entity1_type": "EVENT",
+      "entity2": "one",
+      "entity2_type": "MONEY",
+      "sentence": "Yahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than revenue driver.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fyre",
+      "entity1_type": "EVENT",
+      "entity2": "cent",
+      "entity2_type": "MONEY",
+      "sentence": "Yahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than revenue driver.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Festival",
+      "entity1_type": "EVENT",
+      "entity2": "eBay",
+      "entity2_type": "ORG",
+      "sentence": "Yahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than revenue driver.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Festival",
+      "entity1_type": "EVENT",
+      "entity2": "one",
+      "entity2_type": "MONEY",
+      "sentence": "Yahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than revenue driver.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Festival",
+      "entity1_type": "EVENT",
+      "entity2": "cent",
+      "entity2_type": "MONEY",
+      "sentence": "Yahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than revenue driver.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "eBay",
+      "entity1_type": "ORG",
+      "entity2": "one",
+      "entity2_type": "MONEY",
+      "sentence": "Yahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than revenue driver.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "eBay",
+      "entity1_type": "ORG",
+      "entity2": "cent",
+      "entity2_type": "MONEY",
+      "sentence": "Yahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than revenue driver.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "one",
+      "entity1_type": "MONEY",
+      "entity2": "cent",
+      "entity2_type": "MONEY",
+      "sentence": "Yahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than revenue driver.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "eBay",
+      "entity1_type": "ORG",
+      "entity2": "early",
+      "entity2_type": "DATE",
+      "sentence": "Short interest in eBay rose modestly in early July, signaling some bearish bets against the shares.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "eBay",
+      "entity1_type": "ORG",
+      "entity2": "July",
+      "entity2_type": "DATE",
+      "sentence": "Short interest in eBay rose modestly in early July, signaling some bearish bets against the shares.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "early",
+      "entity1_type": "DATE",
+      "entity2": "July",
+      "entity2_type": "DATE",
+      "sentence": "Short interest in eBay rose modestly in early July, signaling some bearish bets against the shares.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ago",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ago",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AI",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 1
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "eBay Inc. (EBAY) shares",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "fresh analyst outlooks",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "marketing promotions",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "its upcoming earnings report",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "upbeat price‐target raises",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "neutral ratings",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a slight uptick",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "short interest",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Robert W. Baird",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its price target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "strong expected upside",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Robert W. Baird",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "These July “Black Friday” deals",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Amazon Prime Day discounts",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "buyer engagement",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "IGN Article\nPositive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "USA Today",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "verified 20%‐off eBay coupons",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "additional sales volume",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "JPMorgan Chase",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its price target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a “neutral” rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "MarketBeat Alert\nNeutral Sentiment",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Citizens Jmp",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "eBay’s extended bidding test",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "mixed reviews",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "card buyers",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "user experience",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Yahoo Sports Article\nNeutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Billy McFarland",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the rights",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the Fyre Festival brand",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "one cent",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "more novelty",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "revenue driver",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "MSN Article\nNeutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "eBay’s upcoming earnings release",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "potential guidance",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "margin trends",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Short interest",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "early July",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "some bearish bets",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the shares",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "$80,",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$66",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$68",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "20%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "revenue",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "market",
+      "type": "pattern",
+      "category": "market_term"
+    }
+  ],
+  "important_sentences": [
+    {
+      "text": "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "importance_score": 52,
+      "entity_count": 13,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 5,
+      "sentiment": "positive"
+    },
+    {
+      "text": "JPMorgan Chase & Co. raised its price target on eBay from $66 to $68 but maintained a “neutral” rating.",
+      "importance_score": 38,
+      "entity_count": 7,
+      "financial_keyword_count": 2,
+      "money_count": 2,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Yahoo Sports Article\nNeutral Sentiment:\nBilly McFarland put the rights to the Fyre Festival brand on eBay starting at one cent—an unusual listing that is more novelty than revenue driver.",
+      "importance_score": 34,
+      "entity_count": 9,
+      "financial_keyword_count": 1,
+      "money_count": 1,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Positive Sentiment:\nRobert W. Baird upgraded eBay to “outperform” and boosted its price target to $80, signaling strong expected upside.",
+      "importance_score": 29,
+      "entity_count": 5,
+      "financial_keyword_count": 2,
+      "money_count": 1,
+      "company_count": 2,
+      "sentiment": "positive"
+    },
+    {
+      "text": "MarketBeat Alert\nNeutral Sentiment:\nCitizens Jmp initiated coverage of eBay with a “market perform” (hold) rating.",
+      "importance_score": 23,
+      "entity_count": 3,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "eBay Inc. (EBAY) shares are reacting to fresh analyst outlooks, marketing promotions and positioning ahead of its upcoming earnings report.",
+      "importance_score": 20,
+      "entity_count": 3,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Posted 1+ days ago\nAI Generated.",
+      "importance_score": 19,
+      "entity_count": 6,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Analysts and investors are preparing for eBay’s upcoming earnings release, focusing on potential guidance and margin trends.\nMSN Earnings Preview\nNegative Sentiment:",
+      "importance_score": 18,
+      "entity_count": 1,
+      "financial_keyword_count": 4,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Short interest in eBay rose modestly in early July, signaling some bearish bets against the shares.",
+      "importance_score": 16,
+      "entity_count": 3,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Investors are weighing upbeat price‐target raises against neutral ratings and a slight uptick in short interest.",
+      "importance_score": 9,
+      "entity_count": 0,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 0,
+      "sentiment": "neutral"
+    }
+  ],
+  "entity_statistics": {
+    "total_entities": 31,
+    "unique_entities": 20,
+    "type_counts": {
+      "ORG": 20,
+      "MONEY": 4,
+      "DATE": 5,
+      "PERSON": 1,
+      "EVENT": 1
+    },
+    "type_distribution": {
+      "ORG": 0.6451612903225806,
+      "MONEY": 0.12903225806451613,
+      "DATE": 0.16129032258064516,
+      "PERSON": 0.03225806451612903,
+      "EVENT": 0.03225806451612903
+    },
+    "most_common_entities": [
+      [
+        "eBay",
+        9
+      ],
+      [
+        "Robert W. Baird",
+        2
+      ],
+      [
+        "July",
+        2
+      ],
+      [
+        "USA Today",
+        2
+      ],
+      [
+        "eBay Inc.",
+        1
+      ],
+      [
+        "EBAY",
+        1
+      ],
+      [
+        "80",
+        1
+      ],
+      [
+        "Black Friday",
+        1
+      ],
+      [
+        "Amazon Prime",
+        1
+      ],
+      [
+        "JPMorgan Chase & Co.",
+        1
+      ]
+    ],
+    "entity_types_found": [
+      "ORG",
+      "MONEY",
+      "DATE",
+      "PERSON",
+      "EVENT"
+    ],
+    "company_entities": 20,
+    "person_entities": 1,
+    "financial_entities": 4,
+    "entity_density": 0.1336206896551724
+  },
+  "financial_analysis": {
+    "money_amounts": [
+      "80",
+      "66",
+      "68",
+      "one cent"
+    ],
+    "percentages": [],
+    "companies": [
+      "eBay Inc.",
+      "EBAY",
+      "Robert W. Baird",
+      "eBay",
+      "Robert W. Baird",
+      "eBay",
+      "Amazon Prime",
+      "USA Today",
+      "eBay",
+      "USA Today",
+      "JPMorgan Chase & Co.",
+      "eBay",
+      "Citizens Jmp",
+      "eBay",
+      "eBay",
+      "Yahoo Sports",
+      "eBay",
+      "eBay",
+      "eBay",
+      "AI Generated"
+    ],
+    "people": [
+      "Billy McFarland"
+    ],
+    "dates": [
+      "July",
+      "Black Friday",
+      "July",
+      "early July",
+      "1+ days ago"
+    ],
+    "financial_terms": [
+      "Earnings",
+      "revenue",
+      "earnings",
+      "market"
+    ],
+    "financial_metrics": [],
+    "market_indicators": [
+      "rating",
+      "volume",
+      "price",
+      "target"
+    ]
+  },
+  "temporal_analysis": {
+    "dates": [
+      "July",
+      "Black Friday",
+      "July",
+      "early July",
+      "1+ days ago"
+    ],
+    "time_expressions": [],
+    "temporal_relationships": [
+      "upcoming",
+      "Today"
+    ],
+    "quarters": [],
+    "years": [],
+    "time_periods": []
+  },
+  "sentiment_analysis": {
+    "positive_words": 4,
+    "negative_words": 2,
+    "positive_ratio": 0.017241379310344827,
+    "negative_ratio": 0.008620689655172414,
+    "sentiment_score": 0.008620689655172414,
+    "sentiment_label": "neutral",
+    "sentiment_strength": 0.008620689655172414,
+    "confidence": 0.08620689655172414
+  },
+  "industry_analysis": {
+    "dominant_industry": "tech",
+    "industry_scores": {
+      "tech": 1,
+      "finance": 0,
+      "healthcare": 0,
+      "energy": 0,
+      "retail": 0,
+      "automotive": 0,
+      "media": 0,
+      "industrial": 0,
+      "real_estate": 0,
+      "telecom": 0,
+      "food_beverage": 0,
+      "travel": 0,
+      "education": 0,
+      "professional": 0,
+      "mining": 0,
+      "aerospace": 0,
+      "environmental": 0,
+      "cannabis": 0
+    },
+    "confidence": 1.0
+  },
+  "market_analysis": {
+    "market_sentiment": "neutral",
+    "bullish_indicators": 1,
+    "bearish_indicators": 1,
+    "market_conditions": {
+      "volatility": "normal",
+      "volume": "normal",
+      "trend": "neutral"
+    },
+    "trading_activity": "normal"
+  },
+  "competitor_analysis": {
+    "companies_mentioned": [
+      "eBay Inc.",
+      "EBAY",
+      "Robert W. Baird",
+      "eBay",
+      "Robert W. Baird",
+      "eBay",
+      "Amazon Prime",
+      "USA Today",
+      "eBay",
+      "USA Today",
+      "JPMorgan Chase & Co.",
+      "eBay",
+      "Citizens Jmp",
+      "eBay",
+      "eBay",
+      "Yahoo Sports",
+      "eBay",
+      "eBay",
+      "eBay",
+      "AI Generated"
+    ],
+    "competitive_context": [
+      "Positive Sentiment:\nRobert W. Baird upgraded eBay to “outperform” and boosted its price target to $80, signaling strong expected upside.",
+      "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume."
+    ],
+    "competitor_count": 20,
+    "has_competitive_language": true
+  },
+  "risk_analysis": {
+    "risk_sentences": [],
+    "risk_count": 0,
+    "risk_level": "low"
+  },
+  "opportunity_analysis": {
+    "opportunity_sentences": [
+      "Robert W. Baird Forecasts\nPositive Sentiment:\nThese July “Black Friday” deals on eBay rival Amazon Prime Day discounts, potentially boosting buyer engagement.\nIGN Article\nPositive Sentiment:\nUSA Today is promoting verified 20%‐off eBay coupons for July, which could drive additional sales volume.",
+      "Analysts and investors are preparing for eBay’s upcoming earnings release, focusing on potential guidance and margin trends.\nMSN Earnings Preview\nNegative Sentiment:"
+    ],
+    "opportunity_count": 2,
+    "opportunity_level": "medium"
+  },
+  "processing_metadata": {
+    "timestamp": "2025-07-13T09:29:11.075352",
+    "model_used": "en_core_web_trf",
+    "text_length": 1652
+  }
+}
