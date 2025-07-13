@@ -4,6 +4,7 @@
   "ALGN",
   "AMCR",
   "AMT",
+  "AXP",
   "AZO",
   "CCI",
   "CF",
@@ -32,6 +33,7 @@
   "HD",
   "HRL",
   "HSY",
+  "HUBB",
   "JKHY",
   "KEYS",
   "KMX",
@@ -65,5 +67,6 @@
   "TT",
   "TXT",
   "VRTX",
-  "WRB"
+  "WRB",
+  "WSM"
 ]
