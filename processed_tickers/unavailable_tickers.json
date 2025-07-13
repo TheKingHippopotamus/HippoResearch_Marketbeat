@@ -1,7 +1,12 @@
 [
+  "ABNB",
   "ALGN",
   "AMCR",
+  "AMT",
   "D",
+  "DOW",
+  "ETN",
+  "FDX",
   "FITB",
   "GPC",
   "HSY",
@@ -11,5 +16,7 @@
   "NVR",
   "PG",
   "PNC",
+  "TFC",
+  "VRTX",
   "WRB"
 ]

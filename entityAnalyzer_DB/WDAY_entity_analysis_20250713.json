@@ -1,0 +1,2625 @@
+{
+  "ticker": "WDAY",
+  "entities": [
+    {
+      "text": "Workday, Inc.",
+      "label": "ORG",
+      "start": 0,
+      "end": 13,
+      "sentence": "Workday, Inc. (NASDAQ:WDAY) shares are moving after mixed signals: a top analyst reiterated a bullish outlook on healthy enterprise demand, while insider selling, analyst downgrades and a pullback in broader markets have weighed on the stock.",
+      "context": "Workday, Inc. (NASDAQ:WDAY) shares are moving after mixed signa",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "WDAY",
+      "label": "ORG",
+      "start": 22,
+      "end": 26,
+      "sentence": "Workday, Inc. (NASDAQ:WDAY) shares are moving after mixed signals: a top analyst reiterated a bullish outlook on healthy enterprise demand, while insider selling, analyst downgrades and a pullback in broader markets have weighed on the stock.",
+      "context": "Workday, Inc. (NASDAQ:WDAY) shares are moving after mixed signals: a top ana",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "William Blair",
+      "label": "ORG",
+      "start": 263,
+      "end": 276,
+      "sentence": "Positive Sentiment:\nWilliam Blair maintained a Buy rating on WDAY, highlighting a robust growth pipeline driven by continued strong enterprise demand for its cloud applications.",
+      "context": "ts have weighed on the stock.\nPositive Sentiment:\nWilliam Blair maintained a Buy rating on WDAY, highlighting a r",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "WDAY",
+      "label": "ORG",
+      "start": 304,
+      "end": 308,
+      "sentence": "Positive Sentiment:\nWilliam Blair maintained a Buy rating on WDAY, highlighting a robust growth pipeline driven by continued strong enterprise demand for its cloud applications.",
+      "context": "ntiment:\nWilliam Blair maintained a Buy rating on WDAY, highlighting a robust growth pipeline driven by",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Simpplr",
+      "label": "ORG",
+      "start": 477,
+      "end": 484,
+      "sentence": "Simpplr completed its Workday Design Badge integration, potentially broadening Workday’s ecosystem and accelerating adoption of its HCM tools.",
+      "context": "t Sees Strong Growth Pipeline\nPositive Sentiment:\nSimpplr completed its Workday Design Badge integration, p",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Workday",
+      "label": "PRODUCT",
+      "start": 499,
+      "end": 506,
+      "sentence": "Simpplr completed its Workday Design Badge integration, potentially broadening Workday’s ecosystem and accelerating adoption of its HCM tools.",
+      "context": "ipeline\nPositive Sentiment:\nSimpplr completed its Workday Design Badge integration, potentially broadening",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Workday",
+      "label": "ORG",
+      "start": 556,
+      "end": 563,
+      "sentence": "Simpplr completed its Workday Design Badge integration, potentially broadening Workday’s ecosystem and accelerating adoption of its HCM tools.",
+      "context": "Design Badge integration, potentially broadening Workday’s ecosystem and accelerating adoption of its HCM",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Simpplr",
+      "label": "ORG",
+      "start": 620,
+      "end": 627,
+      "sentence": "Simpplr Completes Workday Design Badge Integration",
+      "context": "ystem and accelerating adoption of its HCM tools.\nSimpplr Completes Workday Design Badge Integration\nNeutra",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Workday",
+      "label": "ORG",
+      "start": 638,
+      "end": 645,
+      "sentence": "Simpplr Completes Workday Design Badge Integration",
+      "context": "ting adoption of its HCM tools.\nSimpplr Completes Workday Design Badge Integration\nNeutral Sentiment:\nShort",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "days-to-cover",
+      "label": "DATE",
+      "start": 744,
+      "end": 757,
+      "sentence": "Short interest data showed no meaningful change, with days-to-cover remaining effectively zero on the latest report.",
+      "context": "t interest data showed no meaningful change, with days-to-cover remaining effectively zero on the latest report.",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "zero",
+      "label": "CARDINAL",
+      "start": 780,
+      "end": 784,
+      "sentence": "Short interest data showed no meaningful change, with days-to-cover remaining effectively zero on the latest report.",
+      "context": "change, with days-to-cover remaining effectively zero on the latest report.\nNo external link\nNeutral Se",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Twenty",
+      "label": "CARDINAL",
+      "start": 843,
+      "end": 849,
+      "sentence": "No external link\nNeutral Sentiment:\nTwenty analysts published fresh research on Workday, but the consensus Moderate Buy rating and average target around $297 remain unchanged.",
+      "context": "atest report.\nNo external link\nNeutral Sentiment:\nTwenty analysts published fresh research on Workday, but",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Workday",
+      "label": "ORG",
+      "start": 887,
+      "end": 894,
+      "sentence": "No external link\nNeutral Sentiment:\nTwenty analysts published fresh research on Workday, but the consensus Moderate Buy rating and average target around $297 remain unchanged.",
+      "context": "ment:\nTwenty analysts published fresh research on Workday, but the consensus Moderate Buy rating and averag",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "around $297",
+      "label": "MONEY",
+      "start": 953,
+      "end": 964,
+      "sentence": "No external link\nNeutral Sentiment:\nTwenty analysts published fresh research on Workday, but the consensus Moderate Buy rating and average target around $297 remain unchanged.",
+      "context": "consensus Moderate Buy rating and average target around $297 remain unchanged.\n20 Analysts Assess Workday\nNega",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "20",
+      "label": "CARDINAL",
+      "start": 983,
+      "end": 985,
+      "sentence": "20",
+      "context": "and average target around $297 remain unchanged.\n20 Analysts Assess Workday\nNegative Sentiment:\nMajor",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Workday",
+      "label": "ORG",
+      "start": 1002,
+      "end": 1009,
+      "sentence": "Analysts Assess Workday\nNegative Sentiment:",
+      "context": "around $297 remain unchanged.\n20 Analysts Assess Workday\nNegative Sentiment:\nMajor shareholder David A. Du",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "David A. Duffield",
+      "label": "PERSON",
+      "start": 1048,
+      "end": 1065,
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "context": "ess Workday\nNegative Sentiment:\nMajor shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 sha",
+      "is_company": false,
+      "is_person": true,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "41.3%",
+      "label": "PERCENT",
+      "start": 1090,
+      "end": 1095,
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "context": "eholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million,",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "72,551",
+      "label": "CARDINAL",
+      "start": 1105,
+      "end": 1111,
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "context": ". Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signa",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "about $17.4 million",
+      "label": "MONEY",
+      "start": 1125,
+      "end": 1144,
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "context": "is position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.\nMajo",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "72,551",
+      "label": "CARDINAL",
+      "start": 1214,
+      "end": 1220,
+      "sentence": "Major Shareholder Sells 72,551 Shares\nNegative Sentiment:\nWorkday stock slipped over 4.5% in the last session amid a broader market uptick, underperforming its software peers.\nWDAY Stock Falls Amid Market Uptick\nNegative Sentiment:",
+      "context": "aning insider conviction.\nMajor Shareholder Sells 72,551 Shares\nNegative Sentiment:\nWorkday stock slipped",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Workday",
+      "label": "ORG",
+      "start": 1248,
+      "end": 1255,
+      "sentence": "Major Shareholder Sells 72,551 Shares\nNegative Sentiment:\nWorkday stock slipped over 4.5% in the last session amid a broader market uptick, underperforming its software peers.\nWDAY Stock Falls Amid Market Uptick\nNegative Sentiment:",
+      "context": "areholder Sells 72,551 Shares\nNegative Sentiment:\nWorkday stock slipped over 4.5% in the last session amid",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "over 4.5%",
+      "label": "PERCENT",
+      "start": 1270,
+      "end": 1279,
+      "sentence": "Major Shareholder Sells 72,551 Shares\nNegative Sentiment:\nWorkday stock slipped over 4.5% in the last session amid a broader market uptick, underperforming its software peers.\nWDAY Stock Falls Amid Market Uptick\nNegative Sentiment:",
+      "context": "Shares\nNegative Sentiment:\nWorkday stock slipped over 4.5% in the last session amid a broader market uptick,",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "WDAY",
+      "label": "ORG",
+      "start": 1366,
+      "end": 1370,
+      "sentence": "Major Shareholder Sells 72,551 Shares\nNegative Sentiment:\nWorkday stock slipped over 4.5% in the last session amid a broader market uptick, underperforming its software peers.\nWDAY Stock Falls Amid Market Uptick\nNegative Sentiment:",
+      "context": "arket uptick, underperforming its software peers.\nWDAY Stock Falls Amid Market Uptick\nNegative Sentiment",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "roughly 4.6%",
+      "label": "PERCENT",
+      "start": 1439,
+      "end": 1451,
+      "sentence": "Shares were down roughly 4.6% as investors reacted to rotation in tech earnings and growth concerns.",
+      "context": "arket Uptick\nNegative Sentiment:\nShares were down roughly 4.6% as investors reacted to rotation in tech earnings",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "4.6%",
+      "label": "PERCENT",
+      "start": 1540,
+      "end": 1544,
+      "sentence": "Stock Price Down 4.6% – Here's What Happened\nNegative Sentiment:",
+      "context": "ch earnings and growth concerns.\nStock Price Down 4.6% – Here's What Happened\nNegative Sentiment:\nWorkda",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Workday",
+      "label": "ORG",
+      "start": 1588,
+      "end": 1595,
+      "sentence": "Workday was downgraded on worries over an enterprise spending slowdown, reflecting potential delays in customer cloud software investments.",
+      "context": "n 4.6% – Here's What Happened\nNegative Sentiment:\nWorkday was downgraded on worries over an enterprise spen",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Piper Sandler",
+      "label": "ORG",
+      "start": 1789,
+      "end": 1802,
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "context": "on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "235",
+      "label": "MONEY",
+      "start": 1857,
+      "end": 1860,
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "context": "gned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favo",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Piper Sandler",
+      "label": "ORG",
+      "start": 1959,
+      "end": 1972,
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "context": "or larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated. May Contain Erro",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "1+ days ago",
+      "label": "DATE",
+      "start": 1980,
+      "end": 1991,
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "context": "ndors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AI Generated",
+      "label": "ORG",
+      "start": 1992,
+      "end": 2004,
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "context": "weight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    }
+  ],
+  "relationships": [
+    {
+      "type": "SVO",
+      "subject": "analyst",
+      "verb": "reiterated",
+      "object": "outlook",
+      "sentence": "Workday, Inc. (NASDAQ:WDAY) shares are moving after mixed signals: a top analyst reiterated a bullish outlook on healthy enterprise demand, while insider selling, analyst downgrades and a pullback in broader markets have weighed on the stock.",
+      "importance": 8
+    },
+    {
+      "type": "SVO",
+      "subject": "Blair",
+      "verb": "maintained",
+      "object": "rating",
+      "sentence": "Positive Sentiment:\nWilliam Blair maintained a Buy rating on WDAY, highlighting a robust growth pipeline driven by continued strong enterprise demand for its cloud applications.",
+      "importance": 8
+    },
+    {
+      "type": "SVO",
+      "subject": "Analyst",
+      "verb": "Sees",
+      "object": "Pipeline",
+      "sentence": "Analyst Sees Strong Growth Pipeline",
+      "importance": 3
+    },
+    {
+      "type": "SVO",
+      "subject": "Simpplr",
+      "verb": "completed",
+      "object": "integration",
+      "sentence": "Simpplr completed its Workday Design Badge integration, potentially broadening Workday’s ecosystem and accelerating adoption of its HCM tools.",
+      "importance": 3
+    },
+    {
+      "type": "SVO",
+      "subject": "Simpplr",
+      "verb": "Completes",
+      "object": "Integration",
+      "sentence": "Simpplr Completes Workday Design Badge Integration",
+      "importance": 2
+    },
+    {
+      "type": "SVO",
+      "subject": "data",
+      "verb": "showed",
+      "object": "change",
+      "sentence": "Short interest data showed no meaningful change, with days-to-cover remaining effectively zero on the latest report.",
+      "importance": 9
+    },
+    {
+      "type": "SVO",
+      "subject": "analysts",
+      "verb": "published",
+      "object": "research",
+      "sentence": "No external link\nNeutral Sentiment:\nTwenty analysts published fresh research on Workday, but the consensus Moderate Buy rating and average target around $297 remain unchanged.",
+      "importance": 8
+    },
+    {
+      "type": "SVO",
+      "subject": "Analysts",
+      "verb": "Assess",
+      "object": "Workday",
+      "sentence": "Analysts Assess Workday\nNegative Sentiment:",
+      "importance": 1
+    },
+    {
+      "type": "SVO",
+      "subject": "Duffield",
+      "verb": "reduced",
+      "object": "position",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "importance": 11
+    },
+    {
+      "type": "SVO",
+      "subject": "which",
+      "verb": "signal",
+      "object": "conviction",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "importance": 11
+    },
+    {
+      "type": "SVO",
+      "subject": "Shareholder",
+      "verb": "Sells",
+      "object": "Shares",
+      "sentence": "Major Shareholder Sells 72,551 Shares\nNegative Sentiment:\nWorkday stock slipped over 4.5% in the last session amid a broader market uptick, underperforming its software peers.\nWDAY Stock Falls Amid Market Uptick\nNegative Sentiment:",
+      "importance": 13
+    },
+    {
+      "type": "SVO",
+      "subject": "Sandler",
+      "verb": "assigned",
+      "object": "rating",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "importance": 17
+    },
+    {
+      "type": "SVO",
+      "subject": "that",
+      "verb": "favor",
+      "object": "vendors",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "importance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Workday",
+      "entity1_type": "ORG",
+      "entity2": ",",
+      "entity2_type": "ORG",
+      "sentence": "Workday, Inc. (NASDAQ:WDAY) shares are moving after mixed signals: a top analyst reiterated a bullish outlook on healthy enterprise demand, while insider selling, analyst downgrades and a pullback in broader markets have weighed on the stock.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Workday",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Workday, Inc. (NASDAQ:WDAY) shares are moving after mixed signals: a top analyst reiterated a bullish outlook on healthy enterprise demand, while insider selling, analyst downgrades and a pullback in broader markets have weighed on the stock.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Workday",
+      "entity1_type": "ORG",
+      "entity2": "WDAY",
+      "entity2_type": "ORG",
+      "sentence": "Workday, Inc. (NASDAQ:WDAY) shares are moving after mixed signals: a top analyst reiterated a bullish outlook on healthy enterprise demand, while insider selling, analyst downgrades and a pullback in broader markets have weighed on the stock.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Workday, Inc. (NASDAQ:WDAY) shares are moving after mixed signals: a top analyst reiterated a bullish outlook on healthy enterprise demand, while insider selling, analyst downgrades and a pullback in broader markets have weighed on the stock.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "WDAY",
+      "entity2_type": "ORG",
+      "sentence": "Workday, Inc. (NASDAQ:WDAY) shares are moving after mixed signals: a top analyst reiterated a bullish outlook on healthy enterprise demand, while insider selling, analyst downgrades and a pullback in broader markets have weighed on the stock.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "WDAY",
+      "entity2_type": "ORG",
+      "sentence": "Workday, Inc. (NASDAQ:WDAY) shares are moving after mixed signals: a top analyst reiterated a bullish outlook on healthy enterprise demand, while insider selling, analyst downgrades and a pullback in broader markets have weighed on the stock.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "William",
+      "entity1_type": "ORG",
+      "entity2": "Blair",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nWilliam Blair maintained a Buy rating on WDAY, highlighting a robust growth pipeline driven by continued strong enterprise demand for its cloud applications.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "William",
+      "entity1_type": "ORG",
+      "entity2": "WDAY",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nWilliam Blair maintained a Buy rating on WDAY, highlighting a robust growth pipeline driven by continued strong enterprise demand for its cloud applications.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Blair",
+      "entity1_type": "ORG",
+      "entity2": "WDAY",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nWilliam Blair maintained a Buy rating on WDAY, highlighting a robust growth pipeline driven by continued strong enterprise demand for its cloud applications.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Simpplr",
+      "entity1_type": "ORG",
+      "entity2": "Workday",
+      "entity2_type": "PRODUCT",
+      "sentence": "Simpplr completed its Workday Design Badge integration, potentially broadening Workday’s ecosystem and accelerating adoption of its HCM tools.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Simpplr",
+      "entity1_type": "ORG",
+      "entity2": "Workday",
+      "entity2_type": "ORG",
+      "sentence": "Simpplr completed its Workday Design Badge integration, potentially broadening Workday’s ecosystem and accelerating adoption of its HCM tools.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Workday",
+      "entity1_type": "PRODUCT",
+      "entity2": "Workday",
+      "entity2_type": "ORG",
+      "sentence": "Simpplr completed its Workday Design Badge integration, potentially broadening Workday’s ecosystem and accelerating adoption of its HCM tools.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Simpplr",
+      "entity1_type": "ORG",
+      "entity2": "Workday",
+      "entity2_type": "ORG",
+      "sentence": "Simpplr Completes Workday Design Badge Integration",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Short interest data showed no meaningful change, with days-to-cover remaining effectively zero on the latest report.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "to",
+      "entity2_type": "DATE",
+      "sentence": "Short interest data showed no meaningful change, with days-to-cover remaining effectively zero on the latest report.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Short interest data showed no meaningful change, with days-to-cover remaining effectively zero on the latest report.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "cover",
+      "entity2_type": "DATE",
+      "sentence": "Short interest data showed no meaningful change, with days-to-cover remaining effectively zero on the latest report.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "zero",
+      "entity2_type": "CARDINAL",
+      "sentence": "Short interest data showed no meaningful change, with days-to-cover remaining effectively zero on the latest report.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "DATE",
+      "entity2": "to",
+      "entity2_type": "DATE",
+      "sentence": "Short interest data showed no meaningful change, with days-to-cover remaining effectively zero on the latest report.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "DATE",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Short interest data showed no meaningful change, with days-to-cover remaining effectively zero on the latest report.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "DATE",
+      "entity2": "cover",
+      "entity2_type": "DATE",
+      "sentence": "Short interest data showed no meaningful change, with days-to-cover remaining effectively zero on the latest report.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "DATE",
+      "entity2": "zero",
+      "entity2_type": "CARDINAL",
+      "sentence": "Short interest data showed no meaningful change, with days-to-cover remaining effectively zero on the latest report.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "to",
+      "entity1_type": "DATE",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Short interest data showed no meaningful change, with days-to-cover remaining effectively zero on the latest report.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "to",
+      "entity1_type": "DATE",
+      "entity2": "cover",
+      "entity2_type": "DATE",
+      "sentence": "Short interest data showed no meaningful change, with days-to-cover remaining effectively zero on the latest report.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "to",
+      "entity1_type": "DATE",
+      "entity2": "zero",
+      "entity2_type": "CARDINAL",
+      "sentence": "Short interest data showed no meaningful change, with days-to-cover remaining effectively zero on the latest report.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "DATE",
+      "entity2": "cover",
+      "entity2_type": "DATE",
+      "sentence": "Short interest data showed no meaningful change, with days-to-cover remaining effectively zero on the latest report.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "DATE",
+      "entity2": "zero",
+      "entity2_type": "CARDINAL",
+      "sentence": "Short interest data showed no meaningful change, with days-to-cover remaining effectively zero on the latest report.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "cover",
+      "entity1_type": "DATE",
+      "entity2": "zero",
+      "entity2_type": "CARDINAL",
+      "sentence": "Short interest data showed no meaningful change, with days-to-cover remaining effectively zero on the latest report.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Twenty",
+      "entity1_type": "CARDINAL",
+      "entity2": "Workday",
+      "entity2_type": "ORG",
+      "sentence": "No external link\nNeutral Sentiment:\nTwenty analysts published fresh research on Workday, but the consensus Moderate Buy rating and average target around $297 remain unchanged.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Twenty",
+      "entity1_type": "CARDINAL",
+      "entity2": "around",
+      "entity2_type": "MONEY",
+      "sentence": "No external link\nNeutral Sentiment:\nTwenty analysts published fresh research on Workday, but the consensus Moderate Buy rating and average target around $297 remain unchanged.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Twenty",
+      "entity1_type": "CARDINAL",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "No external link\nNeutral Sentiment:\nTwenty analysts published fresh research on Workday, but the consensus Moderate Buy rating and average target around $297 remain unchanged.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Twenty",
+      "entity1_type": "CARDINAL",
+      "entity2": "297",
+      "entity2_type": "MONEY",
+      "sentence": "No external link\nNeutral Sentiment:\nTwenty analysts published fresh research on Workday, but the consensus Moderate Buy rating and average target around $297 remain unchanged.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Workday",
+      "entity1_type": "ORG",
+      "entity2": "around",
+      "entity2_type": "MONEY",
+      "sentence": "No external link\nNeutral Sentiment:\nTwenty analysts published fresh research on Workday, but the consensus Moderate Buy rating and average target around $297 remain unchanged.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Workday",
+      "entity1_type": "ORG",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "No external link\nNeutral Sentiment:\nTwenty analysts published fresh research on Workday, but the consensus Moderate Buy rating and average target around $297 remain unchanged.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Workday",
+      "entity1_type": "ORG",
+      "entity2": "297",
+      "entity2_type": "MONEY",
+      "sentence": "No external link\nNeutral Sentiment:\nTwenty analysts published fresh research on Workday, but the consensus Moderate Buy rating and average target around $297 remain unchanged.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "around",
+      "entity1_type": "MONEY",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "No external link\nNeutral Sentiment:\nTwenty analysts published fresh research on Workday, but the consensus Moderate Buy rating and average target around $297 remain unchanged.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "around",
+      "entity1_type": "MONEY",
+      "entity2": "297",
+      "entity2_type": "MONEY",
+      "sentence": "No external link\nNeutral Sentiment:\nTwenty analysts published fresh research on Workday, but the consensus Moderate Buy rating and average target around $297 remain unchanged.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "297",
+      "entity2_type": "MONEY",
+      "sentence": "No external link\nNeutral Sentiment:\nTwenty analysts published fresh research on Workday, but the consensus Moderate Buy rating and average target around $297 remain unchanged.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "David",
+      "entity1_type": "PERSON",
+      "entity2": "A.",
+      "entity2_type": "PERSON",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "David",
+      "entity1_type": "PERSON",
+      "entity2": "Duffield",
+      "entity2_type": "PERSON",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "David",
+      "entity1_type": "PERSON",
+      "entity2": "41.3",
+      "entity2_type": "PERCENT",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "David",
+      "entity1_type": "PERSON",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "David",
+      "entity1_type": "PERSON",
+      "entity2": "72,551",
+      "entity2_type": "CARDINAL",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "David",
+      "entity1_type": "PERSON",
+      "entity2": "about",
+      "entity2_type": "MONEY",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "David",
+      "entity1_type": "PERSON",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "David",
+      "entity1_type": "PERSON",
+      "entity2": "17.4",
+      "entity2_type": "MONEY",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "David",
+      "entity1_type": "PERSON",
+      "entity2": "million",
+      "entity2_type": "MONEY",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "A.",
+      "entity1_type": "PERSON",
+      "entity2": "Duffield",
+      "entity2_type": "PERSON",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "A.",
+      "entity1_type": "PERSON",
+      "entity2": "41.3",
+      "entity2_type": "PERCENT",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "A.",
+      "entity1_type": "PERSON",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "A.",
+      "entity1_type": "PERSON",
+      "entity2": "72,551",
+      "entity2_type": "CARDINAL",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "A.",
+      "entity1_type": "PERSON",
+      "entity2": "about",
+      "entity2_type": "MONEY",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "A.",
+      "entity1_type": "PERSON",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "A.",
+      "entity1_type": "PERSON",
+      "entity2": "17.4",
+      "entity2_type": "MONEY",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "A.",
+      "entity1_type": "PERSON",
+      "entity2": "million",
+      "entity2_type": "MONEY",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Duffield",
+      "entity1_type": "PERSON",
+      "entity2": "41.3",
+      "entity2_type": "PERCENT",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Duffield",
+      "entity1_type": "PERSON",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Duffield",
+      "entity1_type": "PERSON",
+      "entity2": "72,551",
+      "entity2_type": "CARDINAL",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Duffield",
+      "entity1_type": "PERSON",
+      "entity2": "about",
+      "entity2_type": "MONEY",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Duffield",
+      "entity1_type": "PERSON",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Duffield",
+      "entity1_type": "PERSON",
+      "entity2": "17.4",
+      "entity2_type": "MONEY",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Duffield",
+      "entity1_type": "PERSON",
+      "entity2": "million",
+      "entity2_type": "MONEY",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "41.3",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "41.3",
+      "entity1_type": "PERCENT",
+      "entity2": "72,551",
+      "entity2_type": "CARDINAL",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "41.3",
+      "entity1_type": "PERCENT",
+      "entity2": "about",
+      "entity2_type": "MONEY",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "41.3",
+      "entity1_type": "PERCENT",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "41.3",
+      "entity1_type": "PERCENT",
+      "entity2": "17.4",
+      "entity2_type": "MONEY",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "41.3",
+      "entity1_type": "PERCENT",
+      "entity2": "million",
+      "entity2_type": "MONEY",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "72,551",
+      "entity2_type": "CARDINAL",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "about",
+      "entity2_type": "MONEY",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "17.4",
+      "entity2_type": "MONEY",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "million",
+      "entity2_type": "MONEY",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "72,551",
+      "entity1_type": "CARDINAL",
+      "entity2": "about",
+      "entity2_type": "MONEY",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "72,551",
+      "entity1_type": "CARDINAL",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "72,551",
+      "entity1_type": "CARDINAL",
+      "entity2": "17.4",
+      "entity2_type": "MONEY",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "72,551",
+      "entity1_type": "CARDINAL",
+      "entity2": "million",
+      "entity2_type": "MONEY",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "about",
+      "entity1_type": "MONEY",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "about",
+      "entity1_type": "MONEY",
+      "entity2": "17.4",
+      "entity2_type": "MONEY",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "about",
+      "entity1_type": "MONEY",
+      "entity2": "million",
+      "entity2_type": "MONEY",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "17.4",
+      "entity2_type": "MONEY",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "million",
+      "entity2_type": "MONEY",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "17.4",
+      "entity1_type": "MONEY",
+      "entity2": "million",
+      "entity2_type": "MONEY",
+      "sentence": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "72,551",
+      "entity1_type": "CARDINAL",
+      "entity2": "Workday",
+      "entity2_type": "ORG",
+      "sentence": "Major Shareholder Sells 72,551 Shares\nNegative Sentiment:\nWorkday stock slipped over 4.5% in the last session amid a broader market uptick, underperforming its software peers.\nWDAY Stock Falls Amid Market Uptick\nNegative Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "72,551",
+      "entity1_type": "CARDINAL",
+      "entity2": "over",
+      "entity2_type": "PERCENT",
+      "sentence": "Major Shareholder Sells 72,551 Shares\nNegative Sentiment:\nWorkday stock slipped over 4.5% in the last session amid a broader market uptick, underperforming its software peers.\nWDAY Stock Falls Amid Market Uptick\nNegative Sentiment:",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "72,551",
+      "entity1_type": "CARDINAL",
+      "entity2": "4.5",
+      "entity2_type": "PERCENT",
+      "sentence": "Major Shareholder Sells 72,551 Shares\nNegative Sentiment:\nWorkday stock slipped over 4.5% in the last session amid a broader market uptick, underperforming its software peers.\nWDAY Stock Falls Amid Market Uptick\nNegative Sentiment:",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "72,551",
+      "entity1_type": "CARDINAL",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Major Shareholder Sells 72,551 Shares\nNegative Sentiment:\nWorkday stock slipped over 4.5% in the last session amid a broader market uptick, underperforming its software peers.\nWDAY Stock Falls Amid Market Uptick\nNegative Sentiment:",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "72,551",
+      "entity1_type": "CARDINAL",
+      "entity2": "WDAY",
+      "entity2_type": "ORG",
+      "sentence": "Major Shareholder Sells 72,551 Shares\nNegative Sentiment:\nWorkday stock slipped over 4.5% in the last session amid a broader market uptick, underperforming its software peers.\nWDAY Stock Falls Amid Market Uptick\nNegative Sentiment:",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Workday",
+      "entity1_type": "ORG",
+      "entity2": "over",
+      "entity2_type": "PERCENT",
+      "sentence": "Major Shareholder Sells 72,551 Shares\nNegative Sentiment:\nWorkday stock slipped over 4.5% in the last session amid a broader market uptick, underperforming its software peers.\nWDAY Stock Falls Amid Market Uptick\nNegative Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Workday",
+      "entity1_type": "ORG",
+      "entity2": "4.5",
+      "entity2_type": "PERCENT",
+      "sentence": "Major Shareholder Sells 72,551 Shares\nNegative Sentiment:\nWorkday stock slipped over 4.5% in the last session amid a broader market uptick, underperforming its software peers.\nWDAY Stock Falls Amid Market Uptick\nNegative Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Workday",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Major Shareholder Sells 72,551 Shares\nNegative Sentiment:\nWorkday stock slipped over 4.5% in the last session amid a broader market uptick, underperforming its software peers.\nWDAY Stock Falls Amid Market Uptick\nNegative Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Workday",
+      "entity1_type": "ORG",
+      "entity2": "WDAY",
+      "entity2_type": "ORG",
+      "sentence": "Major Shareholder Sells 72,551 Shares\nNegative Sentiment:\nWorkday stock slipped over 4.5% in the last session amid a broader market uptick, underperforming its software peers.\nWDAY Stock Falls Amid Market Uptick\nNegative Sentiment:",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "over",
+      "entity1_type": "PERCENT",
+      "entity2": "4.5",
+      "entity2_type": "PERCENT",
+      "sentence": "Major Shareholder Sells 72,551 Shares\nNegative Sentiment:\nWorkday stock slipped over 4.5% in the last session amid a broader market uptick, underperforming its software peers.\nWDAY Stock Falls Amid Market Uptick\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "over",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Major Shareholder Sells 72,551 Shares\nNegative Sentiment:\nWorkday stock slipped over 4.5% in the last session amid a broader market uptick, underperforming its software peers.\nWDAY Stock Falls Amid Market Uptick\nNegative Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "over",
+      "entity1_type": "PERCENT",
+      "entity2": "WDAY",
+      "entity2_type": "ORG",
+      "sentence": "Major Shareholder Sells 72,551 Shares\nNegative Sentiment:\nWorkday stock slipped over 4.5% in the last session amid a broader market uptick, underperforming its software peers.\nWDAY Stock Falls Amid Market Uptick\nNegative Sentiment:",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "4.5",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Major Shareholder Sells 72,551 Shares\nNegative Sentiment:\nWorkday stock slipped over 4.5% in the last session amid a broader market uptick, underperforming its software peers.\nWDAY Stock Falls Amid Market Uptick\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "4.5",
+      "entity1_type": "PERCENT",
+      "entity2": "WDAY",
+      "entity2_type": "ORG",
+      "sentence": "Major Shareholder Sells 72,551 Shares\nNegative Sentiment:\nWorkday stock slipped over 4.5% in the last session amid a broader market uptick, underperforming its software peers.\nWDAY Stock Falls Amid Market Uptick\nNegative Sentiment:",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "WDAY",
+      "entity2_type": "ORG",
+      "sentence": "Major Shareholder Sells 72,551 Shares\nNegative Sentiment:\nWorkday stock slipped over 4.5% in the last session amid a broader market uptick, underperforming its software peers.\nWDAY Stock Falls Amid Market Uptick\nNegative Sentiment:",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "roughly",
+      "entity1_type": "PERCENT",
+      "entity2": "4.6",
+      "entity2_type": "PERCENT",
+      "sentence": "Shares were down roughly 4.6% as investors reacted to rotation in tech earnings and growth concerns.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "roughly",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Shares were down roughly 4.6% as investors reacted to rotation in tech earnings and growth concerns.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "4.6",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Shares were down roughly 4.6% as investors reacted to rotation in tech earnings and growth concerns.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "4.6",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Stock Price Down 4.6% – Here's What Happened\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Piper",
+      "entity1_type": "ORG",
+      "entity2": "Sandler",
+      "entity2_type": "ORG",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Piper",
+      "entity1_type": "ORG",
+      "entity2": "235",
+      "entity2_type": "MONEY",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Piper",
+      "entity1_type": "ORG",
+      "entity2": "Piper",
+      "entity2_type": "ORG",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 32
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Piper",
+      "entity1_type": "ORG",
+      "entity2": "Sandler",
+      "entity2_type": "ORG",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 33
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Piper",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 36
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Piper",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 37
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Piper",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 38
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Piper",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 39
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Piper",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 41
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Piper",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 42
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sandler",
+      "entity1_type": "ORG",
+      "entity2": "235",
+      "entity2_type": "MONEY",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sandler",
+      "entity1_type": "ORG",
+      "entity2": "Piper",
+      "entity2_type": "ORG",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sandler",
+      "entity1_type": "ORG",
+      "entity2": "Sandler",
+      "entity2_type": "ORG",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 32
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sandler",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 35
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sandler",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 36
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sandler",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 37
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sandler",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 38
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sandler",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 40
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sandler",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 41
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "235",
+      "entity1_type": "MONEY",
+      "entity2": "Piper",
+      "entity2_type": "ORG",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "235",
+      "entity1_type": "MONEY",
+      "entity2": "Sandler",
+      "entity2_type": "ORG",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "235",
+      "entity1_type": "MONEY",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "235",
+      "entity1_type": "MONEY",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "235",
+      "entity1_type": "MONEY",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "235",
+      "entity1_type": "MONEY",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "235",
+      "entity1_type": "MONEY",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "235",
+      "entity1_type": "MONEY",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Piper",
+      "entity1_type": "ORG",
+      "entity2": "Sandler",
+      "entity2_type": "ORG",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Piper",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Piper",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Piper",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Piper",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Piper",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Piper",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sandler",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sandler",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sandler",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sandler",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sandler",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sandler",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ago",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ago",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AI",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "mixed signals",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a top analyst",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a bullish outlook",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "healthy enterprise demand",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "insider selling",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "analyst downgrades",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a pullback",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "broader markets",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "the stock",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "William Blair",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a Buy rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a robust growth pipeline",
+      "type": "noun_chunk",
+      "category": "trend"
+    },
+    {
+      "text": "continued strong enterprise demand",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its cloud applications",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Strong Growth Pipeline",
+      "type": "noun_chunk",
+      "category": "trend"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its Workday Design Badge integration",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Workday’s ecosystem",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its HCM tools",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Workday Design Badge Integration",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Short interest data",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "no meaningful change",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the latest report",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "No external link\nNeutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Twenty analysts",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "fresh research",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the consensus Moderate Buy rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "average target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Major shareholder David A. Duffield",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "his position",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "72,551 shares",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "waning insider conviction",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Major Shareholder",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "72,551 Shares",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Workday stock",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "the last session",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a broader market uptick",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "its software peers",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "WDAY Stock",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Market Uptick",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "tech earnings",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "growth concerns",
+      "type": "noun_chunk",
+      "category": "trend"
+    },
+    {
+      "text": "Stock Price",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "an enterprise spending slowdown",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "potential delays",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "customer cloud software investments",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Spending Slowdown Concerns",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Piper Sandler",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "an Underweight rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "AI-driven shifts",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "CIO budgets",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "larger platform vendors",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Underweight Rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Piper Sandler",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "$297",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$17",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$235,",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "41.3%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "4.5%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "4.6%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "4.6%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "growth",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Growth",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "growth",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "market",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Market",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Stock",
+      "type": "pattern",
+      "category": "market_term"
+    }
+  ],
+  "important_sentences": [
+    {
+      "text": "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated.",
+      "importance_score": 57,
+      "entity_count": 11,
+      "financial_keyword_count": 6,
+      "money_count": 1,
+      "company_count": 3,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Major Shareholder Sells 72,551 Shares\nNegative Sentiment:\nWorkday stock slipped over 4.5% in the last session amid a broader market uptick, underperforming its software peers.\nWDAY Stock Falls Amid Market Uptick\nNegative Sentiment:",
+      "importance_score": 41,
+      "entity_count": 6,
+      "financial_keyword_count": 7,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Positive Sentiment:\nWilliam Blair maintained a Buy rating on WDAY, highlighting a robust growth pipeline driven by continued strong enterprise demand for its cloud applications.",
+      "importance_score": 29,
+      "entity_count": 3,
+      "financial_keyword_count": 5,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Workday, Inc. (NASDAQ:WDAY) shares are moving after mixed signals: a top analyst reiterated a bullish outlook on healthy enterprise demand, while insider selling, analyst downgrades and a pullback in broader markets have weighed on the stock.",
+      "importance_score": 28,
+      "entity_count": 4,
+      "financial_keyword_count": 4,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "No external link\nNeutral Sentiment:\nTwenty analysts published fresh research on Workday, but the consensus Moderate Buy rating and average target around $297 remain unchanged.",
+      "importance_score": 28,
+      "entity_count": 5,
+      "financial_keyword_count": 3,
+      "money_count": 1,
+      "company_count": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Major shareholder David A. Duffield reduced his position by 41.3%, selling 72,551 shares worth about $17.4 million, which may signal waning insider conviction.",
+      "importance_score": 28,
+      "entity_count": 10,
+      "financial_keyword_count": 1,
+      "money_count": 1,
+      "company_count": 0,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Short interest data showed no meaningful change, with days-to-cover remaining effectively zero on the latest report.",
+      "importance_score": 21,
+      "entity_count": 6,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 0,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Workday was downgraded on worries over an enterprise spending slowdown, reflecting potential delays in customer cloud software investments.",
+      "importance_score": 15,
+      "entity_count": 1,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Simpplr completed its Workday Design Badge integration, potentially broadening Workday’s ecosystem and accelerating adoption of its HCM tools.",
+      "importance_score": 14,
+      "entity_count": 3,
+      "financial_keyword_count": 0,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Simpplr Completes Workday Design Badge Integration",
+      "importance_score": 12,
+      "entity_count": 2,
+      "financial_keyword_count": 0,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    }
+  ],
+  "entity_statistics": {
+    "total_entities": 32,
+    "unique_entities": 21,
+    "type_counts": {
+      "ORG": 16,
+      "PRODUCT": 1,
+      "DATE": 2,
+      "CARDINAL": 5,
+      "MONEY": 3,
+      "PERSON": 1,
+      "PERCENT": 4
+    },
+    "type_distribution": {
+      "ORG": 0.5,
+      "PRODUCT": 0.03125,
+      "DATE": 0.0625,
+      "CARDINAL": 0.15625,
+      "MONEY": 0.09375,
+      "PERSON": 0.03125,
+      "PERCENT": 0.125
+    },
+    "most_common_entities": [
+      [
+        "Workday",
+        7
+      ],
+      [
+        "WDAY",
+        3
+      ],
+      [
+        "Simpplr",
+        2
+      ],
+      [
+        "72,551",
+        2
+      ],
+      [
+        "Piper Sandler",
+        2
+      ],
+      [
+        "Workday, Inc.",
+        1
+      ],
+      [
+        "William Blair",
+        1
+      ],
+      [
+        "days-to-cover",
+        1
+      ],
+      [
+        "zero",
+        1
+      ],
+      [
+        "Twenty",
+        1
+      ]
+    ],
+    "entity_types_found": [
+      "ORG",
+      "PRODUCT",
+      "DATE",
+      "CARDINAL",
+      "MONEY",
+      "PERSON",
+      "PERCENT"
+    ],
+    "company_entities": 17,
+    "person_entities": 1,
+    "financial_entities": 7,
+    "entity_density": 0.11636363636363636
+  },
+  "financial_analysis": {
+    "money_amounts": [
+      "around $297",
+      "about $17.4 million",
+      "235"
+    ],
+    "percentages": [
+      "41.3%",
+      "over 4.5%",
+      "roughly 4.6%",
+      "4.6%"
+    ],
+    "companies": [
+      "Workday, Inc.",
+      "WDAY",
+      "William Blair",
+      "WDAY",
+      "Simpplr",
+      "Workday",
+      "Simpplr",
+      "Workday",
+      "Workday",
+      "Workday",
+      "Workday",
+      "WDAY",
+      "Workday",
+      "Piper Sandler",
+      "Piper Sandler",
+      "AI Generated"
+    ],
+    "people": [
+      "David A. Duffield"
+    ],
+    "dates": [
+      "days-to-cover",
+      "1+ days ago"
+    ],
+    "financial_terms": [
+      "Stock",
+      "earnings",
+      "stock",
+      "growth",
+      "Growth",
+      "Market",
+      "market"
+    ],
+    "financial_metrics": [],
+    "market_indicators": [
+      "rating",
+      "Price",
+      "Rating",
+      "target"
+    ]
+  },
+  "temporal_analysis": {
+    "dates": [
+      "days-to-cover",
+      "1+ days ago"
+    ],
+    "time_expressions": [],
+    "temporal_relationships": [
+      "last"
+    ],
+    "quarters": [],
+    "years": [],
+    "time_periods": []
+  },
+  "sentiment_analysis": {
+    "positive_words": 8,
+    "negative_words": 7,
+    "positive_ratio": 0.02909090909090909,
+    "negative_ratio": 0.025454545454545455,
+    "sentiment_score": 0.0036363636363636355,
+    "sentiment_label": "neutral",
+    "sentiment_strength": 0.0036363636363636355,
+    "confidence": 0.036363636363636355
+  },
+  "industry_analysis": {
+    "dominant_industry": "tech",
+    "industry_scores": {
+      "tech": 6,
+      "finance": 0,
+      "healthcare": 0,
+      "energy": 0,
+      "retail": 0,
+      "automotive": 0,
+      "media": 0,
+      "industrial": 0,
+      "real_estate": 0,
+      "telecom": 0,
+      "food_beverage": 0,
+      "travel": 0,
+      "education": 0,
+      "professional": 0,
+      "mining": 0,
+      "aerospace": 0,
+      "environmental": 0,
+      "cannabis": 0
+    },
+    "confidence": 1.0
+  },
+  "market_analysis": {
+    "market_sentiment": "neutral",
+    "bullish_indicators": 1,
+    "bearish_indicators": 1,
+    "market_conditions": {
+      "volatility": "normal",
+      "volume": "normal",
+      "trend": "neutral"
+    },
+    "trading_activity": "normal"
+  },
+  "competitor_analysis": {
+    "companies_mentioned": [
+      "Workday, Inc.",
+      "WDAY",
+      "William Blair",
+      "WDAY",
+      "Simpplr",
+      "Workday",
+      "Simpplr",
+      "Workday",
+      "Workday",
+      "Workday",
+      "Workday",
+      "WDAY",
+      "Workday",
+      "Piper Sandler",
+      "Piper Sandler",
+      "AI Generated"
+    ],
+    "competitive_context": [
+      "Major Shareholder Sells 72,551 Shares\nNegative Sentiment:\nWorkday stock slipped over 4.5% in the last session amid a broader market uptick, underperforming its software peers.\nWDAY Stock Falls Amid Market Uptick\nNegative Sentiment:"
+    ],
+    "competitor_count": 16,
+    "has_competitive_language": true
+  },
+  "risk_analysis": {
+    "risk_sentences": [
+      "Shares were down roughly 4.6% as investors reacted to rotation in tech earnings and growth concerns.",
+      "Downgraded on Spending Slowdown Concerns\nNegative Sentiment:\nPiper Sandler assigned an Underweight rating and cut its target to $235, citing AI-driven shifts in CIO budgets that favor larger platform vendors.\nUnderweight Rating at Piper Sandler\nPosted 1+ days ago\nAI Generated."
+    ],
+    "risk_count": 2,
+    "risk_level": "medium"
+  },
+  "opportunity_analysis": {
+    "opportunity_sentences": [
+      "Positive Sentiment:\nWilliam Blair maintained a Buy rating on WDAY, highlighting a robust growth pipeline driven by continued strong enterprise demand for its cloud applications.",
+      "Analyst Sees Strong Growth Pipeline",
+      "Simpplr completed its Workday Design Badge integration, potentially broadening Workday’s ecosystem and accelerating adoption of its HCM tools.",
+      "Shares were down roughly 4.6% as investors reacted to rotation in tech earnings and growth concerns.",
+      "Workday was downgraded on worries over an enterprise spending slowdown, reflecting potential delays in customer cloud software investments."
+    ],
+    "opportunity_count": 5,
+    "opportunity_level": "high"
+  },
+  "processing_metadata": {
+    "timestamp": "2025-07-13T04:21:49.439043",
+    "model_used": "en_core_web_trf",
+    "text_length": 2025
+  }
+}
