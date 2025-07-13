@@ -1,0 +1,2288 @@
+{
+  "ticker": "PFE",
+  "entities": [
+    {
+      "text": "Pfizer Inc.",
+      "label": "ORG",
+      "start": 0,
+      "end": 11,
+      "sentence": "Pfizer Inc. (NYSE:PFE) shares are reacting to a mix of clinical pipeline news, dividend and earnings updates, analyst ratings and legal developments.",
+      "context": "Pfizer Inc. (NYSE:PFE) shares are reacting to a mix of clinic",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "PFE",
+      "label": "ORG",
+      "start": 18,
+      "end": 21,
+      "sentence": "Pfizer Inc. (NYSE:PFE) shares are reacting to a mix of clinical pipeline news, dividend and earnings updates, analyst ratings and legal developments.",
+      "context": "Pfizer Inc. (NYSE:PFE) shares are reacting to a mix of clinical pipelin",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Zacks",
+      "label": "ORG",
+      "start": 202,
+      "end": 207,
+      "sentence": "Positive Sentiment:\nZacks highlights PFE’s strong earnings surprise history and expects another beat in its next report.\nWill Pfizer (PFE) Beat Estimates Again?",
+      "context": "re’s what’s moving the stock:\nPositive Sentiment:\nZacks highlights PFE’s strong earnings surprise history",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "PFE",
+      "label": "ORG",
+      "start": 219,
+      "end": 222,
+      "sentence": "Positive Sentiment:\nZacks highlights PFE’s strong earnings surprise history and expects another beat in its next report.\nWill Pfizer (PFE) Beat Estimates Again?",
+      "context": "g the stock:\nPositive Sentiment:\nZacks highlights PFE’s strong earnings surprise history and expects an",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Pfizer",
+      "label": "ORG",
+      "start": 308,
+      "end": 314,
+      "sentence": "Positive Sentiment:\nZacks highlights PFE’s strong earnings surprise history and expects another beat in its next report.\nWill Pfizer (PFE) Beat Estimates Again?",
+      "context": "and expects another beat in its next report.\nWill Pfizer (PFE) Beat Estimates Again?\nPositive Sentiment:\nP",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "PFE",
+      "label": "ORG",
+      "start": 316,
+      "end": 319,
+      "sentence": "Positive Sentiment:\nZacks highlights PFE’s strong earnings surprise history and expects another beat in its next report.\nWill Pfizer (PFE) Beat Estimates Again?",
+      "context": "cts another beat in its next report.\nWill Pfizer (PFE) Beat Estimates Again?\nPositive Sentiment:\nPfizer",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Pfizer",
+      "label": "ORG",
+      "start": 363,
+      "end": 369,
+      "sentence": "Positive Sentiment:\nPfizer and Astellas report positive Phase 3 EMBARK trial results for XTANDI plus leuprolide in non-metastatic hormone-sensitive prostate cancer, showing improved overall survival.\nPfizer, Astellas Report Xtandi Survival Win In Prostate Cancer Study\nPositive Sentiment:\nNew study data suggest abrocitinib could be a game-changer for atopic dermatitis patients.\nPfizer’s New Study on Abrocitinib: A Potential Game-Changer for Atopic Dermatitis\nPositive Sentiment:",
+      "context": "r (PFE) Beat Estimates Again?\nPositive Sentiment:\nPfizer and Astellas report positive Phase 3 EMBARK trial",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Astellas",
+      "label": "ORG",
+      "start": 374,
+      "end": 382,
+      "sentence": "Positive Sentiment:\nPfizer and Astellas report positive Phase 3 EMBARK trial results for XTANDI plus leuprolide in non-metastatic hormone-sensitive prostate cancer, showing improved overall survival.\nPfizer, Astellas Report Xtandi Survival Win In Prostate Cancer Study\nPositive Sentiment:\nNew study data suggest abrocitinib could be a game-changer for atopic dermatitis patients.\nPfizer’s New Study on Abrocitinib: A Potential Game-Changer for Atopic Dermatitis\nPositive Sentiment:",
+      "context": "t Estimates Again?\nPositive Sentiment:\nPfizer and Astellas report positive Phase 3 EMBARK trial results for",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Pfizer",
+      "label": "ORG",
+      "start": 543,
+      "end": 549,
+      "sentence": "Positive Sentiment:\nPfizer and Astellas report positive Phase 3 EMBARK trial results for XTANDI plus leuprolide in non-metastatic hormone-sensitive prostate cancer, showing improved overall survival.\nPfizer, Astellas Report Xtandi Survival Win In Prostate Cancer Study\nPositive Sentiment:\nNew study data suggest abrocitinib could be a game-changer for atopic dermatitis patients.\nPfizer’s New Study on Abrocitinib: A Potential Game-Changer for Atopic Dermatitis\nPositive Sentiment:",
+      "context": "ostate cancer, showing improved overall survival.\nPfizer, Astellas Report Xtandi Survival Win In Prostate",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Astellas",
+      "label": "ORG",
+      "start": 551,
+      "end": 559,
+      "sentence": "Positive Sentiment:\nPfizer and Astellas report positive Phase 3 EMBARK trial results for XTANDI plus leuprolide in non-metastatic hormone-sensitive prostate cancer, showing improved overall survival.\nPfizer, Astellas Report Xtandi Survival Win In Prostate Cancer Study\nPositive Sentiment:\nNew study data suggest abrocitinib could be a game-changer for atopic dermatitis patients.\nPfizer’s New Study on Abrocitinib: A Potential Game-Changer for Atopic Dermatitis\nPositive Sentiment:",
+      "context": "ancer, showing improved overall survival.\nPfizer, Astellas Report Xtandi Survival Win In Prostate Cancer Stu",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Xtandi",
+      "label": "PRODUCT",
+      "start": 567,
+      "end": 573,
+      "sentence": "Positive Sentiment:\nPfizer and Astellas report positive Phase 3 EMBARK trial results for XTANDI plus leuprolide in non-metastatic hormone-sensitive prostate cancer, showing improved overall survival.\nPfizer, Astellas Report Xtandi Survival Win In Prostate Cancer Study\nPositive Sentiment:\nNew study data suggest abrocitinib could be a game-changer for atopic dermatitis patients.\nPfizer’s New Study on Abrocitinib: A Potential Game-Changer for Atopic Dermatitis\nPositive Sentiment:",
+      "context": "mproved overall survival.\nPfizer, Astellas Report Xtandi Survival Win In Prostate Cancer Study\nPositive Se",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Pfizer",
+      "label": "ORG",
+      "start": 723,
+      "end": 729,
+      "sentence": "Positive Sentiment:\nPfizer and Astellas report positive Phase 3 EMBARK trial results for XTANDI plus leuprolide in non-metastatic hormone-sensitive prostate cancer, showing improved overall survival.\nPfizer, Astellas Report Xtandi Survival Win In Prostate Cancer Study\nPositive Sentiment:\nNew study data suggest abrocitinib could be a game-changer for atopic dermatitis patients.\nPfizer’s New Study on Abrocitinib: A Potential Game-Changer for Atopic Dermatitis\nPositive Sentiment:",
+      "context": "be a game-changer for atopic dermatitis patients.\nPfizer’s New Study on Abrocitinib: A Potential Game-Chan",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "PFE",
+      "label": "ORG",
+      "start": 864,
+      "end": 867,
+      "sentence": "An S&P 500 dividend roundup highlights PFE’s 6.7% indicated yield, with another small increase likely by year-end.",
+      "context": "Sentiment:\nAn S&P 500 dividend roundup highlights PFE’s 6.7% indicated yield, with another small increa",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "6.7%",
+      "label": "PERCENT",
+      "start": 870,
+      "end": 874,
+      "sentence": "An S&P 500 dividend roundup highlights PFE’s 6.7% indicated yield, with another small increase likely by year-end.",
+      "context": "ent:\nAn S&P 500 dividend roundup highlights PFE’s 6.7% indicated yield, with another small increase like",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "year-end",
+      "label": "DATE",
+      "start": 930,
+      "end": 938,
+      "sentence": "An S&P 500 dividend roundup highlights PFE’s 6.7% indicated yield, with another small increase likely by year-end.",
+      "context": "ated yield, with another small increase likely by year-end.\n“Nobody Ever Went Broke Taking a Profit” – Grab",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "1.7%",
+      "label": "PERCENT",
+      "start": 1069,
+      "end": 1073,
+      "sentence": "“Nobody Ever Went Broke Taking a Profit” – Grab The Highest-Yielding S&P 500 Stocks Right Now\nPositive Sentiment:\nShares climbed 1.7% on optimism around valuation and the strength of Pfizer’s pipeline.\nPfizer (NYSE:PFE) Trading Up 1.7% – Should You Buy?",
+      "context": "ocks Right Now\nPositive Sentiment:\nShares climbed 1.7% on optimism around valuation and the strength of",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Pfizer",
+      "label": "ORG",
+      "start": 1123,
+      "end": 1129,
+      "sentence": "“Nobody Ever Went Broke Taking a Profit” – Grab The Highest-Yielding S&P 500 Stocks Right Now\nPositive Sentiment:\nShares climbed 1.7% on optimism around valuation and the strength of Pfizer’s pipeline.\nPfizer (NYSE:PFE) Trading Up 1.7% – Should You Buy?",
+      "context": "on optimism around valuation and the strength of Pfizer’s pipeline.\nPfizer (NYSE:PFE) Trading Up 1.7% – S",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Pfizer",
+      "label": "ORG",
+      "start": 1142,
+      "end": 1148,
+      "sentence": "“Nobody Ever Went Broke Taking a Profit” – Grab The Highest-Yielding S&P 500 Stocks Right Now\nPositive Sentiment:\nShares climbed 1.7% on optimism around valuation and the strength of Pfizer’s pipeline.\nPfizer (NYSE:PFE) Trading Up 1.7% – Should You Buy?",
+      "context": "valuation and the strength of Pfizer’s pipeline.\nPfizer (NYSE:PFE) Trading Up 1.7% – Should You Buy?\nNeut",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "1.7%",
+      "label": "PERCENT",
+      "start": 1171,
+      "end": 1175,
+      "sentence": "“Nobody Ever Went Broke Taking a Profit” – Grab The Highest-Yielding S&P 500 Stocks Right Now\nPositive Sentiment:\nShares climbed 1.7% on optimism around valuation and the strength of Pfizer’s pipeline.\nPfizer (NYSE:PFE) Trading Up 1.7% – Should You Buy?",
+      "context": "f Pfizer’s pipeline.\nPfizer (NYSE:PFE) Trading Up 1.7% – Should You Buy?\nNeutral Sentiment:\nCantor Fitzg",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Cantor Fitzgerald",
+      "label": "ORG",
+      "start": 1213,
+      "end": 1230,
+      "sentence": "Cantor Fitzgerald trims its FY2025 EPS forecast slightly to $3.09 but keeps a Neutral rating and $24 price target.",
+      "context": "ding Up 1.7% – Should You Buy?\nNeutral Sentiment:\nCantor Fitzgerald trims its FY2025 EPS forecast slightly to $3.09 b",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "FY2025",
+      "label": "DATE",
+      "start": 1241,
+      "end": 1247,
+      "sentence": "Cantor Fitzgerald trims its FY2025 EPS forecast slightly to $3.09 but keeps a Neutral rating and $24 price target.",
+      "context": "y?\nNeutral Sentiment:\nCantor Fitzgerald trims its FY2025 EPS forecast slightly to $3.09 but keeps a Neutra",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "3.09",
+      "label": "MONEY",
+      "start": 1274,
+      "end": 1278,
+      "sentence": "Cantor Fitzgerald trims its FY2025 EPS forecast slightly to $3.09 but keeps a Neutral rating and $24 price target.",
+      "context": "gerald trims its FY2025 EPS forecast slightly to $3.09 but keeps a Neutral rating and $24 price target.",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "24",
+      "label": "MONEY",
+      "start": 1311,
+      "end": 1313,
+      "sentence": "Cantor Fitzgerald trims its FY2025 EPS forecast slightly to $3.09 but keeps a Neutral rating and $24 price target.",
+      "context": "slightly to $3.09 but keeps a Neutral rating and $24 price target.\nPfizer FY2025 EPS Forecast Decrease",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Pfizer",
+      "label": "ORG",
+      "start": 1328,
+      "end": 1334,
+      "sentence": "Pfizer FY2025 EPS Forecast Decreased by Cantor Fitzgerald\nNeutral Sentiment:",
+      "context": "but keeps a Neutral rating and $24 price target.\nPfizer FY2025 EPS Forecast Decreased by Cantor Fitzgeral",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "FY2025",
+      "label": "DATE",
+      "start": 1335,
+      "end": 1341,
+      "sentence": "Pfizer FY2025 EPS Forecast Decreased by Cantor Fitzgerald\nNeutral Sentiment:",
+      "context": "eps a Neutral rating and $24 price target.\nPfizer FY2025 EPS Forecast Decreased by Cantor Fitzgerald\nNeutr",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Cantor Fitzgerald",
+      "label": "ORG",
+      "start": 1368,
+      "end": 1385,
+      "sentence": "Pfizer FY2025 EPS Forecast Decreased by Cantor Fitzgerald\nNeutral Sentiment:",
+      "context": "e target.\nPfizer FY2025 EPS Forecast Decreased by Cantor Fitzgerald\nNeutral Sentiment:\nBernstein reaffirms a Hold rat",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Bernstein",
+      "label": "ORG",
+      "start": 1405,
+      "end": 1414,
+      "sentence": "Bernstein reaffirms a Hold rating on PFE, citing steady cash flows and a deep drug pipeline.",
+      "context": "Decreased by Cantor Fitzgerald\nNeutral Sentiment:\nBernstein reaffirms a Hold rating on PFE, citing steady cas",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "PFE",
+      "label": "ORG",
+      "start": 1442,
+      "end": 1445,
+      "sentence": "Bernstein reaffirms a Hold rating on PFE, citing steady cash flows and a deep drug pipeline.",
+      "context": "l Sentiment:\nBernstein reaffirms a Hold rating on PFE, citing steady cash flows and a deep drug pipelin",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Bernstein",
+      "label": "ORG",
+      "start": 1498,
+      "end": 1507,
+      "sentence": "Bernstein Sticks to Its Hold Rating for Pfizer (PFE)\nNegative Sentiment:",
+      "context": "iting steady cash flows and a deep drug pipeline.\nBernstein Sticks to Its Hold Rating for Pfizer (PFE)\nNegati",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Pfizer",
+      "label": "ORG",
+      "start": 1538,
+      "end": 1544,
+      "sentence": "Bernstein Sticks to Its Hold Rating for Pfizer (PFE)\nNegative Sentiment:",
+      "context": "pipeline.\nBernstein Sticks to Its Hold Rating for Pfizer (PFE)\nNegative Sentiment:\nThe stock dipped 1.3% a",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "1.3%",
+      "label": "PERCENT",
+      "start": 1588,
+      "end": 1592,
+      "sentence": "The stock dipped 1.3% amid profit-taking and sell-side caution over valuation.",
+      "context": "Pfizer (PFE)\nNegative Sentiment:\nThe stock dipped 1.3% amid profit-taking and sell-side caution over val",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Pfizer",
+      "label": "ORG",
+      "start": 1650,
+      "end": 1656,
+      "sentence": "Pfizer (NYSE:PFE) Stock Price Down 1.3% – Here's Why\nNegative Sentiment:",
+      "context": "ofit-taking and sell-side caution over valuation.\nPfizer (NYSE:PFE) Stock Price Down 1.3% – Here's Why\nNeg",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "1.3%",
+      "label": "PERCENT",
+      "start": 1685,
+      "end": 1689,
+      "sentence": "Pfizer (NYSE:PFE) Stock Price Down 1.3% – Here's Why\nNegative Sentiment:",
+      "context": "ver valuation.\nPfizer (NYSE:PFE) Stock Price Down 1.3% – Here's Why\nNegative Sentiment:\nPfizer and BioNT",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Pfizer",
+      "label": "ORG",
+      "start": 1723,
+      "end": 1729,
+      "sentence": "Pfizer and BioNTech appeal a UK patent ruling favoring Moderna, extending legal uncertainty around COVID-19 vaccine royalties.",
+      "context": "Price Down 1.3% – Here's Why\nNegative Sentiment:\nPfizer and BioNTech appeal a UK patent ruling favoring M",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "BioNTech",
+      "label": "ORG",
+      "start": 1734,
+      "end": 1742,
+      "sentence": "Pfizer and BioNTech appeal a UK patent ruling favoring Moderna, extending legal uncertainty around COVID-19 vaccine royalties.",
+      "context": "1.3% – Here's Why\nNegative Sentiment:\nPfizer and BioNTech appeal a UK patent ruling favoring Moderna, exten",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "UK",
+      "label": "GPE",
+      "start": 1752,
+      "end": 1754,
+      "sentence": "Pfizer and BioNTech appeal a UK patent ruling favoring Moderna, extending legal uncertainty around COVID-19 vaccine royalties.",
+      "context": "Negative Sentiment:\nPfizer and BioNTech appeal a UK patent ruling favoring Moderna, extending legal u",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "Moderna",
+      "label": "ORG",
+      "start": 1778,
+      "end": 1785,
+      "sentence": "Pfizer and BioNTech appeal a UK patent ruling favoring Moderna, extending legal uncertainty around COVID-19 vaccine royalties.",
+      "context": "r and BioNTech appeal a UK patent ruling favoring Moderna, extending legal uncertainty around COVID-19 vacc",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Pfizer",
+      "label": "ORG",
+      "start": 1850,
+      "end": 1856,
+      "sentence": "Pfizer, BioNTech ask UK court to overturn Moderna's COVID vaccine patent win\nPosted 1+ days ago\nAI Generated.",
+      "context": "al uncertainty around COVID-19 vaccine royalties.\nPfizer, BioNTech ask UK court to overturn Moderna's COVI",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "BioNTech",
+      "label": "ORG",
+      "start": 1858,
+      "end": 1866,
+      "sentence": "Pfizer, BioNTech ask UK court to overturn Moderna's COVID vaccine patent win\nPosted 1+ days ago\nAI Generated.",
+      "context": "tainty around COVID-19 vaccine royalties.\nPfizer, BioNTech ask UK court to overturn Moderna's COVID vaccine",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "UK",
+      "label": "GPE",
+      "start": 1871,
+      "end": 1873,
+      "sentence": "Pfizer, BioNTech ask UK court to overturn Moderna's COVID vaccine patent win\nPosted 1+ days ago\nAI Generated.",
+      "context": "COVID-19 vaccine royalties.\nPfizer, BioNTech ask UK court to overturn Moderna's COVID vaccine patent",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "Moderna",
+      "label": "ORG",
+      "start": 1892,
+      "end": 1899,
+      "sentence": "Pfizer, BioNTech ask UK court to overturn Moderna's COVID vaccine patent win\nPosted 1+ days ago\nAI Generated.",
+      "context": "alties.\nPfizer, BioNTech ask UK court to overturn Moderna's COVID vaccine patent win\nPosted 1+ days ago\nAI",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "1+ days ago",
+      "label": "DATE",
+      "start": 1934,
+      "end": 1945,
+      "sentence": "Pfizer, BioNTech ask UK court to overturn Moderna's COVID vaccine patent win\nPosted 1+ days ago\nAI Generated.",
+      "context": "verturn Moderna's COVID vaccine patent win\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    }
+  ],
+  "relationships": [
+    {
+      "type": "SVO",
+      "subject": "what",
+      "verb": "moving",
+      "object": "stock",
+      "sentence": "Here’s what’s moving the stock:",
+      "importance": 1
+    },
+    {
+      "type": "SVO",
+      "subject": "Zacks",
+      "verb": "highlights",
+      "object": "history",
+      "sentence": "Positive Sentiment:\nZacks highlights PFE’s strong earnings surprise history and expects another beat in its next report.\nWill Pfizer (PFE) Beat Estimates Again?",
+      "importance": 5
+    },
+    {
+      "type": "SVO",
+      "subject": "Pfizer",
+      "verb": "Beat",
+      "object": "Estimates",
+      "sentence": "Positive Sentiment:\nZacks highlights PFE’s strong earnings surprise history and expects another beat in its next report.\nWill Pfizer (PFE) Beat Estimates Again?",
+      "importance": 5
+    },
+    {
+      "type": "SVO",
+      "subject": "Pfizer",
+      "verb": "report",
+      "object": "results",
+      "sentence": "Positive Sentiment:\nPfizer and Astellas report positive Phase 3 EMBARK trial results for XTANDI plus leuprolide in non-metastatic hormone-sensitive prostate cancer, showing improved overall survival.\nPfizer, Astellas Report Xtandi Survival Win In Prostate Cancer Study\nPositive Sentiment:\nNew study data suggest abrocitinib could be a game-changer for atopic dermatitis patients.\nPfizer’s New Study on Abrocitinib: A Potential Game-Changer for Atopic Dermatitis\nPositive Sentiment:",
+      "importance": 8
+    },
+    {
+      "type": "SVO",
+      "subject": "Pfizer",
+      "verb": "Report",
+      "object": "Win",
+      "sentence": "Positive Sentiment:\nPfizer and Astellas report positive Phase 3 EMBARK trial results for XTANDI plus leuprolide in non-metastatic hormone-sensitive prostate cancer, showing improved overall survival.\nPfizer, Astellas Report Xtandi Survival Win In Prostate Cancer Study\nPositive Sentiment:\nNew study data suggest abrocitinib could be a game-changer for atopic dermatitis patients.\nPfizer’s New Study on Abrocitinib: A Potential Game-Changer for Atopic Dermatitis\nPositive Sentiment:",
+      "importance": 8
+    },
+    {
+      "type": "SVO",
+      "subject": "roundup",
+      "verb": "highlights",
+      "object": "yield",
+      "sentence": "An S&P 500 dividend roundup highlights PFE’s 6.7% indicated yield, with another small increase likely by year-end.",
+      "importance": 10
+    },
+    {
+      "type": "SVO",
+      "subject": "You",
+      "verb": "Buy",
+      "object": "Pfizer",
+      "sentence": "“Nobody Ever Went Broke Taking a Profit” – Grab The Highest-Yielding S&P 500 Stocks Right Now\nPositive Sentiment:\nShares climbed 1.7% on optimism around valuation and the strength of Pfizer’s pipeline.\nPfizer (NYSE:PFE) Trading Up 1.7% – Should You Buy?",
+      "importance": 12
+    },
+    {
+      "type": "SVO",
+      "subject": "Fitzgerald",
+      "verb": "trims",
+      "object": "forecast",
+      "sentence": "Cantor Fitzgerald trims its FY2025 EPS forecast slightly to $3.09 but keeps a Neutral rating and $24 price target.",
+      "importance": 8
+    },
+    {
+      "type": "SVO",
+      "subject": "Bernstein",
+      "verb": "reaffirms",
+      "object": "rating",
+      "sentence": "Bernstein reaffirms a Hold rating on PFE, citing steady cash flows and a deep drug pipeline.",
+      "importance": 5
+    },
+    {
+      "type": "SVO",
+      "subject": "Pfizer",
+      "verb": "appeal",
+      "object": "ruling",
+      "sentence": "Pfizer and BioNTech appeal a UK patent ruling favoring Moderna, extending legal uncertainty around COVID-19 vaccine royalties.",
+      "importance": 4
+    },
+    {
+      "type": "SVO",
+      "subject": "Pfizer",
+      "verb": "ask",
+      "object": "court",
+      "sentence": "Pfizer, BioNTech ask UK court to overturn Moderna's COVID vaccine patent win\nPosted 1+ days ago\nAI Generated.",
+      "importance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pfizer",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Pfizer Inc. (NYSE:PFE) shares are reacting to a mix of clinical pipeline news, dividend and earnings updates, analyst ratings and legal developments.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pfizer",
+      "entity1_type": "ORG",
+      "entity2": "PFE",
+      "entity2_type": "ORG",
+      "sentence": "Pfizer Inc. (NYSE:PFE) shares are reacting to a mix of clinical pipeline news, dividend and earnings updates, analyst ratings and legal developments.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "PFE",
+      "entity2_type": "ORG",
+      "sentence": "Pfizer Inc. (NYSE:PFE) shares are reacting to a mix of clinical pipeline news, dividend and earnings updates, analyst ratings and legal developments.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "PFE",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nZacks highlights PFE’s strong earnings surprise history and expects another beat in its next report.\nWill Pfizer (PFE) Beat Estimates Again?",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "Pfizer",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nZacks highlights PFE’s strong earnings surprise history and expects another beat in its next report.\nWill Pfizer (PFE) Beat Estimates Again?",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "PFE",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nZacks highlights PFE’s strong earnings surprise history and expects another beat in its next report.\nWill Pfizer (PFE) Beat Estimates Again?",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "PFE",
+      "entity1_type": "ORG",
+      "entity2": "Pfizer",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nZacks highlights PFE’s strong earnings surprise history and expects another beat in its next report.\nWill Pfizer (PFE) Beat Estimates Again?",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "PFE",
+      "entity1_type": "ORG",
+      "entity2": "PFE",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nZacks highlights PFE’s strong earnings surprise history and expects another beat in its next report.\nWill Pfizer (PFE) Beat Estimates Again?",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pfizer",
+      "entity1_type": "ORG",
+      "entity2": "PFE",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nZacks highlights PFE’s strong earnings surprise history and expects another beat in its next report.\nWill Pfizer (PFE) Beat Estimates Again?",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pfizer",
+      "entity1_type": "ORG",
+      "entity2": "Astellas",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nPfizer and Astellas report positive Phase 3 EMBARK trial results for XTANDI plus leuprolide in non-metastatic hormone-sensitive prostate cancer, showing improved overall survival.\nPfizer, Astellas Report Xtandi Survival Win In Prostate Cancer Study\nPositive Sentiment:\nNew study data suggest abrocitinib could be a game-changer for atopic dermatitis patients.\nPfizer’s New Study on Abrocitinib: A Potential Game-Changer for Atopic Dermatitis\nPositive Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pfizer",
+      "entity1_type": "ORG",
+      "entity2": "Pfizer",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nPfizer and Astellas report positive Phase 3 EMBARK trial results for XTANDI plus leuprolide in non-metastatic hormone-sensitive prostate cancer, showing improved overall survival.\nPfizer, Astellas Report Xtandi Survival Win In Prostate Cancer Study\nPositive Sentiment:\nNew study data suggest abrocitinib could be a game-changer for atopic dermatitis patients.\nPfizer’s New Study on Abrocitinib: A Potential Game-Changer for Atopic Dermatitis\nPositive Sentiment:",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pfizer",
+      "entity1_type": "ORG",
+      "entity2": "Astellas",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nPfizer and Astellas report positive Phase 3 EMBARK trial results for XTANDI plus leuprolide in non-metastatic hormone-sensitive prostate cancer, showing improved overall survival.\nPfizer, Astellas Report Xtandi Survival Win In Prostate Cancer Study\nPositive Sentiment:\nNew study data suggest abrocitinib could be a game-changer for atopic dermatitis patients.\nPfizer’s New Study on Abrocitinib: A Potential Game-Changer for Atopic Dermatitis\nPositive Sentiment:",
+      "distance": 32
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pfizer",
+      "entity1_type": "ORG",
+      "entity2": "Xtandi",
+      "entity2_type": "PRODUCT",
+      "sentence": "Positive Sentiment:\nPfizer and Astellas report positive Phase 3 EMBARK trial results for XTANDI plus leuprolide in non-metastatic hormone-sensitive prostate cancer, showing improved overall survival.\nPfizer, Astellas Report Xtandi Survival Win In Prostate Cancer Study\nPositive Sentiment:\nNew study data suggest abrocitinib could be a game-changer for atopic dermatitis patients.\nPfizer’s New Study on Abrocitinib: A Potential Game-Changer for Atopic Dermatitis\nPositive Sentiment:",
+      "distance": 34
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pfizer",
+      "entity1_type": "ORG",
+      "entity2": "Pfizer",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nPfizer and Astellas report positive Phase 3 EMBARK trial results for XTANDI plus leuprolide in non-metastatic hormone-sensitive prostate cancer, showing improved overall survival.\nPfizer, Astellas Report Xtandi Survival Win In Prostate Cancer Study\nPositive Sentiment:\nNew study data suggest abrocitinib could be a game-changer for atopic dermatitis patients.\nPfizer’s New Study on Abrocitinib: A Potential Game-Changer for Atopic Dermatitis\nPositive Sentiment:",
+      "distance": 63
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Astellas",
+      "entity1_type": "ORG",
+      "entity2": "Pfizer",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nPfizer and Astellas report positive Phase 3 EMBARK trial results for XTANDI plus leuprolide in non-metastatic hormone-sensitive prostate cancer, showing improved overall survival.\nPfizer, Astellas Report Xtandi Survival Win In Prostate Cancer Study\nPositive Sentiment:\nNew study data suggest abrocitinib could be a game-changer for atopic dermatitis patients.\nPfizer’s New Study on Abrocitinib: A Potential Game-Changer for Atopic Dermatitis\nPositive Sentiment:",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Astellas",
+      "entity1_type": "ORG",
+      "entity2": "Astellas",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nPfizer and Astellas report positive Phase 3 EMBARK trial results for XTANDI plus leuprolide in non-metastatic hormone-sensitive prostate cancer, showing improved overall survival.\nPfizer, Astellas Report Xtandi Survival Win In Prostate Cancer Study\nPositive Sentiment:\nNew study data suggest abrocitinib could be a game-changer for atopic dermatitis patients.\nPfizer’s New Study on Abrocitinib: A Potential Game-Changer for Atopic Dermatitis\nPositive Sentiment:",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Astellas",
+      "entity1_type": "ORG",
+      "entity2": "Xtandi",
+      "entity2_type": "PRODUCT",
+      "sentence": "Positive Sentiment:\nPfizer and Astellas report positive Phase 3 EMBARK trial results for XTANDI plus leuprolide in non-metastatic hormone-sensitive prostate cancer, showing improved overall survival.\nPfizer, Astellas Report Xtandi Survival Win In Prostate Cancer Study\nPositive Sentiment:\nNew study data suggest abrocitinib could be a game-changer for atopic dermatitis patients.\nPfizer’s New Study on Abrocitinib: A Potential Game-Changer for Atopic Dermatitis\nPositive Sentiment:",
+      "distance": 32
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Astellas",
+      "entity1_type": "ORG",
+      "entity2": "Pfizer",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nPfizer and Astellas report positive Phase 3 EMBARK trial results for XTANDI plus leuprolide in non-metastatic hormone-sensitive prostate cancer, showing improved overall survival.\nPfizer, Astellas Report Xtandi Survival Win In Prostate Cancer Study\nPositive Sentiment:\nNew study data suggest abrocitinib could be a game-changer for atopic dermatitis patients.\nPfizer’s New Study on Abrocitinib: A Potential Game-Changer for Atopic Dermatitis\nPositive Sentiment:",
+      "distance": 61
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pfizer",
+      "entity1_type": "ORG",
+      "entity2": "Astellas",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nPfizer and Astellas report positive Phase 3 EMBARK trial results for XTANDI plus leuprolide in non-metastatic hormone-sensitive prostate cancer, showing improved overall survival.\nPfizer, Astellas Report Xtandi Survival Win In Prostate Cancer Study\nPositive Sentiment:\nNew study data suggest abrocitinib could be a game-changer for atopic dermatitis patients.\nPfizer’s New Study on Abrocitinib: A Potential Game-Changer for Atopic Dermatitis\nPositive Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pfizer",
+      "entity1_type": "ORG",
+      "entity2": "Xtandi",
+      "entity2_type": "PRODUCT",
+      "sentence": "Positive Sentiment:\nPfizer and Astellas report positive Phase 3 EMBARK trial results for XTANDI plus leuprolide in non-metastatic hormone-sensitive prostate cancer, showing improved overall survival.\nPfizer, Astellas Report Xtandi Survival Win In Prostate Cancer Study\nPositive Sentiment:\nNew study data suggest abrocitinib could be a game-changer for atopic dermatitis patients.\nPfizer’s New Study on Abrocitinib: A Potential Game-Changer for Atopic Dermatitis\nPositive Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pfizer",
+      "entity1_type": "ORG",
+      "entity2": "Pfizer",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nPfizer and Astellas report positive Phase 3 EMBARK trial results for XTANDI plus leuprolide in non-metastatic hormone-sensitive prostate cancer, showing improved overall survival.\nPfizer, Astellas Report Xtandi Survival Win In Prostate Cancer Study\nPositive Sentiment:\nNew study data suggest abrocitinib could be a game-changer for atopic dermatitis patients.\nPfizer’s New Study on Abrocitinib: A Potential Game-Changer for Atopic Dermatitis\nPositive Sentiment:",
+      "distance": 33
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Astellas",
+      "entity1_type": "ORG",
+      "entity2": "Xtandi",
+      "entity2_type": "PRODUCT",
+      "sentence": "Positive Sentiment:\nPfizer and Astellas report positive Phase 3 EMBARK trial results for XTANDI plus leuprolide in non-metastatic hormone-sensitive prostate cancer, showing improved overall survival.\nPfizer, Astellas Report Xtandi Survival Win In Prostate Cancer Study\nPositive Sentiment:\nNew study data suggest abrocitinib could be a game-changer for atopic dermatitis patients.\nPfizer’s New Study on Abrocitinib: A Potential Game-Changer for Atopic Dermatitis\nPositive Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Astellas",
+      "entity1_type": "ORG",
+      "entity2": "Pfizer",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nPfizer and Astellas report positive Phase 3 EMBARK trial results for XTANDI plus leuprolide in non-metastatic hormone-sensitive prostate cancer, showing improved overall survival.\nPfizer, Astellas Report Xtandi Survival Win In Prostate Cancer Study\nPositive Sentiment:\nNew study data suggest abrocitinib could be a game-changer for atopic dermatitis patients.\nPfizer’s New Study on Abrocitinib: A Potential Game-Changer for Atopic Dermatitis\nPositive Sentiment:",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Xtandi",
+      "entity1_type": "PRODUCT",
+      "entity2": "Pfizer",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nPfizer and Astellas report positive Phase 3 EMBARK trial results for XTANDI plus leuprolide in non-metastatic hormone-sensitive prostate cancer, showing improved overall survival.\nPfizer, Astellas Report Xtandi Survival Win In Prostate Cancer Study\nPositive Sentiment:\nNew study data suggest abrocitinib could be a game-changer for atopic dermatitis patients.\nPfizer’s New Study on Abrocitinib: A Potential Game-Changer for Atopic Dermatitis\nPositive Sentiment:",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "PFE",
+      "entity1_type": "ORG",
+      "entity2": "6.7",
+      "entity2_type": "PERCENT",
+      "sentence": "An S&P 500 dividend roundup highlights PFE’s 6.7% indicated yield, with another small increase likely by year-end.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "PFE",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "An S&P 500 dividend roundup highlights PFE’s 6.7% indicated yield, with another small increase likely by year-end.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "PFE",
+      "entity1_type": "ORG",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "An S&P 500 dividend roundup highlights PFE’s 6.7% indicated yield, with another small increase likely by year-end.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "PFE",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "An S&P 500 dividend roundup highlights PFE’s 6.7% indicated yield, with another small increase likely by year-end.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "PFE",
+      "entity1_type": "ORG",
+      "entity2": "end",
+      "entity2_type": "DATE",
+      "sentence": "An S&P 500 dividend roundup highlights PFE’s 6.7% indicated yield, with another small increase likely by year-end.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "6.7",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "An S&P 500 dividend roundup highlights PFE’s 6.7% indicated yield, with another small increase likely by year-end.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "6.7",
+      "entity1_type": "PERCENT",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "An S&P 500 dividend roundup highlights PFE’s 6.7% indicated yield, with another small increase likely by year-end.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "6.7",
+      "entity1_type": "PERCENT",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "An S&P 500 dividend roundup highlights PFE’s 6.7% indicated yield, with another small increase likely by year-end.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "6.7",
+      "entity1_type": "PERCENT",
+      "entity2": "end",
+      "entity2_type": "DATE",
+      "sentence": "An S&P 500 dividend roundup highlights PFE’s 6.7% indicated yield, with another small increase likely by year-end.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "An S&P 500 dividend roundup highlights PFE’s 6.7% indicated yield, with another small increase likely by year-end.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "An S&P 500 dividend roundup highlights PFE’s 6.7% indicated yield, with another small increase likely by year-end.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "end",
+      "entity2_type": "DATE",
+      "sentence": "An S&P 500 dividend roundup highlights PFE’s 6.7% indicated yield, with another small increase likely by year-end.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "year",
+      "entity1_type": "DATE",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "An S&P 500 dividend roundup highlights PFE’s 6.7% indicated yield, with another small increase likely by year-end.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "year",
+      "entity1_type": "DATE",
+      "entity2": "end",
+      "entity2_type": "DATE",
+      "sentence": "An S&P 500 dividend roundup highlights PFE’s 6.7% indicated yield, with another small increase likely by year-end.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "DATE",
+      "entity2": "end",
+      "entity2_type": "DATE",
+      "sentence": "An S&P 500 dividend roundup highlights PFE’s 6.7% indicated yield, with another small increase likely by year-end.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.7",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "“Nobody Ever Went Broke Taking a Profit” – Grab The Highest-Yielding S&P 500 Stocks Right Now\nPositive Sentiment:\nShares climbed 1.7% on optimism around valuation and the strength of Pfizer’s pipeline.\nPfizer (NYSE:PFE) Trading Up 1.7% – Should You Buy?",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.7",
+      "entity1_type": "PERCENT",
+      "entity2": "Pfizer",
+      "entity2_type": "ORG",
+      "sentence": "“Nobody Ever Went Broke Taking a Profit” – Grab The Highest-Yielding S&P 500 Stocks Right Now\nPositive Sentiment:\nShares climbed 1.7% on optimism around valuation and the strength of Pfizer’s pipeline.\nPfizer (NYSE:PFE) Trading Up 1.7% – Should You Buy?",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.7",
+      "entity1_type": "PERCENT",
+      "entity2": "Pfizer",
+      "entity2_type": "ORG",
+      "sentence": "“Nobody Ever Went Broke Taking a Profit” – Grab The Highest-Yielding S&P 500 Stocks Right Now\nPositive Sentiment:\nShares climbed 1.7% on optimism around valuation and the strength of Pfizer’s pipeline.\nPfizer (NYSE:PFE) Trading Up 1.7% – Should You Buy?",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.7",
+      "entity1_type": "PERCENT",
+      "entity2": "1.7",
+      "entity2_type": "PERCENT",
+      "sentence": "“Nobody Ever Went Broke Taking a Profit” – Grab The Highest-Yielding S&P 500 Stocks Right Now\nPositive Sentiment:\nShares climbed 1.7% on optimism around valuation and the strength of Pfizer’s pipeline.\nPfizer (NYSE:PFE) Trading Up 1.7% – Should You Buy?",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.7",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "“Nobody Ever Went Broke Taking a Profit” – Grab The Highest-Yielding S&P 500 Stocks Right Now\nPositive Sentiment:\nShares climbed 1.7% on optimism around valuation and the strength of Pfizer’s pipeline.\nPfizer (NYSE:PFE) Trading Up 1.7% – Should You Buy?",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "Pfizer",
+      "entity2_type": "ORG",
+      "sentence": "“Nobody Ever Went Broke Taking a Profit” – Grab The Highest-Yielding S&P 500 Stocks Right Now\nPositive Sentiment:\nShares climbed 1.7% on optimism around valuation and the strength of Pfizer’s pipeline.\nPfizer (NYSE:PFE) Trading Up 1.7% – Should You Buy?",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "Pfizer",
+      "entity2_type": "ORG",
+      "sentence": "“Nobody Ever Went Broke Taking a Profit” – Grab The Highest-Yielding S&P 500 Stocks Right Now\nPositive Sentiment:\nShares climbed 1.7% on optimism around valuation and the strength of Pfizer’s pipeline.\nPfizer (NYSE:PFE) Trading Up 1.7% – Should You Buy?",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "1.7",
+      "entity2_type": "PERCENT",
+      "sentence": "“Nobody Ever Went Broke Taking a Profit” – Grab The Highest-Yielding S&P 500 Stocks Right Now\nPositive Sentiment:\nShares climbed 1.7% on optimism around valuation and the strength of Pfizer’s pipeline.\nPfizer (NYSE:PFE) Trading Up 1.7% – Should You Buy?",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "“Nobody Ever Went Broke Taking a Profit” – Grab The Highest-Yielding S&P 500 Stocks Right Now\nPositive Sentiment:\nShares climbed 1.7% on optimism around valuation and the strength of Pfizer’s pipeline.\nPfizer (NYSE:PFE) Trading Up 1.7% – Should You Buy?",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pfizer",
+      "entity1_type": "ORG",
+      "entity2": "Pfizer",
+      "entity2_type": "ORG",
+      "sentence": "“Nobody Ever Went Broke Taking a Profit” – Grab The Highest-Yielding S&P 500 Stocks Right Now\nPositive Sentiment:\nShares climbed 1.7% on optimism around valuation and the strength of Pfizer’s pipeline.\nPfizer (NYSE:PFE) Trading Up 1.7% – Should You Buy?",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pfizer",
+      "entity1_type": "ORG",
+      "entity2": "1.7",
+      "entity2_type": "PERCENT",
+      "sentence": "“Nobody Ever Went Broke Taking a Profit” – Grab The Highest-Yielding S&P 500 Stocks Right Now\nPositive Sentiment:\nShares climbed 1.7% on optimism around valuation and the strength of Pfizer’s pipeline.\nPfizer (NYSE:PFE) Trading Up 1.7% – Should You Buy?",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pfizer",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "“Nobody Ever Went Broke Taking a Profit” – Grab The Highest-Yielding S&P 500 Stocks Right Now\nPositive Sentiment:\nShares climbed 1.7% on optimism around valuation and the strength of Pfizer’s pipeline.\nPfizer (NYSE:PFE) Trading Up 1.7% – Should You Buy?",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pfizer",
+      "entity1_type": "ORG",
+      "entity2": "1.7",
+      "entity2_type": "PERCENT",
+      "sentence": "“Nobody Ever Went Broke Taking a Profit” – Grab The Highest-Yielding S&P 500 Stocks Right Now\nPositive Sentiment:\nShares climbed 1.7% on optimism around valuation and the strength of Pfizer’s pipeline.\nPfizer (NYSE:PFE) Trading Up 1.7% – Should You Buy?",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pfizer",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "“Nobody Ever Went Broke Taking a Profit” – Grab The Highest-Yielding S&P 500 Stocks Right Now\nPositive Sentiment:\nShares climbed 1.7% on optimism around valuation and the strength of Pfizer’s pipeline.\nPfizer (NYSE:PFE) Trading Up 1.7% – Should You Buy?",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.7",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "“Nobody Ever Went Broke Taking a Profit” – Grab The Highest-Yielding S&P 500 Stocks Right Now\nPositive Sentiment:\nShares climbed 1.7% on optimism around valuation and the strength of Pfizer’s pipeline.\nPfizer (NYSE:PFE) Trading Up 1.7% – Should You Buy?",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cantor",
+      "entity1_type": "ORG",
+      "entity2": "Fitzgerald",
+      "entity2_type": "ORG",
+      "sentence": "Cantor Fitzgerald trims its FY2025 EPS forecast slightly to $3.09 but keeps a Neutral rating and $24 price target.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cantor",
+      "entity1_type": "ORG",
+      "entity2": "FY2025",
+      "entity2_type": "DATE",
+      "sentence": "Cantor Fitzgerald trims its FY2025 EPS forecast slightly to $3.09 but keeps a Neutral rating and $24 price target.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cantor",
+      "entity1_type": "ORG",
+      "entity2": "3.09",
+      "entity2_type": "MONEY",
+      "sentence": "Cantor Fitzgerald trims its FY2025 EPS forecast slightly to $3.09 but keeps a Neutral rating and $24 price target.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cantor",
+      "entity1_type": "ORG",
+      "entity2": "24",
+      "entity2_type": "MONEY",
+      "sentence": "Cantor Fitzgerald trims its FY2025 EPS forecast slightly to $3.09 but keeps a Neutral rating and $24 price target.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fitzgerald",
+      "entity1_type": "ORG",
+      "entity2": "FY2025",
+      "entity2_type": "DATE",
+      "sentence": "Cantor Fitzgerald trims its FY2025 EPS forecast slightly to $3.09 but keeps a Neutral rating and $24 price target.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fitzgerald",
+      "entity1_type": "ORG",
+      "entity2": "3.09",
+      "entity2_type": "MONEY",
+      "sentence": "Cantor Fitzgerald trims its FY2025 EPS forecast slightly to $3.09 but keeps a Neutral rating and $24 price target.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fitzgerald",
+      "entity1_type": "ORG",
+      "entity2": "24",
+      "entity2_type": "MONEY",
+      "sentence": "Cantor Fitzgerald trims its FY2025 EPS forecast slightly to $3.09 but keeps a Neutral rating and $24 price target.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FY2025",
+      "entity1_type": "DATE",
+      "entity2": "3.09",
+      "entity2_type": "MONEY",
+      "sentence": "Cantor Fitzgerald trims its FY2025 EPS forecast slightly to $3.09 but keeps a Neutral rating and $24 price target.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FY2025",
+      "entity1_type": "DATE",
+      "entity2": "24",
+      "entity2_type": "MONEY",
+      "sentence": "Cantor Fitzgerald trims its FY2025 EPS forecast slightly to $3.09 but keeps a Neutral rating and $24 price target.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3.09",
+      "entity1_type": "MONEY",
+      "entity2": "24",
+      "entity2_type": "MONEY",
+      "sentence": "Cantor Fitzgerald trims its FY2025 EPS forecast slightly to $3.09 but keeps a Neutral rating and $24 price target.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pfizer",
+      "entity1_type": "ORG",
+      "entity2": "FY2025",
+      "entity2_type": "DATE",
+      "sentence": "Pfizer FY2025 EPS Forecast Decreased by Cantor Fitzgerald\nNeutral Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pfizer",
+      "entity1_type": "ORG",
+      "entity2": "Cantor",
+      "entity2_type": "ORG",
+      "sentence": "Pfizer FY2025 EPS Forecast Decreased by Cantor Fitzgerald\nNeutral Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pfizer",
+      "entity1_type": "ORG",
+      "entity2": "Fitzgerald",
+      "entity2_type": "ORG",
+      "sentence": "Pfizer FY2025 EPS Forecast Decreased by Cantor Fitzgerald\nNeutral Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FY2025",
+      "entity1_type": "DATE",
+      "entity2": "Cantor",
+      "entity2_type": "ORG",
+      "sentence": "Pfizer FY2025 EPS Forecast Decreased by Cantor Fitzgerald\nNeutral Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FY2025",
+      "entity1_type": "DATE",
+      "entity2": "Fitzgerald",
+      "entity2_type": "ORG",
+      "sentence": "Pfizer FY2025 EPS Forecast Decreased by Cantor Fitzgerald\nNeutral Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cantor",
+      "entity1_type": "ORG",
+      "entity2": "Fitzgerald",
+      "entity2_type": "ORG",
+      "sentence": "Pfizer FY2025 EPS Forecast Decreased by Cantor Fitzgerald\nNeutral Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bernstein",
+      "entity1_type": "ORG",
+      "entity2": "PFE",
+      "entity2_type": "ORG",
+      "sentence": "Bernstein reaffirms a Hold rating on PFE, citing steady cash flows and a deep drug pipeline.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bernstein",
+      "entity1_type": "ORG",
+      "entity2": "Pfizer",
+      "entity2_type": "ORG",
+      "sentence": "Bernstein Sticks to Its Hold Rating for Pfizer (PFE)\nNegative Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.3",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "The stock dipped 1.3% amid profit-taking and sell-side caution over valuation.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pfizer",
+      "entity1_type": "ORG",
+      "entity2": "1.3",
+      "entity2_type": "PERCENT",
+      "sentence": "Pfizer (NYSE:PFE) Stock Price Down 1.3% – Here's Why\nNegative Sentiment:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pfizer",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Pfizer (NYSE:PFE) Stock Price Down 1.3% – Here's Why\nNegative Sentiment:",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.3",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Pfizer (NYSE:PFE) Stock Price Down 1.3% – Here's Why\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pfizer",
+      "entity1_type": "ORG",
+      "entity2": "BioNTech",
+      "entity2_type": "ORG",
+      "sentence": "Pfizer and BioNTech appeal a UK patent ruling favoring Moderna, extending legal uncertainty around COVID-19 vaccine royalties.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pfizer",
+      "entity1_type": "ORG",
+      "entity2": "UK",
+      "entity2_type": "GPE",
+      "sentence": "Pfizer and BioNTech appeal a UK patent ruling favoring Moderna, extending legal uncertainty around COVID-19 vaccine royalties.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pfizer",
+      "entity1_type": "ORG",
+      "entity2": "Moderna",
+      "entity2_type": "ORG",
+      "sentence": "Pfizer and BioNTech appeal a UK patent ruling favoring Moderna, extending legal uncertainty around COVID-19 vaccine royalties.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "BioNTech",
+      "entity1_type": "ORG",
+      "entity2": "UK",
+      "entity2_type": "GPE",
+      "sentence": "Pfizer and BioNTech appeal a UK patent ruling favoring Moderna, extending legal uncertainty around COVID-19 vaccine royalties.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "BioNTech",
+      "entity1_type": "ORG",
+      "entity2": "Moderna",
+      "entity2_type": "ORG",
+      "sentence": "Pfizer and BioNTech appeal a UK patent ruling favoring Moderna, extending legal uncertainty around COVID-19 vaccine royalties.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UK",
+      "entity1_type": "GPE",
+      "entity2": "Moderna",
+      "entity2_type": "ORG",
+      "sentence": "Pfizer and BioNTech appeal a UK patent ruling favoring Moderna, extending legal uncertainty around COVID-19 vaccine royalties.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pfizer",
+      "entity1_type": "ORG",
+      "entity2": "BioNTech",
+      "entity2_type": "ORG",
+      "sentence": "Pfizer, BioNTech ask UK court to overturn Moderna's COVID vaccine patent win\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pfizer",
+      "entity1_type": "ORG",
+      "entity2": "UK",
+      "entity2_type": "GPE",
+      "sentence": "Pfizer, BioNTech ask UK court to overturn Moderna's COVID vaccine patent win\nPosted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pfizer",
+      "entity1_type": "ORG",
+      "entity2": "Moderna",
+      "entity2_type": "ORG",
+      "sentence": "Pfizer, BioNTech ask UK court to overturn Moderna's COVID vaccine patent win\nPosted 1+ days ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pfizer",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Pfizer, BioNTech ask UK court to overturn Moderna's COVID vaccine patent win\nPosted 1+ days ago\nAI Generated.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pfizer",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Pfizer, BioNTech ask UK court to overturn Moderna's COVID vaccine patent win\nPosted 1+ days ago\nAI Generated.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pfizer",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Pfizer, BioNTech ask UK court to overturn Moderna's COVID vaccine patent win\nPosted 1+ days ago\nAI Generated.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pfizer",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Pfizer, BioNTech ask UK court to overturn Moderna's COVID vaccine patent win\nPosted 1+ days ago\nAI Generated.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "BioNTech",
+      "entity1_type": "ORG",
+      "entity2": "UK",
+      "entity2_type": "GPE",
+      "sentence": "Pfizer, BioNTech ask UK court to overturn Moderna's COVID vaccine patent win\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "BioNTech",
+      "entity1_type": "ORG",
+      "entity2": "Moderna",
+      "entity2_type": "ORG",
+      "sentence": "Pfizer, BioNTech ask UK court to overturn Moderna's COVID vaccine patent win\nPosted 1+ days ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "BioNTech",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Pfizer, BioNTech ask UK court to overturn Moderna's COVID vaccine patent win\nPosted 1+ days ago\nAI Generated.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "BioNTech",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Pfizer, BioNTech ask UK court to overturn Moderna's COVID vaccine patent win\nPosted 1+ days ago\nAI Generated.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "BioNTech",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Pfizer, BioNTech ask UK court to overturn Moderna's COVID vaccine patent win\nPosted 1+ days ago\nAI Generated.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "BioNTech",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Pfizer, BioNTech ask UK court to overturn Moderna's COVID vaccine patent win\nPosted 1+ days ago\nAI Generated.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UK",
+      "entity1_type": "GPE",
+      "entity2": "Moderna",
+      "entity2_type": "ORG",
+      "sentence": "Pfizer, BioNTech ask UK court to overturn Moderna's COVID vaccine patent win\nPosted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UK",
+      "entity1_type": "GPE",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Pfizer, BioNTech ask UK court to overturn Moderna's COVID vaccine patent win\nPosted 1+ days ago\nAI Generated.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UK",
+      "entity1_type": "GPE",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Pfizer, BioNTech ask UK court to overturn Moderna's COVID vaccine patent win\nPosted 1+ days ago\nAI Generated.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UK",
+      "entity1_type": "GPE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Pfizer, BioNTech ask UK court to overturn Moderna's COVID vaccine patent win\nPosted 1+ days ago\nAI Generated.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UK",
+      "entity1_type": "GPE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Pfizer, BioNTech ask UK court to overturn Moderna's COVID vaccine patent win\nPosted 1+ days ago\nAI Generated.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Moderna",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Pfizer, BioNTech ask UK court to overturn Moderna's COVID vaccine patent win\nPosted 1+ days ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Moderna",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Pfizer, BioNTech ask UK court to overturn Moderna's COVID vaccine patent win\nPosted 1+ days ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Moderna",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Pfizer, BioNTech ask UK court to overturn Moderna's COVID vaccine patent win\nPosted 1+ days ago\nAI Generated.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Moderna",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Pfizer, BioNTech ask UK court to overturn Moderna's COVID vaccine patent win\nPosted 1+ days ago\nAI Generated.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Pfizer, BioNTech ask UK court to overturn Moderna's COVID vaccine patent win\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Pfizer, BioNTech ask UK court to overturn Moderna's COVID vaccine patent win\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Pfizer, BioNTech ask UK court to overturn Moderna's COVID vaccine patent win\nPosted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Pfizer, BioNTech ask UK court to overturn Moderna's COVID vaccine patent win\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Pfizer, BioNTech ask UK court to overturn Moderna's COVID vaccine patent win\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Pfizer, BioNTech ask UK court to overturn Moderna's COVID vaccine patent win\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "a mix",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "clinical pipeline news",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "dividend and earnings updates",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "analyst ratings",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "legal developments",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the stock",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "PFE’s strong earnings surprise history",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "another beat",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its next report",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "positive Phase 3 EMBARK trial results",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "non-metastatic hormone-sensitive prostate cancer",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "improved overall survival",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Xtandi Survival Win",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Prostate Cancer Study",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "New study data",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a game-changer",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "atopic dermatitis patients",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Pfizer’s New Study",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "A Potential Game-Changer",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Atopic Dermatitis",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "An S&P 500 dividend roundup",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "PFE’s 6.7% indicated yield",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "another small increase",
+      "type": "noun_chunk",
+      "category": "trend"
+    },
+    {
+      "text": "a Profit",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "The Highest-Yielding S&P 500 Stocks",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the strength",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Pfizer’s pipeline",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Cantor Fitzgerald",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its FY2025 EPS forecast",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a Neutral rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "$24 price target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Pfizer FY2025 EPS Forecast",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Cantor Fitzgerald",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a Hold rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "steady cash flows",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a deep drug pipeline",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Its Hold Rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "The stock",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "sell-side caution",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a UK patent ruling",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "legal uncertainty",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "COVID-19 vaccine royalties",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "UK court",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Moderna's COVID vaccine patent",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "$3.09",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$24",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "6.7%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "1.7%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "1.7%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "1.3%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "1.3%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "FY2025",
+      "type": "pattern",
+      "category": "fiscal_year"
+    },
+    {
+      "text": "FY2025",
+      "type": "pattern",
+      "category": "fiscal_year"
+    },
+    {
+      "text": "earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Profit",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "profit",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Trading",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Stock",
+      "type": "pattern",
+      "category": "market_term"
+    }
+  ],
+  "important_sentences": [
+    {
+      "text": "Positive Sentiment:\nPfizer and Astellas report positive Phase 3 EMBARK trial results for XTANDI plus leuprolide in non-metastatic hormone-sensitive prostate cancer, showing improved overall survival.\nPfizer, Astellas Report Xtandi Survival Win In Prostate Cancer Study\nPositive Sentiment:\nNew study data suggest abrocitinib could be a game-changer for atopic dermatitis patients.\nPfizer’s New Study on Abrocitinib: A Potential Game-Changer for Atopic Dermatitis\nPositive Sentiment:",
+      "importance_score": 38,
+      "entity_count": 6,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 5,
+      "sentiment": "positive"
+    },
+    {
+      "text": "“Nobody Ever Went Broke Taking a Profit” – Grab The Highest-Yielding S&P 500 Stocks Right Now\nPositive Sentiment:\nShares climbed 1.7% on optimism around valuation and the strength of Pfizer’s pipeline.\nPfizer (NYSE:PFE) Trading Up 1.7% – Should You Buy?",
+      "importance_score": 38,
+      "entity_count": 6,
+      "financial_keyword_count": 6,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Cantor Fitzgerald trims its FY2025 EPS forecast slightly to $3.09 but keeps a Neutral rating and $24 price target.",
+      "importance_score": 33,
+      "entity_count": 5,
+      "financial_keyword_count": 3,
+      "money_count": 2,
+      "company_count": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Pfizer, BioNTech ask UK court to overturn Moderna's COVID vaccine patent win\nPosted 1+ days ago\nAI Generated.",
+      "importance_score": 31,
+      "entity_count": 8,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "An S&P 500 dividend roundup highlights PFE’s 6.7% indicated yield, with another small increase likely by year-end.",
+      "importance_score": 28,
+      "entity_count": 6,
+      "financial_keyword_count": 4,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Positive Sentiment:\nZacks highlights PFE’s strong earnings surprise history and expects another beat in its next report.\nWill Pfizer (PFE) Beat Estimates Again?",
+      "importance_score": 27,
+      "entity_count": 4,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 4,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Pfizer Inc. (NYSE:PFE) shares are reacting to a mix of clinical pipeline news, dividend and earnings updates, analyst ratings and legal developments.",
+      "importance_score": 26,
+      "entity_count": 3,
+      "financial_keyword_count": 4,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Bernstein reaffirms a Hold rating on PFE, citing steady cash flows and a deep drug pipeline.",
+      "importance_score": 21,
+      "entity_count": 2,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Pfizer and BioNTech appeal a UK patent ruling favoring Moderna, extending legal uncertainty around COVID-19 vaccine royalties.",
+      "importance_score": 20,
+      "entity_count": 4,
+      "financial_keyword_count": 0,
+      "money_count": 0,
+      "company_count": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Pfizer FY2025 EPS Forecast Decreased by Cantor Fitzgerald\nNeutral Sentiment:",
+      "importance_score": 19,
+      "entity_count": 4,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    }
+  ],
+  "entity_statistics": {
+    "total_entities": 42,
+    "unique_entities": 19,
+    "type_counts": {
+      "ORG": 28,
+      "PRODUCT": 1,
+      "PERCENT": 5,
+      "DATE": 4,
+      "MONEY": 2,
+      "GPE": 2
+    },
+    "type_distribution": {
+      "ORG": 0.6666666666666666,
+      "PRODUCT": 0.023809523809523808,
+      "PERCENT": 0.11904761904761904,
+      "DATE": 0.09523809523809523,
+      "MONEY": 0.047619047619047616,
+      "GPE": 0.047619047619047616
+    },
+    "most_common_entities": [
+      [
+        "Pfizer",
+        11
+      ],
+      [
+        "PFE",
+        5
+      ],
+      [
+        "Astellas",
+        2
+      ],
+      [
+        "1.7%",
+        2
+      ],
+      [
+        "Cantor Fitzgerald",
+        2
+      ],
+      [
+        "FY2025",
+        2
+      ],
+      [
+        "Bernstein",
+        2
+      ],
+      [
+        "1.3%",
+        2
+      ],
+      [
+        "BioNTech",
+        2
+      ],
+      [
+        "UK",
+        2
+      ]
+    ],
+    "entity_types_found": [
+      "ORG",
+      "PRODUCT",
+      "PERCENT",
+      "DATE",
+      "MONEY",
+      "GPE"
+    ],
+    "company_entities": 28,
+    "person_entities": 0,
+    "financial_entities": 7,
+    "entity_density": 0.15053763440860216
+  },
+  "financial_analysis": {
+    "money_amounts": [
+      "3.09",
+      "24"
+    ],
+    "percentages": [
+      "6.7%",
+      "1.7%",
+      "1.7%",
+      "1.3%",
+      "1.3%"
+    ],
+    "companies": [
+      "Pfizer Inc.",
+      "PFE",
+      "Zacks",
+      "PFE",
+      "Pfizer",
+      "PFE",
+      "Pfizer",
+      "Astellas",
+      "Pfizer",
+      "Astellas",
+      "Pfizer",
+      "PFE",
+      "Pfizer",
+      "Pfizer",
+      "Cantor Fitzgerald",
+      "Pfizer",
+      "Cantor Fitzgerald",
+      "Bernstein",
+      "PFE",
+      "Bernstein",
+      "Pfizer",
+      "Pfizer",
+      "Pfizer",
+      "BioNTech",
+      "Moderna",
+      "Pfizer",
+      "BioNTech",
+      "Moderna"
+    ],
+    "people": [],
+    "dates": [
+      "year-end",
+      "FY2025",
+      "FY2025",
+      "1+ days ago"
+    ],
+    "financial_terms": [
+      "profit",
+      "Profit",
+      "earnings",
+      "Trading",
+      "Stock",
+      "stock"
+    ],
+    "financial_metrics": [],
+    "market_indicators": [
+      "Rating",
+      "Price",
+      "price",
+      "target",
+      "rating"
+    ]
+  },
+  "temporal_analysis": {
+    "dates": [
+      "year-end",
+      "FY2025",
+      "FY2025",
+      "1+ days ago"
+    ],
+    "time_expressions": [],
+    "temporal_relationships": [
+      "next"
+    ],
+    "quarters": [],
+    "years": [],
+    "time_periods": []
+  },
+  "sentiment_analysis": {
+    "positive_words": 11,
+    "negative_words": 3,
+    "positive_ratio": 0.03942652329749104,
+    "negative_ratio": 0.010752688172043012,
+    "sentiment_score": 0.028673835125448025,
+    "sentiment_label": "positive",
+    "sentiment_strength": 0.028673835125448025,
+    "confidence": 0.2867383512544803
+  },
+  "industry_analysis": {
+    "dominant_industry": "healthcare",
+    "industry_scores": {
+      "tech": 1,
+      "finance": 1,
+      "healthcare": 4,
+      "energy": 0,
+      "retail": 0,
+      "automotive": 0,
+      "media": 1,
+      "industrial": 0,
+      "real_estate": 0,
+      "telecom": 0,
+      "food_beverage": 0,
+      "travel": 0,
+      "education": 0,
+      "professional": 2,
+      "mining": 0,
+      "aerospace": 0,
+      "environmental": 0,
+      "cannabis": 0
+    },
+    "confidence": 0.4444444444444444
+  },
+  "market_analysis": {
+    "market_sentiment": "bullish",
+    "bullish_indicators": 2,
+    "bearish_indicators": 0,
+    "market_conditions": {
+      "volatility": "normal",
+      "volume": "normal",
+      "trend": "bullish"
+    },
+    "trading_activity": "normal"
+  },
+  "competitor_analysis": {
+    "companies_mentioned": [
+      "Pfizer Inc.",
+      "PFE",
+      "Zacks",
+      "PFE",
+      "Pfizer",
+      "PFE",
+      "Pfizer",
+      "Astellas",
+      "Pfizer",
+      "Astellas",
+      "Pfizer",
+      "PFE",
+      "Pfizer",
+      "Pfizer",
+      "Cantor Fitzgerald",
+      "Pfizer",
+      "Cantor Fitzgerald",
+      "Bernstein",
+      "PFE",
+      "Bernstein",
+      "Pfizer",
+      "Pfizer",
+      "Pfizer",
+      "BioNTech",
+      "Moderna",
+      "Pfizer",
+      "BioNTech",
+      "Moderna"
+    ],
+    "competitive_context": [],
+    "competitor_count": 28,
+    "has_competitive_language": false
+  },
+  "risk_analysis": {
+    "risk_sentences": [
+      "The stock dipped 1.3% amid profit-taking and sell-side caution over valuation.",
+      "Pfizer and BioNTech appeal a UK patent ruling favoring Moderna, extending legal uncertainty around COVID-19 vaccine royalties."
+    ],
+    "risk_count": 2,
+    "risk_level": "medium"
+  },
+  "opportunity_analysis": {
+    "opportunity_sentences": [
+      "Positive Sentiment:\nPfizer and Astellas report positive Phase 3 EMBARK trial results for XTANDI plus leuprolide in non-metastatic hormone-sensitive prostate cancer, showing improved overall survival.\nPfizer, Astellas Report Xtandi Survival Win In Prostate Cancer Study\nPositive Sentiment:\nNew study data suggest abrocitinib could be a game-changer for atopic dermatitis patients.\nPfizer’s New Study on Abrocitinib: A Potential Game-Changer for Atopic Dermatitis\nPositive Sentiment:"
+    ],
+    "opportunity_count": 1,
+    "opportunity_level": "low"
+  },
+  "processing_metadata": {
+    "timestamp": "2025-07-13T08:48:20.933190",
+    "model_used": "en_core_web_trf",
+    "text_length": 1979
+  }
+}
