@@ -1,0 +1,5001 @@
+{
+  "ticker": "AVGO",
+  "entities": [
+    {
+      "text": "Broadcom Inc.",
+      "label": "ORG",
+      "start": 0,
+      "end": 13,
+      "sentence": "Broadcom Inc. (AVGO) shares have been buoyed by strong AI revenue growth, multiple analyst upgrades and favorable valuation commentary.",
+      "context": "Broadcom Inc. (AVGO) shares have been buoyed by strong AI reven",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AVGO",
+      "label": "ORG",
+      "start": 15,
+      "end": 19,
+      "sentence": "Broadcom Inc. (AVGO) shares have been buoyed by strong AI revenue growth, multiple analyst upgrades and favorable valuation commentary.",
+      "context": "Broadcom Inc. (AVGO) shares have been buoyed by strong AI revenue gro",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "today",
+      "label": "DATE",
+      "start": 261,
+      "end": 266,
+      "sentence": "Key drivers influencing the stock today include:",
+      "context": "e also emerged. Key drivers influencing the stock today include:\nPositive Sentiment:\nA Zacks report highl",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Zacks",
+      "label": "ORG",
+      "start": 298,
+      "end": 303,
+      "sentence": "Positive Sentiment:\nA Zacks report highlights a 46% jump in Broadcom’s AI revenues, marking its 10th consecutive quarter of double-digit AI growth.\nBroadcom Rides on Strong AI Demand: What's the Path Ahead?",
+      "context": "ng the stock today include:\nPositive Sentiment:\nA Zacks report highlights a 46% jump in Broadcom’s AI rev",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "46%",
+      "label": "PERCENT",
+      "start": 324,
+      "end": 327,
+      "sentence": "Positive Sentiment:\nA Zacks report highlights a 46% jump in Broadcom’s AI revenues, marking its 10th consecutive quarter of double-digit AI growth.\nBroadcom Rides on Strong AI Demand: What's the Path Ahead?",
+      "context": ":\nPositive Sentiment:\nA Zacks report highlights a 46% jump in Broadcom’s AI revenues, marking its 10th",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Broadcom",
+      "label": "ORG",
+      "start": 336,
+      "end": 344,
+      "sentence": "Positive Sentiment:\nA Zacks report highlights a 46% jump in Broadcom’s AI revenues, marking its 10th consecutive quarter of double-digit AI growth.\nBroadcom Rides on Strong AI Demand: What's the Path Ahead?",
+      "context": "entiment:\nA Zacks report highlights a 46% jump in Broadcom’s AI revenues, marking its 10th consecutive quart",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "10th consecutive quarter",
+      "label": "DATE",
+      "start": 372,
+      "end": 396,
+      "sentence": "Positive Sentiment:\nA Zacks report highlights a 46% jump in Broadcom’s AI revenues, marking its 10th consecutive quarter of double-digit AI growth.\nBroadcom Rides on Strong AI Demand: What's the Path Ahead?",
+      "context": "a 46% jump in Broadcom’s AI revenues, marking its 10th consecutive quarter of double-digit AI growth.\nBroadcom Rides on Stro",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Broadcom",
+      "label": "ORG",
+      "start": 424,
+      "end": 432,
+      "sentence": "Positive Sentiment:\nA Zacks report highlights a 46% jump in Broadcom’s AI revenues, marking its 10th consecutive quarter of double-digit AI growth.\nBroadcom Rides on Strong AI Demand: What's the Path Ahead?",
+      "context": "th consecutive quarter of double-digit AI growth.\nBroadcom Rides on Strong AI Demand: What's the Path Ahead?",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "The Globe and Mail",
+      "label": "ORG",
+      "start": 503,
+      "end": 521,
+      "sentence": "The Globe and Mail notes that Goldman Sachs initiated coverage of AVGO with a “Buy” rating and a $315 price target.",
+      "context": "emand: What's the Path Ahead?\nPositive Sentiment:\nThe Globe and Mail notes that Goldman Sachs initiated coverage of AV",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Goldman Sachs",
+      "label": "ORG",
+      "start": 533,
+      "end": 546,
+      "sentence": "The Globe and Mail notes that Goldman Sachs initiated coverage of AVGO with a “Buy” rating and a $315 price target.",
+      "context": "Positive Sentiment:\nThe Globe and Mail notes that Goldman Sachs initiated coverage of AVGO with a “Buy” rating an",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AVGO",
+      "label": "ORG",
+      "start": 569,
+      "end": 573,
+      "sentence": "The Globe and Mail notes that Goldman Sachs initiated coverage of AVGO with a “Buy” rating and a $315 price target.",
+      "context": "il notes that Goldman Sachs initiated coverage of AVGO with a “Buy” rating and a $315 price target.\nBroa",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "315",
+      "label": "MONEY",
+      "start": 601,
+      "end": 604,
+      "sentence": "The Globe and Mail notes that Goldman Sachs initiated coverage of AVGO with a “Buy” rating and a $315 price target.",
+      "context": "iated coverage of AVGO with a “Buy” rating and a $315 price target.\nBroadcom (AVGO) Initiated with a Bu",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Broadcom",
+      "label": "ORG",
+      "start": 619,
+      "end": 627,
+      "sentence": "Broadcom (AVGO) Initiated with a Buy at Goldman Sachs\nPositive Sentiment:",
+      "context": "AVGO with a “Buy” rating and a $315 price target.\nBroadcom (AVGO) Initiated with a Buy at Goldman Sachs\nPosi",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AVGO",
+      "label": "ORG",
+      "start": 629,
+      "end": 633,
+      "sentence": "Broadcom (AVGO) Initiated with a Buy at Goldman Sachs\nPositive Sentiment:",
+      "context": "a “Buy” rating and a $315 price target.\nBroadcom (AVGO) Initiated with a Buy at Goldman Sachs\nPositive S",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Goldman Sachs",
+      "label": "ORG",
+      "start": 659,
+      "end": 672,
+      "sentence": "Broadcom (AVGO) Initiated with a Buy at Goldman Sachs\nPositive Sentiment:",
+      "context": "e target.\nBroadcom (AVGO) Initiated with a Buy at Goldman Sachs\nPositive Sentiment:\nHSBC set a $400 target on AVG",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "HSBC",
+      "label": "ORG",
+      "start": 693,
+      "end": 697,
+      "sentence": "HSBC set a $400 target on AVGO, citing continued AI-driven expansion despite acknowledging near-term valuation risks.",
+      "context": "d with a Buy at Goldman Sachs\nPositive Sentiment:\nHSBC set a $400 target on AVGO, citing continued AI-dr",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "400",
+      "label": "MONEY",
+      "start": 705,
+      "end": 708,
+      "sentence": "HSBC set a $400 target on AVGO, citing continued AI-driven expansion despite acknowledging near-term valuation risks.",
+      "context": "at Goldman Sachs\nPositive Sentiment:\nHSBC set a $400 target on AVGO, citing continued AI-driven expans",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "AVGO",
+      "label": "ORG",
+      "start": 719,
+      "end": 723,
+      "sentence": "HSBC set a $400 target on AVGO, citing continued AI-driven expansion despite acknowledging near-term valuation risks.",
+      "context": "chs\nPositive Sentiment:\nHSBC set a $400 target on AVGO, citing continued AI-driven expansion despite ack",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Broadcom",
+      "label": "ORG",
+      "start": 811,
+      "end": 819,
+      "sentence": "Broadcom Stock: HSBC Sets $400 Target on AI Growth Potential\nPositive Sentiment:\nKeyCorp issued a bullish forecast for Broadcom’s shares, raising its outlook on AVGO’s future price performance.",
+      "context": "despite acknowledging near-term valuation risks.\nBroadcom Stock: HSBC Sets $400 Target on AI Growth Potenti",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "HSBC",
+      "label": "ORG",
+      "start": 827,
+      "end": 831,
+      "sentence": "Broadcom Stock: HSBC Sets $400 Target on AI Growth Potential\nPositive Sentiment:\nKeyCorp issued a bullish forecast for Broadcom’s shares, raising its outlook on AVGO’s future price performance.",
+      "context": "edging near-term valuation risks.\nBroadcom Stock: HSBC Sets $400 Target on AI Growth Potential\nPositive",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "400",
+      "label": "MONEY",
+      "start": 838,
+      "end": 841,
+      "sentence": "Broadcom Stock: HSBC Sets $400 Target on AI Growth Potential\nPositive Sentiment:\nKeyCorp issued a bullish forecast for Broadcom’s shares, raising its outlook on AVGO’s future price performance.",
+      "context": "-term valuation risks.\nBroadcom Stock: HSBC Sets $400 Target on AI Growth Potential\nPositive Sentiment:",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "KeyCorp",
+      "label": "ORG",
+      "start": 892,
+      "end": 899,
+      "sentence": "Broadcom Stock: HSBC Sets $400 Target on AI Growth Potential\nPositive Sentiment:\nKeyCorp issued a bullish forecast for Broadcom’s shares, raising its outlook on AVGO’s future price performance.",
+      "context": "Target on AI Growth Potential\nPositive Sentiment:\nKeyCorp issued a bullish forecast for Broadcom’s shares,",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Broadcom",
+      "label": "ORG",
+      "start": 930,
+      "end": 938,
+      "sentence": "Broadcom Stock: HSBC Sets $400 Target on AI Growth Potential\nPositive Sentiment:\nKeyCorp issued a bullish forecast for Broadcom’s shares, raising its outlook on AVGO’s future price performance.",
+      "context": "Sentiment:\nKeyCorp issued a bullish forecast for Broadcom’s shares, raising its outlook on AVGO’s future pr",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AVGO",
+      "label": "ORG",
+      "start": 972,
+      "end": 976,
+      "sentence": "Broadcom Stock: HSBC Sets $400 Target on AI Growth Potential\nPositive Sentiment:\nKeyCorp issued a bullish forecast for Broadcom’s shares, raising its outlook on AVGO’s future price performance.",
+      "context": "ast for Broadcom’s shares, raising its outlook on AVGO’s future price performance.\nKeyCorp Issues Positi",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "KeyCorp",
+      "label": "ORG",
+      "start": 1005,
+      "end": 1012,
+      "sentence": "KeyCorp Issues Positive Forecast for Broadcom (NASDAQ:AVGO) Stock Price\nPositive Sentiment:",
+      "context": "g its outlook on AVGO’s future price performance.\nKeyCorp Issues Positive Forecast for Broadcom (NASDAQ:AVG",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Broadcom",
+      "label": "ORG",
+      "start": 1042,
+      "end": 1050,
+      "sentence": "KeyCorp Issues Positive Forecast for Broadcom (NASDAQ:AVGO) Stock Price\nPositive Sentiment:",
+      "context": "performance.\nKeyCorp Issues Positive Forecast for Broadcom (NASDAQ:AVGO) Stock Price\nPositive Sentiment:\nAVG",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AVGO",
+      "label": "ORG",
+      "start": 1059,
+      "end": 1063,
+      "sentence": "KeyCorp Issues Positive Forecast for Broadcom (NASDAQ:AVGO) Stock Price\nPositive Sentiment:",
+      "context": "orp Issues Positive Forecast for Broadcom (NASDAQ:AVGO) Stock Price\nPositive Sentiment:\nAVGO hit a new o",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AVGO",
+      "label": "ORG",
+      "start": 1097,
+      "end": 1101,
+      "sentence": "AVGO hit a new one-year high following a recent analyst upgrade.",
+      "context": "com (NASDAQ:AVGO) Stock Price\nPositive Sentiment:\nAVGO hit a new one-year high following a recent analys",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "one-year",
+      "label": "DATE",
+      "start": 1112,
+      "end": 1120,
+      "sentence": "AVGO hit a new one-year high following a recent analyst upgrade.",
+      "context": "O) Stock Price\nPositive Sentiment:\nAVGO hit a new one-year high following a recent analyst upgrade.\nBroadcom",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Broadcom",
+      "label": "ORG",
+      "start": 1162,
+      "end": 1170,
+      "sentence": "Broadcom (NASDAQ:AVGO) Sets New 1-Year High Following Analyst Upgrade\nPositive Sentiment:\nA Seeking Alpha contributor says forward P/E ratios have dropped sharply, making AVGO shares more attractive and prompting additional purchases.",
+      "context": "one-year high following a recent analyst upgrade.\nBroadcom (NASDAQ:AVGO) Sets New 1-Year High Following Anal",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AVGO",
+      "label": "ORG",
+      "start": 1179,
+      "end": 1183,
+      "sentence": "Broadcom (NASDAQ:AVGO) Sets New 1-Year High Following Analyst Upgrade\nPositive Sentiment:\nA Seeking Alpha contributor says forward P/E ratios have dropped sharply, making AVGO shares more attractive and prompting additional purchases.",
+      "context": "lowing a recent analyst upgrade.\nBroadcom (NASDAQ:AVGO) Sets New 1-Year High Following Analyst Upgrade\nP",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "1-Year",
+      "label": "DATE",
+      "start": 1194,
+      "end": 1200,
+      "sentence": "Broadcom (NASDAQ:AVGO) Sets New 1-Year High Following Analyst Upgrade\nPositive Sentiment:\nA Seeking Alpha contributor says forward P/E ratios have dropped sharply, making AVGO shares more attractive and prompting additional purchases.",
+      "context": "analyst upgrade.\nBroadcom (NASDAQ:AVGO) Sets New 1-Year High Following Analyst Upgrade\nPositive Sentiment",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Seeking Alpha",
+      "label": "ORG",
+      "start": 1254,
+      "end": 1267,
+      "sentence": "Broadcom (NASDAQ:AVGO) Sets New 1-Year High Following Analyst Upgrade\nPositive Sentiment:\nA Seeking Alpha contributor says forward P/E ratios have dropped sharply, making AVGO shares more attractive and prompting additional purchases.",
+      "context": "h Following Analyst Upgrade\nPositive Sentiment:\nA Seeking Alpha contributor says forward P/E ratios have dropped",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AVGO",
+      "label": "ORG",
+      "start": 1333,
+      "end": 1337,
+      "sentence": "Broadcom (NASDAQ:AVGO) Sets New 1-Year High Following Analyst Upgrade\nPositive Sentiment:\nA Seeking Alpha contributor says forward P/E ratios have dropped sharply, making AVGO shares more attractive and prompting additional purchases.",
+      "context": "s forward P/E ratios have dropped sharply, making AVGO shares more attractive and prompting additional p",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Broadcom",
+      "label": "ORG",
+      "start": 1397,
+      "end": 1405,
+      "sentence": "Broadcom: I'm Buying More As Forward P/E Ratios Nosedive\nPositive Sentiment:\nJim Cramer noted that Broadcom’s P/E multiple remains reasonable compared to peers in the AI era.",
+      "context": "re attractive and prompting additional purchases.\nBroadcom: I'm Buying More As Forward P/E Ratios Nosedive\nP",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Jim Cramer",
+      "label": "PERSON",
+      "start": 1474,
+      "end": 1484,
+      "sentence": "Broadcom: I'm Buying More As Forward P/E Ratios Nosedive\nPositive Sentiment:\nJim Cramer noted that Broadcom’s P/E multiple remains reasonable compared to peers in the AI era.",
+      "context": "s Forward P/E Ratios Nosedive\nPositive Sentiment:\nJim Cramer noted that Broadcom’s P/E multiple remains reason",
+      "is_company": false,
+      "is_person": true,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Broadcom",
+      "label": "ORG",
+      "start": 1496,
+      "end": 1504,
+      "sentence": "Broadcom: I'm Buying More As Forward P/E Ratios Nosedive\nPositive Sentiment:\nJim Cramer noted that Broadcom’s P/E multiple remains reasonable compared to peers in the AI era.",
+      "context": "osedive\nPositive Sentiment:\nJim Cramer noted that Broadcom’s P/E multiple remains reasonable compared to pee",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Broadcom Inc.",
+      "label": "ORG",
+      "start": 1572,
+      "end": 1585,
+      "sentence": "Broadcom Inc. (AVGO) Isn’t That High When It Comes To A P/E Multiple, Says Jim Cramer\nPositive Sentiment:",
+      "context": "mains reasonable compared to peers in the AI era.\nBroadcom Inc. (AVGO) Isn’t That High When It Comes To A P/E Mul",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AVGO",
+      "label": "ORG",
+      "start": 1587,
+      "end": 1591,
+      "sentence": "Broadcom Inc. (AVGO) Isn’t That High When It Comes To A P/E Multiple, Says Jim Cramer\nPositive Sentiment:",
+      "context": "e compared to peers in the AI era.\nBroadcom Inc. (AVGO) Isn’t That High When It Comes To A P/E Multiple,",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Jim Cramer",
+      "label": "PERSON",
+      "start": 1647,
+      "end": 1657,
+      "sentence": "Broadcom Inc. (AVGO) Isn’t That High When It Comes To A P/E Multiple, Says Jim Cramer\nPositive Sentiment:",
+      "context": "t That High When It Comes To A P/E Multiple, Says Jim Cramer\nPositive Sentiment:\nA Seeking Alpha deep dive unc",
+      "is_company": false,
+      "is_person": true,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Seeking Alpha",
+      "label": "ORG",
+      "start": 1680,
+      "end": 1693,
+      "sentence": "A Seeking Alpha deep dive uncovers Broadcom’s critical yet underappreciated role as an AI infrastructure “backbone.”",
+      "context": "E Multiple, Says Jim Cramer\nPositive Sentiment:\nA Seeking Alpha deep dive uncovers Broadcom’s critical yet undera",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Broadcom",
+      "label": "ORG",
+      "start": 1713,
+      "end": 1721,
+      "sentence": "A Seeking Alpha deep dive uncovers Broadcom’s critical yet underappreciated role as an AI infrastructure “backbone.”",
+      "context": "ive Sentiment:\nA Seeking Alpha deep dive uncovers Broadcom’s critical yet underappreciated role as an AI inf",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Broadcom",
+      "label": "ORG",
+      "start": 1795,
+      "end": 1803,
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "context": "reciated role as an AI infrastructure “backbone.”\nBroadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "MSN",
+      "label": "ORG",
+      "start": 1853,
+      "end": 1856,
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "context": "'s Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Broadcom",
+      "label": "ORG",
+      "start": 1870,
+      "end": 1878,
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "context": "bone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinf",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q1",
+      "label": "DATE",
+      "start": 1911,
+      "end": 1913,
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "context": "rts that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quart",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "the next quarter",
+      "label": "DATE",
+      "start": 1949,
+      "end": 1965,
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "context": "ly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositi",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Broadcom",
+      "label": "ORG",
+      "start": 1967,
+      "end": 1975,
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "context": "line, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentime",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AVGO",
+      "label": "ORG",
+      "start": 1977,
+      "end": 1981,
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "context": "forcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:\nIn",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q1",
+      "label": "DATE",
+      "start": 1998,
+      "end": 2000,
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "context": "the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:\nInsider trading data",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Nancy Pelosi",
+      "label": "PERSON",
+      "start": 2056,
+      "end": 2068,
+      "sentence": "Insider trading data shows Nancy Pelosi exercised call options on millions of dollars’ worth of AVGO, often viewed as a bullish signal.",
+      "context": "ne\nPositive Sentiment:\nInsider trading data shows Nancy Pelosi exercised call options on millions of dollars’ wo",
+      "is_company": false,
+      "is_person": true,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "millions of dollars’ worth",
+      "label": "MONEY",
+      "start": 2095,
+      "end": 2121,
+      "sentence": "Insider trading data shows Nancy Pelosi exercised call options on millions of dollars’ worth of AVGO, often viewed as a bullish signal.",
+      "context": "data shows Nancy Pelosi exercised call options on millions of dollars’ worth of AVGO, often viewed as a bullish signal.\nNancy",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "AVGO",
+      "label": "ORG",
+      "start": 2125,
+      "end": 2129,
+      "sentence": "Insider trading data shows Nancy Pelosi exercised call options on millions of dollars’ worth of AVGO, often viewed as a bullish signal.",
+      "context": "sed call options on millions of dollars’ worth of AVGO, often viewed as a bullish signal.\nNancy Pelosi e",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Nancy Pelosi",
+      "label": "PERSON",
+      "start": 2165,
+      "end": 2177,
+      "sentence": "Nancy Pelosi exercises call options on Broadcom worth millions\nPositive Sentiment:\nIn a YouTube analysis, Angelo Zino attributes AVGO’s upward trajectory to robust AI revenues and a “monster” software free cash flow engine.",
+      "context": "worth of AVGO, often viewed as a bullish signal.\nNancy Pelosi exercises call options on Broadcom worth millions",
+      "is_company": false,
+      "is_person": true,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Broadcom",
+      "label": "ORG",
+      "start": 2204,
+      "end": 2212,
+      "sentence": "Nancy Pelosi exercises call options on Broadcom worth millions\nPositive Sentiment:\nIn a YouTube analysis, Angelo Zino attributes AVGO’s upward trajectory to robust AI revenues and a “monster” software free cash flow engine.",
+      "context": "sh signal.\nNancy Pelosi exercises call options on Broadcom worth millions\nPositive Sentiment:\nIn a YouTube a",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "millions",
+      "label": "CARDINAL",
+      "start": 2219,
+      "end": 2227,
+      "sentence": "Nancy Pelosi exercises call options on Broadcom worth millions\nPositive Sentiment:\nIn a YouTube analysis, Angelo Zino attributes AVGO’s upward trajectory to robust AI revenues and a “monster” software free cash flow engine.",
+      "context": "y Pelosi exercises call options on Broadcom worth millions\nPositive Sentiment:\nIn a YouTube analysis, Angelo",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "YouTube",
+      "label": "ORG",
+      "start": 2253,
+      "end": 2260,
+      "sentence": "Nancy Pelosi exercises call options on Broadcom worth millions\nPositive Sentiment:\nIn a YouTube analysis, Angelo Zino attributes AVGO’s upward trajectory to robust AI revenues and a “monster” software free cash flow engine.",
+      "context": "Broadcom worth millions\nPositive Sentiment:\nIn a YouTube analysis, Angelo Zino attributes AVGO’s upward tr",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Angelo Zino",
+      "label": "PERSON",
+      "start": 2271,
+      "end": 2282,
+      "sentence": "Nancy Pelosi exercises call options on Broadcom worth millions\nPositive Sentiment:\nIn a YouTube analysis, Angelo Zino attributes AVGO’s upward trajectory to robust AI revenues and a “monster” software free cash flow engine.",
+      "context": "llions\nPositive Sentiment:\nIn a YouTube analysis, Angelo Zino attributes AVGO’s upward trajectory to robust AI",
+      "is_company": false,
+      "is_person": true,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AVGO",
+      "label": "ORG",
+      "start": 2294,
+      "end": 2298,
+      "sentence": "Nancy Pelosi exercises call options on Broadcom worth millions\nPositive Sentiment:\nIn a YouTube analysis, Angelo Zino attributes AVGO’s upward trajectory to robust AI revenues and a “monster” software free cash flow engine.",
+      "context": "nt:\nIn a YouTube analysis, Angelo Zino attributes AVGO’s upward trajectory to robust AI revenues and a “",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AVGO",
+      "label": "ORG",
+      "start": 2389,
+      "end": 2393,
+      "sentence": "AVGO Upward Trajectory Led by A.I. Revenue\nPositive Sentiment:\nMarketBeat includes Broadcom among three secular growth stocks benefiting from trends in AI, medicine and consumer tech.",
+      "context": "s and a “monster” software free cash flow engine.\nAVGO Upward Trajectory Led by A.I. Revenue\nPositive Se",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "MarketBeat",
+      "label": "ORG",
+      "start": 2452,
+      "end": 2462,
+      "sentence": "AVGO Upward Trajectory Led by A.I. Revenue\nPositive Sentiment:\nMarketBeat includes Broadcom among three secular growth stocks benefiting from trends in AI, medicine and consumer tech.",
+      "context": "rajectory Led by A.I. Revenue\nPositive Sentiment:\nMarketBeat includes Broadcom among three secular growth stoc",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Broadcom",
+      "label": "ORG",
+      "start": 2472,
+      "end": 2480,
+      "sentence": "AVGO Upward Trajectory Led by A.I. Revenue\nPositive Sentiment:\nMarketBeat includes Broadcom among three secular growth stocks benefiting from trends in AI, medicine and consumer tech.",
+      "context": ". Revenue\nPositive Sentiment:\nMarketBeat includes Broadcom among three secular growth stocks benefiting from",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "three",
+      "label": "CARDINAL",
+      "start": 2487,
+      "end": 2492,
+      "sentence": "AVGO Upward Trajectory Led by A.I. Revenue\nPositive Sentiment:\nMarketBeat includes Broadcom among three secular growth stocks benefiting from trends in AI, medicine and consumer tech.",
+      "context": "ive Sentiment:\nMarketBeat includes Broadcom among three secular growth stocks benefiting from trends in A",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "3",
+      "label": "CARDINAL",
+      "start": 2597,
+      "end": 2598,
+      "sentence": "3 That Look Like Winners to Buy Now (AVGO)\nNeutral Sentiment:",
+      "context": "dicine and consumer tech.\nAre Growth Stocks Back? 3 That Look Like Winners to Buy Now (AVGO)\nNeutral",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Now",
+      "label": "DATE",
+      "start": 2629,
+      "end": 2632,
+      "sentence": "3 That Look Like Winners to Buy Now (AVGO)\nNeutral Sentiment:",
+      "context": "owth Stocks Back? 3 That Look Like Winners to Buy Now (AVGO)\nNeutral Sentiment:\nMarketBeat’s daily scre",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AVGO",
+      "label": "ORG",
+      "start": 2634,
+      "end": 2638,
+      "sentence": "3 That Look Like Winners to Buy Now (AVGO)\nNeutral Sentiment:",
+      "context": "Stocks Back? 3 That Look Like Winners to Buy Now (AVGO)\nNeutral Sentiment:\nMarketBeat’s daily screener o",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "MarketBeat",
+      "label": "ORG",
+      "start": 2659,
+      "end": 2669,
+      "sentence": "MarketBeat’s daily screener once again flags Broadcom as a telecom stock to watch alongside peers.",
+      "context": "Like Winners to Buy Now (AVGO)\nNeutral Sentiment:\nMarketBeat’s daily screener once again flags Broadcom as a t",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "daily",
+      "label": "DATE",
+      "start": 2672,
+      "end": 2677,
+      "sentence": "MarketBeat’s daily screener once again flags Broadcom as a telecom stock to watch alongside peers.",
+      "context": "to Buy Now (AVGO)\nNeutral Sentiment:\nMarketBeat’s daily screener once again flags Broadcom as a telecom s",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Broadcom",
+      "label": "ORG",
+      "start": 2704,
+      "end": 2712,
+      "sentence": "MarketBeat’s daily screener once again flags Broadcom as a telecom stock to watch alongside peers.",
+      "context": "ent:\nMarketBeat’s daily screener once again flags Broadcom as a telecom stock to watch alongside peers.\nTele",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Telecom",
+      "label": "ORG",
+      "start": 2758,
+      "end": 2765,
+      "sentence": "Telecom Stocks To Keep An Eye On - July 11th\nNeutral Sentiment:",
+      "context": "dcom as a telecom stock to watch alongside peers.\nTelecom Stocks To Keep An Eye On - July 11th\nNeutral Sent",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "July 11th",
+      "label": "DATE",
+      "start": 2793,
+      "end": 2802,
+      "sentence": "Telecom Stocks To Keep An Eye On - July 11th\nNeutral Sentiment:",
+      "context": "ongside peers.\nTelecom Stocks To Keep An Eye On - July 11th\nNeutral Sentiment:\nYesterday’s MarketBeat screene",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Yesterday",
+      "label": "DATE",
+      "start": 2822,
+      "end": 2831,
+      "sentence": "Yesterday’s MarketBeat screener also listed AVGO among telecom stocks to research, reflecting continued sector interest.",
+      "context": "To Keep An Eye On - July 11th\nNeutral Sentiment:\nYesterday’s MarketBeat screener also listed AVGO among tele",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "MarketBeat",
+      "label": "ORG",
+      "start": 2834,
+      "end": 2844,
+      "sentence": "Yesterday’s MarketBeat screener also listed AVGO among telecom stocks to research, reflecting continued sector interest.",
+      "context": "Eye On - July 11th\nNeutral Sentiment:\nYesterday’s MarketBeat screener also listed AVGO among telecom stocks to",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AVGO",
+      "label": "ORG",
+      "start": 2866,
+      "end": 2870,
+      "sentence": "Yesterday’s MarketBeat screener also listed AVGO among telecom stocks to research, reflecting continued sector interest.",
+      "context": "ment:\nYesterday’s MarketBeat screener also listed AVGO among telecom stocks to research, reflecting cont",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Telecom",
+      "label": "ORG",
+      "start": 2943,
+      "end": 2950,
+      "sentence": "Telecom Stocks To Research - July 10th\nNegative Sentiment:",
+      "context": "o research, reflecting continued sector interest.\nTelecom Stocks To Research - July 10th\nNegative Sentiment",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "July 10th",
+      "label": "DATE",
+      "start": 2972,
+      "end": 2981,
+      "sentence": "Telecom Stocks To Research - July 10th\nNegative Sentiment:",
+      "context": "ued sector interest.\nTelecom Stocks To Research - July 10th\nNegative Sentiment:\nA Seeking Alpha analysis warn",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Seeking Alpha",
+      "label": "ORG",
+      "start": 3004,
+      "end": 3017,
+      "sentence": "A Seeking Alpha analysis warns that Broadcom’s rising inventory levels could presage a slowdown in end-market demand.",
+      "context": "cks To Research - July 10th\nNegative Sentiment:\nA Seeking Alpha analysis warns that Broadcom’s rising inventory l",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Broadcom",
+      "label": "ORG",
+      "start": 3038,
+      "end": 3046,
+      "sentence": "A Seeking Alpha analysis warns that Broadcom’s rising inventory levels could presage a slowdown in end-market demand.",
+      "context": "ve Sentiment:\nA Seeking Alpha analysis warns that Broadcom’s rising inventory levels could presage a slowdow",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Broadcom",
+      "label": "ORG",
+      "start": 3120,
+      "end": 3128,
+      "sentence": "Broadcom: Inventory Does Not Lie\nNegative Sentiment:",
+      "context": "ls could presage a slowdown in end-market demand.\nBroadcom: Inventory Does Not Lie\nNegative Sentiment:\nMarke",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "MarketBeat",
+      "label": "ORG",
+      "start": 3173,
+      "end": 3183,
+      "sentence": "MarketBeat notes a 1.6% share pullback recently, attributing it to sector rotation and analyst profit-taking.",
+      "context": "adcom: Inventory Does Not Lie\nNegative Sentiment:\nMarketBeat notes a 1.6% share pullback recently, attributing",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "1.6%",
+      "label": "PERCENT",
+      "start": 3192,
+      "end": 3196,
+      "sentence": "MarketBeat notes a 1.6% share pullback recently, attributing it to sector rotation and analyst profit-taking.",
+      "context": "es Not Lie\nNegative Sentiment:\nMarketBeat notes a 1.6% share pullback recently, attributing it to sector",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Broadcom",
+      "label": "ORG",
+      "start": 3283,
+      "end": 3291,
+      "sentence": "Broadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "context": "it to sector rotation and analyst profit-taking.\nBroadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPoste",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AVGO",
+      "label": "ORG",
+      "start": 3300,
+      "end": 3304,
+      "sentence": "Broadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "context": "ation and analyst profit-taking.\nBroadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "1.6%",
+      "label": "PERCENT",
+      "start": 3318,
+      "end": 3322,
+      "sentence": "Broadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "context": "profit-taking.\nBroadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "1+ days ago",
+      "label": "DATE",
+      "start": 3343,
+      "end": 3354,
+      "sentence": "Broadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "context": "NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AI",
+      "label": "ORG",
+      "start": 3355,
+      "end": 3357,
+      "sentence": "Broadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "context": "Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    }
+  ],
+  "relationships": [
+    {
+      "type": "SVO",
+      "subject": "report",
+      "verb": "highlights",
+      "object": "jump",
+      "sentence": "Positive Sentiment:\nA Zacks report highlights a 46% jump in Broadcom’s AI revenues, marking its 10th consecutive quarter of double-digit AI growth.\nBroadcom Rides on Strong AI Demand: What's the Path Ahead?",
+      "importance": 12
+    },
+    {
+      "type": "SVO",
+      "subject": "Sachs",
+      "verb": "initiated",
+      "object": "coverage",
+      "sentence": "The Globe and Mail notes that Goldman Sachs initiated coverage of AVGO with a “Buy” rating and a $315 price target.",
+      "importance": 11
+    },
+    {
+      "type": "SVO",
+      "subject": "HSBC",
+      "verb": "set",
+      "object": "target",
+      "sentence": "HSBC set a $400 target on AVGO, citing continued AI-driven expansion despite acknowledging near-term valuation risks.",
+      "importance": 7
+    },
+    {
+      "type": "SVO",
+      "subject": "Stock",
+      "verb": "issued",
+      "object": "forecast",
+      "sentence": "Broadcom Stock: HSBC Sets $400 Target on AI Growth Potential\nPositive Sentiment:\nKeyCorp issued a bullish forecast for Broadcom’s shares, raising its outlook on AVGO’s future price performance.",
+      "importance": 13
+    },
+    {
+      "type": "SVO",
+      "subject": "HSBC",
+      "verb": "Sets",
+      "object": "Target",
+      "sentence": "Broadcom Stock: HSBC Sets $400 Target on AI Growth Potential\nPositive Sentiment:\nKeyCorp issued a bullish forecast for Broadcom’s shares, raising its outlook on AVGO’s future price performance.",
+      "importance": 13
+    },
+    {
+      "type": "SVO",
+      "subject": "KeyCorp",
+      "verb": "issued",
+      "object": "forecast",
+      "sentence": "Broadcom Stock: HSBC Sets $400 Target on AI Growth Potential\nPositive Sentiment:\nKeyCorp issued a bullish forecast for Broadcom’s shares, raising its outlook on AVGO’s future price performance.",
+      "importance": 13
+    },
+    {
+      "type": "SVO",
+      "subject": "KeyCorp",
+      "verb": "Issues",
+      "object": "Forecast",
+      "sentence": "KeyCorp Issues Positive Forecast for Broadcom (NASDAQ:AVGO) Stock Price\nPositive Sentiment:",
+      "importance": 5
+    },
+    {
+      "type": "SVO",
+      "subject": "AVGO",
+      "verb": "hit",
+      "object": "high",
+      "sentence": "AVGO hit a new one-year high following a recent analyst upgrade.",
+      "importance": 6
+    },
+    {
+      "type": "SVO",
+      "subject": "Broadcom",
+      "verb": "Sets",
+      "object": "High",
+      "sentence": "Broadcom (NASDAQ:AVGO) Sets New 1-Year High Following Analyst Upgrade\nPositive Sentiment:\nA Seeking Alpha contributor says forward P/E ratios have dropped sharply, making AVGO shares more attractive and prompting additional purchases.",
+      "importance": 10
+    },
+    {
+      "type": "SVO",
+      "subject": "I",
+      "verb": "Buying",
+      "object": "More",
+      "sentence": "Broadcom: I'm Buying More As Forward P/E Ratios Nosedive\nPositive Sentiment:\nJim Cramer noted that Broadcom’s P/E multiple remains reasonable compared to peers in the AI era.",
+      "importance": 5
+    },
+    {
+      "type": "SVO",
+      "subject": "dive",
+      "verb": "uncovers",
+      "object": "role",
+      "sentence": "A Seeking Alpha deep dive uncovers Broadcom’s critical yet underappreciated role as an AI infrastructure “backbone.”",
+      "importance": 5
+    },
+    {
+      "type": "SVO",
+      "subject": "Backbone",
+      "verb": "Unfolds",
+      "object": "Sentiment",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "importance": 14
+    },
+    {
+      "type": "SVO",
+      "subject": "Pelosi",
+      "verb": "exercised",
+      "object": "options",
+      "sentence": "Insider trading data shows Nancy Pelosi exercised call options on millions of dollars’ worth of AVGO, often viewed as a bullish signal.",
+      "importance": 11
+    },
+    {
+      "type": "SVO",
+      "subject": "Pelosi",
+      "verb": "exercises",
+      "object": "options",
+      "sentence": "Nancy Pelosi exercises call options on Broadcom worth millions\nPositive Sentiment:\nIn a YouTube analysis, Angelo Zino attributes AVGO’s upward trajectory to robust AI revenues and a “monster” software free cash flow engine.",
+      "importance": 11
+    },
+    {
+      "type": "SVO",
+      "subject": "Zino",
+      "verb": "attributes",
+      "object": "trajectory",
+      "sentence": "Nancy Pelosi exercises call options on Broadcom worth millions\nPositive Sentiment:\nIn a YouTube analysis, Angelo Zino attributes AVGO’s upward trajectory to robust AI revenues and a “monster” software free cash flow engine.",
+      "importance": 11
+    },
+    {
+      "type": "SVO",
+      "subject": "Trajectory",
+      "verb": "includes",
+      "object": "Broadcom",
+      "sentence": "AVGO Upward Trajectory Led by A.I. Revenue\nPositive Sentiment:\nMarketBeat includes Broadcom among three secular growth stocks benefiting from trends in AI, medicine and consumer tech.",
+      "importance": 7
+    },
+    {
+      "type": "SVO",
+      "subject": "MarketBeat",
+      "verb": "includes",
+      "object": "Broadcom",
+      "sentence": "AVGO Upward Trajectory Led by A.I. Revenue\nPositive Sentiment:\nMarketBeat includes Broadcom among three secular growth stocks benefiting from trends in AI, medicine and consumer tech.",
+      "importance": 7
+    },
+    {
+      "type": "SVO",
+      "subject": "screener",
+      "verb": "flags",
+      "object": "Broadcom",
+      "sentence": "MarketBeat’s daily screener once again flags Broadcom as a telecom stock to watch alongside peers.",
+      "importance": 4
+    },
+    {
+      "type": "SVO",
+      "subject": "screener",
+      "verb": "listed",
+      "object": "AVGO",
+      "sentence": "Yesterday’s MarketBeat screener also listed AVGO among telecom stocks to research, reflecting continued sector interest.",
+      "importance": 5
+    },
+    {
+      "type": "SVO",
+      "subject": "levels",
+      "verb": "presage",
+      "object": "slowdown",
+      "sentence": "A Seeking Alpha analysis warns that Broadcom’s rising inventory levels could presage a slowdown in end-market demand.",
+      "importance": 5
+    },
+    {
+      "type": "SVO",
+      "subject": "MarketBeat",
+      "verb": "notes",
+      "object": "pullback",
+      "sentence": "MarketBeat notes a 1.6% share pullback recently, attributing it to sector rotation and analyst profit-taking.",
+      "importance": 7
+    },
+    {
+      "type": "SVO",
+      "subject": "Broadcom",
+      "verb": "Contain",
+      "object": "Errors",
+      "sentence": "Broadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "importance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom Inc. (AVGO) shares have been buoyed by strong AI revenue growth, multiple analyst upgrades and favorable valuation commentary.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom Inc. (AVGO) shares have been buoyed by strong AI revenue growth, multiple analyst upgrades and favorable valuation commentary.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom Inc. (AVGO) shares have been buoyed by strong AI revenue growth, multiple analyst upgrades and favorable valuation commentary.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "46",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nA Zacks report highlights a 46% jump in Broadcom’s AI revenues, marking its 10th consecutive quarter of double-digit AI growth.\nBroadcom Rides on Strong AI Demand: What's the Path Ahead?",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nA Zacks report highlights a 46% jump in Broadcom’s AI revenues, marking its 10th consecutive quarter of double-digit AI growth.\nBroadcom Rides on Strong AI Demand: What's the Path Ahead?",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "Broadcom",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nA Zacks report highlights a 46% jump in Broadcom’s AI revenues, marking its 10th consecutive quarter of double-digit AI growth.\nBroadcom Rides on Strong AI Demand: What's the Path Ahead?",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "10th",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nA Zacks report highlights a 46% jump in Broadcom’s AI revenues, marking its 10th consecutive quarter of double-digit AI growth.\nBroadcom Rides on Strong AI Demand: What's the Path Ahead?",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "consecutive",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nA Zacks report highlights a 46% jump in Broadcom’s AI revenues, marking its 10th consecutive quarter of double-digit AI growth.\nBroadcom Rides on Strong AI Demand: What's the Path Ahead?",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "quarter",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nA Zacks report highlights a 46% jump in Broadcom’s AI revenues, marking its 10th consecutive quarter of double-digit AI growth.\nBroadcom Rides on Strong AI Demand: What's the Path Ahead?",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "Broadcom",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nA Zacks report highlights a 46% jump in Broadcom’s AI revenues, marking its 10th consecutive quarter of double-digit AI growth.\nBroadcom Rides on Strong AI Demand: What's the Path Ahead?",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "46",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nA Zacks report highlights a 46% jump in Broadcom’s AI revenues, marking its 10th consecutive quarter of double-digit AI growth.\nBroadcom Rides on Strong AI Demand: What's the Path Ahead?",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "46",
+      "entity1_type": "PERCENT",
+      "entity2": "Broadcom",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nA Zacks report highlights a 46% jump in Broadcom’s AI revenues, marking its 10th consecutive quarter of double-digit AI growth.\nBroadcom Rides on Strong AI Demand: What's the Path Ahead?",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "46",
+      "entity1_type": "PERCENT",
+      "entity2": "10th",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nA Zacks report highlights a 46% jump in Broadcom’s AI revenues, marking its 10th consecutive quarter of double-digit AI growth.\nBroadcom Rides on Strong AI Demand: What's the Path Ahead?",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "46",
+      "entity1_type": "PERCENT",
+      "entity2": "consecutive",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nA Zacks report highlights a 46% jump in Broadcom’s AI revenues, marking its 10th consecutive quarter of double-digit AI growth.\nBroadcom Rides on Strong AI Demand: What's the Path Ahead?",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "46",
+      "entity1_type": "PERCENT",
+      "entity2": "quarter",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nA Zacks report highlights a 46% jump in Broadcom’s AI revenues, marking its 10th consecutive quarter of double-digit AI growth.\nBroadcom Rides on Strong AI Demand: What's the Path Ahead?",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "46",
+      "entity1_type": "PERCENT",
+      "entity2": "Broadcom",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nA Zacks report highlights a 46% jump in Broadcom’s AI revenues, marking its 10th consecutive quarter of double-digit AI growth.\nBroadcom Rides on Strong AI Demand: What's the Path Ahead?",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "Broadcom",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nA Zacks report highlights a 46% jump in Broadcom’s AI revenues, marking its 10th consecutive quarter of double-digit AI growth.\nBroadcom Rides on Strong AI Demand: What's the Path Ahead?",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "10th",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nA Zacks report highlights a 46% jump in Broadcom’s AI revenues, marking its 10th consecutive quarter of double-digit AI growth.\nBroadcom Rides on Strong AI Demand: What's the Path Ahead?",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "consecutive",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nA Zacks report highlights a 46% jump in Broadcom’s AI revenues, marking its 10th consecutive quarter of double-digit AI growth.\nBroadcom Rides on Strong AI Demand: What's the Path Ahead?",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "quarter",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nA Zacks report highlights a 46% jump in Broadcom’s AI revenues, marking its 10th consecutive quarter of double-digit AI growth.\nBroadcom Rides on Strong AI Demand: What's the Path Ahead?",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "Broadcom",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nA Zacks report highlights a 46% jump in Broadcom’s AI revenues, marking its 10th consecutive quarter of double-digit AI growth.\nBroadcom Rides on Strong AI Demand: What's the Path Ahead?",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "10th",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nA Zacks report highlights a 46% jump in Broadcom’s AI revenues, marking its 10th consecutive quarter of double-digit AI growth.\nBroadcom Rides on Strong AI Demand: What's the Path Ahead?",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "consecutive",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nA Zacks report highlights a 46% jump in Broadcom’s AI revenues, marking its 10th consecutive quarter of double-digit AI growth.\nBroadcom Rides on Strong AI Demand: What's the Path Ahead?",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "quarter",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nA Zacks report highlights a 46% jump in Broadcom’s AI revenues, marking its 10th consecutive quarter of double-digit AI growth.\nBroadcom Rides on Strong AI Demand: What's the Path Ahead?",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "Broadcom",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nA Zacks report highlights a 46% jump in Broadcom’s AI revenues, marking its 10th consecutive quarter of double-digit AI growth.\nBroadcom Rides on Strong AI Demand: What's the Path Ahead?",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "10th",
+      "entity1_type": "DATE",
+      "entity2": "consecutive",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nA Zacks report highlights a 46% jump in Broadcom’s AI revenues, marking its 10th consecutive quarter of double-digit AI growth.\nBroadcom Rides on Strong AI Demand: What's the Path Ahead?",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "10th",
+      "entity1_type": "DATE",
+      "entity2": "quarter",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nA Zacks report highlights a 46% jump in Broadcom’s AI revenues, marking its 10th consecutive quarter of double-digit AI growth.\nBroadcom Rides on Strong AI Demand: What's the Path Ahead?",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "10th",
+      "entity1_type": "DATE",
+      "entity2": "Broadcom",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nA Zacks report highlights a 46% jump in Broadcom’s AI revenues, marking its 10th consecutive quarter of double-digit AI growth.\nBroadcom Rides on Strong AI Demand: What's the Path Ahead?",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "consecutive",
+      "entity1_type": "DATE",
+      "entity2": "quarter",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nA Zacks report highlights a 46% jump in Broadcom’s AI revenues, marking its 10th consecutive quarter of double-digit AI growth.\nBroadcom Rides on Strong AI Demand: What's the Path Ahead?",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "consecutive",
+      "entity1_type": "DATE",
+      "entity2": "Broadcom",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nA Zacks report highlights a 46% jump in Broadcom’s AI revenues, marking its 10th consecutive quarter of double-digit AI growth.\nBroadcom Rides on Strong AI Demand: What's the Path Ahead?",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "quarter",
+      "entity1_type": "DATE",
+      "entity2": "Broadcom",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nA Zacks report highlights a 46% jump in Broadcom’s AI revenues, marking its 10th consecutive quarter of double-digit AI growth.\nBroadcom Rides on Strong AI Demand: What's the Path Ahead?",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "The",
+      "entity1_type": "ORG",
+      "entity2": "Globe",
+      "entity2_type": "ORG",
+      "sentence": "The Globe and Mail notes that Goldman Sachs initiated coverage of AVGO with a “Buy” rating and a $315 price target.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "The",
+      "entity1_type": "ORG",
+      "entity2": "and",
+      "entity2_type": "ORG",
+      "sentence": "The Globe and Mail notes that Goldman Sachs initiated coverage of AVGO with a “Buy” rating and a $315 price target.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "The",
+      "entity1_type": "ORG",
+      "entity2": "Mail",
+      "entity2_type": "ORG",
+      "sentence": "The Globe and Mail notes that Goldman Sachs initiated coverage of AVGO with a “Buy” rating and a $315 price target.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "The",
+      "entity1_type": "ORG",
+      "entity2": "Goldman",
+      "entity2_type": "ORG",
+      "sentence": "The Globe and Mail notes that Goldman Sachs initiated coverage of AVGO with a “Buy” rating and a $315 price target.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "The",
+      "entity1_type": "ORG",
+      "entity2": "Sachs",
+      "entity2_type": "ORG",
+      "sentence": "The Globe and Mail notes that Goldman Sachs initiated coverage of AVGO with a “Buy” rating and a $315 price target.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "The",
+      "entity1_type": "ORG",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "The Globe and Mail notes that Goldman Sachs initiated coverage of AVGO with a “Buy” rating and a $315 price target.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "The",
+      "entity1_type": "ORG",
+      "entity2": "315",
+      "entity2_type": "MONEY",
+      "sentence": "The Globe and Mail notes that Goldman Sachs initiated coverage of AVGO with a “Buy” rating and a $315 price target.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Globe",
+      "entity1_type": "ORG",
+      "entity2": "and",
+      "entity2_type": "ORG",
+      "sentence": "The Globe and Mail notes that Goldman Sachs initiated coverage of AVGO with a “Buy” rating and a $315 price target.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Globe",
+      "entity1_type": "ORG",
+      "entity2": "Mail",
+      "entity2_type": "ORG",
+      "sentence": "The Globe and Mail notes that Goldman Sachs initiated coverage of AVGO with a “Buy” rating and a $315 price target.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Globe",
+      "entity1_type": "ORG",
+      "entity2": "Goldman",
+      "entity2_type": "ORG",
+      "sentence": "The Globe and Mail notes that Goldman Sachs initiated coverage of AVGO with a “Buy” rating and a $315 price target.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Globe",
+      "entity1_type": "ORG",
+      "entity2": "Sachs",
+      "entity2_type": "ORG",
+      "sentence": "The Globe and Mail notes that Goldman Sachs initiated coverage of AVGO with a “Buy” rating and a $315 price target.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Globe",
+      "entity1_type": "ORG",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "The Globe and Mail notes that Goldman Sachs initiated coverage of AVGO with a “Buy” rating and a $315 price target.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Globe",
+      "entity1_type": "ORG",
+      "entity2": "315",
+      "entity2_type": "MONEY",
+      "sentence": "The Globe and Mail notes that Goldman Sachs initiated coverage of AVGO with a “Buy” rating and a $315 price target.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "and",
+      "entity1_type": "ORG",
+      "entity2": "Mail",
+      "entity2_type": "ORG",
+      "sentence": "The Globe and Mail notes that Goldman Sachs initiated coverage of AVGO with a “Buy” rating and a $315 price target.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "and",
+      "entity1_type": "ORG",
+      "entity2": "Goldman",
+      "entity2_type": "ORG",
+      "sentence": "The Globe and Mail notes that Goldman Sachs initiated coverage of AVGO with a “Buy” rating and a $315 price target.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "and",
+      "entity1_type": "ORG",
+      "entity2": "Sachs",
+      "entity2_type": "ORG",
+      "sentence": "The Globe and Mail notes that Goldman Sachs initiated coverage of AVGO with a “Buy” rating and a $315 price target.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "and",
+      "entity1_type": "ORG",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "The Globe and Mail notes that Goldman Sachs initiated coverage of AVGO with a “Buy” rating and a $315 price target.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "and",
+      "entity1_type": "ORG",
+      "entity2": "315",
+      "entity2_type": "MONEY",
+      "sentence": "The Globe and Mail notes that Goldman Sachs initiated coverage of AVGO with a “Buy” rating and a $315 price target.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mail",
+      "entity1_type": "ORG",
+      "entity2": "Goldman",
+      "entity2_type": "ORG",
+      "sentence": "The Globe and Mail notes that Goldman Sachs initiated coverage of AVGO with a “Buy” rating and a $315 price target.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mail",
+      "entity1_type": "ORG",
+      "entity2": "Sachs",
+      "entity2_type": "ORG",
+      "sentence": "The Globe and Mail notes that Goldman Sachs initiated coverage of AVGO with a “Buy” rating and a $315 price target.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mail",
+      "entity1_type": "ORG",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "The Globe and Mail notes that Goldman Sachs initiated coverage of AVGO with a “Buy” rating and a $315 price target.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mail",
+      "entity1_type": "ORG",
+      "entity2": "315",
+      "entity2_type": "MONEY",
+      "sentence": "The Globe and Mail notes that Goldman Sachs initiated coverage of AVGO with a “Buy” rating and a $315 price target.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Goldman",
+      "entity1_type": "ORG",
+      "entity2": "Sachs",
+      "entity2_type": "ORG",
+      "sentence": "The Globe and Mail notes that Goldman Sachs initiated coverage of AVGO with a “Buy” rating and a $315 price target.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Goldman",
+      "entity1_type": "ORG",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "The Globe and Mail notes that Goldman Sachs initiated coverage of AVGO with a “Buy” rating and a $315 price target.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Goldman",
+      "entity1_type": "ORG",
+      "entity2": "315",
+      "entity2_type": "MONEY",
+      "sentence": "The Globe and Mail notes that Goldman Sachs initiated coverage of AVGO with a “Buy” rating and a $315 price target.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sachs",
+      "entity1_type": "ORG",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "The Globe and Mail notes that Goldman Sachs initiated coverage of AVGO with a “Buy” rating and a $315 price target.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sachs",
+      "entity1_type": "ORG",
+      "entity2": "315",
+      "entity2_type": "MONEY",
+      "sentence": "The Globe and Mail notes that Goldman Sachs initiated coverage of AVGO with a “Buy” rating and a $315 price target.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AVGO",
+      "entity1_type": "ORG",
+      "entity2": "315",
+      "entity2_type": "MONEY",
+      "sentence": "The Globe and Mail notes that Goldman Sachs initiated coverage of AVGO with a “Buy” rating and a $315 price target.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom (AVGO) Initiated with a Buy at Goldman Sachs\nPositive Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "Goldman",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom (AVGO) Initiated with a Buy at Goldman Sachs\nPositive Sentiment:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "Sachs",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom (AVGO) Initiated with a Buy at Goldman Sachs\nPositive Sentiment:",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AVGO",
+      "entity1_type": "ORG",
+      "entity2": "Goldman",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom (AVGO) Initiated with a Buy at Goldman Sachs\nPositive Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AVGO",
+      "entity1_type": "ORG",
+      "entity2": "Sachs",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom (AVGO) Initiated with a Buy at Goldman Sachs\nPositive Sentiment:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Goldman",
+      "entity1_type": "ORG",
+      "entity2": "Sachs",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom (AVGO) Initiated with a Buy at Goldman Sachs\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "HSBC",
+      "entity1_type": "ORG",
+      "entity2": "400",
+      "entity2_type": "MONEY",
+      "sentence": "HSBC set a $400 target on AVGO, citing continued AI-driven expansion despite acknowledging near-term valuation risks.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "HSBC",
+      "entity1_type": "ORG",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "HSBC set a $400 target on AVGO, citing continued AI-driven expansion despite acknowledging near-term valuation risks.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "400",
+      "entity1_type": "MONEY",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "HSBC set a $400 target on AVGO, citing continued AI-driven expansion despite acknowledging near-term valuation risks.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "HSBC",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom Stock: HSBC Sets $400 Target on AI Growth Potential\nPositive Sentiment:\nKeyCorp issued a bullish forecast for Broadcom’s shares, raising its outlook on AVGO’s future price performance.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "400",
+      "entity2_type": "MONEY",
+      "sentence": "Broadcom Stock: HSBC Sets $400 Target on AI Growth Potential\nPositive Sentiment:\nKeyCorp issued a bullish forecast for Broadcom’s shares, raising its outlook on AVGO’s future price performance.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "KeyCorp",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom Stock: HSBC Sets $400 Target on AI Growth Potential\nPositive Sentiment:\nKeyCorp issued a bullish forecast for Broadcom’s shares, raising its outlook on AVGO’s future price performance.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "Broadcom",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom Stock: HSBC Sets $400 Target on AI Growth Potential\nPositive Sentiment:\nKeyCorp issued a bullish forecast for Broadcom’s shares, raising its outlook on AVGO’s future price performance.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom Stock: HSBC Sets $400 Target on AI Growth Potential\nPositive Sentiment:\nKeyCorp issued a bullish forecast for Broadcom’s shares, raising its outlook on AVGO’s future price performance.",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "HSBC",
+      "entity1_type": "ORG",
+      "entity2": "400",
+      "entity2_type": "MONEY",
+      "sentence": "Broadcom Stock: HSBC Sets $400 Target on AI Growth Potential\nPositive Sentiment:\nKeyCorp issued a bullish forecast for Broadcom’s shares, raising its outlook on AVGO’s future price performance.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "HSBC",
+      "entity1_type": "ORG",
+      "entity2": "KeyCorp",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom Stock: HSBC Sets $400 Target on AI Growth Potential\nPositive Sentiment:\nKeyCorp issued a bullish forecast for Broadcom’s shares, raising its outlook on AVGO’s future price performance.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "HSBC",
+      "entity1_type": "ORG",
+      "entity2": "Broadcom",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom Stock: HSBC Sets $400 Target on AI Growth Potential\nPositive Sentiment:\nKeyCorp issued a bullish forecast for Broadcom’s shares, raising its outlook on AVGO’s future price performance.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "HSBC",
+      "entity1_type": "ORG",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom Stock: HSBC Sets $400 Target on AI Growth Potential\nPositive Sentiment:\nKeyCorp issued a bullish forecast for Broadcom’s shares, raising its outlook on AVGO’s future price performance.",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "400",
+      "entity1_type": "MONEY",
+      "entity2": "KeyCorp",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom Stock: HSBC Sets $400 Target on AI Growth Potential\nPositive Sentiment:\nKeyCorp issued a bullish forecast for Broadcom’s shares, raising its outlook on AVGO’s future price performance.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "400",
+      "entity1_type": "MONEY",
+      "entity2": "Broadcom",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom Stock: HSBC Sets $400 Target on AI Growth Potential\nPositive Sentiment:\nKeyCorp issued a bullish forecast for Broadcom’s shares, raising its outlook on AVGO’s future price performance.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "400",
+      "entity1_type": "MONEY",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom Stock: HSBC Sets $400 Target on AI Growth Potential\nPositive Sentiment:\nKeyCorp issued a bullish forecast for Broadcom’s shares, raising its outlook on AVGO’s future price performance.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KeyCorp",
+      "entity1_type": "ORG",
+      "entity2": "Broadcom",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom Stock: HSBC Sets $400 Target on AI Growth Potential\nPositive Sentiment:\nKeyCorp issued a bullish forecast for Broadcom’s shares, raising its outlook on AVGO’s future price performance.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KeyCorp",
+      "entity1_type": "ORG",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom Stock: HSBC Sets $400 Target on AI Growth Potential\nPositive Sentiment:\nKeyCorp issued a bullish forecast for Broadcom’s shares, raising its outlook on AVGO’s future price performance.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom Stock: HSBC Sets $400 Target on AI Growth Potential\nPositive Sentiment:\nKeyCorp issued a bullish forecast for Broadcom’s shares, raising its outlook on AVGO’s future price performance.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KeyCorp",
+      "entity1_type": "ORG",
+      "entity2": "Broadcom",
+      "entity2_type": "ORG",
+      "sentence": "KeyCorp Issues Positive Forecast for Broadcom (NASDAQ:AVGO) Stock Price\nPositive Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KeyCorp",
+      "entity1_type": "ORG",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "KeyCorp Issues Positive Forecast for Broadcom (NASDAQ:AVGO) Stock Price\nPositive Sentiment:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "KeyCorp Issues Positive Forecast for Broadcom (NASDAQ:AVGO) Stock Price\nPositive Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AVGO",
+      "entity1_type": "ORG",
+      "entity2": "one",
+      "entity2_type": "DATE",
+      "sentence": "AVGO hit a new one-year high following a recent analyst upgrade.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AVGO",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "AVGO hit a new one-year high following a recent analyst upgrade.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AVGO",
+      "entity1_type": "ORG",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "AVGO hit a new one-year high following a recent analyst upgrade.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "one",
+      "entity1_type": "DATE",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "AVGO hit a new one-year high following a recent analyst upgrade.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "one",
+      "entity1_type": "DATE",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "AVGO hit a new one-year high following a recent analyst upgrade.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "DATE",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "AVGO hit a new one-year high following a recent analyst upgrade.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom (NASDAQ:AVGO) Sets New 1-Year High Following Analyst Upgrade\nPositive Sentiment:\nA Seeking Alpha contributor says forward P/E ratios have dropped sharply, making AVGO shares more attractive and prompting additional purchases.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom (NASDAQ:AVGO) Sets New 1-Year High Following Analyst Upgrade\nPositive Sentiment:\nA Seeking Alpha contributor says forward P/E ratios have dropped sharply, making AVGO shares more attractive and prompting additional purchases.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom (NASDAQ:AVGO) Sets New 1-Year High Following Analyst Upgrade\nPositive Sentiment:\nA Seeking Alpha contributor says forward P/E ratios have dropped sharply, making AVGO shares more attractive and prompting additional purchases.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "Year",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom (NASDAQ:AVGO) Sets New 1-Year High Following Analyst Upgrade\nPositive Sentiment:\nA Seeking Alpha contributor says forward P/E ratios have dropped sharply, making AVGO shares more attractive and prompting additional purchases.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "Seeking",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom (NASDAQ:AVGO) Sets New 1-Year High Following Analyst Upgrade\nPositive Sentiment:\nA Seeking Alpha contributor says forward P/E ratios have dropped sharply, making AVGO shares more attractive and prompting additional purchases.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "Alpha",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom (NASDAQ:AVGO) Sets New 1-Year High Following Analyst Upgrade\nPositive Sentiment:\nA Seeking Alpha contributor says forward P/E ratios have dropped sharply, making AVGO shares more attractive and prompting additional purchases.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom (NASDAQ:AVGO) Sets New 1-Year High Following Analyst Upgrade\nPositive Sentiment:\nA Seeking Alpha contributor says forward P/E ratios have dropped sharply, making AVGO shares more attractive and prompting additional purchases.",
+      "distance": 35
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AVGO",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom (NASDAQ:AVGO) Sets New 1-Year High Following Analyst Upgrade\nPositive Sentiment:\nA Seeking Alpha contributor says forward P/E ratios have dropped sharply, making AVGO shares more attractive and prompting additional purchases.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AVGO",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom (NASDAQ:AVGO) Sets New 1-Year High Following Analyst Upgrade\nPositive Sentiment:\nA Seeking Alpha contributor says forward P/E ratios have dropped sharply, making AVGO shares more attractive and prompting additional purchases.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AVGO",
+      "entity1_type": "ORG",
+      "entity2": "Year",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom (NASDAQ:AVGO) Sets New 1-Year High Following Analyst Upgrade\nPositive Sentiment:\nA Seeking Alpha contributor says forward P/E ratios have dropped sharply, making AVGO shares more attractive and prompting additional purchases.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AVGO",
+      "entity1_type": "ORG",
+      "entity2": "Seeking",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom (NASDAQ:AVGO) Sets New 1-Year High Following Analyst Upgrade\nPositive Sentiment:\nA Seeking Alpha contributor says forward P/E ratios have dropped sharply, making AVGO shares more attractive and prompting additional purchases.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AVGO",
+      "entity1_type": "ORG",
+      "entity2": "Alpha",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom (NASDAQ:AVGO) Sets New 1-Year High Following Analyst Upgrade\nPositive Sentiment:\nA Seeking Alpha contributor says forward P/E ratios have dropped sharply, making AVGO shares more attractive and prompting additional purchases.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AVGO",
+      "entity1_type": "ORG",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom (NASDAQ:AVGO) Sets New 1-Year High Following Analyst Upgrade\nPositive Sentiment:\nA Seeking Alpha contributor says forward P/E ratios have dropped sharply, making AVGO shares more attractive and prompting additional purchases.",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom (NASDAQ:AVGO) Sets New 1-Year High Following Analyst Upgrade\nPositive Sentiment:\nA Seeking Alpha contributor says forward P/E ratios have dropped sharply, making AVGO shares more attractive and prompting additional purchases.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "Year",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom (NASDAQ:AVGO) Sets New 1-Year High Following Analyst Upgrade\nPositive Sentiment:\nA Seeking Alpha contributor says forward P/E ratios have dropped sharply, making AVGO shares more attractive and prompting additional purchases.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "Seeking",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom (NASDAQ:AVGO) Sets New 1-Year High Following Analyst Upgrade\nPositive Sentiment:\nA Seeking Alpha contributor says forward P/E ratios have dropped sharply, making AVGO shares more attractive and prompting additional purchases.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "Alpha",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom (NASDAQ:AVGO) Sets New 1-Year High Following Analyst Upgrade\nPositive Sentiment:\nA Seeking Alpha contributor says forward P/E ratios have dropped sharply, making AVGO shares more attractive and prompting additional purchases.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom (NASDAQ:AVGO) Sets New 1-Year High Following Analyst Upgrade\nPositive Sentiment:\nA Seeking Alpha contributor says forward P/E ratios have dropped sharply, making AVGO shares more attractive and prompting additional purchases.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "DATE",
+      "entity2": "Year",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom (NASDAQ:AVGO) Sets New 1-Year High Following Analyst Upgrade\nPositive Sentiment:\nA Seeking Alpha contributor says forward P/E ratios have dropped sharply, making AVGO shares more attractive and prompting additional purchases.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "DATE",
+      "entity2": "Seeking",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom (NASDAQ:AVGO) Sets New 1-Year High Following Analyst Upgrade\nPositive Sentiment:\nA Seeking Alpha contributor says forward P/E ratios have dropped sharply, making AVGO shares more attractive and prompting additional purchases.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "DATE",
+      "entity2": "Alpha",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom (NASDAQ:AVGO) Sets New 1-Year High Following Analyst Upgrade\nPositive Sentiment:\nA Seeking Alpha contributor says forward P/E ratios have dropped sharply, making AVGO shares more attractive and prompting additional purchases.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "DATE",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom (NASDAQ:AVGO) Sets New 1-Year High Following Analyst Upgrade\nPositive Sentiment:\nA Seeking Alpha contributor says forward P/E ratios have dropped sharply, making AVGO shares more attractive and prompting additional purchases.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Year",
+      "entity1_type": "DATE",
+      "entity2": "Seeking",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom (NASDAQ:AVGO) Sets New 1-Year High Following Analyst Upgrade\nPositive Sentiment:\nA Seeking Alpha contributor says forward P/E ratios have dropped sharply, making AVGO shares more attractive and prompting additional purchases.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Year",
+      "entity1_type": "DATE",
+      "entity2": "Alpha",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom (NASDAQ:AVGO) Sets New 1-Year High Following Analyst Upgrade\nPositive Sentiment:\nA Seeking Alpha contributor says forward P/E ratios have dropped sharply, making AVGO shares more attractive and prompting additional purchases.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Year",
+      "entity1_type": "DATE",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom (NASDAQ:AVGO) Sets New 1-Year High Following Analyst Upgrade\nPositive Sentiment:\nA Seeking Alpha contributor says forward P/E ratios have dropped sharply, making AVGO shares more attractive and prompting additional purchases.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seeking",
+      "entity1_type": "ORG",
+      "entity2": "Alpha",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom (NASDAQ:AVGO) Sets New 1-Year High Following Analyst Upgrade\nPositive Sentiment:\nA Seeking Alpha contributor says forward P/E ratios have dropped sharply, making AVGO shares more attractive and prompting additional purchases.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seeking",
+      "entity1_type": "ORG",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom (NASDAQ:AVGO) Sets New 1-Year High Following Analyst Upgrade\nPositive Sentiment:\nA Seeking Alpha contributor says forward P/E ratios have dropped sharply, making AVGO shares more attractive and prompting additional purchases.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Alpha",
+      "entity1_type": "ORG",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom (NASDAQ:AVGO) Sets New 1-Year High Following Analyst Upgrade\nPositive Sentiment:\nA Seeking Alpha contributor says forward P/E ratios have dropped sharply, making AVGO shares more attractive and prompting additional purchases.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "Jim",
+      "entity2_type": "PERSON",
+      "sentence": "Broadcom: I'm Buying More As Forward P/E Ratios Nosedive\nPositive Sentiment:\nJim Cramer noted that Broadcom’s P/E multiple remains reasonable compared to peers in the AI era.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "Cramer",
+      "entity2_type": "PERSON",
+      "sentence": "Broadcom: I'm Buying More As Forward P/E Ratios Nosedive\nPositive Sentiment:\nJim Cramer noted that Broadcom’s P/E multiple remains reasonable compared to peers in the AI era.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "Broadcom",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom: I'm Buying More As Forward P/E Ratios Nosedive\nPositive Sentiment:\nJim Cramer noted that Broadcom’s P/E multiple remains reasonable compared to peers in the AI era.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jim",
+      "entity1_type": "PERSON",
+      "entity2": "Cramer",
+      "entity2_type": "PERSON",
+      "sentence": "Broadcom: I'm Buying More As Forward P/E Ratios Nosedive\nPositive Sentiment:\nJim Cramer noted that Broadcom’s P/E multiple remains reasonable compared to peers in the AI era.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jim",
+      "entity1_type": "PERSON",
+      "entity2": "Broadcom",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom: I'm Buying More As Forward P/E Ratios Nosedive\nPositive Sentiment:\nJim Cramer noted that Broadcom’s P/E multiple remains reasonable compared to peers in the AI era.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cramer",
+      "entity1_type": "PERSON",
+      "entity2": "Broadcom",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom: I'm Buying More As Forward P/E Ratios Nosedive\nPositive Sentiment:\nJim Cramer noted that Broadcom’s P/E multiple remains reasonable compared to peers in the AI era.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom Inc. (AVGO) Isn’t That High When It Comes To A P/E Multiple, Says Jim Cramer\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom Inc. (AVGO) Isn’t That High When It Comes To A P/E Multiple, Says Jim Cramer\nPositive Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "Jim",
+      "entity2_type": "PERSON",
+      "sentence": "Broadcom Inc. (AVGO) Isn’t That High When It Comes To A P/E Multiple, Says Jim Cramer\nPositive Sentiment:",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "Cramer",
+      "entity2_type": "PERSON",
+      "sentence": "Broadcom Inc. (AVGO) Isn’t That High When It Comes To A P/E Multiple, Says Jim Cramer\nPositive Sentiment:",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom Inc. (AVGO) Isn’t That High When It Comes To A P/E Multiple, Says Jim Cramer\nPositive Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "Jim",
+      "entity2_type": "PERSON",
+      "sentence": "Broadcom Inc. (AVGO) Isn’t That High When It Comes To A P/E Multiple, Says Jim Cramer\nPositive Sentiment:",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "Cramer",
+      "entity2_type": "PERSON",
+      "sentence": "Broadcom Inc. (AVGO) Isn’t That High When It Comes To A P/E Multiple, Says Jim Cramer\nPositive Sentiment:",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AVGO",
+      "entity1_type": "ORG",
+      "entity2": "Jim",
+      "entity2_type": "PERSON",
+      "sentence": "Broadcom Inc. (AVGO) Isn’t That High When It Comes To A P/E Multiple, Says Jim Cramer\nPositive Sentiment:",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AVGO",
+      "entity1_type": "ORG",
+      "entity2": "Cramer",
+      "entity2_type": "PERSON",
+      "sentence": "Broadcom Inc. (AVGO) Isn’t That High When It Comes To A P/E Multiple, Says Jim Cramer\nPositive Sentiment:",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jim",
+      "entity1_type": "PERSON",
+      "entity2": "Cramer",
+      "entity2_type": "PERSON",
+      "sentence": "Broadcom Inc. (AVGO) Isn’t That High When It Comes To A P/E Multiple, Says Jim Cramer\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seeking",
+      "entity1_type": "ORG",
+      "entity2": "Alpha",
+      "entity2_type": "ORG",
+      "sentence": "A Seeking Alpha deep dive uncovers Broadcom’s critical yet underappreciated role as an AI infrastructure “backbone.”",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seeking",
+      "entity1_type": "ORG",
+      "entity2": "Broadcom",
+      "entity2_type": "ORG",
+      "sentence": "A Seeking Alpha deep dive uncovers Broadcom’s critical yet underappreciated role as an AI infrastructure “backbone.”",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Alpha",
+      "entity1_type": "ORG",
+      "entity2": "Broadcom",
+      "entity2_type": "ORG",
+      "sentence": "A Seeking Alpha deep dive uncovers Broadcom’s critical yet underappreciated role as an AI infrastructure “backbone.”",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "MSN",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "Broadcom",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "Q1",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "the",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "next",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "quarter",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "Broadcom",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 33
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "Q1",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 37
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MSN",
+      "entity1_type": "ORG",
+      "entity2": "Broadcom",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MSN",
+      "entity1_type": "ORG",
+      "entity2": "Q1",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MSN",
+      "entity1_type": "ORG",
+      "entity2": "the",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MSN",
+      "entity1_type": "ORG",
+      "entity2": "next",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MSN",
+      "entity1_type": "ORG",
+      "entity2": "quarter",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MSN",
+      "entity1_type": "ORG",
+      "entity2": "Broadcom",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MSN",
+      "entity1_type": "ORG",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MSN",
+      "entity1_type": "ORG",
+      "entity2": "Q1",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "Q1",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "the",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "next",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "quarter",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "Broadcom",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "Q1",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q1",
+      "entity1_type": "DATE",
+      "entity2": "the",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q1",
+      "entity1_type": "DATE",
+      "entity2": "next",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q1",
+      "entity1_type": "DATE",
+      "entity2": "quarter",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q1",
+      "entity1_type": "DATE",
+      "entity2": "Broadcom",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q1",
+      "entity1_type": "DATE",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q1",
+      "entity1_type": "DATE",
+      "entity2": "Q1",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "next",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "quarter",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "Broadcom",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "Q1",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "next",
+      "entity1_type": "DATE",
+      "entity2": "quarter",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "next",
+      "entity1_type": "DATE",
+      "entity2": "Broadcom",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "next",
+      "entity1_type": "DATE",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "next",
+      "entity1_type": "DATE",
+      "entity2": "Q1",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "quarter",
+      "entity1_type": "DATE",
+      "entity2": "Broadcom",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "quarter",
+      "entity1_type": "DATE",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "quarter",
+      "entity1_type": "DATE",
+      "entity2": "Q1",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "Q1",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AVGO",
+      "entity1_type": "ORG",
+      "entity2": "Q1",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nancy",
+      "entity1_type": "PERSON",
+      "entity2": "Pelosi",
+      "entity2_type": "PERSON",
+      "sentence": "Insider trading data shows Nancy Pelosi exercised call options on millions of dollars’ worth of AVGO, often viewed as a bullish signal.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nancy",
+      "entity1_type": "PERSON",
+      "entity2": "millions",
+      "entity2_type": "MONEY",
+      "sentence": "Insider trading data shows Nancy Pelosi exercised call options on millions of dollars’ worth of AVGO, often viewed as a bullish signal.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nancy",
+      "entity1_type": "PERSON",
+      "entity2": "of",
+      "entity2_type": "MONEY",
+      "sentence": "Insider trading data shows Nancy Pelosi exercised call options on millions of dollars’ worth of AVGO, often viewed as a bullish signal.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nancy",
+      "entity1_type": "PERSON",
+      "entity2": "dollars",
+      "entity2_type": "MONEY",
+      "sentence": "Insider trading data shows Nancy Pelosi exercised call options on millions of dollars’ worth of AVGO, often viewed as a bullish signal.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nancy",
+      "entity1_type": "PERSON",
+      "entity2": "’",
+      "entity2_type": "MONEY",
+      "sentence": "Insider trading data shows Nancy Pelosi exercised call options on millions of dollars’ worth of AVGO, often viewed as a bullish signal.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nancy",
+      "entity1_type": "PERSON",
+      "entity2": "worth",
+      "entity2_type": "MONEY",
+      "sentence": "Insider trading data shows Nancy Pelosi exercised call options on millions of dollars’ worth of AVGO, often viewed as a bullish signal.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nancy",
+      "entity1_type": "PERSON",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "Insider trading data shows Nancy Pelosi exercised call options on millions of dollars’ worth of AVGO, often viewed as a bullish signal.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pelosi",
+      "entity1_type": "PERSON",
+      "entity2": "millions",
+      "entity2_type": "MONEY",
+      "sentence": "Insider trading data shows Nancy Pelosi exercised call options on millions of dollars’ worth of AVGO, often viewed as a bullish signal.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pelosi",
+      "entity1_type": "PERSON",
+      "entity2": "of",
+      "entity2_type": "MONEY",
+      "sentence": "Insider trading data shows Nancy Pelosi exercised call options on millions of dollars’ worth of AVGO, often viewed as a bullish signal.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pelosi",
+      "entity1_type": "PERSON",
+      "entity2": "dollars",
+      "entity2_type": "MONEY",
+      "sentence": "Insider trading data shows Nancy Pelosi exercised call options on millions of dollars’ worth of AVGO, often viewed as a bullish signal.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pelosi",
+      "entity1_type": "PERSON",
+      "entity2": "’",
+      "entity2_type": "MONEY",
+      "sentence": "Insider trading data shows Nancy Pelosi exercised call options on millions of dollars’ worth of AVGO, often viewed as a bullish signal.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pelosi",
+      "entity1_type": "PERSON",
+      "entity2": "worth",
+      "entity2_type": "MONEY",
+      "sentence": "Insider trading data shows Nancy Pelosi exercised call options on millions of dollars’ worth of AVGO, often viewed as a bullish signal.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pelosi",
+      "entity1_type": "PERSON",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "Insider trading data shows Nancy Pelosi exercised call options on millions of dollars’ worth of AVGO, often viewed as a bullish signal.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "millions",
+      "entity1_type": "MONEY",
+      "entity2": "of",
+      "entity2_type": "MONEY",
+      "sentence": "Insider trading data shows Nancy Pelosi exercised call options on millions of dollars’ worth of AVGO, often viewed as a bullish signal.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "millions",
+      "entity1_type": "MONEY",
+      "entity2": "dollars",
+      "entity2_type": "MONEY",
+      "sentence": "Insider trading data shows Nancy Pelosi exercised call options on millions of dollars’ worth of AVGO, often viewed as a bullish signal.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "millions",
+      "entity1_type": "MONEY",
+      "entity2": "’",
+      "entity2_type": "MONEY",
+      "sentence": "Insider trading data shows Nancy Pelosi exercised call options on millions of dollars’ worth of AVGO, often viewed as a bullish signal.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "millions",
+      "entity1_type": "MONEY",
+      "entity2": "worth",
+      "entity2_type": "MONEY",
+      "sentence": "Insider trading data shows Nancy Pelosi exercised call options on millions of dollars’ worth of AVGO, often viewed as a bullish signal.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "millions",
+      "entity1_type": "MONEY",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "Insider trading data shows Nancy Pelosi exercised call options on millions of dollars’ worth of AVGO, often viewed as a bullish signal.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "of",
+      "entity1_type": "MONEY",
+      "entity2": "dollars",
+      "entity2_type": "MONEY",
+      "sentence": "Insider trading data shows Nancy Pelosi exercised call options on millions of dollars’ worth of AVGO, often viewed as a bullish signal.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "of",
+      "entity1_type": "MONEY",
+      "entity2": "’",
+      "entity2_type": "MONEY",
+      "sentence": "Insider trading data shows Nancy Pelosi exercised call options on millions of dollars’ worth of AVGO, often viewed as a bullish signal.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "of",
+      "entity1_type": "MONEY",
+      "entity2": "worth",
+      "entity2_type": "MONEY",
+      "sentence": "Insider trading data shows Nancy Pelosi exercised call options on millions of dollars’ worth of AVGO, often viewed as a bullish signal.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "of",
+      "entity1_type": "MONEY",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "Insider trading data shows Nancy Pelosi exercised call options on millions of dollars’ worth of AVGO, often viewed as a bullish signal.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "dollars",
+      "entity1_type": "MONEY",
+      "entity2": "’",
+      "entity2_type": "MONEY",
+      "sentence": "Insider trading data shows Nancy Pelosi exercised call options on millions of dollars’ worth of AVGO, often viewed as a bullish signal.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "dollars",
+      "entity1_type": "MONEY",
+      "entity2": "worth",
+      "entity2_type": "MONEY",
+      "sentence": "Insider trading data shows Nancy Pelosi exercised call options on millions of dollars’ worth of AVGO, often viewed as a bullish signal.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "dollars",
+      "entity1_type": "MONEY",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "Insider trading data shows Nancy Pelosi exercised call options on millions of dollars’ worth of AVGO, often viewed as a bullish signal.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’",
+      "entity1_type": "MONEY",
+      "entity2": "worth",
+      "entity2_type": "MONEY",
+      "sentence": "Insider trading data shows Nancy Pelosi exercised call options on millions of dollars’ worth of AVGO, often viewed as a bullish signal.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’",
+      "entity1_type": "MONEY",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "Insider trading data shows Nancy Pelosi exercised call options on millions of dollars’ worth of AVGO, often viewed as a bullish signal.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "worth",
+      "entity1_type": "MONEY",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "Insider trading data shows Nancy Pelosi exercised call options on millions of dollars’ worth of AVGO, often viewed as a bullish signal.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nancy",
+      "entity1_type": "PERSON",
+      "entity2": "Pelosi",
+      "entity2_type": "PERSON",
+      "sentence": "Nancy Pelosi exercises call options on Broadcom worth millions\nPositive Sentiment:\nIn a YouTube analysis, Angelo Zino attributes AVGO’s upward trajectory to robust AI revenues and a “monster” software free cash flow engine.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nancy",
+      "entity1_type": "PERSON",
+      "entity2": "Broadcom",
+      "entity2_type": "ORG",
+      "sentence": "Nancy Pelosi exercises call options on Broadcom worth millions\nPositive Sentiment:\nIn a YouTube analysis, Angelo Zino attributes AVGO’s upward trajectory to robust AI revenues and a “monster” software free cash flow engine.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nancy",
+      "entity1_type": "PERSON",
+      "entity2": "millions",
+      "entity2_type": "CARDINAL",
+      "sentence": "Nancy Pelosi exercises call options on Broadcom worth millions\nPositive Sentiment:\nIn a YouTube analysis, Angelo Zino attributes AVGO’s upward trajectory to robust AI revenues and a “monster” software free cash flow engine.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nancy",
+      "entity1_type": "PERSON",
+      "entity2": "YouTube",
+      "entity2_type": "ORG",
+      "sentence": "Nancy Pelosi exercises call options on Broadcom worth millions\nPositive Sentiment:\nIn a YouTube analysis, Angelo Zino attributes AVGO’s upward trajectory to robust AI revenues and a “monster” software free cash flow engine.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nancy",
+      "entity1_type": "PERSON",
+      "entity2": "Angelo",
+      "entity2_type": "PERSON",
+      "sentence": "Nancy Pelosi exercises call options on Broadcom worth millions\nPositive Sentiment:\nIn a YouTube analysis, Angelo Zino attributes AVGO’s upward trajectory to robust AI revenues and a “monster” software free cash flow engine.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nancy",
+      "entity1_type": "PERSON",
+      "entity2": "Zino",
+      "entity2_type": "PERSON",
+      "sentence": "Nancy Pelosi exercises call options on Broadcom worth millions\nPositive Sentiment:\nIn a YouTube analysis, Angelo Zino attributes AVGO’s upward trajectory to robust AI revenues and a “monster” software free cash flow engine.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nancy",
+      "entity1_type": "PERSON",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "Nancy Pelosi exercises call options on Broadcom worth millions\nPositive Sentiment:\nIn a YouTube analysis, Angelo Zino attributes AVGO’s upward trajectory to robust AI revenues and a “monster” software free cash flow engine.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pelosi",
+      "entity1_type": "PERSON",
+      "entity2": "Broadcom",
+      "entity2_type": "ORG",
+      "sentence": "Nancy Pelosi exercises call options on Broadcom worth millions\nPositive Sentiment:\nIn a YouTube analysis, Angelo Zino attributes AVGO’s upward trajectory to robust AI revenues and a “monster” software free cash flow engine.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pelosi",
+      "entity1_type": "PERSON",
+      "entity2": "millions",
+      "entity2_type": "CARDINAL",
+      "sentence": "Nancy Pelosi exercises call options on Broadcom worth millions\nPositive Sentiment:\nIn a YouTube analysis, Angelo Zino attributes AVGO’s upward trajectory to robust AI revenues and a “monster” software free cash flow engine.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pelosi",
+      "entity1_type": "PERSON",
+      "entity2": "YouTube",
+      "entity2_type": "ORG",
+      "sentence": "Nancy Pelosi exercises call options on Broadcom worth millions\nPositive Sentiment:\nIn a YouTube analysis, Angelo Zino attributes AVGO’s upward trajectory to robust AI revenues and a “monster” software free cash flow engine.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pelosi",
+      "entity1_type": "PERSON",
+      "entity2": "Angelo",
+      "entity2_type": "PERSON",
+      "sentence": "Nancy Pelosi exercises call options on Broadcom worth millions\nPositive Sentiment:\nIn a YouTube analysis, Angelo Zino attributes AVGO’s upward trajectory to robust AI revenues and a “monster” software free cash flow engine.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pelosi",
+      "entity1_type": "PERSON",
+      "entity2": "Zino",
+      "entity2_type": "PERSON",
+      "sentence": "Nancy Pelosi exercises call options on Broadcom worth millions\nPositive Sentiment:\nIn a YouTube analysis, Angelo Zino attributes AVGO’s upward trajectory to robust AI revenues and a “monster” software free cash flow engine.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pelosi",
+      "entity1_type": "PERSON",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "Nancy Pelosi exercises call options on Broadcom worth millions\nPositive Sentiment:\nIn a YouTube analysis, Angelo Zino attributes AVGO’s upward trajectory to robust AI revenues and a “monster” software free cash flow engine.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "millions",
+      "entity2_type": "CARDINAL",
+      "sentence": "Nancy Pelosi exercises call options on Broadcom worth millions\nPositive Sentiment:\nIn a YouTube analysis, Angelo Zino attributes AVGO’s upward trajectory to robust AI revenues and a “monster” software free cash flow engine.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "YouTube",
+      "entity2_type": "ORG",
+      "sentence": "Nancy Pelosi exercises call options on Broadcom worth millions\nPositive Sentiment:\nIn a YouTube analysis, Angelo Zino attributes AVGO’s upward trajectory to robust AI revenues and a “monster” software free cash flow engine.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "Angelo",
+      "entity2_type": "PERSON",
+      "sentence": "Nancy Pelosi exercises call options on Broadcom worth millions\nPositive Sentiment:\nIn a YouTube analysis, Angelo Zino attributes AVGO’s upward trajectory to robust AI revenues and a “monster” software free cash flow engine.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "Zino",
+      "entity2_type": "PERSON",
+      "sentence": "Nancy Pelosi exercises call options on Broadcom worth millions\nPositive Sentiment:\nIn a YouTube analysis, Angelo Zino attributes AVGO’s upward trajectory to robust AI revenues and a “monster” software free cash flow engine.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "Nancy Pelosi exercises call options on Broadcom worth millions\nPositive Sentiment:\nIn a YouTube analysis, Angelo Zino attributes AVGO’s upward trajectory to robust AI revenues and a “monster” software free cash flow engine.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "millions",
+      "entity1_type": "CARDINAL",
+      "entity2": "YouTube",
+      "entity2_type": "ORG",
+      "sentence": "Nancy Pelosi exercises call options on Broadcom worth millions\nPositive Sentiment:\nIn a YouTube analysis, Angelo Zino attributes AVGO’s upward trajectory to robust AI revenues and a “monster” software free cash flow engine.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "millions",
+      "entity1_type": "CARDINAL",
+      "entity2": "Angelo",
+      "entity2_type": "PERSON",
+      "sentence": "Nancy Pelosi exercises call options on Broadcom worth millions\nPositive Sentiment:\nIn a YouTube analysis, Angelo Zino attributes AVGO’s upward trajectory to robust AI revenues and a “monster” software free cash flow engine.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "millions",
+      "entity1_type": "CARDINAL",
+      "entity2": "Zino",
+      "entity2_type": "PERSON",
+      "sentence": "Nancy Pelosi exercises call options on Broadcom worth millions\nPositive Sentiment:\nIn a YouTube analysis, Angelo Zino attributes AVGO’s upward trajectory to robust AI revenues and a “monster” software free cash flow engine.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "millions",
+      "entity1_type": "CARDINAL",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "Nancy Pelosi exercises call options on Broadcom worth millions\nPositive Sentiment:\nIn a YouTube analysis, Angelo Zino attributes AVGO’s upward trajectory to robust AI revenues and a “monster” software free cash flow engine.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "YouTube",
+      "entity1_type": "ORG",
+      "entity2": "Angelo",
+      "entity2_type": "PERSON",
+      "sentence": "Nancy Pelosi exercises call options on Broadcom worth millions\nPositive Sentiment:\nIn a YouTube analysis, Angelo Zino attributes AVGO’s upward trajectory to robust AI revenues and a “monster” software free cash flow engine.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "YouTube",
+      "entity1_type": "ORG",
+      "entity2": "Zino",
+      "entity2_type": "PERSON",
+      "sentence": "Nancy Pelosi exercises call options on Broadcom worth millions\nPositive Sentiment:\nIn a YouTube analysis, Angelo Zino attributes AVGO’s upward trajectory to robust AI revenues and a “monster” software free cash flow engine.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "YouTube",
+      "entity1_type": "ORG",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "Nancy Pelosi exercises call options on Broadcom worth millions\nPositive Sentiment:\nIn a YouTube analysis, Angelo Zino attributes AVGO’s upward trajectory to robust AI revenues and a “monster” software free cash flow engine.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Angelo",
+      "entity1_type": "PERSON",
+      "entity2": "Zino",
+      "entity2_type": "PERSON",
+      "sentence": "Nancy Pelosi exercises call options on Broadcom worth millions\nPositive Sentiment:\nIn a YouTube analysis, Angelo Zino attributes AVGO’s upward trajectory to robust AI revenues and a “monster” software free cash flow engine.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Angelo",
+      "entity1_type": "PERSON",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "Nancy Pelosi exercises call options on Broadcom worth millions\nPositive Sentiment:\nIn a YouTube analysis, Angelo Zino attributes AVGO’s upward trajectory to robust AI revenues and a “monster” software free cash flow engine.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zino",
+      "entity1_type": "PERSON",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "Nancy Pelosi exercises call options on Broadcom worth millions\nPositive Sentiment:\nIn a YouTube analysis, Angelo Zino attributes AVGO’s upward trajectory to robust AI revenues and a “monster” software free cash flow engine.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AVGO",
+      "entity1_type": "ORG",
+      "entity2": "MarketBeat",
+      "entity2_type": "ORG",
+      "sentence": "AVGO Upward Trajectory Led by A.I. Revenue\nPositive Sentiment:\nMarketBeat includes Broadcom among three secular growth stocks benefiting from trends in AI, medicine and consumer tech.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AVGO",
+      "entity1_type": "ORG",
+      "entity2": "Broadcom",
+      "entity2_type": "ORG",
+      "sentence": "AVGO Upward Trajectory Led by A.I. Revenue\nPositive Sentiment:\nMarketBeat includes Broadcom among three secular growth stocks benefiting from trends in AI, medicine and consumer tech.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AVGO",
+      "entity1_type": "ORG",
+      "entity2": "three",
+      "entity2_type": "CARDINAL",
+      "sentence": "AVGO Upward Trajectory Led by A.I. Revenue\nPositive Sentiment:\nMarketBeat includes Broadcom among three secular growth stocks benefiting from trends in AI, medicine and consumer tech.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MarketBeat",
+      "entity1_type": "ORG",
+      "entity2": "Broadcom",
+      "entity2_type": "ORG",
+      "sentence": "AVGO Upward Trajectory Led by A.I. Revenue\nPositive Sentiment:\nMarketBeat includes Broadcom among three secular growth stocks benefiting from trends in AI, medicine and consumer tech.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MarketBeat",
+      "entity1_type": "ORG",
+      "entity2": "three",
+      "entity2_type": "CARDINAL",
+      "sentence": "AVGO Upward Trajectory Led by A.I. Revenue\nPositive Sentiment:\nMarketBeat includes Broadcom among three secular growth stocks benefiting from trends in AI, medicine and consumer tech.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "three",
+      "entity2_type": "CARDINAL",
+      "sentence": "AVGO Upward Trajectory Led by A.I. Revenue\nPositive Sentiment:\nMarketBeat includes Broadcom among three secular growth stocks benefiting from trends in AI, medicine and consumer tech.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3",
+      "entity1_type": "CARDINAL",
+      "entity2": "Now",
+      "entity2_type": "DATE",
+      "sentence": "3 That Look Like Winners to Buy Now (AVGO)\nNeutral Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3",
+      "entity1_type": "CARDINAL",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "3 That Look Like Winners to Buy Now (AVGO)\nNeutral Sentiment:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Now",
+      "entity1_type": "DATE",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "3 That Look Like Winners to Buy Now (AVGO)\nNeutral Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MarketBeat",
+      "entity1_type": "ORG",
+      "entity2": "daily",
+      "entity2_type": "DATE",
+      "sentence": "MarketBeat’s daily screener once again flags Broadcom as a telecom stock to watch alongside peers.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MarketBeat",
+      "entity1_type": "ORG",
+      "entity2": "Broadcom",
+      "entity2_type": "ORG",
+      "sentence": "MarketBeat’s daily screener once again flags Broadcom as a telecom stock to watch alongside peers.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "daily",
+      "entity1_type": "DATE",
+      "entity2": "Broadcom",
+      "entity2_type": "ORG",
+      "sentence": "MarketBeat’s daily screener once again flags Broadcom as a telecom stock to watch alongside peers.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Telecom",
+      "entity1_type": "ORG",
+      "entity2": "July",
+      "entity2_type": "DATE",
+      "sentence": "Telecom Stocks To Keep An Eye On - July 11th\nNeutral Sentiment:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Telecom",
+      "entity1_type": "ORG",
+      "entity2": "11th",
+      "entity2_type": "DATE",
+      "sentence": "Telecom Stocks To Keep An Eye On - July 11th\nNeutral Sentiment:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "July",
+      "entity1_type": "DATE",
+      "entity2": "11th",
+      "entity2_type": "DATE",
+      "sentence": "Telecom Stocks To Keep An Eye On - July 11th\nNeutral Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yesterday",
+      "entity1_type": "DATE",
+      "entity2": "MarketBeat",
+      "entity2_type": "ORG",
+      "sentence": "Yesterday’s MarketBeat screener also listed AVGO among telecom stocks to research, reflecting continued sector interest.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yesterday",
+      "entity1_type": "DATE",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "Yesterday’s MarketBeat screener also listed AVGO among telecom stocks to research, reflecting continued sector interest.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MarketBeat",
+      "entity1_type": "ORG",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "Yesterday’s MarketBeat screener also listed AVGO among telecom stocks to research, reflecting continued sector interest.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Telecom",
+      "entity1_type": "ORG",
+      "entity2": "July",
+      "entity2_type": "DATE",
+      "sentence": "Telecom Stocks To Research - July 10th\nNegative Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Telecom",
+      "entity1_type": "ORG",
+      "entity2": "10th",
+      "entity2_type": "DATE",
+      "sentence": "Telecom Stocks To Research - July 10th\nNegative Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "July",
+      "entity1_type": "DATE",
+      "entity2": "10th",
+      "entity2_type": "DATE",
+      "sentence": "Telecom Stocks To Research - July 10th\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seeking",
+      "entity1_type": "ORG",
+      "entity2": "Alpha",
+      "entity2_type": "ORG",
+      "sentence": "A Seeking Alpha analysis warns that Broadcom’s rising inventory levels could presage a slowdown in end-market demand.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seeking",
+      "entity1_type": "ORG",
+      "entity2": "Broadcom",
+      "entity2_type": "ORG",
+      "sentence": "A Seeking Alpha analysis warns that Broadcom’s rising inventory levels could presage a slowdown in end-market demand.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Alpha",
+      "entity1_type": "ORG",
+      "entity2": "Broadcom",
+      "entity2_type": "ORG",
+      "sentence": "A Seeking Alpha analysis warns that Broadcom’s rising inventory levels could presage a slowdown in end-market demand.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MarketBeat",
+      "entity1_type": "ORG",
+      "entity2": "1.6",
+      "entity2_type": "PERCENT",
+      "sentence": "MarketBeat notes a 1.6% share pullback recently, attributing it to sector rotation and analyst profit-taking.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MarketBeat",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "MarketBeat notes a 1.6% share pullback recently, attributing it to sector rotation and analyst profit-taking.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.6",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "MarketBeat notes a 1.6% share pullback recently, attributing it to sector rotation and analyst profit-taking.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "AVGO",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "1.6",
+      "entity2_type": "PERCENT",
+      "sentence": "Broadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Broadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Broadcom",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AVGO",
+      "entity1_type": "ORG",
+      "entity2": "1.6",
+      "entity2_type": "PERCENT",
+      "sentence": "Broadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AVGO",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Broadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AVGO",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AVGO",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AVGO",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AVGO",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AVGO",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.6",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Broadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.6",
+      "entity1_type": "PERCENT",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.6",
+      "entity1_type": "PERCENT",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.6",
+      "entity1_type": "PERCENT",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.6",
+      "entity1_type": "PERCENT",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.6",
+      "entity1_type": "PERCENT",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Broadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ago",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Broadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "distance": 2
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "strong AI revenue growth",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "multiple analyst upgrades",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "favorable valuation commentary",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "some cautionary notes",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "inventory levels",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "recent pullbacks",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Key drivers",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the stock",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "A Zacks report",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a 46% jump",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Broadcom’s AI revenues",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "its 10th consecutive quarter",
+      "type": "noun_chunk",
+      "category": "temporal"
+    },
+    {
+      "text": "double-digit AI growth",
+      "type": "noun_chunk",
+      "category": "trend"
+    },
+    {
+      "text": "Strong AI Demand",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the Path",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "The Globe",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Goldman Sachs",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a “Buy” rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a $315 price target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a Buy",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Goldman Sachs",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a $400 target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "continued AI-driven expansion",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "near-term valuation risks",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Broadcom Stock",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "$400 Target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "AI Growth Potential",
+      "type": "noun_chunk",
+      "category": "trend"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a bullish forecast",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Broadcom’s shares",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "its outlook",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "AVGO’s future price performance",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Forecast",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a new one-year high",
+      "type": "noun_chunk",
+      "category": "temporal"
+    },
+    {
+      "text": "a recent analyst upgrade",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "New 1-Year High",
+      "type": "noun_chunk",
+      "category": "temporal"
+    },
+    {
+      "text": "Analyst Upgrade",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "A Seeking Alpha contributor",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "forward P/E ratios",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "AVGO shares",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "additional purchases",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Forward P/E Ratios",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Jim Cramer",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Broadcom’s P/E multiple",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the AI era",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Broadcom Inc.",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "A P/E Multiple",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Jim Cramer",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "A Seeking Alpha deep dive",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Broadcom’s critical yet underappreciated role",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "an AI infrastructure “backbone",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Broadcom's Hidden AI Backbone",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its Q1 decline",
+      "type": "noun_chunk",
+      "category": "trend"
+    },
+    {
+      "text": "the next quarter",
+      "type": "noun_chunk",
+      "category": "temporal"
+    },
+    {
+      "text": "Insider trading data",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Nancy Pelosi",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "call options",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "dollars’ worth",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a bullish signal",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Nancy Pelosi",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "call options",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a YouTube analysis",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Angelo Zino",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "AVGO’s upward trajectory",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "robust AI revenues",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "a “monster” software free cash flow engine",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "AVGO Upward Trajectory",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "three secular growth stocks",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "consumer tech",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Growth Stocks",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "MarketBeat’s daily screener",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "a telecom stock",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Telecom Stocks",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "An Eye",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Yesterday’s MarketBeat screener",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "telecom stocks",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "continued sector interest",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Telecom Stocks",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "July 10th",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "A Seeking Alpha analysis",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Broadcom’s rising inventory levels",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a slowdown",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "end-market demand",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a 1.6% share pullback",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "sector rotation",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "analyst profit-taking",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "$315",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$400",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$400",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "46%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "1.6%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "1.6%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "revenue",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "growth",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "growth",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Growth",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "decline",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Decline",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Revenue",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "growth",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Growth",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "profit",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "trading",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "market",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "share",
+      "type": "pattern",
+      "category": "market_term"
+    }
+  ],
+  "important_sentences": [
+    {
+      "text": "Broadcom Stock: HSBC Sets $400 Target on AI Growth Potential\nPositive Sentiment:\nKeyCorp issued a bullish forecast for Broadcom’s shares, raising its outlook on AVGO’s future price performance.",
+      "importance_score": 58,
+      "entity_count": 6,
+      "financial_keyword_count": 7,
+      "money_count": 1,
+      "company_count": 5,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Broadcom's Hidden AI Backbone Unfolds\nPositive Sentiment:\nMSN reports that Broadcom has rebounded strongly from its Q1 decline, reinforcing momentum into the next quarter.\nBroadcom (AVGO) Rebounded from Q1 Decline\nPositive Sentiment:",
+      "importance_score": 52,
+      "entity_count": 10,
+      "financial_keyword_count": 4,
+      "money_count": 0,
+      "company_count": 5,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "The Globe and Mail notes that Goldman Sachs initiated coverage of AVGO with a “Buy” rating and a $315 price target.",
+      "importance_score": 42,
+      "entity_count": 8,
+      "financial_keyword_count": 3,
+      "money_count": 1,
+      "company_count": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Positive Sentiment:\nA Zacks report highlights a 46% jump in Broadcom’s AI revenues, marking its 10th consecutive quarter of double-digit AI growth.\nBroadcom Rides on Strong AI Demand: What's the Path Ahead?",
+      "importance_score": 40,
+      "entity_count": 8,
+      "financial_keyword_count": 4,
+      "money_count": 0,
+      "company_count": 3,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Broadcom (NASDAQ:AVGO) Sets New 1-Year High Following Analyst Upgrade\nPositive Sentiment:\nA Seeking Alpha contributor says forward P/E ratios have dropped sharply, making AVGO shares more attractive and prompting additional purchases.",
+      "importance_score": 38,
+      "entity_count": 8,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 4,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Nancy Pelosi exercises call options on Broadcom worth millions\nPositive Sentiment:\nIn a YouTube analysis, Angelo Zino attributes AVGO’s upward trajectory to robust AI revenues and a “monster” software free cash flow engine.",
+      "importance_score": 37,
+      "entity_count": 8,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 3,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Insider trading data shows Nancy Pelosi exercised call options on millions of dollars’ worth of AVGO, often viewed as a bullish signal.",
+      "importance_score": 34,
+      "entity_count": 8,
+      "financial_keyword_count": 3,
+      "money_count": 1,
+      "company_count": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Broadcom (NASDAQ:AVGO) Shares Down 1.6% - Here's Why\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "importance_score": 33,
+      "entity_count": 9,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "HSBC set a $400 target on AVGO, citing continued AI-driven expansion despite acknowledging near-term valuation risks.",
+      "importance_score": 31,
+      "entity_count": 3,
+      "financial_keyword_count": 4,
+      "money_count": 1,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Broadcom Inc. (AVGO) shares have been buoyed by strong AI revenue growth, multiple analyst upgrades and favorable valuation commentary.",
+      "importance_score": 29,
+      "entity_count": 3,
+      "financial_keyword_count": 5,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "positive"
+    }
+  ],
+  "entity_statistics": {
+    "total_entities": 86,
+    "unique_entities": 37,
+    "type_counts": {
+      "ORG": 58,
+      "DATE": 13,
+      "PERCENT": 3,
+      "MONEY": 4,
+      "PERSON": 5,
+      "CARDINAL": 3
+    },
+    "type_distribution": {
+      "ORG": 0.6744186046511628,
+      "DATE": 0.1511627906976744,
+      "PERCENT": 0.03488372093023256,
+      "MONEY": 0.046511627906976744,
+      "PERSON": 0.05813953488372093,
+      "CARDINAL": 0.03488372093023256
+    },
+    "most_common_entities": [
+      [
+        "Broadcom",
+        19
+      ],
+      [
+        "AVGO",
+        17
+      ],
+      [
+        "MarketBeat",
+        4
+      ],
+      [
+        "Seeking Alpha",
+        3
+      ],
+      [
+        "Broadcom Inc.",
+        2
+      ],
+      [
+        "Goldman Sachs",
+        2
+      ],
+      [
+        "HSBC",
+        2
+      ],
+      [
+        "400",
+        2
+      ],
+      [
+        "KeyCorp",
+        2
+      ],
+      [
+        "Jim Cramer",
+        2
+      ]
+    ],
+    "entity_types_found": [
+      "ORG",
+      "DATE",
+      "PERCENT",
+      "MONEY",
+      "PERSON",
+      "CARDINAL"
+    ],
+    "company_entities": 59,
+    "person_entities": 5,
+    "financial_entities": 7,
+    "entity_density": 0.17479674796747968
+  },
+  "financial_analysis": {
+    "money_amounts": [
+      "315",
+      "400",
+      "400",
+      "millions of dollars’ worth"
+    ],
+    "percentages": [
+      "46%",
+      "1.6%",
+      "1.6%"
+    ],
+    "companies": [
+      "Broadcom Inc.",
+      "AVGO",
+      "Zacks",
+      "Broadcom",
+      "Broadcom",
+      "The Globe and Mail",
+      "Goldman Sachs",
+      "AVGO",
+      "Broadcom",
+      "AVGO",
+      "Goldman Sachs",
+      "HSBC",
+      "AVGO",
+      "Broadcom",
+      "HSBC",
+      "KeyCorp",
+      "Broadcom",
+      "AVGO",
+      "KeyCorp",
+      "Broadcom",
+      "AVGO",
+      "AVGO",
+      "Broadcom",
+      "AVGO",
+      "Seeking Alpha",
+      "AVGO",
+      "Broadcom",
+      "Broadcom",
+      "Broadcom Inc.",
+      "AVGO",
+      "Seeking Alpha",
+      "Broadcom",
+      "Broadcom",
+      "MSN",
+      "Broadcom",
+      "Broadcom",
+      "AVGO",
+      "AVGO",
+      "Broadcom",
+      "YouTube",
+      "AVGO",
+      "AVGO",
+      "MarketBeat",
+      "Broadcom",
+      "AVGO",
+      "MarketBeat",
+      "Broadcom",
+      "Telecom",
+      "MarketBeat",
+      "AVGO",
+      "Telecom",
+      "Seeking Alpha",
+      "Broadcom",
+      "Broadcom",
+      "MarketBeat",
+      "Broadcom",
+      "AVGO",
+      "AI"
+    ],
+    "people": [
+      "Jim Cramer",
+      "Jim Cramer",
+      "Nancy Pelosi",
+      "Nancy Pelosi",
+      "Angelo Zino"
+    ],
+    "dates": [
+      "today",
+      "10th consecutive quarter",
+      "one-year",
+      "1-Year",
+      "Q1",
+      "the next quarter",
+      "Q1",
+      "Now",
+      "daily",
+      "July 11th",
+      "Yesterday",
+      "July 10th",
+      "1+ days ago"
+    ],
+    "financial_terms": [
+      "Decline",
+      "profit",
+      "Stock",
+      "growth",
+      "trading",
+      "Revenue",
+      "Growth",
+      "quarter",
+      "share",
+      "market",
+      "decline",
+      "revenue",
+      "stock"
+    ],
+    "financial_metrics": [],
+    "market_indicators": [
+      "Price",
+      "price",
+      "target",
+      "upgrade",
+      "Upgrade",
+      "rating",
+      "Target"
+    ]
+  },
+  "temporal_analysis": {
+    "dates": [
+      "today",
+      "10th consecutive quarter",
+      "one-year",
+      "1-Year",
+      "Q1",
+      "the next quarter",
+      "Q1",
+      "Now",
+      "daily",
+      "July 11th",
+      "Yesterday",
+      "July 10th",
+      "1+ days ago"
+    ],
+    "time_expressions": [],
+    "temporal_relationships": [
+      "future",
+      "recent",
+      "next",
+      "Yesterday",
+      "today"
+    ],
+    "quarters": [
+      "Q1",
+      "Q1"
+    ],
+    "years": [],
+    "time_periods": []
+  },
+  "sentiment_analysis": {
+    "positive_words": 23,
+    "negative_words": 5,
+    "positive_ratio": 0.046747967479674794,
+    "negative_ratio": 0.01016260162601626,
+    "sentiment_score": 0.036585365853658534,
+    "sentiment_label": "positive",
+    "sentiment_strength": 0.036585365853658534,
+    "confidence": 0.36585365853658536
+  },
+  "industry_analysis": {
+    "dominant_industry": "tech",
+    "industry_scores": {
+      "tech": 13,
+      "finance": 1,
+      "healthcare": 0,
+      "energy": 0,
+      "retail": 1,
+      "automotive": 0,
+      "media": 0,
+      "industrial": 0,
+      "real_estate": 0,
+      "telecom": 0,
+      "food_beverage": 0,
+      "travel": 0,
+      "education": 0,
+      "professional": 0,
+      "mining": 0,
+      "aerospace": 0,
+      "environmental": 0,
+      "cannabis": 0
+    },
+    "confidence": 0.8666666666666667
+  },
+  "market_analysis": {
+    "market_sentiment": "bullish",
+    "bullish_indicators": 3,
+    "bearish_indicators": 2,
+    "market_conditions": {
+      "volatility": "normal",
+      "volume": "normal",
+      "trend": "bullish"
+    },
+    "trading_activity": "normal"
+  },
+  "competitor_analysis": {
+    "companies_mentioned": [
+      "Broadcom Inc.",
+      "AVGO",
+      "Zacks",
+      "Broadcom",
+      "Broadcom",
+      "The Globe and Mail",
+      "Goldman Sachs",
+      "AVGO",
+      "Broadcom",
+      "AVGO",
+      "Goldman Sachs",
+      "HSBC",
+      "AVGO",
+      "Broadcom",
+      "HSBC",
+      "KeyCorp",
+      "Broadcom",
+      "AVGO",
+      "KeyCorp",
+      "Broadcom",
+      "AVGO",
+      "AVGO",
+      "Broadcom",
+      "AVGO",
+      "Seeking Alpha",
+      "AVGO",
+      "Broadcom",
+      "Broadcom",
+      "Broadcom Inc.",
+      "AVGO",
+      "Seeking Alpha",
+      "Broadcom",
+      "Broadcom",
+      "MSN",
+      "Broadcom",
+      "Broadcom",
+      "AVGO",
+      "AVGO",
+      "Broadcom",
+      "YouTube",
+      "AVGO",
+      "AVGO",
+      "MarketBeat",
+      "Broadcom",
+      "AVGO",
+      "MarketBeat",
+      "Broadcom",
+      "Telecom",
+      "MarketBeat",
+      "AVGO",
+      "Telecom",
+      "Seeking Alpha",
+      "Broadcom",
+      "Broadcom",
+      "MarketBeat",
+      "Broadcom",
+      "AVGO",
+      "AI"
+    ],
+    "competitive_context": [],
+    "competitor_count": 58,
+    "has_competitive_language": false
+  },
+  "risk_analysis": {
+    "risk_sentences": [
+      "However, some cautionary notes on inventory levels and recent pullbacks have also emerged.",
+      "HSBC set a $400 target on AVGO, citing continued AI-driven expansion despite acknowledging near-term valuation risks."
+    ],
+    "risk_count": 2,
+    "risk_level": "medium"
+  },
+  "opportunity_analysis": {
+    "opportunity_sentences": [
+      "Broadcom Inc. (AVGO) shares have been buoyed by strong AI revenue growth, multiple analyst upgrades and favorable valuation commentary.",
+      "Positive Sentiment:\nA Zacks report highlights a 46% jump in Broadcom’s AI revenues, marking its 10th consecutive quarter of double-digit AI growth.\nBroadcom Rides on Strong AI Demand: What's the Path Ahead?",
+      "HSBC set a $400 target on AVGO, citing continued AI-driven expansion despite acknowledging near-term valuation risks.",
+      "Broadcom Stock: HSBC Sets $400 Target on AI Growth Potential\nPositive Sentiment:\nKeyCorp issued a bullish forecast for Broadcom’s shares, raising its outlook on AVGO’s future price performance.",
+      "AVGO Upward Trajectory Led by A.I. Revenue\nPositive Sentiment:\nMarketBeat includes Broadcom among three secular growth stocks benefiting from trends in AI, medicine and consumer tech.",
+      "Are Growth Stocks Back?"
+    ],
+    "opportunity_count": 6,
+    "opportunity_level": "high"
+  },
+  "processing_metadata": {
+    "timestamp": "2025-07-13T07:26:52.702064",
+    "model_used": "en_core_web_trf",
+    "text_length": 3388
+  }
+}
