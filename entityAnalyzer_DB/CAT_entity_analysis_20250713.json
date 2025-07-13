@@ -1,0 +1,2179 @@
+{
+  "ticker": "CAT",
+  "entities": [
+    {
+      "text": "Caterpillar Inc.",
+      "label": "ORG",
+      "start": 0,
+      "end": 16,
+      "sentence": "Caterpillar Inc. (NYSE:CAT) shares have climbed as a wave of analyst upgrades, bullish price target revisions and strategic investments signal robust growth prospects.",
+      "context": "Caterpillar Inc. (NYSE:CAT) shares have climbed as a wave of analy",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "CAT",
+      "label": "ORG",
+      "start": 23,
+      "end": 26,
+      "sentence": "Caterpillar Inc. (NYSE:CAT) shares have climbed as a wave of analyst upgrades, bullish price target revisions and strategic investments signal robust growth prospects.",
+      "context": "Caterpillar Inc. (NYSE:CAT) shares have climbed as a wave of analyst upgrade",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "JPMorgan Chase & Co.",
+      "label": "ORG",
+      "start": 352,
+      "end": 372,
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. raised its price objective on Caterpillar from $395.00 to $475.00 and maintained an “overweight” rating, implying a significant upside.",
+      "context": "brokerages and news outlets.\nPositive Sentiment:\nJPMorgan Chase & Co. raised its price objective on Caterpillar from $3",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Caterpillar",
+      "label": "ORG",
+      "start": 403,
+      "end": 414,
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. raised its price objective on Caterpillar from $395.00 to $475.00 and maintained an “overweight” rating, implying a significant upside.",
+      "context": "PMorgan Chase & Co. raised its price objective on Caterpillar from $395.00 to $475.00 and maintained an “overwe",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "395.00",
+      "label": "MONEY",
+      "start": 421,
+      "end": 427,
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. raised its price objective on Caterpillar from $395.00 to $475.00 and maintained an “overweight” rating, implying a significant upside.",
+      "context": ". raised its price objective on Caterpillar from $395.00 to $475.00 and maintained an “overweight” rating,",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "475.00",
+      "label": "MONEY",
+      "start": 432,
+      "end": 438,
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. raised its price objective on Caterpillar from $395.00 to $475.00 and maintained an “overweight” rating, implying a significant upside.",
+      "context": "s price objective on Caterpillar from $395.00 to $475.00 and maintained an “overweight” rating, implying a",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "JPMorgan",
+      "label": "ORG",
+      "start": 509,
+      "end": 517,
+      "sentence": "JPMorgan Price Target\nPositive Sentiment:",
+      "context": "verweight” rating, implying a significant upside.\nJPMorgan Price Target\nPositive Sentiment:\nMelius Research",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Melius Research",
+      "label": "ORG",
+      "start": 551,
+      "end": 566,
+      "sentence": "Melius Research upgraded Caterpillar, citing strong demand drivers and a healthy order backlog.",
+      "context": "upside.\nJPMorgan Price Target\nPositive Sentiment:\nMelius Research upgraded Caterpillar, citing strong demand driver",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Caterpillar",
+      "label": "ORG",
+      "start": 576,
+      "end": 587,
+      "sentence": "Melius Research upgraded Caterpillar, citing strong demand drivers and a healthy order backlog.",
+      "context": "rget\nPositive Sentiment:\nMelius Research upgraded Caterpillar, citing strong demand drivers and a healthy order",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Melius Research",
+      "label": "ORG",
+      "start": 647,
+      "end": 662,
+      "sentence": "Melius Research Upgrade\nPositive Sentiment:",
+      "context": "trong demand drivers and a healthy order backlog.\nMelius Research Upgrade\nPositive Sentiment:\nAnalysts highlighted",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Caterpillar",
+      "label": "ORG",
+      "start": 773,
+      "end": 784,
+      "sentence": "Analysts highlighted growing AI and data-center power demand as key catalysts for Caterpillar’s equipment sales.",
+      "context": "and data-center power demand as key catalysts for Caterpillar’s equipment sales.\nAI Power Demand\nPositive Senti",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "centennial",
+      "label": "DATE",
+      "start": 847,
+      "end": 857,
+      "sentence": "AI Power Demand\nPositive Sentiment:\nAt its centennial anniversary, Caterpillar emphasized that growth is now being driven by solutions powering data centers, underscoring a shift toward high-growth end markets.",
+      "context": "sales.\nAI Power Demand\nPositive Sentiment:\nAt its centennial anniversary, Caterpillar emphasized that growth i",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Caterpillar",
+      "label": "ORG",
+      "start": 871,
+      "end": 882,
+      "sentence": "AI Power Demand\nPositive Sentiment:\nAt its centennial anniversary, Caterpillar emphasized that growth is now being driven by solutions powering data centers, underscoring a shift toward high-growth end markets.",
+      "context": "ositive Sentiment:\nAt its centennial anniversary, Caterpillar emphasized that growth is now being driven by sol",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Caterpillar",
+      "label": "ORG",
+      "start": 1054,
+      "end": 1065,
+      "sentence": "Caterpillar pledged $100 million to workforce development over the next decade, reinforcing its commitment to talent and innovation.",
+      "context": "d markets.\nData-Center Growth\nPositive Sentiment:\nCaterpillar pledged $100 million to workforce development ove",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "$100 million",
+      "label": "MONEY",
+      "start": 1074,
+      "end": 1086,
+      "sentence": "Caterpillar pledged $100 million to workforce development over the next decade, reinforcing its commitment to talent and innovation.",
+      "context": "er Growth\nPositive Sentiment:\nCaterpillar pledged $100 million to workforce development over the next decade, re",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "the next decade",
+      "label": "DATE",
+      "start": 1117,
+      "end": 1132,
+      "sentence": "Caterpillar pledged $100 million to workforce development over the next decade, reinforcing its commitment to talent and innovation.",
+      "context": "ledged $100 million to workforce development over the next decade, reinforcing its commitment to talent and innovat",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "$1 billion",
+      "label": "MONEY",
+      "start": 1230,
+      "end": 1240,
+      "sentence": "Workforce Investment\nPositive Sentiment:\nA $1 billion Illinois firm credited its success to deep relationships with Caterpillar, highlighting the company’s strong distributor network and aftermarket business.",
+      "context": "ation.\nWorkforce Investment\nPositive Sentiment:\nA $1 billion Illinois firm credited its success to deep relati",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Illinois",
+      "label": "GPE",
+      "start": 1241,
+      "end": 1249,
+      "sentence": "Workforce Investment\nPositive Sentiment:\nA $1 billion Illinois firm credited its success to deep relationships with Caterpillar, highlighting the company’s strong distributor network and aftermarket business.",
+      "context": "force Investment\nPositive Sentiment:\nA $1 billion Illinois firm credited its success to deep relationships w",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "Caterpillar",
+      "label": "ORG",
+      "start": 1303,
+      "end": 1314,
+      "sentence": "Workforce Investment\nPositive Sentiment:\nA $1 billion Illinois firm credited its success to deep relationships with Caterpillar, highlighting the company’s strong distributor network and aftermarket business.",
+      "context": "m credited its success to deep relationships with Caterpillar, highlighting the company’s strong distributor ne",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Forbes Relationships",
+      "label": "ORG",
+      "start": 1396,
+      "end": 1417,
+      "sentence": "Forbes Relationships\nPositive Sentiment:",
+      "context": "ong distributor network and aftermarket business.\nForbes Relationships\nPositive Sentiment:\nShares of Caterpillar particip",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Caterpillar",
+      "label": "ORG",
+      "start": 1447,
+      "end": 1458,
+      "sentence": "Shares of Caterpillar participated in a nearly 275-point rally in the Dow, underscoring broad-based market momentum behind industrials.",
+      "context": "orbes Relationships\nPositive Sentiment:\nShares of Caterpillar participated in a nearly 275-point rally in the D",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "nearly 275",
+      "label": "CARDINAL",
+      "start": 1477,
+      "end": 1487,
+      "sentence": "Shares of Caterpillar participated in a nearly 275-point rally in the Dow, underscoring broad-based market momentum behind industrials.",
+      "context": "entiment:\nShares of Caterpillar participated in a nearly 275-point rally in the Dow, underscoring broad-based",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Dow",
+      "label": "ORG",
+      "start": 1507,
+      "end": 1510,
+      "sentence": "Shares of Caterpillar participated in a nearly 275-point rally in the Dow, underscoring broad-based market momentum behind industrials.",
+      "context": "r participated in a nearly 275-point rally in the Dow, underscoring broad-based market momentum behind",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Caterpillar",
+      "label": "ORG",
+      "start": 1634,
+      "end": 1645,
+      "sentence": "The Zacks Analyst Blog included Caterpillar among its highlighted picks, noting industry outlook alongside peers.",
+      "context": "eutral Sentiment:\nThe Zacks Analyst Blog included Caterpillar among its highlighted picks, noting industry outl",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Zacks Blog",
+      "label": "ORG",
+      "start": 1716,
+      "end": 1726,
+      "sentence": "Zacks Blog\nNeutral Sentiment:",
+      "context": "d picks, noting industry outlook alongside peers.\nZacks Blog\nNeutral Sentiment:\nAn article on structuring a mo",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "monthly",
+      "label": "DATE",
+      "start": 1774,
+      "end": 1781,
+      "sentence": "An article on structuring a monthly-income portfolio mentioned Caterpillar’s dividend, but focused on broader portfolio construction.\nMonthly Income Portfolio\nNeutral Sentiment:",
+      "context": "og\nNeutral Sentiment:\nAn article on structuring a monthly-income portfolio mentioned Caterpillar’s dividend",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Caterpillar",
+      "label": "ORG",
+      "start": 1809,
+      "end": 1820,
+      "sentence": "An article on structuring a monthly-income portfolio mentioned Caterpillar’s dividend, but focused on broader portfolio construction.\nMonthly Income Portfolio\nNeutral Sentiment:",
+      "context": "structuring a monthly-income portfolio mentioned Caterpillar’s dividend, but focused on broader portfolio cons",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Monthly",
+      "label": "DATE",
+      "start": 1880,
+      "end": 1887,
+      "sentence": "An article on structuring a monthly-income portfolio mentioned Caterpillar’s dividend, but focused on broader portfolio construction.\nMonthly Income Portfolio\nNeutral Sentiment:",
+      "context": "d, but focused on broader portfolio construction.\nMonthly Income Portfolio\nNeutral Sentiment:\nThe “Top Stoc",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Caterpillar",
+      "label": "ORG",
+      "start": 1965,
+      "end": 1976,
+      "sentence": "The “Top Stock Reports” roundup featured Caterpillar alongside NVIDIA and Walmart but offered no new ratings.",
+      "context": "ntiment:\nThe “Top Stock Reports” roundup featured Caterpillar alongside NVIDIA and Walmart but offered no new r",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "NVIDIA",
+      "label": "ORG",
+      "start": 1987,
+      "end": 1993,
+      "sentence": "The “Top Stock Reports” roundup featured Caterpillar alongside NVIDIA and Walmart but offered no new ratings.",
+      "context": "k Reports” roundup featured Caterpillar alongside NVIDIA and Walmart but offered no new ratings.\nTop Stock",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Walmart",
+      "label": "ORG",
+      "start": 1998,
+      "end": 2005,
+      "sentence": "The “Top Stock Reports” roundup featured Caterpillar alongside NVIDIA and Walmart but offered no new ratings.",
+      "context": "roundup featured Caterpillar alongside NVIDIA and Walmart but offered no new ratings.\nTop Stock Reports\nNeu",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "15",
+      "label": "CARDINAL",
+      "start": 2100,
+      "end": 2102,
+      "sentence": "A deep-dive piece summarized 15 analyst ratings on CAT, providing consensus insights without material changes.",
+      "context": "s\nNeutral Sentiment:\nA deep-dive piece summarized 15 analyst ratings on CAT, providing consensus insig",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "CAT",
+      "label": "ORG",
+      "start": 2122,
+      "end": 2125,
+      "sentence": "A deep-dive piece summarized 15 analyst ratings on CAT, providing consensus insights without material changes.",
+      "context": "deep-dive piece summarized 15 analyst ratings on CAT, providing consensus insights without material ch",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Analyst Perspectives",
+      "label": "ORG",
+      "start": 2182,
+      "end": 2202,
+      "sentence": "Analyst Perspectives\nPosted 1+ days ago\nAI Generated.",
+      "context": "ding consensus insights without material changes.\nAnalyst Perspectives\nPosted 1+ days ago\nAI Generated. May Contain Erro",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "1+ days ago",
+      "label": "DATE",
+      "start": 2210,
+      "end": 2221,
+      "sentence": "Analyst Perspectives\nPosted 1+ days ago\nAI Generated.",
+      "context": "out material changes.\nAnalyst Perspectives\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AI Generated",
+      "label": "ORG",
+      "start": 2222,
+      "end": 2234,
+      "sentence": "Analyst Perspectives\nPosted 1+ days ago\nAI Generated.",
+      "context": "changes.\nAnalyst Perspectives\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    }
+  ],
+  "relationships": [
+    {
+      "type": "SVO",
+      "subject": "wave",
+      "verb": "signal",
+      "object": "prospects",
+      "sentence": "Caterpillar Inc. (NYSE:CAT) shares have climbed as a wave of analyst upgrades, bullish price target revisions and strategic investments signal robust growth prospects.",
+      "importance": 6
+    },
+    {
+      "type": "SVO",
+      "subject": "highlights",
+      "verb": "include",
+      "object": "expansions",
+      "sentence": "Recent highlights include expansions into data-center power solutions, workforce development pledges, and positive coverage from major brokerages and news outlets.",
+      "importance": 1
+    },
+    {
+      "type": "SVO",
+      "subject": "Chase",
+      "verb": "raised",
+      "object": "objective",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. raised its price objective on Caterpillar from $395.00 to $475.00 and maintained an “overweight” rating, implying a significant upside.",
+      "importance": 8
+    },
+    {
+      "type": "SVO",
+      "subject": "Research",
+      "verb": "upgraded",
+      "object": "Caterpillar",
+      "sentence": "Melius Research upgraded Caterpillar, citing strong demand drivers and a healthy order backlog.",
+      "importance": 3
+    },
+    {
+      "type": "SVO",
+      "subject": "Analysts",
+      "verb": "highlighted",
+      "object": "demand",
+      "sentence": "Analysts highlighted growing AI and data-center power demand as key catalysts for Caterpillar’s equipment sales.",
+      "importance": 4
+    },
+    {
+      "type": "SVO",
+      "subject": "Caterpillar",
+      "verb": "pledged",
+      "object": "million",
+      "sentence": "Caterpillar pledged $100 million to workforce development over the next decade, reinforcing its commitment to talent and innovation.",
+      "importance": 8
+    },
+    {
+      "type": "SVO",
+      "subject": "firm",
+      "verb": "credited",
+      "object": "success",
+      "sentence": "Workforce Investment\nPositive Sentiment:\nA $1 billion Illinois firm credited its success to deep relationships with Caterpillar, highlighting the company’s strong distributor network and aftermarket business.",
+      "importance": 6
+    },
+    {
+      "type": "SVO",
+      "subject": "Blog",
+      "verb": "included",
+      "object": "Caterpillar",
+      "sentence": "The Zacks Analyst Blog included Caterpillar among its highlighted picks, noting industry outlook alongside peers.",
+      "importance": 4
+    },
+    {
+      "type": "SVO",
+      "subject": "article",
+      "verb": "mentioned",
+      "object": "dividend",
+      "sentence": "An article on structuring a monthly-income portfolio mentioned Caterpillar’s dividend, but focused on broader portfolio construction.\nMonthly Income Portfolio\nNeutral Sentiment:",
+      "importance": 9
+    },
+    {
+      "type": "SVO",
+      "subject": "roundup",
+      "verb": "featured",
+      "object": "Caterpillar",
+      "sentence": "The “Top Stock Reports” roundup featured Caterpillar alongside NVIDIA and Walmart but offered no new ratings.",
+      "importance": 4
+    },
+    {
+      "type": "SVO",
+      "subject": "piece",
+      "verb": "summarized",
+      "object": "ratings",
+      "sentence": "A deep-dive piece summarized 15 analyst ratings on CAT, providing consensus insights without material changes.",
+      "importance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Caterpillar",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Caterpillar Inc. (NYSE:CAT) shares have climbed as a wave of analyst upgrades, bullish price target revisions and strategic investments signal robust growth prospects.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Caterpillar",
+      "entity1_type": "ORG",
+      "entity2": "CAT",
+      "entity2_type": "ORG",
+      "sentence": "Caterpillar Inc. (NYSE:CAT) shares have climbed as a wave of analyst upgrades, bullish price target revisions and strategic investments signal robust growth prospects.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "CAT",
+      "entity2_type": "ORG",
+      "sentence": "Caterpillar Inc. (NYSE:CAT) shares have climbed as a wave of analyst upgrades, bullish price target revisions and strategic investments signal robust growth prospects.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "Chase",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. raised its price objective on Caterpillar from $395.00 to $475.00 and maintained an “overweight” rating, implying a significant upside.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. raised its price objective on Caterpillar from $395.00 to $475.00 and maintained an “overweight” rating, implying a significant upside.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "Co.",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. raised its price objective on Caterpillar from $395.00 to $475.00 and maintained an “overweight” rating, implying a significant upside.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "Caterpillar",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. raised its price objective on Caterpillar from $395.00 to $475.00 and maintained an “overweight” rating, implying a significant upside.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "395.00",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. raised its price objective on Caterpillar from $395.00 to $475.00 and maintained an “overweight” rating, implying a significant upside.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "475.00",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. raised its price objective on Caterpillar from $395.00 to $475.00 and maintained an “overweight” rating, implying a significant upside.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Chase",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. raised its price objective on Caterpillar from $395.00 to $475.00 and maintained an “overweight” rating, implying a significant upside.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Chase",
+      "entity1_type": "ORG",
+      "entity2": "Co.",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. raised its price objective on Caterpillar from $395.00 to $475.00 and maintained an “overweight” rating, implying a significant upside.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Chase",
+      "entity1_type": "ORG",
+      "entity2": "Caterpillar",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. raised its price objective on Caterpillar from $395.00 to $475.00 and maintained an “overweight” rating, implying a significant upside.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Chase",
+      "entity1_type": "ORG",
+      "entity2": "395.00",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. raised its price objective on Caterpillar from $395.00 to $475.00 and maintained an “overweight” rating, implying a significant upside.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Chase",
+      "entity1_type": "ORG",
+      "entity2": "475.00",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. raised its price objective on Caterpillar from $395.00 to $475.00 and maintained an “overweight” rating, implying a significant upside.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Co.",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. raised its price objective on Caterpillar from $395.00 to $475.00 and maintained an “overweight” rating, implying a significant upside.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Caterpillar",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. raised its price objective on Caterpillar from $395.00 to $475.00 and maintained an “overweight” rating, implying a significant upside.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "395.00",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. raised its price objective on Caterpillar from $395.00 to $475.00 and maintained an “overweight” rating, implying a significant upside.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "475.00",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. raised its price objective on Caterpillar from $395.00 to $475.00 and maintained an “overweight” rating, implying a significant upside.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Co.",
+      "entity1_type": "ORG",
+      "entity2": "Caterpillar",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. raised its price objective on Caterpillar from $395.00 to $475.00 and maintained an “overweight” rating, implying a significant upside.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Co.",
+      "entity1_type": "ORG",
+      "entity2": "395.00",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. raised its price objective on Caterpillar from $395.00 to $475.00 and maintained an “overweight” rating, implying a significant upside.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Co.",
+      "entity1_type": "ORG",
+      "entity2": "475.00",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. raised its price objective on Caterpillar from $395.00 to $475.00 and maintained an “overweight” rating, implying a significant upside.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Caterpillar",
+      "entity1_type": "ORG",
+      "entity2": "395.00",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. raised its price objective on Caterpillar from $395.00 to $475.00 and maintained an “overweight” rating, implying a significant upside.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Caterpillar",
+      "entity1_type": "ORG",
+      "entity2": "475.00",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. raised its price objective on Caterpillar from $395.00 to $475.00 and maintained an “overweight” rating, implying a significant upside.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "395.00",
+      "entity1_type": "MONEY",
+      "entity2": "475.00",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nJPMorgan Chase & Co. raised its price objective on Caterpillar from $395.00 to $475.00 and maintained an “overweight” rating, implying a significant upside.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Melius",
+      "entity1_type": "ORG",
+      "entity2": "Research",
+      "entity2_type": "ORG",
+      "sentence": "Melius Research upgraded Caterpillar, citing strong demand drivers and a healthy order backlog.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Melius",
+      "entity1_type": "ORG",
+      "entity2": "Caterpillar",
+      "entity2_type": "ORG",
+      "sentence": "Melius Research upgraded Caterpillar, citing strong demand drivers and a healthy order backlog.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "Caterpillar",
+      "entity2_type": "ORG",
+      "sentence": "Melius Research upgraded Caterpillar, citing strong demand drivers and a healthy order backlog.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Melius",
+      "entity1_type": "ORG",
+      "entity2": "Research",
+      "entity2_type": "ORG",
+      "sentence": "Melius Research Upgrade\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "centennial",
+      "entity1_type": "DATE",
+      "entity2": "Caterpillar",
+      "entity2_type": "ORG",
+      "sentence": "AI Power Demand\nPositive Sentiment:\nAt its centennial anniversary, Caterpillar emphasized that growth is now being driven by solutions powering data centers, underscoring a shift toward high-growth end markets.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Caterpillar",
+      "entity1_type": "ORG",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Caterpillar pledged $100 million to workforce development over the next decade, reinforcing its commitment to talent and innovation.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Caterpillar",
+      "entity1_type": "ORG",
+      "entity2": "100",
+      "entity2_type": "MONEY",
+      "sentence": "Caterpillar pledged $100 million to workforce development over the next decade, reinforcing its commitment to talent and innovation.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Caterpillar",
+      "entity1_type": "ORG",
+      "entity2": "million",
+      "entity2_type": "MONEY",
+      "sentence": "Caterpillar pledged $100 million to workforce development over the next decade, reinforcing its commitment to talent and innovation.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Caterpillar",
+      "entity1_type": "ORG",
+      "entity2": "the",
+      "entity2_type": "DATE",
+      "sentence": "Caterpillar pledged $100 million to workforce development over the next decade, reinforcing its commitment to talent and innovation.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Caterpillar",
+      "entity1_type": "ORG",
+      "entity2": "next",
+      "entity2_type": "DATE",
+      "sentence": "Caterpillar pledged $100 million to workforce development over the next decade, reinforcing its commitment to talent and innovation.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Caterpillar",
+      "entity1_type": "ORG",
+      "entity2": "decade",
+      "entity2_type": "DATE",
+      "sentence": "Caterpillar pledged $100 million to workforce development over the next decade, reinforcing its commitment to talent and innovation.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "100",
+      "entity2_type": "MONEY",
+      "sentence": "Caterpillar pledged $100 million to workforce development over the next decade, reinforcing its commitment to talent and innovation.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "million",
+      "entity2_type": "MONEY",
+      "sentence": "Caterpillar pledged $100 million to workforce development over the next decade, reinforcing its commitment to talent and innovation.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "the",
+      "entity2_type": "DATE",
+      "sentence": "Caterpillar pledged $100 million to workforce development over the next decade, reinforcing its commitment to talent and innovation.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "next",
+      "entity2_type": "DATE",
+      "sentence": "Caterpillar pledged $100 million to workforce development over the next decade, reinforcing its commitment to talent and innovation.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "decade",
+      "entity2_type": "DATE",
+      "sentence": "Caterpillar pledged $100 million to workforce development over the next decade, reinforcing its commitment to talent and innovation.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "100",
+      "entity1_type": "MONEY",
+      "entity2": "million",
+      "entity2_type": "MONEY",
+      "sentence": "Caterpillar pledged $100 million to workforce development over the next decade, reinforcing its commitment to talent and innovation.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "100",
+      "entity1_type": "MONEY",
+      "entity2": "the",
+      "entity2_type": "DATE",
+      "sentence": "Caterpillar pledged $100 million to workforce development over the next decade, reinforcing its commitment to talent and innovation.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "100",
+      "entity1_type": "MONEY",
+      "entity2": "next",
+      "entity2_type": "DATE",
+      "sentence": "Caterpillar pledged $100 million to workforce development over the next decade, reinforcing its commitment to talent and innovation.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "100",
+      "entity1_type": "MONEY",
+      "entity2": "decade",
+      "entity2_type": "DATE",
+      "sentence": "Caterpillar pledged $100 million to workforce development over the next decade, reinforcing its commitment to talent and innovation.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "million",
+      "entity1_type": "MONEY",
+      "entity2": "the",
+      "entity2_type": "DATE",
+      "sentence": "Caterpillar pledged $100 million to workforce development over the next decade, reinforcing its commitment to talent and innovation.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "million",
+      "entity1_type": "MONEY",
+      "entity2": "next",
+      "entity2_type": "DATE",
+      "sentence": "Caterpillar pledged $100 million to workforce development over the next decade, reinforcing its commitment to talent and innovation.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "million",
+      "entity1_type": "MONEY",
+      "entity2": "decade",
+      "entity2_type": "DATE",
+      "sentence": "Caterpillar pledged $100 million to workforce development over the next decade, reinforcing its commitment to talent and innovation.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "next",
+      "entity2_type": "DATE",
+      "sentence": "Caterpillar pledged $100 million to workforce development over the next decade, reinforcing its commitment to talent and innovation.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "decade",
+      "entity2_type": "DATE",
+      "sentence": "Caterpillar pledged $100 million to workforce development over the next decade, reinforcing its commitment to talent and innovation.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "next",
+      "entity1_type": "DATE",
+      "entity2": "decade",
+      "entity2_type": "DATE",
+      "sentence": "Caterpillar pledged $100 million to workforce development over the next decade, reinforcing its commitment to talent and innovation.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "1",
+      "entity2_type": "MONEY",
+      "sentence": "Workforce Investment\nPositive Sentiment:\nA $1 billion Illinois firm credited its success to deep relationships with Caterpillar, highlighting the company’s strong distributor network and aftermarket business.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "billion",
+      "entity2_type": "MONEY",
+      "sentence": "Workforce Investment\nPositive Sentiment:\nA $1 billion Illinois firm credited its success to deep relationships with Caterpillar, highlighting the company’s strong distributor network and aftermarket business.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "Illinois",
+      "entity2_type": "GPE",
+      "sentence": "Workforce Investment\nPositive Sentiment:\nA $1 billion Illinois firm credited its success to deep relationships with Caterpillar, highlighting the company’s strong distributor network and aftermarket business.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "Caterpillar",
+      "entity2_type": "ORG",
+      "sentence": "Workforce Investment\nPositive Sentiment:\nA $1 billion Illinois firm credited its success to deep relationships with Caterpillar, highlighting the company’s strong distributor network and aftermarket business.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "MONEY",
+      "entity2": "billion",
+      "entity2_type": "MONEY",
+      "sentence": "Workforce Investment\nPositive Sentiment:\nA $1 billion Illinois firm credited its success to deep relationships with Caterpillar, highlighting the company’s strong distributor network and aftermarket business.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "MONEY",
+      "entity2": "Illinois",
+      "entity2_type": "GPE",
+      "sentence": "Workforce Investment\nPositive Sentiment:\nA $1 billion Illinois firm credited its success to deep relationships with Caterpillar, highlighting the company’s strong distributor network and aftermarket business.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "MONEY",
+      "entity2": "Caterpillar",
+      "entity2_type": "ORG",
+      "sentence": "Workforce Investment\nPositive Sentiment:\nA $1 billion Illinois firm credited its success to deep relationships with Caterpillar, highlighting the company’s strong distributor network and aftermarket business.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "billion",
+      "entity1_type": "MONEY",
+      "entity2": "Illinois",
+      "entity2_type": "GPE",
+      "sentence": "Workforce Investment\nPositive Sentiment:\nA $1 billion Illinois firm credited its success to deep relationships with Caterpillar, highlighting the company’s strong distributor network and aftermarket business.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "billion",
+      "entity1_type": "MONEY",
+      "entity2": "Caterpillar",
+      "entity2_type": "ORG",
+      "sentence": "Workforce Investment\nPositive Sentiment:\nA $1 billion Illinois firm credited its success to deep relationships with Caterpillar, highlighting the company’s strong distributor network and aftermarket business.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Illinois",
+      "entity1_type": "GPE",
+      "entity2": "Caterpillar",
+      "entity2_type": "ORG",
+      "sentence": "Workforce Investment\nPositive Sentiment:\nA $1 billion Illinois firm credited its success to deep relationships with Caterpillar, highlighting the company’s strong distributor network and aftermarket business.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Forbes",
+      "entity1_type": "ORG",
+      "entity2": "Relationships",
+      "entity2_type": "ORG",
+      "sentence": "Forbes Relationships\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Forbes",
+      "entity1_type": "ORG",
+      "entity2": "\n",
+      "entity2_type": "ORG",
+      "sentence": "Forbes Relationships\nPositive Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Relationships",
+      "entity1_type": "ORG",
+      "entity2": "\n",
+      "entity2_type": "ORG",
+      "sentence": "Forbes Relationships\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Caterpillar",
+      "entity1_type": "ORG",
+      "entity2": "nearly",
+      "entity2_type": "CARDINAL",
+      "sentence": "Shares of Caterpillar participated in a nearly 275-point rally in the Dow, underscoring broad-based market momentum behind industrials.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Caterpillar",
+      "entity1_type": "ORG",
+      "entity2": "275",
+      "entity2_type": "CARDINAL",
+      "sentence": "Shares of Caterpillar participated in a nearly 275-point rally in the Dow, underscoring broad-based market momentum behind industrials.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Caterpillar",
+      "entity1_type": "ORG",
+      "entity2": "Dow",
+      "entity2_type": "ORG",
+      "sentence": "Shares of Caterpillar participated in a nearly 275-point rally in the Dow, underscoring broad-based market momentum behind industrials.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "nearly",
+      "entity1_type": "CARDINAL",
+      "entity2": "275",
+      "entity2_type": "CARDINAL",
+      "sentence": "Shares of Caterpillar participated in a nearly 275-point rally in the Dow, underscoring broad-based market momentum behind industrials.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "nearly",
+      "entity1_type": "CARDINAL",
+      "entity2": "Dow",
+      "entity2_type": "ORG",
+      "sentence": "Shares of Caterpillar participated in a nearly 275-point rally in the Dow, underscoring broad-based market momentum behind industrials.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "275",
+      "entity1_type": "CARDINAL",
+      "entity2": "Dow",
+      "entity2_type": "ORG",
+      "sentence": "Shares of Caterpillar participated in a nearly 275-point rally in the Dow, underscoring broad-based market momentum behind industrials.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "Blog",
+      "entity2_type": "ORG",
+      "sentence": "Zacks Blog\nNeutral Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "monthly",
+      "entity1_type": "DATE",
+      "entity2": "Caterpillar",
+      "entity2_type": "ORG",
+      "sentence": "An article on structuring a monthly-income portfolio mentioned Caterpillar’s dividend, but focused on broader portfolio construction.\nMonthly Income Portfolio\nNeutral Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "monthly",
+      "entity1_type": "DATE",
+      "entity2": "Monthly",
+      "entity2_type": "DATE",
+      "sentence": "An article on structuring a monthly-income portfolio mentioned Caterpillar’s dividend, but focused on broader portfolio construction.\nMonthly Income Portfolio\nNeutral Sentiment:",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Caterpillar",
+      "entity1_type": "ORG",
+      "entity2": "Monthly",
+      "entity2_type": "DATE",
+      "sentence": "An article on structuring a monthly-income portfolio mentioned Caterpillar’s dividend, but focused on broader portfolio construction.\nMonthly Income Portfolio\nNeutral Sentiment:",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Caterpillar",
+      "entity1_type": "ORG",
+      "entity2": "NVIDIA",
+      "entity2_type": "ORG",
+      "sentence": "The “Top Stock Reports” roundup featured Caterpillar alongside NVIDIA and Walmart but offered no new ratings.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Caterpillar",
+      "entity1_type": "ORG",
+      "entity2": "Walmart",
+      "entity2_type": "ORG",
+      "sentence": "The “Top Stock Reports” roundup featured Caterpillar alongside NVIDIA and Walmart but offered no new ratings.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NVIDIA",
+      "entity1_type": "ORG",
+      "entity2": "Walmart",
+      "entity2_type": "ORG",
+      "sentence": "The “Top Stock Reports” roundup featured Caterpillar alongside NVIDIA and Walmart but offered no new ratings.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "15",
+      "entity1_type": "CARDINAL",
+      "entity2": "CAT",
+      "entity2_type": "ORG",
+      "sentence": "A deep-dive piece summarized 15 analyst ratings on CAT, providing consensus insights without material changes.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Analyst",
+      "entity1_type": "ORG",
+      "entity2": "Perspectives",
+      "entity2_type": "ORG",
+      "sentence": "Analyst Perspectives\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Analyst",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Analyst Perspectives\nPosted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Analyst",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Analyst Perspectives\nPosted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Analyst",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Analyst Perspectives\nPosted 1+ days ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Analyst",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Analyst Perspectives\nPosted 1+ days ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Analyst",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Analyst Perspectives\nPosted 1+ days ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Analyst",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Analyst Perspectives\nPosted 1+ days ago\nAI Generated.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Perspectives",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Analyst Perspectives\nPosted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Perspectives",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Analyst Perspectives\nPosted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Perspectives",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Analyst Perspectives\nPosted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Perspectives",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Analyst Perspectives\nPosted 1+ days ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Perspectives",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Analyst Perspectives\nPosted 1+ days ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Perspectives",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Analyst Perspectives\nPosted 1+ days ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Analyst Perspectives\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Analyst Perspectives\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Analyst Perspectives\nPosted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Analyst Perspectives\nPosted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Analyst Perspectives\nPosted 1+ days ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Analyst Perspectives\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Analyst Perspectives\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Analyst Perspectives\nPosted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Analyst Perspectives\nPosted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Analyst Perspectives\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Analyst Perspectives\nPosted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Analyst Perspectives\nPosted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ago",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Analyst Perspectives\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ago",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Analyst Perspectives\nPosted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AI",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Analyst Perspectives\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "a wave",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "analyst upgrades",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "bullish price target revisions",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "strategic investments",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "robust growth prospects",
+      "type": "noun_chunk",
+      "category": "trend"
+    },
+    {
+      "text": "Recent highlights",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "data-center power solutions",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "workforce development pledges",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "positive coverage",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "major brokerages",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "news outlets",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "JPMorgan Chase",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its price objective",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "an “overweight” rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a significant upside",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "JPMorgan Price Target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Melius Research",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "strong demand drivers",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a healthy order backlog",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "growing AI and data-center power demand",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "key catalysts",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Caterpillar’s equipment sales",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "AI Power Demand\nPositive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its centennial anniversary",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "data centers",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a shift",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "high-growth end markets",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Data-Center Growth\nPositive Sentiment",
+      "type": "noun_chunk",
+      "category": "trend"
+    },
+    {
+      "text": "workforce development",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the next decade",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its commitment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Workforce Investment\nPositive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "A $1 billion Illinois firm",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its success",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "deep relationships",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the company’s strong distributor network",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "aftermarket business",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Forbes Relationships\nPositive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a nearly 275-point rally",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the Dow",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "broad-based market momentum",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Dow Rally\nNeutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "The Zacks Analyst Blog",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its highlighted picks",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "industry outlook",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Zacks Blog\nNeutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "An article",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a monthly-income portfolio",
+      "type": "noun_chunk",
+      "category": "temporal"
+    },
+    {
+      "text": "Caterpillar’s dividend",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "broader portfolio construction",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "The “Top Stock Reports” roundup",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "no new ratings",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "A deep-dive piece",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "15 analyst ratings",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "consensus insights",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "material changes",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Analyst Perspectives",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "$395.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$475.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$100 million",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$1 billion",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "growth",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "growth",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "growth",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Growth",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Investment",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "market",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Stock",
+      "type": "pattern",
+      "category": "market_term"
+    }
+  ],
+  "important_sentences": [
+    {
+      "text": "Positive Sentiment:\nJPMorgan Chase & Co. raised its price objective on Caterpillar from $395.00 to $475.00 and maintained an “overweight” rating, implying a significant upside.",
+      "importance_score": 35,
+      "entity_count": 7,
+      "financial_keyword_count": 1,
+      "money_count": 2,
+      "company_count": 2,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Analyst Perspectives\nPosted 1+ days ago\nAI Generated.",
+      "importance_score": 30,
+      "entity_count": 8,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "An article on structuring a monthly-income portfolio mentioned Caterpillar’s dividend, but focused on broader portfolio construction.\nMonthly Income Portfolio\nNeutral Sentiment:",
+      "importance_score": 28,
+      "entity_count": 3,
+      "financial_keyword_count": 6,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Caterpillar pledged $100 million to workforce development over the next decade, reinforcing its commitment to talent and innovation.",
+      "importance_score": 26,
+      "entity_count": 7,
+      "financial_keyword_count": 1,
+      "money_count": 1,
+      "company_count": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Shares of Caterpillar participated in a nearly 275-point rally in the Dow, underscoring broad-based market momentum behind industrials.",
+      "importance_score": 25,
+      "entity_count": 4,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Caterpillar Inc. (NYSE:CAT) shares have climbed as a wave of analyst upgrades, bullish price target revisions and strategic investments signal robust growth prospects.",
+      "importance_score": 23,
+      "entity_count": 3,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Workforce Investment\nPositive Sentiment:\nA $1 billion Illinois firm credited its success to deep relationships with Caterpillar, highlighting the company’s strong distributor network and aftermarket business.",
+      "importance_score": 22,
+      "entity_count": 5,
+      "financial_keyword_count": 1,
+      "money_count": 1,
+      "company_count": 1,
+      "sentiment": "positive"
+    },
+    {
+      "text": "The “Top Stock Reports” roundup featured Caterpillar alongside NVIDIA and Walmart but offered no new ratings.",
+      "importance_score": 21,
+      "entity_count": 3,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "AI Power Demand\nPositive Sentiment:\nAt its centennial anniversary, Caterpillar emphasized that growth is now being driven by solutions powering data centers, underscoring a shift toward high-growth end markets.",
+      "importance_score": 20,
+      "entity_count": 2,
+      "financial_keyword_count": 4,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Analysts highlighted growing AI and data-center power demand as key catalysts for Caterpillar’s equipment sales.",
+      "importance_score": 15,
+      "entity_count": 1,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "neutral"
+    }
+  ],
+  "entity_statistics": {
+    "total_entities": 36,
+    "unique_entities": 25,
+    "type_counts": {
+      "ORG": 24,
+      "MONEY": 4,
+      "DATE": 5,
+      "GPE": 1,
+      "CARDINAL": 2
+    },
+    "type_distribution": {
+      "ORG": 0.6666666666666666,
+      "MONEY": 0.1111111111111111,
+      "DATE": 0.1388888888888889,
+      "GPE": 0.027777777777777776,
+      "CARDINAL": 0.05555555555555555
+    },
+    "most_common_entities": [
+      [
+        "Caterpillar",
+        10
+      ],
+      [
+        "CAT",
+        2
+      ],
+      [
+        "Melius Research",
+        2
+      ],
+      [
+        "Caterpillar Inc.",
+        1
+      ],
+      [
+        "JPMorgan Chase & Co.",
+        1
+      ],
+      [
+        "395.00",
+        1
+      ],
+      [
+        "475.00",
+        1
+      ],
+      [
+        "JPMorgan",
+        1
+      ],
+      [
+        "centennial",
+        1
+      ],
+      [
+        "$100 million",
+        1
+      ]
+    ],
+    "entity_types_found": [
+      "ORG",
+      "MONEY",
+      "DATE",
+      "GPE",
+      "CARDINAL"
+    ],
+    "company_entities": 24,
+    "person_entities": 0,
+    "financial_entities": 4,
+    "entity_density": 0.12203389830508475
+  },
+  "financial_analysis": {
+    "money_amounts": [
+      "395.00",
+      "475.00",
+      "$100 million",
+      "$1 billion"
+    ],
+    "percentages": [],
+    "companies": [
+      "Caterpillar Inc.",
+      "CAT",
+      "JPMorgan Chase & Co.",
+      "Caterpillar",
+      "JPMorgan",
+      "Melius Research",
+      "Caterpillar",
+      "Melius Research",
+      "Caterpillar",
+      "Caterpillar",
+      "Caterpillar",
+      "Caterpillar",
+      "Forbes Relationships\n",
+      "Caterpillar",
+      "Dow",
+      "Caterpillar",
+      "Zacks Blog",
+      "Caterpillar",
+      "Caterpillar",
+      "NVIDIA",
+      "Walmart",
+      "CAT",
+      "Analyst Perspectives",
+      "AI Generated"
+    ],
+    "people": [],
+    "dates": [
+      "centennial",
+      "the next decade",
+      "monthly",
+      "Monthly",
+      "1+ days ago"
+    ],
+    "financial_terms": [
+      "Stock",
+      "growth",
+      "Investment",
+      "Growth",
+      "market"
+    ],
+    "financial_metrics": [],
+    "market_indicators": [
+      "Rally",
+      "rally",
+      "Price",
+      "price",
+      "target",
+      "Upgrade",
+      "rating",
+      "Target"
+    ]
+  },
+  "temporal_analysis": {
+    "dates": [
+      "centennial",
+      "the next decade",
+      "monthly",
+      "Monthly",
+      "1+ days ago"
+    ],
+    "time_expressions": [],
+    "temporal_relationships": [
+      "next",
+      "Recent",
+      "monthly",
+      "Monthly"
+    ],
+    "quarters": [],
+    "years": [],
+    "time_periods": []
+  },
+  "sentiment_analysis": {
+    "positive_words": 18,
+    "negative_words": 0,
+    "positive_ratio": 0.061016949152542375,
+    "negative_ratio": 0.0,
+    "sentiment_score": 0.061016949152542375,
+    "sentiment_label": "positive",
+    "sentiment_strength": 0.061016949152542375,
+    "confidence": 0.6101694915254238
+  },
+  "industry_analysis": {
+    "dominant_industry": "tech",
+    "industry_scores": {
+      "tech": 3,
+      "finance": 1,
+      "healthcare": 0,
+      "energy": 0,
+      "retail": 0,
+      "automotive": 0,
+      "media": 1,
+      "industrial": 2,
+      "real_estate": 3,
+      "telecom": 0,
+      "food_beverage": 0,
+      "travel": 0,
+      "education": 0,
+      "professional": 0,
+      "mining": 0,
+      "aerospace": 0,
+      "environmental": 0,
+      "cannabis": 0
+    },
+    "confidence": 0.3
+  },
+  "market_analysis": {
+    "market_sentiment": "bullish",
+    "bullish_indicators": 3,
+    "bearish_indicators": 0,
+    "market_conditions": {
+      "volatility": "normal",
+      "volume": "normal",
+      "trend": "bullish"
+    },
+    "trading_activity": "normal"
+  },
+  "competitor_analysis": {
+    "companies_mentioned": [
+      "Caterpillar Inc.",
+      "CAT",
+      "JPMorgan Chase & Co.",
+      "Caterpillar",
+      "JPMorgan",
+      "Melius Research",
+      "Caterpillar",
+      "Melius Research",
+      "Caterpillar",
+      "Caterpillar",
+      "Caterpillar",
+      "Caterpillar",
+      "Forbes Relationships\n",
+      "Caterpillar",
+      "Dow",
+      "Caterpillar",
+      "Zacks Blog",
+      "Caterpillar",
+      "Caterpillar",
+      "NVIDIA",
+      "Walmart",
+      "CAT",
+      "Analyst Perspectives",
+      "AI Generated"
+    ],
+    "competitive_context": [],
+    "competitor_count": 24,
+    "has_competitive_language": false
+  },
+  "risk_analysis": {
+    "risk_sentences": [],
+    "risk_count": 0,
+    "risk_level": "low"
+  },
+  "opportunity_analysis": {
+    "opportunity_sentences": [
+      "Caterpillar Inc. (NYSE:CAT) shares have climbed as a wave of analyst upgrades, bullish price target revisions and strategic investments signal robust growth prospects.",
+      "Recent highlights include expansions into data-center power solutions, workforce development pledges, and positive coverage from major brokerages and news outlets.",
+      "AI Power Demand\nPositive Sentiment:\nAt its centennial anniversary, Caterpillar emphasized that growth is now being driven by solutions powering data centers, underscoring a shift toward high-growth end markets.",
+      "Data-Center Growth\nPositive Sentiment:",
+      "Caterpillar pledged $100 million to workforce development over the next decade, reinforcing its commitment to talent and innovation."
+    ],
+    "opportunity_count": 5,
+    "opportunity_level": "high"
+  },
+  "processing_metadata": {
+    "timestamp": "2025-07-13T09:09:23.613175",
+    "model_used": "en_core_web_trf",
+    "text_length": 2255
+  }
+}
