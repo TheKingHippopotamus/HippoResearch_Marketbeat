@@ -1,0 +1,2490 @@
+{
+  "ticker": "UNH",
+  "entities": [
+    {
+      "text": "UnitedHealth Group",
+      "label": "ORG",
+      "start": 0,
+      "end": 18,
+      "sentence": "UnitedHealth Group (NYSE: UNH) shares have decreased as investors balance bullish analyst ratings and insider buying against regulatory and earnings concerns.",
+      "context": "UnitedHealth Group (NYSE: UNH) shares have decreased as investors ba",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "UNH",
+      "label": "ORG",
+      "start": 26,
+      "end": 29,
+      "sentence": "UnitedHealth Group (NYSE: UNH) shares have decreased as investors balance bullish analyst ratings and insider buying against regulatory and earnings concerns.",
+      "context": "UnitedHealth Group (NYSE: UNH) shares have decreased as investors balance bulli",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Congress",
+      "label": "ORG",
+      "start": 203,
+      "end": 211,
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "context": "erns.\nPositive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, s",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "UNH",
+      "label": "ORG",
+      "start": 229,
+      "end": 232,
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "context": "Insiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence i",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "the last 90 days",
+      "label": "DATE",
+      "start": 242,
+      "end": 258,
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "context": "members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadershi",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "UnitedHealth",
+      "label": "ORG",
+      "start": 284,
+      "end": 296,
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "context": "tock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress B",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Congress",
+      "label": "ORG",
+      "start": 336,
+      "end": 344,
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "context": "itedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:\nUNH is featured as",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "UNH",
+      "label": "ORG",
+      "start": 352,
+      "end": 355,
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "context": "dership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:\nUNH is featured as one of thr",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "UNH",
+      "label": "ORG",
+      "start": 376,
+      "end": 379,
+      "sentence": "UNH is featured as one of three stocks to buy ahead of earnings season, with analysts highlighting a clear bottom formation and a consensus price target implying nearly 38% upside.",
+      "context": "iders and Congress Buying UNH\nPositive Sentiment:\nUNH is featured as one of three stocks to buy ahead o",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "one",
+      "label": "CARDINAL",
+      "start": 395,
+      "end": 398,
+      "sentence": "UNH is featured as one of three stocks to buy ahead of earnings season, with analysts highlighting a clear bottom formation and a consensus price target implying nearly 38% upside.",
+      "context": "Buying UNH\nPositive Sentiment:\nUNH is featured as one of three stocks to buy ahead of earnings season,",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "three",
+      "label": "CARDINAL",
+      "start": 402,
+      "end": 407,
+      "sentence": "UNH is featured as one of three stocks to buy ahead of earnings season, with analysts highlighting a clear bottom formation and a consensus price target implying nearly 38% upside.",
+      "context": "UNH\nPositive Sentiment:\nUNH is featured as one of three stocks to buy ahead of earnings season, with anal",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "nearly 38%",
+      "label": "PERCENT",
+      "start": 538,
+      "end": 548,
+      "sentence": "UNH is featured as one of three stocks to buy ahead of earnings season, with analysts highlighting a clear bottom formation and a consensus price target implying nearly 38% upside.",
+      "context": "m formation and a consensus price target implying nearly 38% upside.\n3 Stocks to Buy Ahead of the Upcoming Ear",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "3",
+      "label": "CARDINAL",
+      "start": 557,
+      "end": 558,
+      "sentence": "3 Stocks to Buy Ahead of the Upcoming Earnings Season\nPositive Sentiment:\nWall Street analysts remain optimistic on UNH, maintaining a Moderate Buy consensus rating and significant upside to the current price.",
+      "context": "onsensus price target implying nearly 38% upside.\n3 Stocks to Buy Ahead of the Upcoming Earnings Seas",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "UNH",
+      "label": "ORG",
+      "start": 673,
+      "end": 676,
+      "sentence": "3 Stocks to Buy Ahead of the Upcoming Earnings Season\nPositive Sentiment:\nWall Street analysts remain optimistic on UNH, maintaining a Moderate Buy consensus rating and significant upside to the current price.",
+      "context": "timent:\nWall Street analysts remain optimistic on UNH, maintaining a Moderate Buy consensus rating and",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "UnitedHealth",
+      "label": "ORG",
+      "start": 770,
+      "end": 782,
+      "sentence": "Is UnitedHealth (UNH) a Buy?",
+      "context": "g and significant upside to the current price.\nIs UnitedHealth (UNH) a Buy?\nNeutral Sentiment:\nUnitedHealth is o",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "UNH",
+      "label": "ORG",
+      "start": 784,
+      "end": 787,
+      "sentence": "Is UnitedHealth (UNH) a Buy?",
+      "context": "ant upside to the current price.\nIs UnitedHealth (UNH) a Buy?\nNeutral Sentiment:\nUnitedHealth is one of",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "UnitedHealth",
+      "label": "ORG",
+      "start": 815,
+      "end": 827,
+      "sentence": "UnitedHealth is one of several medical stocks highlighted by MarketBeat’s screener tool for investors to watch, reflecting its prominence in the healthcare sector.\nMedical Stocks To Watch Now - July 10th\nNeutral Sentiment:\nUNH has appeared among the most-searched stocks on Zacks.com as investors seek insights into its future prospects.\nUNH Attracting Investor Attention\nNeutral Sentiment:",
+      "context": ".\nIs UnitedHealth (UNH) a Buy?\nNeutral Sentiment:\nUnitedHealth is one of several medical stocks highlighted by M",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "one",
+      "label": "CARDINAL",
+      "start": 831,
+      "end": 834,
+      "sentence": "UnitedHealth is one of several medical stocks highlighted by MarketBeat’s screener tool for investors to watch, reflecting its prominence in the healthcare sector.\nMedical Stocks To Watch Now - July 10th\nNeutral Sentiment:\nUNH has appeared among the most-searched stocks on Zacks.com as investors seek insights into its future prospects.\nUNH Attracting Investor Attention\nNeutral Sentiment:",
+      "context": "h (UNH) a Buy?\nNeutral Sentiment:\nUnitedHealth is one of several medical stocks highlighted by MarketBe",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "MarketBeat",
+      "label": "ORG",
+      "start": 876,
+      "end": 886,
+      "sentence": "UnitedHealth is one of several medical stocks highlighted by MarketBeat’s screener tool for investors to watch, reflecting its prominence in the healthcare sector.\nMedical Stocks To Watch Now - July 10th\nNeutral Sentiment:\nUNH has appeared among the most-searched stocks on Zacks.com as investors seek insights into its future prospects.\nUNH Attracting Investor Attention\nNeutral Sentiment:",
+      "context": "h is one of several medical stocks highlighted by MarketBeat’s screener tool for investors to watch, reflectin",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "July 10th",
+      "label": "DATE",
+      "start": 1009,
+      "end": 1018,
+      "sentence": "UnitedHealth is one of several medical stocks highlighted by MarketBeat’s screener tool for investors to watch, reflecting its prominence in the healthcare sector.\nMedical Stocks To Watch Now - July 10th\nNeutral Sentiment:\nUNH has appeared among the most-searched stocks on Zacks.com as investors seek insights into its future prospects.\nUNH Attracting Investor Attention\nNeutral Sentiment:",
+      "context": "healthcare sector.\nMedical Stocks To Watch Now - July 10th\nNeutral Sentiment:\nUNH has appeared among the mos",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "UNH",
+      "label": "ORG",
+      "start": 1038,
+      "end": 1041,
+      "sentence": "UnitedHealth is one of several medical stocks highlighted by MarketBeat’s screener tool for investors to watch, reflecting its prominence in the healthcare sector.\nMedical Stocks To Watch Now - July 10th\nNeutral Sentiment:\nUNH has appeared among the most-searched stocks on Zacks.com as investors seek insights into its future prospects.\nUNH Attracting Investor Attention\nNeutral Sentiment:",
+      "context": "tocks To Watch Now - July 10th\nNeutral Sentiment:\nUNH has appeared among the most-searched stocks on Za",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "UNH",
+      "label": "ORG",
+      "start": 1153,
+      "end": 1156,
+      "sentence": "UnitedHealth is one of several medical stocks highlighted by MarketBeat’s screener tool for investors to watch, reflecting its prominence in the healthcare sector.\nMedical Stocks To Watch Now - July 10th\nNeutral Sentiment:\nUNH has appeared among the most-searched stocks on Zacks.com as investors seek insights into its future prospects.\nUNH Attracting Investor Attention\nNeutral Sentiment:",
+      "context": "nvestors seek insights into its future prospects.\nUNH Attracting Investor Attention\nNeutral Sentiment:",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "UNH",
+      "label": "ORG",
+      "start": 1243,
+      "end": 1246,
+      "sentence": "The stock market outlook piece notes UNH among three comeback candidates for investors considering underperforming names with turnaround potential.",
+      "context": "l Sentiment:\nThe stock market outlook piece notes UNH among three comeback candidates for investors con",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "three",
+      "label": "CARDINAL",
+      "start": 1253,
+      "end": 1258,
+      "sentence": "The stock market outlook piece notes UNH among three comeback candidates for investors considering underperforming names with turnaround potential.",
+      "context": "t:\nThe stock market outlook piece notes UNH among three comeback candidates for investors considering und",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "3",
+      "label": "CARDINAL",
+      "start": 1390,
+      "end": 1391,
+      "sentence": "Why Wall Street Is Betting on These 3 Comeback Stocks\nNegative Sentiment:",
+      "context": "nd potential.\nWhy Wall Street Is Betting on These 3 Comeback Stocks\nNegative Sentiment:\nUnitedHealth’",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "UnitedHealth",
+      "label": "ORG",
+      "start": 1428,
+      "end": 1440,
+      "sentence": "UnitedHealth’s HouseCalls unit is under a DOJ criminal probe over billing practices, raising regulatory and reputational risks.\nBilling or Healing?",
+      "context": "ng on These 3 Comeback Stocks\nNegative Sentiment:\nUnitedHealth’s HouseCalls unit is under a DOJ criminal probe o",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "HouseCalls",
+      "label": "ORG",
+      "start": 1443,
+      "end": 1453,
+      "sentence": "UnitedHealth’s HouseCalls unit is under a DOJ criminal probe over billing practices, raising regulatory and reputational risks.\nBilling or Healing?",
+      "context": "omeback Stocks\nNegative Sentiment:\nUnitedHealth’s HouseCalls unit is under a DOJ criminal probe over billing p",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "DOJ",
+      "label": "ORG",
+      "start": 1470,
+      "end": 1473,
+      "sentence": "UnitedHealth’s HouseCalls unit is under a DOJ criminal probe over billing practices, raising regulatory and reputational risks.\nBilling or Healing?",
+      "context": "timent:\nUnitedHealth’s HouseCalls unit is under a DOJ criminal probe over billing practices, raising re",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "DOJ",
+      "label": "ORG",
+      "start": 1576,
+      "end": 1579,
+      "sentence": "DOJ",
+      "context": "atory and reputational risks.\nBilling or Healing? DOJ Checkup\nNegative Sentiment:\nAnalysts warn that UN",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "UNH",
+      "label": "ORG",
+      "start": 1627,
+      "end": 1630,
+      "sentence": "Analysts warn that UNH’s Q2 results could face challenges on July 29 as the company works through rising medical costs and recent guidance revisions.",
+      "context": "OJ Checkup\nNegative Sentiment:\nAnalysts warn that UNH’s Q2 results could face challenges on July 29 as",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q2",
+      "label": "DATE",
+      "start": 1633,
+      "end": 1635,
+      "sentence": "Analysts warn that UNH’s Q2 results could face challenges on July 29 as the company works through rising medical costs and recent guidance revisions.",
+      "context": "ckup\nNegative Sentiment:\nAnalysts warn that UNH’s Q2 results could face challenges on July 29 as the c",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "July 29",
+      "label": "DATE",
+      "start": 1669,
+      "end": 1676,
+      "sentence": "Analysts warn that UNH’s Q2 results could face challenges on July 29 as the company works through rising medical costs and recent guidance revisions.",
+      "context": "rn that UNH’s Q2 results could face challenges on July 29 as the company works through rising medical costs",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "UnitedHealth",
+      "label": "ORG",
+      "start": 1758,
+      "end": 1770,
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "context": "sing medical costs and recent guidance revisions.\nUnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is c",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q2",
+      "label": "DATE",
+      "start": 1773,
+      "end": 1775,
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "context": "sts and recent guidance revisions.\nUnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contra",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "UNH",
+      "label": "ORG",
+      "start": 1812,
+      "end": 1815,
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "context": "edHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna a",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Cigna",
+      "label": "ORG",
+      "start": 1858,
+      "end": 1863,
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "context": "nt:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidan",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "UnitedHealth",
+      "label": "ORG",
+      "start": 1946,
+      "end": 1958,
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "context": "es, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Cigna",
+      "label": "ORG",
+      "start": 1963,
+      "end": 1968,
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "context": "ce, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generat",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "1+ days ago",
+      "label": "DATE",
+      "start": 1996,
+      "end": 2007,
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "context": "UnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AI",
+      "label": "ORG",
+      "start": 2008,
+      "end": 2010,
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "context": "vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    }
+  ],
+  "relationships": [
+    {
+      "type": "SVO",
+      "subject": "investors",
+      "verb": "balance",
+      "object": "ratings",
+      "sentence": "UnitedHealth Group (NYSE: UNH) shares have decreased as investors balance bullish analyst ratings and insider buying against regulatory and earnings concerns.",
+      "importance": 6
+    },
+    {
+      "type": "SVO",
+      "subject": "Insiders",
+      "verb": "buying",
+      "object": "stock",
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "importance": 11
+    },
+    {
+      "type": "SVO",
+      "subject": "Insiders",
+      "verb": "Buying",
+      "object": "UNH",
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "importance": 11
+    },
+    {
+      "type": "SVO",
+      "subject": "analysts",
+      "verb": "highlighting",
+      "object": "formation",
+      "sentence": "UNH is featured as one of three stocks to buy ahead of earnings season, with analysts highlighting a clear bottom formation and a consensus price target implying nearly 38% upside.",
+      "importance": 9
+    },
+    {
+      "type": "SVO",
+      "subject": "investors",
+      "verb": "seek",
+      "object": "insights",
+      "sentence": "UnitedHealth is one of several medical stocks highlighted by MarketBeat’s screener tool for investors to watch, reflecting its prominence in the healthcare sector.\nMedical Stocks To Watch Now - July 10th\nNeutral Sentiment:\nUNH has appeared among the most-searched stocks on Zacks.com as investors seek insights into its future prospects.\nUNH Attracting Investor Attention\nNeutral Sentiment:",
+      "importance": 8
+    },
+    {
+      "type": "SVO",
+      "subject": "UNH",
+      "verb": "Attracting",
+      "object": "Attention",
+      "sentence": "UnitedHealth is one of several medical stocks highlighted by MarketBeat’s screener tool for investors to watch, reflecting its prominence in the healthcare sector.\nMedical Stocks To Watch Now - July 10th\nNeutral Sentiment:\nUNH has appeared among the most-searched stocks on Zacks.com as investors seek insights into its future prospects.\nUNH Attracting Investor Attention\nNeutral Sentiment:",
+      "importance": 8
+    },
+    {
+      "type": "SVO",
+      "subject": "piece",
+      "verb": "notes",
+      "object": "UNH",
+      "sentence": "The stock market outlook piece notes UNH among three comeback candidates for investors considering underperforming names with turnaround potential.",
+      "importance": 5
+    },
+    {
+      "type": "SVO",
+      "subject": "Street",
+      "verb": "Betting",
+      "object": "Sentiment",
+      "sentence": "Why Wall Street Is Betting on These 3 Comeback Stocks\nNegative Sentiment:",
+      "importance": 1
+    },
+    {
+      "type": "SVO",
+      "subject": "results",
+      "verb": "face",
+      "object": "challenges",
+      "sentence": "Analysts warn that UNH’s Q2 results could face challenges on July 29 as the company works through rising medical costs and recent guidance revisions.",
+      "importance": 6
+    },
+    {
+      "type": "SVO",
+      "subject": "Q2",
+      "verb": "Get",
+      "object": "UnitedHealth",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "importance": 14
+    },
+    {
+      "type": "SVO",
+      "subject": "it",
+      "verb": "navigates",
+      "object": "changes",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "importance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UnitedHealth",
+      "entity1_type": "ORG",
+      "entity2": "Group",
+      "entity2_type": "ORG",
+      "sentence": "UnitedHealth Group (NYSE: UNH) shares have decreased as investors balance bullish analyst ratings and insider buying against regulatory and earnings concerns.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UnitedHealth",
+      "entity1_type": "ORG",
+      "entity2": "UNH",
+      "entity2_type": "ORG",
+      "sentence": "UnitedHealth Group (NYSE: UNH) shares have decreased as investors balance bullish analyst ratings and insider buying against regulatory and earnings concerns.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Group",
+      "entity1_type": "ORG",
+      "entity2": "UNH",
+      "entity2_type": "ORG",
+      "sentence": "UnitedHealth Group (NYSE: UNH) shares have decreased as investors balance bullish analyst ratings and insider buying against regulatory and earnings concerns.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Congress",
+      "entity1_type": "ORG",
+      "entity2": "UNH",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Congress",
+      "entity1_type": "ORG",
+      "entity2": "the",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Congress",
+      "entity1_type": "ORG",
+      "entity2": "last",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Congress",
+      "entity1_type": "ORG",
+      "entity2": "90",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Congress",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Congress",
+      "entity1_type": "ORG",
+      "entity2": "UnitedHealth",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Congress",
+      "entity1_type": "ORG",
+      "entity2": "Congress",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Congress",
+      "entity1_type": "ORG",
+      "entity2": "UNH",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UNH",
+      "entity1_type": "ORG",
+      "entity2": "the",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UNH",
+      "entity1_type": "ORG",
+      "entity2": "last",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UNH",
+      "entity1_type": "ORG",
+      "entity2": "90",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UNH",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UNH",
+      "entity1_type": "ORG",
+      "entity2": "UnitedHealth",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UNH",
+      "entity1_type": "ORG",
+      "entity2": "Congress",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UNH",
+      "entity1_type": "ORG",
+      "entity2": "UNH",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "last",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "90",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "UnitedHealth",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "Congress",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "UNH",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "last",
+      "entity1_type": "DATE",
+      "entity2": "90",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "last",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "last",
+      "entity1_type": "DATE",
+      "entity2": "UnitedHealth",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "last",
+      "entity1_type": "DATE",
+      "entity2": "Congress",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "last",
+      "entity1_type": "DATE",
+      "entity2": "UNH",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "90",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "90",
+      "entity1_type": "DATE",
+      "entity2": "UnitedHealth",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "90",
+      "entity1_type": "DATE",
+      "entity2": "Congress",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "90",
+      "entity1_type": "DATE",
+      "entity2": "UNH",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "UnitedHealth",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "Congress",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "UNH",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UnitedHealth",
+      "entity1_type": "ORG",
+      "entity2": "Congress",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UnitedHealth",
+      "entity1_type": "ORG",
+      "entity2": "UNH",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Congress",
+      "entity1_type": "ORG",
+      "entity2": "UNH",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UNH",
+      "entity1_type": "ORG",
+      "entity2": "one",
+      "entity2_type": "CARDINAL",
+      "sentence": "UNH is featured as one of three stocks to buy ahead of earnings season, with analysts highlighting a clear bottom formation and a consensus price target implying nearly 38% upside.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UNH",
+      "entity1_type": "ORG",
+      "entity2": "three",
+      "entity2_type": "CARDINAL",
+      "sentence": "UNH is featured as one of three stocks to buy ahead of earnings season, with analysts highlighting a clear bottom formation and a consensus price target implying nearly 38% upside.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UNH",
+      "entity1_type": "ORG",
+      "entity2": "nearly",
+      "entity2_type": "PERCENT",
+      "sentence": "UNH is featured as one of three stocks to buy ahead of earnings season, with analysts highlighting a clear bottom formation and a consensus price target implying nearly 38% upside.",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UNH",
+      "entity1_type": "ORG",
+      "entity2": "38",
+      "entity2_type": "PERCENT",
+      "sentence": "UNH is featured as one of three stocks to buy ahead of earnings season, with analysts highlighting a clear bottom formation and a consensus price target implying nearly 38% upside.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UNH",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "UNH is featured as one of three stocks to buy ahead of earnings season, with analysts highlighting a clear bottom formation and a consensus price target implying nearly 38% upside.",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "one",
+      "entity1_type": "CARDINAL",
+      "entity2": "three",
+      "entity2_type": "CARDINAL",
+      "sentence": "UNH is featured as one of three stocks to buy ahead of earnings season, with analysts highlighting a clear bottom formation and a consensus price target implying nearly 38% upside.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "one",
+      "entity1_type": "CARDINAL",
+      "entity2": "nearly",
+      "entity2_type": "PERCENT",
+      "sentence": "UNH is featured as one of three stocks to buy ahead of earnings season, with analysts highlighting a clear bottom formation and a consensus price target implying nearly 38% upside.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "one",
+      "entity1_type": "CARDINAL",
+      "entity2": "38",
+      "entity2_type": "PERCENT",
+      "sentence": "UNH is featured as one of three stocks to buy ahead of earnings season, with analysts highlighting a clear bottom formation and a consensus price target implying nearly 38% upside.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "one",
+      "entity1_type": "CARDINAL",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "UNH is featured as one of three stocks to buy ahead of earnings season, with analysts highlighting a clear bottom formation and a consensus price target implying nearly 38% upside.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "three",
+      "entity1_type": "CARDINAL",
+      "entity2": "nearly",
+      "entity2_type": "PERCENT",
+      "sentence": "UNH is featured as one of three stocks to buy ahead of earnings season, with analysts highlighting a clear bottom formation and a consensus price target implying nearly 38% upside.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "three",
+      "entity1_type": "CARDINAL",
+      "entity2": "38",
+      "entity2_type": "PERCENT",
+      "sentence": "UNH is featured as one of three stocks to buy ahead of earnings season, with analysts highlighting a clear bottom formation and a consensus price target implying nearly 38% upside.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "three",
+      "entity1_type": "CARDINAL",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "UNH is featured as one of three stocks to buy ahead of earnings season, with analysts highlighting a clear bottom formation and a consensus price target implying nearly 38% upside.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "nearly",
+      "entity1_type": "PERCENT",
+      "entity2": "38",
+      "entity2_type": "PERCENT",
+      "sentence": "UNH is featured as one of three stocks to buy ahead of earnings season, with analysts highlighting a clear bottom formation and a consensus price target implying nearly 38% upside.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "nearly",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "UNH is featured as one of three stocks to buy ahead of earnings season, with analysts highlighting a clear bottom formation and a consensus price target implying nearly 38% upside.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "38",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "UNH is featured as one of three stocks to buy ahead of earnings season, with analysts highlighting a clear bottom formation and a consensus price target implying nearly 38% upside.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3",
+      "entity1_type": "CARDINAL",
+      "entity2": "UNH",
+      "entity2_type": "ORG",
+      "sentence": "3 Stocks to Buy Ahead of the Upcoming Earnings Season\nPositive Sentiment:\nWall Street analysts remain optimistic on UNH, maintaining a Moderate Buy consensus rating and significant upside to the current price.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UnitedHealth",
+      "entity1_type": "ORG",
+      "entity2": "UNH",
+      "entity2_type": "ORG",
+      "sentence": "Is UnitedHealth (UNH) a Buy?",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UnitedHealth",
+      "entity1_type": "ORG",
+      "entity2": "one",
+      "entity2_type": "CARDINAL",
+      "sentence": "UnitedHealth is one of several medical stocks highlighted by MarketBeat’s screener tool for investors to watch, reflecting its prominence in the healthcare sector.\nMedical Stocks To Watch Now - July 10th\nNeutral Sentiment:\nUNH has appeared among the most-searched stocks on Zacks.com as investors seek insights into its future prospects.\nUNH Attracting Investor Attention\nNeutral Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UnitedHealth",
+      "entity1_type": "ORG",
+      "entity2": "MarketBeat",
+      "entity2_type": "ORG",
+      "sentence": "UnitedHealth is one of several medical stocks highlighted by MarketBeat’s screener tool for investors to watch, reflecting its prominence in the healthcare sector.\nMedical Stocks To Watch Now - July 10th\nNeutral Sentiment:\nUNH has appeared among the most-searched stocks on Zacks.com as investors seek insights into its future prospects.\nUNH Attracting Investor Attention\nNeutral Sentiment:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UnitedHealth",
+      "entity1_type": "ORG",
+      "entity2": "July",
+      "entity2_type": "DATE",
+      "sentence": "UnitedHealth is one of several medical stocks highlighted by MarketBeat’s screener tool for investors to watch, reflecting its prominence in the healthcare sector.\nMedical Stocks To Watch Now - July 10th\nNeutral Sentiment:\nUNH has appeared among the most-searched stocks on Zacks.com as investors seek insights into its future prospects.\nUNH Attracting Investor Attention\nNeutral Sentiment:",
+      "distance": 33
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UnitedHealth",
+      "entity1_type": "ORG",
+      "entity2": "10th",
+      "entity2_type": "DATE",
+      "sentence": "UnitedHealth is one of several medical stocks highlighted by MarketBeat’s screener tool for investors to watch, reflecting its prominence in the healthcare sector.\nMedical Stocks To Watch Now - July 10th\nNeutral Sentiment:\nUNH has appeared among the most-searched stocks on Zacks.com as investors seek insights into its future prospects.\nUNH Attracting Investor Attention\nNeutral Sentiment:",
+      "distance": 34
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UnitedHealth",
+      "entity1_type": "ORG",
+      "entity2": "UNH",
+      "entity2_type": "ORG",
+      "sentence": "UnitedHealth is one of several medical stocks highlighted by MarketBeat’s screener tool for investors to watch, reflecting its prominence in the healthcare sector.\nMedical Stocks To Watch Now - July 10th\nNeutral Sentiment:\nUNH has appeared among the most-searched stocks on Zacks.com as investors seek insights into its future prospects.\nUNH Attracting Investor Attention\nNeutral Sentiment:",
+      "distance": 40
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UnitedHealth",
+      "entity1_type": "ORG",
+      "entity2": "UNH",
+      "entity2_type": "ORG",
+      "sentence": "UnitedHealth is one of several medical stocks highlighted by MarketBeat’s screener tool for investors to watch, reflecting its prominence in the healthcare sector.\nMedical Stocks To Watch Now - July 10th\nNeutral Sentiment:\nUNH has appeared among the most-searched stocks on Zacks.com as investors seek insights into its future prospects.\nUNH Attracting Investor Attention\nNeutral Sentiment:",
+      "distance": 61
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "one",
+      "entity1_type": "CARDINAL",
+      "entity2": "MarketBeat",
+      "entity2_type": "ORG",
+      "sentence": "UnitedHealth is one of several medical stocks highlighted by MarketBeat’s screener tool for investors to watch, reflecting its prominence in the healthcare sector.\nMedical Stocks To Watch Now - July 10th\nNeutral Sentiment:\nUNH has appeared among the most-searched stocks on Zacks.com as investors seek insights into its future prospects.\nUNH Attracting Investor Attention\nNeutral Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "one",
+      "entity1_type": "CARDINAL",
+      "entity2": "July",
+      "entity2_type": "DATE",
+      "sentence": "UnitedHealth is one of several medical stocks highlighted by MarketBeat’s screener tool for investors to watch, reflecting its prominence in the healthcare sector.\nMedical Stocks To Watch Now - July 10th\nNeutral Sentiment:\nUNH has appeared among the most-searched stocks on Zacks.com as investors seek insights into its future prospects.\nUNH Attracting Investor Attention\nNeutral Sentiment:",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "one",
+      "entity1_type": "CARDINAL",
+      "entity2": "10th",
+      "entity2_type": "DATE",
+      "sentence": "UnitedHealth is one of several medical stocks highlighted by MarketBeat’s screener tool for investors to watch, reflecting its prominence in the healthcare sector.\nMedical Stocks To Watch Now - July 10th\nNeutral Sentiment:\nUNH has appeared among the most-searched stocks on Zacks.com as investors seek insights into its future prospects.\nUNH Attracting Investor Attention\nNeutral Sentiment:",
+      "distance": 32
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "one",
+      "entity1_type": "CARDINAL",
+      "entity2": "UNH",
+      "entity2_type": "ORG",
+      "sentence": "UnitedHealth is one of several medical stocks highlighted by MarketBeat’s screener tool for investors to watch, reflecting its prominence in the healthcare sector.\nMedical Stocks To Watch Now - July 10th\nNeutral Sentiment:\nUNH has appeared among the most-searched stocks on Zacks.com as investors seek insights into its future prospects.\nUNH Attracting Investor Attention\nNeutral Sentiment:",
+      "distance": 38
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "one",
+      "entity1_type": "CARDINAL",
+      "entity2": "UNH",
+      "entity2_type": "ORG",
+      "sentence": "UnitedHealth is one of several medical stocks highlighted by MarketBeat’s screener tool for investors to watch, reflecting its prominence in the healthcare sector.\nMedical Stocks To Watch Now - July 10th\nNeutral Sentiment:\nUNH has appeared among the most-searched stocks on Zacks.com as investors seek insights into its future prospects.\nUNH Attracting Investor Attention\nNeutral Sentiment:",
+      "distance": 59
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MarketBeat",
+      "entity1_type": "ORG",
+      "entity2": "July",
+      "entity2_type": "DATE",
+      "sentence": "UnitedHealth is one of several medical stocks highlighted by MarketBeat’s screener tool for investors to watch, reflecting its prominence in the healthcare sector.\nMedical Stocks To Watch Now - July 10th\nNeutral Sentiment:\nUNH has appeared among the most-searched stocks on Zacks.com as investors seek insights into its future prospects.\nUNH Attracting Investor Attention\nNeutral Sentiment:",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MarketBeat",
+      "entity1_type": "ORG",
+      "entity2": "10th",
+      "entity2_type": "DATE",
+      "sentence": "UnitedHealth is one of several medical stocks highlighted by MarketBeat’s screener tool for investors to watch, reflecting its prominence in the healthcare sector.\nMedical Stocks To Watch Now - July 10th\nNeutral Sentiment:\nUNH has appeared among the most-searched stocks on Zacks.com as investors seek insights into its future prospects.\nUNH Attracting Investor Attention\nNeutral Sentiment:",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MarketBeat",
+      "entity1_type": "ORG",
+      "entity2": "UNH",
+      "entity2_type": "ORG",
+      "sentence": "UnitedHealth is one of several medical stocks highlighted by MarketBeat’s screener tool for investors to watch, reflecting its prominence in the healthcare sector.\nMedical Stocks To Watch Now - July 10th\nNeutral Sentiment:\nUNH has appeared among the most-searched stocks on Zacks.com as investors seek insights into its future prospects.\nUNH Attracting Investor Attention\nNeutral Sentiment:",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MarketBeat",
+      "entity1_type": "ORG",
+      "entity2": "UNH",
+      "entity2_type": "ORG",
+      "sentence": "UnitedHealth is one of several medical stocks highlighted by MarketBeat’s screener tool for investors to watch, reflecting its prominence in the healthcare sector.\nMedical Stocks To Watch Now - July 10th\nNeutral Sentiment:\nUNH has appeared among the most-searched stocks on Zacks.com as investors seek insights into its future prospects.\nUNH Attracting Investor Attention\nNeutral Sentiment:",
+      "distance": 52
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "July",
+      "entity1_type": "DATE",
+      "entity2": "10th",
+      "entity2_type": "DATE",
+      "sentence": "UnitedHealth is one of several medical stocks highlighted by MarketBeat’s screener tool for investors to watch, reflecting its prominence in the healthcare sector.\nMedical Stocks To Watch Now - July 10th\nNeutral Sentiment:\nUNH has appeared among the most-searched stocks on Zacks.com as investors seek insights into its future prospects.\nUNH Attracting Investor Attention\nNeutral Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "July",
+      "entity1_type": "DATE",
+      "entity2": "UNH",
+      "entity2_type": "ORG",
+      "sentence": "UnitedHealth is one of several medical stocks highlighted by MarketBeat’s screener tool for investors to watch, reflecting its prominence in the healthcare sector.\nMedical Stocks To Watch Now - July 10th\nNeutral Sentiment:\nUNH has appeared among the most-searched stocks on Zacks.com as investors seek insights into its future prospects.\nUNH Attracting Investor Attention\nNeutral Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "July",
+      "entity1_type": "DATE",
+      "entity2": "UNH",
+      "entity2_type": "ORG",
+      "sentence": "UnitedHealth is one of several medical stocks highlighted by MarketBeat’s screener tool for investors to watch, reflecting its prominence in the healthcare sector.\nMedical Stocks To Watch Now - July 10th\nNeutral Sentiment:\nUNH has appeared among the most-searched stocks on Zacks.com as investors seek insights into its future prospects.\nUNH Attracting Investor Attention\nNeutral Sentiment:",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "10th",
+      "entity1_type": "DATE",
+      "entity2": "UNH",
+      "entity2_type": "ORG",
+      "sentence": "UnitedHealth is one of several medical stocks highlighted by MarketBeat’s screener tool for investors to watch, reflecting its prominence in the healthcare sector.\nMedical Stocks To Watch Now - July 10th\nNeutral Sentiment:\nUNH has appeared among the most-searched stocks on Zacks.com as investors seek insights into its future prospects.\nUNH Attracting Investor Attention\nNeutral Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "10th",
+      "entity1_type": "DATE",
+      "entity2": "UNH",
+      "entity2_type": "ORG",
+      "sentence": "UnitedHealth is one of several medical stocks highlighted by MarketBeat’s screener tool for investors to watch, reflecting its prominence in the healthcare sector.\nMedical Stocks To Watch Now - July 10th\nNeutral Sentiment:\nUNH has appeared among the most-searched stocks on Zacks.com as investors seek insights into its future prospects.\nUNH Attracting Investor Attention\nNeutral Sentiment:",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UNH",
+      "entity1_type": "ORG",
+      "entity2": "UNH",
+      "entity2_type": "ORG",
+      "sentence": "UnitedHealth is one of several medical stocks highlighted by MarketBeat’s screener tool for investors to watch, reflecting its prominence in the healthcare sector.\nMedical Stocks To Watch Now - July 10th\nNeutral Sentiment:\nUNH has appeared among the most-searched stocks on Zacks.com as investors seek insights into its future prospects.\nUNH Attracting Investor Attention\nNeutral Sentiment:",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UNH",
+      "entity1_type": "ORG",
+      "entity2": "three",
+      "entity2_type": "CARDINAL",
+      "sentence": "The stock market outlook piece notes UNH among three comeback candidates for investors considering underperforming names with turnaround potential.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UnitedHealth",
+      "entity1_type": "ORG",
+      "entity2": "HouseCalls",
+      "entity2_type": "ORG",
+      "sentence": "UnitedHealth’s HouseCalls unit is under a DOJ criminal probe over billing practices, raising regulatory and reputational risks.\nBilling or Healing?",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UnitedHealth",
+      "entity1_type": "ORG",
+      "entity2": "DOJ",
+      "entity2_type": "ORG",
+      "sentence": "UnitedHealth’s HouseCalls unit is under a DOJ criminal probe over billing practices, raising regulatory and reputational risks.\nBilling or Healing?",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "HouseCalls",
+      "entity1_type": "ORG",
+      "entity2": "DOJ",
+      "entity2_type": "ORG",
+      "sentence": "UnitedHealth’s HouseCalls unit is under a DOJ criminal probe over billing practices, raising regulatory and reputational risks.\nBilling or Healing?",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UNH",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "Analysts warn that UNH’s Q2 results could face challenges on July 29 as the company works through rising medical costs and recent guidance revisions.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UNH",
+      "entity1_type": "ORG",
+      "entity2": "July",
+      "entity2_type": "DATE",
+      "sentence": "Analysts warn that UNH’s Q2 results could face challenges on July 29 as the company works through rising medical costs and recent guidance revisions.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UNH",
+      "entity1_type": "ORG",
+      "entity2": "29",
+      "entity2_type": "DATE",
+      "sentence": "Analysts warn that UNH’s Q2 results could face challenges on July 29 as the company works through rising medical costs and recent guidance revisions.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "July",
+      "entity2_type": "DATE",
+      "sentence": "Analysts warn that UNH’s Q2 results could face challenges on July 29 as the company works through rising medical costs and recent guidance revisions.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "29",
+      "entity2_type": "DATE",
+      "sentence": "Analysts warn that UNH’s Q2 results could face challenges on July 29 as the company works through rising medical costs and recent guidance revisions.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "July",
+      "entity1_type": "DATE",
+      "entity2": "29",
+      "entity2_type": "DATE",
+      "sentence": "Analysts warn that UNH’s Q2 results could face challenges on July 29 as the company works through rising medical costs and recent guidance revisions.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UnitedHealth",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UnitedHealth",
+      "entity1_type": "ORG",
+      "entity2": "UNH",
+      "entity2_type": "ORG",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UnitedHealth",
+      "entity1_type": "ORG",
+      "entity2": "Cigna",
+      "entity2_type": "ORG",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UnitedHealth",
+      "entity1_type": "ORG",
+      "entity2": "UnitedHealth",
+      "entity2_type": "ORG",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 34
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UnitedHealth",
+      "entity1_type": "ORG",
+      "entity2": "Cigna",
+      "entity2_type": "ORG",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 36
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UnitedHealth",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 42
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UnitedHealth",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 43
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UnitedHealth",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 44
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UnitedHealth",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 45
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UnitedHealth",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 47
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "UNH",
+      "entity2_type": "ORG",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "Cigna",
+      "entity2_type": "ORG",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "UnitedHealth",
+      "entity2_type": "ORG",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 32
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "Cigna",
+      "entity2_type": "ORG",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 34
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 40
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 41
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 42
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 43
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 45
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UNH",
+      "entity1_type": "ORG",
+      "entity2": "Cigna",
+      "entity2_type": "ORG",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UNH",
+      "entity1_type": "ORG",
+      "entity2": "UnitedHealth",
+      "entity2_type": "ORG",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UNH",
+      "entity1_type": "ORG",
+      "entity2": "Cigna",
+      "entity2_type": "ORG",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UNH",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UNH",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 32
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UNH",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 33
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UNH",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 34
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UNH",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 36
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cigna",
+      "entity1_type": "ORG",
+      "entity2": "UnitedHealth",
+      "entity2_type": "ORG",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cigna",
+      "entity1_type": "ORG",
+      "entity2": "Cigna",
+      "entity2_type": "ORG",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cigna",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cigna",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cigna",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cigna",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cigna",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UnitedHealth",
+      "entity1_type": "ORG",
+      "entity2": "Cigna",
+      "entity2_type": "ORG",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UnitedHealth",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UnitedHealth",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UnitedHealth",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UnitedHealth",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UnitedHealth",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cigna",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cigna",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cigna",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cigna",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cigna",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ago",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "bullish analyst ratings",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "insider buying",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "regulatory and earnings concerns",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "UNH stock",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "the last 90 days",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "UnitedHealth's leadership",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "three stocks",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "earnings season",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "a clear bottom formation",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a consensus price target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "nearly 38% upside",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the Upcoming Earnings Season",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Wall Street analysts",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a Moderate Buy consensus rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "significant upside",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the current price",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a Buy",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "several medical stocks",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "MarketBeat’s screener tool",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "its prominence",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the healthcare sector",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the most-searched stocks",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "its future prospects",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Investor Attention",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "The stock market outlook piece",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "three comeback candidates",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "underperforming names",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "turnaround potential",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Wall Street",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "These 3 Comeback Stocks",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "UnitedHealth’s HouseCalls unit",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a DOJ criminal probe",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "billing practices",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "regulatory and reputational risks",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "UNH’s Q2 results",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the company",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "rising medical costs",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "recent guidance revisions",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "UnitedHealth's Q2",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "leadership changes",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "pulled guidance",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "mounting cost pressures",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Sector Turmoil",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "38%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "market",
+      "type": "pattern",
+      "category": "market_term"
+    }
+  ],
+  "important_sentences": [
+    {
+      "text": "UnitedHealth's Q2 Could Get Messy\nNegative Sentiment:\nUNH is contrasted unfavorably with peers like Cigna as it navigates leadership changes, pulled guidance, and mounting cost pressures.\nUnitedHealth vs. Cigna Amid Sector Turmoil\nPosted 1+ days ago\nAI Generated.",
+      "importance_score": 55,
+      "entity_count": 11,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 6,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Positive Sentiment:\nInsiders and members of Congress have been buying UNH stock in the last 90 days, signaling confidence in UnitedHealth's leadership and outlook.\nInsiders and Congress Buying UNH\nPositive Sentiment:",
+      "importance_score": 44,
+      "entity_count": 9,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 5,
+      "sentiment": "positive"
+    },
+    {
+      "text": "UnitedHealth is one of several medical stocks highlighted by MarketBeat’s screener tool for investors to watch, reflecting its prominence in the healthcare sector.\nMedical Stocks To Watch Now - July 10th\nNeutral Sentiment:\nUNH has appeared among the most-searched stocks on Zacks.com as investors seek insights into its future prospects.\nUNH Attracting Investor Attention\nNeutral Sentiment:",
+      "importance_score": 33,
+      "entity_count": 7,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "UNH is featured as one of three stocks to buy ahead of earnings season, with analysts highlighting a clear bottom formation and a consensus price target implying nearly 38% upside.",
+      "importance_score": 25,
+      "entity_count": 6,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "UnitedHealth Group (NYSE: UNH) shares have decreased as investors balance bullish analyst ratings and insider buying against regulatory and earnings concerns.",
+      "importance_score": 23,
+      "entity_count": 3,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "UnitedHealth’s HouseCalls unit is under a DOJ criminal probe over billing practices, raising regulatory and reputational risks.\nBilling or Healing?",
+      "importance_score": 21,
+      "entity_count": 3,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "3 Stocks to Buy Ahead of the Upcoming Earnings Season\nPositive Sentiment:\nWall Street analysts remain optimistic on UNH, maintaining a Moderate Buy consensus rating and significant upside to the current price.",
+      "importance_score": 20,
+      "entity_count": 2,
+      "financial_keyword_count": 4,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Analysts warn that UNH’s Q2 results could face challenges on July 29 as the company works through rising medical costs and recent guidance revisions.",
+      "importance_score": 18,
+      "entity_count": 4,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "The stock market outlook piece notes UNH among three comeback candidates for investors considering underperforming names with turnaround potential.",
+      "importance_score": 17,
+      "entity_count": 2,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Is UnitedHealth (UNH) a Buy?",
+      "importance_score": 15,
+      "entity_count": 2,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    }
+  ],
+  "entity_statistics": {
+    "total_entities": 40,
+    "unique_entities": 18,
+    "type_counts": {
+      "ORG": 27,
+      "DATE": 6,
+      "CARDINAL": 6,
+      "PERCENT": 1
+    },
+    "type_distribution": {
+      "ORG": 0.675,
+      "DATE": 0.15,
+      "CARDINAL": 0.15,
+      "PERCENT": 0.025
+    },
+    "most_common_entities": [
+      [
+        "UNH",
+        11
+      ],
+      [
+        "UnitedHealth",
+        6
+      ],
+      [
+        "Congress",
+        2
+      ],
+      [
+        "one",
+        2
+      ],
+      [
+        "three",
+        2
+      ],
+      [
+        "3",
+        2
+      ],
+      [
+        "DOJ",
+        2
+      ],
+      [
+        "Q2",
+        2
+      ],
+      [
+        "Cigna",
+        2
+      ],
+      [
+        "UnitedHealth Group",
+        1
+      ]
+    ],
+    "entity_types_found": [
+      "ORG",
+      "DATE",
+      "CARDINAL",
+      "PERCENT"
+    ],
+    "company_entities": 27,
+    "person_entities": 0,
+    "financial_entities": 1,
+    "entity_density": 0.13986013986013987
+  },
+  "financial_analysis": {
+    "money_amounts": [],
+    "percentages": [
+      "nearly 38%"
+    ],
+    "companies": [
+      "UnitedHealth Group",
+      "UNH",
+      "Congress",
+      "UNH",
+      "UnitedHealth",
+      "Congress",
+      "UNH",
+      "UNH",
+      "UNH",
+      "UnitedHealth",
+      "UNH",
+      "UnitedHealth",
+      "MarketBeat",
+      "UNH",
+      "UNH",
+      "UNH",
+      "UnitedHealth",
+      "HouseCalls",
+      "DOJ",
+      "DOJ",
+      "UNH",
+      "UnitedHealth",
+      "UNH",
+      "Cigna",
+      "UnitedHealth",
+      "Cigna",
+      "AI"
+    ],
+    "people": [],
+    "dates": [
+      "the last 90 days",
+      "July 10th",
+      "Q2",
+      "July 29",
+      "Q2",
+      "1+ days ago"
+    ],
+    "financial_terms": [
+      "Earnings",
+      "earnings",
+      "market",
+      "stock"
+    ],
+    "financial_metrics": [],
+    "market_indicators": [
+      "rating",
+      "price",
+      "target"
+    ]
+  },
+  "temporal_analysis": {
+    "dates": [
+      "the last 90 days",
+      "July 10th",
+      "Q2",
+      "July 29",
+      "Q2",
+      "1+ days ago"
+    ],
+    "time_expressions": [],
+    "temporal_relationships": [
+      "future",
+      "recent",
+      "last",
+      "Upcoming"
+    ],
+    "quarters": [
+      "Q2",
+      "Q2"
+    ],
+    "years": [],
+    "time_periods": []
+  },
+  "sentiment_analysis": {
+    "positive_words": 4,
+    "negative_words": 3,
+    "positive_ratio": 0.013986013986013986,
+    "negative_ratio": 0.01048951048951049,
+    "sentiment_score": 0.003496503496503496,
+    "sentiment_label": "neutral",
+    "sentiment_strength": 0.003496503496503496,
+    "confidence": 0.03496503496503496
+  },
+  "industry_analysis": {
+    "dominant_industry": "healthcare",
+    "industry_scores": {
+      "tech": 1,
+      "finance": 0,
+      "healthcare": 4,
+      "energy": 0,
+      "retail": 0,
+      "automotive": 0,
+      "media": 0,
+      "industrial": 0,
+      "real_estate": 0,
+      "telecom": 0,
+      "food_beverage": 0,
+      "travel": 0,
+      "education": 0,
+      "professional": 0,
+      "mining": 0,
+      "aerospace": 0,
+      "environmental": 0,
+      "cannabis": 0
+    },
+    "confidence": 0.8
+  },
+  "market_analysis": {
+    "market_sentiment": "bullish",
+    "bullish_indicators": 2,
+    "bearish_indicators": 0,
+    "market_conditions": {
+      "volatility": "normal",
+      "volume": "normal",
+      "trend": "bullish"
+    },
+    "trading_activity": "normal"
+  },
+  "competitor_analysis": {
+    "companies_mentioned": [
+      "UnitedHealth Group",
+      "UNH",
+      "Congress",
+      "UNH",
+      "UnitedHealth",
+      "Congress",
+      "UNH",
+      "UNH",
+      "UNH",
+      "UnitedHealth",
+      "UNH",
+      "UnitedHealth",
+      "MarketBeat",
+      "UNH",
+      "UNH",
+      "UNH",
+      "UnitedHealth",
+      "HouseCalls",
+      "DOJ",
+      "DOJ",
+      "UNH",
+      "UnitedHealth",
+      "UNH",
+      "Cigna",
+      "UnitedHealth",
+      "Cigna",
+      "AI"
+    ],
+    "competitive_context": [
+      "The stock market outlook piece notes UNH among three comeback candidates for investors considering underperforming names with turnaround potential."
+    ],
+    "competitor_count": 27,
+    "has_competitive_language": true
+  },
+  "risk_analysis": {
+    "risk_sentences": [
+      "UnitedHealth Group (NYSE: UNH) shares have decreased as investors balance bullish analyst ratings and insider buying against regulatory and earnings concerns.",
+      "UnitedHealth’s HouseCalls unit is under a DOJ criminal probe over billing practices, raising regulatory and reputational risks.\nBilling or Healing?"
+    ],
+    "risk_count": 2,
+    "risk_level": "medium"
+  },
+  "opportunity_analysis": {
+    "opportunity_sentences": [
+      "The stock market outlook piece notes UNH among three comeback candidates for investors considering underperforming names with turnaround potential."
+    ],
+    "opportunity_count": 1,
+    "opportunity_level": "low"
+  },
+  "processing_metadata": {
+    "timestamp": "2025-07-13T05:59:04.834428",
+    "model_used": "en_core_web_trf",
+    "text_length": 2041
+  }
+}
