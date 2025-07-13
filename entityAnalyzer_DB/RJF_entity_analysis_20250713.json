@@ -1,0 +1,2949 @@
+{
+  "ticker": "RJF",
+  "entities": [
+    {
+      "text": "Raymond James Financial, Inc.",
+      "label": "ORG",
+      "start": 0,
+      "end": 29,
+      "sentence": "Raymond James Financial, Inc. (NYSE:RJF) saw its shares rise today after several bullish analyst moves and earnings estimate upgrades.",
+      "context": "Raymond James Financial, Inc. (NYSE:RJF) saw its shares rise today after severa",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "RJF",
+      "label": "ORG",
+      "start": 36,
+      "end": 39,
+      "sentence": "Raymond James Financial, Inc. (NYSE:RJF) saw its shares rise today after several bullish analyst moves and earnings estimate upgrades.",
+      "context": "Raymond James Financial, Inc. (NYSE:RJF) saw its shares rise today after several bullish",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "today",
+      "label": "DATE",
+      "start": 61,
+      "end": 66,
+      "sentence": "Raymond James Financial, Inc. (NYSE:RJF) saw its shares rise today after several bullish analyst moves and earnings estimate upgrades.",
+      "context": "es Financial, Inc. (NYSE:RJF) saw its shares rise today after several bullish analyst moves and earnings",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Wells Fargo",
+      "label": "ORG",
+      "start": 187,
+      "end": 198,
+      "sentence": "Positive drivers include a higher price target from Wells Fargo and raised EPS forecasts from Seaport Res Ptn, while new coverage on Vir Biotechnology and international share-price updates remain neutral.",
+      "context": "sitive drivers include a higher price target from Wells Fargo and raised EPS forecasts from Seaport Res Ptn, wh",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Seaport Res Ptn",
+      "label": "ORG",
+      "start": 229,
+      "end": 244,
+      "sentence": "Positive drivers include a higher price target from Wells Fargo and raised EPS forecasts from Seaport Res Ptn, while new coverage on Vir Biotechnology and international share-price updates remain neutral.",
+      "context": "et from Wells Fargo and raised EPS forecasts from Seaport Res Ptn, while new coverage on Vir Biotechnology and inte",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Vir Biotechnology",
+      "label": "ORG",
+      "start": 268,
+      "end": 285,
+      "sentence": "Positive drivers include a higher price target from Wells Fargo and raised EPS forecasts from Seaport Res Ptn, while new coverage on Vir Biotechnology and international share-price updates remain neutral.",
+      "context": "casts from Seaport Res Ptn, while new coverage on Vir Biotechnology and international share-price updates remain neut",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Wells Fargo & Company",
+      "label": "ORG",
+      "start": 360,
+      "end": 381,
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "context": "price updates remain neutral.\nPositive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $1",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "RJF",
+      "label": "ORG",
+      "start": 411,
+      "end": 414,
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "context": "ells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weig",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "163",
+      "label": "MONEY",
+      "start": 419,
+      "end": 422,
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "context": "go & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rati",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "155",
+      "label": "MONEY",
+      "start": 430,
+      "end": 433,
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "context": "y boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointin",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "roughly 2.8%",
+      "label": "PERCENT",
+      "start": 488,
+      "end": 500,
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "context": "maintained an “equal weight” rating, pointing to roughly 2.8% upside. Wells Fargo Forecast\nPositive Sentiment:",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Wells Fargo Forecast",
+      "label": "ORG",
+      "start": 509,
+      "end": 529,
+      "sentence": "Wells Fargo Forecast",
+      "context": "weight” rating, pointing to roughly 2.8% upside. Wells Fargo Forecast\nPositive Sentiment:\nSeaport Res Ptn raised its FY",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Seaport Res Ptn",
+      "label": "ORG",
+      "start": 550,
+      "end": 565,
+      "sentence": "Positive Sentiment:\nSeaport Res Ptn raised its FY2025 EPS estimate for RJF to $10.40 (from $10.30)",
+      "context": "upside. Wells Fargo Forecast\nPositive Sentiment:\nSeaport Res Ptn raised its FY2025 EPS estimate for RJF to $10.40",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "FY2025",
+      "label": "DATE",
+      "start": 577,
+      "end": 583,
+      "sentence": "Positive Sentiment:\nSeaport Res Ptn raised its FY2025 EPS estimate for RJF to $10.40 (from $10.30)",
+      "context": "st\nPositive Sentiment:\nSeaport Res Ptn raised its FY2025 EPS estimate for RJF to $10.40 (from $10.30) and",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "RJF",
+      "label": "ORG",
+      "start": 601,
+      "end": 604,
+      "sentence": "Positive Sentiment:\nSeaport Res Ptn raised its FY2025 EPS estimate for RJF to $10.40 (from $10.30)",
+      "context": "eaport Res Ptn raised its FY2025 EPS estimate for RJF to $10.40 (from $10.30) and lifted its Q4 2025 an",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "10.40",
+      "label": "MONEY",
+      "start": 609,
+      "end": 614,
+      "sentence": "Positive Sentiment:\nSeaport Res Ptn raised its FY2025 EPS estimate for RJF to $10.40 (from $10.30)",
+      "context": "es Ptn raised its FY2025 EPS estimate for RJF to $10.40 (from $10.30) and lifted its Q4 2025 and Q2 2026",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "10.30",
+      "label": "MONEY",
+      "start": 622,
+      "end": 627,
+      "sentence": "Positive Sentiment:\nSeaport Res Ptn raised its FY2025 EPS estimate for RJF to $10.40 (from $10.30)",
+      "context": "its FY2025 EPS estimate for RJF to $10.40 (from $10.30) and lifted its Q4 2025 and Q2 2026 EPS forecasts",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Q4 2025",
+      "label": "DATE",
+      "start": 644,
+      "end": 651,
+      "sentence": "lifted its Q4 2025 and Q2 2026 EPS forecasts.",
+      "context": "te for RJF to $10.40 (from $10.30) and lifted its Q4 2025 and Q2 2026 EPS forecasts. Bullish FY2025 Outlook",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q2 2026",
+      "label": "DATE",
+      "start": 656,
+      "end": 663,
+      "sentence": "lifted its Q4 2025 and Q2 2026 EPS forecasts.",
+      "context": "o $10.40 (from $10.30) and lifted its Q4 2025 and Q2 2026 EPS forecasts. Bullish FY2025 Outlook\nPositive Se",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "FY2025",
+      "label": "DATE",
+      "start": 687,
+      "end": 693,
+      "sentence": "Bullish FY2025 Outlook\nPositive Sentiment:",
+      "context": "ed its Q4 2025 and Q2 2026 EPS forecasts. Bullish FY2025 Outlook\nPositive Sentiment:\nSeaport Res Ptn also",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Seaport Res Ptn",
+      "label": "ORG",
+      "start": 722,
+      "end": 737,
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "context": "casts. Bullish FY2025 Outlook\nPositive Sentiment:\nSeaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (fro",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q1 2026",
+      "label": "DATE",
+      "start": 753,
+      "end": 760,
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "context": "ositive Sentiment:\nSeaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "2.90",
+      "label": "MONEY",
+      "start": 778,
+      "end": 782,
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "context": "t Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightl",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "2.89",
+      "label": "MONEY",
+      "start": 790,
+      "end": 794,
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "context": "so upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher. Q1",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "full-year",
+      "label": "DATE",
+      "start": 805,
+      "end": 814,
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "context": "2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher. Q1 2026 EPS Upgrade\nNe",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q1 2026",
+      "label": "DATE",
+      "start": 842,
+      "end": 849,
+      "sentence": "Q1 2026 EPS Upgrade\nNeutral Sentiment:\nRaymond James initiated coverage on Vir Biotechnology (VIR) with a positive outlook, reflecting research‐service growth.",
+      "context": "89), nudging full-year estimates slightly higher. Q1 2026 EPS Upgrade\nNeutral Sentiment:\nRaymond James init",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Raymond James",
+      "label": "ORG",
+      "start": 881,
+      "end": 894,
+      "sentence": "Q1 2026 EPS Upgrade\nNeutral Sentiment:\nRaymond James initiated coverage on Vir Biotechnology (VIR) with a positive outlook, reflecting research‐service growth.",
+      "context": "ly higher. Q1 2026 EPS Upgrade\nNeutral Sentiment:\nRaymond James initiated coverage on Vir Biotechnology (VIR) wit",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Vir Biotechnology",
+      "label": "ORG",
+      "start": 917,
+      "end": 934,
+      "sentence": "Q1 2026 EPS Upgrade\nNeutral Sentiment:\nRaymond James initiated coverage on Vir Biotechnology (VIR) with a positive outlook, reflecting research‐service growth.",
+      "context": "al Sentiment:\nRaymond James initiated coverage on Vir Biotechnology (VIR) with a positive outlook, reflecting researc",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "VIR",
+      "label": "ORG",
+      "start": 1014,
+      "end": 1017,
+      "sentence": "Coverage of VIR\nNeutral Sentiment:",
+      "context": ", reflecting research‐service growth. Coverage of VIR\nNeutral Sentiment:\nA London South East page updat",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "London South East",
+      "label": "LOC",
+      "start": 1039,
+      "end": 1056,
+      "sentence": "A London South East page updated RJF.B.US share-price data for U.K. investors.",
+      "context": "vice growth. Coverage of VIR\nNeutral Sentiment:\nA London South East page updated RJF.B.US share-price data for U.K. i",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "RJF.B.US",
+      "label": "ORG",
+      "start": 1070,
+      "end": 1078,
+      "sentence": "A London South East page updated RJF.B.US share-price data for U.K. investors.",
+      "context": "utral Sentiment:\nA London South East page updated RJF.B.US share-price data for U.K. investors. London South",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "U.K.",
+      "label": "GPE",
+      "start": 1100,
+      "end": 1104,
+      "sentence": "A London South East page updated RJF.B.US share-price data for U.K. investors.",
+      "context": "h East page updated RJF.B.US share-price data for U.K. investors. London South East Quote\nPosted 1+ days",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "London South East",
+      "label": "LOC",
+      "start": 1116,
+      "end": 1133,
+      "sentence": "London South East Quote\nPosted 1+ days ago\nAI Generated.",
+      "context": "ted RJF.B.US share-price data for U.K. investors. London South East Quote\nPosted 1+ days ago\nAI Generated. May Contai",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "1+ days ago",
+      "label": "DATE",
+      "start": 1147,
+      "end": 1158,
+      "sentence": "London South East Quote\nPosted 1+ days ago\nAI Generated.",
+      "context": "or U.K. investors. London South East Quote\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    }
+  ],
+  "relationships": [
+    {
+      "type": "SVO",
+      "subject": "drivers",
+      "verb": "include",
+      "object": "target",
+      "sentence": "Positive drivers include a higher price target from Wells Fargo and raised EPS forecasts from Seaport Res Ptn, while new coverage on Vir Biotechnology and international share-price updates remain neutral.",
+      "importance": 10
+    },
+    {
+      "type": "SVO",
+      "subject": "Fargo",
+      "verb": "boosted",
+      "object": "target",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "importance": 12
+    },
+    {
+      "type": "SVO",
+      "subject": "Ptn",
+      "verb": "raised",
+      "object": "estimate",
+      "sentence": "Positive Sentiment:\nSeaport Res Ptn raised its FY2025 EPS estimate for RJF to $10.40 (from $10.30)",
+      "importance": 8
+    },
+    {
+      "type": "SVO",
+      "subject": "Ptn",
+      "verb": "upped",
+      "object": "forecast",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "importance": 11
+    },
+    {
+      "type": "SVO",
+      "subject": "Sentiment",
+      "verb": "initiated",
+      "object": "coverage",
+      "sentence": "Q1 2026 EPS Upgrade\nNeutral Sentiment:\nRaymond James initiated coverage on Vir Biotechnology (VIR) with a positive outlook, reflecting research‐service growth.",
+      "importance": 9
+    },
+    {
+      "type": "SVO",
+      "subject": "James",
+      "verb": "initiated",
+      "object": "coverage",
+      "sentence": "Q1 2026 EPS Upgrade\nNeutral Sentiment:\nRaymond James initiated coverage on Vir Biotechnology (VIR) with a positive outlook, reflecting research‐service growth.",
+      "importance": 9
+    },
+    {
+      "type": "SVO",
+      "subject": "page",
+      "verb": "updated",
+      "object": "data",
+      "sentence": "A London South East page updated RJF.B.US share-price data for U.K. investors.",
+      "importance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Raymond",
+      "entity1_type": "ORG",
+      "entity2": "James",
+      "entity2_type": "ORG",
+      "sentence": "Raymond James Financial, Inc. (NYSE:RJF) saw its shares rise today after several bullish analyst moves and earnings estimate upgrades.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Raymond",
+      "entity1_type": "ORG",
+      "entity2": "Financial",
+      "entity2_type": "ORG",
+      "sentence": "Raymond James Financial, Inc. (NYSE:RJF) saw its shares rise today after several bullish analyst moves and earnings estimate upgrades.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Raymond",
+      "entity1_type": "ORG",
+      "entity2": ",",
+      "entity2_type": "ORG",
+      "sentence": "Raymond James Financial, Inc. (NYSE:RJF) saw its shares rise today after several bullish analyst moves and earnings estimate upgrades.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Raymond",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Raymond James Financial, Inc. (NYSE:RJF) saw its shares rise today after several bullish analyst moves and earnings estimate upgrades.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Raymond",
+      "entity1_type": "ORG",
+      "entity2": "RJF",
+      "entity2_type": "ORG",
+      "sentence": "Raymond James Financial, Inc. (NYSE:RJF) saw its shares rise today after several bullish analyst moves and earnings estimate upgrades.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Raymond",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "Raymond James Financial, Inc. (NYSE:RJF) saw its shares rise today after several bullish analyst moves and earnings estimate upgrades.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "James",
+      "entity1_type": "ORG",
+      "entity2": "Financial",
+      "entity2_type": "ORG",
+      "sentence": "Raymond James Financial, Inc. (NYSE:RJF) saw its shares rise today after several bullish analyst moves and earnings estimate upgrades.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "James",
+      "entity1_type": "ORG",
+      "entity2": ",",
+      "entity2_type": "ORG",
+      "sentence": "Raymond James Financial, Inc. (NYSE:RJF) saw its shares rise today after several bullish analyst moves and earnings estimate upgrades.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "James",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Raymond James Financial, Inc. (NYSE:RJF) saw its shares rise today after several bullish analyst moves and earnings estimate upgrades.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "James",
+      "entity1_type": "ORG",
+      "entity2": "RJF",
+      "entity2_type": "ORG",
+      "sentence": "Raymond James Financial, Inc. (NYSE:RJF) saw its shares rise today after several bullish analyst moves and earnings estimate upgrades.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "James",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "Raymond James Financial, Inc. (NYSE:RJF) saw its shares rise today after several bullish analyst moves and earnings estimate upgrades.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": ",",
+      "entity2_type": "ORG",
+      "sentence": "Raymond James Financial, Inc. (NYSE:RJF) saw its shares rise today after several bullish analyst moves and earnings estimate upgrades.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Raymond James Financial, Inc. (NYSE:RJF) saw its shares rise today after several bullish analyst moves and earnings estimate upgrades.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "RJF",
+      "entity2_type": "ORG",
+      "sentence": "Raymond James Financial, Inc. (NYSE:RJF) saw its shares rise today after several bullish analyst moves and earnings estimate upgrades.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Financial",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "Raymond James Financial, Inc. (NYSE:RJF) saw its shares rise today after several bullish analyst moves and earnings estimate upgrades.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Raymond James Financial, Inc. (NYSE:RJF) saw its shares rise today after several bullish analyst moves and earnings estimate upgrades.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "RJF",
+      "entity2_type": "ORG",
+      "sentence": "Raymond James Financial, Inc. (NYSE:RJF) saw its shares rise today after several bullish analyst moves and earnings estimate upgrades.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "Raymond James Financial, Inc. (NYSE:RJF) saw its shares rise today after several bullish analyst moves and earnings estimate upgrades.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "RJF",
+      "entity2_type": "ORG",
+      "sentence": "Raymond James Financial, Inc. (NYSE:RJF) saw its shares rise today after several bullish analyst moves and earnings estimate upgrades.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "Raymond James Financial, Inc. (NYSE:RJF) saw its shares rise today after several bullish analyst moves and earnings estimate upgrades.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "RJF",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "Raymond James Financial, Inc. (NYSE:RJF) saw its shares rise today after several bullish analyst moves and earnings estimate upgrades.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Fargo",
+      "entity2_type": "ORG",
+      "sentence": "Positive drivers include a higher price target from Wells Fargo and raised EPS forecasts from Seaport Res Ptn, while new coverage on Vir Biotechnology and international share-price updates remain neutral.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Seaport",
+      "entity2_type": "ORG",
+      "sentence": "Positive drivers include a higher price target from Wells Fargo and raised EPS forecasts from Seaport Res Ptn, while new coverage on Vir Biotechnology and international share-price updates remain neutral.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Res",
+      "entity2_type": "ORG",
+      "sentence": "Positive drivers include a higher price target from Wells Fargo and raised EPS forecasts from Seaport Res Ptn, while new coverage on Vir Biotechnology and international share-price updates remain neutral.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Ptn",
+      "entity2_type": "ORG",
+      "sentence": "Positive drivers include a higher price target from Wells Fargo and raised EPS forecasts from Seaport Res Ptn, while new coverage on Vir Biotechnology and international share-price updates remain neutral.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Vir",
+      "entity2_type": "ORG",
+      "sentence": "Positive drivers include a higher price target from Wells Fargo and raised EPS forecasts from Seaport Res Ptn, while new coverage on Vir Biotechnology and international share-price updates remain neutral.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Biotechnology",
+      "entity2_type": "ORG",
+      "sentence": "Positive drivers include a higher price target from Wells Fargo and raised EPS forecasts from Seaport Res Ptn, while new coverage on Vir Biotechnology and international share-price updates remain neutral.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "Seaport",
+      "entity2_type": "ORG",
+      "sentence": "Positive drivers include a higher price target from Wells Fargo and raised EPS forecasts from Seaport Res Ptn, while new coverage on Vir Biotechnology and international share-price updates remain neutral.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "Res",
+      "entity2_type": "ORG",
+      "sentence": "Positive drivers include a higher price target from Wells Fargo and raised EPS forecasts from Seaport Res Ptn, while new coverage on Vir Biotechnology and international share-price updates remain neutral.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "Ptn",
+      "entity2_type": "ORG",
+      "sentence": "Positive drivers include a higher price target from Wells Fargo and raised EPS forecasts from Seaport Res Ptn, while new coverage on Vir Biotechnology and international share-price updates remain neutral.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "Vir",
+      "entity2_type": "ORG",
+      "sentence": "Positive drivers include a higher price target from Wells Fargo and raised EPS forecasts from Seaport Res Ptn, while new coverage on Vir Biotechnology and international share-price updates remain neutral.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "Biotechnology",
+      "entity2_type": "ORG",
+      "sentence": "Positive drivers include a higher price target from Wells Fargo and raised EPS forecasts from Seaport Res Ptn, while new coverage on Vir Biotechnology and international share-price updates remain neutral.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "Res",
+      "entity2_type": "ORG",
+      "sentence": "Positive drivers include a higher price target from Wells Fargo and raised EPS forecasts from Seaport Res Ptn, while new coverage on Vir Biotechnology and international share-price updates remain neutral.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "Ptn",
+      "entity2_type": "ORG",
+      "sentence": "Positive drivers include a higher price target from Wells Fargo and raised EPS forecasts from Seaport Res Ptn, while new coverage on Vir Biotechnology and international share-price updates remain neutral.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "Vir",
+      "entity2_type": "ORG",
+      "sentence": "Positive drivers include a higher price target from Wells Fargo and raised EPS forecasts from Seaport Res Ptn, while new coverage on Vir Biotechnology and international share-price updates remain neutral.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "Biotechnology",
+      "entity2_type": "ORG",
+      "sentence": "Positive drivers include a higher price target from Wells Fargo and raised EPS forecasts from Seaport Res Ptn, while new coverage on Vir Biotechnology and international share-price updates remain neutral.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Res",
+      "entity1_type": "ORG",
+      "entity2": "Ptn",
+      "entity2_type": "ORG",
+      "sentence": "Positive drivers include a higher price target from Wells Fargo and raised EPS forecasts from Seaport Res Ptn, while new coverage on Vir Biotechnology and international share-price updates remain neutral.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Res",
+      "entity1_type": "ORG",
+      "entity2": "Vir",
+      "entity2_type": "ORG",
+      "sentence": "Positive drivers include a higher price target from Wells Fargo and raised EPS forecasts from Seaport Res Ptn, while new coverage on Vir Biotechnology and international share-price updates remain neutral.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Res",
+      "entity1_type": "ORG",
+      "entity2": "Biotechnology",
+      "entity2_type": "ORG",
+      "sentence": "Positive drivers include a higher price target from Wells Fargo and raised EPS forecasts from Seaport Res Ptn, while new coverage on Vir Biotechnology and international share-price updates remain neutral.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Ptn",
+      "entity1_type": "ORG",
+      "entity2": "Vir",
+      "entity2_type": "ORG",
+      "sentence": "Positive drivers include a higher price target from Wells Fargo and raised EPS forecasts from Seaport Res Ptn, while new coverage on Vir Biotechnology and international share-price updates remain neutral.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Ptn",
+      "entity1_type": "ORG",
+      "entity2": "Biotechnology",
+      "entity2_type": "ORG",
+      "sentence": "Positive drivers include a higher price target from Wells Fargo and raised EPS forecasts from Seaport Res Ptn, while new coverage on Vir Biotechnology and international share-price updates remain neutral.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Vir",
+      "entity1_type": "ORG",
+      "entity2": "Biotechnology",
+      "entity2_type": "ORG",
+      "sentence": "Positive drivers include a higher price target from Wells Fargo and raised EPS forecasts from Seaport Res Ptn, while new coverage on Vir Biotechnology and international share-price updates remain neutral.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Fargo",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "RJF",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "163",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "155",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "roughly",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "2.8",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "RJF",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "163",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "155",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "roughly",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "2.8",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "RJF",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "163",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "155",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "roughly",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "2.8",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Company",
+      "entity1_type": "ORG",
+      "entity2": "RJF",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Company",
+      "entity1_type": "ORG",
+      "entity2": "163",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Company",
+      "entity1_type": "ORG",
+      "entity2": "155",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Company",
+      "entity1_type": "ORG",
+      "entity2": "roughly",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Company",
+      "entity1_type": "ORG",
+      "entity2": "2.8",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Company",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "RJF",
+      "entity1_type": "ORG",
+      "entity2": "163",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "RJF",
+      "entity1_type": "ORG",
+      "entity2": "155",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "RJF",
+      "entity1_type": "ORG",
+      "entity2": "roughly",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "RJF",
+      "entity1_type": "ORG",
+      "entity2": "2.8",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "RJF",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "163",
+      "entity1_type": "MONEY",
+      "entity2": "155",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "163",
+      "entity1_type": "MONEY",
+      "entity2": "roughly",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "163",
+      "entity1_type": "MONEY",
+      "entity2": "2.8",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "163",
+      "entity1_type": "MONEY",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "155",
+      "entity1_type": "MONEY",
+      "entity2": "roughly",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "155",
+      "entity1_type": "MONEY",
+      "entity2": "2.8",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "155",
+      "entity1_type": "MONEY",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "roughly",
+      "entity1_type": "PERCENT",
+      "entity2": "2.8",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "roughly",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2.8",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Fargo",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo Forecast",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Forecast",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo Forecast",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "Forecast",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo Forecast",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "Res",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nSeaport Res Ptn raised its FY2025 EPS estimate for RJF to $10.40 (from $10.30)",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "Ptn",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nSeaport Res Ptn raised its FY2025 EPS estimate for RJF to $10.40 (from $10.30)",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "FY2025",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nSeaport Res Ptn raised its FY2025 EPS estimate for RJF to $10.40 (from $10.30)",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "RJF",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nSeaport Res Ptn raised its FY2025 EPS estimate for RJF to $10.40 (from $10.30)",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "10.40",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nSeaport Res Ptn raised its FY2025 EPS estimate for RJF to $10.40 (from $10.30)",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "10.30",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nSeaport Res Ptn raised its FY2025 EPS estimate for RJF to $10.40 (from $10.30)",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Res",
+      "entity1_type": "ORG",
+      "entity2": "Ptn",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nSeaport Res Ptn raised its FY2025 EPS estimate for RJF to $10.40 (from $10.30)",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Res",
+      "entity1_type": "ORG",
+      "entity2": "FY2025",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nSeaport Res Ptn raised its FY2025 EPS estimate for RJF to $10.40 (from $10.30)",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Res",
+      "entity1_type": "ORG",
+      "entity2": "RJF",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nSeaport Res Ptn raised its FY2025 EPS estimate for RJF to $10.40 (from $10.30)",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Res",
+      "entity1_type": "ORG",
+      "entity2": "10.40",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nSeaport Res Ptn raised its FY2025 EPS estimate for RJF to $10.40 (from $10.30)",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Res",
+      "entity1_type": "ORG",
+      "entity2": "10.30",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nSeaport Res Ptn raised its FY2025 EPS estimate for RJF to $10.40 (from $10.30)",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Ptn",
+      "entity1_type": "ORG",
+      "entity2": "FY2025",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nSeaport Res Ptn raised its FY2025 EPS estimate for RJF to $10.40 (from $10.30)",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Ptn",
+      "entity1_type": "ORG",
+      "entity2": "RJF",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nSeaport Res Ptn raised its FY2025 EPS estimate for RJF to $10.40 (from $10.30)",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Ptn",
+      "entity1_type": "ORG",
+      "entity2": "10.40",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nSeaport Res Ptn raised its FY2025 EPS estimate for RJF to $10.40 (from $10.30)",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Ptn",
+      "entity1_type": "ORG",
+      "entity2": "10.30",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nSeaport Res Ptn raised its FY2025 EPS estimate for RJF to $10.40 (from $10.30)",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FY2025",
+      "entity1_type": "DATE",
+      "entity2": "RJF",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nSeaport Res Ptn raised its FY2025 EPS estimate for RJF to $10.40 (from $10.30)",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FY2025",
+      "entity1_type": "DATE",
+      "entity2": "10.40",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nSeaport Res Ptn raised its FY2025 EPS estimate for RJF to $10.40 (from $10.30)",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FY2025",
+      "entity1_type": "DATE",
+      "entity2": "10.30",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nSeaport Res Ptn raised its FY2025 EPS estimate for RJF to $10.40 (from $10.30)",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "RJF",
+      "entity1_type": "ORG",
+      "entity2": "10.40",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nSeaport Res Ptn raised its FY2025 EPS estimate for RJF to $10.40 (from $10.30)",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "RJF",
+      "entity1_type": "ORG",
+      "entity2": "10.30",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nSeaport Res Ptn raised its FY2025 EPS estimate for RJF to $10.40 (from $10.30)",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "10.40",
+      "entity1_type": "MONEY",
+      "entity2": "10.30",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nSeaport Res Ptn raised its FY2025 EPS estimate for RJF to $10.40 (from $10.30)",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q4",
+      "entity1_type": "DATE",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "lifted its Q4 2025 and Q2 2026 EPS forecasts.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q4",
+      "entity1_type": "DATE",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "lifted its Q4 2025 and Q2 2026 EPS forecasts.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q4",
+      "entity1_type": "DATE",
+      "entity2": "2026",
+      "entity2_type": "DATE",
+      "sentence": "lifted its Q4 2025 and Q2 2026 EPS forecasts.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "lifted its Q4 2025 and Q2 2026 EPS forecasts.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "2026",
+      "entity2_type": "DATE",
+      "sentence": "lifted its Q4 2025 and Q2 2026 EPS forecasts.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "2026",
+      "entity2_type": "DATE",
+      "sentence": "lifted its Q4 2025 and Q2 2026 EPS forecasts.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "Res",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "Ptn",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "Q1",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "2026",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "2.90",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "2.89",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "full",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Res",
+      "entity1_type": "ORG",
+      "entity2": "Ptn",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Res",
+      "entity1_type": "ORG",
+      "entity2": "Q1",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Res",
+      "entity1_type": "ORG",
+      "entity2": "2026",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Res",
+      "entity1_type": "ORG",
+      "entity2": "2.90",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Res",
+      "entity1_type": "ORG",
+      "entity2": "2.89",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Res",
+      "entity1_type": "ORG",
+      "entity2": "full",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Res",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Res",
+      "entity1_type": "ORG",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Ptn",
+      "entity1_type": "ORG",
+      "entity2": "Q1",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Ptn",
+      "entity1_type": "ORG",
+      "entity2": "2026",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Ptn",
+      "entity1_type": "ORG",
+      "entity2": "2.90",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Ptn",
+      "entity1_type": "ORG",
+      "entity2": "2.89",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Ptn",
+      "entity1_type": "ORG",
+      "entity2": "full",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Ptn",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Ptn",
+      "entity1_type": "ORG",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q1",
+      "entity1_type": "DATE",
+      "entity2": "2026",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q1",
+      "entity1_type": "DATE",
+      "entity2": "2.90",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q1",
+      "entity1_type": "DATE",
+      "entity2": "2.89",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q1",
+      "entity1_type": "DATE",
+      "entity2": "full",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q1",
+      "entity1_type": "DATE",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q1",
+      "entity1_type": "DATE",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2026",
+      "entity1_type": "DATE",
+      "entity2": "2.90",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2026",
+      "entity1_type": "DATE",
+      "entity2": "2.89",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2026",
+      "entity1_type": "DATE",
+      "entity2": "full",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2026",
+      "entity1_type": "DATE",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2026",
+      "entity1_type": "DATE",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2.90",
+      "entity1_type": "MONEY",
+      "entity2": "2.89",
+      "entity2_type": "MONEY",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2.90",
+      "entity1_type": "MONEY",
+      "entity2": "full",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2.90",
+      "entity1_type": "MONEY",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2.90",
+      "entity1_type": "MONEY",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2.89",
+      "entity1_type": "MONEY",
+      "entity2": "full",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2.89",
+      "entity1_type": "MONEY",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2.89",
+      "entity1_type": "MONEY",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "full",
+      "entity1_type": "DATE",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "full",
+      "entity1_type": "DATE",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "DATE",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q1",
+      "entity1_type": "DATE",
+      "entity2": "2026",
+      "entity2_type": "DATE",
+      "sentence": "Q1 2026 EPS Upgrade\nNeutral Sentiment:\nRaymond James initiated coverage on Vir Biotechnology (VIR) with a positive outlook, reflecting research‐service growth.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q1",
+      "entity1_type": "DATE",
+      "entity2": "Raymond",
+      "entity2_type": "ORG",
+      "sentence": "Q1 2026 EPS Upgrade\nNeutral Sentiment:\nRaymond James initiated coverage on Vir Biotechnology (VIR) with a positive outlook, reflecting research‐service growth.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q1",
+      "entity1_type": "DATE",
+      "entity2": "James",
+      "entity2_type": "ORG",
+      "sentence": "Q1 2026 EPS Upgrade\nNeutral Sentiment:\nRaymond James initiated coverage on Vir Biotechnology (VIR) with a positive outlook, reflecting research‐service growth.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q1",
+      "entity1_type": "DATE",
+      "entity2": "Vir",
+      "entity2_type": "ORG",
+      "sentence": "Q1 2026 EPS Upgrade\nNeutral Sentiment:\nRaymond James initiated coverage on Vir Biotechnology (VIR) with a positive outlook, reflecting research‐service growth.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q1",
+      "entity1_type": "DATE",
+      "entity2": "Biotechnology",
+      "entity2_type": "ORG",
+      "sentence": "Q1 2026 EPS Upgrade\nNeutral Sentiment:\nRaymond James initiated coverage on Vir Biotechnology (VIR) with a positive outlook, reflecting research‐service growth.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2026",
+      "entity1_type": "DATE",
+      "entity2": "Raymond",
+      "entity2_type": "ORG",
+      "sentence": "Q1 2026 EPS Upgrade\nNeutral Sentiment:\nRaymond James initiated coverage on Vir Biotechnology (VIR) with a positive outlook, reflecting research‐service growth.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2026",
+      "entity1_type": "DATE",
+      "entity2": "James",
+      "entity2_type": "ORG",
+      "sentence": "Q1 2026 EPS Upgrade\nNeutral Sentiment:\nRaymond James initiated coverage on Vir Biotechnology (VIR) with a positive outlook, reflecting research‐service growth.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2026",
+      "entity1_type": "DATE",
+      "entity2": "Vir",
+      "entity2_type": "ORG",
+      "sentence": "Q1 2026 EPS Upgrade\nNeutral Sentiment:\nRaymond James initiated coverage on Vir Biotechnology (VIR) with a positive outlook, reflecting research‐service growth.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2026",
+      "entity1_type": "DATE",
+      "entity2": "Biotechnology",
+      "entity2_type": "ORG",
+      "sentence": "Q1 2026 EPS Upgrade\nNeutral Sentiment:\nRaymond James initiated coverage on Vir Biotechnology (VIR) with a positive outlook, reflecting research‐service growth.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Raymond",
+      "entity1_type": "ORG",
+      "entity2": "James",
+      "entity2_type": "ORG",
+      "sentence": "Q1 2026 EPS Upgrade\nNeutral Sentiment:\nRaymond James initiated coverage on Vir Biotechnology (VIR) with a positive outlook, reflecting research‐service growth.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Raymond",
+      "entity1_type": "ORG",
+      "entity2": "Vir",
+      "entity2_type": "ORG",
+      "sentence": "Q1 2026 EPS Upgrade\nNeutral Sentiment:\nRaymond James initiated coverage on Vir Biotechnology (VIR) with a positive outlook, reflecting research‐service growth.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Raymond",
+      "entity1_type": "ORG",
+      "entity2": "Biotechnology",
+      "entity2_type": "ORG",
+      "sentence": "Q1 2026 EPS Upgrade\nNeutral Sentiment:\nRaymond James initiated coverage on Vir Biotechnology (VIR) with a positive outlook, reflecting research‐service growth.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "James",
+      "entity1_type": "ORG",
+      "entity2": "Vir",
+      "entity2_type": "ORG",
+      "sentence": "Q1 2026 EPS Upgrade\nNeutral Sentiment:\nRaymond James initiated coverage on Vir Biotechnology (VIR) with a positive outlook, reflecting research‐service growth.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "James",
+      "entity1_type": "ORG",
+      "entity2": "Biotechnology",
+      "entity2_type": "ORG",
+      "sentence": "Q1 2026 EPS Upgrade\nNeutral Sentiment:\nRaymond James initiated coverage on Vir Biotechnology (VIR) with a positive outlook, reflecting research‐service growth.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Vir",
+      "entity1_type": "ORG",
+      "entity2": "Biotechnology",
+      "entity2_type": "ORG",
+      "sentence": "Q1 2026 EPS Upgrade\nNeutral Sentiment:\nRaymond James initiated coverage on Vir Biotechnology (VIR) with a positive outlook, reflecting research‐service growth.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "London",
+      "entity1_type": "LOC",
+      "entity2": "South",
+      "entity2_type": "LOC",
+      "sentence": "A London South East page updated RJF.B.US share-price data for U.K. investors.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "London",
+      "entity1_type": "LOC",
+      "entity2": "East",
+      "entity2_type": "LOC",
+      "sentence": "A London South East page updated RJF.B.US share-price data for U.K. investors.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "London",
+      "entity1_type": "LOC",
+      "entity2": "RJF.B.US",
+      "entity2_type": "ORG",
+      "sentence": "A London South East page updated RJF.B.US share-price data for U.K. investors.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "London",
+      "entity1_type": "LOC",
+      "entity2": "U.K.",
+      "entity2_type": "GPE",
+      "sentence": "A London South East page updated RJF.B.US share-price data for U.K. investors.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "South",
+      "entity1_type": "LOC",
+      "entity2": "East",
+      "entity2_type": "LOC",
+      "sentence": "A London South East page updated RJF.B.US share-price data for U.K. investors.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "South",
+      "entity1_type": "LOC",
+      "entity2": "RJF.B.US",
+      "entity2_type": "ORG",
+      "sentence": "A London South East page updated RJF.B.US share-price data for U.K. investors.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "South",
+      "entity1_type": "LOC",
+      "entity2": "U.K.",
+      "entity2_type": "GPE",
+      "sentence": "A London South East page updated RJF.B.US share-price data for U.K. investors.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "East",
+      "entity1_type": "LOC",
+      "entity2": "RJF.B.US",
+      "entity2_type": "ORG",
+      "sentence": "A London South East page updated RJF.B.US share-price data for U.K. investors.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "East",
+      "entity1_type": "LOC",
+      "entity2": "U.K.",
+      "entity2_type": "GPE",
+      "sentence": "A London South East page updated RJF.B.US share-price data for U.K. investors.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "RJF.B.US",
+      "entity1_type": "ORG",
+      "entity2": "U.K.",
+      "entity2_type": "GPE",
+      "sentence": "A London South East page updated RJF.B.US share-price data for U.K. investors.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "London",
+      "entity1_type": "LOC",
+      "entity2": "South",
+      "entity2_type": "LOC",
+      "sentence": "London South East Quote\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "London",
+      "entity1_type": "LOC",
+      "entity2": "East",
+      "entity2_type": "LOC",
+      "sentence": "London South East Quote\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "London",
+      "entity1_type": "LOC",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "London South East Quote\nPosted 1+ days ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "London",
+      "entity1_type": "LOC",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "London South East Quote\nPosted 1+ days ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "London",
+      "entity1_type": "LOC",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "London South East Quote\nPosted 1+ days ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "London",
+      "entity1_type": "LOC",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "London South East Quote\nPosted 1+ days ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "South",
+      "entity1_type": "LOC",
+      "entity2": "East",
+      "entity2_type": "LOC",
+      "sentence": "London South East Quote\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "South",
+      "entity1_type": "LOC",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "London South East Quote\nPosted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "South",
+      "entity1_type": "LOC",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "London South East Quote\nPosted 1+ days ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "South",
+      "entity1_type": "LOC",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "London South East Quote\nPosted 1+ days ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "South",
+      "entity1_type": "LOC",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "London South East Quote\nPosted 1+ days ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "East",
+      "entity1_type": "LOC",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "London South East Quote\nPosted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "East",
+      "entity1_type": "LOC",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "London South East Quote\nPosted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "East",
+      "entity1_type": "LOC",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "London South East Quote\nPosted 1+ days ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "East",
+      "entity1_type": "LOC",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "London South East Quote\nPosted 1+ days ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "London South East Quote\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "London South East Quote\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "London South East Quote\nPosted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "London South East Quote\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "London South East Quote\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "London South East Quote\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "Raymond James Financial, Inc.",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its shares",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "several bullish analyst moves",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "earnings estimate upgrades",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Positive drivers",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a higher price target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Wells Fargo",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "raised EPS forecasts",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Seaport Res Ptn",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "new coverage",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Vir Biotechnology",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "international share-price updates",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Wells Fargo",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its price target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "an “equal weight” rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "roughly 2.8% upside",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Wells Fargo Forecast",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Seaport Res Ptn",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its FY2025 EPS estimate",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its Q4 2025 and Q2 2026 EPS forecasts",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Bullish FY2025 Outlook",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Seaport Res Ptn",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its Q1 2026 EPS forecast",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "full-year estimates",
+      "type": "noun_chunk",
+      "category": "temporal"
+    },
+    {
+      "text": "Q1 2026 EPS Upgrade\nNeutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Raymond James",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Vir Biotechnology",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a positive outlook",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "research‐service growth",
+      "type": "noun_chunk",
+      "category": "trend"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "A London South East page",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "RJF.B.US share-price data",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "U.K. investors",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "London South East",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "$163",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$155",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$10.40",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$10.30",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$2.90",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$2.89",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "2.8%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "Q4 2025",
+      "type": "pattern",
+      "category": "quarter"
+    },
+    {
+      "text": "Q2 2026",
+      "type": "pattern",
+      "category": "quarter"
+    },
+    {
+      "text": "Q1 2026",
+      "type": "pattern",
+      "category": "quarter"
+    },
+    {
+      "text": "Q1 2026",
+      "type": "pattern",
+      "category": "quarter"
+    },
+    {
+      "text": "FY2025",
+      "type": "pattern",
+      "category": "fiscal_year"
+    },
+    {
+      "text": "FY2025",
+      "type": "pattern",
+      "category": "fiscal_year"
+    },
+    {
+      "text": "earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "growth",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "share",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "share",
+      "type": "pattern",
+      "category": "market_term"
+    }
+  ],
+  "important_sentences": [
+    {
+      "text": "Positive Sentiment:\nWells Fargo & Company boosted its price target for RJF to $163 (from $155) and maintained an “equal weight” rating, pointing to roughly 2.8% upside.",
+      "importance_score": 44,
+      "entity_count": 10,
+      "financial_keyword_count": 2,
+      "money_count": 2,
+      "company_count": 2,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Seaport Res Ptn also upped its Q1 2026 EPS forecast to $2.90 (from $2.89), nudging full-year estimates slightly higher.",
+      "importance_score": 37,
+      "entity_count": 10,
+      "financial_keyword_count": 1,
+      "money_count": 2,
+      "company_count": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Positive drivers include a higher price target from Wells Fargo and raised EPS forecasts from Seaport Res Ptn, while new coverage on Vir Biotechnology and international share-price updates remain neutral.",
+      "importance_score": 35,
+      "entity_count": 7,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 3,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Positive Sentiment:\nSeaport Res Ptn raised its FY2025 EPS estimate for RJF to $10.40 (from $10.30)",
+      "importance_score": 35,
+      "entity_count": 7,
+      "financial_keyword_count": 1,
+      "money_count": 2,
+      "company_count": 2,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Raymond James Financial, Inc. (NYSE:RJF) saw its shares rise today after several bullish analyst moves and earnings estimate upgrades.",
+      "importance_score": 31,
+      "entity_count": 7,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Q1 2026 EPS Upgrade\nNeutral Sentiment:\nRaymond James initiated coverage on Vir Biotechnology (VIR) with a positive outlook, reflecting research‐service growth.",
+      "importance_score": 29,
+      "entity_count": 6,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "positive"
+    },
+    {
+      "text": "A London South East page updated RJF.B.US share-price data for U.K. investors.",
+      "importance_score": 20,
+      "entity_count": 5,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "London South East Quote\nPosted 1+ days ago\nAI Generated.",
+      "importance_score": 17,
+      "entity_count": 7,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 0,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Wells Fargo Forecast",
+      "importance_score": 13,
+      "entity_count": 3,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "lifted its Q4 2025 and Q2 2026 EPS forecasts.",
+      "importance_score": 8,
+      "entity_count": 4,
+      "financial_keyword_count": 0,
+      "money_count": 0,
+      "company_count": 0,
+      "sentiment": "neutral"
+    }
+  ],
+  "entity_statistics": {
+    "total_entities": 34,
+    "unique_entities": 26,
+    "type_counts": {
+      "ORG": 15,
+      "DATE": 9,
+      "MONEY": 6,
+      "PERCENT": 1,
+      "LOC": 2,
+      "GPE": 1
+    },
+    "type_distribution": {
+      "ORG": 0.4411764705882353,
+      "DATE": 0.2647058823529412,
+      "MONEY": 0.17647058823529413,
+      "PERCENT": 0.029411764705882353,
+      "LOC": 0.058823529411764705,
+      "GPE": 0.029411764705882353
+    },
+    "most_common_entities": [
+      [
+        "RJF",
+        3
+      ],
+      [
+        "Seaport Res Ptn",
+        3
+      ],
+      [
+        "Vir Biotechnology",
+        2
+      ],
+      [
+        "FY2025",
+        2
+      ],
+      [
+        "Q1 2026",
+        2
+      ],
+      [
+        "London South East",
+        2
+      ],
+      [
+        "Raymond James Financial, Inc.",
+        1
+      ],
+      [
+        "today",
+        1
+      ],
+      [
+        "Wells Fargo",
+        1
+      ],
+      [
+        "Wells Fargo & Company",
+        1
+      ]
+    ],
+    "entity_types_found": [
+      "ORG",
+      "DATE",
+      "MONEY",
+      "PERCENT",
+      "LOC",
+      "GPE"
+    ],
+    "company_entities": 15,
+    "person_entities": 0,
+    "financial_entities": 7,
+    "entity_density": 0.2111801242236025
+  },
+  "financial_analysis": {
+    "money_amounts": [
+      "163",
+      "155",
+      "10.40",
+      "10.30",
+      "2.90",
+      "2.89"
+    ],
+    "percentages": [
+      "roughly 2.8%"
+    ],
+    "companies": [
+      "Raymond James Financial, Inc.",
+      "RJF",
+      "Wells Fargo",
+      "Seaport Res Ptn",
+      "Vir Biotechnology",
+      "Wells Fargo & Company",
+      "RJF",
+      "Wells Fargo Forecast",
+      "Seaport Res Ptn",
+      "RJF",
+      "Seaport Res Ptn",
+      "Raymond James",
+      "Vir Biotechnology",
+      "VIR",
+      "RJF.B.US"
+    ],
+    "people": [],
+    "dates": [
+      "today",
+      "FY2025",
+      "Q4 2025",
+      "Q2 2026",
+      "FY2025",
+      "Q1 2026",
+      "full-year",
+      "Q1 2026",
+      "1+ days ago"
+    ],
+    "financial_terms": [
+      "share",
+      "growth",
+      "earnings"
+    ],
+    "financial_metrics": [],
+    "market_indicators": [
+      "rating",
+      "Upgrade",
+      "price",
+      "target"
+    ]
+  },
+  "temporal_analysis": {
+    "dates": [
+      "today",
+      "FY2025",
+      "Q4 2025",
+      "Q2 2026",
+      "FY2025",
+      "Q1 2026",
+      "full-year",
+      "Q1 2026",
+      "1+ days ago"
+    ],
+    "time_expressions": [],
+    "temporal_relationships": [
+      "today"
+    ],
+    "quarters": [
+      "Q4 2025",
+      "Q2 2026",
+      "Q1 2026",
+      "Q1 2026"
+    ],
+    "years": [
+      "Q4 2025",
+      "Q2 2026",
+      "Q1 2026",
+      "Q1 2026"
+    ],
+    "time_periods": []
+  },
+  "sentiment_analysis": {
+    "positive_words": 9,
+    "negative_words": 0,
+    "positive_ratio": 0.055900621118012424,
+    "negative_ratio": 0.0,
+    "sentiment_score": 0.055900621118012424,
+    "sentiment_label": "positive",
+    "sentiment_strength": 0.055900621118012424,
+    "confidence": 0.5590062111801243
+  },
+  "industry_analysis": {
+    "dominant_industry": "tech",
+    "industry_scores": {
+      "tech": 1,
+      "finance": 0,
+      "healthcare": 0,
+      "energy": 0,
+      "retail": 0,
+      "automotive": 0,
+      "media": 0,
+      "industrial": 0,
+      "real_estate": 0,
+      "telecom": 0,
+      "food_beverage": 0,
+      "travel": 0,
+      "education": 0,
+      "professional": 0,
+      "mining": 0,
+      "aerospace": 0,
+      "environmental": 0,
+      "cannabis": 0
+    },
+    "confidence": 1.0
+  },
+  "market_analysis": {
+    "market_sentiment": "bullish",
+    "bullish_indicators": 1,
+    "bearish_indicators": 0,
+    "market_conditions": {
+      "volatility": "normal",
+      "volume": "normal",
+      "trend": "bullish"
+    },
+    "trading_activity": "normal"
+  },
+  "competitor_analysis": {
+    "companies_mentioned": [
+      "Raymond James Financial, Inc.",
+      "RJF",
+      "Wells Fargo",
+      "Seaport Res Ptn",
+      "Vir Biotechnology",
+      "Wells Fargo & Company",
+      "RJF",
+      "Wells Fargo Forecast",
+      "Seaport Res Ptn",
+      "RJF",
+      "Seaport Res Ptn",
+      "Raymond James",
+      "Vir Biotechnology",
+      "VIR",
+      "RJF.B.US"
+    ],
+    "competitive_context": [],
+    "competitor_count": 15,
+    "has_competitive_language": false
+  },
+  "risk_analysis": {
+    "risk_sentences": [],
+    "risk_count": 0,
+    "risk_level": "low"
+  },
+  "opportunity_analysis": {
+    "opportunity_sentences": [
+      "Q1 2026 EPS Upgrade\nNeutral Sentiment:\nRaymond James initiated coverage on Vir Biotechnology (VIR) with a positive outlook, reflecting research‐service growth."
+    ],
+    "opportunity_count": 1,
+    "opportunity_level": "low"
+  },
+  "processing_metadata": {
+    "timestamp": "2025-07-13T06:47:25.869206",
+    "model_used": "en_core_web_trf",
+    "text_length": 1192
+  }
+}
