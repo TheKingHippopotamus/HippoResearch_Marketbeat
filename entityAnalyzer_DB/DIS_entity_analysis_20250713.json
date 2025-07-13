@@ -1,0 +1,3853 @@
+{
+  "ticker": "DIS",
+  "entities": [
+    {
+      "text": "The Walt Disney Company",
+      "label": "ORG",
+      "start": 0,
+      "end": 23,
+      "sentence": "The Walt Disney Company (DIS) is seeing movement after a series of analyst notes, partnerships and consumer engagement initiatives that could influence its near-term outlook.",
+      "context": "The Walt Disney Company (DIS) is seeing movement after a series of analys",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "DIS",
+      "label": "ORG",
+      "start": 25,
+      "end": 28,
+      "sentence": "The Walt Disney Company (DIS) is seeing movement after a series of analyst notes, partnerships and consumer engagement initiatives that could influence its near-term outlook.",
+      "context": "The Walt Disney Company (DIS) is seeing movement after a series of analyst not",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Zacks",
+      "label": "ORG",
+      "start": 227,
+      "end": 232,
+      "sentence": "Positive Sentiment:\nZacks highlights increased investor attention to DIS, noting subscriber growth and new content lineups that could boost streaming revenue.",
+      "context": "low are the key developments:\nPositive Sentiment:\nZacks highlights increased investor attention to DIS, n",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "DIS",
+      "label": "ORG",
+      "start": 276,
+      "end": 279,
+      "sentence": "Positive Sentiment:\nZacks highlights increased investor attention to DIS, noting subscriber growth and new content lineups that could boost streaming revenue.",
+      "context": "Zacks highlights increased investor attention to DIS, noting subscriber growth and new content lineups",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "The Walt Disney Company",
+      "label": "ORG",
+      "start": 366,
+      "end": 389,
+      "sentence": "The Walt Disney Company (DIS) is Attracting Investor Attention\nPositive Sentiment:",
+      "context": "ntent lineups that could boost streaming revenue.\nThe Walt Disney Company (DIS) is Attracting Investor Attention\nPositive S",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "DIS",
+      "label": "ORG",
+      "start": 391,
+      "end": 394,
+      "sentence": "The Walt Disney Company (DIS) is Attracting Investor Attention\nPositive Sentiment:",
+      "context": "boost streaming revenue.\nThe Walt Disney Company (DIS) is Attracting Investor Attention\nPositive Sentim",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Zacks",
+      "label": "ORG",
+      "start": 451,
+      "end": 456,
+      "sentence": "A Zacks analyst includes DIS among five blue-chip stocks for 2H25, citing its strong earnings momentum alongside peers like Visa and Microsoft.",
+      "context": "tracting Investor Attention\nPositive Sentiment:\nA Zacks analyst includes DIS among five blue-chip stocks",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "DIS",
+      "label": "ORG",
+      "start": 474,
+      "end": 477,
+      "sentence": "A Zacks analyst includes DIS among five blue-chip stocks for 2H25, citing its strong earnings momentum alongside peers like Visa and Microsoft.",
+      "context": "tion\nPositive Sentiment:\nA Zacks analyst includes DIS among five blue-chip stocks for 2H25, citing its",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "five",
+      "label": "CARDINAL",
+      "start": 484,
+      "end": 488,
+      "sentence": "A Zacks analyst includes DIS among five blue-chip stocks for 2H25, citing its strong earnings momentum alongside peers like Visa and Microsoft.",
+      "context": "ive Sentiment:\nA Zacks analyst includes DIS among five blue-chip stocks for 2H25, citing its strong earn",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "2H25",
+      "label": "DATE",
+      "start": 510,
+      "end": 514,
+      "sentence": "A Zacks analyst includes DIS among five blue-chip stocks for 2H25, citing its strong earnings momentum alongside peers like Visa and Microsoft.",
+      "context": "lyst includes DIS among five blue-chip stocks for 2H25, citing its strong earnings momentum alongside pe",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Visa",
+      "label": "ORG",
+      "start": 573,
+      "end": 577,
+      "sentence": "A Zacks analyst includes DIS among five blue-chip stocks for 2H25, citing its strong earnings momentum alongside peers like Visa and Microsoft.",
+      "context": "its strong earnings momentum alongside peers like Visa and Microsoft.\nBuy These 5 Blue-Chip Stocks to St",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Microsoft",
+      "label": "ORG",
+      "start": 582,
+      "end": 591,
+      "sentence": "A Zacks analyst includes DIS among five blue-chip stocks for 2H25, citing its strong earnings momentum alongside peers like Visa and Microsoft.",
+      "context": "g earnings momentum alongside peers like Visa and Microsoft.\nBuy These 5 Blue-Chip Stocks to Strengthen Your",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "5",
+      "label": "CARDINAL",
+      "start": 603,
+      "end": 604,
+      "sentence": "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "context": "longside peers like Visa and Microsoft.\nBuy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "2H25",
+      "label": "DATE",
+      "start": 654,
+      "end": 658,
+      "sentence": "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "context": "Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Zacks",
+      "label": "ORG",
+      "start": 687,
+      "end": 692,
+      "sentence": "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "context": "our Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlight",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "DIS",
+      "label": "ORG",
+      "start": 709,
+      "end": 712,
+      "sentence": "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "context": "Positive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "9.3%",
+      "label": "PERCENT",
+      "start": 715,
+      "end": 719,
+      "sentence": "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "context": "ve Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "$60 billion",
+      "label": "MONEY",
+      "start": 768,
+      "end": 779,
+      "sentence": "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "context": "% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Disney",
+      "label": "ORG",
+      "start": 829,
+      "end": 835,
+      "sentence": "Disney Gains 9.3% YTD: 3 Key Reasons to Buy the Stock in 2H25",
+      "context": "parks expansion as catalysts for further upside.\nDisney Gains 9.3% YTD: 3 Key Reasons to Buy the Stock in",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "9.3%",
+      "label": "PERCENT",
+      "start": 842,
+      "end": 846,
+      "sentence": "Disney Gains 9.3% YTD: 3 Key Reasons to Buy the Stock in 2H25",
+      "context": "ion as catalysts for further upside.\nDisney Gains 9.3% YTD: 3 Key Reasons to Buy the Stock in 2H25\nPosit",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "3",
+      "label": "CARDINAL",
+      "start": 852,
+      "end": 853,
+      "sentence": "Disney Gains 9.3% YTD: 3 Key Reasons to Buy the Stock in 2H25",
+      "context": "alysts for further upside.\nDisney Gains 9.3% YTD: 3 Key Reasons to Buy the Stock in 2H25\nPositive Sen",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "2H25",
+      "label": "DATE",
+      "start": 886,
+      "end": 890,
+      "sentence": "Disney Gains 9.3% YTD: 3 Key Reasons to Buy the Stock in 2H25",
+      "context": "Gains 9.3% YTD: 3 Key Reasons to Buy the Stock in 2H25\nPositive Sentiment:\nDisney has struck a content-s",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Disney",
+      "label": "ORG",
+      "start": 911,
+      "end": 917,
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "context": "sons to Buy the Stock in 2H25\nPositive Sentiment:\nDisney has struck a content-swap deal with UK broadcaste",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "UK",
+      "label": "GPE",
+      "start": 954,
+      "end": 956,
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "context": "iment:\nDisney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disn",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "ITV",
+      "label": "ORG",
+      "start": 969,
+      "end": 972,
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "context": "as struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "A Taste of ITVX",
+      "label": "WORK_OF_ART",
+      "start": 982,
+      "end": 997,
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "context": "ontent-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enh",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Disney+",
+      "label": "ORG",
+      "start": 1002,
+      "end": 1009,
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "context": "h UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its g",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Disney",
+      "label": "ORG",
+      "start": 1023,
+      "end": 1029,
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "context": "adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming foot",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "ITVX",
+      "label": "ORG",
+      "start": 1038,
+      "end": 1042,
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "context": "e of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.\nDisney",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Disney",
+      "label": "ORG",
+      "start": 1086,
+      "end": 1092,
+      "sentence": "Disney and UK's ITV tie-up in joint streaming deal\nNeutral Sentiment:\nInvestors may weigh a Yahoo Finance piece discussing whether Disney’s growth potential outpaces peers, but the conclusion remains mixed until further data.",
+      "context": "o ITVX, enhancing its global streaming footprint.\nDisney and UK's ITV tie-up in joint streaming deal\nNeutr",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "UK",
+      "label": "GPE",
+      "start": 1097,
+      "end": 1099,
+      "sentence": "Disney and UK's ITV tie-up in joint streaming deal\nNeutral Sentiment:\nInvestors may weigh a Yahoo Finance piece discussing whether Disney’s growth potential outpaces peers, but the conclusion remains mixed until further data.",
+      "context": "ancing its global streaming footprint.\nDisney and UK's ITV tie-up in joint streaming deal\nNeutral Sent",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "ITV",
+      "label": "ORG",
+      "start": 1102,
+      "end": 1105,
+      "sentence": "Disney and UK's ITV tie-up in joint streaming deal\nNeutral Sentiment:\nInvestors may weigh a Yahoo Finance piece discussing whether Disney’s growth potential outpaces peers, but the conclusion remains mixed until further data.",
+      "context": "g its global streaming footprint.\nDisney and UK's ITV tie-up in joint streaming deal\nNeutral Sentiment:",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Yahoo Finance",
+      "label": "ORG",
+      "start": 1178,
+      "end": 1191,
+      "sentence": "Disney and UK's ITV tie-up in joint streaming deal\nNeutral Sentiment:\nInvestors may weigh a Yahoo Finance piece discussing whether Disney’s growth potential outpaces peers, but the conclusion remains mixed until further data.",
+      "context": "ing deal\nNeutral Sentiment:\nInvestors may weigh a Yahoo Finance piece discussing whether Disney’s growth potentia",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Disney",
+      "label": "ORG",
+      "start": 1217,
+      "end": 1223,
+      "sentence": "Disney and UK's ITV tie-up in joint streaming deal\nNeutral Sentiment:\nInvestors may weigh a Yahoo Finance piece discussing whether Disney’s growth potential outpaces peers, but the conclusion remains mixed until further data.",
+      "context": "ay weigh a Yahoo Finance piece discussing whether Disney’s growth potential outpaces peers, but the conclu",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "The Walt Disney Company",
+      "label": "ORG",
+      "start": 1361,
+      "end": 1384,
+      "sentence": "Should You Anticipate Higher Growth Potential in The Walt Disney Company (DIS) Compared to Its Peers?",
+      "context": "Should You Anticipate Higher Growth Potential in The Walt Disney Company (DIS) Compared to Its Peers?\nNeutral Sentiment:\nF",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Orlando Sentinel",
+      "label": "ORG",
+      "start": 1458,
+      "end": 1474,
+      "sentence": "Neutral Sentiment:\nFan engagement news from Orlando Sentinel and AOL around holiday events at Disney parks is driving visitor interest but has limited direct impact on near-term results.",
+      "context": "eers?\nNeutral Sentiment:\nFan engagement news from Orlando Sentinel and AOL around holiday events at Disney parks is",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AOL",
+      "label": "ORG",
+      "start": 1479,
+      "end": 1482,
+      "sentence": "Neutral Sentiment:\nFan engagement news from Orlando Sentinel and AOL around holiday events at Disney parks is driving visitor interest but has limited direct impact on near-term results.",
+      "context": "nt:\nFan engagement news from Orlando Sentinel and AOL around holiday events at Disney parks is driving",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Disney",
+      "label": "ORG",
+      "start": 1508,
+      "end": 1514,
+      "sentence": "Neutral Sentiment:\nFan engagement news from Orlando Sentinel and AOL around holiday events at Disney parks is driving visitor interest but has limited direct impact on near-term results.",
+      "context": "Orlando Sentinel and AOL around holiday events at Disney parks is driving visitor interest but has limited",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Disney",
+      "label": "ORG",
+      "start": 1601,
+      "end": 1607,
+      "sentence": "Disney shares holiday party dates for Jollywood, Very Merry",
+      "context": "t has limited direct impact on near-term results.\nDisney shares holiday party dates for Jollywood, Very Me",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Jollywood",
+      "label": "GPE",
+      "start": 1639,
+      "end": 1648,
+      "sentence": "Disney shares holiday party dates for Jollywood, Very Merry",
+      "context": "rm results.\nDisney shares holiday party dates for Jollywood, Very Merry\nDisney World's Big Announcement Has F",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "Disney World's",
+      "label": "ORG",
+      "start": 1661,
+      "end": 1675,
+      "sentence": "Disney World's Big Announcement Has Fans Saying 'I'm Going to Faint'\nNeutral Sentiment:\nMerchandise and collectible releases, including new Walt Disney World souvenir sippers and a rare Disney collectible at Woolworths, may boost ancillary revenues but are not material to core earnings.",
+      "context": "res holiday party dates for Jollywood, Very Merry\nDisney World's Big Announcement Has Fans Saying 'I'm Going to Fa",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Walt Disney World",
+      "label": "ORG",
+      "start": 1801,
+      "end": 1818,
+      "sentence": "Disney World's Big Announcement Has Fans Saying 'I'm Going to Faint'\nNeutral Sentiment:\nMerchandise and collectible releases, including new Walt Disney World souvenir sippers and a rare Disney collectible at Woolworths, may boost ancillary revenues but are not material to core earnings.",
+      "context": "rchandise and collectible releases, including new Walt Disney World souvenir sippers and a rare Disney collectible at",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Disney",
+      "label": "ORG",
+      "start": 1847,
+      "end": 1853,
+      "sentence": "Disney World's Big Announcement Has Fans Saying 'I'm Going to Faint'\nNeutral Sentiment:\nMerchandise and collectible releases, including new Walt Disney World souvenir sippers and a rare Disney collectible at Woolworths, may boost ancillary revenues but are not material to core earnings.",
+      "context": "new Walt Disney World souvenir sippers and a rare Disney collectible at Woolworths, may boost ancillary re",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Woolworths",
+      "label": "ORG",
+      "start": 1869,
+      "end": 1879,
+      "sentence": "Disney World's Big Announcement Has Fans Saying 'I'm Going to Faint'\nNeutral Sentiment:\nMerchandise and collectible releases, including new Walt Disney World souvenir sippers and a rare Disney collectible at Woolworths, may boost ancillary revenues but are not material to core earnings.",
+      "context": "souvenir sippers and a rare Disney collectible at Woolworths, may boost ancillary revenues but are not materia",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Walt Disney World",
+      "label": "ORG",
+      "start": 1953,
+      "end": 1970,
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "context": "venues but are not material to core earnings.\nNEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Disney",
+      "label": "ORG",
+      "start": 2026,
+      "end": 2032,
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "context": "and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Woolworths",
+      "label": "ORG",
+      "start": 2058,
+      "end": 2068,
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "context": "Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retro",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Mercury News",
+      "label": "ORG",
+      "start": 2132,
+      "end": 2144,
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "context": "losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Disneyland",
+      "label": "FAC",
+      "start": 2154,
+      "end": 2164,
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "context": "iment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "1955",
+      "label": "DATE",
+      "start": 2173,
+      "end": 2177,
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "context": "ive from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Disneyland",
+      "label": "ORG",
+      "start": 2267,
+      "end": 2277,
+      "sentence": "Disneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated.",
+      "context": "or than a catalyst for current stock performance.\nDisneyland had a nightmare start in 1955, but ‘Walt’s Folly’",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "1955",
+      "label": "DATE",
+      "start": 2303,
+      "end": 2307,
+      "sentence": "Disneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated.",
+      "context": "performance.\nDisneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Walt’s Folly",
+      "label": "WORK_OF_ART",
+      "start": 2314,
+      "end": 2326,
+      "sentence": "Disneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated.",
+      "context": "e.\nDisneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Gene",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "1+ days ago",
+      "label": "DATE",
+      "start": 2357,
+      "end": 2368,
+      "sentence": "Disneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated.",
+      "context": ", but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    }
+  ],
+  "relationships": [
+    {
+      "type": "SVO",
+      "subject": "Company",
+      "verb": "seeing",
+      "object": "movement",
+      "sentence": "The Walt Disney Company (DIS) is seeing movement after a series of analyst notes, partnerships and consumer engagement initiatives that could influence its near-term outlook.",
+      "importance": 7
+    },
+    {
+      "type": "SVO",
+      "subject": "that",
+      "verb": "influence",
+      "object": "outlook",
+      "sentence": "The Walt Disney Company (DIS) is seeing movement after a series of analyst notes, partnerships and consumer engagement initiatives that could influence its near-term outlook.",
+      "importance": 7
+    },
+    {
+      "type": "SVO",
+      "subject": "Zacks",
+      "verb": "highlights",
+      "object": "attention",
+      "sentence": "Positive Sentiment:\nZacks highlights increased investor attention to DIS, noting subscriber growth and new content lineups that could boost streaming revenue.",
+      "importance": 4
+    },
+    {
+      "type": "SVO",
+      "subject": "that",
+      "verb": "boost",
+      "object": "revenue",
+      "sentence": "Positive Sentiment:\nZacks highlights increased investor attention to DIS, noting subscriber growth and new content lineups that could boost streaming revenue.",
+      "importance": 4
+    },
+    {
+      "type": "SVO",
+      "subject": "Company",
+      "verb": "Attracting",
+      "object": "Attention",
+      "sentence": "The Walt Disney Company (DIS) is Attracting Investor Attention\nPositive Sentiment:",
+      "importance": 5
+    },
+    {
+      "type": "SVO",
+      "subject": "analyst",
+      "verb": "includes",
+      "object": "DIS",
+      "sentence": "A Zacks analyst includes DIS among five blue-chip stocks for 2H25, citing its strong earnings momentum alongside peers like Visa and Microsoft.",
+      "importance": 9
+    },
+    {
+      "type": "SVO",
+      "subject": "Disney",
+      "verb": "Gains",
+      "object": "%",
+      "sentence": "Disney Gains 9.3% YTD: 3 Key Reasons to Buy the Stock in 2H25",
+      "importance": 7
+    },
+    {
+      "type": "SVO",
+      "subject": "Disney",
+      "verb": "struck",
+      "object": "deal",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "importance": 11
+    },
+    {
+      "type": "SVO",
+      "subject": "Investors",
+      "verb": "weigh",
+      "object": "piece",
+      "sentence": "Disney and UK's ITV tie-up in joint streaming deal\nNeutral Sentiment:\nInvestors may weigh a Yahoo Finance piece discussing whether Disney’s growth potential outpaces peers, but the conclusion remains mixed until further data.",
+      "importance": 8
+    },
+    {
+      "type": "SVO",
+      "subject": "potential",
+      "verb": "outpaces",
+      "object": "peers",
+      "sentence": "Disney and UK's ITV tie-up in joint streaming deal\nNeutral Sentiment:\nInvestors may weigh a Yahoo Finance piece discussing whether Disney’s growth potential outpaces peers, but the conclusion remains mixed until further data.",
+      "importance": 8
+    },
+    {
+      "type": "SVO",
+      "subject": "You",
+      "verb": "Anticipate",
+      "object": "Potential",
+      "sentence": "Should You Anticipate Higher Growth Potential in The Walt Disney Company (DIS) Compared to Its Peers?",
+      "importance": 5
+    },
+    {
+      "type": "SVO",
+      "subject": "news",
+      "verb": "driving",
+      "object": "Sentiment",
+      "sentence": "Neutral Sentiment:\nFan engagement news from Orlando Sentinel and AOL around holiday events at Disney parks is driving visitor interest but has limited direct impact on near-term results.",
+      "importance": 6
+    },
+    {
+      "type": "SVO",
+      "subject": "Disney",
+      "verb": "shares",
+      "object": "dates",
+      "sentence": "Disney shares holiday party dates for Jollywood, Very Merry",
+      "importance": 2
+    },
+    {
+      "type": "SVO",
+      "subject": "releases",
+      "verb": "boost",
+      "object": "revenues",
+      "sentence": "Disney World's Big Announcement Has Fans Saying 'I'm Going to Faint'\nNeutral Sentiment:\nMerchandise and collectible releases, including new Walt Disney World souvenir sippers and a rare Disney collectible at Woolworths, may boost ancillary revenues but are not material to core earnings.",
+      "importance": 9
+    },
+    {
+      "type": "SVO",
+      "subject": "Sippers",
+      "verb": "recounts",
+      "object": "opening",
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "importance": 11
+    },
+    {
+      "type": "SVO",
+      "subject": "fans",
+      "verb": "losing",
+      "object": "it",
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "importance": 11
+    },
+    {
+      "type": "SVO",
+      "subject": "retrospective",
+      "verb": "recounts",
+      "object": "opening",
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "importance": 11
+    },
+    {
+      "type": "SVO",
+      "subject": "Disneyland",
+      "verb": "had",
+      "object": "start",
+      "sentence": "Disneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated.",
+      "importance": 10
+    },
+    {
+      "type": "SVO",
+      "subject": "Folly",
+      "verb": "won",
+      "object": "fans",
+      "sentence": "Disneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated.",
+      "importance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "The",
+      "entity1_type": "ORG",
+      "entity2": "Walt",
+      "entity2_type": "ORG",
+      "sentence": "The Walt Disney Company (DIS) is seeing movement after a series of analyst notes, partnerships and consumer engagement initiatives that could influence its near-term outlook.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "The",
+      "entity1_type": "ORG",
+      "entity2": "Disney",
+      "entity2_type": "ORG",
+      "sentence": "The Walt Disney Company (DIS) is seeing movement after a series of analyst notes, partnerships and consumer engagement initiatives that could influence its near-term outlook.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "The",
+      "entity1_type": "ORG",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "The Walt Disney Company (DIS) is seeing movement after a series of analyst notes, partnerships and consumer engagement initiatives that could influence its near-term outlook.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "The",
+      "entity1_type": "ORG",
+      "entity2": "DIS",
+      "entity2_type": "ORG",
+      "sentence": "The Walt Disney Company (DIS) is seeing movement after a series of analyst notes, partnerships and consumer engagement initiatives that could influence its near-term outlook.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Walt",
+      "entity1_type": "ORG",
+      "entity2": "Disney",
+      "entity2_type": "ORG",
+      "sentence": "The Walt Disney Company (DIS) is seeing movement after a series of analyst notes, partnerships and consumer engagement initiatives that could influence its near-term outlook.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Walt",
+      "entity1_type": "ORG",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "The Walt Disney Company (DIS) is seeing movement after a series of analyst notes, partnerships and consumer engagement initiatives that could influence its near-term outlook.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Walt",
+      "entity1_type": "ORG",
+      "entity2": "DIS",
+      "entity2_type": "ORG",
+      "sentence": "The Walt Disney Company (DIS) is seeing movement after a series of analyst notes, partnerships and consumer engagement initiatives that could influence its near-term outlook.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "The Walt Disney Company (DIS) is seeing movement after a series of analyst notes, partnerships and consumer engagement initiatives that could influence its near-term outlook.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "DIS",
+      "entity2_type": "ORG",
+      "sentence": "The Walt Disney Company (DIS) is seeing movement after a series of analyst notes, partnerships and consumer engagement initiatives that could influence its near-term outlook.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Company",
+      "entity1_type": "ORG",
+      "entity2": "DIS",
+      "entity2_type": "ORG",
+      "sentence": "The Walt Disney Company (DIS) is seeing movement after a series of analyst notes, partnerships and consumer engagement initiatives that could influence its near-term outlook.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "DIS",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nZacks highlights increased investor attention to DIS, noting subscriber growth and new content lineups that could boost streaming revenue.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "The",
+      "entity1_type": "ORG",
+      "entity2": "Walt",
+      "entity2_type": "ORG",
+      "sentence": "The Walt Disney Company (DIS) is Attracting Investor Attention\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "The",
+      "entity1_type": "ORG",
+      "entity2": "Disney",
+      "entity2_type": "ORG",
+      "sentence": "The Walt Disney Company (DIS) is Attracting Investor Attention\nPositive Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "The",
+      "entity1_type": "ORG",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "The Walt Disney Company (DIS) is Attracting Investor Attention\nPositive Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "The",
+      "entity1_type": "ORG",
+      "entity2": "DIS",
+      "entity2_type": "ORG",
+      "sentence": "The Walt Disney Company (DIS) is Attracting Investor Attention\nPositive Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Walt",
+      "entity1_type": "ORG",
+      "entity2": "Disney",
+      "entity2_type": "ORG",
+      "sentence": "The Walt Disney Company (DIS) is Attracting Investor Attention\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Walt",
+      "entity1_type": "ORG",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "The Walt Disney Company (DIS) is Attracting Investor Attention\nPositive Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Walt",
+      "entity1_type": "ORG",
+      "entity2": "DIS",
+      "entity2_type": "ORG",
+      "sentence": "The Walt Disney Company (DIS) is Attracting Investor Attention\nPositive Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "The Walt Disney Company (DIS) is Attracting Investor Attention\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "DIS",
+      "entity2_type": "ORG",
+      "sentence": "The Walt Disney Company (DIS) is Attracting Investor Attention\nPositive Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Company",
+      "entity1_type": "ORG",
+      "entity2": "DIS",
+      "entity2_type": "ORG",
+      "sentence": "The Walt Disney Company (DIS) is Attracting Investor Attention\nPositive Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "DIS",
+      "entity2_type": "ORG",
+      "sentence": "A Zacks analyst includes DIS among five blue-chip stocks for 2H25, citing its strong earnings momentum alongside peers like Visa and Microsoft.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "five",
+      "entity2_type": "CARDINAL",
+      "sentence": "A Zacks analyst includes DIS among five blue-chip stocks for 2H25, citing its strong earnings momentum alongside peers like Visa and Microsoft.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "2H25",
+      "entity2_type": "DATE",
+      "sentence": "A Zacks analyst includes DIS among five blue-chip stocks for 2H25, citing its strong earnings momentum alongside peers like Visa and Microsoft.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "Visa",
+      "entity2_type": "ORG",
+      "sentence": "A Zacks analyst includes DIS among five blue-chip stocks for 2H25, citing its strong earnings momentum alongside peers like Visa and Microsoft.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "Microsoft",
+      "entity2_type": "ORG",
+      "sentence": "A Zacks analyst includes DIS among five blue-chip stocks for 2H25, citing its strong earnings momentum alongside peers like Visa and Microsoft.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "DIS",
+      "entity1_type": "ORG",
+      "entity2": "five",
+      "entity2_type": "CARDINAL",
+      "sentence": "A Zacks analyst includes DIS among five blue-chip stocks for 2H25, citing its strong earnings momentum alongside peers like Visa and Microsoft.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "DIS",
+      "entity1_type": "ORG",
+      "entity2": "2H25",
+      "entity2_type": "DATE",
+      "sentence": "A Zacks analyst includes DIS among five blue-chip stocks for 2H25, citing its strong earnings momentum alongside peers like Visa and Microsoft.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "DIS",
+      "entity1_type": "ORG",
+      "entity2": "Visa",
+      "entity2_type": "ORG",
+      "sentence": "A Zacks analyst includes DIS among five blue-chip stocks for 2H25, citing its strong earnings momentum alongside peers like Visa and Microsoft.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "DIS",
+      "entity1_type": "ORG",
+      "entity2": "Microsoft",
+      "entity2_type": "ORG",
+      "sentence": "A Zacks analyst includes DIS among five blue-chip stocks for 2H25, citing its strong earnings momentum alongside peers like Visa and Microsoft.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "five",
+      "entity1_type": "CARDINAL",
+      "entity2": "2H25",
+      "entity2_type": "DATE",
+      "sentence": "A Zacks analyst includes DIS among five blue-chip stocks for 2H25, citing its strong earnings momentum alongside peers like Visa and Microsoft.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "five",
+      "entity1_type": "CARDINAL",
+      "entity2": "Visa",
+      "entity2_type": "ORG",
+      "sentence": "A Zacks analyst includes DIS among five blue-chip stocks for 2H25, citing its strong earnings momentum alongside peers like Visa and Microsoft.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "five",
+      "entity1_type": "CARDINAL",
+      "entity2": "Microsoft",
+      "entity2_type": "ORG",
+      "sentence": "A Zacks analyst includes DIS among five blue-chip stocks for 2H25, citing its strong earnings momentum alongside peers like Visa and Microsoft.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2H25",
+      "entity1_type": "DATE",
+      "entity2": "Visa",
+      "entity2_type": "ORG",
+      "sentence": "A Zacks analyst includes DIS among five blue-chip stocks for 2H25, citing its strong earnings momentum alongside peers like Visa and Microsoft.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2H25",
+      "entity1_type": "DATE",
+      "entity2": "Microsoft",
+      "entity2_type": "ORG",
+      "sentence": "A Zacks analyst includes DIS among five blue-chip stocks for 2H25, citing its strong earnings momentum alongside peers like Visa and Microsoft.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Visa",
+      "entity1_type": "ORG",
+      "entity2": "Microsoft",
+      "entity2_type": "ORG",
+      "sentence": "A Zacks analyst includes DIS among five blue-chip stocks for 2H25, citing its strong earnings momentum alongside peers like Visa and Microsoft.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "5",
+      "entity1_type": "CARDINAL",
+      "entity2": "2H25",
+      "entity2_type": "DATE",
+      "sentence": "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "5",
+      "entity1_type": "CARDINAL",
+      "entity2": "Zacks",
+      "entity2_type": "ORG",
+      "sentence": "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "5",
+      "entity1_type": "CARDINAL",
+      "entity2": "DIS",
+      "entity2_type": "ORG",
+      "sentence": "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "5",
+      "entity1_type": "CARDINAL",
+      "entity2": "9.3",
+      "entity2_type": "PERCENT",
+      "sentence": "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "5",
+      "entity1_type": "CARDINAL",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "5",
+      "entity1_type": "CARDINAL",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "distance": 33
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "5",
+      "entity1_type": "CARDINAL",
+      "entity2": "60",
+      "entity2_type": "MONEY",
+      "sentence": "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "distance": 34
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "5",
+      "entity1_type": "CARDINAL",
+      "entity2": "billion",
+      "entity2_type": "MONEY",
+      "sentence": "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "distance": 35
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2H25",
+      "entity1_type": "DATE",
+      "entity2": "Zacks",
+      "entity2_type": "ORG",
+      "sentence": "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2H25",
+      "entity1_type": "DATE",
+      "entity2": "DIS",
+      "entity2_type": "ORG",
+      "sentence": "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2H25",
+      "entity1_type": "DATE",
+      "entity2": "9.3",
+      "entity2_type": "PERCENT",
+      "sentence": "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2H25",
+      "entity1_type": "DATE",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2H25",
+      "entity1_type": "DATE",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2H25",
+      "entity1_type": "DATE",
+      "entity2": "60",
+      "entity2_type": "MONEY",
+      "sentence": "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2H25",
+      "entity1_type": "DATE",
+      "entity2": "billion",
+      "entity2_type": "MONEY",
+      "sentence": "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "DIS",
+      "entity2_type": "ORG",
+      "sentence": "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "9.3",
+      "entity2_type": "PERCENT",
+      "sentence": "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "60",
+      "entity2_type": "MONEY",
+      "sentence": "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "billion",
+      "entity2_type": "MONEY",
+      "sentence": "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "DIS",
+      "entity1_type": "ORG",
+      "entity2": "9.3",
+      "entity2_type": "PERCENT",
+      "sentence": "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "DIS",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "DIS",
+      "entity1_type": "ORG",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "DIS",
+      "entity1_type": "ORG",
+      "entity2": "60",
+      "entity2_type": "MONEY",
+      "sentence": "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "DIS",
+      "entity1_type": "ORG",
+      "entity2": "billion",
+      "entity2_type": "MONEY",
+      "sentence": "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "9.3",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "9.3",
+      "entity1_type": "PERCENT",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "9.3",
+      "entity1_type": "PERCENT",
+      "entity2": "60",
+      "entity2_type": "MONEY",
+      "sentence": "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "9.3",
+      "entity1_type": "PERCENT",
+      "entity2": "billion",
+      "entity2_type": "MONEY",
+      "sentence": "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "60",
+      "entity2_type": "MONEY",
+      "sentence": "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "billion",
+      "entity2_type": "MONEY",
+      "sentence": "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "60",
+      "entity2_type": "MONEY",
+      "sentence": "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "billion",
+      "entity2_type": "MONEY",
+      "sentence": "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "60",
+      "entity1_type": "MONEY",
+      "entity2": "billion",
+      "entity2_type": "MONEY",
+      "sentence": "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "9.3",
+      "entity2_type": "PERCENT",
+      "sentence": "Disney Gains 9.3% YTD: 3 Key Reasons to Buy the Stock in 2H25",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Disney Gains 9.3% YTD: 3 Key Reasons to Buy the Stock in 2H25",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "3",
+      "entity2_type": "CARDINAL",
+      "sentence": "Disney Gains 9.3% YTD: 3 Key Reasons to Buy the Stock in 2H25",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "2H25",
+      "entity2_type": "DATE",
+      "sentence": "Disney Gains 9.3% YTD: 3 Key Reasons to Buy the Stock in 2H25",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "9.3",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Disney Gains 9.3% YTD: 3 Key Reasons to Buy the Stock in 2H25",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "9.3",
+      "entity1_type": "PERCENT",
+      "entity2": "3",
+      "entity2_type": "CARDINAL",
+      "sentence": "Disney Gains 9.3% YTD: 3 Key Reasons to Buy the Stock in 2H25",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "9.3",
+      "entity1_type": "PERCENT",
+      "entity2": "2H25",
+      "entity2_type": "DATE",
+      "sentence": "Disney Gains 9.3% YTD: 3 Key Reasons to Buy the Stock in 2H25",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "3",
+      "entity2_type": "CARDINAL",
+      "sentence": "Disney Gains 9.3% YTD: 3 Key Reasons to Buy the Stock in 2H25",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "2H25",
+      "entity2_type": "DATE",
+      "sentence": "Disney Gains 9.3% YTD: 3 Key Reasons to Buy the Stock in 2H25",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3",
+      "entity1_type": "CARDINAL",
+      "entity2": "2H25",
+      "entity2_type": "DATE",
+      "sentence": "Disney Gains 9.3% YTD: 3 Key Reasons to Buy the Stock in 2H25",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "UK",
+      "entity2_type": "GPE",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "ITV",
+      "entity2_type": "ORG",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "A",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "Taste",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "of",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "ITVX",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "Disney+",
+      "entity2_type": "ORG",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "Disney",
+      "entity2_type": "ORG",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "ITVX",
+      "entity2_type": "ORG",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UK",
+      "entity1_type": "GPE",
+      "entity2": "ITV",
+      "entity2_type": "ORG",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UK",
+      "entity1_type": "GPE",
+      "entity2": "A",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UK",
+      "entity1_type": "GPE",
+      "entity2": "Taste",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UK",
+      "entity1_type": "GPE",
+      "entity2": "of",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UK",
+      "entity1_type": "GPE",
+      "entity2": "ITVX",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UK",
+      "entity1_type": "GPE",
+      "entity2": "Disney+",
+      "entity2_type": "ORG",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UK",
+      "entity1_type": "GPE",
+      "entity2": "Disney",
+      "entity2_type": "ORG",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UK",
+      "entity1_type": "GPE",
+      "entity2": "ITVX",
+      "entity2_type": "ORG",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ITV",
+      "entity1_type": "ORG",
+      "entity2": "A",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ITV",
+      "entity1_type": "ORG",
+      "entity2": "Taste",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ITV",
+      "entity1_type": "ORG",
+      "entity2": "of",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ITV",
+      "entity1_type": "ORG",
+      "entity2": "ITVX",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ITV",
+      "entity1_type": "ORG",
+      "entity2": "Disney+",
+      "entity2_type": "ORG",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ITV",
+      "entity1_type": "ORG",
+      "entity2": "Disney",
+      "entity2_type": "ORG",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ITV",
+      "entity1_type": "ORG",
+      "entity2": "ITVX",
+      "entity2_type": "ORG",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "A",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "Taste",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "A",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "of",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "A",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "ITVX",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "A",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "Disney+",
+      "entity2_type": "ORG",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "A",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "Disney",
+      "entity2_type": "ORG",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "A",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "ITVX",
+      "entity2_type": "ORG",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Taste",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "of",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Taste",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "ITVX",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Taste",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "Disney+",
+      "entity2_type": "ORG",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Taste",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "Disney",
+      "entity2_type": "ORG",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Taste",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "ITVX",
+      "entity2_type": "ORG",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "of",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "ITVX",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "of",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "Disney+",
+      "entity2_type": "ORG",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "of",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "Disney",
+      "entity2_type": "ORG",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "of",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "ITVX",
+      "entity2_type": "ORG",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ITVX",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "Disney+",
+      "entity2_type": "ORG",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ITVX",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "Disney",
+      "entity2_type": "ORG",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ITVX",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "ITVX",
+      "entity2_type": "ORG",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney+",
+      "entity1_type": "ORG",
+      "entity2": "Disney",
+      "entity2_type": "ORG",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney+",
+      "entity1_type": "ORG",
+      "entity2": "ITVX",
+      "entity2_type": "ORG",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "ITVX",
+      "entity2_type": "ORG",
+      "sentence": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "UK",
+      "entity2_type": "GPE",
+      "sentence": "Disney and UK's ITV tie-up in joint streaming deal\nNeutral Sentiment:\nInvestors may weigh a Yahoo Finance piece discussing whether Disney’s growth potential outpaces peers, but the conclusion remains mixed until further data.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "ITV",
+      "entity2_type": "ORG",
+      "sentence": "Disney and UK's ITV tie-up in joint streaming deal\nNeutral Sentiment:\nInvestors may weigh a Yahoo Finance piece discussing whether Disney’s growth potential outpaces peers, but the conclusion remains mixed until further data.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "Yahoo",
+      "entity2_type": "ORG",
+      "sentence": "Disney and UK's ITV tie-up in joint streaming deal\nNeutral Sentiment:\nInvestors may weigh a Yahoo Finance piece discussing whether Disney’s growth potential outpaces peers, but the conclusion remains mixed until further data.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "Finance",
+      "entity2_type": "ORG",
+      "sentence": "Disney and UK's ITV tie-up in joint streaming deal\nNeutral Sentiment:\nInvestors may weigh a Yahoo Finance piece discussing whether Disney’s growth potential outpaces peers, but the conclusion remains mixed until further data.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "Disney",
+      "entity2_type": "ORG",
+      "sentence": "Disney and UK's ITV tie-up in joint streaming deal\nNeutral Sentiment:\nInvestors may weigh a Yahoo Finance piece discussing whether Disney’s growth potential outpaces peers, but the conclusion remains mixed until further data.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UK",
+      "entity1_type": "GPE",
+      "entity2": "ITV",
+      "entity2_type": "ORG",
+      "sentence": "Disney and UK's ITV tie-up in joint streaming deal\nNeutral Sentiment:\nInvestors may weigh a Yahoo Finance piece discussing whether Disney’s growth potential outpaces peers, but the conclusion remains mixed until further data.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UK",
+      "entity1_type": "GPE",
+      "entity2": "Yahoo",
+      "entity2_type": "ORG",
+      "sentence": "Disney and UK's ITV tie-up in joint streaming deal\nNeutral Sentiment:\nInvestors may weigh a Yahoo Finance piece discussing whether Disney’s growth potential outpaces peers, but the conclusion remains mixed until further data.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UK",
+      "entity1_type": "GPE",
+      "entity2": "Finance",
+      "entity2_type": "ORG",
+      "sentence": "Disney and UK's ITV tie-up in joint streaming deal\nNeutral Sentiment:\nInvestors may weigh a Yahoo Finance piece discussing whether Disney’s growth potential outpaces peers, but the conclusion remains mixed until further data.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "UK",
+      "entity1_type": "GPE",
+      "entity2": "Disney",
+      "entity2_type": "ORG",
+      "sentence": "Disney and UK's ITV tie-up in joint streaming deal\nNeutral Sentiment:\nInvestors may weigh a Yahoo Finance piece discussing whether Disney’s growth potential outpaces peers, but the conclusion remains mixed until further data.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ITV",
+      "entity1_type": "ORG",
+      "entity2": "Yahoo",
+      "entity2_type": "ORG",
+      "sentence": "Disney and UK's ITV tie-up in joint streaming deal\nNeutral Sentiment:\nInvestors may weigh a Yahoo Finance piece discussing whether Disney’s growth potential outpaces peers, but the conclusion remains mixed until further data.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ITV",
+      "entity1_type": "ORG",
+      "entity2": "Finance",
+      "entity2_type": "ORG",
+      "sentence": "Disney and UK's ITV tie-up in joint streaming deal\nNeutral Sentiment:\nInvestors may weigh a Yahoo Finance piece discussing whether Disney’s growth potential outpaces peers, but the conclusion remains mixed until further data.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ITV",
+      "entity1_type": "ORG",
+      "entity2": "Disney",
+      "entity2_type": "ORG",
+      "sentence": "Disney and UK's ITV tie-up in joint streaming deal\nNeutral Sentiment:\nInvestors may weigh a Yahoo Finance piece discussing whether Disney’s growth potential outpaces peers, but the conclusion remains mixed until further data.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yahoo",
+      "entity1_type": "ORG",
+      "entity2": "Finance",
+      "entity2_type": "ORG",
+      "sentence": "Disney and UK's ITV tie-up in joint streaming deal\nNeutral Sentiment:\nInvestors may weigh a Yahoo Finance piece discussing whether Disney’s growth potential outpaces peers, but the conclusion remains mixed until further data.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yahoo",
+      "entity1_type": "ORG",
+      "entity2": "Disney",
+      "entity2_type": "ORG",
+      "sentence": "Disney and UK's ITV tie-up in joint streaming deal\nNeutral Sentiment:\nInvestors may weigh a Yahoo Finance piece discussing whether Disney’s growth potential outpaces peers, but the conclusion remains mixed until further data.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Finance",
+      "entity1_type": "ORG",
+      "entity2": "Disney",
+      "entity2_type": "ORG",
+      "sentence": "Disney and UK's ITV tie-up in joint streaming deal\nNeutral Sentiment:\nInvestors may weigh a Yahoo Finance piece discussing whether Disney’s growth potential outpaces peers, but the conclusion remains mixed until further data.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "The",
+      "entity1_type": "ORG",
+      "entity2": "Walt",
+      "entity2_type": "ORG",
+      "sentence": "Should You Anticipate Higher Growth Potential in The Walt Disney Company (DIS) Compared to Its Peers?",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "The",
+      "entity1_type": "ORG",
+      "entity2": "Disney",
+      "entity2_type": "ORG",
+      "sentence": "Should You Anticipate Higher Growth Potential in The Walt Disney Company (DIS) Compared to Its Peers?",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "The",
+      "entity1_type": "ORG",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "Should You Anticipate Higher Growth Potential in The Walt Disney Company (DIS) Compared to Its Peers?",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Walt",
+      "entity1_type": "ORG",
+      "entity2": "Disney",
+      "entity2_type": "ORG",
+      "sentence": "Should You Anticipate Higher Growth Potential in The Walt Disney Company (DIS) Compared to Its Peers?",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Walt",
+      "entity1_type": "ORG",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "Should You Anticipate Higher Growth Potential in The Walt Disney Company (DIS) Compared to Its Peers?",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "Should You Anticipate Higher Growth Potential in The Walt Disney Company (DIS) Compared to Its Peers?",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Orlando",
+      "entity1_type": "ORG",
+      "entity2": "Sentinel",
+      "entity2_type": "ORG",
+      "sentence": "Neutral Sentiment:\nFan engagement news from Orlando Sentinel and AOL around holiday events at Disney parks is driving visitor interest but has limited direct impact on near-term results.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Orlando",
+      "entity1_type": "ORG",
+      "entity2": "AOL",
+      "entity2_type": "ORG",
+      "sentence": "Neutral Sentiment:\nFan engagement news from Orlando Sentinel and AOL around holiday events at Disney parks is driving visitor interest but has limited direct impact on near-term results.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Orlando",
+      "entity1_type": "ORG",
+      "entity2": "Disney",
+      "entity2_type": "ORG",
+      "sentence": "Neutral Sentiment:\nFan engagement news from Orlando Sentinel and AOL around holiday events at Disney parks is driving visitor interest but has limited direct impact on near-term results.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sentinel",
+      "entity1_type": "ORG",
+      "entity2": "AOL",
+      "entity2_type": "ORG",
+      "sentence": "Neutral Sentiment:\nFan engagement news from Orlando Sentinel and AOL around holiday events at Disney parks is driving visitor interest but has limited direct impact on near-term results.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sentinel",
+      "entity1_type": "ORG",
+      "entity2": "Disney",
+      "entity2_type": "ORG",
+      "sentence": "Neutral Sentiment:\nFan engagement news from Orlando Sentinel and AOL around holiday events at Disney parks is driving visitor interest but has limited direct impact on near-term results.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AOL",
+      "entity1_type": "ORG",
+      "entity2": "Disney",
+      "entity2_type": "ORG",
+      "sentence": "Neutral Sentiment:\nFan engagement news from Orlando Sentinel and AOL around holiday events at Disney parks is driving visitor interest but has limited direct impact on near-term results.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "Jollywood",
+      "entity2_type": "GPE",
+      "sentence": "Disney shares holiday party dates for Jollywood, Very Merry",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "World",
+      "entity2_type": "ORG",
+      "sentence": "Disney World's Big Announcement Has Fans Saying 'I'm Going to Faint'\nNeutral Sentiment:\nMerchandise and collectible releases, including new Walt Disney World souvenir sippers and a rare Disney collectible at Woolworths, may boost ancillary revenues but are not material to core earnings.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "'s",
+      "entity2_type": "ORG",
+      "sentence": "Disney World's Big Announcement Has Fans Saying 'I'm Going to Faint'\nNeutral Sentiment:\nMerchandise and collectible releases, including new Walt Disney World souvenir sippers and a rare Disney collectible at Woolworths, may boost ancillary revenues but are not material to core earnings.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "Walt",
+      "entity2_type": "ORG",
+      "sentence": "Disney World's Big Announcement Has Fans Saying 'I'm Going to Faint'\nNeutral Sentiment:\nMerchandise and collectible releases, including new Walt Disney World souvenir sippers and a rare Disney collectible at Woolworths, may boost ancillary revenues but are not material to core earnings.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "Disney",
+      "entity2_type": "ORG",
+      "sentence": "Disney World's Big Announcement Has Fans Saying 'I'm Going to Faint'\nNeutral Sentiment:\nMerchandise and collectible releases, including new Walt Disney World souvenir sippers and a rare Disney collectible at Woolworths, may boost ancillary revenues but are not material to core earnings.",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "World",
+      "entity2_type": "ORG",
+      "sentence": "Disney World's Big Announcement Has Fans Saying 'I'm Going to Faint'\nNeutral Sentiment:\nMerchandise and collectible releases, including new Walt Disney World souvenir sippers and a rare Disney collectible at Woolworths, may boost ancillary revenues but are not material to core earnings.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "Disney",
+      "entity2_type": "ORG",
+      "sentence": "Disney World's Big Announcement Has Fans Saying 'I'm Going to Faint'\nNeutral Sentiment:\nMerchandise and collectible releases, including new Walt Disney World souvenir sippers and a rare Disney collectible at Woolworths, may boost ancillary revenues but are not material to core earnings.",
+      "distance": 35
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "Woolworths",
+      "entity2_type": "ORG",
+      "sentence": "Disney World's Big Announcement Has Fans Saying 'I'm Going to Faint'\nNeutral Sentiment:\nMerchandise and collectible releases, including new Walt Disney World souvenir sippers and a rare Disney collectible at Woolworths, may boost ancillary revenues but are not material to core earnings.",
+      "distance": 38
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "World",
+      "entity1_type": "ORG",
+      "entity2": "'s",
+      "entity2_type": "ORG",
+      "sentence": "Disney World's Big Announcement Has Fans Saying 'I'm Going to Faint'\nNeutral Sentiment:\nMerchandise and collectible releases, including new Walt Disney World souvenir sippers and a rare Disney collectible at Woolworths, may boost ancillary revenues but are not material to core earnings.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "World",
+      "entity1_type": "ORG",
+      "entity2": "Walt",
+      "entity2_type": "ORG",
+      "sentence": "Disney World's Big Announcement Has Fans Saying 'I'm Going to Faint'\nNeutral Sentiment:\nMerchandise and collectible releases, including new Walt Disney World souvenir sippers and a rare Disney collectible at Woolworths, may boost ancillary revenues but are not material to core earnings.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "World",
+      "entity1_type": "ORG",
+      "entity2": "Disney",
+      "entity2_type": "ORG",
+      "sentence": "Disney World's Big Announcement Has Fans Saying 'I'm Going to Faint'\nNeutral Sentiment:\nMerchandise and collectible releases, including new Walt Disney World souvenir sippers and a rare Disney collectible at Woolworths, may boost ancillary revenues but are not material to core earnings.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "World",
+      "entity1_type": "ORG",
+      "entity2": "World",
+      "entity2_type": "ORG",
+      "sentence": "Disney World's Big Announcement Has Fans Saying 'I'm Going to Faint'\nNeutral Sentiment:\nMerchandise and collectible releases, including new Walt Disney World souvenir sippers and a rare Disney collectible at Woolworths, may boost ancillary revenues but are not material to core earnings.",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "World",
+      "entity1_type": "ORG",
+      "entity2": "Disney",
+      "entity2_type": "ORG",
+      "sentence": "Disney World's Big Announcement Has Fans Saying 'I'm Going to Faint'\nNeutral Sentiment:\nMerchandise and collectible releases, including new Walt Disney World souvenir sippers and a rare Disney collectible at Woolworths, may boost ancillary revenues but are not material to core earnings.",
+      "distance": 34
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "World",
+      "entity1_type": "ORG",
+      "entity2": "Woolworths",
+      "entity2_type": "ORG",
+      "sentence": "Disney World's Big Announcement Has Fans Saying 'I'm Going to Faint'\nNeutral Sentiment:\nMerchandise and collectible releases, including new Walt Disney World souvenir sippers and a rare Disney collectible at Woolworths, may boost ancillary revenues but are not material to core earnings.",
+      "distance": 37
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "'s",
+      "entity1_type": "ORG",
+      "entity2": "Walt",
+      "entity2_type": "ORG",
+      "sentence": "Disney World's Big Announcement Has Fans Saying 'I'm Going to Faint'\nNeutral Sentiment:\nMerchandise and collectible releases, including new Walt Disney World souvenir sippers and a rare Disney collectible at Woolworths, may boost ancillary revenues but are not material to core earnings.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "'s",
+      "entity1_type": "ORG",
+      "entity2": "Disney",
+      "entity2_type": "ORG",
+      "sentence": "Disney World's Big Announcement Has Fans Saying 'I'm Going to Faint'\nNeutral Sentiment:\nMerchandise and collectible releases, including new Walt Disney World souvenir sippers and a rare Disney collectible at Woolworths, may boost ancillary revenues but are not material to core earnings.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "'s",
+      "entity1_type": "ORG",
+      "entity2": "World",
+      "entity2_type": "ORG",
+      "sentence": "Disney World's Big Announcement Has Fans Saying 'I'm Going to Faint'\nNeutral Sentiment:\nMerchandise and collectible releases, including new Walt Disney World souvenir sippers and a rare Disney collectible at Woolworths, may boost ancillary revenues but are not material to core earnings.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "'s",
+      "entity1_type": "ORG",
+      "entity2": "Disney",
+      "entity2_type": "ORG",
+      "sentence": "Disney World's Big Announcement Has Fans Saying 'I'm Going to Faint'\nNeutral Sentiment:\nMerchandise and collectible releases, including new Walt Disney World souvenir sippers and a rare Disney collectible at Woolworths, may boost ancillary revenues but are not material to core earnings.",
+      "distance": 33
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "'s",
+      "entity1_type": "ORG",
+      "entity2": "Woolworths",
+      "entity2_type": "ORG",
+      "sentence": "Disney World's Big Announcement Has Fans Saying 'I'm Going to Faint'\nNeutral Sentiment:\nMerchandise and collectible releases, including new Walt Disney World souvenir sippers and a rare Disney collectible at Woolworths, may boost ancillary revenues but are not material to core earnings.",
+      "distance": 36
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Walt",
+      "entity1_type": "ORG",
+      "entity2": "Disney",
+      "entity2_type": "ORG",
+      "sentence": "Disney World's Big Announcement Has Fans Saying 'I'm Going to Faint'\nNeutral Sentiment:\nMerchandise and collectible releases, including new Walt Disney World souvenir sippers and a rare Disney collectible at Woolworths, may boost ancillary revenues but are not material to core earnings.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Walt",
+      "entity1_type": "ORG",
+      "entity2": "World",
+      "entity2_type": "ORG",
+      "sentence": "Disney World's Big Announcement Has Fans Saying 'I'm Going to Faint'\nNeutral Sentiment:\nMerchandise and collectible releases, including new Walt Disney World souvenir sippers and a rare Disney collectible at Woolworths, may boost ancillary revenues but are not material to core earnings.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Walt",
+      "entity1_type": "ORG",
+      "entity2": "Disney",
+      "entity2_type": "ORG",
+      "sentence": "Disney World's Big Announcement Has Fans Saying 'I'm Going to Faint'\nNeutral Sentiment:\nMerchandise and collectible releases, including new Walt Disney World souvenir sippers and a rare Disney collectible at Woolworths, may boost ancillary revenues but are not material to core earnings.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Walt",
+      "entity1_type": "ORG",
+      "entity2": "Woolworths",
+      "entity2_type": "ORG",
+      "sentence": "Disney World's Big Announcement Has Fans Saying 'I'm Going to Faint'\nNeutral Sentiment:\nMerchandise and collectible releases, including new Walt Disney World souvenir sippers and a rare Disney collectible at Woolworths, may boost ancillary revenues but are not material to core earnings.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "World",
+      "entity2_type": "ORG",
+      "sentence": "Disney World's Big Announcement Has Fans Saying 'I'm Going to Faint'\nNeutral Sentiment:\nMerchandise and collectible releases, including new Walt Disney World souvenir sippers and a rare Disney collectible at Woolworths, may boost ancillary revenues but are not material to core earnings.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "Disney",
+      "entity2_type": "ORG",
+      "sentence": "Disney World's Big Announcement Has Fans Saying 'I'm Going to Faint'\nNeutral Sentiment:\nMerchandise and collectible releases, including new Walt Disney World souvenir sippers and a rare Disney collectible at Woolworths, may boost ancillary revenues but are not material to core earnings.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "Woolworths",
+      "entity2_type": "ORG",
+      "sentence": "Disney World's Big Announcement Has Fans Saying 'I'm Going to Faint'\nNeutral Sentiment:\nMerchandise and collectible releases, including new Walt Disney World souvenir sippers and a rare Disney collectible at Woolworths, may boost ancillary revenues but are not material to core earnings.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "World",
+      "entity1_type": "ORG",
+      "entity2": "Disney",
+      "entity2_type": "ORG",
+      "sentence": "Disney World's Big Announcement Has Fans Saying 'I'm Going to Faint'\nNeutral Sentiment:\nMerchandise and collectible releases, including new Walt Disney World souvenir sippers and a rare Disney collectible at Woolworths, may boost ancillary revenues but are not material to core earnings.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "World",
+      "entity1_type": "ORG",
+      "entity2": "Woolworths",
+      "entity2_type": "ORG",
+      "sentence": "Disney World's Big Announcement Has Fans Saying 'I'm Going to Faint'\nNeutral Sentiment:\nMerchandise and collectible releases, including new Walt Disney World souvenir sippers and a rare Disney collectible at Woolworths, may boost ancillary revenues but are not material to core earnings.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "Woolworths",
+      "entity2_type": "ORG",
+      "sentence": "Disney World's Big Announcement Has Fans Saying 'I'm Going to Faint'\nNeutral Sentiment:\nMerchandise and collectible releases, including new Walt Disney World souvenir sippers and a rare Disney collectible at Woolworths, may boost ancillary revenues but are not material to core earnings.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Walt",
+      "entity1_type": "ORG",
+      "entity2": "Disney",
+      "entity2_type": "ORG",
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Walt",
+      "entity1_type": "ORG",
+      "entity2": "World",
+      "entity2_type": "ORG",
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Walt",
+      "entity1_type": "ORG",
+      "entity2": "Disney",
+      "entity2_type": "ORG",
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Walt",
+      "entity1_type": "ORG",
+      "entity2": "Woolworths",
+      "entity2_type": "ORG",
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Walt",
+      "entity1_type": "ORG",
+      "entity2": "Mercury",
+      "entity2_type": "ORG",
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "distance": 32
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Walt",
+      "entity1_type": "ORG",
+      "entity2": "News",
+      "entity2_type": "ORG",
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "distance": 33
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Walt",
+      "entity1_type": "ORG",
+      "entity2": "Disneyland",
+      "entity2_type": "FAC",
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "distance": 35
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Walt",
+      "entity1_type": "ORG",
+      "entity2": "1955",
+      "entity2_type": "DATE",
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "distance": 38
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "World",
+      "entity2_type": "ORG",
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "Disney",
+      "entity2_type": "ORG",
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "Woolworths",
+      "entity2_type": "ORG",
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "Mercury",
+      "entity2_type": "ORG",
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "News",
+      "entity2_type": "ORG",
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "distance": 32
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "Disneyland",
+      "entity2_type": "FAC",
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "distance": 34
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "1955",
+      "entity2_type": "DATE",
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "distance": 37
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "World",
+      "entity1_type": "ORG",
+      "entity2": "Disney",
+      "entity2_type": "ORG",
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "World",
+      "entity1_type": "ORG",
+      "entity2": "Woolworths",
+      "entity2_type": "ORG",
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "World",
+      "entity1_type": "ORG",
+      "entity2": "Mercury",
+      "entity2_type": "ORG",
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "World",
+      "entity1_type": "ORG",
+      "entity2": "News",
+      "entity2_type": "ORG",
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "World",
+      "entity1_type": "ORG",
+      "entity2": "Disneyland",
+      "entity2_type": "FAC",
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "distance": 33
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "World",
+      "entity1_type": "ORG",
+      "entity2": "1955",
+      "entity2_type": "DATE",
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "distance": 36
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "Woolworths",
+      "entity2_type": "ORG",
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "Mercury",
+      "entity2_type": "ORG",
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "News",
+      "entity2_type": "ORG",
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "Disneyland",
+      "entity2_type": "FAC",
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disney",
+      "entity1_type": "ORG",
+      "entity2": "1955",
+      "entity2_type": "DATE",
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Woolworths",
+      "entity1_type": "ORG",
+      "entity2": "Mercury",
+      "entity2_type": "ORG",
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Woolworths",
+      "entity1_type": "ORG",
+      "entity2": "News",
+      "entity2_type": "ORG",
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Woolworths",
+      "entity1_type": "ORG",
+      "entity2": "Disneyland",
+      "entity2_type": "FAC",
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Woolworths",
+      "entity1_type": "ORG",
+      "entity2": "1955",
+      "entity2_type": "DATE",
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mercury",
+      "entity1_type": "ORG",
+      "entity2": "News",
+      "entity2_type": "ORG",
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mercury",
+      "entity1_type": "ORG",
+      "entity2": "Disneyland",
+      "entity2_type": "FAC",
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mercury",
+      "entity1_type": "ORG",
+      "entity2": "1955",
+      "entity2_type": "DATE",
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "News",
+      "entity1_type": "ORG",
+      "entity2": "Disneyland",
+      "entity2_type": "FAC",
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "News",
+      "entity1_type": "ORG",
+      "entity2": "1955",
+      "entity2_type": "DATE",
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disneyland",
+      "entity1_type": "FAC",
+      "entity2": "1955",
+      "entity2_type": "DATE",
+      "sentence": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disneyland",
+      "entity1_type": "ORG",
+      "entity2": "1955",
+      "entity2_type": "DATE",
+      "sentence": "Disneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disneyland",
+      "entity1_type": "ORG",
+      "entity2": "Walt",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Disneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disneyland",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Disneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disneyland",
+      "entity1_type": "ORG",
+      "entity2": "Folly",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Disneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disneyland",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Disneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disneyland",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Disneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disneyland",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Disneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Disneyland",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Disneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1955",
+      "entity1_type": "DATE",
+      "entity2": "Walt",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Disneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1955",
+      "entity1_type": "DATE",
+      "entity2": "’s",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Disneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1955",
+      "entity1_type": "DATE",
+      "entity2": "Folly",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Disneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1955",
+      "entity1_type": "DATE",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Disneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1955",
+      "entity1_type": "DATE",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Disneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1955",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Disneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1955",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Disneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Walt",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "’s",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Disneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Walt",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "Folly",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Disneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Walt",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Disneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Walt",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Disneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Walt",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Disneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Walt",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Disneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "Folly",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Disneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Disneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Disneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Disneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Disneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Folly",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Disneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Folly",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Disneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Folly",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Disneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Folly",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Disneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Disneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Disneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Disneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Disneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Disneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Disneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "The Walt Disney Company",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a series",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "analyst notes",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "consumer engagement initiatives",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its near-term outlook",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the key developments",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "increased investor attention",
+      "type": "noun_chunk",
+      "category": "trend"
+    },
+    {
+      "text": "subscriber growth",
+      "type": "noun_chunk",
+      "category": "trend"
+    },
+    {
+      "text": "new content lineups",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "streaming revenue",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "The Walt Disney Company",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Investor Attention",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "A Zacks analyst",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "five blue-chip stocks",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "its strong earnings momentum",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "These 5 Blue-Chip Stocks",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Your Portfolio",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Another Zacks piece",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "DIS’s 9.3% YTD gain",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "streaming profits",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "a $60 billion parks expansion",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "further upside",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the Stock",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a content-swap deal",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "UK broadcaster ITV",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "A Taste",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Disney hits",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its global streaming footprint",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "joint streaming deal",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a Yahoo Finance piece",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Disney’s growth potential",
+      "type": "noun_chunk",
+      "category": "trend"
+    },
+    {
+      "text": "the conclusion",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "further data",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Higher Growth Potential",
+      "type": "noun_chunk",
+      "category": "trend"
+    },
+    {
+      "text": "The Walt Disney Company",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Its Peers",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Fan engagement news",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Orlando Sentinel",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "holiday events",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Disney parks",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "visitor interest",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "limited direct impact",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "near-term results",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "holiday party dates",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Disney World's Big Announcement",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Merchandise and collectible releases",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "new Walt Disney World souvenir sippers",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a rare Disney collectible",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "ancillary revenues",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "core earnings",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "A rare Disney collectible",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "A retrospective",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Mercury News",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Disneyland’s rocky 1955 opening",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "historical color",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a catalyst",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "current stock performance",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "a nightmare start",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Walt’s Folly",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "$60 billion",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "9.3%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "9.3%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "growth",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "revenue",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "growth",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Growth",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "stock",
+      "type": "pattern",
+      "category": "market_term"
+    }
+  ],
+  "important_sentences": [
+    {
+      "text": "Disney has struck a content-swap deal with UK broadcaster ITV, adding “A Taste of ITVX” to Disney+ and bringing Disney hits to ITVX, enhancing its global streaming footprint.",
+      "importance_score": 43,
+      "entity_count": 10,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 5,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "importance_score": 40,
+      "entity_count": 9,
+      "financial_keyword_count": 3,
+      "money_count": 1,
+      "company_count": 2,
+      "sentiment": "positive"
+    },
+    {
+      "text": "NEW Walt Disney World Swan and Dolphin Souvenir Sippers Now Available\nA rare Disney collectible is coming to Woolworths and fans are losing it\nNeutral Sentiment:\nA retrospective from Mercury News recounts Disneyland’s rocky 1955 opening, serving more as historical color than a catalyst for current stock performance.",
+      "importance_score": 40,
+      "entity_count": 9,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "A Zacks analyst includes DIS among five blue-chip stocks for 2H25, citing its strong earnings momentum alongside peers like Visa and Microsoft.",
+      "importance_score": 37,
+      "entity_count": 6,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 4,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Disney World's Big Announcement Has Fans Saying 'I'm Going to Faint'\nNeutral Sentiment:\nMerchandise and collectible releases, including new Walt Disney World souvenir sippers and a rare Disney collectible at Woolworths, may boost ancillary revenues but are not material to core earnings.",
+      "importance_score": 35,
+      "entity_count": 8,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Disney and UK's ITV tie-up in joint streaming deal\nNeutral Sentiment:\nInvestors may weigh a Yahoo Finance piece discussing whether Disney’s growth potential outpaces peers, but the conclusion remains mixed until further data.",
+      "importance_score": 34,
+      "entity_count": 6,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 4,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Neutral Sentiment:\nFan engagement news from Orlando Sentinel and AOL around holiday events at Disney parks is driving visitor interest but has limited direct impact on near-term results.",
+      "importance_score": 26,
+      "entity_count": 4,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Disneyland had a nightmare start in 1955, but ‘Walt’s Folly’ quickly won over fans\nPosted 1+ days ago\nAI Generated.",
+      "importance_score": 25,
+      "entity_count": 9,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "The Walt Disney Company (DIS) is seeing movement after a series of analyst notes, partnerships and consumer engagement initiatives that could influence its near-term outlook.",
+      "importance_score": 24,
+      "entity_count": 5,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Disney Gains 9.3% YTD: 3 Key Reasons to Buy the Stock in 2H25",
+      "importance_score": 20,
+      "entity_count": 5,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "neutral"
+    }
+  ],
+  "entity_statistics": {
+    "total_entities": 54,
+    "unique_entities": 29,
+    "type_counts": {
+      "ORG": 36,
+      "CARDINAL": 3,
+      "DATE": 6,
+      "PERCENT": 2,
+      "MONEY": 1,
+      "GPE": 3,
+      "WORK_OF_ART": 2,
+      "FAC": 1
+    },
+    "type_distribution": {
+      "ORG": 0.6666666666666666,
+      "CARDINAL": 0.05555555555555555,
+      "DATE": 0.1111111111111111,
+      "PERCENT": 0.037037037037037035,
+      "MONEY": 0.018518518518518517,
+      "GPE": 0.05555555555555555,
+      "WORK_OF_ART": 0.037037037037037035,
+      "FAC": 0.018518518518518517
+    },
+    "most_common_entities": [
+      [
+        "Disney",
+        9
+      ],
+      [
+        "DIS",
+        5
+      ],
+      [
+        "The Walt Disney Company",
+        3
+      ],
+      [
+        "Zacks",
+        3
+      ],
+      [
+        "2H25",
+        3
+      ],
+      [
+        "9.3%",
+        2
+      ],
+      [
+        "UK",
+        2
+      ],
+      [
+        "ITV",
+        2
+      ],
+      [
+        "Walt Disney World",
+        2
+      ],
+      [
+        "Woolworths",
+        2
+      ]
+    ],
+    "entity_types_found": [
+      "ORG",
+      "CARDINAL",
+      "DATE",
+      "PERCENT",
+      "MONEY",
+      "GPE",
+      "WORK_OF_ART",
+      "FAC"
+    ],
+    "company_entities": 36,
+    "person_entities": 0,
+    "financial_entities": 3,
+    "entity_density": 0.15126050420168066
+  },
+  "financial_analysis": {
+    "money_amounts": [
+      "$60 billion"
+    ],
+    "percentages": [
+      "9.3%",
+      "9.3%"
+    ],
+    "companies": [
+      "The Walt Disney Company",
+      "DIS",
+      "Zacks",
+      "DIS",
+      "The Walt Disney Company",
+      "DIS",
+      "Zacks",
+      "DIS",
+      "Visa",
+      "Microsoft",
+      "Zacks",
+      "DIS",
+      "Disney",
+      "Disney",
+      "ITV",
+      "Disney+",
+      "Disney",
+      "ITVX",
+      "Disney",
+      "ITV",
+      "Yahoo Finance",
+      "Disney",
+      "The Walt Disney Company",
+      "Orlando Sentinel",
+      "AOL",
+      "Disney",
+      "Disney",
+      "Disney World's",
+      "Walt Disney World",
+      "Disney",
+      "Woolworths",
+      "Walt Disney World",
+      "Disney",
+      "Woolworths",
+      "Mercury News",
+      "Disneyland"
+    ],
+    "people": [],
+    "dates": [
+      "2H25",
+      "2H25",
+      "2H25",
+      "1955",
+      "1955",
+      "1+ days ago"
+    ],
+    "financial_terms": [
+      "Stock",
+      "earnings",
+      "growth",
+      "Growth",
+      "revenue",
+      "stock"
+    ],
+    "financial_metrics": [],
+    "market_indicators": []
+  },
+  "temporal_analysis": {
+    "dates": [
+      "2H25",
+      "2H25",
+      "2H25",
+      "1955",
+      "1955",
+      "1+ days ago"
+    ],
+    "time_expressions": [],
+    "temporal_relationships": [],
+    "quarters": [],
+    "years": [
+      "1955",
+      "1955"
+    ],
+    "time_periods": []
+  },
+  "sentiment_analysis": {
+    "positive_words": 10,
+    "negative_words": 0,
+    "positive_ratio": 0.028011204481792718,
+    "negative_ratio": 0.0,
+    "sentiment_score": 0.028011204481792718,
+    "sentiment_label": "positive",
+    "sentiment_strength": 0.028011204481792718,
+    "confidence": 0.2801120448179272
+  },
+  "industry_analysis": {
+    "dominant_industry": "media",
+    "industry_scores": {
+      "tech": 3,
+      "finance": 0,
+      "healthcare": 0,
+      "energy": 0,
+      "retail": 1,
+      "automotive": 0,
+      "media": 8,
+      "industrial": 0,
+      "real_estate": 0,
+      "telecom": 0,
+      "food_beverage": 0,
+      "travel": 0,
+      "education": 0,
+      "professional": 0,
+      "mining": 0,
+      "aerospace": 0,
+      "environmental": 0,
+      "cannabis": 0
+    },
+    "confidence": 0.6666666666666666
+  },
+  "market_analysis": {
+    "market_sentiment": "bullish",
+    "bullish_indicators": 1,
+    "bearish_indicators": 0,
+    "market_conditions": {
+      "volatility": "normal",
+      "volume": "normal",
+      "trend": "bullish"
+    },
+    "trading_activity": "normal"
+  },
+  "competitor_analysis": {
+    "companies_mentioned": [
+      "The Walt Disney Company",
+      "DIS",
+      "Zacks",
+      "DIS",
+      "The Walt Disney Company",
+      "DIS",
+      "Zacks",
+      "DIS",
+      "Visa",
+      "Microsoft",
+      "Zacks",
+      "DIS",
+      "Disney",
+      "Disney",
+      "ITV",
+      "Disney+",
+      "Disney",
+      "ITVX",
+      "Disney",
+      "ITV",
+      "Yahoo Finance",
+      "Disney",
+      "The Walt Disney Company",
+      "Orlando Sentinel",
+      "AOL",
+      "Disney",
+      "Disney",
+      "Disney World's",
+      "Walt Disney World",
+      "Disney",
+      "Woolworths",
+      "Walt Disney World",
+      "Disney",
+      "Woolworths",
+      "Mercury News",
+      "Disneyland"
+    ],
+    "competitive_context": [],
+    "competitor_count": 36,
+    "has_competitive_language": false
+  },
+  "risk_analysis": {
+    "risk_sentences": [],
+    "risk_count": 0,
+    "risk_level": "low"
+  },
+  "opportunity_analysis": {
+    "opportunity_sentences": [
+      "Positive Sentiment:\nZacks highlights increased investor attention to DIS, noting subscriber growth and new content lineups that could boost streaming revenue.",
+      "Buy These 5 Blue-Chip Stocks to Strengthen Your Portfolio in 2H25\nPositive Sentiment:\nAnother Zacks piece points to DIS’s 9.3% YTD gain and highlights streaming profits and a $60 billion parks expansion as catalysts for further upside.",
+      "Disney and UK's ITV tie-up in joint streaming deal\nNeutral Sentiment:\nInvestors may weigh a Yahoo Finance piece discussing whether Disney’s growth potential outpaces peers, but the conclusion remains mixed until further data.",
+      "Should You Anticipate Higher Growth Potential in The Walt Disney Company (DIS) Compared to Its Peers?"
+    ],
+    "opportunity_count": 4,
+    "opportunity_level": "high"
+  },
+  "processing_metadata": {
+    "timestamp": "2025-07-13T07:55:44.954204",
+    "model_used": "en_core_web_trf",
+    "text_length": 2402
+  }
+}
