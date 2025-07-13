@@ -1,0 +1,2548 @@
+{
+  "ticker": "NFLX",
+  "entities": [
+    {
+      "text": "Netflix, Inc.",
+      "label": "ORG",
+      "start": 0,
+      "end": 13,
+      "sentence": "Netflix, Inc. (NASDAQ: NFLX)",
+      "context": "Netflix, Inc. (NASDAQ: NFLX)– Investors are weighing a string o",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "NFLX",
+      "label": "ORG",
+      "start": 23,
+      "end": 27,
+      "sentence": "Netflix, Inc. (NASDAQ: NFLX)",
+      "context": "Netflix, Inc. (NASDAQ: NFLX)– Investors are weighing a string of analyst upda",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q2",
+      "label": "DATE",
+      "start": 116,
+      "end": 118,
+      "sentence": "– Investors are weighing a string of analyst updates and content announcements ahead of Q2 earnings.",
+      "context": "nalyst updates and content announcements ahead of Q2 earnings.\nPositive Sentiment:\nNeedham & Company L",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Needham & Company LLC",
+      "label": "ORG",
+      "start": 149,
+      "end": 170,
+      "sentence": "Positive Sentiment:\nNeedham & Company LLC lifted its price target to $1,500.00 and maintained a “buy” rating, implying roughly 20.5% upside from recent levels.",
+      "context": "cements ahead of Q2 earnings.\nPositive Sentiment:\nNeedham & Company LLC lifted its price target to $1,500.00 and maintain",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "1,500.00",
+      "label": "MONEY",
+      "start": 199,
+      "end": 207,
+      "sentence": "Positive Sentiment:\nNeedham & Company LLC lifted its price target to $1,500.00 and maintained a “buy” rating, implying roughly 20.5% upside from recent levels.",
+      "context": "Needham & Company LLC lifted its price target to $1,500.00 and maintained a “buy” rating, implying roughly 2",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "roughly 20.5%",
+      "label": "PERCENT",
+      "start": 248,
+      "end": 261,
+      "sentence": "Positive Sentiment:\nNeedham & Company LLC lifted its price target to $1,500.00 and maintained a “buy” rating, implying roughly 20.5% upside from recent levels.",
+      "context": "$1,500.00 and maintained a “buy” rating, implying roughly 20.5% upside from recent levels.\nNeedham & Company LLC",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Needham & Company LLC",
+      "label": "ORG",
+      "start": 289,
+      "end": 310,
+      "sentence": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "context": "implying roughly 20.5% upside from recent levels.\nNeedham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Netflix",
+      "label": "ORG",
+      "start": 318,
+      "end": 325,
+      "sentence": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "context": "from recent levels.\nNeedham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPip",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "1,500.00",
+      "label": "MONEY",
+      "start": 343,
+      "end": 351,
+      "sentence": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "context": "ham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its tar",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Piper Sandler",
+      "label": "ORG",
+      "start": 372,
+      "end": 385,
+      "sentence": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "context": "lix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "1,400.00",
+      "label": "MONEY",
+      "start": 409,
+      "end": 417,
+      "sentence": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "context": "e Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expec",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Piper Sandler",
+      "label": "ORG",
+      "start": 501,
+      "end": 514,
+      "sentence": "Piper Sandler Raises Price Target for Netflix\nPositive Sentiment:",
+      "context": "ng, citing expected outperformance into earnings.\nPiper Sandler Raises Price Target for Netflix\nPositive Sentimen",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Netflix",
+      "label": "ORG",
+      "start": 539,
+      "end": 546,
+      "sentence": "Piper Sandler Raises Price Target for Netflix\nPositive Sentiment:",
+      "context": "o earnings.\nPiper Sandler Raises Price Target for Netflix\nPositive Sentiment:\nKeyCorp raised its objective",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "KeyCorp",
+      "label": "ORG",
+      "start": 567,
+      "end": 574,
+      "sentence": "KeyCorp raised its objective to $1,390.00 with an “overweight” rating, reflecting confidence in continued subscriber and revenue growth.",
+      "context": "ises Price Target for Netflix\nPositive Sentiment:\nKeyCorp raised its objective to $1,390.00 with an “overwe",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "1,390.00",
+      "label": "MONEY",
+      "start": 600,
+      "end": 608,
+      "sentence": "KeyCorp raised its objective to $1,390.00 with an “overweight” rating, reflecting confidence in continued subscriber and revenue growth.",
+      "context": "itive Sentiment:\nKeyCorp raised its objective to $1,390.00 with an “overweight” rating, reflecting confidenc",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "KeyCorp",
+      "label": "ORG",
+      "start": 704,
+      "end": 711,
+      "sentence": "KeyCorp Forecasts Strong Price Appreciation for Netflix Stock\nNeutral Sentiment:\nJPMorgan Chase & Co. nudged its target from $1,220.00 to $1,230.00 but kept a “neutral” rating, signaling a modest view on near-term catalysts.",
+      "context": "dence in continued subscriber and revenue growth.\nKeyCorp Forecasts Strong Price Appreciation for Netflix S",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Netflix",
+      "label": "ORG",
+      "start": 752,
+      "end": 759,
+      "sentence": "KeyCorp Forecasts Strong Price Appreciation for Netflix Stock\nNeutral Sentiment:\nJPMorgan Chase & Co. nudged its target from $1,220.00 to $1,230.00 but kept a “neutral” rating, signaling a modest view on near-term catalysts.",
+      "context": ".\nKeyCorp Forecasts Strong Price Appreciation for Netflix Stock\nNeutral Sentiment:\nJPMorgan Chase & Co. nud",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "JPMorgan Chase & Co.",
+      "label": "ORG",
+      "start": 785,
+      "end": 805,
+      "sentence": "KeyCorp Forecasts Strong Price Appreciation for Netflix Stock\nNeutral Sentiment:\nJPMorgan Chase & Co. nudged its target from $1,220.00 to $1,230.00 but kept a “neutral” rating, signaling a modest view on near-term catalysts.",
+      "context": "Appreciation for Netflix Stock\nNeutral Sentiment:\nJPMorgan Chase & Co. nudged its target from $1,220.00 to $1,230.00 but",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "1,220.00",
+      "label": "MONEY",
+      "start": 830,
+      "end": 838,
+      "sentence": "KeyCorp Forecasts Strong Price Appreciation for Netflix Stock\nNeutral Sentiment:\nJPMorgan Chase & Co. nudged its target from $1,220.00 to $1,230.00 but kept a “neutral” rating, signaling a modest view on near-term catalysts.",
+      "context": "ent:\nJPMorgan Chase & Co. nudged its target from $1,220.00 to $1,230.00 but kept a “neutral” rating, signali",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "1,230.00",
+      "label": "MONEY",
+      "start": 843,
+      "end": 851,
+      "sentence": "KeyCorp Forecasts Strong Price Appreciation for Netflix Stock\nNeutral Sentiment:\nJPMorgan Chase & Co. nudged its target from $1,220.00 to $1,230.00 but kept a “neutral” rating, signaling a modest view on near-term catalysts.",
+      "context": "Chase & Co. nudged its target from $1,220.00 to $1,230.00 but kept a “neutral” rating, signaling a modest v",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Netflix",
+      "label": "ORG",
+      "start": 929,
+      "end": 936,
+      "sentence": "Netflix Price Target Raised to $1,230.00 at JPMorgan\nNeutral Sentiment:",
+      "context": ", signaling a modest view on near-term catalysts.\nNetflix Price Target Raised to $1,230.00 at JPMorgan\nNeut",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "1,230.00",
+      "label": "MONEY",
+      "start": 961,
+      "end": 969,
+      "sentence": "Netflix Price Target Raised to $1,230.00 at JPMorgan\nNeutral Sentiment:",
+      "context": "r-term catalysts.\nNetflix Price Target Raised to $1,230.00 at JPMorgan\nNeutral Sentiment:\nResearch firm Seap",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "JPMorgan",
+      "label": "ORG",
+      "start": 973,
+      "end": 981,
+      "sentence": "Netflix Price Target Raised to $1,230.00 at JPMorgan\nNeutral Sentiment:",
+      "context": "ysts.\nNetflix Price Target Raised to $1,230.00 at JPMorgan\nNeutral Sentiment:\nResearch firm Seaport Res Ptn",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Seaport Res Ptn",
+      "label": "ORG",
+      "start": 1015,
+      "end": 1030,
+      "sentence": "Research firm Seaport Res Ptn slightly raised its Q2 EPS estimate to $7.25 and maintained a “hold” rating, offering little change to consensus outlook.",
+      "context": "0.00 at JPMorgan\nNeutral Sentiment:\nResearch firm Seaport Res Ptn slightly raised its Q2 EPS estimate to $7.25 and",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q2",
+      "label": "DATE",
+      "start": 1051,
+      "end": 1053,
+      "sentence": "Research firm Seaport Res Ptn slightly raised its Q2 EPS estimate to $7.25 and maintained a “hold” rating, offering little change to consensus outlook.",
+      "context": "Research firm Seaport Res Ptn slightly raised its Q2 EPS estimate to $7.25 and maintained a “hold” rat",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "7.25",
+      "label": "MONEY",
+      "start": 1071,
+      "end": 1075,
+      "sentence": "Research firm Seaport Res Ptn slightly raised its Q2 EPS estimate to $7.25 and maintained a “hold” rating, offering little change to consensus outlook.",
+      "context": "t Res Ptn slightly raised its Q2 EPS estimate to $7.25 and maintained a “hold” rating, offering little c",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Seaport Res Ptn",
+      "label": "ORG",
+      "start": 1153,
+      "end": 1168,
+      "sentence": "Seaport Res Ptn Updates Netflix EPS Estimates\nNeutral Sentiment:",
+      "context": "ing, offering little change to consensus outlook.\nSeaport Res Ptn Updates Netflix EPS Estimates\nNeutral Sentiment:",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Netflix",
+      "label": "ORG",
+      "start": 1177,
+      "end": 1184,
+      "sentence": "Seaport Res Ptn Updates Netflix EPS Estimates\nNeutral Sentiment:",
+      "context": "nge to consensus outlook.\nSeaport Res Ptn Updates Netflix EPS Estimates\nNeutral Sentiment:\nA MarketBeat fea",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "MarketBeat",
+      "label": "ORG",
+      "start": 1220,
+      "end": 1230,
+      "sentence": "A MarketBeat feature notes NFLX “is taking a breather” ahead of earnings but remains positioned for upside if growth continues.",
+      "context": "pdates Netflix EPS Estimates\nNeutral Sentiment:\nA MarketBeat feature notes NFLX “is taking a breather” ahead o",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "NFLX",
+      "label": "ORG",
+      "start": 1245,
+      "end": 1249,
+      "sentence": "A MarketBeat feature notes NFLX “is taking a breather” ahead of earnings but remains positioned for upside if growth continues.",
+      "context": "tes\nNeutral Sentiment:\nA MarketBeat feature notes NFLX “is taking a breather” ahead of earnings but rema",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "NFLX",
+      "label": "ORG",
+      "start": 1346,
+      "end": 1350,
+      "sentence": "NFLX Stock Is Chilling, But Maybe Not for Long\nNegative Sentiment:\nOn Seeking Alpha, an analyst explains why they decided to trim Netflix after three years, citing valuation concerns and potential for a pullback.",
+      "context": "emains positioned for upside if growth continues.\nNFLX Stock Is Chilling, But Maybe Not for Long\nNegativ",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Netflix",
+      "label": "ORG",
+      "start": 1476,
+      "end": 1483,
+      "sentence": "NFLX Stock Is Chilling, But Maybe Not for Long\nNegative Sentiment:\nOn Seeking Alpha, an analyst explains why they decided to trim Netflix after three years, citing valuation concerns and potential for a pullback.",
+      "context": "pha, an analyst explains why they decided to trim Netflix after three years, citing valuation concerns and",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "three years",
+      "label": "DATE",
+      "start": 1490,
+      "end": 1501,
+      "sentence": "NFLX Stock Is Chilling, But Maybe Not for Long\nNegative Sentiment:\nOn Seeking Alpha, an analyst explains why they decided to trim Netflix after three years, citing valuation concerns and potential for a pullback.",
+      "context": "t explains why they decided to trim Netflix after three years, citing valuation concerns and potential for a pu",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Netflix",
+      "label": "ORG",
+      "start": 1559,
+      "end": 1566,
+      "sentence": "Netflix: Why I Decided To Trim After 3 Years (Downgrade)\nPosted 1+ days ago\nAI Generated.",
+      "context": "valuation concerns and potential for a pullback.\nNetflix: Why I Decided To Trim After 3 Years (Downgrade)",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "3 Years",
+      "label": "DATE",
+      "start": 1596,
+      "end": 1603,
+      "sentence": "Netflix: Why I Decided To Trim After 3 Years (Downgrade)\nPosted 1+ days ago\nAI Generated.",
+      "context": "a pullback.\nNetflix: Why I Decided To Trim After 3 Years (Downgrade)\nPosted 1+ days ago\nAI Generated. May",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "1+ days ago",
+      "label": "DATE",
+      "start": 1623,
+      "end": 1634,
+      "sentence": "Netflix: Why I Decided To Trim After 3 Years (Downgrade)\nPosted 1+ days ago\nAI Generated.",
+      "context": "Decided To Trim After 3 Years (Downgrade)\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    }
+  ],
+  "relationships": [
+    {
+      "type": "SVO",
+      "subject": "Investors",
+      "verb": "weighing",
+      "object": "string",
+      "sentence": "– Investors are weighing a string of analyst updates and content announcements ahead of Q2 earnings.",
+      "importance": 3
+    },
+    {
+      "type": "SVO",
+      "subject": "Needham",
+      "verb": "lifted",
+      "object": "target",
+      "sentence": "Positive Sentiment:\nNeedham & Company LLC lifted its price target to $1,500.00 and maintained a “buy” rating, implying roughly 20.5% upside from recent levels.",
+      "importance": 11
+    },
+    {
+      "type": "SVO",
+      "subject": "Needham",
+      "verb": "Raises",
+      "object": "Target",
+      "sentence": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "importance": 13
+    },
+    {
+      "type": "SVO",
+      "subject": "Sandler",
+      "verb": "boosted",
+      "object": "target",
+      "sentence": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "importance": 13
+    },
+    {
+      "type": "SVO",
+      "subject": "Sandler",
+      "verb": "Raises",
+      "object": "Target",
+      "sentence": "Piper Sandler Raises Price Target for Netflix\nPositive Sentiment:",
+      "importance": 4
+    },
+    {
+      "type": "SVO",
+      "subject": "KeyCorp",
+      "verb": "raised",
+      "object": "objective",
+      "sentence": "KeyCorp raised its objective to $1,390.00 with an “overweight” rating, reflecting confidence in continued subscriber and revenue growth.",
+      "importance": 5
+    },
+    {
+      "type": "SVO",
+      "subject": "KeyCorp",
+      "verb": "Forecasts",
+      "object": "Appreciation",
+      "sentence": "KeyCorp Forecasts Strong Price Appreciation for Netflix Stock\nNeutral Sentiment:\nJPMorgan Chase & Co. nudged its target from $1,220.00 to $1,230.00 but kept a “neutral” rating, signaling a modest view on near-term catalysts.",
+      "importance": 11
+    },
+    {
+      "type": "SVO",
+      "subject": "Chase",
+      "verb": "nudged",
+      "object": "target",
+      "sentence": "KeyCorp Forecasts Strong Price Appreciation for Netflix Stock\nNeutral Sentiment:\nJPMorgan Chase & Co. nudged its target from $1,220.00 to $1,230.00 but kept a “neutral” rating, signaling a modest view on near-term catalysts.",
+      "importance": 11
+    },
+    {
+      "type": "SVO",
+      "subject": "Ptn",
+      "verb": "raised",
+      "object": "estimate",
+      "sentence": "Research firm Seaport Res Ptn slightly raised its Q2 EPS estimate to $7.25 and maintained a “hold” rating, offering little change to consensus outlook.",
+      "importance": 9
+    },
+    {
+      "type": "SVO",
+      "subject": "Ptn",
+      "verb": "Updates",
+      "object": "Estimates",
+      "sentence": "Seaport Res Ptn Updates Netflix EPS Estimates\nNeutral Sentiment:",
+      "importance": 4
+    },
+    {
+      "type": "SVO",
+      "subject": "NFLX",
+      "verb": "taking",
+      "object": "breather",
+      "sentence": "A MarketBeat feature notes NFLX “is taking a breather” ahead of earnings but remains positioned for upside if growth continues.",
+      "importance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Netflix",
+      "entity1_type": "ORG",
+      "entity2": ",",
+      "entity2_type": "ORG",
+      "sentence": "Netflix, Inc. (NASDAQ: NFLX)",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Netflix",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Netflix, Inc. (NASDAQ: NFLX)",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Netflix",
+      "entity1_type": "ORG",
+      "entity2": "NFLX",
+      "entity2_type": "ORG",
+      "sentence": "Netflix, Inc. (NASDAQ: NFLX)",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Netflix, Inc. (NASDAQ: NFLX)",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "NFLX",
+      "entity2_type": "ORG",
+      "sentence": "Netflix, Inc. (NASDAQ: NFLX)",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "NFLX",
+      "entity2_type": "ORG",
+      "sentence": "Netflix, Inc. (NASDAQ: NFLX)",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Needham",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nNeedham & Company LLC lifted its price target to $1,500.00 and maintained a “buy” rating, implying roughly 20.5% upside from recent levels.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Needham",
+      "entity1_type": "ORG",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nNeedham & Company LLC lifted its price target to $1,500.00 and maintained a “buy” rating, implying roughly 20.5% upside from recent levels.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Needham",
+      "entity1_type": "ORG",
+      "entity2": "LLC",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nNeedham & Company LLC lifted its price target to $1,500.00 and maintained a “buy” rating, implying roughly 20.5% upside from recent levels.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Needham",
+      "entity1_type": "ORG",
+      "entity2": "1,500.00",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nNeedham & Company LLC lifted its price target to $1,500.00 and maintained a “buy” rating, implying roughly 20.5% upside from recent levels.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Needham",
+      "entity1_type": "ORG",
+      "entity2": "roughly",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nNeedham & Company LLC lifted its price target to $1,500.00 and maintained a “buy” rating, implying roughly 20.5% upside from recent levels.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Needham",
+      "entity1_type": "ORG",
+      "entity2": "20.5",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nNeedham & Company LLC lifted its price target to $1,500.00 and maintained a “buy” rating, implying roughly 20.5% upside from recent levels.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Needham",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nNeedham & Company LLC lifted its price target to $1,500.00 and maintained a “buy” rating, implying roughly 20.5% upside from recent levels.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nNeedham & Company LLC lifted its price target to $1,500.00 and maintained a “buy” rating, implying roughly 20.5% upside from recent levels.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "LLC",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nNeedham & Company LLC lifted its price target to $1,500.00 and maintained a “buy” rating, implying roughly 20.5% upside from recent levels.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "1,500.00",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nNeedham & Company LLC lifted its price target to $1,500.00 and maintained a “buy” rating, implying roughly 20.5% upside from recent levels.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "roughly",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nNeedham & Company LLC lifted its price target to $1,500.00 and maintained a “buy” rating, implying roughly 20.5% upside from recent levels.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "20.5",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nNeedham & Company LLC lifted its price target to $1,500.00 and maintained a “buy” rating, implying roughly 20.5% upside from recent levels.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nNeedham & Company LLC lifted its price target to $1,500.00 and maintained a “buy” rating, implying roughly 20.5% upside from recent levels.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Company",
+      "entity1_type": "ORG",
+      "entity2": "LLC",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nNeedham & Company LLC lifted its price target to $1,500.00 and maintained a “buy” rating, implying roughly 20.5% upside from recent levels.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Company",
+      "entity1_type": "ORG",
+      "entity2": "1,500.00",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nNeedham & Company LLC lifted its price target to $1,500.00 and maintained a “buy” rating, implying roughly 20.5% upside from recent levels.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Company",
+      "entity1_type": "ORG",
+      "entity2": "roughly",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nNeedham & Company LLC lifted its price target to $1,500.00 and maintained a “buy” rating, implying roughly 20.5% upside from recent levels.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Company",
+      "entity1_type": "ORG",
+      "entity2": "20.5",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nNeedham & Company LLC lifted its price target to $1,500.00 and maintained a “buy” rating, implying roughly 20.5% upside from recent levels.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Company",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nNeedham & Company LLC lifted its price target to $1,500.00 and maintained a “buy” rating, implying roughly 20.5% upside from recent levels.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "LLC",
+      "entity1_type": "ORG",
+      "entity2": "1,500.00",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nNeedham & Company LLC lifted its price target to $1,500.00 and maintained a “buy” rating, implying roughly 20.5% upside from recent levels.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "LLC",
+      "entity1_type": "ORG",
+      "entity2": "roughly",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nNeedham & Company LLC lifted its price target to $1,500.00 and maintained a “buy” rating, implying roughly 20.5% upside from recent levels.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "LLC",
+      "entity1_type": "ORG",
+      "entity2": "20.5",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nNeedham & Company LLC lifted its price target to $1,500.00 and maintained a “buy” rating, implying roughly 20.5% upside from recent levels.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "LLC",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nNeedham & Company LLC lifted its price target to $1,500.00 and maintained a “buy” rating, implying roughly 20.5% upside from recent levels.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1,500.00",
+      "entity1_type": "MONEY",
+      "entity2": "roughly",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nNeedham & Company LLC lifted its price target to $1,500.00 and maintained a “buy” rating, implying roughly 20.5% upside from recent levels.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1,500.00",
+      "entity1_type": "MONEY",
+      "entity2": "20.5",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nNeedham & Company LLC lifted its price target to $1,500.00 and maintained a “buy” rating, implying roughly 20.5% upside from recent levels.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1,500.00",
+      "entity1_type": "MONEY",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nNeedham & Company LLC lifted its price target to $1,500.00 and maintained a “buy” rating, implying roughly 20.5% upside from recent levels.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "roughly",
+      "entity1_type": "PERCENT",
+      "entity2": "20.5",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nNeedham & Company LLC lifted its price target to $1,500.00 and maintained a “buy” rating, implying roughly 20.5% upside from recent levels.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "roughly",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nNeedham & Company LLC lifted its price target to $1,500.00 and maintained a “buy” rating, implying roughly 20.5% upside from recent levels.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "20.5",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nNeedham & Company LLC lifted its price target to $1,500.00 and maintained a “buy” rating, implying roughly 20.5% upside from recent levels.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Needham",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Needham",
+      "entity1_type": "ORG",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Needham",
+      "entity1_type": "ORG",
+      "entity2": "LLC",
+      "entity2_type": "ORG",
+      "sentence": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Needham",
+      "entity1_type": "ORG",
+      "entity2": "Netflix",
+      "entity2_type": "ORG",
+      "sentence": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Needham",
+      "entity1_type": "ORG",
+      "entity2": "1,500.00",
+      "entity2_type": "MONEY",
+      "sentence": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Needham",
+      "entity1_type": "ORG",
+      "entity2": "Piper",
+      "entity2_type": "ORG",
+      "sentence": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Needham",
+      "entity1_type": "ORG",
+      "entity2": "Sandler",
+      "entity2_type": "ORG",
+      "sentence": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Needham",
+      "entity1_type": "ORG",
+      "entity2": "1,400.00",
+      "entity2_type": "MONEY",
+      "sentence": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Company",
+      "entity2_type": "ORG",
+      "sentence": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "LLC",
+      "entity2_type": "ORG",
+      "sentence": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Netflix",
+      "entity2_type": "ORG",
+      "sentence": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "1,500.00",
+      "entity2_type": "MONEY",
+      "sentence": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Piper",
+      "entity2_type": "ORG",
+      "sentence": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Sandler",
+      "entity2_type": "ORG",
+      "sentence": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "1,400.00",
+      "entity2_type": "MONEY",
+      "sentence": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Company",
+      "entity1_type": "ORG",
+      "entity2": "LLC",
+      "entity2_type": "ORG",
+      "sentence": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Company",
+      "entity1_type": "ORG",
+      "entity2": "Netflix",
+      "entity2_type": "ORG",
+      "sentence": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Company",
+      "entity1_type": "ORG",
+      "entity2": "1,500.00",
+      "entity2_type": "MONEY",
+      "sentence": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Company",
+      "entity1_type": "ORG",
+      "entity2": "Piper",
+      "entity2_type": "ORG",
+      "sentence": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Company",
+      "entity1_type": "ORG",
+      "entity2": "Sandler",
+      "entity2_type": "ORG",
+      "sentence": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Company",
+      "entity1_type": "ORG",
+      "entity2": "1,400.00",
+      "entity2_type": "MONEY",
+      "sentence": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "LLC",
+      "entity1_type": "ORG",
+      "entity2": "Netflix",
+      "entity2_type": "ORG",
+      "sentence": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "LLC",
+      "entity1_type": "ORG",
+      "entity2": "1,500.00",
+      "entity2_type": "MONEY",
+      "sentence": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "LLC",
+      "entity1_type": "ORG",
+      "entity2": "Piper",
+      "entity2_type": "ORG",
+      "sentence": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "LLC",
+      "entity1_type": "ORG",
+      "entity2": "Sandler",
+      "entity2_type": "ORG",
+      "sentence": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "LLC",
+      "entity1_type": "ORG",
+      "entity2": "1,400.00",
+      "entity2_type": "MONEY",
+      "sentence": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Netflix",
+      "entity1_type": "ORG",
+      "entity2": "1,500.00",
+      "entity2_type": "MONEY",
+      "sentence": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Netflix",
+      "entity1_type": "ORG",
+      "entity2": "Piper",
+      "entity2_type": "ORG",
+      "sentence": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Netflix",
+      "entity1_type": "ORG",
+      "entity2": "Sandler",
+      "entity2_type": "ORG",
+      "sentence": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Netflix",
+      "entity1_type": "ORG",
+      "entity2": "1,400.00",
+      "entity2_type": "MONEY",
+      "sentence": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1,500.00",
+      "entity1_type": "MONEY",
+      "entity2": "Piper",
+      "entity2_type": "ORG",
+      "sentence": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1,500.00",
+      "entity1_type": "MONEY",
+      "entity2": "Sandler",
+      "entity2_type": "ORG",
+      "sentence": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1,500.00",
+      "entity1_type": "MONEY",
+      "entity2": "1,400.00",
+      "entity2_type": "MONEY",
+      "sentence": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Piper",
+      "entity1_type": "ORG",
+      "entity2": "Sandler",
+      "entity2_type": "ORG",
+      "sentence": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Piper",
+      "entity1_type": "ORG",
+      "entity2": "1,400.00",
+      "entity2_type": "MONEY",
+      "sentence": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sandler",
+      "entity1_type": "ORG",
+      "entity2": "1,400.00",
+      "entity2_type": "MONEY",
+      "sentence": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Piper",
+      "entity1_type": "ORG",
+      "entity2": "Sandler",
+      "entity2_type": "ORG",
+      "sentence": "Piper Sandler Raises Price Target for Netflix\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Piper",
+      "entity1_type": "ORG",
+      "entity2": "Netflix",
+      "entity2_type": "ORG",
+      "sentence": "Piper Sandler Raises Price Target for Netflix\nPositive Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sandler",
+      "entity1_type": "ORG",
+      "entity2": "Netflix",
+      "entity2_type": "ORG",
+      "sentence": "Piper Sandler Raises Price Target for Netflix\nPositive Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KeyCorp",
+      "entity1_type": "ORG",
+      "entity2": "1,390.00",
+      "entity2_type": "MONEY",
+      "sentence": "KeyCorp raised its objective to $1,390.00 with an “overweight” rating, reflecting confidence in continued subscriber and revenue growth.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KeyCorp",
+      "entity1_type": "ORG",
+      "entity2": "Netflix",
+      "entity2_type": "ORG",
+      "sentence": "KeyCorp Forecasts Strong Price Appreciation for Netflix Stock\nNeutral Sentiment:\nJPMorgan Chase & Co. nudged its target from $1,220.00 to $1,230.00 but kept a “neutral” rating, signaling a modest view on near-term catalysts.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KeyCorp",
+      "entity1_type": "ORG",
+      "entity2": "JPMorgan",
+      "entity2_type": "ORG",
+      "sentence": "KeyCorp Forecasts Strong Price Appreciation for Netflix Stock\nNeutral Sentiment:\nJPMorgan Chase & Co. nudged its target from $1,220.00 to $1,230.00 but kept a “neutral” rating, signaling a modest view on near-term catalysts.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KeyCorp",
+      "entity1_type": "ORG",
+      "entity2": "Chase",
+      "entity2_type": "ORG",
+      "sentence": "KeyCorp Forecasts Strong Price Appreciation for Netflix Stock\nNeutral Sentiment:\nJPMorgan Chase & Co. nudged its target from $1,220.00 to $1,230.00 but kept a “neutral” rating, signaling a modest view on near-term catalysts.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KeyCorp",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "KeyCorp Forecasts Strong Price Appreciation for Netflix Stock\nNeutral Sentiment:\nJPMorgan Chase & Co. nudged its target from $1,220.00 to $1,230.00 but kept a “neutral” rating, signaling a modest view on near-term catalysts.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KeyCorp",
+      "entity1_type": "ORG",
+      "entity2": "Co.",
+      "entity2_type": "ORG",
+      "sentence": "KeyCorp Forecasts Strong Price Appreciation for Netflix Stock\nNeutral Sentiment:\nJPMorgan Chase & Co. nudged its target from $1,220.00 to $1,230.00 but kept a “neutral” rating, signaling a modest view on near-term catalysts.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KeyCorp",
+      "entity1_type": "ORG",
+      "entity2": "1,220.00",
+      "entity2_type": "MONEY",
+      "sentence": "KeyCorp Forecasts Strong Price Appreciation for Netflix Stock\nNeutral Sentiment:\nJPMorgan Chase & Co. nudged its target from $1,220.00 to $1,230.00 but kept a “neutral” rating, signaling a modest view on near-term catalysts.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KeyCorp",
+      "entity1_type": "ORG",
+      "entity2": "1,230.00",
+      "entity2_type": "MONEY",
+      "sentence": "KeyCorp Forecasts Strong Price Appreciation for Netflix Stock\nNeutral Sentiment:\nJPMorgan Chase & Co. nudged its target from $1,220.00 to $1,230.00 but kept a “neutral” rating, signaling a modest view on near-term catalysts.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Netflix",
+      "entity1_type": "ORG",
+      "entity2": "JPMorgan",
+      "entity2_type": "ORG",
+      "sentence": "KeyCorp Forecasts Strong Price Appreciation for Netflix Stock\nNeutral Sentiment:\nJPMorgan Chase & Co. nudged its target from $1,220.00 to $1,230.00 but kept a “neutral” rating, signaling a modest view on near-term catalysts.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Netflix",
+      "entity1_type": "ORG",
+      "entity2": "Chase",
+      "entity2_type": "ORG",
+      "sentence": "KeyCorp Forecasts Strong Price Appreciation for Netflix Stock\nNeutral Sentiment:\nJPMorgan Chase & Co. nudged its target from $1,220.00 to $1,230.00 but kept a “neutral” rating, signaling a modest view on near-term catalysts.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Netflix",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "KeyCorp Forecasts Strong Price Appreciation for Netflix Stock\nNeutral Sentiment:\nJPMorgan Chase & Co. nudged its target from $1,220.00 to $1,230.00 but kept a “neutral” rating, signaling a modest view on near-term catalysts.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Netflix",
+      "entity1_type": "ORG",
+      "entity2": "Co.",
+      "entity2_type": "ORG",
+      "sentence": "KeyCorp Forecasts Strong Price Appreciation for Netflix Stock\nNeutral Sentiment:\nJPMorgan Chase & Co. nudged its target from $1,220.00 to $1,230.00 but kept a “neutral” rating, signaling a modest view on near-term catalysts.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Netflix",
+      "entity1_type": "ORG",
+      "entity2": "1,220.00",
+      "entity2_type": "MONEY",
+      "sentence": "KeyCorp Forecasts Strong Price Appreciation for Netflix Stock\nNeutral Sentiment:\nJPMorgan Chase & Co. nudged its target from $1,220.00 to $1,230.00 but kept a “neutral” rating, signaling a modest view on near-term catalysts.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Netflix",
+      "entity1_type": "ORG",
+      "entity2": "1,230.00",
+      "entity2_type": "MONEY",
+      "sentence": "KeyCorp Forecasts Strong Price Appreciation for Netflix Stock\nNeutral Sentiment:\nJPMorgan Chase & Co. nudged its target from $1,220.00 to $1,230.00 but kept a “neutral” rating, signaling a modest view on near-term catalysts.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "Chase",
+      "entity2_type": "ORG",
+      "sentence": "KeyCorp Forecasts Strong Price Appreciation for Netflix Stock\nNeutral Sentiment:\nJPMorgan Chase & Co. nudged its target from $1,220.00 to $1,230.00 but kept a “neutral” rating, signaling a modest view on near-term catalysts.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "KeyCorp Forecasts Strong Price Appreciation for Netflix Stock\nNeutral Sentiment:\nJPMorgan Chase & Co. nudged its target from $1,220.00 to $1,230.00 but kept a “neutral” rating, signaling a modest view on near-term catalysts.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "Co.",
+      "entity2_type": "ORG",
+      "sentence": "KeyCorp Forecasts Strong Price Appreciation for Netflix Stock\nNeutral Sentiment:\nJPMorgan Chase & Co. nudged its target from $1,220.00 to $1,230.00 but kept a “neutral” rating, signaling a modest view on near-term catalysts.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "1,220.00",
+      "entity2_type": "MONEY",
+      "sentence": "KeyCorp Forecasts Strong Price Appreciation for Netflix Stock\nNeutral Sentiment:\nJPMorgan Chase & Co. nudged its target from $1,220.00 to $1,230.00 but kept a “neutral” rating, signaling a modest view on near-term catalysts.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "1,230.00",
+      "entity2_type": "MONEY",
+      "sentence": "KeyCorp Forecasts Strong Price Appreciation for Netflix Stock\nNeutral Sentiment:\nJPMorgan Chase & Co. nudged its target from $1,220.00 to $1,230.00 but kept a “neutral” rating, signaling a modest view on near-term catalysts.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Chase",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "KeyCorp Forecasts Strong Price Appreciation for Netflix Stock\nNeutral Sentiment:\nJPMorgan Chase & Co. nudged its target from $1,220.00 to $1,230.00 but kept a “neutral” rating, signaling a modest view on near-term catalysts.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Chase",
+      "entity1_type": "ORG",
+      "entity2": "Co.",
+      "entity2_type": "ORG",
+      "sentence": "KeyCorp Forecasts Strong Price Appreciation for Netflix Stock\nNeutral Sentiment:\nJPMorgan Chase & Co. nudged its target from $1,220.00 to $1,230.00 but kept a “neutral” rating, signaling a modest view on near-term catalysts.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Chase",
+      "entity1_type": "ORG",
+      "entity2": "1,220.00",
+      "entity2_type": "MONEY",
+      "sentence": "KeyCorp Forecasts Strong Price Appreciation for Netflix Stock\nNeutral Sentiment:\nJPMorgan Chase & Co. nudged its target from $1,220.00 to $1,230.00 but kept a “neutral” rating, signaling a modest view on near-term catalysts.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Chase",
+      "entity1_type": "ORG",
+      "entity2": "1,230.00",
+      "entity2_type": "MONEY",
+      "sentence": "KeyCorp Forecasts Strong Price Appreciation for Netflix Stock\nNeutral Sentiment:\nJPMorgan Chase & Co. nudged its target from $1,220.00 to $1,230.00 but kept a “neutral” rating, signaling a modest view on near-term catalysts.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Co.",
+      "entity2_type": "ORG",
+      "sentence": "KeyCorp Forecasts Strong Price Appreciation for Netflix Stock\nNeutral Sentiment:\nJPMorgan Chase & Co. nudged its target from $1,220.00 to $1,230.00 but kept a “neutral” rating, signaling a modest view on near-term catalysts.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "1,220.00",
+      "entity2_type": "MONEY",
+      "sentence": "KeyCorp Forecasts Strong Price Appreciation for Netflix Stock\nNeutral Sentiment:\nJPMorgan Chase & Co. nudged its target from $1,220.00 to $1,230.00 but kept a “neutral” rating, signaling a modest view on near-term catalysts.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "1,230.00",
+      "entity2_type": "MONEY",
+      "sentence": "KeyCorp Forecasts Strong Price Appreciation for Netflix Stock\nNeutral Sentiment:\nJPMorgan Chase & Co. nudged its target from $1,220.00 to $1,230.00 but kept a “neutral” rating, signaling a modest view on near-term catalysts.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Co.",
+      "entity1_type": "ORG",
+      "entity2": "1,220.00",
+      "entity2_type": "MONEY",
+      "sentence": "KeyCorp Forecasts Strong Price Appreciation for Netflix Stock\nNeutral Sentiment:\nJPMorgan Chase & Co. nudged its target from $1,220.00 to $1,230.00 but kept a “neutral” rating, signaling a modest view on near-term catalysts.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Co.",
+      "entity1_type": "ORG",
+      "entity2": "1,230.00",
+      "entity2_type": "MONEY",
+      "sentence": "KeyCorp Forecasts Strong Price Appreciation for Netflix Stock\nNeutral Sentiment:\nJPMorgan Chase & Co. nudged its target from $1,220.00 to $1,230.00 but kept a “neutral” rating, signaling a modest view on near-term catalysts.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1,220.00",
+      "entity1_type": "MONEY",
+      "entity2": "1,230.00",
+      "entity2_type": "MONEY",
+      "sentence": "KeyCorp Forecasts Strong Price Appreciation for Netflix Stock\nNeutral Sentiment:\nJPMorgan Chase & Co. nudged its target from $1,220.00 to $1,230.00 but kept a “neutral” rating, signaling a modest view on near-term catalysts.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Netflix",
+      "entity1_type": "ORG",
+      "entity2": "1,230.00",
+      "entity2_type": "MONEY",
+      "sentence": "Netflix Price Target Raised to $1,230.00 at JPMorgan\nNeutral Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Netflix",
+      "entity1_type": "ORG",
+      "entity2": "JPMorgan",
+      "entity2_type": "ORG",
+      "sentence": "Netflix Price Target Raised to $1,230.00 at JPMorgan\nNeutral Sentiment:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1,230.00",
+      "entity1_type": "MONEY",
+      "entity2": "JPMorgan",
+      "entity2_type": "ORG",
+      "sentence": "Netflix Price Target Raised to $1,230.00 at JPMorgan\nNeutral Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "Res",
+      "entity2_type": "ORG",
+      "sentence": "Research firm Seaport Res Ptn slightly raised its Q2 EPS estimate to $7.25 and maintained a “hold” rating, offering little change to consensus outlook.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "Ptn",
+      "entity2_type": "ORG",
+      "sentence": "Research firm Seaport Res Ptn slightly raised its Q2 EPS estimate to $7.25 and maintained a “hold” rating, offering little change to consensus outlook.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "Research firm Seaport Res Ptn slightly raised its Q2 EPS estimate to $7.25 and maintained a “hold” rating, offering little change to consensus outlook.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "7.25",
+      "entity2_type": "MONEY",
+      "sentence": "Research firm Seaport Res Ptn slightly raised its Q2 EPS estimate to $7.25 and maintained a “hold” rating, offering little change to consensus outlook.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Res",
+      "entity1_type": "ORG",
+      "entity2": "Ptn",
+      "entity2_type": "ORG",
+      "sentence": "Research firm Seaport Res Ptn slightly raised its Q2 EPS estimate to $7.25 and maintained a “hold” rating, offering little change to consensus outlook.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Res",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "Research firm Seaport Res Ptn slightly raised its Q2 EPS estimate to $7.25 and maintained a “hold” rating, offering little change to consensus outlook.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Res",
+      "entity1_type": "ORG",
+      "entity2": "7.25",
+      "entity2_type": "MONEY",
+      "sentence": "Research firm Seaport Res Ptn slightly raised its Q2 EPS estimate to $7.25 and maintained a “hold” rating, offering little change to consensus outlook.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Ptn",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "Research firm Seaport Res Ptn slightly raised its Q2 EPS estimate to $7.25 and maintained a “hold” rating, offering little change to consensus outlook.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Ptn",
+      "entity1_type": "ORG",
+      "entity2": "7.25",
+      "entity2_type": "MONEY",
+      "sentence": "Research firm Seaport Res Ptn slightly raised its Q2 EPS estimate to $7.25 and maintained a “hold” rating, offering little change to consensus outlook.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "7.25",
+      "entity2_type": "MONEY",
+      "sentence": "Research firm Seaport Res Ptn slightly raised its Q2 EPS estimate to $7.25 and maintained a “hold” rating, offering little change to consensus outlook.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "Res",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Res Ptn Updates Netflix EPS Estimates\nNeutral Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "Ptn",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Res Ptn Updates Netflix EPS Estimates\nNeutral Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "Netflix",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Res Ptn Updates Netflix EPS Estimates\nNeutral Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Res",
+      "entity1_type": "ORG",
+      "entity2": "Ptn",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Res Ptn Updates Netflix EPS Estimates\nNeutral Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Res",
+      "entity1_type": "ORG",
+      "entity2": "Netflix",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Res Ptn Updates Netflix EPS Estimates\nNeutral Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Ptn",
+      "entity1_type": "ORG",
+      "entity2": "Netflix",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Res Ptn Updates Netflix EPS Estimates\nNeutral Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MarketBeat",
+      "entity1_type": "ORG",
+      "entity2": "NFLX",
+      "entity2_type": "ORG",
+      "sentence": "A MarketBeat feature notes NFLX “is taking a breather” ahead of earnings but remains positioned for upside if growth continues.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NFLX",
+      "entity1_type": "ORG",
+      "entity2": "Netflix",
+      "entity2_type": "ORG",
+      "sentence": "NFLX Stock Is Chilling, But Maybe Not for Long\nNegative Sentiment:\nOn Seeking Alpha, an analyst explains why they decided to trim Netflix after three years, citing valuation concerns and potential for a pullback.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NFLX",
+      "entity1_type": "ORG",
+      "entity2": "three",
+      "entity2_type": "DATE",
+      "sentence": "NFLX Stock Is Chilling, But Maybe Not for Long\nNegative Sentiment:\nOn Seeking Alpha, an analyst explains why they decided to trim Netflix after three years, citing valuation concerns and potential for a pullback.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NFLX",
+      "entity1_type": "ORG",
+      "entity2": "years",
+      "entity2_type": "DATE",
+      "sentence": "NFLX Stock Is Chilling, But Maybe Not for Long\nNegative Sentiment:\nOn Seeking Alpha, an analyst explains why they decided to trim Netflix after three years, citing valuation concerns and potential for a pullback.",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Netflix",
+      "entity1_type": "ORG",
+      "entity2": "three",
+      "entity2_type": "DATE",
+      "sentence": "NFLX Stock Is Chilling, But Maybe Not for Long\nNegative Sentiment:\nOn Seeking Alpha, an analyst explains why they decided to trim Netflix after three years, citing valuation concerns and potential for a pullback.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Netflix",
+      "entity1_type": "ORG",
+      "entity2": "years",
+      "entity2_type": "DATE",
+      "sentence": "NFLX Stock Is Chilling, But Maybe Not for Long\nNegative Sentiment:\nOn Seeking Alpha, an analyst explains why they decided to trim Netflix after three years, citing valuation concerns and potential for a pullback.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "three",
+      "entity1_type": "DATE",
+      "entity2": "years",
+      "entity2_type": "DATE",
+      "sentence": "NFLX Stock Is Chilling, But Maybe Not for Long\nNegative Sentiment:\nOn Seeking Alpha, an analyst explains why they decided to trim Netflix after three years, citing valuation concerns and potential for a pullback.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Netflix",
+      "entity1_type": "ORG",
+      "entity2": "3",
+      "entity2_type": "DATE",
+      "sentence": "Netflix: Why I Decided To Trim After 3 Years (Downgrade)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Netflix",
+      "entity1_type": "ORG",
+      "entity2": "Years",
+      "entity2_type": "DATE",
+      "sentence": "Netflix: Why I Decided To Trim After 3 Years (Downgrade)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Netflix",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Netflix: Why I Decided To Trim After 3 Years (Downgrade)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Netflix",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Netflix: Why I Decided To Trim After 3 Years (Downgrade)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Netflix",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Netflix: Why I Decided To Trim After 3 Years (Downgrade)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Netflix",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Netflix: Why I Decided To Trim After 3 Years (Downgrade)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3",
+      "entity1_type": "DATE",
+      "entity2": "Years",
+      "entity2_type": "DATE",
+      "sentence": "Netflix: Why I Decided To Trim After 3 Years (Downgrade)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3",
+      "entity1_type": "DATE",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Netflix: Why I Decided To Trim After 3 Years (Downgrade)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3",
+      "entity1_type": "DATE",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Netflix: Why I Decided To Trim After 3 Years (Downgrade)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Netflix: Why I Decided To Trim After 3 Years (Downgrade)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Netflix: Why I Decided To Trim After 3 Years (Downgrade)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Years",
+      "entity1_type": "DATE",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Netflix: Why I Decided To Trim After 3 Years (Downgrade)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Years",
+      "entity1_type": "DATE",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Netflix: Why I Decided To Trim After 3 Years (Downgrade)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Years",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Netflix: Why I Decided To Trim After 3 Years (Downgrade)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Years",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Netflix: Why I Decided To Trim After 3 Years (Downgrade)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Netflix: Why I Decided To Trim After 3 Years (Downgrade)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Netflix: Why I Decided To Trim After 3 Years (Downgrade)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Netflix: Why I Decided To Trim After 3 Years (Downgrade)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Netflix: Why I Decided To Trim After 3 Years (Downgrade)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Netflix: Why I Decided To Trim After 3 Years (Downgrade)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Netflix: Why I Decided To Trim After 3 Years (Downgrade)\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "Netflix, Inc.",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a string",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "analyst updates",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "content announcements",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Q2 earnings",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Company LLC",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its price target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a “buy” rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "roughly 20.5% upside",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "recent levels",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Company LLC",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Netflix Price Target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Piper Sandler",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "an “overweight” rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "expected outperformance",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Piper Sandler",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Price Target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its objective",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "an “overweight” rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "continued subscriber and revenue growth",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Strong Price Appreciation",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Netflix Stock",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "JPMorgan Chase",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a “neutral” rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a modest view",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "near-term catalysts",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Netflix Price Target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Research firm Seaport Res Ptn",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its Q2 EPS estimate",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a “hold” rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "little change",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "consensus outlook",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Seaport Res Ptn",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Netflix EPS Estimates",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "A MarketBeat feature",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "a breather",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "NFLX Stock",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Seeking Alpha",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "an analyst",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "three years",
+      "type": "noun_chunk",
+      "category": "temporal"
+    },
+    {
+      "text": "valuation concerns",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a pullback",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "3 Years",
+      "type": "noun_chunk",
+      "category": "temporal"
+    },
+    {
+      "text": "$1,500.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$1,500.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$1,400.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$1,390.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$1,220.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$1,230.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$1,230.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$7.25",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "20.5%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "revenue",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "growth",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "growth",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Stock",
+      "type": "pattern",
+      "category": "market_term"
+    }
+  ],
+  "important_sentences": [
+    {
+      "text": "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings.",
+      "importance_score": 52,
+      "entity_count": 9,
+      "financial_keyword_count": 4,
+      "money_count": 2,
+      "company_count": 3,
+      "sentiment": "positive"
+    },
+    {
+      "text": "KeyCorp Forecasts Strong Price Appreciation for Netflix Stock\nNeutral Sentiment:\nJPMorgan Chase & Co. nudged its target from $1,220.00 to $1,230.00 but kept a “neutral” rating, signaling a modest view on near-term catalysts.",
+      "importance_score": 47,
+      "entity_count": 8,
+      "financial_keyword_count": 3,
+      "money_count": 2,
+      "company_count": 3,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Positive Sentiment:\nNeedham & Company LLC lifted its price target to $1,500.00 and maintained a “buy” rating, implying roughly 20.5% upside from recent levels.",
+      "importance_score": 34,
+      "entity_count": 8,
+      "financial_keyword_count": 3,
+      "money_count": 1,
+      "company_count": 1,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Research firm Seaport Res Ptn slightly raised its Q2 EPS estimate to $7.25 and maintained a “hold” rating, offering little change to consensus outlook.",
+      "importance_score": 31,
+      "entity_count": 5,
+      "financial_keyword_count": 4,
+      "money_count": 1,
+      "company_count": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "NFLX Stock Is Chilling, But Maybe Not for Long\nNegative Sentiment:\nOn Seeking Alpha, an analyst explains why they decided to trim Netflix after three years, citing valuation concerns and potential for a pullback.",
+      "importance_score": 28,
+      "entity_count": 4,
+      "financial_keyword_count": 4,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Netflix: Why I Decided To Trim After 3 Years (Downgrade)\nPosted 1+ days ago\nAI Generated.",
+      "importance_score": 24,
+      "entity_count": 7,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "KeyCorp raised its objective to $1,390.00 with an “overweight” rating, reflecting confidence in continued subscriber and revenue growth.",
+      "importance_score": 22,
+      "entity_count": 2,
+      "financial_keyword_count": 3,
+      "money_count": 1,
+      "company_count": 1,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Netflix Price Target Raised to $1,230.00 at JPMorgan\nNeutral Sentiment:",
+      "importance_score": 22,
+      "entity_count": 3,
+      "financial_keyword_count": 1,
+      "money_count": 1,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "A MarketBeat feature notes NFLX “is taking a breather” ahead of earnings but remains positioned for upside if growth continues.",
+      "importance_score": 18,
+      "entity_count": 2,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Piper Sandler Raises Price Target for Netflix\nPositive Sentiment:",
+      "importance_score": 17,
+      "entity_count": 3,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "positive"
+    }
+  ],
+  "entity_statistics": {
+    "total_entities": 36,
+    "unique_entities": 21,
+    "type_counts": {
+      "ORG": 22,
+      "DATE": 5,
+      "MONEY": 8,
+      "PERCENT": 1
+    },
+    "type_distribution": {
+      "ORG": 0.6111111111111112,
+      "DATE": 0.1388888888888889,
+      "MONEY": 0.2222222222222222,
+      "PERCENT": 0.027777777777777776
+    },
+    "most_common_entities": [
+      [
+        "Netflix",
+        7
+      ],
+      [
+        "NFLX",
+        3
+      ],
+      [
+        "Q2",
+        2
+      ],
+      [
+        "Needham & Company LLC",
+        2
+      ],
+      [
+        "1,500.00",
+        2
+      ],
+      [
+        "Piper Sandler",
+        2
+      ],
+      [
+        "KeyCorp",
+        2
+      ],
+      [
+        "1,230.00",
+        2
+      ],
+      [
+        "Seaport Res Ptn",
+        2
+      ],
+      [
+        "Netflix, Inc.",
+        1
+      ]
+    ],
+    "entity_types_found": [
+      "ORG",
+      "DATE",
+      "MONEY",
+      "PERCENT"
+    ],
+    "company_entities": 22,
+    "person_entities": 0,
+    "financial_entities": 9,
+    "entity_density": 0.15584415584415584
+  },
+  "financial_analysis": {
+    "money_amounts": [
+      "1,500.00",
+      "1,500.00",
+      "1,400.00",
+      "1,390.00",
+      "1,220.00",
+      "1,230.00",
+      "1,230.00",
+      "7.25"
+    ],
+    "percentages": [
+      "roughly 20.5%"
+    ],
+    "companies": [
+      "Netflix, Inc.",
+      "NFLX",
+      "Needham & Company LLC",
+      "Needham & Company LLC",
+      "Netflix",
+      "Piper Sandler",
+      "Piper Sandler",
+      "Netflix",
+      "KeyCorp",
+      "KeyCorp",
+      "Netflix",
+      "JPMorgan Chase & Co.",
+      "Netflix",
+      "JPMorgan",
+      "Seaport Res Ptn",
+      "Seaport Res Ptn",
+      "Netflix",
+      "MarketBeat",
+      "NFLX",
+      "NFLX",
+      "Netflix",
+      "Netflix"
+    ],
+    "people": [],
+    "dates": [
+      "Q2",
+      "Q2",
+      "three years",
+      "3 Years",
+      "1+ days ago"
+    ],
+    "financial_terms": [
+      "Stock",
+      "revenue",
+      "growth",
+      "earnings"
+    ],
+    "financial_metrics": [],
+    "market_indicators": [
+      "Price",
+      "price",
+      "target",
+      "rating",
+      "Downgrade",
+      "Target"
+    ]
+  },
+  "temporal_analysis": {
+    "dates": [
+      "Q2",
+      "Q2",
+      "three years",
+      "3 Years",
+      "1+ days ago"
+    ],
+    "time_expressions": [],
+    "temporal_relationships": [
+      "recent"
+    ],
+    "quarters": [
+      "Q2",
+      "Q2"
+    ],
+    "years": [],
+    "time_periods": []
+  },
+  "sentiment_analysis": {
+    "positive_words": 6,
+    "negative_words": 1,
+    "positive_ratio": 0.025974025974025976,
+    "negative_ratio": 0.004329004329004329,
+    "sentiment_score": 0.021645021645021648,
+    "sentiment_label": "positive",
+    "sentiment_strength": 0.021645021645021648,
+    "confidence": 0.21645021645021648
+  },
+  "industry_analysis": {
+    "dominant_industry": "tech",
+    "industry_scores": {
+      "tech": 1,
+      "finance": 0,
+      "healthcare": 0,
+      "energy": 0,
+      "retail": 0,
+      "automotive": 0,
+      "media": 1,
+      "industrial": 0,
+      "real_estate": 0,
+      "telecom": 0,
+      "food_beverage": 0,
+      "travel": 0,
+      "education": 0,
+      "professional": 0,
+      "mining": 0,
+      "aerospace": 0,
+      "environmental": 0,
+      "cannabis": 0
+    },
+    "confidence": 0.5
+  },
+  "market_analysis": {
+    "market_sentiment": "neutral",
+    "bullish_indicators": 0,
+    "bearish_indicators": 0,
+    "market_conditions": {
+      "volatility": "normal",
+      "volume": "normal",
+      "trend": "neutral"
+    },
+    "trading_activity": "normal"
+  },
+  "competitor_analysis": {
+    "companies_mentioned": [
+      "Netflix, Inc.",
+      "NFLX",
+      "Needham & Company LLC",
+      "Needham & Company LLC",
+      "Netflix",
+      "Piper Sandler",
+      "Piper Sandler",
+      "Netflix",
+      "KeyCorp",
+      "KeyCorp",
+      "Netflix",
+      "JPMorgan Chase & Co.",
+      "Netflix",
+      "JPMorgan",
+      "Seaport Res Ptn",
+      "Seaport Res Ptn",
+      "Netflix",
+      "MarketBeat",
+      "NFLX",
+      "NFLX",
+      "Netflix",
+      "Netflix"
+    ],
+    "competitive_context": [
+      "Needham & Company LLC Raises Netflix Price Target to $1,500.00\nPositive Sentiment:\nPiper Sandler boosted its target to $1,400.00 and assigned an “overweight” rating, citing expected outperformance into earnings."
+    ],
+    "competitor_count": 22,
+    "has_competitive_language": true
+  },
+  "risk_analysis": {
+    "risk_sentences": [
+      "NFLX Stock Is Chilling, But Maybe Not for Long\nNegative Sentiment:\nOn Seeking Alpha, an analyst explains why they decided to trim Netflix after three years, citing valuation concerns and potential for a pullback."
+    ],
+    "risk_count": 1,
+    "risk_level": "low"
+  },
+  "opportunity_analysis": {
+    "opportunity_sentences": [
+      "KeyCorp raised its objective to $1,390.00 with an “overweight” rating, reflecting confidence in continued subscriber and revenue growth.",
+      "A MarketBeat feature notes NFLX “is taking a breather” ahead of earnings but remains positioned for upside if growth continues.",
+      "NFLX Stock Is Chilling, But Maybe Not for Long\nNegative Sentiment:\nOn Seeking Alpha, an analyst explains why they decided to trim Netflix after three years, citing valuation concerns and potential for a pullback."
+    ],
+    "opportunity_count": 3,
+    "opportunity_level": "medium"
+  },
+  "processing_metadata": {
+    "timestamp": "2025-07-13T06:17:40.232730",
+    "model_used": "en_core_web_trf",
+    "text_length": 1668
+  }
+}
