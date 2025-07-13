@@ -1,0 +1,4681 @@
+{
+  "ticker": "NVDA",
+  "entities": [
+    {
+      "text": "NVIDIA Corporation",
+      "label": "ORG",
+      "start": 0,
+      "end": 18,
+      "sentence": "NVIDIA Corporation (NVDA) shares are climbing on the back of a historic market-cap milestone and fresh analyst support, but remain sensitive to trade-policy risks, competitive moves in China, and recent insider selling.",
+      "context": "NVIDIA Corporation (NVDA) shares are climbing on the back of a histo",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "NVDA",
+      "label": "ORG",
+      "start": 20,
+      "end": 24,
+      "sentence": "NVIDIA Corporation (NVDA) shares are climbing on the back of a historic market-cap milestone and fresh analyst support, but remain sensitive to trade-policy risks, competitive moves in China, and recent insider selling.",
+      "context": "NVIDIA Corporation (NVDA) shares are climbing on the back of a historic ma",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "China",
+      "label": "GPE",
+      "start": 185,
+      "end": 190,
+      "sentence": "NVIDIA Corporation (NVDA) shares are climbing on the back of a historic market-cap milestone and fresh analyst support, but remain sensitive to trade-policy risks, competitive moves in China, and recent insider selling.",
+      "context": "itive to trade-policy risks, competitive moves in China, and recent insider selling.\nPositive Sentiment:",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "First",
+      "label": "ORDINAL",
+      "start": 240,
+      "end": 245,
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "context": ", and recent insider selling.\nPositive Sentiment:\nFirst public company ever to surpass a $4 trillion mark",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "$4 trillion",
+      "label": "MONEY",
+      "start": 279,
+      "end": 290,
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "context": "Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leader",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Nvidia",
+      "label": "ORG",
+      "start": 322,
+      "end": 328,
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "context": "pass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNv",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Nvidia",
+      "label": "ORG",
+      "start": 376,
+      "end": 382,
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "context": "ia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion M",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "First",
+      "label": "ORDINAL",
+      "start": 391,
+      "end": 396,
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "context": "hip and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap\nPosi",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "$4 Trillion",
+      "label": "MONEY",
+      "start": 419,
+      "end": 430,
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "context": "imism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap\nPositive Sentiment:\nGoldman Sachs init",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Goldman Sachs",
+      "label": "ORG",
+      "start": 462,
+      "end": 475,
+      "sentence": "Goldman Sachs initiated coverage with a Buy rating and $185 price target, implying over 12% upside from current levels.",
+      "context": "Reach $4 Trillion Market Cap\nPositive Sentiment:\nGoldman Sachs initiated coverage with a Buy rating and $185 pri",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "185",
+      "label": "MONEY",
+      "start": 518,
+      "end": 521,
+      "sentence": "Goldman Sachs initiated coverage with a Buy rating and $185 price target, implying over 12% upside from current levels.",
+      "context": "n Sachs initiated coverage with a Buy rating and $185 price target, implying over 12% upside from curre",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "over 12%",
+      "label": "PERCENT",
+      "start": 545,
+      "end": 553,
+      "sentence": "Goldman Sachs initiated coverage with a Buy rating and $185 price target, implying over 12% upside from current levels.",
+      "context": "with a Buy rating and $185 price target, implying over 12% upside from current levels.\nCoverage Initiated at",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "The Goldman Sachs Group",
+      "label": "ORG",
+      "start": 604,
+      "end": 627,
+      "sentence": "Coverage Initiated at The Goldman Sachs Group\nPositive Sentiment:",
+      "context": "upside from current levels.\nCoverage Initiated at The Goldman Sachs Group\nPositive Sentiment:\nMizuho raised its Nvidia pric",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Mizuho",
+      "label": "ORG",
+      "start": 648,
+      "end": 654,
+      "sentence": "Mizuho raised its Nvidia price target to $185 and maintained an “Outperform” rating, reflecting stronger revenue forecasts from data-center sales.",
+      "context": "ed at The Goldman Sachs Group\nPositive Sentiment:\nMizuho raised its Nvidia price target to $185 and mainta",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Nvidia",
+      "label": "ORG",
+      "start": 666,
+      "end": 672,
+      "sentence": "Mizuho raised its Nvidia price target to $185 and maintained an “Outperform” rating, reflecting stronger revenue forecasts from data-center sales.",
+      "context": "Sachs Group\nPositive Sentiment:\nMizuho raised its Nvidia price target to $185 and maintained an “Outperfor",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "185",
+      "label": "MONEY",
+      "start": 690,
+      "end": 693,
+      "sentence": "Mizuho raised its Nvidia price target to $185 and maintained an “Outperform” rating, reflecting stronger revenue forecasts from data-center sales.",
+      "context": "timent:\nMizuho raised its Nvidia price target to $185 and maintained an “Outperform” rating, reflecting",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "NVIDIA",
+      "label": "ORG",
+      "start": 795,
+      "end": 801,
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "context": "tronger revenue forecasts from data-center sales.\nNVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Rubin",
+      "label": "PRODUCT",
+      "start": 819,
+      "end": 824,
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "context": "s from data-center sales.\nNVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentime",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Mizuho",
+      "label": "ORG",
+      "start": 833,
+      "end": 839,
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "context": "nter sales.\nNVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually h",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Nvidia",
+      "label": "ORG",
+      "start": 917,
+      "end": 923,
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "context": "Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether th",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "week",
+      "label": "DATE",
+      "start": 938,
+      "end": 942,
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "context": "high options activity during Nvidia’s record-high week sparked debate over whether the rally is overexte",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "NVDA",
+      "label": "ORG",
+      "start": 1022,
+      "end": 1026,
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "context": "he rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBea",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Week",
+      "label": "DATE",
+      "start": 1043,
+      "end": 1047,
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "context": "ded.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review hig",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "MarketBeat",
+      "label": "ORG",
+      "start": 1067,
+      "end": 1077,
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "context": "hind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "weekly",
+      "label": "DATE",
+      "start": 1080,
+      "end": 1086,
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "context": "ll-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "MarketBeat Week in Review",
+      "label": "DATE",
+      "start": 1190,
+      "end": 1215,
+      "sentence": "MarketBeat Week in Review – 07/07 – 07/11",
+      "context": "earnings season, even as tariff fears resurface.\nMarketBeat Week in Review – 07/07 – 07/11\nNeutral Sentiment:\nSeaport Resear",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "07/07 – 07/11",
+      "label": "DATE",
+      "start": 1218,
+      "end": 1231,
+      "sentence": "MarketBeat Week in Review – 07/07 – 07/11",
+      "context": "riff fears resurface.\nMarketBeat Week in Review – 07/07 – 07/11\nNeutral Sentiment:\nSeaport Research’s Jay Goldber",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Seaport Research’s",
+      "label": "ORG",
+      "start": 1251,
+      "end": 1269,
+      "sentence": "Seaport Research’s Jay Goldberg remains the lone sell-side bear on Nvidia, noting stretched valuation despite new highs.\nNvidia's Only Sell Call on Wall Street\nNegative Sentiment:",
+      "context": "Week in Review – 07/07 – 07/11\nNeutral Sentiment:\nSeaport Research’s Jay Goldberg remains the lone sell-side bear on N",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Jay Goldberg",
+      "label": "PERSON",
+      "start": 1270,
+      "end": 1282,
+      "sentence": "Seaport Research’s Jay Goldberg remains the lone sell-side bear on Nvidia, noting stretched valuation despite new highs.\nNvidia's Only Sell Call on Wall Street\nNegative Sentiment:",
+      "context": "/07 – 07/11\nNeutral Sentiment:\nSeaport Research’s Jay Goldberg remains the lone sell-side bear on Nvidia, noting",
+      "is_company": false,
+      "is_person": true,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Nvidia",
+      "label": "ORG",
+      "start": 1318,
+      "end": 1324,
+      "sentence": "Seaport Research’s Jay Goldberg remains the lone sell-side bear on Nvidia, noting stretched valuation despite new highs.\nNvidia's Only Sell Call on Wall Street\nNegative Sentiment:",
+      "context": "s Jay Goldberg remains the lone sell-side bear on Nvidia, noting stretched valuation despite new highs.\nNv",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Nvidia",
+      "label": "ORG",
+      "start": 1372,
+      "end": 1378,
+      "sentence": "Seaport Research’s Jay Goldberg remains the lone sell-side bear on Nvidia, noting stretched valuation despite new highs.\nNvidia's Only Sell Call on Wall Street\nNegative Sentiment:",
+      "context": "ia, noting stretched valuation despite new highs.\nNvidia's Only Sell Call on Wall Street\nNegative Sentimen",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "U.S.",
+      "label": "GPE",
+      "start": 1431,
+      "end": 1435,
+      "sentence": "U.S. senators warned CEO Jensen Huang against meeting Chinese firms suspected of evading export controls, adding regulatory uncertainty before his China trip.",
+      "context": "Only Sell Call on Wall Street\nNegative Sentiment:\nU.S. senators warned CEO Jensen Huang against meeting",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "Jensen Huang",
+      "label": "PERSON",
+      "start": 1456,
+      "end": 1468,
+      "sentence": "U.S. senators warned CEO Jensen Huang against meeting Chinese firms suspected of evading export controls, adding regulatory uncertainty before his China trip.",
+      "context": "reet\nNegative Sentiment:\nU.S. senators warned CEO Jensen Huang against meeting Chinese firms suspected of evadin",
+      "is_company": false,
+      "is_person": true,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Chinese",
+      "label": "NORP",
+      "start": 1485,
+      "end": 1492,
+      "sentence": "U.S. senators warned CEO Jensen Huang against meeting Chinese firms suspected of evading export controls, adding regulatory uncertainty before his China trip.",
+      "context": "senators warned CEO Jensen Huang against meeting Chinese firms suspected of evading export controls, addin",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "China",
+      "label": "GPE",
+      "start": 1578,
+      "end": 1583,
+      "sentence": "U.S. senators warned CEO Jensen Huang against meeting Chinese firms suspected of evading export controls, adding regulatory uncertainty before his China trip.",
+      "context": "ontrols, adding regulatory uncertainty before his China trip.\nUS senators warn Nvidia CEO about upcoming",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "US",
+      "label": "GPE",
+      "start": 1590,
+      "end": 1592,
+      "sentence": "US senators warn Nvidia CEO about upcoming China trip\nNegative Sentiment:\nHuawei announced a redesigned AI chip to challenge Nvidia in China, raising competitive pressure in a key growth market.",
+      "context": "ing regulatory uncertainty before his China trip.\nUS senators warn Nvidia CEO about upcoming China tri",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "Nvidia",
+      "label": "ORG",
+      "start": 1607,
+      "end": 1613,
+      "sentence": "US senators warn Nvidia CEO about upcoming China trip\nNegative Sentiment:\nHuawei announced a redesigned AI chip to challenge Nvidia in China, raising competitive pressure in a key growth market.",
+      "context": "certainty before his China trip.\nUS senators warn Nvidia CEO about upcoming China trip\nNegative Sentiment:",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "China",
+      "label": "GPE",
+      "start": 1633,
+      "end": 1638,
+      "sentence": "US senators warn Nvidia CEO about upcoming China trip\nNegative Sentiment:\nHuawei announced a redesigned AI chip to challenge Nvidia in China, raising competitive pressure in a key growth market.",
+      "context": "trip.\nUS senators warn Nvidia CEO about upcoming China trip\nNegative Sentiment:\nHuawei announced a redes",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "Huawei",
+      "label": "ORG",
+      "start": 1664,
+      "end": 1670,
+      "sentence": "US senators warn Nvidia CEO about upcoming China trip\nNegative Sentiment:\nHuawei announced a redesigned AI chip to challenge Nvidia in China, raising competitive pressure in a key growth market.",
+      "context": "CEO about upcoming China trip\nNegative Sentiment:\nHuawei announced a redesigned AI chip to challenge Nvidi",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Nvidia",
+      "label": "ORG",
+      "start": 1715,
+      "end": 1721,
+      "sentence": "US senators warn Nvidia CEO about upcoming China trip\nNegative Sentiment:\nHuawei announced a redesigned AI chip to challenge Nvidia in China, raising competitive pressure in a key growth market.",
+      "context": "uawei announced a redesigned AI chip to challenge Nvidia in China, raising competitive pressure in a key g",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "China",
+      "label": "GPE",
+      "start": 1725,
+      "end": 1730,
+      "sentence": "US senators warn Nvidia CEO about upcoming China trip\nNegative Sentiment:\nHuawei announced a redesigned AI chip to challenge Nvidia in China, raising competitive pressure in a key growth market.",
+      "context": "unced a redesigned AI chip to challenge Nvidia in China, raising competitive pressure in a key growth mar",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "Huawei",
+      "label": "ORG",
+      "start": 1785,
+      "end": 1791,
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "context": "sing competitive pressure in a key growth market.\nHuawei Redesigns AI Chip to Compete with NVIDIA in China",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "NVIDIA",
+      "label": "ORG",
+      "start": 1826,
+      "end": 1832,
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "context": "market.\nHuawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Hu",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "China",
+      "label": "GPE",
+      "start": 1836,
+      "end": 1841,
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "context": "uawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and d",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "Jensen Huang",
+      "label": "PERSON",
+      "start": 1873,
+      "end": 1885,
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "context": "th NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 milli",
+      "is_company": false,
+      "is_person": true,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "A Brooke Seawell",
+      "label": "PERSON",
+      "start": 1899,
+      "end": 1915,
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "context": "Negative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shar",
+      "is_company": false,
+      "is_person": true,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "$36 million",
+      "label": "MONEY",
+      "start": 1926,
+      "end": 1937,
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "context": "sen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "$8 million",
+      "label": "MONEY",
+      "start": 1942,
+      "end": 1952,
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "context": "rector A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal ins",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "NVDA",
+      "label": "ORG",
+      "start": 1956,
+      "end": 1960,
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "context": "e Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider cau",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Jensen Huang",
+      "label": "PERSON",
+      "start": 2020,
+      "end": 2032,
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "context": "spectively, which may signal insider caution.\nCEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days",
+      "is_company": false,
+      "is_person": true,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "$36.4 Million",
+      "label": "MONEY",
+      "start": 2039,
+      "end": 2052,
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "context": "ay signal insider caution.\nCEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated. M",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "NVDA",
+      "label": "ORG",
+      "start": 2056,
+      "end": 2060,
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "context": "caution.\nCEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated. May Conta",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "1+ days ago",
+      "label": "DATE",
+      "start": 2075,
+      "end": 2086,
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "context": "n Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AI Generated",
+      "label": "ORG",
+      "start": 2087,
+      "end": 2099,
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "context": "s $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    }
+  ],
+  "relationships": [
+    {
+      "type": "SVO",
+      "subject": "Nvidia",
+      "verb": "Becomes",
+      "object": "Cap",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "importance": 14
+    },
+    {
+      "type": "SVO",
+      "subject": "Sachs",
+      "verb": "initiated",
+      "object": "coverage",
+      "sentence": "Goldman Sachs initiated coverage with a Buy rating and $185 price target, implying over 12% upside from current levels.",
+      "importance": 9
+    },
+    {
+      "type": "SVO",
+      "subject": "Mizuho",
+      "verb": "raised",
+      "object": "target",
+      "sentence": "Mizuho raised its Nvidia price target to $185 and maintained an “Outperform” rating, reflecting stronger revenue forecasts from data-center sales.",
+      "importance": 9
+    },
+    {
+      "type": "SVO",
+      "subject": "Mizuho",
+      "verb": "Lifts",
+      "object": "Target",
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "importance": 16
+    },
+    {
+      "type": "SVO",
+      "subject": "activity",
+      "verb": "sparked",
+      "object": "debate",
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "importance": 16
+    },
+    {
+      "type": "SVO",
+      "subject": "review",
+      "verb": "highlighted",
+      "object": "demand",
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "importance": 16
+    },
+    {
+      "type": "SVO",
+      "subject": "senators",
+      "verb": "warned",
+      "object": "Huang",
+      "sentence": "U.S. senators warned CEO Jensen Huang against meeting Chinese firms suspected of evading export controls, adding regulatory uncertainty before his China trip.",
+      "importance": 7
+    },
+    {
+      "type": "SVO",
+      "subject": "senators",
+      "verb": "warn",
+      "object": "CEO",
+      "sentence": "US senators warn Nvidia CEO about upcoming China trip\nNegative Sentiment:\nHuawei announced a redesigned AI chip to challenge Nvidia in China, raising competitive pressure in a key growth market.",
+      "importance": 10
+    },
+    {
+      "type": "SVO",
+      "subject": "Huawei",
+      "verb": "announced",
+      "object": "chip",
+      "sentence": "US senators warn Nvidia CEO about upcoming China trip\nNegative Sentiment:\nHuawei announced a redesigned AI chip to challenge Nvidia in China, raising competitive pressure in a key growth market.",
+      "importance": 10
+    },
+    {
+      "type": "SVO",
+      "subject": "Huawei",
+      "verb": "Redesigns",
+      "object": "Chip",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "importance": 17
+    },
+    {
+      "type": "SVO",
+      "subject": "Huang",
+      "verb": "sold",
+      "object": "million",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "importance": 17
+    },
+    {
+      "type": "SVO",
+      "subject": "which",
+      "verb": "signal",
+      "object": "caution",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "importance": 17
+    },
+    {
+      "type": "SVO",
+      "subject": "Huang",
+      "verb": "Sells",
+      "object": "Million",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "importance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NVIDIA",
+      "entity1_type": "ORG",
+      "entity2": "Corporation",
+      "entity2_type": "ORG",
+      "sentence": "NVIDIA Corporation (NVDA) shares are climbing on the back of a historic market-cap milestone and fresh analyst support, but remain sensitive to trade-policy risks, competitive moves in China, and recent insider selling.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NVIDIA",
+      "entity1_type": "ORG",
+      "entity2": "NVDA",
+      "entity2_type": "ORG",
+      "sentence": "NVIDIA Corporation (NVDA) shares are climbing on the back of a historic market-cap milestone and fresh analyst support, but remain sensitive to trade-policy risks, competitive moves in China, and recent insider selling.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NVIDIA",
+      "entity1_type": "ORG",
+      "entity2": "China",
+      "entity2_type": "GPE",
+      "sentence": "NVIDIA Corporation (NVDA) shares are climbing on the back of a historic market-cap milestone and fresh analyst support, but remain sensitive to trade-policy risks, competitive moves in China, and recent insider selling.",
+      "distance": 35
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Corporation",
+      "entity1_type": "ORG",
+      "entity2": "NVDA",
+      "entity2_type": "ORG",
+      "sentence": "NVIDIA Corporation (NVDA) shares are climbing on the back of a historic market-cap milestone and fresh analyst support, but remain sensitive to trade-policy risks, competitive moves in China, and recent insider selling.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Corporation",
+      "entity1_type": "ORG",
+      "entity2": "China",
+      "entity2_type": "GPE",
+      "sentence": "NVIDIA Corporation (NVDA) shares are climbing on the back of a historic market-cap milestone and fresh analyst support, but remain sensitive to trade-policy risks, competitive moves in China, and recent insider selling.",
+      "distance": 34
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NVDA",
+      "entity1_type": "ORG",
+      "entity2": "China",
+      "entity2_type": "GPE",
+      "sentence": "NVIDIA Corporation (NVDA) shares are climbing on the back of a historic market-cap milestone and fresh analyst support, but remain sensitive to trade-policy risks, competitive moves in China, and recent insider selling.",
+      "distance": 32
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "First",
+      "entity1_type": "ORDINAL",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "First",
+      "entity1_type": "ORDINAL",
+      "entity2": "4",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "First",
+      "entity1_type": "ORDINAL",
+      "entity2": "trillion",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "First",
+      "entity1_type": "ORDINAL",
+      "entity2": "Nvidia",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "First",
+      "entity1_type": "ORDINAL",
+      "entity2": "Nvidia",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "First",
+      "entity1_type": "ORDINAL",
+      "entity2": "First",
+      "entity2_type": "ORDINAL",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "First",
+      "entity1_type": "ORDINAL",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "First",
+      "entity1_type": "ORDINAL",
+      "entity2": "4",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 32
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "First",
+      "entity1_type": "ORDINAL",
+      "entity2": "Trillion",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 33
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "4",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "trillion",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "Nvidia",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "Nvidia",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "First",
+      "entity2_type": "ORDINAL",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "4",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "Trillion",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "4",
+      "entity1_type": "MONEY",
+      "entity2": "trillion",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "4",
+      "entity1_type": "MONEY",
+      "entity2": "Nvidia",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "4",
+      "entity1_type": "MONEY",
+      "entity2": "Nvidia",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "4",
+      "entity1_type": "MONEY",
+      "entity2": "First",
+      "entity2_type": "ORDINAL",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "4",
+      "entity1_type": "MONEY",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "4",
+      "entity1_type": "MONEY",
+      "entity2": "4",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "4",
+      "entity1_type": "MONEY",
+      "entity2": "Trillion",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "trillion",
+      "entity1_type": "MONEY",
+      "entity2": "Nvidia",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "trillion",
+      "entity1_type": "MONEY",
+      "entity2": "Nvidia",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "trillion",
+      "entity1_type": "MONEY",
+      "entity2": "First",
+      "entity2_type": "ORDINAL",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "trillion",
+      "entity1_type": "MONEY",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "trillion",
+      "entity1_type": "MONEY",
+      "entity2": "4",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "trillion",
+      "entity1_type": "MONEY",
+      "entity2": "Trillion",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nvidia",
+      "entity1_type": "ORG",
+      "entity2": "Nvidia",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nvidia",
+      "entity1_type": "ORG",
+      "entity2": "First",
+      "entity2_type": "ORDINAL",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nvidia",
+      "entity1_type": "ORG",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nvidia",
+      "entity1_type": "ORG",
+      "entity2": "4",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nvidia",
+      "entity1_type": "ORG",
+      "entity2": "Trillion",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nvidia",
+      "entity1_type": "ORG",
+      "entity2": "First",
+      "entity2_type": "ORDINAL",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nvidia",
+      "entity1_type": "ORG",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nvidia",
+      "entity1_type": "ORG",
+      "entity2": "4",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nvidia",
+      "entity1_type": "ORG",
+      "entity2": "Trillion",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "First",
+      "entity1_type": "ORDINAL",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "First",
+      "entity1_type": "ORDINAL",
+      "entity2": "4",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "First",
+      "entity1_type": "ORDINAL",
+      "entity2": "Trillion",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "4",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "Trillion",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "4",
+      "entity1_type": "MONEY",
+      "entity2": "Trillion",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Goldman",
+      "entity1_type": "ORG",
+      "entity2": "Sachs",
+      "entity2_type": "ORG",
+      "sentence": "Goldman Sachs initiated coverage with a Buy rating and $185 price target, implying over 12% upside from current levels.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Goldman",
+      "entity1_type": "ORG",
+      "entity2": "185",
+      "entity2_type": "MONEY",
+      "sentence": "Goldman Sachs initiated coverage with a Buy rating and $185 price target, implying over 12% upside from current levels.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Goldman",
+      "entity1_type": "ORG",
+      "entity2": "over",
+      "entity2_type": "PERCENT",
+      "sentence": "Goldman Sachs initiated coverage with a Buy rating and $185 price target, implying over 12% upside from current levels.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Goldman",
+      "entity1_type": "ORG",
+      "entity2": "12",
+      "entity2_type": "PERCENT",
+      "sentence": "Goldman Sachs initiated coverage with a Buy rating and $185 price target, implying over 12% upside from current levels.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Goldman",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Goldman Sachs initiated coverage with a Buy rating and $185 price target, implying over 12% upside from current levels.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sachs",
+      "entity1_type": "ORG",
+      "entity2": "185",
+      "entity2_type": "MONEY",
+      "sentence": "Goldman Sachs initiated coverage with a Buy rating and $185 price target, implying over 12% upside from current levels.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sachs",
+      "entity1_type": "ORG",
+      "entity2": "over",
+      "entity2_type": "PERCENT",
+      "sentence": "Goldman Sachs initiated coverage with a Buy rating and $185 price target, implying over 12% upside from current levels.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sachs",
+      "entity1_type": "ORG",
+      "entity2": "12",
+      "entity2_type": "PERCENT",
+      "sentence": "Goldman Sachs initiated coverage with a Buy rating and $185 price target, implying over 12% upside from current levels.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sachs",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Goldman Sachs initiated coverage with a Buy rating and $185 price target, implying over 12% upside from current levels.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "185",
+      "entity1_type": "MONEY",
+      "entity2": "over",
+      "entity2_type": "PERCENT",
+      "sentence": "Goldman Sachs initiated coverage with a Buy rating and $185 price target, implying over 12% upside from current levels.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "185",
+      "entity1_type": "MONEY",
+      "entity2": "12",
+      "entity2_type": "PERCENT",
+      "sentence": "Goldman Sachs initiated coverage with a Buy rating and $185 price target, implying over 12% upside from current levels.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "185",
+      "entity1_type": "MONEY",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Goldman Sachs initiated coverage with a Buy rating and $185 price target, implying over 12% upside from current levels.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "over",
+      "entity1_type": "PERCENT",
+      "entity2": "12",
+      "entity2_type": "PERCENT",
+      "sentence": "Goldman Sachs initiated coverage with a Buy rating and $185 price target, implying over 12% upside from current levels.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "over",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Goldman Sachs initiated coverage with a Buy rating and $185 price target, implying over 12% upside from current levels.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "12",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Goldman Sachs initiated coverage with a Buy rating and $185 price target, implying over 12% upside from current levels.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "The",
+      "entity1_type": "ORG",
+      "entity2": "Goldman",
+      "entity2_type": "ORG",
+      "sentence": "Coverage Initiated at The Goldman Sachs Group\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "The",
+      "entity1_type": "ORG",
+      "entity2": "Sachs",
+      "entity2_type": "ORG",
+      "sentence": "Coverage Initiated at The Goldman Sachs Group\nPositive Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "The",
+      "entity1_type": "ORG",
+      "entity2": "Group",
+      "entity2_type": "ORG",
+      "sentence": "Coverage Initiated at The Goldman Sachs Group\nPositive Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Goldman",
+      "entity1_type": "ORG",
+      "entity2": "Sachs",
+      "entity2_type": "ORG",
+      "sentence": "Coverage Initiated at The Goldman Sachs Group\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Goldman",
+      "entity1_type": "ORG",
+      "entity2": "Group",
+      "entity2_type": "ORG",
+      "sentence": "Coverage Initiated at The Goldman Sachs Group\nPositive Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sachs",
+      "entity1_type": "ORG",
+      "entity2": "Group",
+      "entity2_type": "ORG",
+      "sentence": "Coverage Initiated at The Goldman Sachs Group\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mizuho",
+      "entity1_type": "ORG",
+      "entity2": "Nvidia",
+      "entity2_type": "ORG",
+      "sentence": "Mizuho raised its Nvidia price target to $185 and maintained an “Outperform” rating, reflecting stronger revenue forecasts from data-center sales.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mizuho",
+      "entity1_type": "ORG",
+      "entity2": "185",
+      "entity2_type": "MONEY",
+      "sentence": "Mizuho raised its Nvidia price target to $185 and maintained an “Outperform” rating, reflecting stronger revenue forecasts from data-center sales.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nvidia",
+      "entity1_type": "ORG",
+      "entity2": "185",
+      "entity2_type": "MONEY",
+      "sentence": "Mizuho raised its Nvidia price target to $185 and maintained an “Outperform” rating, reflecting stronger revenue forecasts from data-center sales.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NVIDIA",
+      "entity1_type": "ORG",
+      "entity2": "Rubin",
+      "entity2_type": "PRODUCT",
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NVIDIA",
+      "entity1_type": "ORG",
+      "entity2": "Mizuho",
+      "entity2_type": "ORG",
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NVIDIA",
+      "entity1_type": "ORG",
+      "entity2": "Nvidia",
+      "entity2_type": "ORG",
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NVIDIA",
+      "entity1_type": "ORG",
+      "entity2": "week",
+      "entity2_type": "DATE",
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NVIDIA",
+      "entity1_type": "ORG",
+      "entity2": "NVDA",
+      "entity2_type": "ORG",
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "distance": 40
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NVIDIA",
+      "entity1_type": "ORG",
+      "entity2": "Week",
+      "entity2_type": "DATE",
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "distance": 46
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NVIDIA",
+      "entity1_type": "ORG",
+      "entity2": "MarketBeat",
+      "entity2_type": "ORG",
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "distance": 52
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NVIDIA",
+      "entity1_type": "ORG",
+      "entity2": "weekly",
+      "entity2_type": "DATE",
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "distance": 54
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Rubin",
+      "entity1_type": "PRODUCT",
+      "entity2": "Mizuho",
+      "entity2_type": "ORG",
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Rubin",
+      "entity1_type": "PRODUCT",
+      "entity2": "Nvidia",
+      "entity2_type": "ORG",
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Rubin",
+      "entity1_type": "PRODUCT",
+      "entity2": "week",
+      "entity2_type": "DATE",
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Rubin",
+      "entity1_type": "PRODUCT",
+      "entity2": "NVDA",
+      "entity2_type": "ORG",
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "distance": 36
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Rubin",
+      "entity1_type": "PRODUCT",
+      "entity2": "Week",
+      "entity2_type": "DATE",
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "distance": 42
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Rubin",
+      "entity1_type": "PRODUCT",
+      "entity2": "MarketBeat",
+      "entity2_type": "ORG",
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "distance": 48
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Rubin",
+      "entity1_type": "PRODUCT",
+      "entity2": "weekly",
+      "entity2_type": "DATE",
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "distance": 50
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mizuho",
+      "entity1_type": "ORG",
+      "entity2": "Nvidia",
+      "entity2_type": "ORG",
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mizuho",
+      "entity1_type": "ORG",
+      "entity2": "week",
+      "entity2_type": "DATE",
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mizuho",
+      "entity1_type": "ORG",
+      "entity2": "NVDA",
+      "entity2_type": "ORG",
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "distance": 33
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mizuho",
+      "entity1_type": "ORG",
+      "entity2": "Week",
+      "entity2_type": "DATE",
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "distance": 39
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mizuho",
+      "entity1_type": "ORG",
+      "entity2": "MarketBeat",
+      "entity2_type": "ORG",
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "distance": 45
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mizuho",
+      "entity1_type": "ORG",
+      "entity2": "weekly",
+      "entity2_type": "DATE",
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "distance": 47
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nvidia",
+      "entity1_type": "ORG",
+      "entity2": "week",
+      "entity2_type": "DATE",
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nvidia",
+      "entity1_type": "ORG",
+      "entity2": "NVDA",
+      "entity2_type": "ORG",
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nvidia",
+      "entity1_type": "ORG",
+      "entity2": "Week",
+      "entity2_type": "DATE",
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nvidia",
+      "entity1_type": "ORG",
+      "entity2": "MarketBeat",
+      "entity2_type": "ORG",
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nvidia",
+      "entity1_type": "ORG",
+      "entity2": "weekly",
+      "entity2_type": "DATE",
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "distance": 33
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "week",
+      "entity1_type": "DATE",
+      "entity2": "NVDA",
+      "entity2_type": "ORG",
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "week",
+      "entity1_type": "DATE",
+      "entity2": "Week",
+      "entity2_type": "DATE",
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "week",
+      "entity1_type": "DATE",
+      "entity2": "MarketBeat",
+      "entity2_type": "ORG",
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "week",
+      "entity1_type": "DATE",
+      "entity2": "weekly",
+      "entity2_type": "DATE",
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NVDA",
+      "entity1_type": "ORG",
+      "entity2": "Week",
+      "entity2_type": "DATE",
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NVDA",
+      "entity1_type": "ORG",
+      "entity2": "MarketBeat",
+      "entity2_type": "ORG",
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NVDA",
+      "entity1_type": "ORG",
+      "entity2": "weekly",
+      "entity2_type": "DATE",
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Week",
+      "entity1_type": "DATE",
+      "entity2": "MarketBeat",
+      "entity2_type": "ORG",
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Week",
+      "entity1_type": "DATE",
+      "entity2": "weekly",
+      "entity2_type": "DATE",
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MarketBeat",
+      "entity1_type": "ORG",
+      "entity2": "weekly",
+      "entity2_type": "DATE",
+      "sentence": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MarketBeat",
+      "entity1_type": "DATE",
+      "entity2": "Week",
+      "entity2_type": "DATE",
+      "sentence": "MarketBeat Week in Review – 07/07 – 07/11",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MarketBeat",
+      "entity1_type": "DATE",
+      "entity2": "in",
+      "entity2_type": "DATE",
+      "sentence": "MarketBeat Week in Review – 07/07 – 07/11",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MarketBeat",
+      "entity1_type": "DATE",
+      "entity2": "Review",
+      "entity2_type": "DATE",
+      "sentence": "MarketBeat Week in Review – 07/07 – 07/11",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MarketBeat",
+      "entity1_type": "DATE",
+      "entity2": "07/07",
+      "entity2_type": "DATE",
+      "sentence": "MarketBeat Week in Review – 07/07 – 07/11",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MarketBeat",
+      "entity1_type": "DATE",
+      "entity2": "–",
+      "entity2_type": "DATE",
+      "sentence": "MarketBeat Week in Review – 07/07 – 07/11",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MarketBeat",
+      "entity1_type": "DATE",
+      "entity2": "07/11",
+      "entity2_type": "DATE",
+      "sentence": "MarketBeat Week in Review – 07/07 – 07/11",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Week",
+      "entity1_type": "DATE",
+      "entity2": "in",
+      "entity2_type": "DATE",
+      "sentence": "MarketBeat Week in Review – 07/07 – 07/11",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Week",
+      "entity1_type": "DATE",
+      "entity2": "Review",
+      "entity2_type": "DATE",
+      "sentence": "MarketBeat Week in Review – 07/07 – 07/11",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Week",
+      "entity1_type": "DATE",
+      "entity2": "07/07",
+      "entity2_type": "DATE",
+      "sentence": "MarketBeat Week in Review – 07/07 – 07/11",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Week",
+      "entity1_type": "DATE",
+      "entity2": "–",
+      "entity2_type": "DATE",
+      "sentence": "MarketBeat Week in Review – 07/07 – 07/11",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Week",
+      "entity1_type": "DATE",
+      "entity2": "07/11",
+      "entity2_type": "DATE",
+      "sentence": "MarketBeat Week in Review – 07/07 – 07/11",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "in",
+      "entity1_type": "DATE",
+      "entity2": "Review",
+      "entity2_type": "DATE",
+      "sentence": "MarketBeat Week in Review – 07/07 – 07/11",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "in",
+      "entity1_type": "DATE",
+      "entity2": "07/07",
+      "entity2_type": "DATE",
+      "sentence": "MarketBeat Week in Review – 07/07 – 07/11",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "in",
+      "entity1_type": "DATE",
+      "entity2": "–",
+      "entity2_type": "DATE",
+      "sentence": "MarketBeat Week in Review – 07/07 – 07/11",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "in",
+      "entity1_type": "DATE",
+      "entity2": "07/11",
+      "entity2_type": "DATE",
+      "sentence": "MarketBeat Week in Review – 07/07 – 07/11",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Review",
+      "entity1_type": "DATE",
+      "entity2": "07/07",
+      "entity2_type": "DATE",
+      "sentence": "MarketBeat Week in Review – 07/07 – 07/11",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Review",
+      "entity1_type": "DATE",
+      "entity2": "–",
+      "entity2_type": "DATE",
+      "sentence": "MarketBeat Week in Review – 07/07 – 07/11",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Review",
+      "entity1_type": "DATE",
+      "entity2": "07/11",
+      "entity2_type": "DATE",
+      "sentence": "MarketBeat Week in Review – 07/07 – 07/11",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "07/07",
+      "entity1_type": "DATE",
+      "entity2": "–",
+      "entity2_type": "DATE",
+      "sentence": "MarketBeat Week in Review – 07/07 – 07/11",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "07/07",
+      "entity1_type": "DATE",
+      "entity2": "07/11",
+      "entity2_type": "DATE",
+      "sentence": "MarketBeat Week in Review – 07/07 – 07/11",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "–",
+      "entity1_type": "DATE",
+      "entity2": "07/11",
+      "entity2_type": "DATE",
+      "sentence": "MarketBeat Week in Review – 07/07 – 07/11",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "Research",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Research’s Jay Goldberg remains the lone sell-side bear on Nvidia, noting stretched valuation despite new highs.\nNvidia's Only Sell Call on Wall Street\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Research’s Jay Goldberg remains the lone sell-side bear on Nvidia, noting stretched valuation despite new highs.\nNvidia's Only Sell Call on Wall Street\nNegative Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "Jay",
+      "entity2_type": "PERSON",
+      "sentence": "Seaport Research’s Jay Goldberg remains the lone sell-side bear on Nvidia, noting stretched valuation despite new highs.\nNvidia's Only Sell Call on Wall Street\nNegative Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "Goldberg",
+      "entity2_type": "PERSON",
+      "sentence": "Seaport Research’s Jay Goldberg remains the lone sell-side bear on Nvidia, noting stretched valuation despite new highs.\nNvidia's Only Sell Call on Wall Street\nNegative Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "Nvidia",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Research’s Jay Goldberg remains the lone sell-side bear on Nvidia, noting stretched valuation despite new highs.\nNvidia's Only Sell Call on Wall Street\nNegative Sentiment:",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "Nvidia",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Research’s Jay Goldberg remains the lone sell-side bear on Nvidia, noting stretched valuation despite new highs.\nNvidia's Only Sell Call on Wall Street\nNegative Sentiment:",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Research’s Jay Goldberg remains the lone sell-side bear on Nvidia, noting stretched valuation despite new highs.\nNvidia's Only Sell Call on Wall Street\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "Jay",
+      "entity2_type": "PERSON",
+      "sentence": "Seaport Research’s Jay Goldberg remains the lone sell-side bear on Nvidia, noting stretched valuation despite new highs.\nNvidia's Only Sell Call on Wall Street\nNegative Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "Goldberg",
+      "entity2_type": "PERSON",
+      "sentence": "Seaport Research’s Jay Goldberg remains the lone sell-side bear on Nvidia, noting stretched valuation despite new highs.\nNvidia's Only Sell Call on Wall Street\nNegative Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "Nvidia",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Research’s Jay Goldberg remains the lone sell-side bear on Nvidia, noting stretched valuation despite new highs.\nNvidia's Only Sell Call on Wall Street\nNegative Sentiment:",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "Nvidia",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Research’s Jay Goldberg remains the lone sell-side bear on Nvidia, noting stretched valuation despite new highs.\nNvidia's Only Sell Call on Wall Street\nNegative Sentiment:",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "ORG",
+      "entity2": "Jay",
+      "entity2_type": "PERSON",
+      "sentence": "Seaport Research’s Jay Goldberg remains the lone sell-side bear on Nvidia, noting stretched valuation despite new highs.\nNvidia's Only Sell Call on Wall Street\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "ORG",
+      "entity2": "Goldberg",
+      "entity2_type": "PERSON",
+      "sentence": "Seaport Research’s Jay Goldberg remains the lone sell-side bear on Nvidia, noting stretched valuation despite new highs.\nNvidia's Only Sell Call on Wall Street\nNegative Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "ORG",
+      "entity2": "Nvidia",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Research’s Jay Goldberg remains the lone sell-side bear on Nvidia, noting stretched valuation despite new highs.\nNvidia's Only Sell Call on Wall Street\nNegative Sentiment:",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "ORG",
+      "entity2": "Nvidia",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Research’s Jay Goldberg remains the lone sell-side bear on Nvidia, noting stretched valuation despite new highs.\nNvidia's Only Sell Call on Wall Street\nNegative Sentiment:",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jay",
+      "entity1_type": "PERSON",
+      "entity2": "Goldberg",
+      "entity2_type": "PERSON",
+      "sentence": "Seaport Research’s Jay Goldberg remains the lone sell-side bear on Nvidia, noting stretched valuation despite new highs.\nNvidia's Only Sell Call on Wall Street\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jay",
+      "entity1_type": "PERSON",
+      "entity2": "Nvidia",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Research’s Jay Goldberg remains the lone sell-side bear on Nvidia, noting stretched valuation despite new highs.\nNvidia's Only Sell Call on Wall Street\nNegative Sentiment:",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jay",
+      "entity1_type": "PERSON",
+      "entity2": "Nvidia",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Research’s Jay Goldberg remains the lone sell-side bear on Nvidia, noting stretched valuation despite new highs.\nNvidia's Only Sell Call on Wall Street\nNegative Sentiment:",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Goldberg",
+      "entity1_type": "PERSON",
+      "entity2": "Nvidia",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Research’s Jay Goldberg remains the lone sell-side bear on Nvidia, noting stretched valuation despite new highs.\nNvidia's Only Sell Call on Wall Street\nNegative Sentiment:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Goldberg",
+      "entity1_type": "PERSON",
+      "entity2": "Nvidia",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Research’s Jay Goldberg remains the lone sell-side bear on Nvidia, noting stretched valuation despite new highs.\nNvidia's Only Sell Call on Wall Street\nNegative Sentiment:",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nvidia",
+      "entity1_type": "ORG",
+      "entity2": "Nvidia",
+      "entity2_type": "ORG",
+      "sentence": "Seaport Research’s Jay Goldberg remains the lone sell-side bear on Nvidia, noting stretched valuation despite new highs.\nNvidia's Only Sell Call on Wall Street\nNegative Sentiment:",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "U.S.",
+      "entity1_type": "GPE",
+      "entity2": "Jensen",
+      "entity2_type": "PERSON",
+      "sentence": "U.S. senators warned CEO Jensen Huang against meeting Chinese firms suspected of evading export controls, adding regulatory uncertainty before his China trip.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "U.S.",
+      "entity1_type": "GPE",
+      "entity2": "Huang",
+      "entity2_type": "PERSON",
+      "sentence": "U.S. senators warned CEO Jensen Huang against meeting Chinese firms suspected of evading export controls, adding regulatory uncertainty before his China trip.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "U.S.",
+      "entity1_type": "GPE",
+      "entity2": "Chinese",
+      "entity2_type": "NORP",
+      "sentence": "U.S. senators warned CEO Jensen Huang against meeting Chinese firms suspected of evading export controls, adding regulatory uncertainty before his China trip.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "U.S.",
+      "entity1_type": "GPE",
+      "entity2": "China",
+      "entity2_type": "GPE",
+      "sentence": "U.S. senators warned CEO Jensen Huang against meeting Chinese firms suspected of evading export controls, adding regulatory uncertainty before his China trip.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jensen",
+      "entity1_type": "PERSON",
+      "entity2": "Huang",
+      "entity2_type": "PERSON",
+      "sentence": "U.S. senators warned CEO Jensen Huang against meeting Chinese firms suspected of evading export controls, adding regulatory uncertainty before his China trip.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jensen",
+      "entity1_type": "PERSON",
+      "entity2": "Chinese",
+      "entity2_type": "NORP",
+      "sentence": "U.S. senators warned CEO Jensen Huang against meeting Chinese firms suspected of evading export controls, adding regulatory uncertainty before his China trip.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jensen",
+      "entity1_type": "PERSON",
+      "entity2": "China",
+      "entity2_type": "GPE",
+      "sentence": "U.S. senators warned CEO Jensen Huang against meeting Chinese firms suspected of evading export controls, adding regulatory uncertainty before his China trip.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Huang",
+      "entity1_type": "PERSON",
+      "entity2": "Chinese",
+      "entity2_type": "NORP",
+      "sentence": "U.S. senators warned CEO Jensen Huang against meeting Chinese firms suspected of evading export controls, adding regulatory uncertainty before his China trip.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Huang",
+      "entity1_type": "PERSON",
+      "entity2": "China",
+      "entity2_type": "GPE",
+      "sentence": "U.S. senators warned CEO Jensen Huang against meeting Chinese firms suspected of evading export controls, adding regulatory uncertainty before his China trip.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Chinese",
+      "entity1_type": "NORP",
+      "entity2": "China",
+      "entity2_type": "GPE",
+      "sentence": "U.S. senators warned CEO Jensen Huang against meeting Chinese firms suspected of evading export controls, adding regulatory uncertainty before his China trip.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "US",
+      "entity1_type": "GPE",
+      "entity2": "Nvidia",
+      "entity2_type": "ORG",
+      "sentence": "US senators warn Nvidia CEO about upcoming China trip\nNegative Sentiment:\nHuawei announced a redesigned AI chip to challenge Nvidia in China, raising competitive pressure in a key growth market.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "US",
+      "entity1_type": "GPE",
+      "entity2": "China",
+      "entity2_type": "GPE",
+      "sentence": "US senators warn Nvidia CEO about upcoming China trip\nNegative Sentiment:\nHuawei announced a redesigned AI chip to challenge Nvidia in China, raising competitive pressure in a key growth market.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "US",
+      "entity1_type": "GPE",
+      "entity2": "Huawei",
+      "entity2_type": "ORG",
+      "sentence": "US senators warn Nvidia CEO about upcoming China trip\nNegative Sentiment:\nHuawei announced a redesigned AI chip to challenge Nvidia in China, raising competitive pressure in a key growth market.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "US",
+      "entity1_type": "GPE",
+      "entity2": "Nvidia",
+      "entity2_type": "ORG",
+      "sentence": "US senators warn Nvidia CEO about upcoming China trip\nNegative Sentiment:\nHuawei announced a redesigned AI chip to challenge Nvidia in China, raising competitive pressure in a key growth market.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "US",
+      "entity1_type": "GPE",
+      "entity2": "China",
+      "entity2_type": "GPE",
+      "sentence": "US senators warn Nvidia CEO about upcoming China trip\nNegative Sentiment:\nHuawei announced a redesigned AI chip to challenge Nvidia in China, raising competitive pressure in a key growth market.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nvidia",
+      "entity1_type": "ORG",
+      "entity2": "China",
+      "entity2_type": "GPE",
+      "sentence": "US senators warn Nvidia CEO about upcoming China trip\nNegative Sentiment:\nHuawei announced a redesigned AI chip to challenge Nvidia in China, raising competitive pressure in a key growth market.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nvidia",
+      "entity1_type": "ORG",
+      "entity2": "Huawei",
+      "entity2_type": "ORG",
+      "sentence": "US senators warn Nvidia CEO about upcoming China trip\nNegative Sentiment:\nHuawei announced a redesigned AI chip to challenge Nvidia in China, raising competitive pressure in a key growth market.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nvidia",
+      "entity1_type": "ORG",
+      "entity2": "Nvidia",
+      "entity2_type": "ORG",
+      "sentence": "US senators warn Nvidia CEO about upcoming China trip\nNegative Sentiment:\nHuawei announced a redesigned AI chip to challenge Nvidia in China, raising competitive pressure in a key growth market.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nvidia",
+      "entity1_type": "ORG",
+      "entity2": "China",
+      "entity2_type": "GPE",
+      "sentence": "US senators warn Nvidia CEO about upcoming China trip\nNegative Sentiment:\nHuawei announced a redesigned AI chip to challenge Nvidia in China, raising competitive pressure in a key growth market.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "China",
+      "entity1_type": "GPE",
+      "entity2": "Huawei",
+      "entity2_type": "ORG",
+      "sentence": "US senators warn Nvidia CEO about upcoming China trip\nNegative Sentiment:\nHuawei announced a redesigned AI chip to challenge Nvidia in China, raising competitive pressure in a key growth market.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "China",
+      "entity1_type": "GPE",
+      "entity2": "Nvidia",
+      "entity2_type": "ORG",
+      "sentence": "US senators warn Nvidia CEO about upcoming China trip\nNegative Sentiment:\nHuawei announced a redesigned AI chip to challenge Nvidia in China, raising competitive pressure in a key growth market.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "China",
+      "entity1_type": "GPE",
+      "entity2": "China",
+      "entity2_type": "GPE",
+      "sentence": "US senators warn Nvidia CEO about upcoming China trip\nNegative Sentiment:\nHuawei announced a redesigned AI chip to challenge Nvidia in China, raising competitive pressure in a key growth market.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Huawei",
+      "entity1_type": "ORG",
+      "entity2": "Nvidia",
+      "entity2_type": "ORG",
+      "sentence": "US senators warn Nvidia CEO about upcoming China trip\nNegative Sentiment:\nHuawei announced a redesigned AI chip to challenge Nvidia in China, raising competitive pressure in a key growth market.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Huawei",
+      "entity1_type": "ORG",
+      "entity2": "China",
+      "entity2_type": "GPE",
+      "sentence": "US senators warn Nvidia CEO about upcoming China trip\nNegative Sentiment:\nHuawei announced a redesigned AI chip to challenge Nvidia in China, raising competitive pressure in a key growth market.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nvidia",
+      "entity1_type": "ORG",
+      "entity2": "China",
+      "entity2_type": "GPE",
+      "sentence": "US senators warn Nvidia CEO about upcoming China trip\nNegative Sentiment:\nHuawei announced a redesigned AI chip to challenge Nvidia in China, raising competitive pressure in a key growth market.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Huawei",
+      "entity1_type": "ORG",
+      "entity2": "NVIDIA",
+      "entity2_type": "ORG",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Huawei",
+      "entity1_type": "ORG",
+      "entity2": "China",
+      "entity2_type": "GPE",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Huawei",
+      "entity1_type": "ORG",
+      "entity2": "Jensen",
+      "entity2_type": "PERSON",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Huawei",
+      "entity1_type": "ORG",
+      "entity2": "Huang",
+      "entity2_type": "PERSON",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Huawei",
+      "entity1_type": "ORG",
+      "entity2": "A",
+      "entity2_type": "PERSON",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Huawei",
+      "entity1_type": "ORG",
+      "entity2": "Brooke",
+      "entity2_type": "PERSON",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Huawei",
+      "entity1_type": "ORG",
+      "entity2": "Seawell",
+      "entity2_type": "PERSON",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Huawei",
+      "entity1_type": "ORG",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Huawei",
+      "entity1_type": "ORG",
+      "entity2": "36",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Huawei",
+      "entity1_type": "ORG",
+      "entity2": "million",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Huawei",
+      "entity1_type": "ORG",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Huawei",
+      "entity1_type": "ORG",
+      "entity2": "8",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Huawei",
+      "entity1_type": "ORG",
+      "entity2": "million",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 32
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Huawei",
+      "entity1_type": "ORG",
+      "entity2": "NVDA",
+      "entity2_type": "ORG",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 34
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NVIDIA",
+      "entity1_type": "ORG",
+      "entity2": "China",
+      "entity2_type": "GPE",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NVIDIA",
+      "entity1_type": "ORG",
+      "entity2": "Jensen",
+      "entity2_type": "PERSON",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NVIDIA",
+      "entity1_type": "ORG",
+      "entity2": "Huang",
+      "entity2_type": "PERSON",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NVIDIA",
+      "entity1_type": "ORG",
+      "entity2": "A",
+      "entity2_type": "PERSON",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NVIDIA",
+      "entity1_type": "ORG",
+      "entity2": "Brooke",
+      "entity2_type": "PERSON",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NVIDIA",
+      "entity1_type": "ORG",
+      "entity2": "Seawell",
+      "entity2_type": "PERSON",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NVIDIA",
+      "entity1_type": "ORG",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NVIDIA",
+      "entity1_type": "ORG",
+      "entity2": "36",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NVIDIA",
+      "entity1_type": "ORG",
+      "entity2": "million",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NVIDIA",
+      "entity1_type": "ORG",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NVIDIA",
+      "entity1_type": "ORG",
+      "entity2": "8",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NVIDIA",
+      "entity1_type": "ORG",
+      "entity2": "million",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NVIDIA",
+      "entity1_type": "ORG",
+      "entity2": "NVDA",
+      "entity2_type": "ORG",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "China",
+      "entity1_type": "GPE",
+      "entity2": "Jensen",
+      "entity2_type": "PERSON",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "China",
+      "entity1_type": "GPE",
+      "entity2": "Huang",
+      "entity2_type": "PERSON",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "China",
+      "entity1_type": "GPE",
+      "entity2": "A",
+      "entity2_type": "PERSON",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "China",
+      "entity1_type": "GPE",
+      "entity2": "Brooke",
+      "entity2_type": "PERSON",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "China",
+      "entity1_type": "GPE",
+      "entity2": "Seawell",
+      "entity2_type": "PERSON",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "China",
+      "entity1_type": "GPE",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "China",
+      "entity1_type": "GPE",
+      "entity2": "36",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "China",
+      "entity1_type": "GPE",
+      "entity2": "million",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "China",
+      "entity1_type": "GPE",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "China",
+      "entity1_type": "GPE",
+      "entity2": "8",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "China",
+      "entity1_type": "GPE",
+      "entity2": "million",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "China",
+      "entity1_type": "GPE",
+      "entity2": "NVDA",
+      "entity2_type": "ORG",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jensen",
+      "entity1_type": "PERSON",
+      "entity2": "Huang",
+      "entity2_type": "PERSON",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jensen",
+      "entity1_type": "PERSON",
+      "entity2": "A",
+      "entity2_type": "PERSON",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jensen",
+      "entity1_type": "PERSON",
+      "entity2": "Brooke",
+      "entity2_type": "PERSON",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jensen",
+      "entity1_type": "PERSON",
+      "entity2": "Seawell",
+      "entity2_type": "PERSON",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jensen",
+      "entity1_type": "PERSON",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jensen",
+      "entity1_type": "PERSON",
+      "entity2": "36",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jensen",
+      "entity1_type": "PERSON",
+      "entity2": "million",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jensen",
+      "entity1_type": "PERSON",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jensen",
+      "entity1_type": "PERSON",
+      "entity2": "8",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jensen",
+      "entity1_type": "PERSON",
+      "entity2": "million",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jensen",
+      "entity1_type": "PERSON",
+      "entity2": "NVDA",
+      "entity2_type": "ORG",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Huang",
+      "entity1_type": "PERSON",
+      "entity2": "A",
+      "entity2_type": "PERSON",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Huang",
+      "entity1_type": "PERSON",
+      "entity2": "Brooke",
+      "entity2_type": "PERSON",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Huang",
+      "entity1_type": "PERSON",
+      "entity2": "Seawell",
+      "entity2_type": "PERSON",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Huang",
+      "entity1_type": "PERSON",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Huang",
+      "entity1_type": "PERSON",
+      "entity2": "36",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Huang",
+      "entity1_type": "PERSON",
+      "entity2": "million",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Huang",
+      "entity1_type": "PERSON",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Huang",
+      "entity1_type": "PERSON",
+      "entity2": "8",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Huang",
+      "entity1_type": "PERSON",
+      "entity2": "million",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Huang",
+      "entity1_type": "PERSON",
+      "entity2": "NVDA",
+      "entity2_type": "ORG",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "A",
+      "entity1_type": "PERSON",
+      "entity2": "Brooke",
+      "entity2_type": "PERSON",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "A",
+      "entity1_type": "PERSON",
+      "entity2": "Seawell",
+      "entity2_type": "PERSON",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "A",
+      "entity1_type": "PERSON",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "A",
+      "entity1_type": "PERSON",
+      "entity2": "36",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "A",
+      "entity1_type": "PERSON",
+      "entity2": "million",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "A",
+      "entity1_type": "PERSON",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "A",
+      "entity1_type": "PERSON",
+      "entity2": "8",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "A",
+      "entity1_type": "PERSON",
+      "entity2": "million",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "A",
+      "entity1_type": "PERSON",
+      "entity2": "NVDA",
+      "entity2_type": "ORG",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brooke",
+      "entity1_type": "PERSON",
+      "entity2": "Seawell",
+      "entity2_type": "PERSON",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brooke",
+      "entity1_type": "PERSON",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brooke",
+      "entity1_type": "PERSON",
+      "entity2": "36",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brooke",
+      "entity1_type": "PERSON",
+      "entity2": "million",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brooke",
+      "entity1_type": "PERSON",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brooke",
+      "entity1_type": "PERSON",
+      "entity2": "8",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brooke",
+      "entity1_type": "PERSON",
+      "entity2": "million",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brooke",
+      "entity1_type": "PERSON",
+      "entity2": "NVDA",
+      "entity2_type": "ORG",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seawell",
+      "entity1_type": "PERSON",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seawell",
+      "entity1_type": "PERSON",
+      "entity2": "36",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seawell",
+      "entity1_type": "PERSON",
+      "entity2": "million",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seawell",
+      "entity1_type": "PERSON",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seawell",
+      "entity1_type": "PERSON",
+      "entity2": "8",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seawell",
+      "entity1_type": "PERSON",
+      "entity2": "million",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seawell",
+      "entity1_type": "PERSON",
+      "entity2": "NVDA",
+      "entity2_type": "ORG",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "36",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "million",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "8",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "million",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "NVDA",
+      "entity2_type": "ORG",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "36",
+      "entity1_type": "MONEY",
+      "entity2": "million",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "36",
+      "entity1_type": "MONEY",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "36",
+      "entity1_type": "MONEY",
+      "entity2": "8",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "36",
+      "entity1_type": "MONEY",
+      "entity2": "million",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "36",
+      "entity1_type": "MONEY",
+      "entity2": "NVDA",
+      "entity2_type": "ORG",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "million",
+      "entity1_type": "MONEY",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "million",
+      "entity1_type": "MONEY",
+      "entity2": "8",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "million",
+      "entity1_type": "MONEY",
+      "entity2": "million",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "million",
+      "entity1_type": "MONEY",
+      "entity2": "NVDA",
+      "entity2_type": "ORG",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "8",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "million",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "NVDA",
+      "entity2_type": "ORG",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "8",
+      "entity1_type": "MONEY",
+      "entity2": "million",
+      "entity2_type": "MONEY",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "8",
+      "entity1_type": "MONEY",
+      "entity2": "NVDA",
+      "entity2_type": "ORG",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "million",
+      "entity1_type": "MONEY",
+      "entity2": "NVDA",
+      "entity2_type": "ORG",
+      "sentence": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jensen",
+      "entity1_type": "PERSON",
+      "entity2": "Huang",
+      "entity2_type": "PERSON",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jensen",
+      "entity1_type": "PERSON",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jensen",
+      "entity1_type": "PERSON",
+      "entity2": "36.4",
+      "entity2_type": "MONEY",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jensen",
+      "entity1_type": "PERSON",
+      "entity2": "Million",
+      "entity2_type": "MONEY",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jensen",
+      "entity1_type": "PERSON",
+      "entity2": "NVDA",
+      "entity2_type": "ORG",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jensen",
+      "entity1_type": "PERSON",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jensen",
+      "entity1_type": "PERSON",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jensen",
+      "entity1_type": "PERSON",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jensen",
+      "entity1_type": "PERSON",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jensen",
+      "entity1_type": "PERSON",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jensen",
+      "entity1_type": "PERSON",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Huang",
+      "entity1_type": "PERSON",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Huang",
+      "entity1_type": "PERSON",
+      "entity2": "36.4",
+      "entity2_type": "MONEY",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Huang",
+      "entity1_type": "PERSON",
+      "entity2": "Million",
+      "entity2_type": "MONEY",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Huang",
+      "entity1_type": "PERSON",
+      "entity2": "NVDA",
+      "entity2_type": "ORG",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Huang",
+      "entity1_type": "PERSON",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Huang",
+      "entity1_type": "PERSON",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Huang",
+      "entity1_type": "PERSON",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Huang",
+      "entity1_type": "PERSON",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Huang",
+      "entity1_type": "PERSON",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Huang",
+      "entity1_type": "PERSON",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "36.4",
+      "entity2_type": "MONEY",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "Million",
+      "entity2_type": "MONEY",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "NVDA",
+      "entity2_type": "ORG",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "36.4",
+      "entity1_type": "MONEY",
+      "entity2": "Million",
+      "entity2_type": "MONEY",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "36.4",
+      "entity1_type": "MONEY",
+      "entity2": "NVDA",
+      "entity2_type": "ORG",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "36.4",
+      "entity1_type": "MONEY",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "36.4",
+      "entity1_type": "MONEY",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "36.4",
+      "entity1_type": "MONEY",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "36.4",
+      "entity1_type": "MONEY",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "36.4",
+      "entity1_type": "MONEY",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "36.4",
+      "entity1_type": "MONEY",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Million",
+      "entity1_type": "MONEY",
+      "entity2": "NVDA",
+      "entity2_type": "ORG",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Million",
+      "entity1_type": "MONEY",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Million",
+      "entity1_type": "MONEY",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Million",
+      "entity1_type": "MONEY",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Million",
+      "entity1_type": "MONEY",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Million",
+      "entity1_type": "MONEY",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Million",
+      "entity1_type": "MONEY",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NVDA",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NVDA",
+      "entity1_type": "ORG",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NVDA",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NVDA",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NVDA",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NVDA",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ago",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ago",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AI",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "the back",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a historic market-cap milestone",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "fresh analyst support",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "trade-policy risks",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "competitive moves",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "recent insider selling",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "First public company",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a $4 trillion market valuation",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Nvidia’s AI leadership",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "investor optimism",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "First Company",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Market Cap",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Goldman Sachs",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a Buy rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "$185 price target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "over 12% upside",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "current levels",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "The Goldman Sachs Group",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its Nvidia price target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "an “Outperform” rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "stronger revenue forecasts",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "data-center sales",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Early Rubin Launch",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Price Target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Unusually high options activity",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Nvidia’s record-high week",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the rally",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Options Activity",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "NVDA's All-Time High Week",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "MarketBeat’s weekly review",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "robust AI-chip demand",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "earnings season",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "tariff fears",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "MarketBeat Week",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Seaport Research’s Jay Goldberg",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the lone sell-side bear",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "stretched valuation",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "new highs",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Nvidia's Only Sell Call",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Wall Street",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "U.S. senators",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "CEO Jensen Huang",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Chinese firms",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "export controls",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "regulatory uncertainty",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "his China trip",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "US senators",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Nvidia CEO",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "upcoming China trip",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a redesigned AI chip",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "competitive pressure",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a key growth market",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "AI Chip",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "CEO Jensen Huang",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "director A Brooke Seawell",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "NVDA shares",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "insider caution",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "CEO Jensen Huang",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "NVDA Shares",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "$4 trillion",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$4 Trillion",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$185",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$185",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$36 million",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$8 million",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$36",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "12%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "revenue",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "growth",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "market",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "market",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Market",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "market",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Market",
+      "type": "pattern",
+      "category": "market_term"
+    }
+  ],
+  "important_sentences": [
+    {
+      "text": "NVIDIA Gains From Early Rubin Launch, Mizuho Lifts Price Target\nNeutral Sentiment:\nUnusually high options activity during Nvidia’s record-high week sparked debate over whether the rally is overextended.\nOptions Activity Behind NVDA's All-Time High Week\nNeutral Sentiment:\nMarketBeat’s weekly review highlighted robust AI-chip demand heading into earnings season, even as tariff fears resurface.",
+      "importance_score": 59,
+      "entity_count": 9,
+      "financial_keyword_count": 7,
+      "money_count": 0,
+      "company_count": 5,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution.",
+      "importance_score": 58,
+      "entity_count": 15,
+      "financial_keyword_count": 2,
+      "money_count": 2,
+      "company_count": 3,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Positive Sentiment:\nFirst public company ever to surpass a $4 trillion market valuation, underscoring Nvidia’s AI leadership and fueling investor optimism.\nNvidia Becomes First Company Ever to Reach $4 Trillion Market Cap",
+      "importance_score": 50,
+      "entity_count": 10,
+      "financial_keyword_count": 4,
+      "money_count": 2,
+      "company_count": 2,
+      "sentiment": "positive"
+    },
+    {
+      "text": "CEO Jensen Huang Sells $36.4 Million in NVDA Shares\nPosted 1+ days ago\nAI Generated.",
+      "importance_score": 40,
+      "entity_count": 12,
+      "financial_keyword_count": 1,
+      "money_count": 1,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Seaport Research’s Jay Goldberg remains the lone sell-side bear on Nvidia, noting stretched valuation despite new highs.\nNvidia's Only Sell Call on Wall Street\nNegative Sentiment:",
+      "importance_score": 38,
+      "entity_count": 7,
+      "financial_keyword_count": 4,
+      "money_count": 0,
+      "company_count": 3,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Mizuho raised its Nvidia price target to $185 and maintained an “Outperform” rating, reflecting stronger revenue forecasts from data-center sales.",
+      "importance_score": 37,
+      "entity_count": 3,
+      "financial_keyword_count": 6,
+      "money_count": 1,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "US senators warn Nvidia CEO about upcoming China trip\nNegative Sentiment:\nHuawei announced a redesigned AI chip to challenge Nvidia in China, raising competitive pressure in a key growth market.",
+      "importance_score": 36,
+      "entity_count": 6,
+      "financial_keyword_count": 4,
+      "money_count": 0,
+      "company_count": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Goldman Sachs initiated coverage with a Buy rating and $185 price target, implying over 12% upside from current levels.",
+      "importance_score": 30,
+      "entity_count": 6,
+      "financial_keyword_count": 3,
+      "money_count": 1,
+      "company_count": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "NVIDIA Corporation (NVDA) shares are climbing on the back of a historic market-cap milestone and fresh analyst support, but remain sensitive to trade-policy risks, competitive moves in China, and recent insider selling.",
+      "importance_score": 28,
+      "entity_count": 4,
+      "financial_keyword_count": 4,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "U.S. senators warned CEO Jensen Huang against meeting Chinese firms suspected of evading export controls, adding regulatory uncertainty before his China trip.",
+      "importance_score": 16,
+      "entity_count": 5,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 0,
+      "sentiment": "neutral"
+    }
+  ],
+  "entity_statistics": {
+    "total_entities": 54,
+    "unique_entities": 33,
+    "type_counts": {
+      "ORG": 24,
+      "GPE": 7,
+      "ORDINAL": 2,
+      "MONEY": 7,
+      "PERCENT": 1,
+      "PRODUCT": 1,
+      "DATE": 6,
+      "PERSON": 5,
+      "NORP": 1
+    },
+    "type_distribution": {
+      "ORG": 0.4444444444444444,
+      "GPE": 0.12962962962962962,
+      "ORDINAL": 0.037037037037037035,
+      "MONEY": 0.12962962962962962,
+      "PERCENT": 0.018518518518518517,
+      "PRODUCT": 0.018518518518518517,
+      "DATE": 0.1111111111111111,
+      "PERSON": 0.09259259259259259,
+      "NORP": 0.018518518518518517
+    },
+    "most_common_entities": [
+      [
+        "Nvidia",
+        8
+      ],
+      [
+        "China",
+        5
+      ],
+      [
+        "NVDA",
+        4
+      ],
+      [
+        "Jensen Huang",
+        3
+      ],
+      [
+        "First",
+        2
+      ],
+      [
+        "185",
+        2
+      ],
+      [
+        "Mizuho",
+        2
+      ],
+      [
+        "NVIDIA",
+        2
+      ],
+      [
+        "Huawei",
+        2
+      ],
+      [
+        "NVIDIA Corporation",
+        1
+      ]
+    ],
+    "entity_types_found": [
+      "ORG",
+      "GPE",
+      "ORDINAL",
+      "MONEY",
+      "PERCENT",
+      "PRODUCT",
+      "DATE",
+      "PERSON",
+      "NORP"
+    ],
+    "company_entities": 24,
+    "person_entities": 5,
+    "financial_entities": 8,
+    "entity_density": 0.1782178217821782
+  },
+  "financial_analysis": {
+    "money_amounts": [
+      "$4 trillion",
+      "$4 Trillion",
+      "185",
+      "185",
+      "$36 million",
+      "$8 million",
+      "$36.4 Million"
+    ],
+    "percentages": [
+      "over 12%"
+    ],
+    "companies": [
+      "NVIDIA Corporation",
+      "NVDA",
+      "Nvidia",
+      "Nvidia",
+      "Goldman Sachs",
+      "The Goldman Sachs Group",
+      "Mizuho",
+      "Nvidia",
+      "NVIDIA",
+      "Mizuho",
+      "Nvidia",
+      "NVDA",
+      "MarketBeat",
+      "Seaport Research’s",
+      "Nvidia",
+      "Nvidia",
+      "Nvidia",
+      "Huawei",
+      "Nvidia",
+      "Huawei",
+      "NVIDIA",
+      "NVDA",
+      "NVDA",
+      "AI Generated"
+    ],
+    "people": [
+      "Jay Goldberg",
+      "Jensen Huang",
+      "Jensen Huang",
+      "A Brooke Seawell",
+      "Jensen Huang"
+    ],
+    "dates": [
+      "week",
+      "Week",
+      "weekly",
+      "MarketBeat Week in Review",
+      "07/07 – 07/11",
+      "1+ days ago"
+    ],
+    "financial_terms": [
+      "earnings",
+      "growth",
+      "revenue",
+      "Market",
+      "market"
+    ],
+    "financial_metrics": [],
+    "market_indicators": [
+      "rally",
+      "Price",
+      "price",
+      "target",
+      "rating",
+      "bear",
+      "Target"
+    ]
+  },
+  "temporal_analysis": {
+    "dates": [
+      "week",
+      "Week",
+      "weekly",
+      "MarketBeat Week in Review",
+      "07/07 – 07/11",
+      "1+ days ago"
+    ],
+    "time_expressions": [],
+    "temporal_relationships": [
+      "upcoming",
+      "recent"
+    ],
+    "quarters": [],
+    "years": [],
+    "time_periods": []
+  },
+  "sentiment_analysis": {
+    "positive_words": 5,
+    "negative_words": 3,
+    "positive_ratio": 0.0165016501650165,
+    "negative_ratio": 0.009900990099009901,
+    "sentiment_score": 0.006600660066006599,
+    "sentiment_label": "neutral",
+    "sentiment_strength": 0.006600660066006599,
+    "confidence": 0.06600660066006599
+  },
+  "industry_analysis": {
+    "dominant_industry": "tech",
+    "industry_scores": {
+      "tech": 8,
+      "finance": 0,
+      "healthcare": 0,
+      "energy": 0,
+      "retail": 0,
+      "automotive": 0,
+      "media": 0,
+      "industrial": 0,
+      "real_estate": 0,
+      "telecom": 0,
+      "food_beverage": 0,
+      "travel": 0,
+      "education": 0,
+      "professional": 0,
+      "mining": 0,
+      "aerospace": 0,
+      "environmental": 0,
+      "cannabis": 0
+    },
+    "confidence": 1.0
+  },
+  "market_analysis": {
+    "market_sentiment": "bullish",
+    "bullish_indicators": 3,
+    "bearish_indicators": 0,
+    "market_conditions": {
+      "volatility": "normal",
+      "volume": "normal",
+      "trend": "bullish"
+    },
+    "trading_activity": "normal"
+  },
+  "competitor_analysis": {
+    "companies_mentioned": [
+      "NVIDIA Corporation",
+      "NVDA",
+      "Nvidia",
+      "Nvidia",
+      "Goldman Sachs",
+      "The Goldman Sachs Group",
+      "Mizuho",
+      "Nvidia",
+      "NVIDIA",
+      "Mizuho",
+      "Nvidia",
+      "NVDA",
+      "MarketBeat",
+      "Seaport Research’s",
+      "Nvidia",
+      "Nvidia",
+      "Nvidia",
+      "Huawei",
+      "Nvidia",
+      "Huawei",
+      "NVIDIA",
+      "NVDA",
+      "NVDA",
+      "AI Generated"
+    ],
+    "competitive_context": [
+      "Mizuho raised its Nvidia price target to $185 and maintained an “Outperform” rating, reflecting stronger revenue forecasts from data-center sales."
+    ],
+    "competitor_count": 24,
+    "has_competitive_language": true
+  },
+  "risk_analysis": {
+    "risk_sentences": [
+      "NVIDIA Corporation (NVDA) shares are climbing on the back of a historic market-cap milestone and fresh analyst support, but remain sensitive to trade-policy risks, competitive moves in China, and recent insider selling.",
+      "U.S. senators warned CEO Jensen Huang against meeting Chinese firms suspected of evading export controls, adding regulatory uncertainty before his China trip.",
+      "Huawei Redesigns AI Chip to Compete with NVIDIA in China Market\nNegative Sentiment:\nCEO Jensen Huang and director A Brooke Seawell sold over $36 million and $8 million of NVDA shares respectively, which may signal insider caution."
+    ],
+    "risk_count": 3,
+    "risk_level": "medium"
+  },
+  "opportunity_analysis": {
+    "opportunity_sentences": [
+      "US senators warn Nvidia CEO about upcoming China trip\nNegative Sentiment:\nHuawei announced a redesigned AI chip to challenge Nvidia in China, raising competitive pressure in a key growth market."
+    ],
+    "opportunity_count": 1,
+    "opportunity_level": "low"
+  },
+  "processing_metadata": {
+    "timestamp": "2025-07-13T06:36:18.695492",
+    "model_used": "en_core_web_trf",
+    "text_length": 2120
+  }
+}
