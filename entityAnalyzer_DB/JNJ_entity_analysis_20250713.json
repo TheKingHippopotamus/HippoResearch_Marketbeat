@@ -1,0 +1,1876 @@
+{
+  "ticker": "JNJ",
+  "entities": [
+    {
+      "text": "Johnson & Johnson",
+      "label": "ORG",
+      "start": 0,
+      "end": 17,
+      "sentence": "Johnson & Johnson (JNJ) shares moved today on a mix of analyst actions, pipeline progress and broader market sentiment.",
+      "context": "Johnson & Johnson (JNJ) shares moved today on a mix of analyst acti",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "JNJ",
+      "label": "ORG",
+      "start": 19,
+      "end": 22,
+      "sentence": "Johnson & Johnson (JNJ) shares moved today on a mix of analyst actions, pipeline progress and broader market sentiment.",
+      "context": "Johnson & Johnson (JNJ) shares moved today on a mix of analyst actions,",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "today",
+      "label": "DATE",
+      "start": 37,
+      "end": 42,
+      "sentence": "Johnson & Johnson (JNJ) shares moved today on a mix of analyst actions, pipeline progress and broader market sentiment.",
+      "context": "Johnson & Johnson (JNJ) shares moved today on a mix of analyst actions, pipeline progress an",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Morgan Stanley",
+      "label": "ORG",
+      "start": 203,
+      "end": 217,
+      "sentence": "Positive Sentiment:\nMorgan Stanley raised its price target on JNJ from $169 to $171 and kept an \"equal weight\" rating, reflecting confidence in the company’s outlook.",
+      "context": "cing the stock’s performance:\nPositive Sentiment:\nMorgan Stanley raised its price target on JNJ from $169 to $171",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "JNJ",
+      "label": "ORG",
+      "start": 245,
+      "end": 248,
+      "sentence": "Positive Sentiment:\nMorgan Stanley raised its price target on JNJ from $169 to $171 and kept an \"equal weight\" rating, reflecting confidence in the company’s outlook.",
+      "context": "timent:\nMorgan Stanley raised its price target on JNJ from $169 to $171 and kept an \"equal weight\" rati",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "169",
+      "label": "MONEY",
+      "start": 255,
+      "end": 258,
+      "sentence": "Positive Sentiment:\nMorgan Stanley raised its price target on JNJ from $169 to $171 and kept an \"equal weight\" rating, reflecting confidence in the company’s outlook.",
+      "context": "rgan Stanley raised its price target on JNJ from $169 to $171 and kept an \"equal weight\" rating, reflec",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "171",
+      "label": "MONEY",
+      "start": 263,
+      "end": 266,
+      "sentence": "Positive Sentiment:\nMorgan Stanley raised its price target on JNJ from $169 to $171 and kept an \"equal weight\" rating, reflecting confidence in the company’s outlook.",
+      "context": "nley raised its price target on JNJ from $169 to $171 and kept an \"equal weight\" rating, reflecting con",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Morgan Stanley Forecast",
+      "label": "ORG",
+      "start": 350,
+      "end": 374,
+      "sentence": "Morgan Stanley Forecast\nPositive Sentiment:",
+      "context": ", reflecting confidence in the company’s outlook.\nMorgan Stanley Forecast\nPositive Sentiment:\nJNJ submitted a supplemental N",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "JNJ",
+      "label": "ORG",
+      "start": 394,
+      "end": 397,
+      "sentence": "JNJ submitted a supplemental NDA to the FDA for its schizophrenia drug Caplyta based on strong relapse-prevention data, bolstering its psychiatric portfolio.",
+      "context": "look.\nMorgan Stanley Forecast\nPositive Sentiment:\nJNJ submitted a supplemental NDA to the FDA for its s",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "FDA",
+      "label": "ORG",
+      "start": 434,
+      "end": 437,
+      "sentence": "JNJ submitted a supplemental NDA to the FDA for its schizophrenia drug Caplyta based on strong relapse-prevention data, bolstering its psychiatric portfolio.",
+      "context": "entiment:\nJNJ submitted a supplemental NDA to the FDA for its schizophrenia drug Caplyta based on stron",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Caplyta",
+      "label": "PRODUCT",
+      "start": 465,
+      "end": 472,
+      "sentence": "JNJ submitted a supplemental NDA to the FDA for its schizophrenia drug Caplyta based on strong relapse-prevention data, bolstering its psychiatric portfolio.",
+      "context": "emental NDA to the FDA for its schizophrenia drug Caplyta based on strong relapse-prevention data, bolsteri",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "MedTech",
+      "label": "ORG",
+      "start": 712,
+      "end": 719,
+      "sentence": "The company appointed a new Chief Medical Officer for its Electrophysiology business, enhancing leadership in a key MedTech segment.",
+      "context": "hysiology business, enhancing leadership in a key MedTech segment.\nNew CMO Appointment\nPositive Sentiment:",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "JNJ",
+      "label": "ORG",
+      "start": 769,
+      "end": 772,
+      "sentence": "New CMO Appointment\nPositive Sentiment:\nJNJ is featured among three AI-driven medical device stocks to watch in 2025, highlighting its advances in diagnostics and surgical tech.",
+      "context": "segment.\nNew CMO Appointment\nPositive Sentiment:\nJNJ is featured among three AI-driven medical device",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "three",
+      "label": "CARDINAL",
+      "start": 791,
+      "end": 796,
+      "sentence": "New CMO Appointment\nPositive Sentiment:\nJNJ is featured among three AI-driven medical device stocks to watch in 2025, highlighting its advances in diagnostics and surgical tech.",
+      "context": "intment\nPositive Sentiment:\nJNJ is featured among three AI-driven medical device stocks to watch in 2025,",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "2025",
+      "label": "DATE",
+      "start": 841,
+      "end": 845,
+      "sentence": "New CMO Appointment\nPositive Sentiment:\nJNJ is featured among three AI-driven medical device stocks to watch in 2025, highlighting its advances in diagnostics and surgical tech.",
+      "context": "three AI-driven medical device stocks to watch in 2025, highlighting its advances in diagnostics and sur",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q2",
+      "label": "DATE",
+      "start": 988,
+      "end": 990,
+      "sentence": "AI-Driven Devices Article\nNeutral Sentiment:\nWall Street analysts released their Q2 estimates for JNJ’s top- and bottom-line metrics ahead of its July 16 earnings report.",
+      "context": "al Sentiment:\nWall Street analysts released their Q2 estimates for JNJ’s top- and bottom-line metrics",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "JNJ",
+      "label": "ORG",
+      "start": 1005,
+      "end": 1008,
+      "sentence": "AI-Driven Devices Article\nNeutral Sentiment:\nWall Street analysts released their Q2 estimates for JNJ’s top- and bottom-line metrics ahead of its July 16 earnings report.",
+      "context": "l Street analysts released their Q2 estimates for JNJ’s top- and bottom-line metrics ahead of its July",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "July 16",
+      "label": "DATE",
+      "start": 1053,
+      "end": 1060,
+      "sentence": "AI-Driven Devices Article\nNeutral Sentiment:\nWall Street analysts released their Q2 estimates for JNJ’s top- and bottom-line metrics ahead of its July 16 earnings report.",
+      "context": "r JNJ’s top- and bottom-line metrics ahead of its July 16 earnings report.\nQ2 Outlook\nNeutral Sentiment:\nBe",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q2",
+      "label": "DATE",
+      "start": 1078,
+      "end": 1080,
+      "sentence": "Q2 Outlook\nNeutral Sentiment:",
+      "context": "ine metrics ahead of its July 16 earnings report.\nQ2 Outlook\nNeutral Sentiment:\nBenzinga detailed rece",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Benzinga",
+      "label": "ORG",
+      "start": 1108,
+      "end": 1116,
+      "sentence": "Benzinga detailed recent forecast adjustments from the most accurate analysts as JNJ gears up for its Q2 print.",
+      "context": "16 earnings report.\nQ2 Outlook\nNeutral Sentiment:\nBenzinga detailed recent forecast adjustments from the mos",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "JNJ",
+      "label": "ORG",
+      "start": 1189,
+      "end": 1192,
+      "sentence": "Benzinga detailed recent forecast adjustments from the most accurate analysts as JNJ gears up for its Q2 print.",
+      "context": "st adjustments from the most accurate analysts as JNJ gears up for its Q2 print.\nForecast Changes\nNeutr",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q2",
+      "label": "DATE",
+      "start": 1210,
+      "end": 1212,
+      "sentence": "Benzinga detailed recent forecast adjustments from the most accurate analysts as JNJ gears up for its Q2 print.",
+      "context": "he most accurate analysts as JNJ gears up for its Q2 print.\nForecast Changes\nNeutral Sentiment:\nEight",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Eight",
+      "label": "CARDINAL",
+      "start": 1256,
+      "end": 1261,
+      "sentence": "Eight analyst projections on JNJ’s long-term growth—covering sales, R&D spend and margins—were published by Benzinga.",
+      "context": "its Q2 print.\nForecast Changes\nNeutral Sentiment:\nEight analyst projections on JNJ’s long-term growth—cov",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "JNJ",
+      "label": "ORG",
+      "start": 1285,
+      "end": 1288,
+      "sentence": "Eight analyst projections on JNJ’s long-term growth—covering sales, R&D spend and margins—were published by Benzinga.",
+      "context": "s\nNeutral Sentiment:\nEight analyst projections on JNJ’s long-term growth—covering sales, R&D spend and",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Benzinga",
+      "label": "ORG",
+      "start": 1364,
+      "end": 1372,
+      "sentence": "Eight analyst projections on JNJ’s long-term growth—covering sales, R&D spend and margins—were published by Benzinga.",
+      "context": "ng sales, R&D spend and margins—were published by Benzinga.\nAnalyst Projections\nNeutral Sentiment:\nJNJ was r",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "JNJ",
+      "label": "ORG",
+      "start": 1413,
+      "end": 1416,
+      "sentence": "JNJ was repeatedly cited in dividend-stock roundups, underscoring its appeal for income-seeking investors:",
+      "context": "Benzinga.\nAnalyst Projections\nNeutral Sentiment:\nJNJ was repeatedly cited in dividend-stock roundups,",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "5",
+      "label": "MONEY",
+      "start": 1585,
+      "end": 1586,
+      "sentence": "Top Healthcare Dividend Picks\nDividend Stocks to Double Up\nTurn $5K into $300K with JNJ\nNegative Sentiment:\nPre-market declines were driven by President Trump’s tariff threats against Canada, creating headwinds for healthcare and industrial names.",
+      "context": "Dividend Picks\nDividend Stocks to Double Up\nTurn $5K into $300K with JNJ\nNegative Sentiment:\nPre-mark",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "K",
+      "label": "MONEY",
+      "start": 1586,
+      "end": 1587,
+      "sentence": "Top Healthcare Dividend Picks\nDividend Stocks to Double Up\nTurn $5K into $300K with JNJ\nNegative Sentiment:\nPre-market declines were driven by President Trump’s tariff threats against Canada, creating headwinds for healthcare and industrial names.",
+      "context": "ividend Picks\nDividend Stocks to Double Up\nTurn $5K into $300K with JNJ\nNegative Sentiment:\nPre-marke",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "300",
+      "label": "MONEY",
+      "start": 1594,
+      "end": 1597,
+      "sentence": "Top Healthcare Dividend Picks\nDividend Stocks to Double Up\nTurn $5K into $300K with JNJ\nNegative Sentiment:\nPre-market declines were driven by President Trump’s tariff threats against Canada, creating headwinds for healthcare and industrial names.",
+      "context": "Picks\nDividend Stocks to Double Up\nTurn $5K into $300K with JNJ\nNegative Sentiment:\nPre-market declines",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "K",
+      "label": "MONEY",
+      "start": 1597,
+      "end": 1598,
+      "sentence": "Top Healthcare Dividend Picks\nDividend Stocks to Double Up\nTurn $5K into $300K with JNJ\nNegative Sentiment:\nPre-market declines were driven by President Trump’s tariff threats against Canada, creating headwinds for healthcare and industrial names.",
+      "context": "ks\nDividend Stocks to Double Up\nTurn $5K into $300K with JNJ\nNegative Sentiment:\nPre-market declines",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "JNJ",
+      "label": "ORG",
+      "start": 1604,
+      "end": 1607,
+      "sentence": "Top Healthcare Dividend Picks\nDividend Stocks to Double Up\nTurn $5K into $300K with JNJ\nNegative Sentiment:\nPre-market declines were driven by President Trump’s tariff threats against Canada, creating headwinds for healthcare and industrial names.",
+      "context": "dend Stocks to Double Up\nTurn $5K into $300K with JNJ\nNegative Sentiment:\nPre-market declines were driv",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Trump",
+      "label": "PERSON",
+      "start": 1673,
+      "end": 1678,
+      "sentence": "Top Healthcare Dividend Picks\nDividend Stocks to Double Up\nTurn $5K into $300K with JNJ\nNegative Sentiment:\nPre-market declines were driven by President Trump’s tariff threats against Canada, creating headwinds for healthcare and industrial names.",
+      "context": "ent:\nPre-market declines were driven by President Trump’s tariff threats against Canada, creating headwin",
+      "is_company": false,
+      "is_person": true,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Canada",
+      "label": "GPE",
+      "start": 1704,
+      "end": 1710,
+      "sentence": "Top Healthcare Dividend Picks\nDividend Stocks to Double Up\nTurn $5K into $300K with JNJ\nNegative Sentiment:\nPre-market declines were driven by President Trump’s tariff threats against Canada, creating headwinds for healthcare and industrial names.",
+      "context": "riven by President Trump’s tariff threats against Canada, creating headwinds for healthcare and industrial",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "JNJ",
+      "label": "ORG",
+      "start": 1873,
+      "end": 1876,
+      "sentence": "Tariff Threats\nOverall, positive pipeline developments and analyst upgrades provided upward momentum for JNJ shares, while macro trade-related concerns applied some downward pressure.",
+      "context": "and analyst upgrades provided upward momentum for JNJ shares, while macro trade-related concerns applie",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "1+ days ago",
+      "label": "DATE",
+      "start": 1959,
+      "end": 1970,
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "context": "d concerns applied some downward pressure.\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AI Generated",
+      "label": "ORG",
+      "start": 1971,
+      "end": 1983,
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "context": "pplied some downward pressure.\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    }
+  ],
+  "relationships": [
+    {
+      "type": "SVO",
+      "subject": "Stanley",
+      "verb": "raised",
+      "object": "target",
+      "sentence": "Positive Sentiment:\nMorgan Stanley raised its price target on JNJ from $169 to $171 and kept an \"equal weight\" rating, reflecting confidence in the company’s outlook.",
+      "importance": 8
+    },
+    {
+      "type": "SVO",
+      "subject": "JNJ",
+      "verb": "submitted",
+      "object": "NDA",
+      "sentence": "JNJ submitted a supplemental NDA to the FDA for its schizophrenia drug Caplyta based on strong relapse-prevention data, bolstering its psychiatric portfolio.",
+      "importance": 5
+    },
+    {
+      "type": "SVO",
+      "subject": "company",
+      "verb": "appointed",
+      "object": "Officer",
+      "sentence": "The company appointed a new Chief Medical Officer for its Electrophysiology business, enhancing leadership in a key MedTech segment.",
+      "importance": 1
+    },
+    {
+      "type": "SVO",
+      "subject": "analysts",
+      "verb": "released",
+      "object": "estimates",
+      "sentence": "AI-Driven Devices Article\nNeutral Sentiment:\nWall Street analysts released their Q2 estimates for JNJ’s top- and bottom-line metrics ahead of its July 16 earnings report.",
+      "importance": 6
+    },
+    {
+      "type": "SVO",
+      "subject": "Benzinga",
+      "verb": "detailed",
+      "object": "adjustments",
+      "sentence": "Benzinga detailed recent forecast adjustments from the most accurate analysts as JNJ gears up for its Q2 print.",
+      "importance": 4
+    },
+    {
+      "type": "SVO",
+      "subject": "developments",
+      "verb": "provided",
+      "object": "momentum",
+      "sentence": "Tariff Threats\nOverall, positive pipeline developments and analyst upgrades provided upward momentum for JNJ shares, while macro trade-related concerns applied some downward pressure.",
+      "importance": 5
+    },
+    {
+      "type": "SVO",
+      "subject": "concerns",
+      "verb": "applied",
+      "object": "pressure",
+      "sentence": "Tariff Threats\nOverall, positive pipeline developments and analyst upgrades provided upward momentum for JNJ shares, while macro trade-related concerns applied some downward pressure.",
+      "importance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Johnson",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "Johnson & Johnson (JNJ) shares moved today on a mix of analyst actions, pipeline progress and broader market sentiment.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Johnson",
+      "entity1_type": "ORG",
+      "entity2": "Johnson",
+      "entity2_type": "ORG",
+      "sentence": "Johnson & Johnson (JNJ) shares moved today on a mix of analyst actions, pipeline progress and broader market sentiment.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Johnson",
+      "entity1_type": "ORG",
+      "entity2": "JNJ",
+      "entity2_type": "ORG",
+      "sentence": "Johnson & Johnson (JNJ) shares moved today on a mix of analyst actions, pipeline progress and broader market sentiment.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Johnson",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "Johnson & Johnson (JNJ) shares moved today on a mix of analyst actions, pipeline progress and broader market sentiment.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Johnson",
+      "entity2_type": "ORG",
+      "sentence": "Johnson & Johnson (JNJ) shares moved today on a mix of analyst actions, pipeline progress and broader market sentiment.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "JNJ",
+      "entity2_type": "ORG",
+      "sentence": "Johnson & Johnson (JNJ) shares moved today on a mix of analyst actions, pipeline progress and broader market sentiment.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "Johnson & Johnson (JNJ) shares moved today on a mix of analyst actions, pipeline progress and broader market sentiment.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Johnson",
+      "entity1_type": "ORG",
+      "entity2": "JNJ",
+      "entity2_type": "ORG",
+      "sentence": "Johnson & Johnson (JNJ) shares moved today on a mix of analyst actions, pipeline progress and broader market sentiment.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Johnson",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "Johnson & Johnson (JNJ) shares moved today on a mix of analyst actions, pipeline progress and broader market sentiment.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JNJ",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "Johnson & Johnson (JNJ) shares moved today on a mix of analyst actions, pipeline progress and broader market sentiment.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "Stanley",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nMorgan Stanley raised its price target on JNJ from $169 to $171 and kept an \"equal weight\" rating, reflecting confidence in the company’s outlook.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "JNJ",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nMorgan Stanley raised its price target on JNJ from $169 to $171 and kept an \"equal weight\" rating, reflecting confidence in the company’s outlook.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "169",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nMorgan Stanley raised its price target on JNJ from $169 to $171 and kept an \"equal weight\" rating, reflecting confidence in the company’s outlook.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "171",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nMorgan Stanley raised its price target on JNJ from $169 to $171 and kept an \"equal weight\" rating, reflecting confidence in the company’s outlook.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "JNJ",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nMorgan Stanley raised its price target on JNJ from $169 to $171 and kept an \"equal weight\" rating, reflecting confidence in the company’s outlook.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "169",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nMorgan Stanley raised its price target on JNJ from $169 to $171 and kept an \"equal weight\" rating, reflecting confidence in the company’s outlook.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "171",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nMorgan Stanley raised its price target on JNJ from $169 to $171 and kept an \"equal weight\" rating, reflecting confidence in the company’s outlook.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JNJ",
+      "entity1_type": "ORG",
+      "entity2": "169",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nMorgan Stanley raised its price target on JNJ from $169 to $171 and kept an \"equal weight\" rating, reflecting confidence in the company’s outlook.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JNJ",
+      "entity1_type": "ORG",
+      "entity2": "171",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nMorgan Stanley raised its price target on JNJ from $169 to $171 and kept an \"equal weight\" rating, reflecting confidence in the company’s outlook.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "169",
+      "entity1_type": "MONEY",
+      "entity2": "171",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nMorgan Stanley raised its price target on JNJ from $169 to $171 and kept an \"equal weight\" rating, reflecting confidence in the company’s outlook.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "Stanley",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Forecast\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "Forecast",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Forecast\nPositive Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "\n",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Forecast\nPositive Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "Forecast",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Forecast\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "\n",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Forecast\nPositive Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Forecast",
+      "entity1_type": "ORG",
+      "entity2": "\n",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Forecast\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JNJ",
+      "entity1_type": "ORG",
+      "entity2": "FDA",
+      "entity2_type": "ORG",
+      "sentence": "JNJ submitted a supplemental NDA to the FDA for its schizophrenia drug Caplyta based on strong relapse-prevention data, bolstering its psychiatric portfolio.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JNJ",
+      "entity1_type": "ORG",
+      "entity2": "Caplyta",
+      "entity2_type": "PRODUCT",
+      "sentence": "JNJ submitted a supplemental NDA to the FDA for its schizophrenia drug Caplyta based on strong relapse-prevention data, bolstering its psychiatric portfolio.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FDA",
+      "entity1_type": "ORG",
+      "entity2": "Caplyta",
+      "entity2_type": "PRODUCT",
+      "sentence": "JNJ submitted a supplemental NDA to the FDA for its schizophrenia drug Caplyta based on strong relapse-prevention data, bolstering its psychiatric portfolio.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JNJ",
+      "entity1_type": "ORG",
+      "entity2": "three",
+      "entity2_type": "CARDINAL",
+      "sentence": "New CMO Appointment\nPositive Sentiment:\nJNJ is featured among three AI-driven medical device stocks to watch in 2025, highlighting its advances in diagnostics and surgical tech.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JNJ",
+      "entity1_type": "ORG",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "New CMO Appointment\nPositive Sentiment:\nJNJ is featured among three AI-driven medical device stocks to watch in 2025, highlighting its advances in diagnostics and surgical tech.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "three",
+      "entity1_type": "CARDINAL",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "New CMO Appointment\nPositive Sentiment:\nJNJ is featured among three AI-driven medical device stocks to watch in 2025, highlighting its advances in diagnostics and surgical tech.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "JNJ",
+      "entity2_type": "ORG",
+      "sentence": "AI-Driven Devices Article\nNeutral Sentiment:\nWall Street analysts released their Q2 estimates for JNJ’s top- and bottom-line metrics ahead of its July 16 earnings report.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "July",
+      "entity2_type": "DATE",
+      "sentence": "AI-Driven Devices Article\nNeutral Sentiment:\nWall Street analysts released their Q2 estimates for JNJ’s top- and bottom-line metrics ahead of its July 16 earnings report.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "16",
+      "entity2_type": "DATE",
+      "sentence": "AI-Driven Devices Article\nNeutral Sentiment:\nWall Street analysts released their Q2 estimates for JNJ’s top- and bottom-line metrics ahead of its July 16 earnings report.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JNJ",
+      "entity1_type": "ORG",
+      "entity2": "July",
+      "entity2_type": "DATE",
+      "sentence": "AI-Driven Devices Article\nNeutral Sentiment:\nWall Street analysts released their Q2 estimates for JNJ’s top- and bottom-line metrics ahead of its July 16 earnings report.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JNJ",
+      "entity1_type": "ORG",
+      "entity2": "16",
+      "entity2_type": "DATE",
+      "sentence": "AI-Driven Devices Article\nNeutral Sentiment:\nWall Street analysts released their Q2 estimates for JNJ’s top- and bottom-line metrics ahead of its July 16 earnings report.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "July",
+      "entity1_type": "DATE",
+      "entity2": "16",
+      "entity2_type": "DATE",
+      "sentence": "AI-Driven Devices Article\nNeutral Sentiment:\nWall Street analysts released their Q2 estimates for JNJ’s top- and bottom-line metrics ahead of its July 16 earnings report.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Benzinga",
+      "entity1_type": "ORG",
+      "entity2": "JNJ",
+      "entity2_type": "ORG",
+      "sentence": "Benzinga detailed recent forecast adjustments from the most accurate analysts as JNJ gears up for its Q2 print.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Benzinga",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "Benzinga detailed recent forecast adjustments from the most accurate analysts as JNJ gears up for its Q2 print.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JNJ",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "Benzinga detailed recent forecast adjustments from the most accurate analysts as JNJ gears up for its Q2 print.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Eight",
+      "entity1_type": "CARDINAL",
+      "entity2": "JNJ",
+      "entity2_type": "ORG",
+      "sentence": "Eight analyst projections on JNJ’s long-term growth—covering sales, R&D spend and margins—were published by Benzinga.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Eight",
+      "entity1_type": "CARDINAL",
+      "entity2": "Benzinga",
+      "entity2_type": "ORG",
+      "sentence": "Eight analyst projections on JNJ’s long-term growth—covering sales, R&D spend and margins—were published by Benzinga.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JNJ",
+      "entity1_type": "ORG",
+      "entity2": "Benzinga",
+      "entity2_type": "ORG",
+      "sentence": "Eight analyst projections on JNJ’s long-term growth—covering sales, R&D spend and margins—were published by Benzinga.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "5",
+      "entity1_type": "MONEY",
+      "entity2": "K",
+      "entity2_type": "MONEY",
+      "sentence": "Top Healthcare Dividend Picks\nDividend Stocks to Double Up\nTurn $5K into $300K with JNJ\nNegative Sentiment:\nPre-market declines were driven by President Trump’s tariff threats against Canada, creating headwinds for healthcare and industrial names.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "5",
+      "entity1_type": "MONEY",
+      "entity2": "300",
+      "entity2_type": "MONEY",
+      "sentence": "Top Healthcare Dividend Picks\nDividend Stocks to Double Up\nTurn $5K into $300K with JNJ\nNegative Sentiment:\nPre-market declines were driven by President Trump’s tariff threats against Canada, creating headwinds for healthcare and industrial names.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "5",
+      "entity1_type": "MONEY",
+      "entity2": "K",
+      "entity2_type": "MONEY",
+      "sentence": "Top Healthcare Dividend Picks\nDividend Stocks to Double Up\nTurn $5K into $300K with JNJ\nNegative Sentiment:\nPre-market declines were driven by President Trump’s tariff threats against Canada, creating headwinds for healthcare and industrial names.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "5",
+      "entity1_type": "MONEY",
+      "entity2": "JNJ",
+      "entity2_type": "ORG",
+      "sentence": "Top Healthcare Dividend Picks\nDividend Stocks to Double Up\nTurn $5K into $300K with JNJ\nNegative Sentiment:\nPre-market declines were driven by President Trump’s tariff threats against Canada, creating headwinds for healthcare and industrial names.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "5",
+      "entity1_type": "MONEY",
+      "entity2": "Trump",
+      "entity2_type": "PERSON",
+      "sentence": "Top Healthcare Dividend Picks\nDividend Stocks to Double Up\nTurn $5K into $300K with JNJ\nNegative Sentiment:\nPre-market declines were driven by President Trump’s tariff threats against Canada, creating headwinds for healthcare and industrial names.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "5",
+      "entity1_type": "MONEY",
+      "entity2": "Canada",
+      "entity2_type": "GPE",
+      "sentence": "Top Healthcare Dividend Picks\nDividend Stocks to Double Up\nTurn $5K into $300K with JNJ\nNegative Sentiment:\nPre-market declines were driven by President Trump’s tariff threats against Canada, creating headwinds for healthcare and industrial names.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "K",
+      "entity1_type": "MONEY",
+      "entity2": "300",
+      "entity2_type": "MONEY",
+      "sentence": "Top Healthcare Dividend Picks\nDividend Stocks to Double Up\nTurn $5K into $300K with JNJ\nNegative Sentiment:\nPre-market declines were driven by President Trump’s tariff threats against Canada, creating headwinds for healthcare and industrial names.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "K",
+      "entity1_type": "MONEY",
+      "entity2": "K",
+      "entity2_type": "MONEY",
+      "sentence": "Top Healthcare Dividend Picks\nDividend Stocks to Double Up\nTurn $5K into $300K with JNJ\nNegative Sentiment:\nPre-market declines were driven by President Trump’s tariff threats against Canada, creating headwinds for healthcare and industrial names.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "K",
+      "entity1_type": "MONEY",
+      "entity2": "JNJ",
+      "entity2_type": "ORG",
+      "sentence": "Top Healthcare Dividend Picks\nDividend Stocks to Double Up\nTurn $5K into $300K with JNJ\nNegative Sentiment:\nPre-market declines were driven by President Trump’s tariff threats against Canada, creating headwinds for healthcare and industrial names.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "K",
+      "entity1_type": "MONEY",
+      "entity2": "Trump",
+      "entity2_type": "PERSON",
+      "sentence": "Top Healthcare Dividend Picks\nDividend Stocks to Double Up\nTurn $5K into $300K with JNJ\nNegative Sentiment:\nPre-market declines were driven by President Trump’s tariff threats against Canada, creating headwinds for healthcare and industrial names.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "K",
+      "entity1_type": "MONEY",
+      "entity2": "Canada",
+      "entity2_type": "GPE",
+      "sentence": "Top Healthcare Dividend Picks\nDividend Stocks to Double Up\nTurn $5K into $300K with JNJ\nNegative Sentiment:\nPre-market declines were driven by President Trump’s tariff threats against Canada, creating headwinds for healthcare and industrial names.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "300",
+      "entity1_type": "MONEY",
+      "entity2": "K",
+      "entity2_type": "MONEY",
+      "sentence": "Top Healthcare Dividend Picks\nDividend Stocks to Double Up\nTurn $5K into $300K with JNJ\nNegative Sentiment:\nPre-market declines were driven by President Trump’s tariff threats against Canada, creating headwinds for healthcare and industrial names.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "300",
+      "entity1_type": "MONEY",
+      "entity2": "JNJ",
+      "entity2_type": "ORG",
+      "sentence": "Top Healthcare Dividend Picks\nDividend Stocks to Double Up\nTurn $5K into $300K with JNJ\nNegative Sentiment:\nPre-market declines were driven by President Trump’s tariff threats against Canada, creating headwinds for healthcare and industrial names.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "300",
+      "entity1_type": "MONEY",
+      "entity2": "Trump",
+      "entity2_type": "PERSON",
+      "sentence": "Top Healthcare Dividend Picks\nDividend Stocks to Double Up\nTurn $5K into $300K with JNJ\nNegative Sentiment:\nPre-market declines were driven by President Trump’s tariff threats against Canada, creating headwinds for healthcare and industrial names.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "300",
+      "entity1_type": "MONEY",
+      "entity2": "Canada",
+      "entity2_type": "GPE",
+      "sentence": "Top Healthcare Dividend Picks\nDividend Stocks to Double Up\nTurn $5K into $300K with JNJ\nNegative Sentiment:\nPre-market declines were driven by President Trump’s tariff threats against Canada, creating headwinds for healthcare and industrial names.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "K",
+      "entity1_type": "MONEY",
+      "entity2": "JNJ",
+      "entity2_type": "ORG",
+      "sentence": "Top Healthcare Dividend Picks\nDividend Stocks to Double Up\nTurn $5K into $300K with JNJ\nNegative Sentiment:\nPre-market declines were driven by President Trump’s tariff threats against Canada, creating headwinds for healthcare and industrial names.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "K",
+      "entity1_type": "MONEY",
+      "entity2": "Trump",
+      "entity2_type": "PERSON",
+      "sentence": "Top Healthcare Dividend Picks\nDividend Stocks to Double Up\nTurn $5K into $300K with JNJ\nNegative Sentiment:\nPre-market declines were driven by President Trump’s tariff threats against Canada, creating headwinds for healthcare and industrial names.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "K",
+      "entity1_type": "MONEY",
+      "entity2": "Canada",
+      "entity2_type": "GPE",
+      "sentence": "Top Healthcare Dividend Picks\nDividend Stocks to Double Up\nTurn $5K into $300K with JNJ\nNegative Sentiment:\nPre-market declines were driven by President Trump’s tariff threats against Canada, creating headwinds for healthcare and industrial names.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JNJ",
+      "entity1_type": "ORG",
+      "entity2": "Trump",
+      "entity2_type": "PERSON",
+      "sentence": "Top Healthcare Dividend Picks\nDividend Stocks to Double Up\nTurn $5K into $300K with JNJ\nNegative Sentiment:\nPre-market declines were driven by President Trump’s tariff threats against Canada, creating headwinds for healthcare and industrial names.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JNJ",
+      "entity1_type": "ORG",
+      "entity2": "Canada",
+      "entity2_type": "GPE",
+      "sentence": "Top Healthcare Dividend Picks\nDividend Stocks to Double Up\nTurn $5K into $300K with JNJ\nNegative Sentiment:\nPre-market declines were driven by President Trump’s tariff threats against Canada, creating headwinds for healthcare and industrial names.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Trump",
+      "entity1_type": "PERSON",
+      "entity2": "Canada",
+      "entity2_type": "GPE",
+      "sentence": "Top Healthcare Dividend Picks\nDividend Stocks to Double Up\nTurn $5K into $300K with JNJ\nNegative Sentiment:\nPre-market declines were driven by President Trump’s tariff threats against Canada, creating headwinds for healthcare and industrial names.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ago",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ago",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AI",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 1
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "a mix",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "analyst actions",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "pipeline progress",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "broader market sentiment",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "the key factors",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the stock’s performance",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Morgan Stanley",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its price target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "an \"equal weight\" rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the company’s outlook",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a supplemental NDA",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the FDA",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its schizophrenia drug",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "strong relapse-prevention data",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its psychiatric portfolio",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Caplyta sNDA Submission\nPositive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "The company",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a new Chief Medical Officer",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its Electrophysiology business",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a key MedTech segment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "New CMO Appointment\nPositive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "three AI-driven medical device stocks",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "its advances",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "surgical tech",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "AI-Driven Devices Article\nNeutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Wall Street analysts",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "their Q2 estimates",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "JNJ’s top- and bottom-line metrics",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its July 16 earnings report",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Q2 Outlook\nNeutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "recent forecast adjustments",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the most accurate analysts",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its Q2 print",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Forecast Changes\nNeutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Eight analyst projections",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "JNJ’s long-term growth",
+      "type": "noun_chunk",
+      "category": "trend"
+    },
+    {
+      "text": "R&D spend",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Analyst Projections\nNeutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "dividend-stock roundups",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "its appeal",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "income-seeking investors",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Top Healthcare Dividend Picks",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Dividend Stocks",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Pre-market declines",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "President Trump’s tariff threats",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "healthcare and industrial names",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "positive pipeline developments",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "analyst upgrades",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "upward momentum",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "JNJ shares",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "macro trade-related concerns",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "some downward pressure",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "$169",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$171",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$5",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$300",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "growth",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "market",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "market",
+      "type": "pattern",
+      "category": "market_term"
+    }
+  ],
+  "important_sentences": [
+    {
+      "text": "Top Healthcare Dividend Picks\nDividend Stocks to Double Up\nTurn $5K into $300K with JNJ\nNegative Sentiment:\nPre-market declines were driven by President Trump’s tariff threats against Canada, creating headwinds for healthcare and industrial names.",
+      "importance_score": 50,
+      "entity_count": 7,
+      "financial_keyword_count": 4,
+      "money_count": 4,
+      "company_count": 1,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Positive Sentiment:\nMorgan Stanley raised its price target on JNJ from $169 to $171 and kept an \"equal weight\" rating, reflecting confidence in the company’s outlook.",
+      "importance_score": 37,
+      "entity_count": 5,
+      "financial_keyword_count": 3,
+      "money_count": 2,
+      "company_count": 2,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Johnson & Johnson (JNJ) shares moved today on a mix of analyst actions, pipeline progress and broader market sentiment.",
+      "importance_score": 27,
+      "entity_count": 5,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Eight analyst projections on JNJ’s long-term growth—covering sales, R&D spend and margins—were published by Benzinga.",
+      "importance_score": 26,
+      "entity_count": 3,
+      "financial_keyword_count": 4,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "positive"
+    },
+    {
+      "text": "JNJ submitted a supplemental NDA to the FDA for its schizophrenia drug Caplyta based on strong relapse-prevention data, bolstering its psychiatric portfolio.",
+      "importance_score": 20,
+      "entity_count": 3,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Posted 1+ days ago\nAI Generated.",
+      "importance_score": 19,
+      "entity_count": 6,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "AI-Driven Devices Article\nNeutral Sentiment:\nWall Street analysts released their Q2 estimates for JNJ’s top- and bottom-line metrics ahead of its July 16 earnings report.",
+      "importance_score": 18,
+      "entity_count": 4,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Tariff Threats\nOverall, positive pipeline developments and analyst upgrades provided upward momentum for JNJ shares, while macro trade-related concerns applied some downward pressure.",
+      "importance_score": 18,
+      "entity_count": 1,
+      "financial_keyword_count": 4,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Benzinga detailed recent forecast adjustments from the most accurate analysts as JNJ gears up for its Q2 print.",
+      "importance_score": 17,
+      "entity_count": 3,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Morgan Stanley Forecast\nPositive Sentiment:",
+      "importance_score": 15,
+      "entity_count": 4,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "positive"
+    }
+  ],
+  "entity_statistics": {
+    "total_entities": 36,
+    "unique_entities": 23,
+    "type_counts": {
+      "ORG": 18,
+      "DATE": 7,
+      "MONEY": 6,
+      "PRODUCT": 1,
+      "CARDINAL": 2,
+      "PERSON": 1,
+      "GPE": 1
+    },
+    "type_distribution": {
+      "ORG": 0.5,
+      "DATE": 0.19444444444444445,
+      "MONEY": 0.16666666666666666,
+      "PRODUCT": 0.027777777777777776,
+      "CARDINAL": 0.05555555555555555,
+      "PERSON": 0.027777777777777776,
+      "GPE": 0.027777777777777776
+    },
+    "most_common_entities": [
+      [
+        "JNJ",
+        10
+      ],
+      [
+        "Q2",
+        3
+      ],
+      [
+        "Benzinga",
+        2
+      ],
+      [
+        "K",
+        2
+      ],
+      [
+        "Johnson & Johnson",
+        1
+      ],
+      [
+        "today",
+        1
+      ],
+      [
+        "Morgan Stanley",
+        1
+      ],
+      [
+        "169",
+        1
+      ],
+      [
+        "171",
+        1
+      ],
+      [
+        "Morgan Stanley Forecast\n",
+        1
+      ]
+    ],
+    "entity_types_found": [
+      "ORG",
+      "DATE",
+      "MONEY",
+      "PRODUCT",
+      "CARDINAL",
+      "PERSON",
+      "GPE"
+    ],
+    "company_entities": 18,
+    "person_entities": 1,
+    "financial_entities": 6,
+    "entity_density": 0.12811387900355872
+  },
+  "financial_analysis": {
+    "money_amounts": [
+      "169",
+      "171",
+      "5",
+      "K",
+      "300",
+      "K"
+    ],
+    "percentages": [],
+    "companies": [
+      "Johnson & Johnson",
+      "JNJ",
+      "Morgan Stanley",
+      "JNJ",
+      "Morgan Stanley Forecast\n",
+      "JNJ",
+      "FDA",
+      "MedTech",
+      "JNJ",
+      "JNJ",
+      "Benzinga",
+      "JNJ",
+      "JNJ",
+      "Benzinga",
+      "JNJ",
+      "JNJ",
+      "JNJ",
+      "AI Generated"
+    ],
+    "people": [
+      "Trump"
+    ],
+    "dates": [
+      "today",
+      "2025",
+      "Q2",
+      "July 16",
+      "Q2",
+      "Q2",
+      "1+ days ago"
+    ],
+    "financial_terms": [
+      "growth",
+      "earnings",
+      "stock",
+      "market"
+    ],
+    "financial_metrics": [],
+    "market_indicators": [
+      "rating",
+      "price",
+      "target"
+    ]
+  },
+  "temporal_analysis": {
+    "dates": [
+      "today",
+      "2025",
+      "Q2",
+      "July 16",
+      "Q2",
+      "Q2",
+      "1+ days ago"
+    ],
+    "time_expressions": [],
+    "temporal_relationships": [
+      "recent",
+      "today"
+    ],
+    "quarters": [
+      "Q2",
+      "Q2",
+      "Q2"
+    ],
+    "years": [
+      "2025"
+    ],
+    "time_periods": []
+  },
+  "sentiment_analysis": {
+    "positive_words": 9,
+    "negative_words": 1,
+    "positive_ratio": 0.03202846975088968,
+    "negative_ratio": 0.0035587188612099642,
+    "sentiment_score": 0.028469750889679717,
+    "sentiment_label": "positive",
+    "sentiment_strength": 0.028469750889679717,
+    "confidence": 0.2846975088967972
+  },
+  "industry_analysis": {
+    "dominant_industry": "healthcare",
+    "industry_scores": {
+      "tech": 3,
+      "finance": 0,
+      "healthcare": 6,
+      "energy": 0,
+      "retail": 0,
+      "automotive": 0,
+      "media": 0,
+      "industrial": 1,
+      "real_estate": 0,
+      "telecom": 0,
+      "food_beverage": 0,
+      "travel": 0,
+      "education": 0,
+      "professional": 0,
+      "mining": 0,
+      "aerospace": 0,
+      "environmental": 0,
+      "cannabis": 0
+    },
+    "confidence": 0.6
+  },
+  "market_analysis": {
+    "market_sentiment": "neutral",
+    "bullish_indicators": 1,
+    "bearish_indicators": 1,
+    "market_conditions": {
+      "volatility": "normal",
+      "volume": "normal",
+      "trend": "neutral"
+    },
+    "trading_activity": "normal"
+  },
+  "competitor_analysis": {
+    "companies_mentioned": [
+      "Johnson & Johnson",
+      "JNJ",
+      "Morgan Stanley",
+      "JNJ",
+      "Morgan Stanley Forecast\n",
+      "JNJ",
+      "FDA",
+      "MedTech",
+      "JNJ",
+      "JNJ",
+      "Benzinga",
+      "JNJ",
+      "JNJ",
+      "Benzinga",
+      "JNJ",
+      "JNJ",
+      "JNJ",
+      "AI Generated"
+    ],
+    "competitive_context": [],
+    "competitor_count": 18,
+    "has_competitive_language": false
+  },
+  "risk_analysis": {
+    "risk_sentences": [
+      "Top Healthcare Dividend Picks\nDividend Stocks to Double Up\nTurn $5K into $300K with JNJ\nNegative Sentiment:\nPre-market declines were driven by President Trump’s tariff threats against Canada, creating headwinds for healthcare and industrial names.",
+      "Tariff Threats\nOverall, positive pipeline developments and analyst upgrades provided upward momentum for JNJ shares, while macro trade-related concerns applied some downward pressure."
+    ],
+    "risk_count": 2,
+    "risk_level": "medium"
+  },
+  "opportunity_analysis": {
+    "opportunity_sentences": [
+      "Eight analyst projections on JNJ’s long-term growth—covering sales, R&D spend and margins—were published by Benzinga."
+    ],
+    "opportunity_count": 1,
+    "opportunity_level": "low"
+  },
+  "processing_metadata": {
+    "timestamp": "2025-07-13T04:52:17.943775",
+    "model_used": "en_core_web_trf",
+    "text_length": 2004
+  }
+}
