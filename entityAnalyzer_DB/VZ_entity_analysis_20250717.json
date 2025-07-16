@@ -1,0 +1,3504 @@
+{
+  "ticker": "VZ",
+  "entities": [
+    {
+      "text": "Verizon Communications Inc.",
+      "label": "ORG",
+      "start": 0,
+      "end": 27,
+      "sentence": "Verizon Communications Inc. (NYSE: VZ) shares are trading higher today, supported by positive contract news, network expansions, and strong dividend positioning, even as legal and earnings-season uncertainties introduce some caution.",
+      "context": "Verizon Communications Inc. (NYSE: VZ) shares are trading higher today, suppo",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "VZ",
+      "label": "ORG",
+      "start": 35,
+      "end": 37,
+      "sentence": "Verizon Communications Inc. (NYSE: VZ) shares are trading higher today, supported by positive contract news, network expansions, and strong dividend positioning, even as legal and earnings-season uncertainties introduce some caution.",
+      "context": "Verizon Communications Inc. (NYSE: VZ) shares are trading higher today, supported by po",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "today",
+      "label": "DATE",
+      "start": 65,
+      "end": 70,
+      "sentence": "Verizon Communications Inc. (NYSE: VZ) shares are trading higher today, supported by positive contract news, network expansions, and strong dividend positioning, even as legal and earnings-season uncertainties introduce some caution.",
+      "context": "cations Inc. (NYSE: VZ) shares are trading higher today, supported by positive contract news, network exp",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "FAA",
+      "label": "ORG",
+      "start": 254,
+      "end": 257,
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "context": "nties introduce some caution.\nPositive Sentiment:\nFAA confirms it will retain Verizon for its aviation",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Verizon",
+      "label": "ORG",
+      "start": 282,
+      "end": 289,
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "context": ".\nPositive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "US",
+      "label": "GPE",
+      "start": 396,
+      "end": 398,
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "context": "enue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon c",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "FAA",
+      "label": "ORG",
+      "start": 399,
+      "end": 402,
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "context": "e stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contr",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "L3Harris",
+      "label": "ORG",
+      "start": 429,
+      "end": 437,
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "context": "ice reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Verizon",
+      "label": "ORG",
+      "start": 439,
+      "end": 446,
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "context": "ility.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Musk",
+      "label": "PERSON",
+      "start": 462,
+      "end": 466,
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "context": "dering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands it",
+      "is_company": false,
+      "is_person": true,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Starlink",
+      "label": "ORG",
+      "start": 469,
+      "end": 477,
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "context": "replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Verizon",
+      "label": "ORG",
+      "start": 498,
+      "end": 505,
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "context": "ontracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell to",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Milton",
+      "label": "GPE",
+      "start": 562,
+      "end": 568,
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "context": "s its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "Verizon",
+      "label": "ORG",
+      "start": 622,
+      "end": 629,
+      "sentence": "New Verizon Cell Tower Goes Up in Milton\nPositive Sentiment:",
+      "context": "hancing network capacity and service quality.\nNew Verizon Cell Tower Goes Up in Milton\nPositive Sentiment:",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Milton",
+      "label": "GPE",
+      "start": 652,
+      "end": 658,
+      "sentence": "New Verizon Cell Tower Goes Up in Milton\nPositive Sentiment:",
+      "context": "ervice quality.\nNew Verizon Cell Tower Goes Up in Milton\nPositive Sentiment:\nDefenseOne highlights Verizon",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "DefenseOne",
+      "label": "ORG",
+      "start": 679,
+      "end": 689,
+      "sentence": "DefenseOne highlights Verizon’s Fixed Wireless Access and Frontline solutions improving public safety connectivity in Massachusetts.",
+      "context": "Cell Tower Goes Up in Milton\nPositive Sentiment:\nDefenseOne highlights Verizon’s Fixed Wireless Access and Fr",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Verizon",
+      "label": "ORG",
+      "start": 701,
+      "end": 708,
+      "sentence": "DefenseOne highlights Verizon’s Fixed Wireless Access and Frontline solutions improving public safety connectivity in Massachusetts.",
+      "context": "Milton\nPositive Sentiment:\nDefenseOne highlights Verizon’s Fixed Wireless Access and Frontline solutions i",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Fixed Wireless Access",
+      "label": "PRODUCT",
+      "start": 711,
+      "end": 732,
+      "sentence": "DefenseOne highlights Verizon’s Fixed Wireless Access and Frontline solutions improving public safety connectivity in Massachusetts.",
+      "context": "sitive Sentiment:\nDefenseOne highlights Verizon’s Fixed Wireless Access and Frontline solutions improving public safety c",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Massachusetts",
+      "label": "GPE",
+      "start": 797,
+      "end": 810,
+      "sentence": "DefenseOne highlights Verizon’s Fixed Wireless Access and Frontline solutions improving public safety connectivity in Massachusetts.",
+      "context": "solutions improving public safety connectivity in Massachusetts.\nHow Verizon is transforming public safety connec",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "Verizon",
+      "label": "ORG",
+      "start": 816,
+      "end": 823,
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "context": "public safety connectivity in Massachusetts.\nHow Verizon is transforming public safety connectivity in Mas",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Massachusetts",
+      "label": "GPE",
+      "start": 870,
+      "end": 883,
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "context": "zon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "Fixed Wireless Access",
+      "label": "PRODUCT",
+      "start": 889,
+      "end": 910,
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "context": "public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s ta",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "MarketBeat",
+      "label": "ORG",
+      "start": 945,
+      "end": 955,
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "context": "Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a r",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Verizon",
+      "label": "ORG",
+      "start": 994,
+      "end": 1001,
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "context": "MarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yie",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "6.5%",
+      "label": "PERCENT",
+      "start": 1034,
+      "end": 1038,
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "context": "ort calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "3",
+      "label": "CARDINAL",
+      "start": 1108,
+      "end": 1109,
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "context": "ling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "MarketBeat",
+      "label": "ORG",
+      "start": 1194,
+      "end": 1204,
+      "sentence": "MarketBeat ranks Verizon among July’s top dividend stocks, emphasizing its high 6.5% yield, low 9x forward P/E and a consensus price target 14% above current levels.",
+      "context": "Trump’s Tariff & Trade Reset\nPositive Sentiment:\nMarketBeat ranks Verizon among July’s top dividend stocks, e",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Verizon",
+      "label": "ORG",
+      "start": 1211,
+      "end": 1218,
+      "sentence": "MarketBeat ranks Verizon among July’s top dividend stocks, emphasizing its high 6.5% yield, low 9x forward P/E and a consensus price target 14% above current levels.",
+      "context": "Trade Reset\nPositive Sentiment:\nMarketBeat ranks Verizon among July’s top dividend stocks, emphasizing its",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "July",
+      "label": "DATE",
+      "start": 1225,
+      "end": 1229,
+      "sentence": "MarketBeat ranks Verizon among July’s top dividend stocks, emphasizing its high 6.5% yield, low 9x forward P/E and a consensus price target 14% above current levels.",
+      "context": "ositive Sentiment:\nMarketBeat ranks Verizon among July’s top dividend stocks, emphasizing its high 6.5%",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "6.5%",
+      "label": "PERCENT",
+      "start": 1274,
+      "end": 1278,
+      "sentence": "MarketBeat ranks Verizon among July’s top dividend stocks, emphasizing its high 6.5% yield, low 9x forward P/E and a consensus price target 14% above current levels.",
+      "context": "July’s top dividend stocks, emphasizing its high 6.5% yield, low 9x forward P/E and a consensus price t",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "14%",
+      "label": "PERCENT",
+      "start": 1334,
+      "end": 1337,
+      "sentence": "MarketBeat ranks Verizon among July’s top dividend stocks, emphasizing its high 6.5% yield, low 9x forward P/E and a consensus price target 14% above current levels.",
+      "context": ", low 9x forward P/E and a consensus price target 14% above current levels.\nWant Steady Income? 3 Top D",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "3",
+      "label": "CARDINAL",
+      "start": 1380,
+      "end": 1381,
+      "sentence": "3 Top Dividend Stocks for July 2025 (VZ)\nNeutral Sentiment:\nZacks analysts weigh Verizon’s Q2 outlook, citing potential earnings beat from 5G advances and bundling vs. pressure from soft margins and recent stock underperformance.",
+      "context": "get 14% above current levels.\nWant Steady Income? 3 Top Dividend Stocks for July 2025 (VZ)\nNeutral Se",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "July 2025",
+      "label": "DATE",
+      "start": 1406,
+      "end": 1415,
+      "sentence": "3 Top Dividend Stocks for July 2025 (VZ)\nNeutral Sentiment:\nZacks analysts weigh Verizon’s Q2 outlook, citing potential earnings beat from 5G advances and bundling vs. pressure from soft margins and recent stock underperformance.",
+      "context": "ls.\nWant Steady Income? 3 Top Dividend Stocks for July 2025 (VZ)\nNeutral Sentiment:\nZacks analysts weigh Veri",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Zacks",
+      "label": "ORG",
+      "start": 1440,
+      "end": 1445,
+      "sentence": "3 Top Dividend Stocks for July 2025 (VZ)\nNeutral Sentiment:\nZacks analysts weigh Verizon’s Q2 outlook, citing potential earnings beat from 5G advances and bundling vs. pressure from soft margins and recent stock underperformance.",
+      "context": "dend Stocks for July 2025 (VZ)\nNeutral Sentiment:\nZacks analysts weigh Verizon’s Q2 outlook, citing poten",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Verizon",
+      "label": "ORG",
+      "start": 1461,
+      "end": 1468,
+      "sentence": "3 Top Dividend Stocks for July 2025 (VZ)\nNeutral Sentiment:\nZacks analysts weigh Verizon’s Q2 outlook, citing potential earnings beat from 5G advances and bundling vs. pressure from soft margins and recent stock underperformance.",
+      "context": "2025 (VZ)\nNeutral Sentiment:\nZacks analysts weigh Verizon’s Q2 outlook, citing potential earnings beat from",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q2",
+      "label": "DATE",
+      "start": 1471,
+      "end": 1473,
+      "sentence": "3 Top Dividend Stocks for July 2025 (VZ)\nNeutral Sentiment:\nZacks analysts weigh Verizon’s Q2 outlook, citing potential earnings beat from 5G advances and bundling vs. pressure from soft margins and recent stock underperformance.",
+      "context": "Neutral Sentiment:\nZacks analysts weigh Verizon’s Q2 outlook, citing potential earnings beat from 5G a",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "VZ",
+      "label": "ORG",
+      "start": 1639,
+      "end": 1641,
+      "sentence": "Should You Buy, Sell or Hold VZ Stock Ahead of Q2 Earnings?",
+      "context": "ck underperformance.\nShould You Buy, Sell or Hold VZ Stock Ahead of Q2 Earnings?\nNeutral Sentiment:\nZa",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q2",
+      "label": "DATE",
+      "start": 1657,
+      "end": 1659,
+      "sentence": "Should You Buy, Sell or Hold VZ Stock Ahead of Q2 Earnings?",
+      "context": "e.\nShould You Buy, Sell or Hold VZ Stock Ahead of Q2 Earnings?\nNeutral Sentiment:\nZacks compares Veriz",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Zacks",
+      "label": "ORG",
+      "start": 1689,
+      "end": 1694,
+      "sentence": "Zacks compares Verizon and Charter in a 5G and fiber investment race, noting intensifying competition and similar capex commitments.\nVerizon or Charter: Which Telecom Stock is the Smarter Investment?\nNeutral Sentiment:",
+      "context": "VZ Stock Ahead of Q2 Earnings?\nNeutral Sentiment:\nZacks compares Verizon and Charter in a 5G and fiber in",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Verizon",
+      "label": "ORG",
+      "start": 1704,
+      "end": 1711,
+      "sentence": "Zacks compares Verizon and Charter in a 5G and fiber investment race, noting intensifying competition and similar capex commitments.\nVerizon or Charter: Which Telecom Stock is the Smarter Investment?\nNeutral Sentiment:",
+      "context": "of Q2 Earnings?\nNeutral Sentiment:\nZacks compares Verizon and Charter in a 5G and fiber investment race, no",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Charter",
+      "label": "ORG",
+      "start": 1716,
+      "end": 1723,
+      "sentence": "Zacks compares Verizon and Charter in a 5G and fiber investment race, noting intensifying competition and similar capex commitments.\nVerizon or Charter: Which Telecom Stock is the Smarter Investment?\nNeutral Sentiment:",
+      "context": "gs?\nNeutral Sentiment:\nZacks compares Verizon and Charter in a 5G and fiber investment race, noting intensi",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Verizon",
+      "label": "ORG",
+      "start": 1822,
+      "end": 1829,
+      "sentence": "Zacks compares Verizon and Charter in a 5G and fiber investment race, noting intensifying competition and similar capex commitments.\nVerizon or Charter: Which Telecom Stock is the Smarter Investment?\nNeutral Sentiment:",
+      "context": "ifying competition and similar capex commitments.\nVerizon or Charter: Which Telecom Stock is the Smarter In",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Charter",
+      "label": "ORG",
+      "start": 1833,
+      "end": 1840,
+      "sentence": "Zacks compares Verizon and Charter in a 5G and fiber investment race, noting intensifying competition and similar capex commitments.\nVerizon or Charter: Which Telecom Stock is the Smarter Investment?\nNeutral Sentiment:",
+      "context": "etition and similar capex commitments.\nVerizon or Charter: Which Telecom Stock is the Smarter Investment?\nN",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Zacks",
+      "label": "ORG",
+      "start": 1908,
+      "end": 1913,
+      "sentence": "Zacks notes that Verizon is a trending stock among investors, prompting scrutiny of its valuation and near-term catalysts.",
+      "context": "ock is the Smarter Investment?\nNeutral Sentiment:\nZacks notes that Verizon is a trending stock among inve",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Verizon",
+      "label": "ORG",
+      "start": 1925,
+      "end": 1932,
+      "sentence": "Zacks notes that Verizon is a trending stock among investors, prompting scrutiny of its valuation and near-term catalysts.",
+      "context": "r Investment?\nNeutral Sentiment:\nZacks notes that Verizon is a trending stock among investors, prompting sc",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Verizon Communications Inc.",
+      "label": "ORG",
+      "start": 2031,
+      "end": 2058,
+      "sentence": "Verizon Communications Inc. (VZ) Is a Trending Stock:",
+      "context": "crutiny of its valuation and near-term catalysts.\nVerizon Communications Inc. (VZ) Is a Trending Stock: Facts to Know Before Be",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "VZ",
+      "label": "ORG",
+      "start": 2060,
+      "end": 2062,
+      "sentence": "Verizon Communications Inc. (VZ) Is a Trending Stock:",
+      "context": "near-term catalysts.\nVerizon Communications Inc. (VZ) Is a Trending Stock: Facts to Know Before Bettin",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Verizon",
+      "label": "ORG",
+      "start": 2162,
+      "end": 2169,
+      "sentence": "Facts to Know Before Betting on It\nNeutral Sentiment:\nLocal reports describe Verizon stores giving out free backpacks to the community, boosting brand goodwill with minimal direct financial impact.",
+      "context": "g on It\nNeutral Sentiment:\nLocal reports describe Verizon stores giving out free backpacks to the community",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Verizon",
+      "label": "ORG",
+      "start": 2283,
+      "end": 2290,
+      "sentence": "Verizon stores to give out free backpacks\nNegative Sentiment:\nBloomberg Law reports WilmerHale’s disqualification as Verizon counsel in the Headwater dispute, raising concerns about potential legal delays and increased litigation costs.",
+      "context": "nd goodwill with minimal direct financial impact.\nVerizon stores to give out free backpacks\nNegative Sentim",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Bloomberg Law",
+      "label": "ORG",
+      "start": 2345,
+      "end": 2358,
+      "sentence": "Verizon stores to give out free backpacks\nNegative Sentiment:\nBloomberg Law reports WilmerHale’s disqualification as Verizon counsel in the Headwater dispute, raising concerns about potential legal delays and increased litigation costs.",
+      "context": "es to give out free backpacks\nNegative Sentiment:\nBloomberg Law reports WilmerHale’s disqualification as Verizon",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "WilmerHale",
+      "label": "ORG",
+      "start": 2367,
+      "end": 2377,
+      "sentence": "Verizon stores to give out free backpacks\nNegative Sentiment:\nBloomberg Law reports WilmerHale’s disqualification as Verizon counsel in the Headwater dispute, raising concerns about potential legal delays and increased litigation costs.",
+      "context": "ckpacks\nNegative Sentiment:\nBloomberg Law reports WilmerHale’s disqualification as Verizon counsel in the Head",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Verizon",
+      "label": "ORG",
+      "start": 2400,
+      "end": 2407,
+      "sentence": "Verizon stores to give out free backpacks\nNegative Sentiment:\nBloomberg Law reports WilmerHale’s disqualification as Verizon counsel in the Headwater dispute, raising concerns about potential legal delays and increased litigation costs.",
+      "context": "berg Law reports WilmerHale’s disqualification as Verizon counsel in the Headwater dispute, raising concern",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Headwater",
+      "label": "ORG",
+      "start": 2423,
+      "end": 2432,
+      "sentence": "Verizon stores to give out free backpacks\nNegative Sentiment:\nBloomberg Law reports WilmerHale’s disqualification as Verizon counsel in the Headwater dispute, raising concerns about potential legal delays and increased litigation costs.",
+      "context": "Hale’s disqualification as Verizon counsel in the Headwater dispute, raising concerns about potential legal d",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "WilmerHale",
+      "label": "ORG",
+      "start": 2520,
+      "end": 2530,
+      "sentence": "WilmerHale Disqualified as Verizon Counsel in Headwater Dispute\nPosted 43m ago\nAI Generated.",
+      "context": "tial legal delays and increased litigation costs.\nWilmerHale Disqualified as Verizon Counsel in Headwater Disp",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Verizon",
+      "label": "ORG",
+      "start": 2547,
+      "end": 2554,
+      "sentence": "WilmerHale Disqualified as Verizon Counsel in Headwater Dispute\nPosted 43m ago\nAI Generated.",
+      "context": "ased litigation costs.\nWilmerHale Disqualified as Verizon Counsel in Headwater Dispute\nPosted 43m ago\nAI Ge",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Headwater",
+      "label": "ORG",
+      "start": 2566,
+      "end": 2575,
+      "sentence": "WilmerHale Disqualified as Verizon Counsel in Headwater Dispute\nPosted 43m ago\nAI Generated.",
+      "context": "ts.\nWilmerHale Disqualified as Verizon Counsel in Headwater Dispute\nPosted 43m ago\nAI Generated. May Contain",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "43m ago",
+      "label": "DATE",
+      "start": 2591,
+      "end": 2598,
+      "sentence": "WilmerHale Disqualified as Verizon Counsel in Headwater Dispute\nPosted 43m ago\nAI Generated.",
+      "context": "ed as Verizon Counsel in Headwater Dispute\nPosted 43m ago\nAI Generated. May Contain Errors.",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AI",
+      "label": "ORG",
+      "start": 2599,
+      "end": 2601,
+      "sentence": "WilmerHale Disqualified as Verizon Counsel in Headwater Dispute\nPosted 43m ago\nAI Generated.",
+      "context": "rizon Counsel in Headwater Dispute\nPosted 43m ago\nAI Generated. May Contain Errors.",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    }
+  ],
+  "relationships": [
+    {
+      "type": "SVO",
+      "subject": "uncertainties",
+      "verb": "introduce",
+      "object": "caution",
+      "sentence": "Verizon Communications Inc. (NYSE: VZ) shares are trading higher today, supported by positive contract news, network expansions, and strong dividend positioning, even as legal and earnings-season uncertainties introduce some caution.",
+      "importance": 8
+    },
+    {
+      "type": "SVO",
+      "subject": "it",
+      "verb": "retain",
+      "object": "Verizon",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "importance": 12
+    },
+    {
+      "type": "SVO",
+      "subject": "FAA",
+      "verb": "considering",
+      "object": "Sentiment",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "importance": 12
+    },
+    {
+      "type": "SVO",
+      "subject": "Verizon",
+      "verb": "expands",
+      "object": "footprint",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "importance": 12
+    },
+    {
+      "type": "SVO",
+      "subject": "DefenseOne",
+      "verb": "highlights",
+      "object": "solutions",
+      "sentence": "DefenseOne highlights Verizon’s Fixed Wireless Access and Frontline solutions improving public safety connectivity in Massachusetts.",
+      "importance": 6
+    },
+    {
+      "type": "SVO",
+      "subject": "Verizon",
+      "verb": "transforming",
+      "object": "connectivity",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "importance": 17
+    },
+    {
+      "type": "SVO",
+      "subject": "report",
+      "verb": "calls",
+      "object": "Verizon",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "importance": 17
+    },
+    {
+      "type": "SVO",
+      "subject": "MarketBeat",
+      "verb": "ranks",
+      "object": "Verizon",
+      "sentence": "MarketBeat ranks Verizon among July’s top dividend stocks, emphasizing its high 6.5% yield, low 9x forward P/E and a consensus price target 14% above current levels.",
+      "importance": 10
+    },
+    {
+      "type": "SVO",
+      "subject": "Stocks",
+      "verb": "weigh",
+      "object": "outlook",
+      "sentence": "3 Top Dividend Stocks for July 2025 (VZ)\nNeutral Sentiment:\nZacks analysts weigh Verizon’s Q2 outlook, citing potential earnings beat from 5G advances and bundling vs. pressure from soft margins and recent stock underperformance.",
+      "importance": 10
+    },
+    {
+      "type": "SVO",
+      "subject": "analysts",
+      "verb": "weigh",
+      "object": "outlook",
+      "sentence": "3 Top Dividend Stocks for July 2025 (VZ)\nNeutral Sentiment:\nZacks analysts weigh Verizon’s Q2 outlook, citing potential earnings beat from 5G advances and bundling vs. pressure from soft margins and recent stock underperformance.",
+      "importance": 10
+    },
+    {
+      "type": "SVO",
+      "subject": "Zacks",
+      "verb": "compares",
+      "object": "Verizon",
+      "sentence": "Zacks compares Verizon and Charter in a 5G and fiber investment race, noting intensifying competition and similar capex commitments.\nVerizon or Charter: Which Telecom Stock is the Smarter Investment?\nNeutral Sentiment:",
+      "importance": 10
+    },
+    {
+      "type": "SVO",
+      "subject": "stores",
+      "verb": "giving",
+      "object": "backpacks",
+      "sentence": "Facts to Know Before Betting on It\nNeutral Sentiment:\nLocal reports describe Verizon stores giving out free backpacks to the community, boosting brand goodwill with minimal direct financial impact.",
+      "importance": 1
+    },
+    {
+      "type": "SVO",
+      "subject": "stores",
+      "verb": "give",
+      "object": "backpacks",
+      "sentence": "Verizon stores to give out free backpacks\nNegative Sentiment:\nBloomberg Law reports WilmerHale’s disqualification as Verizon counsel in the Headwater dispute, raising concerns about potential legal delays and increased litigation costs.",
+      "importance": 7
+    },
+    {
+      "type": "SVO",
+      "subject": "Law",
+      "verb": "reports",
+      "object": "disqualification",
+      "sentence": "Verizon stores to give out free backpacks\nNegative Sentiment:\nBloomberg Law reports WilmerHale’s disqualification as Verizon counsel in the Headwater dispute, raising concerns about potential legal delays and increased litigation costs.",
+      "importance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "Communications",
+      "entity2_type": "ORG",
+      "sentence": "Verizon Communications Inc. (NYSE: VZ) shares are trading higher today, supported by positive contract news, network expansions, and strong dividend positioning, even as legal and earnings-season uncertainties introduce some caution.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Verizon Communications Inc. (NYSE: VZ) shares are trading higher today, supported by positive contract news, network expansions, and strong dividend positioning, even as legal and earnings-season uncertainties introduce some caution.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "VZ",
+      "entity2_type": "ORG",
+      "sentence": "Verizon Communications Inc. (NYSE: VZ) shares are trading higher today, supported by positive contract news, network expansions, and strong dividend positioning, even as legal and earnings-season uncertainties introduce some caution.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "Verizon Communications Inc. (NYSE: VZ) shares are trading higher today, supported by positive contract news, network expansions, and strong dividend positioning, even as legal and earnings-season uncertainties introduce some caution.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Communications",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Verizon Communications Inc. (NYSE: VZ) shares are trading higher today, supported by positive contract news, network expansions, and strong dividend positioning, even as legal and earnings-season uncertainties introduce some caution.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Communications",
+      "entity1_type": "ORG",
+      "entity2": "VZ",
+      "entity2_type": "ORG",
+      "sentence": "Verizon Communications Inc. (NYSE: VZ) shares are trading higher today, supported by positive contract news, network expansions, and strong dividend positioning, even as legal and earnings-season uncertainties introduce some caution.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Communications",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "Verizon Communications Inc. (NYSE: VZ) shares are trading higher today, supported by positive contract news, network expansions, and strong dividend positioning, even as legal and earnings-season uncertainties introduce some caution.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "VZ",
+      "entity2_type": "ORG",
+      "sentence": "Verizon Communications Inc. (NYSE: VZ) shares are trading higher today, supported by positive contract news, network expansions, and strong dividend positioning, even as legal and earnings-season uncertainties introduce some caution.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "Verizon Communications Inc. (NYSE: VZ) shares are trading higher today, supported by positive contract news, network expansions, and strong dividend positioning, even as legal and earnings-season uncertainties introduce some caution.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "VZ",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "Verizon Communications Inc. (NYSE: VZ) shares are trading higher today, supported by positive contract news, network expansions, and strong dividend positioning, even as legal and earnings-season uncertainties introduce some caution.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FAA",
+      "entity1_type": "ORG",
+      "entity2": "Verizon",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FAA",
+      "entity1_type": "ORG",
+      "entity2": "US",
+      "entity2_type": "GPE",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FAA",
+      "entity1_type": "ORG",
+      "entity2": "FAA",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FAA",
+      "entity1_type": "ORG",
+      "entity2": "L3Harris",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FAA",
+      "entity1_type": "ORG",
+      "entity2": "Verizon",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FAA",
+      "entity1_type": "ORG",
+      "entity2": "Musk",
+      "entity2_type": "PERSON",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 33
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FAA",
+      "entity1_type": "ORG",
+      "entity2": "Starlink",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 35
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FAA",
+      "entity1_type": "ORG",
+      "entity2": "Verizon",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 41
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FAA",
+      "entity1_type": "ORG",
+      "entity2": "Milton",
+      "entity2_type": "GPE",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 52
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "US",
+      "entity2_type": "GPE",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "FAA",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "L3Harris",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "Verizon",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "Musk",
+      "entity2_type": "PERSON",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "Starlink",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "Verizon",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 36
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "Milton",
+      "entity2_type": "GPE",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 47
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "US",
+      "entity1_type": "GPE",
+      "entity2": "FAA",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "US",
+      "entity1_type": "GPE",
+      "entity2": "L3Harris",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "US",
+      "entity1_type": "GPE",
+      "entity2": "Verizon",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "US",
+      "entity1_type": "GPE",
+      "entity2": "Musk",
+      "entity2_type": "PERSON",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "US",
+      "entity1_type": "GPE",
+      "entity2": "Starlink",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "US",
+      "entity1_type": "GPE",
+      "entity2": "Verizon",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "US",
+      "entity1_type": "GPE",
+      "entity2": "Milton",
+      "entity2_type": "GPE",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FAA",
+      "entity1_type": "ORG",
+      "entity2": "L3Harris",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FAA",
+      "entity1_type": "ORG",
+      "entity2": "Verizon",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FAA",
+      "entity1_type": "ORG",
+      "entity2": "Musk",
+      "entity2_type": "PERSON",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FAA",
+      "entity1_type": "ORG",
+      "entity2": "Starlink",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FAA",
+      "entity1_type": "ORG",
+      "entity2": "Verizon",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FAA",
+      "entity1_type": "ORG",
+      "entity2": "Milton",
+      "entity2_type": "GPE",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "L3Harris",
+      "entity1_type": "ORG",
+      "entity2": "Verizon",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "L3Harris",
+      "entity1_type": "ORG",
+      "entity2": "Musk",
+      "entity2_type": "PERSON",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "L3Harris",
+      "entity1_type": "ORG",
+      "entity2": "Starlink",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "L3Harris",
+      "entity1_type": "ORG",
+      "entity2": "Verizon",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "L3Harris",
+      "entity1_type": "ORG",
+      "entity2": "Milton",
+      "entity2_type": "GPE",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "Musk",
+      "entity2_type": "PERSON",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "Starlink",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "Verizon",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "Milton",
+      "entity2_type": "GPE",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Musk",
+      "entity1_type": "PERSON",
+      "entity2": "Starlink",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Musk",
+      "entity1_type": "PERSON",
+      "entity2": "Verizon",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Musk",
+      "entity1_type": "PERSON",
+      "entity2": "Milton",
+      "entity2_type": "GPE",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starlink",
+      "entity1_type": "ORG",
+      "entity2": "Verizon",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starlink",
+      "entity1_type": "ORG",
+      "entity2": "Milton",
+      "entity2_type": "GPE",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "Milton",
+      "entity2_type": "GPE",
+      "sentence": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "Milton",
+      "entity2_type": "GPE",
+      "sentence": "New Verizon Cell Tower Goes Up in Milton\nPositive Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "DefenseOne",
+      "entity1_type": "ORG",
+      "entity2": "Verizon",
+      "entity2_type": "ORG",
+      "sentence": "DefenseOne highlights Verizon’s Fixed Wireless Access and Frontline solutions improving public safety connectivity in Massachusetts.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "DefenseOne",
+      "entity1_type": "ORG",
+      "entity2": "Fixed",
+      "entity2_type": "PRODUCT",
+      "sentence": "DefenseOne highlights Verizon’s Fixed Wireless Access and Frontline solutions improving public safety connectivity in Massachusetts.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "DefenseOne",
+      "entity1_type": "ORG",
+      "entity2": "Wireless",
+      "entity2_type": "PRODUCT",
+      "sentence": "DefenseOne highlights Verizon’s Fixed Wireless Access and Frontline solutions improving public safety connectivity in Massachusetts.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "DefenseOne",
+      "entity1_type": "ORG",
+      "entity2": "Access",
+      "entity2_type": "PRODUCT",
+      "sentence": "DefenseOne highlights Verizon’s Fixed Wireless Access and Frontline solutions improving public safety connectivity in Massachusetts.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "DefenseOne",
+      "entity1_type": "ORG",
+      "entity2": "Massachusetts",
+      "entity2_type": "GPE",
+      "sentence": "DefenseOne highlights Verizon’s Fixed Wireless Access and Frontline solutions improving public safety connectivity in Massachusetts.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "Fixed",
+      "entity2_type": "PRODUCT",
+      "sentence": "DefenseOne highlights Verizon’s Fixed Wireless Access and Frontline solutions improving public safety connectivity in Massachusetts.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "Wireless",
+      "entity2_type": "PRODUCT",
+      "sentence": "DefenseOne highlights Verizon’s Fixed Wireless Access and Frontline solutions improving public safety connectivity in Massachusetts.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "Access",
+      "entity2_type": "PRODUCT",
+      "sentence": "DefenseOne highlights Verizon’s Fixed Wireless Access and Frontline solutions improving public safety connectivity in Massachusetts.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "Massachusetts",
+      "entity2_type": "GPE",
+      "sentence": "DefenseOne highlights Verizon’s Fixed Wireless Access and Frontline solutions improving public safety connectivity in Massachusetts.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fixed",
+      "entity1_type": "PRODUCT",
+      "entity2": "Wireless",
+      "entity2_type": "PRODUCT",
+      "sentence": "DefenseOne highlights Verizon’s Fixed Wireless Access and Frontline solutions improving public safety connectivity in Massachusetts.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fixed",
+      "entity1_type": "PRODUCT",
+      "entity2": "Access",
+      "entity2_type": "PRODUCT",
+      "sentence": "DefenseOne highlights Verizon’s Fixed Wireless Access and Frontline solutions improving public safety connectivity in Massachusetts.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fixed",
+      "entity1_type": "PRODUCT",
+      "entity2": "Massachusetts",
+      "entity2_type": "GPE",
+      "sentence": "DefenseOne highlights Verizon’s Fixed Wireless Access and Frontline solutions improving public safety connectivity in Massachusetts.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wireless",
+      "entity1_type": "PRODUCT",
+      "entity2": "Access",
+      "entity2_type": "PRODUCT",
+      "sentence": "DefenseOne highlights Verizon’s Fixed Wireless Access and Frontline solutions improving public safety connectivity in Massachusetts.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wireless",
+      "entity1_type": "PRODUCT",
+      "entity2": "Massachusetts",
+      "entity2_type": "GPE",
+      "sentence": "DefenseOne highlights Verizon’s Fixed Wireless Access and Frontline solutions improving public safety connectivity in Massachusetts.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Access",
+      "entity1_type": "PRODUCT",
+      "entity2": "Massachusetts",
+      "entity2_type": "GPE",
+      "sentence": "DefenseOne highlights Verizon’s Fixed Wireless Access and Frontline solutions improving public safety connectivity in Massachusetts.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "Massachusetts",
+      "entity2_type": "GPE",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "Fixed",
+      "entity2_type": "PRODUCT",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "Wireless",
+      "entity2_type": "PRODUCT",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "Access",
+      "entity2_type": "PRODUCT",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "MarketBeat",
+      "entity2_type": "ORG",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "Verizon",
+      "entity2_type": "ORG",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "6.5",
+      "entity2_type": "PERCENT",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 36
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 37
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "3",
+      "entity2_type": "CARDINAL",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 53
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Massachusetts",
+      "entity1_type": "GPE",
+      "entity2": "Fixed",
+      "entity2_type": "PRODUCT",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Massachusetts",
+      "entity1_type": "GPE",
+      "entity2": "Wireless",
+      "entity2_type": "PRODUCT",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Massachusetts",
+      "entity1_type": "GPE",
+      "entity2": "Access",
+      "entity2_type": "PRODUCT",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Massachusetts",
+      "entity1_type": "GPE",
+      "entity2": "MarketBeat",
+      "entity2_type": "ORG",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Massachusetts",
+      "entity1_type": "GPE",
+      "entity2": "Verizon",
+      "entity2_type": "ORG",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Massachusetts",
+      "entity1_type": "GPE",
+      "entity2": "6.5",
+      "entity2_type": "PERCENT",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Massachusetts",
+      "entity1_type": "GPE",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Massachusetts",
+      "entity1_type": "GPE",
+      "entity2": "3",
+      "entity2_type": "CARDINAL",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 46
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fixed",
+      "entity1_type": "PRODUCT",
+      "entity2": "Wireless",
+      "entity2_type": "PRODUCT",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fixed",
+      "entity1_type": "PRODUCT",
+      "entity2": "Access",
+      "entity2_type": "PRODUCT",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fixed",
+      "entity1_type": "PRODUCT",
+      "entity2": "MarketBeat",
+      "entity2_type": "ORG",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fixed",
+      "entity1_type": "PRODUCT",
+      "entity2": "Verizon",
+      "entity2_type": "ORG",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fixed",
+      "entity1_type": "PRODUCT",
+      "entity2": "6.5",
+      "entity2_type": "PERCENT",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fixed",
+      "entity1_type": "PRODUCT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fixed",
+      "entity1_type": "PRODUCT",
+      "entity2": "3",
+      "entity2_type": "CARDINAL",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 44
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wireless",
+      "entity1_type": "PRODUCT",
+      "entity2": "Access",
+      "entity2_type": "PRODUCT",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wireless",
+      "entity1_type": "PRODUCT",
+      "entity2": "MarketBeat",
+      "entity2_type": "ORG",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wireless",
+      "entity1_type": "PRODUCT",
+      "entity2": "Verizon",
+      "entity2_type": "ORG",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wireless",
+      "entity1_type": "PRODUCT",
+      "entity2": "6.5",
+      "entity2_type": "PERCENT",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wireless",
+      "entity1_type": "PRODUCT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wireless",
+      "entity1_type": "PRODUCT",
+      "entity2": "3",
+      "entity2_type": "CARDINAL",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 43
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Access",
+      "entity1_type": "PRODUCT",
+      "entity2": "MarketBeat",
+      "entity2_type": "ORG",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Access",
+      "entity1_type": "PRODUCT",
+      "entity2": "Verizon",
+      "entity2_type": "ORG",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Access",
+      "entity1_type": "PRODUCT",
+      "entity2": "6.5",
+      "entity2_type": "PERCENT",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Access",
+      "entity1_type": "PRODUCT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Access",
+      "entity1_type": "PRODUCT",
+      "entity2": "3",
+      "entity2_type": "CARDINAL",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 42
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MarketBeat",
+      "entity1_type": "ORG",
+      "entity2": "Verizon",
+      "entity2_type": "ORG",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MarketBeat",
+      "entity1_type": "ORG",
+      "entity2": "6.5",
+      "entity2_type": "PERCENT",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MarketBeat",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MarketBeat",
+      "entity1_type": "ORG",
+      "entity2": "3",
+      "entity2_type": "CARDINAL",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 34
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "6.5",
+      "entity2_type": "PERCENT",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "3",
+      "entity2_type": "CARDINAL",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "6.5",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "6.5",
+      "entity1_type": "PERCENT",
+      "entity2": "3",
+      "entity2_type": "CARDINAL",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "3",
+      "entity2_type": "CARDINAL",
+      "sentence": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MarketBeat",
+      "entity1_type": "ORG",
+      "entity2": "Verizon",
+      "entity2_type": "ORG",
+      "sentence": "MarketBeat ranks Verizon among July’s top dividend stocks, emphasizing its high 6.5% yield, low 9x forward P/E and a consensus price target 14% above current levels.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MarketBeat",
+      "entity1_type": "ORG",
+      "entity2": "July",
+      "entity2_type": "DATE",
+      "sentence": "MarketBeat ranks Verizon among July’s top dividend stocks, emphasizing its high 6.5% yield, low 9x forward P/E and a consensus price target 14% above current levels.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MarketBeat",
+      "entity1_type": "ORG",
+      "entity2": "6.5",
+      "entity2_type": "PERCENT",
+      "sentence": "MarketBeat ranks Verizon among July’s top dividend stocks, emphasizing its high 6.5% yield, low 9x forward P/E and a consensus price target 14% above current levels.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MarketBeat",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "MarketBeat ranks Verizon among July’s top dividend stocks, emphasizing its high 6.5% yield, low 9x forward P/E and a consensus price target 14% above current levels.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MarketBeat",
+      "entity1_type": "ORG",
+      "entity2": "14",
+      "entity2_type": "PERCENT",
+      "sentence": "MarketBeat ranks Verizon among July’s top dividend stocks, emphasizing its high 6.5% yield, low 9x forward P/E and a consensus price target 14% above current levels.",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MarketBeat",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "MarketBeat ranks Verizon among July’s top dividend stocks, emphasizing its high 6.5% yield, low 9x forward P/E and a consensus price target 14% above current levels.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "July",
+      "entity2_type": "DATE",
+      "sentence": "MarketBeat ranks Verizon among July’s top dividend stocks, emphasizing its high 6.5% yield, low 9x forward P/E and a consensus price target 14% above current levels.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "6.5",
+      "entity2_type": "PERCENT",
+      "sentence": "MarketBeat ranks Verizon among July’s top dividend stocks, emphasizing its high 6.5% yield, low 9x forward P/E and a consensus price target 14% above current levels.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "MarketBeat ranks Verizon among July’s top dividend stocks, emphasizing its high 6.5% yield, low 9x forward P/E and a consensus price target 14% above current levels.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "14",
+      "entity2_type": "PERCENT",
+      "sentence": "MarketBeat ranks Verizon among July’s top dividend stocks, emphasizing its high 6.5% yield, low 9x forward P/E and a consensus price target 14% above current levels.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "MarketBeat ranks Verizon among July’s top dividend stocks, emphasizing its high 6.5% yield, low 9x forward P/E and a consensus price target 14% above current levels.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "July",
+      "entity1_type": "DATE",
+      "entity2": "6.5",
+      "entity2_type": "PERCENT",
+      "sentence": "MarketBeat ranks Verizon among July’s top dividend stocks, emphasizing its high 6.5% yield, low 9x forward P/E and a consensus price target 14% above current levels.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "July",
+      "entity1_type": "DATE",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "MarketBeat ranks Verizon among July’s top dividend stocks, emphasizing its high 6.5% yield, low 9x forward P/E and a consensus price target 14% above current levels.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "July",
+      "entity1_type": "DATE",
+      "entity2": "14",
+      "entity2_type": "PERCENT",
+      "sentence": "MarketBeat ranks Verizon among July’s top dividend stocks, emphasizing its high 6.5% yield, low 9x forward P/E and a consensus price target 14% above current levels.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "July",
+      "entity1_type": "DATE",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "MarketBeat ranks Verizon among July’s top dividend stocks, emphasizing its high 6.5% yield, low 9x forward P/E and a consensus price target 14% above current levels.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "6.5",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "MarketBeat ranks Verizon among July’s top dividend stocks, emphasizing its high 6.5% yield, low 9x forward P/E and a consensus price target 14% above current levels.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "6.5",
+      "entity1_type": "PERCENT",
+      "entity2": "14",
+      "entity2_type": "PERCENT",
+      "sentence": "MarketBeat ranks Verizon among July’s top dividend stocks, emphasizing its high 6.5% yield, low 9x forward P/E and a consensus price target 14% above current levels.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "6.5",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "MarketBeat ranks Verizon among July’s top dividend stocks, emphasizing its high 6.5% yield, low 9x forward P/E and a consensus price target 14% above current levels.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "14",
+      "entity2_type": "PERCENT",
+      "sentence": "MarketBeat ranks Verizon among July’s top dividend stocks, emphasizing its high 6.5% yield, low 9x forward P/E and a consensus price target 14% above current levels.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "MarketBeat ranks Verizon among July’s top dividend stocks, emphasizing its high 6.5% yield, low 9x forward P/E and a consensus price target 14% above current levels.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "14",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "MarketBeat ranks Verizon among July’s top dividend stocks, emphasizing its high 6.5% yield, low 9x forward P/E and a consensus price target 14% above current levels.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3",
+      "entity1_type": "CARDINAL",
+      "entity2": "July",
+      "entity2_type": "DATE",
+      "sentence": "3 Top Dividend Stocks for July 2025 (VZ)\nNeutral Sentiment:\nZacks analysts weigh Verizon’s Q2 outlook, citing potential earnings beat from 5G advances and bundling vs. pressure from soft margins and recent stock underperformance.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3",
+      "entity1_type": "CARDINAL",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "3 Top Dividend Stocks for July 2025 (VZ)\nNeutral Sentiment:\nZacks analysts weigh Verizon’s Q2 outlook, citing potential earnings beat from 5G advances and bundling vs. pressure from soft margins and recent stock underperformance.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3",
+      "entity1_type": "CARDINAL",
+      "entity2": "Zacks",
+      "entity2_type": "ORG",
+      "sentence": "3 Top Dividend Stocks for July 2025 (VZ)\nNeutral Sentiment:\nZacks analysts weigh Verizon’s Q2 outlook, citing potential earnings beat from 5G advances and bundling vs. pressure from soft margins and recent stock underperformance.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3",
+      "entity1_type": "CARDINAL",
+      "entity2": "Verizon",
+      "entity2_type": "ORG",
+      "sentence": "3 Top Dividend Stocks for July 2025 (VZ)\nNeutral Sentiment:\nZacks analysts weigh Verizon’s Q2 outlook, citing potential earnings beat from 5G advances and bundling vs. pressure from soft margins and recent stock underperformance.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3",
+      "entity1_type": "CARDINAL",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "3 Top Dividend Stocks for July 2025 (VZ)\nNeutral Sentiment:\nZacks analysts weigh Verizon’s Q2 outlook, citing potential earnings beat from 5G advances and bundling vs. pressure from soft margins and recent stock underperformance.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "July",
+      "entity1_type": "DATE",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "3 Top Dividend Stocks for July 2025 (VZ)\nNeutral Sentiment:\nZacks analysts weigh Verizon’s Q2 outlook, citing potential earnings beat from 5G advances and bundling vs. pressure from soft margins and recent stock underperformance.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "July",
+      "entity1_type": "DATE",
+      "entity2": "Zacks",
+      "entity2_type": "ORG",
+      "sentence": "3 Top Dividend Stocks for July 2025 (VZ)\nNeutral Sentiment:\nZacks analysts weigh Verizon’s Q2 outlook, citing potential earnings beat from 5G advances and bundling vs. pressure from soft margins and recent stock underperformance.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "July",
+      "entity1_type": "DATE",
+      "entity2": "Verizon",
+      "entity2_type": "ORG",
+      "sentence": "3 Top Dividend Stocks for July 2025 (VZ)\nNeutral Sentiment:\nZacks analysts weigh Verizon’s Q2 outlook, citing potential earnings beat from 5G advances and bundling vs. pressure from soft margins and recent stock underperformance.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "July",
+      "entity1_type": "DATE",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "3 Top Dividend Stocks for July 2025 (VZ)\nNeutral Sentiment:\nZacks analysts weigh Verizon’s Q2 outlook, citing potential earnings beat from 5G advances and bundling vs. pressure from soft margins and recent stock underperformance.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "Zacks",
+      "entity2_type": "ORG",
+      "sentence": "3 Top Dividend Stocks for July 2025 (VZ)\nNeutral Sentiment:\nZacks analysts weigh Verizon’s Q2 outlook, citing potential earnings beat from 5G advances and bundling vs. pressure from soft margins and recent stock underperformance.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "Verizon",
+      "entity2_type": "ORG",
+      "sentence": "3 Top Dividend Stocks for July 2025 (VZ)\nNeutral Sentiment:\nZacks analysts weigh Verizon’s Q2 outlook, citing potential earnings beat from 5G advances and bundling vs. pressure from soft margins and recent stock underperformance.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "3 Top Dividend Stocks for July 2025 (VZ)\nNeutral Sentiment:\nZacks analysts weigh Verizon’s Q2 outlook, citing potential earnings beat from 5G advances and bundling vs. pressure from soft margins and recent stock underperformance.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "Verizon",
+      "entity2_type": "ORG",
+      "sentence": "3 Top Dividend Stocks for July 2025 (VZ)\nNeutral Sentiment:\nZacks analysts weigh Verizon’s Q2 outlook, citing potential earnings beat from 5G advances and bundling vs. pressure from soft margins and recent stock underperformance.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "3 Top Dividend Stocks for July 2025 (VZ)\nNeutral Sentiment:\nZacks analysts weigh Verizon’s Q2 outlook, citing potential earnings beat from 5G advances and bundling vs. pressure from soft margins and recent stock underperformance.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "3 Top Dividend Stocks for July 2025 (VZ)\nNeutral Sentiment:\nZacks analysts weigh Verizon’s Q2 outlook, citing potential earnings beat from 5G advances and bundling vs. pressure from soft margins and recent stock underperformance.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "VZ",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "Should You Buy, Sell or Hold VZ Stock Ahead of Q2 Earnings?",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "Verizon",
+      "entity2_type": "ORG",
+      "sentence": "Zacks compares Verizon and Charter in a 5G and fiber investment race, noting intensifying competition and similar capex commitments.\nVerizon or Charter: Which Telecom Stock is the Smarter Investment?\nNeutral Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "Charter",
+      "entity2_type": "ORG",
+      "sentence": "Zacks compares Verizon and Charter in a 5G and fiber investment race, noting intensifying competition and similar capex commitments.\nVerizon or Charter: Which Telecom Stock is the Smarter Investment?\nNeutral Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "Verizon",
+      "entity2_type": "ORG",
+      "sentence": "Zacks compares Verizon and Charter in a 5G and fiber investment race, noting intensifying competition and similar capex commitments.\nVerizon or Charter: Which Telecom Stock is the Smarter Investment?\nNeutral Sentiment:",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "Charter",
+      "entity2_type": "ORG",
+      "sentence": "Zacks compares Verizon and Charter in a 5G and fiber investment race, noting intensifying competition and similar capex commitments.\nVerizon or Charter: Which Telecom Stock is the Smarter Investment?\nNeutral Sentiment:",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "Charter",
+      "entity2_type": "ORG",
+      "sentence": "Zacks compares Verizon and Charter in a 5G and fiber investment race, noting intensifying competition and similar capex commitments.\nVerizon or Charter: Which Telecom Stock is the Smarter Investment?\nNeutral Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "Verizon",
+      "entity2_type": "ORG",
+      "sentence": "Zacks compares Verizon and Charter in a 5G and fiber investment race, noting intensifying competition and similar capex commitments.\nVerizon or Charter: Which Telecom Stock is the Smarter Investment?\nNeutral Sentiment:",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "Charter",
+      "entity2_type": "ORG",
+      "sentence": "Zacks compares Verizon and Charter in a 5G and fiber investment race, noting intensifying competition and similar capex commitments.\nVerizon or Charter: Which Telecom Stock is the Smarter Investment?\nNeutral Sentiment:",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Charter",
+      "entity1_type": "ORG",
+      "entity2": "Verizon",
+      "entity2_type": "ORG",
+      "sentence": "Zacks compares Verizon and Charter in a 5G and fiber investment race, noting intensifying competition and similar capex commitments.\nVerizon or Charter: Which Telecom Stock is the Smarter Investment?\nNeutral Sentiment:",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Charter",
+      "entity1_type": "ORG",
+      "entity2": "Charter",
+      "entity2_type": "ORG",
+      "sentence": "Zacks compares Verizon and Charter in a 5G and fiber investment race, noting intensifying competition and similar capex commitments.\nVerizon or Charter: Which Telecom Stock is the Smarter Investment?\nNeutral Sentiment:",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "Charter",
+      "entity2_type": "ORG",
+      "sentence": "Zacks compares Verizon and Charter in a 5G and fiber investment race, noting intensifying competition and similar capex commitments.\nVerizon or Charter: Which Telecom Stock is the Smarter Investment?\nNeutral Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "Verizon",
+      "entity2_type": "ORG",
+      "sentence": "Zacks notes that Verizon is a trending stock among investors, prompting scrutiny of its valuation and near-term catalysts.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "Communications",
+      "entity2_type": "ORG",
+      "sentence": "Verizon Communications Inc. (VZ) Is a Trending Stock:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Verizon Communications Inc. (VZ) Is a Trending Stock:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "VZ",
+      "entity2_type": "ORG",
+      "sentence": "Verizon Communications Inc. (VZ) Is a Trending Stock:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Communications",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Verizon Communications Inc. (VZ) Is a Trending Stock:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Communications",
+      "entity1_type": "ORG",
+      "entity2": "VZ",
+      "entity2_type": "ORG",
+      "sentence": "Verizon Communications Inc. (VZ) Is a Trending Stock:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "VZ",
+      "entity2_type": "ORG",
+      "sentence": "Verizon Communications Inc. (VZ) Is a Trending Stock:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "Bloomberg",
+      "entity2_type": "ORG",
+      "sentence": "Verizon stores to give out free backpacks\nNegative Sentiment:\nBloomberg Law reports WilmerHale’s disqualification as Verizon counsel in the Headwater dispute, raising concerns about potential legal delays and increased litigation costs.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "Law",
+      "entity2_type": "ORG",
+      "sentence": "Verizon stores to give out free backpacks\nNegative Sentiment:\nBloomberg Law reports WilmerHale’s disqualification as Verizon counsel in the Headwater dispute, raising concerns about potential legal delays and increased litigation costs.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "WilmerHale",
+      "entity2_type": "ORG",
+      "sentence": "Verizon stores to give out free backpacks\nNegative Sentiment:\nBloomberg Law reports WilmerHale’s disqualification as Verizon counsel in the Headwater dispute, raising concerns about potential legal delays and increased litigation costs.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "Verizon",
+      "entity2_type": "ORG",
+      "sentence": "Verizon stores to give out free backpacks\nNegative Sentiment:\nBloomberg Law reports WilmerHale’s disqualification as Verizon counsel in the Headwater dispute, raising concerns about potential legal delays and increased litigation costs.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "Headwater",
+      "entity2_type": "ORG",
+      "sentence": "Verizon stores to give out free backpacks\nNegative Sentiment:\nBloomberg Law reports WilmerHale’s disqualification as Verizon counsel in the Headwater dispute, raising concerns about potential legal delays and increased litigation costs.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bloomberg",
+      "entity1_type": "ORG",
+      "entity2": "Law",
+      "entity2_type": "ORG",
+      "sentence": "Verizon stores to give out free backpacks\nNegative Sentiment:\nBloomberg Law reports WilmerHale’s disqualification as Verizon counsel in the Headwater dispute, raising concerns about potential legal delays and increased litigation costs.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bloomberg",
+      "entity1_type": "ORG",
+      "entity2": "WilmerHale",
+      "entity2_type": "ORG",
+      "sentence": "Verizon stores to give out free backpacks\nNegative Sentiment:\nBloomberg Law reports WilmerHale’s disqualification as Verizon counsel in the Headwater dispute, raising concerns about potential legal delays and increased litigation costs.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bloomberg",
+      "entity1_type": "ORG",
+      "entity2": "Verizon",
+      "entity2_type": "ORG",
+      "sentence": "Verizon stores to give out free backpacks\nNegative Sentiment:\nBloomberg Law reports WilmerHale’s disqualification as Verizon counsel in the Headwater dispute, raising concerns about potential legal delays and increased litigation costs.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bloomberg",
+      "entity1_type": "ORG",
+      "entity2": "Headwater",
+      "entity2_type": "ORG",
+      "sentence": "Verizon stores to give out free backpacks\nNegative Sentiment:\nBloomberg Law reports WilmerHale’s disqualification as Verizon counsel in the Headwater dispute, raising concerns about potential legal delays and increased litigation costs.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Law",
+      "entity1_type": "ORG",
+      "entity2": "WilmerHale",
+      "entity2_type": "ORG",
+      "sentence": "Verizon stores to give out free backpacks\nNegative Sentiment:\nBloomberg Law reports WilmerHale’s disqualification as Verizon counsel in the Headwater dispute, raising concerns about potential legal delays and increased litigation costs.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Law",
+      "entity1_type": "ORG",
+      "entity2": "Verizon",
+      "entity2_type": "ORG",
+      "sentence": "Verizon stores to give out free backpacks\nNegative Sentiment:\nBloomberg Law reports WilmerHale’s disqualification as Verizon counsel in the Headwater dispute, raising concerns about potential legal delays and increased litigation costs.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Law",
+      "entity1_type": "ORG",
+      "entity2": "Headwater",
+      "entity2_type": "ORG",
+      "sentence": "Verizon stores to give out free backpacks\nNegative Sentiment:\nBloomberg Law reports WilmerHale’s disqualification as Verizon counsel in the Headwater dispute, raising concerns about potential legal delays and increased litigation costs.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "WilmerHale",
+      "entity1_type": "ORG",
+      "entity2": "Verizon",
+      "entity2_type": "ORG",
+      "sentence": "Verizon stores to give out free backpacks\nNegative Sentiment:\nBloomberg Law reports WilmerHale’s disqualification as Verizon counsel in the Headwater dispute, raising concerns about potential legal delays and increased litigation costs.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "WilmerHale",
+      "entity1_type": "ORG",
+      "entity2": "Headwater",
+      "entity2_type": "ORG",
+      "sentence": "Verizon stores to give out free backpacks\nNegative Sentiment:\nBloomberg Law reports WilmerHale’s disqualification as Verizon counsel in the Headwater dispute, raising concerns about potential legal delays and increased litigation costs.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "Headwater",
+      "entity2_type": "ORG",
+      "sentence": "Verizon stores to give out free backpacks\nNegative Sentiment:\nBloomberg Law reports WilmerHale’s disqualification as Verizon counsel in the Headwater dispute, raising concerns about potential legal delays and increased litigation costs.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "WilmerHale",
+      "entity1_type": "ORG",
+      "entity2": "Verizon",
+      "entity2_type": "ORG",
+      "sentence": "WilmerHale Disqualified as Verizon Counsel in Headwater Dispute\nPosted 43m ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "WilmerHale",
+      "entity1_type": "ORG",
+      "entity2": "Headwater",
+      "entity2_type": "ORG",
+      "sentence": "WilmerHale Disqualified as Verizon Counsel in Headwater Dispute\nPosted 43m ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "WilmerHale",
+      "entity1_type": "ORG",
+      "entity2": "43",
+      "entity2_type": "DATE",
+      "sentence": "WilmerHale Disqualified as Verizon Counsel in Headwater Dispute\nPosted 43m ago\nAI Generated.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "WilmerHale",
+      "entity1_type": "ORG",
+      "entity2": "m",
+      "entity2_type": "DATE",
+      "sentence": "WilmerHale Disqualified as Verizon Counsel in Headwater Dispute\nPosted 43m ago\nAI Generated.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "WilmerHale",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "WilmerHale Disqualified as Verizon Counsel in Headwater Dispute\nPosted 43m ago\nAI Generated.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "WilmerHale",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "WilmerHale Disqualified as Verizon Counsel in Headwater Dispute\nPosted 43m ago\nAI Generated.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "Headwater",
+      "entity2_type": "ORG",
+      "sentence": "WilmerHale Disqualified as Verizon Counsel in Headwater Dispute\nPosted 43m ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "43",
+      "entity2_type": "DATE",
+      "sentence": "WilmerHale Disqualified as Verizon Counsel in Headwater Dispute\nPosted 43m ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "m",
+      "entity2_type": "DATE",
+      "sentence": "WilmerHale Disqualified as Verizon Counsel in Headwater Dispute\nPosted 43m ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "WilmerHale Disqualified as Verizon Counsel in Headwater Dispute\nPosted 43m ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Verizon",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "WilmerHale Disqualified as Verizon Counsel in Headwater Dispute\nPosted 43m ago\nAI Generated.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Headwater",
+      "entity1_type": "ORG",
+      "entity2": "43",
+      "entity2_type": "DATE",
+      "sentence": "WilmerHale Disqualified as Verizon Counsel in Headwater Dispute\nPosted 43m ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Headwater",
+      "entity1_type": "ORG",
+      "entity2": "m",
+      "entity2_type": "DATE",
+      "sentence": "WilmerHale Disqualified as Verizon Counsel in Headwater Dispute\nPosted 43m ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Headwater",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "WilmerHale Disqualified as Verizon Counsel in Headwater Dispute\nPosted 43m ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Headwater",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "WilmerHale Disqualified as Verizon Counsel in Headwater Dispute\nPosted 43m ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "43",
+      "entity1_type": "DATE",
+      "entity2": "m",
+      "entity2_type": "DATE",
+      "sentence": "WilmerHale Disqualified as Verizon Counsel in Headwater Dispute\nPosted 43m ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "43",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "WilmerHale Disqualified as Verizon Counsel in Headwater Dispute\nPosted 43m ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "43",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "WilmerHale Disqualified as Verizon Counsel in Headwater Dispute\nPosted 43m ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "m",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "WilmerHale Disqualified as Verizon Counsel in Headwater Dispute\nPosted 43m ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "m",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "WilmerHale Disqualified as Verizon Counsel in Headwater Dispute\nPosted 43m ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ago",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "WilmerHale Disqualified as Verizon Counsel in Headwater Dispute\nPosted 43m ago\nAI Generated.",
+      "distance": 2
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "positive contract news",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "network expansions",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "strong dividend positioning",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "legal and earnings-season uncertainties",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "some caution",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its aviation telecom contracts",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a key revenue stream",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "service reliability",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "US FAA",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Verizon contracts",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Musk's Starlink",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its coverage footprint",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a new cell tower",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "network capacity",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "service quality",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "New Verizon Cell Tower",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Verizon’s Fixed Wireless Access and Frontline solutions",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "public safety connectivity",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "public safety connectivity",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Fixed Wireless Access",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "MarketBeat’s tariff-and-trade reset report",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "a reliable income play",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its 6.5% dividend yield",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "falling 5G capex",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "debt levels",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "3 Stocks",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Trump’s Tariff & Trade Reset",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "July’s top dividend stocks",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "its high 6.5% yield",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "low 9x forward P/E",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a consensus price target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "current levels",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Steady Income",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "3 Top Dividend Stocks",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Zacks analysts",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Verizon’s Q2 outlook",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "potential earnings beat",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "5G advances",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "soft margins",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "recent stock underperformance",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "VZ Stock",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Q2 Earnings",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "intensifying competition",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "similar capex commitments",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Which Telecom Stock",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "the Smarter Investment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a trending stock",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "its valuation",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "near-term catalysts",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Verizon Communications Inc.",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a Trending Stock",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Local reports",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Verizon stores",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "free backpacks",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the community",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "brand goodwill",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "minimal direct financial impact",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Verizon stores",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "free backpacks",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Bloomberg Law",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "WilmerHale’s disqualification",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Verizon counsel",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the Headwater dispute",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "potential legal delays",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "increased litigation costs",
+      "type": "noun_chunk",
+      "category": "trend"
+    },
+    {
+      "text": "Verizon Counsel",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Headwater Dispute",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "6.5%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "6.5%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "14%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "revenue",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "trading",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "investment",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Investment",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Stock",
+      "type": "pattern",
+      "category": "market_term"
+    }
+  ],
+  "important_sentences": [
+    {
+      "text": "Positive Sentiment:\nFAA confirms it will retain Verizon for its aviation telecom contracts, preserving a key revenue stream and underscoring service reliability.\nUS FAA not considering replacing L3Harris, Verizon contracts with Musk's Starlink\nPositive Sentiment:\nVerizon expands its coverage footprint with a new cell tower in Milton, enhancing network capacity and service quality.",
+      "importance_score": 54,
+      "entity_count": 10,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 7,
+      "sentiment": "positive"
+    },
+    {
+      "text": "How Verizon is transforming public safety connectivity in Massachusetts with Fixed Wireless Access and Frontline\nPositive Sentiment:\nMarketBeat’s tariff-and-trade reset report calls Verizon a reliable income play with its 6.5% dividend yield, falling 5G capex and debt levels pointing to upside.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "importance_score": 53,
+      "entity_count": 10,
+      "financial_keyword_count": 7,
+      "money_count": 0,
+      "company_count": 3,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Zacks compares Verizon and Charter in a 5G and fiber investment race, noting intensifying competition and similar capex commitments.\nVerizon or Charter: Which Telecom Stock is the Smarter Investment?\nNeutral Sentiment:",
+      "importance_score": 45,
+      "entity_count": 5,
+      "financial_keyword_count": 5,
+      "money_count": 0,
+      "company_count": 5,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Verizon stores to give out free backpacks\nNegative Sentiment:\nBloomberg Law reports WilmerHale’s disqualification as Verizon counsel in the Headwater dispute, raising concerns about potential legal delays and increased litigation costs.",
+      "importance_score": 35,
+      "entity_count": 6,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 5,
+      "sentiment": "negative"
+    },
+    {
+      "text": "WilmerHale Disqualified as Verizon Counsel in Headwater Dispute\nPosted 43m ago\nAI Generated.",
+      "importance_score": 33,
+      "entity_count": 7,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "3 Top Dividend Stocks for July 2025 (VZ)\nNeutral Sentiment:\nZacks analysts weigh Verizon’s Q2 outlook, citing potential earnings beat from 5G advances and bundling vs. pressure from soft margins and recent stock underperformance.",
+      "importance_score": 32,
+      "entity_count": 6,
+      "financial_keyword_count": 4,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "MarketBeat ranks Verizon among July’s top dividend stocks, emphasizing its high 6.5% yield, low 9x forward P/E and a consensus price target 14% above current levels.",
+      "importance_score": 31,
+      "entity_count": 7,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Verizon Communications Inc. (NYSE: VZ) shares are trading higher today, supported by positive contract news, network expansions, and strong dividend positioning, even as legal and earnings-season uncertainties introduce some caution.",
+      "importance_score": 27,
+      "entity_count": 5,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Should You Buy, Sell or Hold VZ Stock Ahead of Q2 Earnings?",
+      "importance_score": 23,
+      "entity_count": 2,
+      "financial_keyword_count": 5,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "DefenseOne highlights Verizon’s Fixed Wireless Access and Frontline solutions improving public safety connectivity in Massachusetts.",
+      "importance_score": 20,
+      "entity_count": 6,
+      "financial_keyword_count": 0,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    }
+  ],
+  "entity_statistics": {
+    "total_entities": 58,
+    "unique_entities": 27,
+    "type_counts": {
+      "ORG": 39,
+      "DATE": 6,
+      "GPE": 5,
+      "PERSON": 1,
+      "PRODUCT": 2,
+      "PERCENT": 3,
+      "CARDINAL": 2
+    },
+    "type_distribution": {
+      "ORG": 0.6724137931034483,
+      "DATE": 0.10344827586206896,
+      "GPE": 0.08620689655172414,
+      "PERSON": 0.017241379310344827,
+      "PRODUCT": 0.034482758620689655,
+      "PERCENT": 0.05172413793103448,
+      "CARDINAL": 0.034482758620689655
+    },
+    "most_common_entities": [
+      [
+        "Verizon",
+        16
+      ],
+      [
+        "VZ",
+        3
+      ],
+      [
+        "Zacks",
+        3
+      ],
+      [
+        "Verizon Communications Inc.",
+        2
+      ],
+      [
+        "FAA",
+        2
+      ],
+      [
+        "Milton",
+        2
+      ],
+      [
+        "Fixed Wireless Access",
+        2
+      ],
+      [
+        "Massachusetts",
+        2
+      ],
+      [
+        "MarketBeat",
+        2
+      ],
+      [
+        "6.5%",
+        2
+      ]
+    ],
+    "entity_types_found": [
+      "ORG",
+      "DATE",
+      "GPE",
+      "PERSON",
+      "PRODUCT",
+      "PERCENT",
+      "CARDINAL"
+    ],
+    "company_entities": 39,
+    "person_entities": 1,
+    "financial_entities": 3,
+    "entity_density": 0.16022099447513813
+  },
+  "financial_analysis": {
+    "money_amounts": [],
+    "percentages": [
+      "6.5%",
+      "6.5%",
+      "14%"
+    ],
+    "companies": [
+      "Verizon Communications Inc.",
+      "VZ",
+      "FAA",
+      "Verizon",
+      "FAA",
+      "L3Harris",
+      "Verizon",
+      "Starlink",
+      "Verizon",
+      "Verizon",
+      "DefenseOne",
+      "Verizon",
+      "Verizon",
+      "MarketBeat",
+      "Verizon",
+      "MarketBeat",
+      "Verizon",
+      "Zacks",
+      "Verizon",
+      "VZ",
+      "Zacks",
+      "Verizon",
+      "Charter",
+      "Verizon",
+      "Charter",
+      "Zacks",
+      "Verizon",
+      "Verizon Communications Inc.",
+      "VZ",
+      "Verizon",
+      "Verizon",
+      "Bloomberg Law",
+      "WilmerHale",
+      "Verizon",
+      "Headwater",
+      "WilmerHale",
+      "Verizon",
+      "Headwater",
+      "AI"
+    ],
+    "people": [
+      "Musk"
+    ],
+    "dates": [
+      "today",
+      "July",
+      "July 2025",
+      "Q2",
+      "Q2",
+      "43m ago"
+    ],
+    "financial_terms": [
+      "revenue",
+      "Stock",
+      "Earnings",
+      "investment",
+      "earnings",
+      "stock",
+      "trading",
+      "Investment"
+    ],
+    "financial_metrics": [],
+    "market_indicators": [
+      "price",
+      "target"
+    ]
+  },
+  "temporal_analysis": {
+    "dates": [
+      "today",
+      "July",
+      "July 2025",
+      "Q2",
+      "Q2",
+      "43m ago"
+    ],
+    "time_expressions": [],
+    "temporal_relationships": [
+      "today",
+      "recent"
+    ],
+    "quarters": [
+      "Q2",
+      "Q2"
+    ],
+    "years": [
+      "July 2025"
+    ],
+    "time_periods": []
+  },
+  "sentiment_analysis": {
+    "positive_words": 8,
+    "negative_words": 1,
+    "positive_ratio": 0.022099447513812154,
+    "negative_ratio": 0.0027624309392265192,
+    "sentiment_score": 0.019337016574585635,
+    "sentiment_label": "positive",
+    "sentiment_strength": 0.019337016574585635,
+    "confidence": 0.19337016574585636
+  },
+  "industry_analysis": {
+    "dominant_industry": "telecom",
+    "industry_scores": {
+      "tech": 4,
+      "finance": 3,
+      "healthcare": 0,
+      "energy": 0,
+      "retail": 0,
+      "automotive": 0,
+      "media": 1,
+      "industrial": 0,
+      "real_estate": 0,
+      "telecom": 6,
+      "food_beverage": 0,
+      "travel": 0,
+      "education": 0,
+      "professional": 3,
+      "mining": 0,
+      "aerospace": 0,
+      "environmental": 0,
+      "cannabis": 0
+    },
+    "confidence": 0.35294117647058826
+  },
+  "market_analysis": {
+    "market_sentiment": "bearish",
+    "bullish_indicators": 0,
+    "bearish_indicators": 1,
+    "market_conditions": {
+      "volatility": "normal",
+      "volume": "normal",
+      "trend": "bearish"
+    },
+    "trading_activity": "normal"
+  },
+  "competitor_analysis": {
+    "companies_mentioned": [
+      "Verizon Communications Inc.",
+      "VZ",
+      "FAA",
+      "Verizon",
+      "FAA",
+      "L3Harris",
+      "Verizon",
+      "Starlink",
+      "Verizon",
+      "Verizon",
+      "DefenseOne",
+      "Verizon",
+      "Verizon",
+      "MarketBeat",
+      "Verizon",
+      "MarketBeat",
+      "Verizon",
+      "Zacks",
+      "Verizon",
+      "VZ",
+      "Zacks",
+      "Verizon",
+      "Charter",
+      "Verizon",
+      "Charter",
+      "Zacks",
+      "Verizon",
+      "Verizon Communications Inc.",
+      "VZ",
+      "Verizon",
+      "Verizon",
+      "Bloomberg Law",
+      "WilmerHale",
+      "Verizon",
+      "Headwater",
+      "WilmerHale",
+      "Verizon",
+      "Headwater",
+      "AI"
+    ],
+    "competitive_context": [
+      "3 Top Dividend Stocks for July 2025 (VZ)\nNeutral Sentiment:\nZacks analysts weigh Verizon’s Q2 outlook, citing potential earnings beat from 5G advances and bundling vs. pressure from soft margins and recent stock underperformance.",
+      "Zacks compares Verizon and Charter in a 5G and fiber investment race, noting intensifying competition and similar capex commitments.\nVerizon or Charter: Which Telecom Stock is the Smarter Investment?\nNeutral Sentiment:"
+    ],
+    "competitor_count": 39,
+    "has_competitive_language": true
+  },
+  "risk_analysis": {
+    "risk_sentences": [
+      "Verizon Communications Inc. (NYSE: VZ) shares are trading higher today, supported by positive contract news, network expansions, and strong dividend positioning, even as legal and earnings-season uncertainties introduce some caution.",
+      "Verizon stores to give out free backpacks\nNegative Sentiment:\nBloomberg Law reports WilmerHale’s disqualification as Verizon counsel in the Headwater dispute, raising concerns about potential legal delays and increased litigation costs."
+    ],
+    "risk_count": 2,
+    "risk_level": "medium"
+  },
+  "opportunity_analysis": {
+    "opportunity_sentences": [
+      "Verizon Communications Inc. (NYSE: VZ) shares are trading higher today, supported by positive contract news, network expansions, and strong dividend positioning, even as legal and earnings-season uncertainties introduce some caution.",
+      "3 Top Dividend Stocks for July 2025 (VZ)\nNeutral Sentiment:\nZacks analysts weigh Verizon’s Q2 outlook, citing potential earnings beat from 5G advances and bundling vs. pressure from soft margins and recent stock underperformance.",
+      "Verizon stores to give out free backpacks\nNegative Sentiment:\nBloomberg Law reports WilmerHale’s disqualification as Verizon counsel in the Headwater dispute, raising concerns about potential legal delays and increased litigation costs."
+    ],
+    "opportunity_count": 3,
+    "opportunity_level": "medium"
+  },
+  "processing_metadata": {
+    "timestamp": "2025-07-17T01:37:30.201571",
+    "model_used": "en_core_web_trf",
+    "text_length": 2632
+  }
+}
