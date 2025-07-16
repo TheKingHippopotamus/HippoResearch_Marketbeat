@@ -1,0 +1,2423 @@
+{
+  "ticker": "FCX",
+  "entities": [
+    {
+      "text": "Freeport-McMoRan Inc.",
+      "label": "ORG",
+      "start": 0,
+      "end": 21,
+      "sentence": "Freeport-McMoRan Inc. (FCX) stock sentiment today is shaped by a mix of bullish analyst forecasts, upcoming earnings expectations and cautious commentary on copper demand.",
+      "context": "Freeport-McMoRan Inc. (FCX) stock sentiment today is shaped by a mix of",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "FCX",
+      "label": "ORG",
+      "start": 23,
+      "end": 26,
+      "sentence": "Freeport-McMoRan Inc. (FCX) stock sentiment today is shaped by a mix of bullish analyst forecasts, upcoming earnings expectations and cautious commentary on copper demand.",
+      "context": "Freeport-McMoRan Inc. (FCX) stock sentiment today is shaped by a mix of bull",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "today",
+      "label": "DATE",
+      "start": 44,
+      "end": 49,
+      "sentence": "Freeport-McMoRan Inc. (FCX) stock sentiment today is shaped by a mix of bullish analyst forecasts, upcoming earnings expectations and cautious commentary on copper demand.",
+      "context": "Freeport-McMoRan Inc. (FCX) stock sentiment today is shaped by a mix of bullish analyst forecasts,",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "~15%",
+      "label": "PERCENT",
+      "start": 224,
+      "end": 228,
+      "sentence": "Analysts forecast an additional ~15% upside for FCX shares ahead of its Q2 earnings, citing a strong balance sheet (debt-to-equity ~0.30%) and rising copper demand under U.S. tariff and infrastructure tailwinds.",
+      "context": "sitive Sentiment:\nAnalysts forecast an additional ~15% upside for FCX shares ahead of its Q2 earnings, c",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "FCX",
+      "label": "ORG",
+      "start": 240,
+      "end": 243,
+      "sentence": "Analysts forecast an additional ~15% upside for FCX shares ahead of its Q2 earnings, citing a strong balance sheet (debt-to-equity ~0.30%) and rising copper demand under U.S. tariff and infrastructure tailwinds.",
+      "context": ":\nAnalysts forecast an additional ~15% upside for FCX shares ahead of its Q2 earnings, citing a strong",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q2",
+      "label": "DATE",
+      "start": 264,
+      "end": 266,
+      "sentence": "Analysts forecast an additional ~15% upside for FCX shares ahead of its Q2 earnings, citing a strong balance sheet (debt-to-equity ~0.30%) and rising copper demand under U.S. tariff and infrastructure tailwinds.",
+      "context": "dditional ~15% upside for FCX shares ahead of its Q2 earnings, citing a strong balance sheet (debt-to-",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "~0.30%",
+      "label": "PERCENT",
+      "start": 323,
+      "end": 329,
+      "sentence": "Analysts forecast an additional ~15% upside for FCX shares ahead of its Q2 earnings, citing a strong balance sheet (debt-to-equity ~0.30%) and rising copper demand under U.S. tariff and infrastructure tailwinds.",
+      "context": "gs, citing a strong balance sheet (debt-to-equity ~0.30%) and rising copper demand under U.S. tariff and i",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "U.S.",
+      "label": "GPE",
+      "start": 362,
+      "end": 366,
+      "sentence": "Analysts forecast an additional ~15% upside for FCX shares ahead of its Q2 earnings, citing a strong balance sheet (debt-to-equity ~0.30%) and rising copper demand under U.S. tariff and infrastructure tailwinds.",
+      "context": "-to-equity ~0.30%) and rising copper demand under U.S. tariff and infrastructure tailwinds.\n3 Stocks Off",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "3",
+      "label": "CARDINAL",
+      "start": 404,
+      "end": 405,
+      "sentence": "3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "context": "d under U.S. tariff and infrastructure tailwinds.\n3 Stocks Offering Diversification in Trump’s Tariff",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Trump",
+      "label": "PERSON",
+      "start": 441,
+      "end": 446,
+      "sentence": "3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "context": "e tailwinds.\n3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:\nFCX is",
+      "is_company": false,
+      "is_person": true,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "FCX",
+      "label": "ORG",
+      "start": 490,
+      "end": 493,
+      "sentence": "FCX is positioned to beat Q2 earnings estimates thanks to favorable commodity prices and operational efficiency, potentially supporting further stock gains.",
+      "context": "Trump’s Tariff & Trade Reset\nPositive Sentiment:\nFCX is positioned to beat Q2 earnings estimates thank",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q2",
+      "label": "DATE",
+      "start": 516,
+      "end": 518,
+      "sentence": "FCX is positioned to beat Q2 earnings estimates thanks to favorable commodity prices and operational efficiency, potentially supporting further stock gains.",
+      "context": "set\nPositive Sentiment:\nFCX is positioned to beat Q2 earnings estimates thanks to favorable commodity",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Freeport-McMoRan",
+      "label": "ORG",
+      "start": 647,
+      "end": 663,
+      "sentence": "Freeport-McMoRan (FCX) Expected to Beat Earnings Estimates\nPositive Sentiment:",
+      "context": "ency, potentially supporting further stock gains.\nFreeport-McMoRan (FCX) Expected to Beat Earnings Estimates\nPositiv",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Zacks",
+      "label": "ORG",
+      "start": 728,
+      "end": 733,
+      "sentence": "A Zacks report highlights FCX as a top long-term growth stock given its scale in copper production and strong style scores.",
+      "context": "to Beat Earnings Estimates\nPositive Sentiment:\nA Zacks report highlights FCX as a top long-term growth s",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "FCX",
+      "label": "ORG",
+      "start": 752,
+      "end": 755,
+      "sentence": "A Zacks report highlights FCX as a top long-term growth stock given its scale in copper production and strong style scores.",
+      "context": "tes\nPositive Sentiment:\nA Zacks report highlights FCX as a top long-term growth stock given its scale i",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Freeport-McMoRan",
+      "label": "ORG",
+      "start": 854,
+      "end": 870,
+      "sentence": "Why Freeport-McMoRan (FCX) is a Top Growth Stock for the Long-Term\nNeutral Sentiment:",
+      "context": "in copper production and strong style scores.\nWhy Freeport-McMoRan (FCX) is a Top Growth Stock for the Long-Term\nNeu",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "FCX",
+      "label": "ORG",
+      "start": 953,
+      "end": 956,
+      "sentence": "MarketBeat notes FCX will report Q2 results on July 22, setting the stage for volatility around the release.",
+      "context": "the Long-Term\nNeutral Sentiment:\nMarketBeat notes FCX will report Q2 results on July 22, setting the st",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q2",
+      "label": "DATE",
+      "start": 969,
+      "end": 971,
+      "sentence": "MarketBeat notes FCX will report Q2 results on July 22, setting the stage for volatility around the release.",
+      "context": "utral Sentiment:\nMarketBeat notes FCX will report Q2 results on July 22, setting the stage for volatil",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "July 22",
+      "label": "DATE",
+      "start": 983,
+      "end": 990,
+      "sentence": "MarketBeat notes FCX will report Q2 results on July 22, setting the stage for volatility around the release.",
+      "context": "t:\nMarketBeat notes FCX will report Q2 results on July 22, setting the stage for volatility around the rele",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Freeport-McMoRan",
+      "label": "ORG",
+      "start": 1045,
+      "end": 1061,
+      "sentence": "Freeport-McMoRan (FCX) to Release Earnings on Tuesday\nNeutral Sentiment:",
+      "context": "ting the stage for volatility around the release.\nFreeport-McMoRan (FCX) to Release Earnings on Tuesday\nNeutral Sent",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "FCX",
+      "label": "ORG",
+      "start": 1063,
+      "end": 1066,
+      "sentence": "Freeport-McMoRan (FCX) to Release Earnings on Tuesday\nNeutral Sentiment:",
+      "context": "volatility around the release.\nFreeport-McMoRan (FCX) to Release Earnings on Tuesday\nNeutral Sentiment",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Tuesday",
+      "label": "DATE",
+      "start": 1091,
+      "end": 1098,
+      "sentence": "Freeport-McMoRan (FCX) to Release Earnings on Tuesday\nNeutral Sentiment:",
+      "context": "se.\nFreeport-McMoRan (FCX) to Release Earnings on Tuesday\nNeutral Sentiment:\nA Forbes preview outlines what",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Forbes",
+      "label": "ORG",
+      "start": 1120,
+      "end": 1126,
+      "sentence": "A Forbes preview outlines what to expect from Freeport‐McMoRan's Q2, focusing on copper prices, production guidance and cost control.",
+      "context": "Release Earnings on Tuesday\nNeutral Sentiment:\nA Forbes preview outlines what to expect from Freeport‐McM",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q2",
+      "label": "DATE",
+      "start": 1183,
+      "end": 1185,
+      "sentence": "A Forbes preview outlines what to expect from Freeport‐McMoRan's Q2, focusing on copper prices, production guidance and cost control.",
+      "context": "w outlines what to expect from Freeport‐McMoRan's Q2, focusing on copper prices, production guidance a",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Freeport-McMoRan",
+      "label": "ORG",
+      "start": 1272,
+      "end": 1288,
+      "sentence": "What To Expect From Freeport-McMoRan Stock's Q2?",
+      "context": "on guidance and cost control.\nWhat To Expect From Freeport-McMoRan Stock's Q2?\nNegative Sentiment:\nMorgan Stanley do",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q2",
+      "label": "DATE",
+      "start": 1297,
+      "end": 1299,
+      "sentence": "What To Expect From Freeport-McMoRan Stock's Q2?",
+      "context": "rol.\nWhat To Expect From Freeport-McMoRan Stock's Q2?\nNegative Sentiment:\nMorgan Stanley downgraded FC",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Morgan Stanley",
+      "label": "ORG",
+      "start": 1321,
+      "end": 1335,
+      "sentence": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "context": "Freeport-McMoRan Stock's Q2?\nNegative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, t",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "FCX",
+      "label": "ORG",
+      "start": 1347,
+      "end": 1350,
+      "sentence": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "context": "Q2?\nNegative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised it",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "54",
+      "label": "MONEY",
+      "start": 1419,
+      "end": 1421,
+      "sentence": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "context": "Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pr",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Morgan Stanley",
+      "label": "ORG",
+      "start": 1478,
+      "end": 1492,
+      "sentence": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "context": "ling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentim",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Freeport-McMoRan",
+      "label": "ORG",
+      "start": 1504,
+      "end": 1520,
+      "sentence": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "context": "espite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:\nBarron's warns that FCX",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Barron's",
+      "label": "ORG",
+      "start": 1547,
+      "end": 1555,
+      "sentence": "Barron's warns that FCX's strong copper-driven rally may have peaked, advising investors on exit strategies as momentum slows.\nFreeport-McMoRan Stock Has Been a Copper Winner.",
+      "context": "grades Freeport-McMoRan (FCX)\nNegative Sentiment:\nBarron's warns that FCX's strong copper-driven rally may h",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Freeport-McMoRan",
+      "label": "ORG",
+      "start": 1674,
+      "end": 1690,
+      "sentence": "Barron's warns that FCX's strong copper-driven rally may have peaked, advising investors on exit strategies as momentum slows.\nFreeport-McMoRan Stock Has Been a Copper Winner.",
+      "context": "g investors on exit strategies as momentum slows.\nFreeport-McMoRan Stock Has Been a Copper Winner. How to Know When",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "SchaeffersResearch",
+      "label": "ORG",
+      "start": 1769,
+      "end": 1787,
+      "sentence": "SchaeffersResearch warns that the so-called “Dr. Copper” signal may be faltering, suggesting near-term headwinds for copper producers like FCX.",
+      "context": "er. How to Know When to Sell.\nNegative Sentiment:\nSchaeffersResearch warns that the so-called “Dr. Copper” signal may",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "FCX",
+      "label": "ORG",
+      "start": 1908,
+      "end": 1911,
+      "sentence": "SchaeffersResearch warns that the so-called “Dr. Copper” signal may be faltering, suggesting near-term headwinds for copper producers like FCX.",
+      "context": "ing near-term headwinds for copper producers like FCX.\n‘Dr. Copper?' Not So Fast, Says Signal\nNegative",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "CNBC",
+      "label": "ORG",
+      "start": 1972,
+      "end": 1976,
+      "sentence": "CNBC's Jim Cramer advised viewers to pause trading FCX, implying caution amid recent volatility.",
+      "context": "er?' Not So Fast, Says Signal\nNegative Sentiment:\nCNBC's Jim Cramer advised viewers to pause trading FCX",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Jim Cramer",
+      "label": "PERSON",
+      "start": 1979,
+      "end": 1989,
+      "sentence": "CNBC's Jim Cramer advised viewers to pause trading FCX, implying caution amid recent volatility.",
+      "context": "t So Fast, Says Signal\nNegative Sentiment:\nCNBC's Jim Cramer advised viewers to pause trading FCX, implying ca",
+      "is_company": false,
+      "is_person": true,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Freeport-McMoran",
+      "label": "ORG",
+      "start": 2083,
+      "end": 2099,
+      "sentence": "Freeport-McMoran\nPosted 1h ago\nAI Generated.",
+      "context": "ing caution amid recent volatility.\nStop Trading: Freeport-McMoran\nPosted 1h ago\nAI Generated. May Contain Errors.",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "1h ago",
+      "label": "TIME",
+      "start": 2107,
+      "end": 2113,
+      "sentence": "Freeport-McMoran\nPosted 1h ago\nAI Generated.",
+      "context": "volatility.\nStop Trading: Freeport-McMoran\nPosted 1h ago\nAI Generated. May Contain Errors.",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    }
+  ],
+  "relationships": [
+    {
+      "type": "SVO",
+      "subject": "Analysts",
+      "verb": "forecast",
+      "object": "upside",
+      "sentence": "Analysts forecast an additional ~15% upside for FCX shares ahead of its Q2 earnings, citing a strong balance sheet (debt-to-equity ~0.30%) and rising copper demand under U.S. tariff and infrastructure tailwinds.",
+      "importance": 12
+    },
+    {
+      "type": "SVO",
+      "subject": "report",
+      "verb": "highlights",
+      "object": "FCX",
+      "sentence": "A Zacks report highlights FCX as a top long-term growth stock given its scale in copper production and strong style scores.",
+      "importance": 6
+    },
+    {
+      "type": "SVO",
+      "subject": "FCX",
+      "verb": "report",
+      "object": "results",
+      "sentence": "MarketBeat notes FCX will report Q2 results on July 22, setting the stage for volatility around the release.",
+      "importance": 6
+    },
+    {
+      "type": "SVO",
+      "subject": "McMoRan",
+      "verb": "Release",
+      "object": "Earnings",
+      "sentence": "Freeport-McMoRan (FCX) to Release Earnings on Tuesday\nNeutral Sentiment:",
+      "importance": 6
+    },
+    {
+      "type": "SVO",
+      "subject": "Stanley",
+      "verb": "downgraded",
+      "object": "FCX",
+      "sentence": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "importance": 10
+    },
+    {
+      "type": "SVO",
+      "subject": "Stanley",
+      "verb": "Downgrades",
+      "object": "McMoRan",
+      "sentence": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "importance": 10
+    },
+    {
+      "type": "SVO",
+      "subject": "Cramer",
+      "verb": "advised",
+      "object": "viewers",
+      "sentence": "CNBC's Jim Cramer advised viewers to pause trading FCX, implying caution amid recent volatility.",
+      "importance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Freeport",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "ORG",
+      "sentence": "Freeport-McMoRan Inc. (FCX) stock sentiment today is shaped by a mix of bullish analyst forecasts, upcoming earnings expectations and cautious commentary on copper demand.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Freeport",
+      "entity1_type": "ORG",
+      "entity2": "McMoRan",
+      "entity2_type": "ORG",
+      "sentence": "Freeport-McMoRan Inc. (FCX) stock sentiment today is shaped by a mix of bullish analyst forecasts, upcoming earnings expectations and cautious commentary on copper demand.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Freeport",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Freeport-McMoRan Inc. (FCX) stock sentiment today is shaped by a mix of bullish analyst forecasts, upcoming earnings expectations and cautious commentary on copper demand.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Freeport",
+      "entity1_type": "ORG",
+      "entity2": "FCX",
+      "entity2_type": "ORG",
+      "sentence": "Freeport-McMoRan Inc. (FCX) stock sentiment today is shaped by a mix of bullish analyst forecasts, upcoming earnings expectations and cautious commentary on copper demand.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Freeport",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "Freeport-McMoRan Inc. (FCX) stock sentiment today is shaped by a mix of bullish analyst forecasts, upcoming earnings expectations and cautious commentary on copper demand.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "ORG",
+      "entity2": "McMoRan",
+      "entity2_type": "ORG",
+      "sentence": "Freeport-McMoRan Inc. (FCX) stock sentiment today is shaped by a mix of bullish analyst forecasts, upcoming earnings expectations and cautious commentary on copper demand.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Freeport-McMoRan Inc. (FCX) stock sentiment today is shaped by a mix of bullish analyst forecasts, upcoming earnings expectations and cautious commentary on copper demand.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "ORG",
+      "entity2": "FCX",
+      "entity2_type": "ORG",
+      "sentence": "Freeport-McMoRan Inc. (FCX) stock sentiment today is shaped by a mix of bullish analyst forecasts, upcoming earnings expectations and cautious commentary on copper demand.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "Freeport-McMoRan Inc. (FCX) stock sentiment today is shaped by a mix of bullish analyst forecasts, upcoming earnings expectations and cautious commentary on copper demand.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "McMoRan",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Freeport-McMoRan Inc. (FCX) stock sentiment today is shaped by a mix of bullish analyst forecasts, upcoming earnings expectations and cautious commentary on copper demand.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "McMoRan",
+      "entity1_type": "ORG",
+      "entity2": "FCX",
+      "entity2_type": "ORG",
+      "sentence": "Freeport-McMoRan Inc. (FCX) stock sentiment today is shaped by a mix of bullish analyst forecasts, upcoming earnings expectations and cautious commentary on copper demand.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "McMoRan",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "Freeport-McMoRan Inc. (FCX) stock sentiment today is shaped by a mix of bullish analyst forecasts, upcoming earnings expectations and cautious commentary on copper demand.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "FCX",
+      "entity2_type": "ORG",
+      "sentence": "Freeport-McMoRan Inc. (FCX) stock sentiment today is shaped by a mix of bullish analyst forecasts, upcoming earnings expectations and cautious commentary on copper demand.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "Freeport-McMoRan Inc. (FCX) stock sentiment today is shaped by a mix of bullish analyst forecasts, upcoming earnings expectations and cautious commentary on copper demand.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FCX",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "Freeport-McMoRan Inc. (FCX) stock sentiment today is shaped by a mix of bullish analyst forecasts, upcoming earnings expectations and cautious commentary on copper demand.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "~15",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Analysts forecast an additional ~15% upside for FCX shares ahead of its Q2 earnings, citing a strong balance sheet (debt-to-equity ~0.30%) and rising copper demand under U.S. tariff and infrastructure tailwinds.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "~15",
+      "entity1_type": "PERCENT",
+      "entity2": "FCX",
+      "entity2_type": "ORG",
+      "sentence": "Analysts forecast an additional ~15% upside for FCX shares ahead of its Q2 earnings, citing a strong balance sheet (debt-to-equity ~0.30%) and rising copper demand under U.S. tariff and infrastructure tailwinds.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "~15",
+      "entity1_type": "PERCENT",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "Analysts forecast an additional ~15% upside for FCX shares ahead of its Q2 earnings, citing a strong balance sheet (debt-to-equity ~0.30%) and rising copper demand under U.S. tariff and infrastructure tailwinds.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "~15",
+      "entity1_type": "PERCENT",
+      "entity2": "~0.30",
+      "entity2_type": "PERCENT",
+      "sentence": "Analysts forecast an additional ~15% upside for FCX shares ahead of its Q2 earnings, citing a strong balance sheet (debt-to-equity ~0.30%) and rising copper demand under U.S. tariff and infrastructure tailwinds.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "~15",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Analysts forecast an additional ~15% upside for FCX shares ahead of its Q2 earnings, citing a strong balance sheet (debt-to-equity ~0.30%) and rising copper demand under U.S. tariff and infrastructure tailwinds.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "~15",
+      "entity1_type": "PERCENT",
+      "entity2": "U.S.",
+      "entity2_type": "GPE",
+      "sentence": "Analysts forecast an additional ~15% upside for FCX shares ahead of its Q2 earnings, citing a strong balance sheet (debt-to-equity ~0.30%) and rising copper demand under U.S. tariff and infrastructure tailwinds.",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "FCX",
+      "entity2_type": "ORG",
+      "sentence": "Analysts forecast an additional ~15% upside for FCX shares ahead of its Q2 earnings, citing a strong balance sheet (debt-to-equity ~0.30%) and rising copper demand under U.S. tariff and infrastructure tailwinds.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "Analysts forecast an additional ~15% upside for FCX shares ahead of its Q2 earnings, citing a strong balance sheet (debt-to-equity ~0.30%) and rising copper demand under U.S. tariff and infrastructure tailwinds.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "~0.30",
+      "entity2_type": "PERCENT",
+      "sentence": "Analysts forecast an additional ~15% upside for FCX shares ahead of its Q2 earnings, citing a strong balance sheet (debt-to-equity ~0.30%) and rising copper demand under U.S. tariff and infrastructure tailwinds.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Analysts forecast an additional ~15% upside for FCX shares ahead of its Q2 earnings, citing a strong balance sheet (debt-to-equity ~0.30%) and rising copper demand under U.S. tariff and infrastructure tailwinds.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "U.S.",
+      "entity2_type": "GPE",
+      "sentence": "Analysts forecast an additional ~15% upside for FCX shares ahead of its Q2 earnings, citing a strong balance sheet (debt-to-equity ~0.30%) and rising copper demand under U.S. tariff and infrastructure tailwinds.",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FCX",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "Analysts forecast an additional ~15% upside for FCX shares ahead of its Q2 earnings, citing a strong balance sheet (debt-to-equity ~0.30%) and rising copper demand under U.S. tariff and infrastructure tailwinds.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FCX",
+      "entity1_type": "ORG",
+      "entity2": "~0.30",
+      "entity2_type": "PERCENT",
+      "sentence": "Analysts forecast an additional ~15% upside for FCX shares ahead of its Q2 earnings, citing a strong balance sheet (debt-to-equity ~0.30%) and rising copper demand under U.S. tariff and infrastructure tailwinds.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FCX",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Analysts forecast an additional ~15% upside for FCX shares ahead of its Q2 earnings, citing a strong balance sheet (debt-to-equity ~0.30%) and rising copper demand under U.S. tariff and infrastructure tailwinds.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FCX",
+      "entity1_type": "ORG",
+      "entity2": "U.S.",
+      "entity2_type": "GPE",
+      "sentence": "Analysts forecast an additional ~15% upside for FCX shares ahead of its Q2 earnings, citing a strong balance sheet (debt-to-equity ~0.30%) and rising copper demand under U.S. tariff and infrastructure tailwinds.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "~0.30",
+      "entity2_type": "PERCENT",
+      "sentence": "Analysts forecast an additional ~15% upside for FCX shares ahead of its Q2 earnings, citing a strong balance sheet (debt-to-equity ~0.30%) and rising copper demand under U.S. tariff and infrastructure tailwinds.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Analysts forecast an additional ~15% upside for FCX shares ahead of its Q2 earnings, citing a strong balance sheet (debt-to-equity ~0.30%) and rising copper demand under U.S. tariff and infrastructure tailwinds.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "U.S.",
+      "entity2_type": "GPE",
+      "sentence": "Analysts forecast an additional ~15% upside for FCX shares ahead of its Q2 earnings, citing a strong balance sheet (debt-to-equity ~0.30%) and rising copper demand under U.S. tariff and infrastructure tailwinds.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "~0.30",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Analysts forecast an additional ~15% upside for FCX shares ahead of its Q2 earnings, citing a strong balance sheet (debt-to-equity ~0.30%) and rising copper demand under U.S. tariff and infrastructure tailwinds.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "~0.30",
+      "entity1_type": "PERCENT",
+      "entity2": "U.S.",
+      "entity2_type": "GPE",
+      "sentence": "Analysts forecast an additional ~15% upside for FCX shares ahead of its Q2 earnings, citing a strong balance sheet (debt-to-equity ~0.30%) and rising copper demand under U.S. tariff and infrastructure tailwinds.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "U.S.",
+      "entity2_type": "GPE",
+      "sentence": "Analysts forecast an additional ~15% upside for FCX shares ahead of its Q2 earnings, citing a strong balance sheet (debt-to-equity ~0.30%) and rising copper demand under U.S. tariff and infrastructure tailwinds.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3",
+      "entity1_type": "CARDINAL",
+      "entity2": "Trump",
+      "entity2_type": "PERSON",
+      "sentence": "3 Stocks Offering Diversification in Trump’s Tariff & Trade Reset\nPositive Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FCX",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "FCX is positioned to beat Q2 earnings estimates thanks to favorable commodity prices and operational efficiency, potentially supporting further stock gains.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Freeport",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "ORG",
+      "sentence": "Freeport-McMoRan (FCX) Expected to Beat Earnings Estimates\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Freeport",
+      "entity1_type": "ORG",
+      "entity2": "McMoRan",
+      "entity2_type": "ORG",
+      "sentence": "Freeport-McMoRan (FCX) Expected to Beat Earnings Estimates\nPositive Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "ORG",
+      "entity2": "McMoRan",
+      "entity2_type": "ORG",
+      "sentence": "Freeport-McMoRan (FCX) Expected to Beat Earnings Estimates\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "FCX",
+      "entity2_type": "ORG",
+      "sentence": "A Zacks report highlights FCX as a top long-term growth stock given its scale in copper production and strong style scores.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Freeport",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "ORG",
+      "sentence": "Why Freeport-McMoRan (FCX) is a Top Growth Stock for the Long-Term\nNeutral Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Freeport",
+      "entity1_type": "ORG",
+      "entity2": "McMoRan",
+      "entity2_type": "ORG",
+      "sentence": "Why Freeport-McMoRan (FCX) is a Top Growth Stock for the Long-Term\nNeutral Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "ORG",
+      "entity2": "McMoRan",
+      "entity2_type": "ORG",
+      "sentence": "Why Freeport-McMoRan (FCX) is a Top Growth Stock for the Long-Term\nNeutral Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FCX",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "MarketBeat notes FCX will report Q2 results on July 22, setting the stage for volatility around the release.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FCX",
+      "entity1_type": "ORG",
+      "entity2": "July",
+      "entity2_type": "DATE",
+      "sentence": "MarketBeat notes FCX will report Q2 results on July 22, setting the stage for volatility around the release.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FCX",
+      "entity1_type": "ORG",
+      "entity2": "22",
+      "entity2_type": "DATE",
+      "sentence": "MarketBeat notes FCX will report Q2 results on July 22, setting the stage for volatility around the release.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "July",
+      "entity2_type": "DATE",
+      "sentence": "MarketBeat notes FCX will report Q2 results on July 22, setting the stage for volatility around the release.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "22",
+      "entity2_type": "DATE",
+      "sentence": "MarketBeat notes FCX will report Q2 results on July 22, setting the stage for volatility around the release.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "July",
+      "entity1_type": "DATE",
+      "entity2": "22",
+      "entity2_type": "DATE",
+      "sentence": "MarketBeat notes FCX will report Q2 results on July 22, setting the stage for volatility around the release.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Freeport",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "ORG",
+      "sentence": "Freeport-McMoRan (FCX) to Release Earnings on Tuesday\nNeutral Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Freeport",
+      "entity1_type": "ORG",
+      "entity2": "McMoRan",
+      "entity2_type": "ORG",
+      "sentence": "Freeport-McMoRan (FCX) to Release Earnings on Tuesday\nNeutral Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Freeport",
+      "entity1_type": "ORG",
+      "entity2": "FCX",
+      "entity2_type": "ORG",
+      "sentence": "Freeport-McMoRan (FCX) to Release Earnings on Tuesday\nNeutral Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Freeport",
+      "entity1_type": "ORG",
+      "entity2": "Tuesday",
+      "entity2_type": "DATE",
+      "sentence": "Freeport-McMoRan (FCX) to Release Earnings on Tuesday\nNeutral Sentiment:",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "ORG",
+      "entity2": "McMoRan",
+      "entity2_type": "ORG",
+      "sentence": "Freeport-McMoRan (FCX) to Release Earnings on Tuesday\nNeutral Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "ORG",
+      "entity2": "FCX",
+      "entity2_type": "ORG",
+      "sentence": "Freeport-McMoRan (FCX) to Release Earnings on Tuesday\nNeutral Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "ORG",
+      "entity2": "Tuesday",
+      "entity2_type": "DATE",
+      "sentence": "Freeport-McMoRan (FCX) to Release Earnings on Tuesday\nNeutral Sentiment:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "McMoRan",
+      "entity1_type": "ORG",
+      "entity2": "FCX",
+      "entity2_type": "ORG",
+      "sentence": "Freeport-McMoRan (FCX) to Release Earnings on Tuesday\nNeutral Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "McMoRan",
+      "entity1_type": "ORG",
+      "entity2": "Tuesday",
+      "entity2_type": "DATE",
+      "sentence": "Freeport-McMoRan (FCX) to Release Earnings on Tuesday\nNeutral Sentiment:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FCX",
+      "entity1_type": "ORG",
+      "entity2": "Tuesday",
+      "entity2_type": "DATE",
+      "sentence": "Freeport-McMoRan (FCX) to Release Earnings on Tuesday\nNeutral Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Forbes",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "A Forbes preview outlines what to expect from Freeport‐McMoRan's Q2, focusing on copper prices, production guidance and cost control.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Freeport",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "ORG",
+      "sentence": "What To Expect From Freeport-McMoRan Stock's Q2?",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Freeport",
+      "entity1_type": "ORG",
+      "entity2": "McMoRan",
+      "entity2_type": "ORG",
+      "sentence": "What To Expect From Freeport-McMoRan Stock's Q2?",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Freeport",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "What To Expect From Freeport-McMoRan Stock's Q2?",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "ORG",
+      "entity2": "McMoRan",
+      "entity2_type": "ORG",
+      "sentence": "What To Expect From Freeport-McMoRan Stock's Q2?",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "What To Expect From Freeport-McMoRan Stock's Q2?",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "McMoRan",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "What To Expect From Freeport-McMoRan Stock's Q2?",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "Stanley",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "FCX",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "54",
+      "entity2_type": "MONEY",
+      "sentence": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "Morgan",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "Stanley",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "Freeport",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "McMoRan",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "distance": 32
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "FCX",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "54",
+      "entity2_type": "MONEY",
+      "sentence": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "Morgan",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "Stanley",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "Freeport",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "McMoRan",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FCX",
+      "entity1_type": "ORG",
+      "entity2": "54",
+      "entity2_type": "MONEY",
+      "sentence": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FCX",
+      "entity1_type": "ORG",
+      "entity2": "Morgan",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FCX",
+      "entity1_type": "ORG",
+      "entity2": "Stanley",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FCX",
+      "entity1_type": "ORG",
+      "entity2": "Freeport",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FCX",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FCX",
+      "entity1_type": "ORG",
+      "entity2": "McMoRan",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "54",
+      "entity1_type": "MONEY",
+      "entity2": "Morgan",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "54",
+      "entity1_type": "MONEY",
+      "entity2": "Stanley",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "54",
+      "entity1_type": "MONEY",
+      "entity2": "Freeport",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "54",
+      "entity1_type": "MONEY",
+      "entity2": "-",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "54",
+      "entity1_type": "MONEY",
+      "entity2": "McMoRan",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "Stanley",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "Freeport",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "McMoRan",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "Freeport",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "McMoRan",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Freeport",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Freeport",
+      "entity1_type": "ORG",
+      "entity2": "McMoRan",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "ORG",
+      "entity2": "McMoRan",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barron",
+      "entity1_type": "ORG",
+      "entity2": "'s",
+      "entity2_type": "ORG",
+      "sentence": "Barron's warns that FCX's strong copper-driven rally may have peaked, advising investors on exit strategies as momentum slows.\nFreeport-McMoRan Stock Has Been a Copper Winner.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barron",
+      "entity1_type": "ORG",
+      "entity2": "Freeport",
+      "entity2_type": "ORG",
+      "sentence": "Barron's warns that FCX's strong copper-driven rally may have peaked, advising investors on exit strategies as momentum slows.\nFreeport-McMoRan Stock Has Been a Copper Winner.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barron",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "ORG",
+      "sentence": "Barron's warns that FCX's strong copper-driven rally may have peaked, advising investors on exit strategies as momentum slows.\nFreeport-McMoRan Stock Has Been a Copper Winner.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barron",
+      "entity1_type": "ORG",
+      "entity2": "McMoRan",
+      "entity2_type": "ORG",
+      "sentence": "Barron's warns that FCX's strong copper-driven rally may have peaked, advising investors on exit strategies as momentum slows.\nFreeport-McMoRan Stock Has Been a Copper Winner.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "'s",
+      "entity1_type": "ORG",
+      "entity2": "Freeport",
+      "entity2_type": "ORG",
+      "sentence": "Barron's warns that FCX's strong copper-driven rally may have peaked, advising investors on exit strategies as momentum slows.\nFreeport-McMoRan Stock Has Been a Copper Winner.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "'s",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "ORG",
+      "sentence": "Barron's warns that FCX's strong copper-driven rally may have peaked, advising investors on exit strategies as momentum slows.\nFreeport-McMoRan Stock Has Been a Copper Winner.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "'s",
+      "entity1_type": "ORG",
+      "entity2": "McMoRan",
+      "entity2_type": "ORG",
+      "sentence": "Barron's warns that FCX's strong copper-driven rally may have peaked, advising investors on exit strategies as momentum slows.\nFreeport-McMoRan Stock Has Been a Copper Winner.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Freeport",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "ORG",
+      "sentence": "Barron's warns that FCX's strong copper-driven rally may have peaked, advising investors on exit strategies as momentum slows.\nFreeport-McMoRan Stock Has Been a Copper Winner.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Freeport",
+      "entity1_type": "ORG",
+      "entity2": "McMoRan",
+      "entity2_type": "ORG",
+      "sentence": "Barron's warns that FCX's strong copper-driven rally may have peaked, advising investors on exit strategies as momentum slows.\nFreeport-McMoRan Stock Has Been a Copper Winner.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "ORG",
+      "entity2": "McMoRan",
+      "entity2_type": "ORG",
+      "sentence": "Barron's warns that FCX's strong copper-driven rally may have peaked, advising investors on exit strategies as momentum slows.\nFreeport-McMoRan Stock Has Been a Copper Winner.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SchaeffersResearch",
+      "entity1_type": "ORG",
+      "entity2": "FCX",
+      "entity2_type": "ORG",
+      "sentence": "SchaeffersResearch warns that the so-called “Dr. Copper” signal may be faltering, suggesting near-term headwinds for copper producers like FCX.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "CNBC",
+      "entity1_type": "ORG",
+      "entity2": "Jim",
+      "entity2_type": "PERSON",
+      "sentence": "CNBC's Jim Cramer advised viewers to pause trading FCX, implying caution amid recent volatility.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "CNBC",
+      "entity1_type": "ORG",
+      "entity2": "Cramer",
+      "entity2_type": "PERSON",
+      "sentence": "CNBC's Jim Cramer advised viewers to pause trading FCX, implying caution amid recent volatility.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jim",
+      "entity1_type": "PERSON",
+      "entity2": "Cramer",
+      "entity2_type": "PERSON",
+      "sentence": "CNBC's Jim Cramer advised viewers to pause trading FCX, implying caution amid recent volatility.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Freeport",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "ORG",
+      "sentence": "Freeport-McMoran\nPosted 1h ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Freeport",
+      "entity1_type": "ORG",
+      "entity2": "McMoran",
+      "entity2_type": "ORG",
+      "sentence": "Freeport-McMoran\nPosted 1h ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Freeport",
+      "entity1_type": "ORG",
+      "entity2": "1h",
+      "entity2_type": "TIME",
+      "sentence": "Freeport-McMoran\nPosted 1h ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Freeport",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "TIME",
+      "sentence": "Freeport-McMoran\nPosted 1h ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "ORG",
+      "entity2": "McMoran",
+      "entity2_type": "ORG",
+      "sentence": "Freeport-McMoran\nPosted 1h ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "ORG",
+      "entity2": "1h",
+      "entity2_type": "TIME",
+      "sentence": "Freeport-McMoran\nPosted 1h ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "TIME",
+      "sentence": "Freeport-McMoran\nPosted 1h ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "McMoran",
+      "entity1_type": "ORG",
+      "entity2": "1h",
+      "entity2_type": "TIME",
+      "sentence": "Freeport-McMoran\nPosted 1h ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "McMoran",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "TIME",
+      "sentence": "Freeport-McMoran\nPosted 1h ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1h",
+      "entity1_type": "TIME",
+      "entity2": "ago",
+      "entity2_type": "TIME",
+      "sentence": "Freeport-McMoran\nPosted 1h ago\nAI Generated.",
+      "distance": 1
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "a mix",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "bullish analyst forecasts",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "upcoming earnings expectations",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "cautious commentary",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "copper demand",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "an additional ~15% upside",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "FCX shares",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "its Q2 earnings",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "a strong balance sheet",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "rising copper demand",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "U.S. tariff and infrastructure tailwinds",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "3 Stocks",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Trump’s Tariff & Trade Reset",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Q2 earnings estimates",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "favorable commodity prices",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "operational efficiency",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "further stock gains",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Earnings Estimates",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "A Zacks report",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a top long-term growth stock",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "its scale",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "copper production",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "strong style scores",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a Top Growth Stock",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "the Long-Term",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Q2 results",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the stage",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the release",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "A Forbes preview",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Freeport‐McMoRan's Q2",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "copper prices",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "production guidance",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "cost control",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Freeport-McMoRan Stock's Q2",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Morgan Stanley",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Equal Weight",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its price target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "tempered conviction",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "bullish pricing",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Morgan Stanley",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "FCX's strong copper-driven rally",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "exit strategies",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Freeport-McMoRan Stock",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "a Copper Winner",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the so-called “Dr. Copper” signal",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "near-term headwinds",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "copper producers",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "CNBC's Jim Cramer",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "recent volatility",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "$54,",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "15%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "0.30%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "growth",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Growth",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "trading",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Trading",
+      "type": "pattern",
+      "category": "market_term"
+    }
+  ],
+  "important_sentences": [
+    {
+      "text": "Negative Sentiment:\nMorgan Stanley downgraded FCX from Overweight to Equal Weight, though raised its price target to $54, signaling tempered conviction despite bullish pricing.\nMorgan Stanley Downgrades Freeport-McMoRan (FCX)\nNegative Sentiment:",
+      "importance_score": 42,
+      "entity_count": 9,
+      "financial_keyword_count": 1,
+      "money_count": 1,
+      "company_count": 4,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Analysts forecast an additional ~15% upside for FCX shares ahead of its Q2 earnings, citing a strong balance sheet (debt-to-equity ~0.30%) and rising copper demand under U.S. tariff and infrastructure tailwinds.",
+      "importance_score": 33,
+      "entity_count": 7,
+      "financial_keyword_count": 5,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Freeport-McMoRan Inc. (FCX) stock sentiment today is shaped by a mix of bullish analyst forecasts, upcoming earnings expectations and cautious commentary on copper demand.",
+      "importance_score": 29,
+      "entity_count": 6,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Barron's warns that FCX's strong copper-driven rally may have peaked, advising investors on exit strategies as momentum slows.\nFreeport-McMoRan Stock Has Been a Copper Winner.",
+      "importance_score": 27,
+      "entity_count": 5,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "positive"
+    },
+    {
+      "text": "A Zacks report highlights FCX as a top long-term growth stock given its scale in copper production and strong style scores.",
+      "importance_score": 24,
+      "entity_count": 2,
+      "financial_keyword_count": 4,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Freeport-McMoRan (FCX) to Release Earnings on Tuesday\nNeutral Sentiment:",
+      "importance_score": 21,
+      "entity_count": 5,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Why Freeport-McMoRan (FCX) is a Top Growth Stock for the Long-Term\nNeutral Sentiment:",
+      "importance_score": 19,
+      "entity_count": 3,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "positive"
+    },
+    {
+      "text": "MarketBeat notes FCX will report Q2 results on July 22, setting the stage for volatility around the release.",
+      "importance_score": 18,
+      "entity_count": 4,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "FCX is positioned to beat Q2 earnings estimates thanks to favorable commodity prices and operational efficiency, potentially supporting further stock gains.",
+      "importance_score": 17,
+      "entity_count": 2,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Freeport-McMoran\nPosted 1h ago\nAI Generated.",
+      "importance_score": 17,
+      "entity_count": 5,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "neutral"
+    }
+  ],
+  "entity_statistics": {
+    "total_entities": 39,
+    "unique_entities": 22,
+    "type_counts": {
+      "ORG": 23,
+      "DATE": 8,
+      "PERCENT": 2,
+      "GPE": 1,
+      "CARDINAL": 1,
+      "PERSON": 2,
+      "MONEY": 1,
+      "TIME": 1
+    },
+    "type_distribution": {
+      "ORG": 0.5897435897435898,
+      "DATE": 0.20512820512820512,
+      "PERCENT": 0.05128205128205128,
+      "GPE": 0.02564102564102564,
+      "CARDINAL": 0.02564102564102564,
+      "PERSON": 0.05128205128205128,
+      "MONEY": 0.02564102564102564,
+      "TIME": 0.02564102564102564
+    },
+    "most_common_entities": [
+      [
+        "FCX",
+        8
+      ],
+      [
+        "Freeport-McMoRan",
+        6
+      ],
+      [
+        "Q2",
+        5
+      ],
+      [
+        "Morgan Stanley",
+        2
+      ],
+      [
+        "Freeport-McMoRan Inc.",
+        1
+      ],
+      [
+        "today",
+        1
+      ],
+      [
+        "~15%",
+        1
+      ],
+      [
+        "~0.30%",
+        1
+      ],
+      [
+        "U.S.",
+        1
+      ],
+      [
+        "3",
+        1
+      ]
+    ],
+    "entity_types_found": [
+      "ORG",
+      "DATE",
+      "PERCENT",
+      "GPE",
+      "CARDINAL",
+      "PERSON",
+      "MONEY",
+      "TIME"
+    ],
+    "company_entities": 23,
+    "person_entities": 2,
+    "financial_entities": 3,
+    "entity_density": 0.12956810631229235
+  },
+  "financial_analysis": {
+    "money_amounts": [
+      "54"
+    ],
+    "percentages": [
+      "~15%",
+      "~0.30%"
+    ],
+    "companies": [
+      "Freeport-McMoRan Inc.",
+      "FCX",
+      "FCX",
+      "FCX",
+      "Freeport-McMoRan",
+      "Zacks",
+      "FCX",
+      "Freeport-McMoRan",
+      "FCX",
+      "Freeport-McMoRan",
+      "FCX",
+      "Forbes",
+      "Freeport-McMoRan",
+      "Morgan Stanley",
+      "FCX",
+      "Morgan Stanley",
+      "Freeport-McMoRan",
+      "Barron's",
+      "Freeport-McMoRan",
+      "SchaeffersResearch",
+      "FCX",
+      "CNBC",
+      "Freeport-McMoran"
+    ],
+    "people": [
+      "Trump",
+      "Jim Cramer"
+    ],
+    "dates": [
+      "today",
+      "Q2",
+      "Q2",
+      "Q2",
+      "July 22",
+      "Tuesday",
+      "Q2",
+      "Q2"
+    ],
+    "financial_terms": [
+      "Stock",
+      "Growth",
+      "Earnings",
+      "earnings",
+      "stock",
+      "growth",
+      "trading",
+      "Trading"
+    ],
+    "financial_metrics": [],
+    "market_indicators": [
+      "rally",
+      "price",
+      "target",
+      "volatility"
+    ]
+  },
+  "temporal_analysis": {
+    "dates": [
+      "today",
+      "Q2",
+      "Q2",
+      "Q2",
+      "July 22",
+      "Tuesday",
+      "Q2",
+      "Q2"
+    ],
+    "time_expressions": [
+      "1h ago"
+    ],
+    "temporal_relationships": [
+      "upcoming",
+      "today",
+      "recent"
+    ],
+    "quarters": [
+      "Q2",
+      "Q2",
+      "Q2",
+      "Q2",
+      "Q2"
+    ],
+    "years": [],
+    "time_periods": []
+  },
+  "sentiment_analysis": {
+    "positive_words": 11,
+    "negative_words": 4,
+    "positive_ratio": 0.036544850498338874,
+    "negative_ratio": 0.013289036544850499,
+    "sentiment_score": 0.023255813953488375,
+    "sentiment_label": "positive",
+    "sentiment_strength": 0.023255813953488375,
+    "confidence": 0.23255813953488375
+  },
+  "industry_analysis": {
+    "dominant_industry": "mining",
+    "industry_scores": {
+      "tech": 1,
+      "finance": 2,
+      "healthcare": 0,
+      "energy": 0,
+      "retail": 0,
+      "automotive": 0,
+      "media": 0,
+      "industrial": 0,
+      "real_estate": 0,
+      "telecom": 0,
+      "food_beverage": 0,
+      "travel": 0,
+      "education": 0,
+      "professional": 0,
+      "mining": 9,
+      "aerospace": 0,
+      "environmental": 0,
+      "cannabis": 0
+    },
+    "confidence": 0.75
+  },
+  "market_analysis": {
+    "market_sentiment": "bullish",
+    "bullish_indicators": 3,
+    "bearish_indicators": 0,
+    "market_conditions": {
+      "volatility": "high",
+      "volume": "normal",
+      "trend": "bullish"
+    },
+    "trading_activity": "normal"
+  },
+  "competitor_analysis": {
+    "companies_mentioned": [
+      "Freeport-McMoRan Inc.",
+      "FCX",
+      "FCX",
+      "FCX",
+      "Freeport-McMoRan",
+      "Zacks",
+      "FCX",
+      "Freeport-McMoRan",
+      "FCX",
+      "Freeport-McMoRan",
+      "FCX",
+      "Forbes",
+      "Freeport-McMoRan",
+      "Morgan Stanley",
+      "FCX",
+      "Morgan Stanley",
+      "Freeport-McMoRan",
+      "Barron's",
+      "Freeport-McMoRan",
+      "SchaeffersResearch",
+      "FCX",
+      "CNBC",
+      "Freeport-McMoran"
+    ],
+    "competitive_context": [],
+    "competitor_count": 23,
+    "has_competitive_language": false
+  },
+  "risk_analysis": {
+    "risk_sentences": [
+      "MarketBeat notes FCX will report Q2 results on July 22, setting the stage for volatility around the release.",
+      "CNBC's Jim Cramer advised viewers to pause trading FCX, implying caution amid recent volatility."
+    ],
+    "risk_count": 2,
+    "risk_level": "medium"
+  },
+  "opportunity_analysis": {
+    "opportunity_sentences": [
+      "FCX is positioned to beat Q2 earnings estimates thanks to favorable commodity prices and operational efficiency, potentially supporting further stock gains.",
+      "A Zacks report highlights FCX as a top long-term growth stock given its scale in copper production and strong style scores.",
+      "Why Freeport-McMoRan (FCX) is a Top Growth Stock for the Long-Term\nNeutral Sentiment:"
+    ],
+    "opportunity_count": 3,
+    "opportunity_level": "medium"
+  },
+  "processing_metadata": {
+    "timestamp": "2025-07-17T02:45:37.781937",
+    "model_used": "en_core_web_trf",
+    "text_length": 2147
+  }
+}
