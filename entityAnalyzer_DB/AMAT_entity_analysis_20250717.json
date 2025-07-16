@@ -1,0 +1,3062 @@
+{
+  "ticker": "AMAT",
+  "entities": [
+    {
+      "text": "Applied Materials, Inc.",
+      "label": "ORG",
+      "start": 13,
+      "end": 36,
+      "sentence": "Investors in Applied Materials, Inc. (AMAT) have seen mixed signals this week as the stock reacts to analyst revisions, target upgrades, and the broader chip-equipment demand backdrop.",
+      "context": "Investors in Applied Materials, Inc. (AMAT) have seen mixed signals this week as the s",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AMAT",
+      "label": "ORG",
+      "start": 38,
+      "end": 42,
+      "sentence": "Investors in Applied Materials, Inc. (AMAT) have seen mixed signals this week as the stock reacts to analyst revisions, target upgrades, and the broader chip-equipment demand backdrop.",
+      "context": "Investors in Applied Materials, Inc. (AMAT) have seen mixed signals this week as the stock r",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "this week",
+      "label": "DATE",
+      "start": 68,
+      "end": 77,
+      "sentence": "Investors in Applied Materials, Inc. (AMAT) have seen mixed signals this week as the stock reacts to analyst revisions, target upgrades, and the broader chip-equipment demand backdrop.",
+      "context": "ed Materials, Inc. (AMAT) have seen mixed signals this week as the stock reacts to analyst revisions, target",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AMAT",
+      "label": "ORG",
+      "start": 226,
+      "end": 230,
+      "sentence": "Below are the key developments affecting AMAT shares:",
+      "context": "ackdrop. Below are the key developments affecting AMAT shares:\nPositive Sentiment:\nApplied Materials has",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Applied Materials",
+      "label": "ORG",
+      "start": 259,
+      "end": 276,
+      "sentence": "Positive Sentiment:\nApplied Materials has surged roughly 14% over the past month on the back of strong chip-tool demand, expanding profit margins, and a broad product portfolio edge.",
+      "context": "pments affecting AMAT shares:\nPositive Sentiment:\nApplied Materials has surged roughly 14% over the past month on the",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "roughly 14%",
+      "label": "PERCENT",
+      "start": 288,
+      "end": 299,
+      "sentence": "Positive Sentiment:\nApplied Materials has surged roughly 14% over the past month on the back of strong chip-tool demand, expanding profit margins, and a broad product portfolio edge.",
+      "context": "Positive Sentiment:\nApplied Materials has surged roughly 14% over the past month on the back of strong chip-to",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "the past month",
+      "label": "DATE",
+      "start": 305,
+      "end": 319,
+      "sentence": "Positive Sentiment:\nApplied Materials has surged roughly 14% over the past month on the back of strong chip-tool demand, expanding profit margins, and a broad product portfolio edge.",
+      "context": "nt:\nApplied Materials has surged roughly 14% over the past month on the back of strong chip-tool demand, expanding",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Applied Materials",
+      "label": "ORG",
+      "start": 422,
+      "end": 439,
+      "sentence": "Applied Materials Soars 14% in a Month: Time to Buy or Hold the Stock?",
+      "context": "ofit margins, and a broad product portfolio edge.\nApplied Materials Soars 14% in a Month: Time to Buy or Hold the Sto",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "14%",
+      "label": "PERCENT",
+      "start": 446,
+      "end": 449,
+      "sentence": "Applied Materials Soars 14% in a Month: Time to Buy or Hold the Stock?",
+      "context": "d product portfolio edge.\nApplied Materials Soars 14% in a Month: Time to Buy or Hold the Stock?\nPositi",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "a Month",
+      "label": "DATE",
+      "start": 453,
+      "end": 460,
+      "sentence": "Applied Materials Soars 14% in a Month: Time to Buy or Hold the Stock?",
+      "context": "ct portfolio edge.\nApplied Materials Soars 14% in a Month: Time to Buy or Hold the Stock?\nPositive Sentimen",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AMAT",
+      "label": "ORG",
+      "start": 513,
+      "end": 517,
+      "sentence": "Positive Sentiment:\nAMAT shares rose about 1.1% despite a broader market downturn, underscoring company-specific strengths and steady demand in its end markets.",
+      "context": "ime to Buy or Hold the Stock?\nPositive Sentiment:\nAMAT shares rose about 1.1% despite a broader market d",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "about 1.1%",
+      "label": "PERCENT",
+      "start": 530,
+      "end": 540,
+      "sentence": "Positive Sentiment:\nAMAT shares rose about 1.1% despite a broader market downturn, underscoring company-specific strengths and steady demand in its end markets.",
+      "context": "d the Stock?\nPositive Sentiment:\nAMAT shares rose about 1.1% despite a broader market downturn, underscoring c",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Applied Materials",
+      "label": "ORG",
+      "start": 654,
+      "end": 671,
+      "sentence": "Applied Materials (AMAT) Increases Despite Market Slip:",
+      "context": "c strengths and steady demand in its end markets.\nApplied Materials (AMAT) Increases Despite Market Slip: Here's What",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AMAT",
+      "label": "ORG",
+      "start": 673,
+      "end": 677,
+      "sentence": "Applied Materials (AMAT) Increases Despite Market Slip:",
+      "context": "ady demand in its end markets.\nApplied Materials (AMAT) Increases Despite Market Slip: Here's What You N",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "1.3%",
+      "label": "PERCENT",
+      "start": 774,
+      "end": 778,
+      "sentence": "Here's What You Need to Know\nPositive Sentiment:\nShares climbed 1.3% following an analyst upgrade, reflecting growing bullishness on AMAT’s growth prospects.\nApplied Materials (NASDAQ:AMAT)",
+      "context": "u Need to Know\nPositive Sentiment:\nShares climbed 1.3% following an analyst upgrade, reflecting growing",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "AMAT",
+      "label": "ORG",
+      "start": 843,
+      "end": 847,
+      "sentence": "Here's What You Need to Know\nPositive Sentiment:\nShares climbed 1.3% following an analyst upgrade, reflecting growing bullishness on AMAT’s growth prospects.\nApplied Materials (NASDAQ:AMAT)",
+      "context": "nalyst upgrade, reflecting growing bullishness on AMAT’s growth prospects.\nApplied Materials (NASDAQ:AMA",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Applied Materials",
+      "label": "ORG",
+      "start": 868,
+      "end": 885,
+      "sentence": "Here's What You Need to Know\nPositive Sentiment:\nShares climbed 1.3% following an analyst upgrade, reflecting growing bullishness on AMAT’s growth prospects.\nApplied Materials (NASDAQ:AMAT)",
+      "context": "g growing bullishness on AMAT’s growth prospects.\nApplied Materials (NASDAQ:AMAT) Shares Up 1.3% Following Analyst Up",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AMAT",
+      "label": "ORG",
+      "start": 894,
+      "end": 898,
+      "sentence": "Here's What You Need to Know\nPositive Sentiment:\nShares climbed 1.3% following an analyst upgrade, reflecting growing bullishness on AMAT’s growth prospects.\nApplied Materials (NASDAQ:AMAT)",
+      "context": "MAT’s growth prospects.\nApplied Materials (NASDAQ:AMAT) Shares Up 1.3% Following Analyst Upgrade\nPositiv",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "1.3%",
+      "label": "PERCENT",
+      "start": 910,
+      "end": 914,
+      "sentence": "Shares Up 1.3% Following Analyst Upgrade",
+      "context": "spects.\nApplied Materials (NASDAQ:AMAT) Shares Up 1.3% Following Analyst Upgrade\nPositive Sentiment:\nMiz",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Mizuho",
+      "label": "ORG",
+      "start": 961,
+      "end": 967,
+      "sentence": "Mizuho raised its price target on AMAT to $220 from $195, signaling confidence in the company’s mid-cycle demand strength.",
+      "context": ".3% Following Analyst Upgrade\nPositive Sentiment:\nMizuho raised its price target on AMAT to $220 from $195",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AMAT",
+      "label": "ORG",
+      "start": 995,
+      "end": 999,
+      "sentence": "Mizuho raised its price target on AMAT to $220 from $195, signaling confidence in the company’s mid-cycle demand strength.",
+      "context": "tive Sentiment:\nMizuho raised its price target on AMAT to $220 from $195, signaling confidence in the co",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "220",
+      "label": "MONEY",
+      "start": 1004,
+      "end": 1007,
+      "sentence": "Mizuho raised its price target on AMAT to $220 from $195, signaling confidence in the company’s mid-cycle demand strength.",
+      "context": "iment:\nMizuho raised its price target on AMAT to $220 from $195, signaling confidence in the company’s",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "195",
+      "label": "MONEY",
+      "start": 1014,
+      "end": 1017,
+      "sentence": "Mizuho raised its price target on AMAT to $220 from $195, signaling confidence in the company’s mid-cycle demand strength.",
+      "context": "uho raised its price target on AMAT to $220 from $195, signaling confidence in the company’s mid-cycle",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Applied Materials",
+      "label": "ORG",
+      "start": 1084,
+      "end": 1101,
+      "sentence": "Applied Materials price target raised to $220 from $195 at Mizuho\nNeutral Sentiment:",
+      "context": "dence in the company’s mid-cycle demand strength.\nApplied Materials price target raised to $220 from $195 at Mizuho\nN",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "220",
+      "label": "MONEY",
+      "start": 1126,
+      "end": 1129,
+      "sentence": "Applied Materials price target raised to $220 from $195 at Mizuho\nNeutral Sentiment:",
+      "context": "rength.\nApplied Materials price target raised to $220 from $195 at Mizuho\nNeutral Sentiment:\nWall Stree",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "195",
+      "label": "MONEY",
+      "start": 1136,
+      "end": 1139,
+      "sentence": "Applied Materials price target raised to $220 from $195 at Mizuho\nNeutral Sentiment:",
+      "context": "plied Materials price target raised to $220 from $195 at Mizuho\nNeutral Sentiment:\nWall Street analysts",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Mizuho",
+      "label": "ORG",
+      "start": 1143,
+      "end": 1149,
+      "sentence": "Applied Materials price target raised to $220 from $195 at Mizuho\nNeutral Sentiment:",
+      "context": "aterials price target raised to $220 from $195 at Mizuho\nNeutral Sentiment:\nWall Street analysts remain br",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AMAT",
+      "label": "ORG",
+      "start": 1216,
+      "end": 1220,
+      "sentence": "Wall Street analysts remain broadly bullish on AMAT, but some investors question whether sell-side ratings carry enough weight to move the stock significantly.",
+      "context": "t:\nWall Street analysts remain broadly bullish on AMAT, but some investors question whether sell-side ra",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Applied Materials",
+      "label": "ORG",
+      "start": 1354,
+      "end": 1371,
+      "sentence": "Is It Worth Investing in Applied Materials (AMAT) Based on Wall Street's Bullish Views?",
+      "context": "the stock significantly.\nIs It Worth Investing in Applied Materials (AMAT) Based on Wall Street's Bullish Views?\nNeut",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Barron's",
+      "label": "ORG",
+      "start": 1436,
+      "end": 1444,
+      "sentence": "Neutral Sentiment:\nBarron's published a company profile highlighting AMAT’s leadership and strategic initiatives, offering context but no new catalyst.",
+      "context": "n Wall Street's Bullish Views?\nNeutral Sentiment:\nBarron's published a company profile highlighting AMAT’s l",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AMAT",
+      "label": "ORG",
+      "start": 1486,
+      "end": 1490,
+      "sentence": "Neutral Sentiment:\nBarron's published a company profile highlighting AMAT’s leadership and strategic initiatives, offering context but no new catalyst.",
+      "context": "Barron's published a company profile highlighting AMAT’s leadership and strategic initiatives, offering",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Applied Materials Inc.",
+      "label": "ORG",
+      "start": 1569,
+      "end": 1591,
+      "sentence": "Applied Materials Inc. Company & People | AMAT | Barron's\nNeutral Sentiment:",
+      "context": "nitiatives, offering context but no new catalyst.\nApplied Materials Inc. Company & People | AMAT | Barron's\nNeutral Sentim",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AMAT",
+      "label": "ORG",
+      "start": 1611,
+      "end": 1615,
+      "sentence": "Applied Materials Inc. Company & People | AMAT | Barron's\nNeutral Sentiment:",
+      "context": "talyst.\nApplied Materials Inc. Company & People | AMAT | Barron's\nNeutral Sentiment:\nBenzinga noted rece",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Barron's",
+      "label": "ORG",
+      "start": 1618,
+      "end": 1626,
+      "sentence": "Applied Materials Inc. Company & People | AMAT | Barron's\nNeutral Sentiment:",
+      "context": "Applied Materials Inc. Company & People | AMAT | Barron's\nNeutral Sentiment:\nBenzinga noted recent AMAT gai",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Benzinga",
+      "label": "ORG",
+      "start": 1646,
+      "end": 1654,
+      "sentence": "Benzinga noted recent AMAT gains and explored potential drivers behind the uptick, without citing a definitive catalyst.",
+      "context": "any & People | AMAT | Barron's\nNeutral Sentiment:\nBenzinga noted recent AMAT gains and explored potential dr",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AMAT",
+      "label": "ORG",
+      "start": 1668,
+      "end": 1672,
+      "sentence": "Benzinga noted recent AMAT gains and explored potential drivers behind the uptick, without citing a definitive catalyst.",
+      "context": "Barron's\nNeutral Sentiment:\nBenzinga noted recent AMAT gains and explored potential drivers behind the u",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Applied Materials",
+      "label": "ORG",
+      "start": 1767,
+      "end": 1784,
+      "sentence": "Applied Materials (AMAT) Stock Is Rising: What's Going On?",
+      "context": "the uptick, without citing a definitive catalyst.\nApplied Materials (AMAT) Stock Is Rising: What's Going On?\nNeutral",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AMAT",
+      "label": "ORG",
+      "start": 1786,
+      "end": 1790,
+      "sentence": "Applied Materials (AMAT) Stock Is Rising: What's Going On?",
+      "context": "citing a definitive catalyst.\nApplied Materials (AMAT) Stock Is Rising: What's Going On?\nNeutral Sentim",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AMAT",
+      "label": "ORG",
+      "start": 1845,
+      "end": 1849,
+      "sentence": "AMAT has drawn heavy search and discussion on Zacks.com, but the coverage remains informational rather than indicating a clear directional push.",
+      "context": "ck Is Rising: What's Going On?\nNeutral Sentiment:\nAMAT has drawn heavy search and discussion on Zacks.co",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Applied Materials, Inc.",
+      "label": "ORG",
+      "start": 1990,
+      "end": 2013,
+      "sentence": "Applied Materials, Inc. (AMAT) is Attracting Investor Attention: Here is What You Should Know",
+      "context": "rather than indicating a clear directional push.\nApplied Materials, Inc. (AMAT) is Attracting Investor Attention: Here is",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AMAT",
+      "label": "ORG",
+      "start": 2015,
+      "end": 2019,
+      "sentence": "Applied Materials, Inc. (AMAT) is Attracting Investor Attention: Here is What You Should Know",
+      "context": "clear directional push.\nApplied Materials, Inc. (AMAT) is Attracting Investor Attention: Here is What Y",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AMAT",
+      "label": "ORG",
+      "start": 2104,
+      "end": 2108,
+      "sentence": "AMAT shares dipped about 3.6% amid profit-taking and questions over near-term growth, sparking “time to sell?” headlines.",
+      "context": "Here is What You Should Know\nNegative Sentiment:\nAMAT shares dipped about 3.6% amid profit-taking and q",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "about 3.6%",
+      "label": "PERCENT",
+      "start": 2123,
+      "end": 2133,
+      "sentence": "AMAT shares dipped about 3.6% amid profit-taking and questions over near-term growth, sparking “time to sell?” headlines.",
+      "context": "hould Know\nNegative Sentiment:\nAMAT shares dipped about 3.6% amid profit-taking and questions over near-term g",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Applied Materials",
+      "label": "ORG",
+      "start": 2226,
+      "end": 2243,
+      "sentence": "Applied Materials (NASDAQ:AMAT) Stock Price Down 3.6% - Time to Sell?",
+      "context": "-term growth, sparking “time to sell?” headlines.\nApplied Materials (NASDAQ:AMAT) Stock Price Down 3.6% - Time to Sel",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AMAT",
+      "label": "ORG",
+      "start": 2252,
+      "end": 2256,
+      "sentence": "Applied Materials (NASDAQ:AMAT) Stock Price Down 3.6% - Time to Sell?",
+      "context": "me to sell?” headlines.\nApplied Materials (NASDAQ:AMAT) Stock Price Down 3.6% - Time to Sell?\nNegative S",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "3.6%",
+      "label": "PERCENT",
+      "start": 2275,
+      "end": 2279,
+      "sentence": "Applied Materials (NASDAQ:AMAT) Stock Price Down 3.6% - Time to Sell?",
+      "context": "Applied Materials (NASDAQ:AMAT) Stock Price Down 3.6% - Time to Sell?\nNegative Sentiment:\nShares opened",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Applied Materials",
+      "label": "ORG",
+      "start": 2431,
+      "end": 2448,
+      "sentence": "Negative Sentiment:\nShares opened sharply lower in a gap-down move, prompting fresh sell calls and concerns about short-term momentum.\nApplied Materials (NASDAQ:AMAT) Shares Gap Down - Should You Sell?\nPosted 2h ago\nAI Generated.",
+      "context": "ell calls and concerns about short-term momentum.\nApplied Materials (NASDAQ:AMAT) Shares Gap Down - Should You Sell?",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AMAT",
+      "label": "ORG",
+      "start": 2457,
+      "end": 2461,
+      "sentence": "Negative Sentiment:\nShares opened sharply lower in a gap-down move, prompting fresh sell calls and concerns about short-term momentum.\nApplied Materials (NASDAQ:AMAT) Shares Gap Down - Should You Sell?\nPosted 2h ago\nAI Generated.",
+      "context": "ut short-term momentum.\nApplied Materials (NASDAQ:AMAT) Shares Gap Down - Should You Sell?\nPosted 2h ago",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "2h ago",
+      "label": "DATE",
+      "start": 2505,
+      "end": 2511,
+      "sentence": "Negative Sentiment:\nShares opened sharply lower in a gap-down move, prompting fresh sell calls and concerns about short-term momentum.\nApplied Materials (NASDAQ:AMAT) Shares Gap Down - Should You Sell?\nPosted 2h ago\nAI Generated.",
+      "context": "Q:AMAT) Shares Gap Down - Should You Sell?\nPosted 2h ago\nAI Generated. May Contain Errors.",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AI Generated",
+      "label": "ORG",
+      "start": 2512,
+      "end": 2524,
+      "sentence": "Negative Sentiment:\nShares opened sharply lower in a gap-down move, prompting fresh sell calls and concerns about short-term momentum.\nApplied Materials (NASDAQ:AMAT) Shares Gap Down - Should You Sell?\nPosted 2h ago\nAI Generated.",
+      "context": "Shares Gap Down - Should You Sell?\nPosted 2h ago\nAI Generated. May Contain Errors.",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    }
+  ],
+  "relationships": [
+    {
+      "type": "SVO",
+      "subject": "Investors",
+      "verb": "seen",
+      "object": "signals",
+      "sentence": "Investors in Applied Materials, Inc. (AMAT) have seen mixed signals this week as the stock reacts to analyst revisions, target upgrades, and the broader chip-equipment demand backdrop.",
+      "importance": 10
+    },
+    {
+      "type": "SVO",
+      "subject": "Mizuho",
+      "verb": "raised",
+      "object": "target",
+      "sentence": "Mizuho raised its price target on AMAT to $220 from $195, signaling confidence in the company’s mid-cycle demand strength.",
+      "importance": 5
+    },
+    {
+      "type": "SVO",
+      "subject": "ratings",
+      "verb": "carry",
+      "object": "weight",
+      "sentence": "Wall Street analysts remain broadly bullish on AMAT, but some investors question whether sell-side ratings carry enough weight to move the stock significantly.",
+      "importance": 3
+    },
+    {
+      "type": "SVO",
+      "subject": "Sentiment",
+      "verb": "published",
+      "object": "profile",
+      "sentence": "Neutral Sentiment:\nBarron's published a company profile highlighting AMAT’s leadership and strategic initiatives, offering context but no new catalyst.",
+      "importance": 3
+    },
+    {
+      "type": "SVO",
+      "subject": "Barron",
+      "verb": "published",
+      "object": "profile",
+      "sentence": "Neutral Sentiment:\nBarron's published a company profile highlighting AMAT’s leadership and strategic initiatives, offering context but no new catalyst.",
+      "importance": 3
+    },
+    {
+      "type": "SVO",
+      "subject": "Benzinga",
+      "verb": "noted",
+      "object": "gains",
+      "sentence": "Benzinga noted recent AMAT gains and explored potential drivers behind the uptick, without citing a definitive catalyst.",
+      "importance": 3
+    },
+    {
+      "type": "SVO",
+      "subject": "AMAT",
+      "verb": "drawn",
+      "object": "search",
+      "sentence": "AMAT has drawn heavy search and discussion on Zacks.com, but the coverage remains informational rather than indicating a clear directional push.",
+      "importance": 1
+    },
+    {
+      "type": "SVO",
+      "subject": "Materials",
+      "verb": "Attracting",
+      "object": "Attention",
+      "sentence": "Applied Materials, Inc. (AMAT) is Attracting Investor Attention: Here is What You Should Know",
+      "importance": 5
+    },
+    {
+      "type": "SVO",
+      "subject": "You",
+      "verb": "Know",
+      "object": "What",
+      "sentence": "Applied Materials, Inc. (AMAT) is Attracting Investor Attention: Here is What You Should Know",
+      "importance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "Materials",
+      "entity2_type": "ORG",
+      "sentence": "Investors in Applied Materials, Inc. (AMAT) have seen mixed signals this week as the stock reacts to analyst revisions, target upgrades, and the broader chip-equipment demand backdrop.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": ",",
+      "entity2_type": "ORG",
+      "sentence": "Investors in Applied Materials, Inc. (AMAT) have seen mixed signals this week as the stock reacts to analyst revisions, target upgrades, and the broader chip-equipment demand backdrop.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Investors in Applied Materials, Inc. (AMAT) have seen mixed signals this week as the stock reacts to analyst revisions, target upgrades, and the broader chip-equipment demand backdrop.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "AMAT",
+      "entity2_type": "ORG",
+      "sentence": "Investors in Applied Materials, Inc. (AMAT) have seen mixed signals this week as the stock reacts to analyst revisions, target upgrades, and the broader chip-equipment demand backdrop.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "this",
+      "entity2_type": "DATE",
+      "sentence": "Investors in Applied Materials, Inc. (AMAT) have seen mixed signals this week as the stock reacts to analyst revisions, target upgrades, and the broader chip-equipment demand backdrop.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "week",
+      "entity2_type": "DATE",
+      "sentence": "Investors in Applied Materials, Inc. (AMAT) have seen mixed signals this week as the stock reacts to analyst revisions, target upgrades, and the broader chip-equipment demand backdrop.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Materials",
+      "entity1_type": "ORG",
+      "entity2": ",",
+      "entity2_type": "ORG",
+      "sentence": "Investors in Applied Materials, Inc. (AMAT) have seen mixed signals this week as the stock reacts to analyst revisions, target upgrades, and the broader chip-equipment demand backdrop.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Materials",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Investors in Applied Materials, Inc. (AMAT) have seen mixed signals this week as the stock reacts to analyst revisions, target upgrades, and the broader chip-equipment demand backdrop.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Materials",
+      "entity1_type": "ORG",
+      "entity2": "AMAT",
+      "entity2_type": "ORG",
+      "sentence": "Investors in Applied Materials, Inc. (AMAT) have seen mixed signals this week as the stock reacts to analyst revisions, target upgrades, and the broader chip-equipment demand backdrop.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Materials",
+      "entity1_type": "ORG",
+      "entity2": "this",
+      "entity2_type": "DATE",
+      "sentence": "Investors in Applied Materials, Inc. (AMAT) have seen mixed signals this week as the stock reacts to analyst revisions, target upgrades, and the broader chip-equipment demand backdrop.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Materials",
+      "entity1_type": "ORG",
+      "entity2": "week",
+      "entity2_type": "DATE",
+      "sentence": "Investors in Applied Materials, Inc. (AMAT) have seen mixed signals this week as the stock reacts to analyst revisions, target upgrades, and the broader chip-equipment demand backdrop.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Investors in Applied Materials, Inc. (AMAT) have seen mixed signals this week as the stock reacts to analyst revisions, target upgrades, and the broader chip-equipment demand backdrop.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "AMAT",
+      "entity2_type": "ORG",
+      "sentence": "Investors in Applied Materials, Inc. (AMAT) have seen mixed signals this week as the stock reacts to analyst revisions, target upgrades, and the broader chip-equipment demand backdrop.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "this",
+      "entity2_type": "DATE",
+      "sentence": "Investors in Applied Materials, Inc. (AMAT) have seen mixed signals this week as the stock reacts to analyst revisions, target upgrades, and the broader chip-equipment demand backdrop.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "week",
+      "entity2_type": "DATE",
+      "sentence": "Investors in Applied Materials, Inc. (AMAT) have seen mixed signals this week as the stock reacts to analyst revisions, target upgrades, and the broader chip-equipment demand backdrop.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "AMAT",
+      "entity2_type": "ORG",
+      "sentence": "Investors in Applied Materials, Inc. (AMAT) have seen mixed signals this week as the stock reacts to analyst revisions, target upgrades, and the broader chip-equipment demand backdrop.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "this",
+      "entity2_type": "DATE",
+      "sentence": "Investors in Applied Materials, Inc. (AMAT) have seen mixed signals this week as the stock reacts to analyst revisions, target upgrades, and the broader chip-equipment demand backdrop.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "week",
+      "entity2_type": "DATE",
+      "sentence": "Investors in Applied Materials, Inc. (AMAT) have seen mixed signals this week as the stock reacts to analyst revisions, target upgrades, and the broader chip-equipment demand backdrop.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMAT",
+      "entity1_type": "ORG",
+      "entity2": "this",
+      "entity2_type": "DATE",
+      "sentence": "Investors in Applied Materials, Inc. (AMAT) have seen mixed signals this week as the stock reacts to analyst revisions, target upgrades, and the broader chip-equipment demand backdrop.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMAT",
+      "entity1_type": "ORG",
+      "entity2": "week",
+      "entity2_type": "DATE",
+      "sentence": "Investors in Applied Materials, Inc. (AMAT) have seen mixed signals this week as the stock reacts to analyst revisions, target upgrades, and the broader chip-equipment demand backdrop.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "this",
+      "entity1_type": "DATE",
+      "entity2": "week",
+      "entity2_type": "DATE",
+      "sentence": "Investors in Applied Materials, Inc. (AMAT) have seen mixed signals this week as the stock reacts to analyst revisions, target upgrades, and the broader chip-equipment demand backdrop.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "Materials",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nApplied Materials has surged roughly 14% over the past month on the back of strong chip-tool demand, expanding profit margins, and a broad product portfolio edge.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "roughly",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nApplied Materials has surged roughly 14% over the past month on the back of strong chip-tool demand, expanding profit margins, and a broad product portfolio edge.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "14",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nApplied Materials has surged roughly 14% over the past month on the back of strong chip-tool demand, expanding profit margins, and a broad product portfolio edge.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nApplied Materials has surged roughly 14% over the past month on the back of strong chip-tool demand, expanding profit margins, and a broad product portfolio edge.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "the",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nApplied Materials has surged roughly 14% over the past month on the back of strong chip-tool demand, expanding profit margins, and a broad product portfolio edge.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "past",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nApplied Materials has surged roughly 14% over the past month on the back of strong chip-tool demand, expanding profit margins, and a broad product portfolio edge.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "month",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nApplied Materials has surged roughly 14% over the past month on the back of strong chip-tool demand, expanding profit margins, and a broad product portfolio edge.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Materials",
+      "entity1_type": "ORG",
+      "entity2": "roughly",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nApplied Materials has surged roughly 14% over the past month on the back of strong chip-tool demand, expanding profit margins, and a broad product portfolio edge.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Materials",
+      "entity1_type": "ORG",
+      "entity2": "14",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nApplied Materials has surged roughly 14% over the past month on the back of strong chip-tool demand, expanding profit margins, and a broad product portfolio edge.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Materials",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nApplied Materials has surged roughly 14% over the past month on the back of strong chip-tool demand, expanding profit margins, and a broad product portfolio edge.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Materials",
+      "entity1_type": "ORG",
+      "entity2": "the",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nApplied Materials has surged roughly 14% over the past month on the back of strong chip-tool demand, expanding profit margins, and a broad product portfolio edge.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Materials",
+      "entity1_type": "ORG",
+      "entity2": "past",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nApplied Materials has surged roughly 14% over the past month on the back of strong chip-tool demand, expanding profit margins, and a broad product portfolio edge.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Materials",
+      "entity1_type": "ORG",
+      "entity2": "month",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nApplied Materials has surged roughly 14% over the past month on the back of strong chip-tool demand, expanding profit margins, and a broad product portfolio edge.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "roughly",
+      "entity1_type": "PERCENT",
+      "entity2": "14",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nApplied Materials has surged roughly 14% over the past month on the back of strong chip-tool demand, expanding profit margins, and a broad product portfolio edge.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "roughly",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nApplied Materials has surged roughly 14% over the past month on the back of strong chip-tool demand, expanding profit margins, and a broad product portfolio edge.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "roughly",
+      "entity1_type": "PERCENT",
+      "entity2": "the",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nApplied Materials has surged roughly 14% over the past month on the back of strong chip-tool demand, expanding profit margins, and a broad product portfolio edge.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "roughly",
+      "entity1_type": "PERCENT",
+      "entity2": "past",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nApplied Materials has surged roughly 14% over the past month on the back of strong chip-tool demand, expanding profit margins, and a broad product portfolio edge.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "roughly",
+      "entity1_type": "PERCENT",
+      "entity2": "month",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nApplied Materials has surged roughly 14% over the past month on the back of strong chip-tool demand, expanding profit margins, and a broad product portfolio edge.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "14",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nApplied Materials has surged roughly 14% over the past month on the back of strong chip-tool demand, expanding profit margins, and a broad product portfolio edge.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "14",
+      "entity1_type": "PERCENT",
+      "entity2": "the",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nApplied Materials has surged roughly 14% over the past month on the back of strong chip-tool demand, expanding profit margins, and a broad product portfolio edge.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "14",
+      "entity1_type": "PERCENT",
+      "entity2": "past",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nApplied Materials has surged roughly 14% over the past month on the back of strong chip-tool demand, expanding profit margins, and a broad product portfolio edge.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "14",
+      "entity1_type": "PERCENT",
+      "entity2": "month",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nApplied Materials has surged roughly 14% over the past month on the back of strong chip-tool demand, expanding profit margins, and a broad product portfolio edge.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "the",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nApplied Materials has surged roughly 14% over the past month on the back of strong chip-tool demand, expanding profit margins, and a broad product portfolio edge.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "past",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nApplied Materials has surged roughly 14% over the past month on the back of strong chip-tool demand, expanding profit margins, and a broad product portfolio edge.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "month",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nApplied Materials has surged roughly 14% over the past month on the back of strong chip-tool demand, expanding profit margins, and a broad product portfolio edge.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "past",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nApplied Materials has surged roughly 14% over the past month on the back of strong chip-tool demand, expanding profit margins, and a broad product portfolio edge.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "month",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nApplied Materials has surged roughly 14% over the past month on the back of strong chip-tool demand, expanding profit margins, and a broad product portfolio edge.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "past",
+      "entity1_type": "DATE",
+      "entity2": "month",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nApplied Materials has surged roughly 14% over the past month on the back of strong chip-tool demand, expanding profit margins, and a broad product portfolio edge.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "Materials",
+      "entity2_type": "ORG",
+      "sentence": "Applied Materials Soars 14% in a Month: Time to Buy or Hold the Stock?",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "14",
+      "entity2_type": "PERCENT",
+      "sentence": "Applied Materials Soars 14% in a Month: Time to Buy or Hold the Stock?",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Applied Materials Soars 14% in a Month: Time to Buy or Hold the Stock?",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "a",
+      "entity2_type": "DATE",
+      "sentence": "Applied Materials Soars 14% in a Month: Time to Buy or Hold the Stock?",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "Month",
+      "entity2_type": "DATE",
+      "sentence": "Applied Materials Soars 14% in a Month: Time to Buy or Hold the Stock?",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Materials",
+      "entity1_type": "ORG",
+      "entity2": "14",
+      "entity2_type": "PERCENT",
+      "sentence": "Applied Materials Soars 14% in a Month: Time to Buy or Hold the Stock?",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Materials",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Applied Materials Soars 14% in a Month: Time to Buy or Hold the Stock?",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Materials",
+      "entity1_type": "ORG",
+      "entity2": "a",
+      "entity2_type": "DATE",
+      "sentence": "Applied Materials Soars 14% in a Month: Time to Buy or Hold the Stock?",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Materials",
+      "entity1_type": "ORG",
+      "entity2": "Month",
+      "entity2_type": "DATE",
+      "sentence": "Applied Materials Soars 14% in a Month: Time to Buy or Hold the Stock?",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "14",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Applied Materials Soars 14% in a Month: Time to Buy or Hold the Stock?",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "14",
+      "entity1_type": "PERCENT",
+      "entity2": "a",
+      "entity2_type": "DATE",
+      "sentence": "Applied Materials Soars 14% in a Month: Time to Buy or Hold the Stock?",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "14",
+      "entity1_type": "PERCENT",
+      "entity2": "Month",
+      "entity2_type": "DATE",
+      "sentence": "Applied Materials Soars 14% in a Month: Time to Buy or Hold the Stock?",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "a",
+      "entity2_type": "DATE",
+      "sentence": "Applied Materials Soars 14% in a Month: Time to Buy or Hold the Stock?",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "Month",
+      "entity2_type": "DATE",
+      "sentence": "Applied Materials Soars 14% in a Month: Time to Buy or Hold the Stock?",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "a",
+      "entity1_type": "DATE",
+      "entity2": "Month",
+      "entity2_type": "DATE",
+      "sentence": "Applied Materials Soars 14% in a Month: Time to Buy or Hold the Stock?",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMAT",
+      "entity1_type": "ORG",
+      "entity2": "about",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nAMAT shares rose about 1.1% despite a broader market downturn, underscoring company-specific strengths and steady demand in its end markets.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMAT",
+      "entity1_type": "ORG",
+      "entity2": "1.1",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nAMAT shares rose about 1.1% despite a broader market downturn, underscoring company-specific strengths and steady demand in its end markets.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMAT",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nAMAT shares rose about 1.1% despite a broader market downturn, underscoring company-specific strengths and steady demand in its end markets.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "about",
+      "entity1_type": "PERCENT",
+      "entity2": "1.1",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nAMAT shares rose about 1.1% despite a broader market downturn, underscoring company-specific strengths and steady demand in its end markets.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "about",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nAMAT shares rose about 1.1% despite a broader market downturn, underscoring company-specific strengths and steady demand in its end markets.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.1",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nAMAT shares rose about 1.1% despite a broader market downturn, underscoring company-specific strengths and steady demand in its end markets.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "Materials",
+      "entity2_type": "ORG",
+      "sentence": "Applied Materials (AMAT) Increases Despite Market Slip:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "AMAT",
+      "entity2_type": "ORG",
+      "sentence": "Applied Materials (AMAT) Increases Despite Market Slip:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Materials",
+      "entity1_type": "ORG",
+      "entity2": "AMAT",
+      "entity2_type": "ORG",
+      "sentence": "Applied Materials (AMAT) Increases Despite Market Slip:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.3",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Here's What You Need to Know\nPositive Sentiment:\nShares climbed 1.3% following an analyst upgrade, reflecting growing bullishness on AMAT’s growth prospects.\nApplied Materials (NASDAQ:AMAT)",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.3",
+      "entity1_type": "PERCENT",
+      "entity2": "AMAT",
+      "entity2_type": "ORG",
+      "sentence": "Here's What You Need to Know\nPositive Sentiment:\nShares climbed 1.3% following an analyst upgrade, reflecting growing bullishness on AMAT’s growth prospects.\nApplied Materials (NASDAQ:AMAT)",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.3",
+      "entity1_type": "PERCENT",
+      "entity2": "Applied",
+      "entity2_type": "ORG",
+      "sentence": "Here's What You Need to Know\nPositive Sentiment:\nShares climbed 1.3% following an analyst upgrade, reflecting growing bullishness on AMAT’s growth prospects.\nApplied Materials (NASDAQ:AMAT)",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.3",
+      "entity1_type": "PERCENT",
+      "entity2": "Materials",
+      "entity2_type": "ORG",
+      "sentence": "Here's What You Need to Know\nPositive Sentiment:\nShares climbed 1.3% following an analyst upgrade, reflecting growing bullishness on AMAT’s growth prospects.\nApplied Materials (NASDAQ:AMAT)",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.3",
+      "entity1_type": "PERCENT",
+      "entity2": "AMAT",
+      "entity2_type": "ORG",
+      "sentence": "Here's What You Need to Know\nPositive Sentiment:\nShares climbed 1.3% following an analyst upgrade, reflecting growing bullishness on AMAT’s growth prospects.\nApplied Materials (NASDAQ:AMAT)",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "AMAT",
+      "entity2_type": "ORG",
+      "sentence": "Here's What You Need to Know\nPositive Sentiment:\nShares climbed 1.3% following an analyst upgrade, reflecting growing bullishness on AMAT’s growth prospects.\nApplied Materials (NASDAQ:AMAT)",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "Applied",
+      "entity2_type": "ORG",
+      "sentence": "Here's What You Need to Know\nPositive Sentiment:\nShares climbed 1.3% following an analyst upgrade, reflecting growing bullishness on AMAT’s growth prospects.\nApplied Materials (NASDAQ:AMAT)",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "Materials",
+      "entity2_type": "ORG",
+      "sentence": "Here's What You Need to Know\nPositive Sentiment:\nShares climbed 1.3% following an analyst upgrade, reflecting growing bullishness on AMAT’s growth prospects.\nApplied Materials (NASDAQ:AMAT)",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "AMAT",
+      "entity2_type": "ORG",
+      "sentence": "Here's What You Need to Know\nPositive Sentiment:\nShares climbed 1.3% following an analyst upgrade, reflecting growing bullishness on AMAT’s growth prospects.\nApplied Materials (NASDAQ:AMAT)",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMAT",
+      "entity1_type": "ORG",
+      "entity2": "Applied",
+      "entity2_type": "ORG",
+      "sentence": "Here's What You Need to Know\nPositive Sentiment:\nShares climbed 1.3% following an analyst upgrade, reflecting growing bullishness on AMAT’s growth prospects.\nApplied Materials (NASDAQ:AMAT)",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMAT",
+      "entity1_type": "ORG",
+      "entity2": "Materials",
+      "entity2_type": "ORG",
+      "sentence": "Here's What You Need to Know\nPositive Sentiment:\nShares climbed 1.3% following an analyst upgrade, reflecting growing bullishness on AMAT’s growth prospects.\nApplied Materials (NASDAQ:AMAT)",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMAT",
+      "entity1_type": "ORG",
+      "entity2": "AMAT",
+      "entity2_type": "ORG",
+      "sentence": "Here's What You Need to Know\nPositive Sentiment:\nShares climbed 1.3% following an analyst upgrade, reflecting growing bullishness on AMAT’s growth prospects.\nApplied Materials (NASDAQ:AMAT)",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "Materials",
+      "entity2_type": "ORG",
+      "sentence": "Here's What You Need to Know\nPositive Sentiment:\nShares climbed 1.3% following an analyst upgrade, reflecting growing bullishness on AMAT’s growth prospects.\nApplied Materials (NASDAQ:AMAT)",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "AMAT",
+      "entity2_type": "ORG",
+      "sentence": "Here's What You Need to Know\nPositive Sentiment:\nShares climbed 1.3% following an analyst upgrade, reflecting growing bullishness on AMAT’s growth prospects.\nApplied Materials (NASDAQ:AMAT)",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Materials",
+      "entity1_type": "ORG",
+      "entity2": "AMAT",
+      "entity2_type": "ORG",
+      "sentence": "Here's What You Need to Know\nPositive Sentiment:\nShares climbed 1.3% following an analyst upgrade, reflecting growing bullishness on AMAT’s growth prospects.\nApplied Materials (NASDAQ:AMAT)",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.3",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Shares Up 1.3% Following Analyst Upgrade",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mizuho",
+      "entity1_type": "ORG",
+      "entity2": "AMAT",
+      "entity2_type": "ORG",
+      "sentence": "Mizuho raised its price target on AMAT to $220 from $195, signaling confidence in the company’s mid-cycle demand strength.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mizuho",
+      "entity1_type": "ORG",
+      "entity2": "220",
+      "entity2_type": "MONEY",
+      "sentence": "Mizuho raised its price target on AMAT to $220 from $195, signaling confidence in the company’s mid-cycle demand strength.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mizuho",
+      "entity1_type": "ORG",
+      "entity2": "195",
+      "entity2_type": "MONEY",
+      "sentence": "Mizuho raised its price target on AMAT to $220 from $195, signaling confidence in the company’s mid-cycle demand strength.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMAT",
+      "entity1_type": "ORG",
+      "entity2": "220",
+      "entity2_type": "MONEY",
+      "sentence": "Mizuho raised its price target on AMAT to $220 from $195, signaling confidence in the company’s mid-cycle demand strength.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMAT",
+      "entity1_type": "ORG",
+      "entity2": "195",
+      "entity2_type": "MONEY",
+      "sentence": "Mizuho raised its price target on AMAT to $220 from $195, signaling confidence in the company’s mid-cycle demand strength.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "220",
+      "entity1_type": "MONEY",
+      "entity2": "195",
+      "entity2_type": "MONEY",
+      "sentence": "Mizuho raised its price target on AMAT to $220 from $195, signaling confidence in the company’s mid-cycle demand strength.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "Materials",
+      "entity2_type": "ORG",
+      "sentence": "Applied Materials price target raised to $220 from $195 at Mizuho\nNeutral Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "220",
+      "entity2_type": "MONEY",
+      "sentence": "Applied Materials price target raised to $220 from $195 at Mizuho\nNeutral Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "195",
+      "entity2_type": "MONEY",
+      "sentence": "Applied Materials price target raised to $220 from $195 at Mizuho\nNeutral Sentiment:",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "Mizuho",
+      "entity2_type": "ORG",
+      "sentence": "Applied Materials price target raised to $220 from $195 at Mizuho\nNeutral Sentiment:",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Materials",
+      "entity1_type": "ORG",
+      "entity2": "220",
+      "entity2_type": "MONEY",
+      "sentence": "Applied Materials price target raised to $220 from $195 at Mizuho\nNeutral Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Materials",
+      "entity1_type": "ORG",
+      "entity2": "195",
+      "entity2_type": "MONEY",
+      "sentence": "Applied Materials price target raised to $220 from $195 at Mizuho\nNeutral Sentiment:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Materials",
+      "entity1_type": "ORG",
+      "entity2": "Mizuho",
+      "entity2_type": "ORG",
+      "sentence": "Applied Materials price target raised to $220 from $195 at Mizuho\nNeutral Sentiment:",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "220",
+      "entity1_type": "MONEY",
+      "entity2": "195",
+      "entity2_type": "MONEY",
+      "sentence": "Applied Materials price target raised to $220 from $195 at Mizuho\nNeutral Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "220",
+      "entity1_type": "MONEY",
+      "entity2": "Mizuho",
+      "entity2_type": "ORG",
+      "sentence": "Applied Materials price target raised to $220 from $195 at Mizuho\nNeutral Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "195",
+      "entity1_type": "MONEY",
+      "entity2": "Mizuho",
+      "entity2_type": "ORG",
+      "sentence": "Applied Materials price target raised to $220 from $195 at Mizuho\nNeutral Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "Materials",
+      "entity2_type": "ORG",
+      "sentence": "Is It Worth Investing in Applied Materials (AMAT) Based on Wall Street's Bullish Views?",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barron",
+      "entity1_type": "ORG",
+      "entity2": "'s",
+      "entity2_type": "ORG",
+      "sentence": "Neutral Sentiment:\nBarron's published a company profile highlighting AMAT’s leadership and strategic initiatives, offering context but no new catalyst.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barron",
+      "entity1_type": "ORG",
+      "entity2": "AMAT",
+      "entity2_type": "ORG",
+      "sentence": "Neutral Sentiment:\nBarron's published a company profile highlighting AMAT’s leadership and strategic initiatives, offering context but no new catalyst.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "'s",
+      "entity1_type": "ORG",
+      "entity2": "AMAT",
+      "entity2_type": "ORG",
+      "sentence": "Neutral Sentiment:\nBarron's published a company profile highlighting AMAT’s leadership and strategic initiatives, offering context but no new catalyst.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "Materials",
+      "entity2_type": "ORG",
+      "sentence": "Applied Materials Inc. Company & People | AMAT | Barron's\nNeutral Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Applied Materials Inc. Company & People | AMAT | Barron's\nNeutral Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "AMAT",
+      "entity2_type": "ORG",
+      "sentence": "Applied Materials Inc. Company & People | AMAT | Barron's\nNeutral Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "Barron",
+      "entity2_type": "ORG",
+      "sentence": "Applied Materials Inc. Company & People | AMAT | Barron's\nNeutral Sentiment:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "'s",
+      "entity2_type": "ORG",
+      "sentence": "Applied Materials Inc. Company & People | AMAT | Barron's\nNeutral Sentiment:",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Materials",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Applied Materials Inc. Company & People | AMAT | Barron's\nNeutral Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Materials",
+      "entity1_type": "ORG",
+      "entity2": "AMAT",
+      "entity2_type": "ORG",
+      "sentence": "Applied Materials Inc. Company & People | AMAT | Barron's\nNeutral Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Materials",
+      "entity1_type": "ORG",
+      "entity2": "Barron",
+      "entity2_type": "ORG",
+      "sentence": "Applied Materials Inc. Company & People | AMAT | Barron's\nNeutral Sentiment:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Materials",
+      "entity1_type": "ORG",
+      "entity2": "'s",
+      "entity2_type": "ORG",
+      "sentence": "Applied Materials Inc. Company & People | AMAT | Barron's\nNeutral Sentiment:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "AMAT",
+      "entity2_type": "ORG",
+      "sentence": "Applied Materials Inc. Company & People | AMAT | Barron's\nNeutral Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "Barron",
+      "entity2_type": "ORG",
+      "sentence": "Applied Materials Inc. Company & People | AMAT | Barron's\nNeutral Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "'s",
+      "entity2_type": "ORG",
+      "sentence": "Applied Materials Inc. Company & People | AMAT | Barron's\nNeutral Sentiment:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMAT",
+      "entity1_type": "ORG",
+      "entity2": "Barron",
+      "entity2_type": "ORG",
+      "sentence": "Applied Materials Inc. Company & People | AMAT | Barron's\nNeutral Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMAT",
+      "entity1_type": "ORG",
+      "entity2": "'s",
+      "entity2_type": "ORG",
+      "sentence": "Applied Materials Inc. Company & People | AMAT | Barron's\nNeutral Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Barron",
+      "entity1_type": "ORG",
+      "entity2": "'s",
+      "entity2_type": "ORG",
+      "sentence": "Applied Materials Inc. Company & People | AMAT | Barron's\nNeutral Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Benzinga",
+      "entity1_type": "ORG",
+      "entity2": "AMAT",
+      "entity2_type": "ORG",
+      "sentence": "Benzinga noted recent AMAT gains and explored potential drivers behind the uptick, without citing a definitive catalyst.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "Materials",
+      "entity2_type": "ORG",
+      "sentence": "Applied Materials (AMAT) Stock Is Rising: What's Going On?",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "AMAT",
+      "entity2_type": "ORG",
+      "sentence": "Applied Materials (AMAT) Stock Is Rising: What's Going On?",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Materials",
+      "entity1_type": "ORG",
+      "entity2": "AMAT",
+      "entity2_type": "ORG",
+      "sentence": "Applied Materials (AMAT) Stock Is Rising: What's Going On?",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "Materials",
+      "entity2_type": "ORG",
+      "sentence": "Applied Materials, Inc. (AMAT) is Attracting Investor Attention: Here is What You Should Know",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": ",",
+      "entity2_type": "ORG",
+      "sentence": "Applied Materials, Inc. (AMAT) is Attracting Investor Attention: Here is What You Should Know",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Applied Materials, Inc. (AMAT) is Attracting Investor Attention: Here is What You Should Know",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "AMAT",
+      "entity2_type": "ORG",
+      "sentence": "Applied Materials, Inc. (AMAT) is Attracting Investor Attention: Here is What You Should Know",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Materials",
+      "entity1_type": "ORG",
+      "entity2": ",",
+      "entity2_type": "ORG",
+      "sentence": "Applied Materials, Inc. (AMAT) is Attracting Investor Attention: Here is What You Should Know",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Materials",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Applied Materials, Inc. (AMAT) is Attracting Investor Attention: Here is What You Should Know",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Materials",
+      "entity1_type": "ORG",
+      "entity2": "AMAT",
+      "entity2_type": "ORG",
+      "sentence": "Applied Materials, Inc. (AMAT) is Attracting Investor Attention: Here is What You Should Know",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Applied Materials, Inc. (AMAT) is Attracting Investor Attention: Here is What You Should Know",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "AMAT",
+      "entity2_type": "ORG",
+      "sentence": "Applied Materials, Inc. (AMAT) is Attracting Investor Attention: Here is What You Should Know",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "AMAT",
+      "entity2_type": "ORG",
+      "sentence": "Applied Materials, Inc. (AMAT) is Attracting Investor Attention: Here is What You Should Know",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMAT",
+      "entity1_type": "ORG",
+      "entity2": "about",
+      "entity2_type": "PERCENT",
+      "sentence": "AMAT shares dipped about 3.6% amid profit-taking and questions over near-term growth, sparking “time to sell?” headlines.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMAT",
+      "entity1_type": "ORG",
+      "entity2": "3.6",
+      "entity2_type": "PERCENT",
+      "sentence": "AMAT shares dipped about 3.6% amid profit-taking and questions over near-term growth, sparking “time to sell?” headlines.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMAT",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "AMAT shares dipped about 3.6% amid profit-taking and questions over near-term growth, sparking “time to sell?” headlines.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "about",
+      "entity1_type": "PERCENT",
+      "entity2": "3.6",
+      "entity2_type": "PERCENT",
+      "sentence": "AMAT shares dipped about 3.6% amid profit-taking and questions over near-term growth, sparking “time to sell?” headlines.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "about",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "AMAT shares dipped about 3.6% amid profit-taking and questions over near-term growth, sparking “time to sell?” headlines.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3.6",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "AMAT shares dipped about 3.6% amid profit-taking and questions over near-term growth, sparking “time to sell?” headlines.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "Materials",
+      "entity2_type": "ORG",
+      "sentence": "Applied Materials (NASDAQ:AMAT) Stock Price Down 3.6% - Time to Sell?",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "AMAT",
+      "entity2_type": "ORG",
+      "sentence": "Applied Materials (NASDAQ:AMAT) Stock Price Down 3.6% - Time to Sell?",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "3.6",
+      "entity2_type": "PERCENT",
+      "sentence": "Applied Materials (NASDAQ:AMAT) Stock Price Down 3.6% - Time to Sell?",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Applied Materials (NASDAQ:AMAT) Stock Price Down 3.6% - Time to Sell?",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Materials",
+      "entity1_type": "ORG",
+      "entity2": "AMAT",
+      "entity2_type": "ORG",
+      "sentence": "Applied Materials (NASDAQ:AMAT) Stock Price Down 3.6% - Time to Sell?",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Materials",
+      "entity1_type": "ORG",
+      "entity2": "3.6",
+      "entity2_type": "PERCENT",
+      "sentence": "Applied Materials (NASDAQ:AMAT) Stock Price Down 3.6% - Time to Sell?",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Materials",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Applied Materials (NASDAQ:AMAT) Stock Price Down 3.6% - Time to Sell?",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMAT",
+      "entity1_type": "ORG",
+      "entity2": "3.6",
+      "entity2_type": "PERCENT",
+      "sentence": "Applied Materials (NASDAQ:AMAT) Stock Price Down 3.6% - Time to Sell?",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMAT",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Applied Materials (NASDAQ:AMAT) Stock Price Down 3.6% - Time to Sell?",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3.6",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Applied Materials (NASDAQ:AMAT) Stock Price Down 3.6% - Time to Sell?",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "Materials",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nShares opened sharply lower in a gap-down move, prompting fresh sell calls and concerns about short-term momentum.\nApplied Materials (NASDAQ:AMAT) Shares Gap Down - Should You Sell?\nPosted 2h ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "AMAT",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nShares opened sharply lower in a gap-down move, prompting fresh sell calls and concerns about short-term momentum.\nApplied Materials (NASDAQ:AMAT) Shares Gap Down - Should You Sell?\nPosted 2h ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "2h",
+      "entity2_type": "DATE",
+      "sentence": "Negative Sentiment:\nShares opened sharply lower in a gap-down move, prompting fresh sell calls and concerns about short-term momentum.\nApplied Materials (NASDAQ:AMAT) Shares Gap Down - Should You Sell?\nPosted 2h ago\nAI Generated.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Negative Sentiment:\nShares opened sharply lower in a gap-down move, prompting fresh sell calls and concerns about short-term momentum.\nApplied Materials (NASDAQ:AMAT) Shares Gap Down - Should You Sell?\nPosted 2h ago\nAI Generated.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nShares opened sharply lower in a gap-down move, prompting fresh sell calls and concerns about short-term momentum.\nApplied Materials (NASDAQ:AMAT) Shares Gap Down - Should You Sell?\nPosted 2h ago\nAI Generated.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Applied",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nShares opened sharply lower in a gap-down move, prompting fresh sell calls and concerns about short-term momentum.\nApplied Materials (NASDAQ:AMAT) Shares Gap Down - Should You Sell?\nPosted 2h ago\nAI Generated.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Materials",
+      "entity1_type": "ORG",
+      "entity2": "AMAT",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nShares opened sharply lower in a gap-down move, prompting fresh sell calls and concerns about short-term momentum.\nApplied Materials (NASDAQ:AMAT) Shares Gap Down - Should You Sell?\nPosted 2h ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Materials",
+      "entity1_type": "ORG",
+      "entity2": "2h",
+      "entity2_type": "DATE",
+      "sentence": "Negative Sentiment:\nShares opened sharply lower in a gap-down move, prompting fresh sell calls and concerns about short-term momentum.\nApplied Materials (NASDAQ:AMAT) Shares Gap Down - Should You Sell?\nPosted 2h ago\nAI Generated.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Materials",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Negative Sentiment:\nShares opened sharply lower in a gap-down move, prompting fresh sell calls and concerns about short-term momentum.\nApplied Materials (NASDAQ:AMAT) Shares Gap Down - Should You Sell?\nPosted 2h ago\nAI Generated.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Materials",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nShares opened sharply lower in a gap-down move, prompting fresh sell calls and concerns about short-term momentum.\nApplied Materials (NASDAQ:AMAT) Shares Gap Down - Should You Sell?\nPosted 2h ago\nAI Generated.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Materials",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nShares opened sharply lower in a gap-down move, prompting fresh sell calls and concerns about short-term momentum.\nApplied Materials (NASDAQ:AMAT) Shares Gap Down - Should You Sell?\nPosted 2h ago\nAI Generated.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMAT",
+      "entity1_type": "ORG",
+      "entity2": "2h",
+      "entity2_type": "DATE",
+      "sentence": "Negative Sentiment:\nShares opened sharply lower in a gap-down move, prompting fresh sell calls and concerns about short-term momentum.\nApplied Materials (NASDAQ:AMAT) Shares Gap Down - Should You Sell?\nPosted 2h ago\nAI Generated.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMAT",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Negative Sentiment:\nShares opened sharply lower in a gap-down move, prompting fresh sell calls and concerns about short-term momentum.\nApplied Materials (NASDAQ:AMAT) Shares Gap Down - Should You Sell?\nPosted 2h ago\nAI Generated.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMAT",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nShares opened sharply lower in a gap-down move, prompting fresh sell calls and concerns about short-term momentum.\nApplied Materials (NASDAQ:AMAT) Shares Gap Down - Should You Sell?\nPosted 2h ago\nAI Generated.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMAT",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nShares opened sharply lower in a gap-down move, prompting fresh sell calls and concerns about short-term momentum.\nApplied Materials (NASDAQ:AMAT) Shares Gap Down - Should You Sell?\nPosted 2h ago\nAI Generated.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2h",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Negative Sentiment:\nShares opened sharply lower in a gap-down move, prompting fresh sell calls and concerns about short-term momentum.\nApplied Materials (NASDAQ:AMAT) Shares Gap Down - Should You Sell?\nPosted 2h ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2h",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nShares opened sharply lower in a gap-down move, prompting fresh sell calls and concerns about short-term momentum.\nApplied Materials (NASDAQ:AMAT) Shares Gap Down - Should You Sell?\nPosted 2h ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2h",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nShares opened sharply lower in a gap-down move, prompting fresh sell calls and concerns about short-term momentum.\nApplied Materials (NASDAQ:AMAT) Shares Gap Down - Should You Sell?\nPosted 2h ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ago",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nShares opened sharply lower in a gap-down move, prompting fresh sell calls and concerns about short-term momentum.\nApplied Materials (NASDAQ:AMAT) Shares Gap Down - Should You Sell?\nPosted 2h ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ago",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nShares opened sharply lower in a gap-down move, prompting fresh sell calls and concerns about short-term momentum.\nApplied Materials (NASDAQ:AMAT) Shares Gap Down - Should You Sell?\nPosted 2h ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AI",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nShares opened sharply lower in a gap-down move, prompting fresh sell calls and concerns about short-term momentum.\nApplied Materials (NASDAQ:AMAT) Shares Gap Down - Should You Sell?\nPosted 2h ago\nAI Generated.",
+      "distance": 1
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "Applied Materials",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "mixed signals",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the stock",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "analyst revisions",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "target upgrades",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the broader chip-equipment demand backdrop",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the key developments",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "AMAT shares",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Applied Materials",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the past month",
+      "type": "noun_chunk",
+      "category": "temporal"
+    },
+    {
+      "text": "the back",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "strong chip-tool demand",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "expanding profit margins",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "a broad product portfolio edge",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Applied Materials",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a Month",
+      "type": "noun_chunk",
+      "category": "temporal"
+    },
+    {
+      "text": "the Stock",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "AMAT shares",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "a broader market downturn",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "company-specific strengths",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "steady demand",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its end markets",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Applied Materials",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Market Slip",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "an analyst upgrade",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "growing bullishness",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "AMAT’s growth prospects",
+      "type": "noun_chunk",
+      "category": "trend"
+    },
+    {
+      "text": "Analyst Upgrade",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its price target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the company’s mid-cycle demand strength",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Applied Materials price target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Wall Street analysts",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "some investors",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "sell-side ratings",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "enough weight",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the stock",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Applied Materials",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Wall Street's Bullish Views",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a company profile",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "AMAT’s leadership and strategic initiatives",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "no new catalyst",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Applied Materials Inc. Company",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "recent AMAT gains",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "potential drivers",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the uptick",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a definitive catalyst",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "heavy search",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the coverage",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a clear directional push",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Applied Materials",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Investor Attention",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "AMAT shares",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "near-term growth",
+      "type": "noun_chunk",
+      "category": "trend"
+    },
+    {
+      "text": "“time to sell?” headlines",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Stock Price",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a gap-down move",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "fresh sell calls",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "short-term momentum",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "$220",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$195,",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$220",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$195",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "14%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "14%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "1.1%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "1.3%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "1.3%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "3.6%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "3.6%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "profit",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "growth",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "profit",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "growth",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "market",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Market",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Stock",
+      "type": "pattern",
+      "category": "market_term"
+    }
+  ],
+  "important_sentences": [
+    {
+      "text": "Negative Sentiment:\nShares opened sharply lower in a gap-down move, prompting fresh sell calls and concerns about short-term momentum.\nApplied Materials (NASDAQ:AMAT) Shares Gap Down - Should You Sell?\nPosted 2h ago\nAI Generated.",
+      "importance_score": 41,
+      "entity_count": 7,
+      "financial_keyword_count": 5,
+      "money_count": 0,
+      "company_count": 3,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Here's What You Need to Know\nPositive Sentiment:\nShares climbed 1.3% following an analyst upgrade, reflecting growing bullishness on AMAT’s growth prospects.\nApplied Materials (NASDAQ:AMAT)",
+      "importance_score": 33,
+      "entity_count": 6,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 3,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Investors in Applied Materials, Inc. (AMAT) have seen mixed signals this week as the stock reacts to analyst revisions, target upgrades, and the broader chip-equipment demand backdrop.",
+      "importance_score": 31,
+      "entity_count": 7,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Applied Materials price target raised to $220 from $195 at Mizuho\nNeutral Sentiment:",
+      "importance_score": 31,
+      "entity_count": 5,
+      "financial_keyword_count": 1,
+      "money_count": 2,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Mizuho raised its price target on AMAT to $220 from $195, signaling confidence in the company’s mid-cycle demand strength.",
+      "importance_score": 29,
+      "entity_count": 4,
+      "financial_keyword_count": 1,
+      "money_count": 2,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Positive Sentiment:\nApplied Materials has surged roughly 14% over the past month on the back of strong chip-tool demand, expanding profit margins, and a broad product portfolio edge.",
+      "importance_score": 26,
+      "entity_count": 8,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Applied Materials Soars 14% in a Month: Time to Buy or Hold the Stock?",
+      "importance_score": 25,
+      "entity_count": 6,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Applied Materials Inc. Company & People | AMAT | Barron's\nNeutral Sentiment:",
+      "importance_score": 24,
+      "entity_count": 6,
+      "financial_keyword_count": 0,
+      "money_count": 0,
+      "company_count": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Applied Materials (NASDAQ:AMAT) Stock Price Down 3.6% - Time to Sell?",
+      "importance_score": 24,
+      "entity_count": 5,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "AMAT shares dipped about 3.6% amid profit-taking and questions over near-term growth, sparking “time to sell?” headlines.",
+      "importance_score": 21,
+      "entity_count": 4,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "positive"
+    }
+  ],
+  "entity_statistics": {
+    "total_entities": 50,
+    "unique_entities": 20,
+    "type_counts": {
+      "ORG": 35,
+      "DATE": 4,
+      "PERCENT": 7,
+      "MONEY": 4
+    },
+    "type_distribution": {
+      "ORG": 0.7,
+      "DATE": 0.08,
+      "PERCENT": 0.14,
+      "MONEY": 0.08
+    },
+    "most_common_entities": [
+      [
+        "AMAT",
+        17
+      ],
+      [
+        "Applied Materials",
+        9
+      ],
+      [
+        "Applied Materials, Inc.",
+        2
+      ],
+      [
+        "1.3%",
+        2
+      ],
+      [
+        "Mizuho",
+        2
+      ],
+      [
+        "220",
+        2
+      ],
+      [
+        "195",
+        2
+      ],
+      [
+        "Barron's",
+        2
+      ],
+      [
+        "this week",
+        1
+      ],
+      [
+        "roughly 14%",
+        1
+      ]
+    ],
+    "entity_types_found": [
+      "ORG",
+      "DATE",
+      "PERCENT",
+      "MONEY"
+    ],
+    "company_entities": 35,
+    "person_entities": 0,
+    "financial_entities": 11,
+    "entity_density": 0.1388888888888889
+  },
+  "financial_analysis": {
+    "money_amounts": [
+      "220",
+      "195",
+      "220",
+      "195"
+    ],
+    "percentages": [
+      "roughly 14%",
+      "14%",
+      "about 1.1%",
+      "1.3%",
+      "1.3%",
+      "about 3.6%",
+      "3.6%"
+    ],
+    "companies": [
+      "Applied Materials, Inc.",
+      "AMAT",
+      "AMAT",
+      "Applied Materials",
+      "Applied Materials",
+      "AMAT",
+      "Applied Materials",
+      "AMAT",
+      "AMAT",
+      "Applied Materials",
+      "AMAT",
+      "Mizuho",
+      "AMAT",
+      "Applied Materials",
+      "Mizuho",
+      "AMAT",
+      "Applied Materials",
+      "Barron's",
+      "AMAT",
+      "Applied Materials Inc.",
+      "AMAT",
+      "Barron's",
+      "Benzinga",
+      "AMAT",
+      "Applied Materials",
+      "AMAT",
+      "AMAT",
+      "Applied Materials, Inc.",
+      "AMAT",
+      "AMAT",
+      "Applied Materials",
+      "AMAT",
+      "Applied Materials",
+      "AMAT",
+      "AI Generated"
+    ],
+    "people": [],
+    "dates": [
+      "this week",
+      "the past month",
+      "a Month",
+      "2h ago"
+    ],
+    "financial_terms": [
+      "Stock",
+      "profit",
+      "market",
+      "stock",
+      "growth",
+      "Market"
+    ],
+    "financial_metrics": [],
+    "market_indicators": [
+      "target",
+      "Upgrade",
+      "upgrade",
+      "Price",
+      "price"
+    ]
+  },
+  "temporal_analysis": {
+    "dates": [
+      "this week",
+      "the past month",
+      "a Month",
+      "2h ago"
+    ],
+    "time_expressions": [],
+    "temporal_relationships": [
+      "past",
+      "recent"
+    ],
+    "quarters": [],
+    "years": [],
+    "time_periods": []
+  },
+  "sentiment_analysis": {
+    "positive_words": 12,
+    "negative_words": 5,
+    "positive_ratio": 0.03333333333333333,
+    "negative_ratio": 0.013888888888888888,
+    "sentiment_score": 0.019444444444444445,
+    "sentiment_label": "positive",
+    "sentiment_strength": 0.019444444444444445,
+    "confidence": 0.19444444444444445
+  },
+  "industry_analysis": {
+    "dominant_industry": "industrial",
+    "industry_scores": {
+      "tech": 3,
+      "finance": 0,
+      "healthcare": 0,
+      "energy": 0,
+      "retail": 0,
+      "automotive": 0,
+      "media": 0,
+      "industrial": 13,
+      "real_estate": 0,
+      "telecom": 0,
+      "food_beverage": 0,
+      "travel": 0,
+      "education": 0,
+      "professional": 0,
+      "mining": 0,
+      "aerospace": 0,
+      "environmental": 0,
+      "cannabis": 0
+    },
+    "confidence": 0.8125
+  },
+  "market_analysis": {
+    "market_sentiment": "bullish",
+    "bullish_indicators": 5,
+    "bearish_indicators": 1,
+    "market_conditions": {
+      "volatility": "normal",
+      "volume": "normal",
+      "trend": "bullish"
+    },
+    "trading_activity": "normal"
+  },
+  "competitor_analysis": {
+    "companies_mentioned": [
+      "Applied Materials, Inc.",
+      "AMAT",
+      "AMAT",
+      "Applied Materials",
+      "Applied Materials",
+      "AMAT",
+      "Applied Materials",
+      "AMAT",
+      "AMAT",
+      "Applied Materials",
+      "AMAT",
+      "Mizuho",
+      "AMAT",
+      "Applied Materials",
+      "Mizuho",
+      "AMAT",
+      "Applied Materials",
+      "Barron's",
+      "AMAT",
+      "Applied Materials Inc.",
+      "AMAT",
+      "Barron's",
+      "Benzinga",
+      "AMAT",
+      "Applied Materials",
+      "AMAT",
+      "AMAT",
+      "Applied Materials, Inc.",
+      "AMAT",
+      "AMAT",
+      "Applied Materials",
+      "AMAT",
+      "Applied Materials",
+      "AMAT",
+      "AI Generated"
+    ],
+    "competitive_context": [],
+    "competitor_count": 35,
+    "has_competitive_language": false
+  },
+  "risk_analysis": {
+    "risk_sentences": [
+      "Negative Sentiment:\nShares opened sharply lower in a gap-down move, prompting fresh sell calls and concerns about short-term momentum.\nApplied Materials (NASDAQ:AMAT) Shares Gap Down - Should You Sell?\nPosted 2h ago\nAI Generated."
+    ],
+    "risk_count": 1,
+    "risk_level": "low"
+  },
+  "opportunity_analysis": {
+    "opportunity_sentences": [
+      "Here's What You Need to Know\nPositive Sentiment:\nShares climbed 1.3% following an analyst upgrade, reflecting growing bullishness on AMAT’s growth prospects.\nApplied Materials (NASDAQ:AMAT)",
+      "Benzinga noted recent AMAT gains and explored potential drivers behind the uptick, without citing a definitive catalyst.",
+      "AMAT shares dipped about 3.6% amid profit-taking and questions over near-term growth, sparking “time to sell?” headlines."
+    ],
+    "opportunity_count": 3,
+    "opportunity_level": "medium"
+  },
+  "processing_metadata": {
+    "timestamp": "2025-07-17T02:35:16.687871",
+    "model_used": "en_core_web_trf",
+    "text_length": 2545
+  }
+}
