@@ -1,0 +1,3129 @@
+{
+  "ticker": "NKE",
+  "entities": [
+    {
+      "text": "NIKE, Inc.",
+      "label": "ORG",
+      "start": 0,
+      "end": 10,
+      "sentence": "NIKE, Inc. (NKE) shares are under pressure today after analysts trimmed profit forecasts, even as several bullish themes emerge.",
+      "context": "NIKE, Inc. (NKE) shares are under pressure today after analy",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "NKE",
+      "label": "ORG",
+      "start": 12,
+      "end": 15,
+      "sentence": "NIKE, Inc. (NKE) shares are under pressure today after analysts trimmed profit forecasts, even as several bullish themes emerge.",
+      "context": "NIKE, Inc. (NKE) shares are under pressure today after analysts t",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "today",
+      "label": "DATE",
+      "start": 43,
+      "end": 48,
+      "sentence": "NIKE, Inc. (NKE) shares are under pressure today after analysts trimmed profit forecasts, even as several bullish themes emerge.",
+      "context": "NIKE, Inc. (NKE) shares are under pressure today after analysts trimmed profit forecasts, even as",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Zacks Research",
+      "label": "ORG",
+      "start": 129,
+      "end": 143,
+      "sentence": "Zacks Research cut its Q1 2026 EPS estimate and a report flagged NKE among S&P 500 names with potentially plunging earnings.",
+      "context": "forecasts, even as several bullish themes emerge. Zacks Research cut its Q1 2026 EPS estimate and a report flagged",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q1 2026",
+      "label": "DATE",
+      "start": 152,
+      "end": 159,
+      "sentence": "Zacks Research cut its Q1 2026 EPS estimate and a report flagged NKE among S&P 500 names with potentially plunging earnings.",
+      "context": "ral bullish themes emerge. Zacks Research cut its Q1 2026 EPS estimate and a report flagged NKE among S&P 5",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "NKE",
+      "label": "ORG",
+      "start": 194,
+      "end": 197,
+      "sentence": "Zacks Research cut its Q1 2026 EPS estimate and a report flagged NKE among S&P 500 names with potentially plunging earnings.",
+      "context": "cut its Q1 2026 EPS estimate and a report flagged NKE among S&P 500 names with potentially plunging ear",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Europe",
+      "label": "LOC",
+      "start": 336,
+      "end": 342,
+      "sentence": "Offsetting this, bulls highlight attractive valuation, expanded trading access in Europe and brand-strengthening initiatives that could support a rebound.",
+      "context": "attractive valuation, expanded trading access in Europe and brand-strengthening initiatives that could su",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "InsiderMonkey",
+      "label": "ORG",
+      "start": 429,
+      "end": 442,
+      "sentence": "InsiderMonkey outlines a bullish thesis on NKE, highlighting valuation potential after the recent share slide.",
+      "context": "that could support a rebound.\nPositive Sentiment:\nInsiderMonkey outlines a bullish thesis on NKE, highlighting va",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "NKE",
+      "label": "ORG",
+      "start": 472,
+      "end": 475,
+      "sentence": "InsiderMonkey outlines a bullish thesis on NKE, highlighting valuation potential after the recent share slide.",
+      "context": "iment:\nInsiderMonkey outlines a bullish thesis on NKE, highlighting valuation potential after the recen",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "NIKE, Inc.",
+      "label": "ORG",
+      "start": 540,
+      "end": 550,
+      "sentence": "NIKE, Inc. (NKE): A Bull Case Theory\nPositive Sentiment:\nCrypto exchange Gemini adds NKE to its tokenized stock offering in the EU, broadening investor access and liquidity.",
+      "context": "valuation potential after the recent share slide.\nNIKE, Inc. (NKE): A Bull Case Theory\nPositive Sentiment:\nCry",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "NKE",
+      "label": "ORG",
+      "start": 552,
+      "end": 555,
+      "sentence": "NIKE, Inc. (NKE): A Bull Case Theory\nPositive Sentiment:\nCrypto exchange Gemini adds NKE to its tokenized stock offering in the EU, broadening investor access and liquidity.",
+      "context": "tential after the recent share slide.\nNIKE, Inc. (NKE): A Bull Case Theory\nPositive Sentiment:\nCrypto e",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Gemini",
+      "label": "ORG",
+      "start": 613,
+      "end": 619,
+      "sentence": "NIKE, Inc. (NKE): A Bull Case Theory\nPositive Sentiment:\nCrypto exchange Gemini adds NKE to its tokenized stock offering in the EU, broadening investor access and liquidity.",
+      "context": "l Case Theory\nPositive Sentiment:\nCrypto exchange Gemini adds NKE to its tokenized stock offering in the E",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "NKE",
+      "label": "ORG",
+      "start": 625,
+      "end": 628,
+      "sentence": "NIKE, Inc. (NKE): A Bull Case Theory\nPositive Sentiment:\nCrypto exchange Gemini adds NKE to its tokenized stock offering in the EU, broadening investor access and liquidity.",
+      "context": "y\nPositive Sentiment:\nCrypto exchange Gemini adds NKE to its tokenized stock offering in the EU, broade",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "EU",
+      "label": "GPE",
+      "start": 668,
+      "end": 670,
+      "sentence": "NIKE, Inc. (NKE): A Bull Case Theory\nPositive Sentiment:\nCrypto exchange Gemini adds NKE to its tokenized stock offering in the EU, broadening investor access and liquidity.",
+      "context": "i adds NKE to its tokenized stock offering in the EU, broadening investor access and liquidity.\nGemini",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "Gemini",
+      "label": "ORG",
+      "start": 714,
+      "end": 720,
+      "sentence": "Gemini Expands Tokenized Stock Offerings with Nike, McDonald’s, Starbucks for EU Investors\nNeutral Sentiment:",
+      "context": "the EU, broadening investor access and liquidity.\nGemini Expands Tokenized Stock Offerings with Nike, McDo",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Nike",
+      "label": "ORG",
+      "start": 760,
+      "end": 764,
+      "sentence": "Gemini Expands Tokenized Stock Offerings with Nike, McDonald’s, Starbucks for EU Investors\nNeutral Sentiment:",
+      "context": "ty.\nGemini Expands Tokenized Stock Offerings with Nike, McDonald’s, Starbucks for EU Investors\nNeutral S",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "McDonald’s",
+      "label": "ORG",
+      "start": 766,
+      "end": 776,
+      "sentence": "Gemini Expands Tokenized Stock Offerings with Nike, McDonald’s, Starbucks for EU Investors\nNeutral Sentiment:",
+      "context": "mini Expands Tokenized Stock Offerings with Nike, McDonald’s, Starbucks for EU Investors\nNeutral Sentiment:\nNi",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Starbucks",
+      "label": "ORG",
+      "start": 778,
+      "end": 787,
+      "sentence": "Gemini Expands Tokenized Stock Offerings with Nike, McDonald’s, Starbucks for EU Investors\nNeutral Sentiment:",
+      "context": "Tokenized Stock Offerings with Nike, McDonald’s, Starbucks for EU Investors\nNeutral Sentiment:\nNike has beco",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Nike",
+      "label": "ORG",
+      "start": 824,
+      "end": 828,
+      "sentence": "Nike has become one of the most-watched stocks on Zacks.com, indicating heightened investor interest and trading volume.\nNIKE, Inc. (NKE) is Attracting Investor Attention\nNeutral Sentiment:",
+      "context": "’s, Starbucks for EU Investors\nNeutral Sentiment:\nNike has become one of the most-watched stocks on Zack",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "NIKE, Inc.",
+      "label": "ORG",
+      "start": 945,
+      "end": 955,
+      "sentence": "Nike has become one of the most-watched stocks on Zacks.com, indicating heightened investor interest and trading volume.\nNIKE, Inc. (NKE) is Attracting Investor Attention\nNeutral Sentiment:",
+      "context": "heightened investor interest and trading volume.\nNIKE, Inc. (NKE) is Attracting Investor Attention\nNeutral Se",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "NKE",
+      "label": "ORG",
+      "start": 957,
+      "end": 960,
+      "sentence": "Nike has become one of the most-watched stocks on Zacks.com, indicating heightened investor interest and trading volume.\nNIKE, Inc. (NKE) is Attracting Investor Attention\nNeutral Sentiment:",
+      "context": "investor interest and trading volume.\nNIKE, Inc. (NKE) is Attracting Investor Attention\nNeutral Sentime",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Nike",
+      "label": "ORG",
+      "start": 1014,
+      "end": 1018,
+      "sentence": "Nike partners with Special Olympics for a global youth inclusion initiative, reinforcing brand goodwill and community engagement.",
+      "context": "Attracting Investor Attention\nNeutral Sentiment:\nNike partners with Special Olympics for a global youth",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Special Olympics",
+      "label": "ORG",
+      "start": 1033,
+      "end": 1049,
+      "sentence": "Nike partners with Special Olympics for a global youth inclusion initiative, reinforcing brand goodwill and community engagement.",
+      "context": "r Attention\nNeutral Sentiment:\nNike partners with Special Olympics for a global youth inclusion initiative, reinforc",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "NIKE",
+      "label": "ORG",
+      "start": 1144,
+      "end": 1148,
+      "sentence": "NIKE (NKE) Teams With Special Olympics For Global Youth Sport Inclusion Initiative\nNeutral Sentiment:\nOakmark’s Q2 investor letter revisits Nike’s valuation amid mixed sector returns, sparking debate on whether this is the right entry point.",
+      "context": "nforcing brand goodwill and community engagement.\nNIKE (NKE) Teams With Special Olympics For Global Yout",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "NKE",
+      "label": "ORG",
+      "start": 1150,
+      "end": 1153,
+      "sentence": "NIKE (NKE) Teams With Special Olympics For Global Youth Sport Inclusion Initiative\nNeutral Sentiment:\nOakmark’s Q2 investor letter revisits Nike’s valuation amid mixed sector returns, sparking debate on whether this is the right entry point.",
+      "context": "ng brand goodwill and community engagement.\nNIKE (NKE) Teams With Special Olympics For Global Youth Spo",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Special Olympics",
+      "label": "EVENT",
+      "start": 1166,
+      "end": 1182,
+      "sentence": "NIKE (NKE) Teams With Special Olympics For Global Youth Sport Inclusion Initiative\nNeutral Sentiment:\nOakmark’s Q2 investor letter revisits Nike’s valuation amid mixed sector returns, sparking debate on whether this is the right entry point.",
+      "context": "l and community engagement.\nNIKE (NKE) Teams With Special Olympics For Global Youth Sport Inclusion Initiative\nNeutr",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Oakmark",
+      "label": "ORG",
+      "start": 1246,
+      "end": 1253,
+      "sentence": "NIKE (NKE) Teams With Special Olympics For Global Youth Sport Inclusion Initiative\nNeutral Sentiment:\nOakmark’s Q2 investor letter revisits Nike’s valuation amid mixed sector returns, sparking debate on whether this is the right entry point.",
+      "context": "uth Sport Inclusion Initiative\nNeutral Sentiment:\nOakmark’s Q2 investor letter revisits Nike’s valuation am",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q2",
+      "label": "DATE",
+      "start": 1256,
+      "end": 1258,
+      "sentence": "NIKE (NKE) Teams With Special Olympics For Global Youth Sport Inclusion Initiative\nNeutral Sentiment:\nOakmark’s Q2 investor letter revisits Nike’s valuation amid mixed sector returns, sparking debate on whether this is the right entry point.",
+      "context": "Inclusion Initiative\nNeutral Sentiment:\nOakmark’s Q2 investor letter revisits Nike’s valuation amid mi",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Nike",
+      "label": "ORG",
+      "start": 1284,
+      "end": 1288,
+      "sentence": "NIKE (NKE) Teams With Special Olympics For Global Youth Sport Inclusion Initiative\nNeutral Sentiment:\nOakmark’s Q2 investor letter revisits Nike’s valuation amid mixed sector returns, sparking debate on whether this is the right entry point.",
+      "context": "Sentiment:\nOakmark’s Q2 investor letter revisits Nike’s valuation amid mixed sector returns, sparking d",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Nike",
+      "label": "ORG",
+      "start": 1421,
+      "end": 1425,
+      "sentence": "Is this the Best Time to Invest in Nike (NKE)?",
+      "context": "t entry point.\nIs this the Best Time to Invest in Nike (NKE)?\nNeutral Sentiment:\nHypebeast highlights Ni",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "NKE",
+      "label": "ORG",
+      "start": 1427,
+      "end": 1430,
+      "sentence": "Is this the Best Time to Invest in Nike (NKE)?",
+      "context": "y point.\nIs this the Best Time to Invest in Nike (NKE)?\nNeutral Sentiment:\nHypebeast highlights Nike’s",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Hypebeast",
+      "label": "ORG",
+      "start": 1452,
+      "end": 1461,
+      "sentence": "Hypebeast highlights Nike’s new Air Superfly release, showcasing ongoing product innovation that may support brand momentum.",
+      "context": "Time to Invest in Nike (NKE)?\nNeutral Sentiment:\nHypebeast highlights Nike’s new Air Superfly release, showc",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Nike",
+      "label": "ORG",
+      "start": 1473,
+      "end": 1477,
+      "sentence": "Hypebeast highlights Nike’s new Air Superfly release, showcasing ongoing product innovation that may support brand momentum.",
+      "context": "ke (NKE)?\nNeutral Sentiment:\nHypebeast highlights Nike’s new Air Superfly release, showcasing ongoing pr",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Air Superfly",
+      "label": "PRODUCT",
+      "start": 1484,
+      "end": 1496,
+      "sentence": "Hypebeast highlights Nike’s new Air Superfly release, showcasing ongoing product innovation that may support brand momentum.",
+      "context": "eutral Sentiment:\nHypebeast highlights Nike’s new Air Superfly release, showcasing ongoing product innovation th",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Nike",
+      "label": "ORG",
+      "start": 1577,
+      "end": 1581,
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "context": "oduct innovation that may support brand momentum.\nNike Revives the Iconic Air Superfly with a Futuristic",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "the Iconic Air Superfly",
+      "label": "PRODUCT",
+      "start": 1590,
+      "end": 1613,
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "context": "ion that may support brand momentum.\nNike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZ",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Zacks Research",
+      "label": "ORG",
+      "start": 1662,
+      "end": 1676,
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "context": "y with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 fr",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q1 2026",
+      "label": "DATE",
+      "start": 1685,
+      "end": 1692,
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "context": "lusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signal",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Nike",
+      "label": "ORG",
+      "start": 1710,
+      "end": 1714,
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "context": ":\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term p",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "0.27",
+      "label": "MONEY",
+      "start": 1719,
+      "end": 1723,
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "context": "esearch cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit exp",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "0.35",
+      "label": "MONEY",
+      "start": 1730,
+      "end": 1734,
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "context": "its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Zacks Research",
+      "label": "ORG",
+      "start": 1784,
+      "end": 1798,
+      "sentence": "Zacks Research Has Bearish Estimate for NIKE Q1 Earnings\nNegative Sentiment:",
+      "context": ", signaling weaker near-term profit expectations.\nZacks Research Has Bearish Estimate for NIKE Q1 Earnings\nNegativ",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "NIKE",
+      "label": "ORG",
+      "start": 1824,
+      "end": 1828,
+      "sentence": "Zacks Research Has Bearish Estimate for NIKE Q1 Earnings\nNegative Sentiment:",
+      "context": "ctations.\nZacks Research Has Bearish Estimate for NIKE Q1 Earnings\nNegative Sentiment:\nAn Investors.com",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q1",
+      "label": "DATE",
+      "start": 1829,
+      "end": 1831,
+      "sentence": "Zacks Research Has Bearish Estimate for NIKE Q1 Earnings\nNegative Sentiment:",
+      "context": "ons.\nZacks Research Has Bearish Estimate for NIKE Q1 Earnings\nNegative Sentiment:\nAn Investors.com art",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "NKE",
+      "label": "ORG",
+      "start": 1892,
+      "end": 1895,
+      "sentence": "An Investors.com article flags NKE among five S&P 500 stocks whose earnings are poised to plunge in the coming quarter.",
+      "context": "egative Sentiment:\nAn Investors.com article flags NKE among five S&P 500 stocks whose earnings are pois",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "five",
+      "label": "CARDINAL",
+      "start": 1902,
+      "end": 1906,
+      "sentence": "An Investors.com article flags NKE among five S&P 500 stocks whose earnings are poised to plunge in the coming quarter.",
+      "context": "ntiment:\nAn Investors.com article flags NKE among five S&P 500 stocks whose earnings are poised to plung",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "the coming quarter",
+      "label": "DATE",
+      "start": 1961,
+      "end": 1979,
+      "sentence": "An Investors.com article flags NKE among five S&P 500 stocks whose earnings are poised to plunge in the coming quarter.",
+      "context": "500 stocks whose earnings are poised to plunge in the coming quarter.\nFive S&P 500 Stocks' Earnings Poised To Plunge A",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Five",
+      "label": "CARDINAL",
+      "start": 1981,
+      "end": 1985,
+      "sentence": "Five S&P 500 Stocks' Earnings Poised To Plunge Any Day Now\nPosted 2h ago\nAI Generated.",
+      "context": "nings are poised to plunge in the coming quarter.\nFive S&P 500 Stocks' Earnings Poised To Plunge Any Day",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Any Day",
+      "label": "DATE",
+      "start": 2028,
+      "end": 2035,
+      "sentence": "Five S&P 500 Stocks' Earnings Poised To Plunge Any Day Now\nPosted 2h ago\nAI Generated.",
+      "context": "r.\nFive S&P 500 Stocks' Earnings Poised To Plunge Any Day Now\nPosted 2h ago\nAI Generated. May Contain Error",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "2h ago",
+      "label": "DATE",
+      "start": 2047,
+      "end": 2053,
+      "sentence": "Five S&P 500 Stocks' Earnings Poised To Plunge Any Day Now\nPosted 2h ago\nAI Generated.",
+      "context": "cks' Earnings Poised To Plunge Any Day Now\nPosted 2h ago\nAI Generated. May Contain Errors.",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    }
+  ],
+  "relationships": [
+    {
+      "type": "SVO",
+      "subject": "analysts",
+      "verb": "trimmed",
+      "object": "forecasts",
+      "sentence": "NIKE, Inc. (NKE) shares are under pressure today after analysts trimmed profit forecasts, even as several bullish themes emerge.",
+      "importance": 6
+    },
+    {
+      "type": "SVO",
+      "subject": "Research",
+      "verb": "cut",
+      "object": "estimate",
+      "sentence": "Zacks Research cut its Q1 2026 EPS estimate and a report flagged NKE among S&P 500 names with potentially plunging earnings.",
+      "importance": 8
+    },
+    {
+      "type": "SVO",
+      "subject": "report",
+      "verb": "flagged",
+      "object": "NKE",
+      "sentence": "Zacks Research cut its Q1 2026 EPS estimate and a report flagged NKE among S&P 500 names with potentially plunging earnings.",
+      "importance": 8
+    },
+    {
+      "type": "SVO",
+      "subject": "bulls",
+      "verb": "highlight",
+      "object": "valuation",
+      "sentence": "Offsetting this, bulls highlight attractive valuation, expanded trading access in Europe and brand-strengthening initiatives that could support a rebound.",
+      "importance": 3
+    },
+    {
+      "type": "SVO",
+      "subject": "that",
+      "verb": "support",
+      "object": "rebound",
+      "sentence": "Offsetting this, bulls highlight attractive valuation, expanded trading access in Europe and brand-strengthening initiatives that could support a rebound.",
+      "importance": 3
+    },
+    {
+      "type": "SVO",
+      "subject": "InsiderMonkey",
+      "verb": "outlines",
+      "object": "thesis",
+      "sentence": "InsiderMonkey outlines a bullish thesis on NKE, highlighting valuation potential after the recent share slide.",
+      "importance": 4
+    },
+    {
+      "type": "SVO",
+      "subject": "Gemini",
+      "verb": "adds",
+      "object": "NKE",
+      "sentence": "NIKE, Inc. (NKE): A Bull Case Theory\nPositive Sentiment:\nCrypto exchange Gemini adds NKE to its tokenized stock offering in the EU, broadening investor access and liquidity.",
+      "importance": 10
+    },
+    {
+      "type": "SVO",
+      "subject": "Gemini",
+      "verb": "Expands",
+      "object": "Offerings",
+      "sentence": "Gemini Expands Tokenized Stock Offerings with Nike, McDonald’s, Starbucks for EU Investors\nNeutral Sentiment:",
+      "importance": 6
+    },
+    {
+      "type": "SVO",
+      "subject": "NIKE",
+      "verb": "Attracting",
+      "object": "Attention",
+      "sentence": "Nike has become one of the most-watched stocks on Zacks.com, indicating heightened investor interest and trading volume.\nNIKE, Inc. (NKE) is Attracting Investor Attention\nNeutral Sentiment:",
+      "importance": 8
+    },
+    {
+      "type": "SVO",
+      "subject": "letter",
+      "verb": "revisits",
+      "object": "valuation",
+      "sentence": "NIKE (NKE) Teams With Special Olympics For Global Youth Sport Inclusion Initiative\nNeutral Sentiment:\nOakmark’s Q2 investor letter revisits Nike’s valuation amid mixed sector returns, sparking debate on whether this is the right entry point.",
+      "importance": 12
+    },
+    {
+      "type": "SVO",
+      "subject": "Hypebeast",
+      "verb": "highlights",
+      "object": "release",
+      "sentence": "Hypebeast highlights Nike’s new Air Superfly release, showcasing ongoing product innovation that may support brand momentum.",
+      "importance": 6
+    },
+    {
+      "type": "SVO",
+      "subject": "that",
+      "verb": "support",
+      "object": "momentum",
+      "sentence": "Hypebeast highlights Nike’s new Air Superfly release, showcasing ongoing product innovation that may support brand momentum.",
+      "importance": 6
+    },
+    {
+      "type": "SVO",
+      "subject": "Nike",
+      "verb": "Revives",
+      "object": "Superfly",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "importance": 14
+    },
+    {
+      "type": "SVO",
+      "subject": "Research",
+      "verb": "cut",
+      "object": "estimate",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "importance": 14
+    },
+    {
+      "type": "SVO",
+      "subject": "Research",
+      "verb": "Has",
+      "object": "Estimate",
+      "sentence": "Zacks Research Has Bearish Estimate for NIKE Q1 Earnings\nNegative Sentiment:",
+      "importance": 6
+    },
+    {
+      "type": "SVO",
+      "subject": "article",
+      "verb": "flags",
+      "object": "NKE",
+      "sentence": "An Investors.com article flags NKE among five S&P 500 stocks whose earnings are poised to plunge in the coming quarter.",
+      "importance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NIKE",
+      "entity1_type": "ORG",
+      "entity2": ",",
+      "entity2_type": "ORG",
+      "sentence": "NIKE, Inc. (NKE) shares are under pressure today after analysts trimmed profit forecasts, even as several bullish themes emerge.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NIKE",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "NIKE, Inc. (NKE) shares are under pressure today after analysts trimmed profit forecasts, even as several bullish themes emerge.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NIKE",
+      "entity1_type": "ORG",
+      "entity2": "NKE",
+      "entity2_type": "ORG",
+      "sentence": "NIKE, Inc. (NKE) shares are under pressure today after analysts trimmed profit forecasts, even as several bullish themes emerge.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NIKE",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "NIKE, Inc. (NKE) shares are under pressure today after analysts trimmed profit forecasts, even as several bullish themes emerge.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "NIKE, Inc. (NKE) shares are under pressure today after analysts trimmed profit forecasts, even as several bullish themes emerge.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "NKE",
+      "entity2_type": "ORG",
+      "sentence": "NIKE, Inc. (NKE) shares are under pressure today after analysts trimmed profit forecasts, even as several bullish themes emerge.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "NIKE, Inc. (NKE) shares are under pressure today after analysts trimmed profit forecasts, even as several bullish themes emerge.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "NKE",
+      "entity2_type": "ORG",
+      "sentence": "NIKE, Inc. (NKE) shares are under pressure today after analysts trimmed profit forecasts, even as several bullish themes emerge.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "NIKE, Inc. (NKE) shares are under pressure today after analysts trimmed profit forecasts, even as several bullish themes emerge.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NKE",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "NIKE, Inc. (NKE) shares are under pressure today after analysts trimmed profit forecasts, even as several bullish themes emerge.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "Research",
+      "entity2_type": "ORG",
+      "sentence": "Zacks Research cut its Q1 2026 EPS estimate and a report flagged NKE among S&P 500 names with potentially plunging earnings.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "Q1",
+      "entity2_type": "DATE",
+      "sentence": "Zacks Research cut its Q1 2026 EPS estimate and a report flagged NKE among S&P 500 names with potentially plunging earnings.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "2026",
+      "entity2_type": "DATE",
+      "sentence": "Zacks Research cut its Q1 2026 EPS estimate and a report flagged NKE among S&P 500 names with potentially plunging earnings.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "NKE",
+      "entity2_type": "ORG",
+      "sentence": "Zacks Research cut its Q1 2026 EPS estimate and a report flagged NKE among S&P 500 names with potentially plunging earnings.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "Q1",
+      "entity2_type": "DATE",
+      "sentence": "Zacks Research cut its Q1 2026 EPS estimate and a report flagged NKE among S&P 500 names with potentially plunging earnings.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "2026",
+      "entity2_type": "DATE",
+      "sentence": "Zacks Research cut its Q1 2026 EPS estimate and a report flagged NKE among S&P 500 names with potentially plunging earnings.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "NKE",
+      "entity2_type": "ORG",
+      "sentence": "Zacks Research cut its Q1 2026 EPS estimate and a report flagged NKE among S&P 500 names with potentially plunging earnings.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q1",
+      "entity1_type": "DATE",
+      "entity2": "2026",
+      "entity2_type": "DATE",
+      "sentence": "Zacks Research cut its Q1 2026 EPS estimate and a report flagged NKE among S&P 500 names with potentially plunging earnings.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q1",
+      "entity1_type": "DATE",
+      "entity2": "NKE",
+      "entity2_type": "ORG",
+      "sentence": "Zacks Research cut its Q1 2026 EPS estimate and a report flagged NKE among S&P 500 names with potentially plunging earnings.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2026",
+      "entity1_type": "DATE",
+      "entity2": "NKE",
+      "entity2_type": "ORG",
+      "sentence": "Zacks Research cut its Q1 2026 EPS estimate and a report flagged NKE among S&P 500 names with potentially plunging earnings.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "InsiderMonkey",
+      "entity1_type": "ORG",
+      "entity2": "NKE",
+      "entity2_type": "ORG",
+      "sentence": "InsiderMonkey outlines a bullish thesis on NKE, highlighting valuation potential after the recent share slide.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NIKE",
+      "entity1_type": "ORG",
+      "entity2": ",",
+      "entity2_type": "ORG",
+      "sentence": "NIKE, Inc. (NKE): A Bull Case Theory\nPositive Sentiment:\nCrypto exchange Gemini adds NKE to its tokenized stock offering in the EU, broadening investor access and liquidity.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NIKE",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "NIKE, Inc. (NKE): A Bull Case Theory\nPositive Sentiment:\nCrypto exchange Gemini adds NKE to its tokenized stock offering in the EU, broadening investor access and liquidity.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NIKE",
+      "entity1_type": "ORG",
+      "entity2": "NKE",
+      "entity2_type": "ORG",
+      "sentence": "NIKE, Inc. (NKE): A Bull Case Theory\nPositive Sentiment:\nCrypto exchange Gemini adds NKE to its tokenized stock offering in the EU, broadening investor access and liquidity.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NIKE",
+      "entity1_type": "ORG",
+      "entity2": "Gemini",
+      "entity2_type": "ORG",
+      "sentence": "NIKE, Inc. (NKE): A Bull Case Theory\nPositive Sentiment:\nCrypto exchange Gemini adds NKE to its tokenized stock offering in the EU, broadening investor access and liquidity.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NIKE",
+      "entity1_type": "ORG",
+      "entity2": "NKE",
+      "entity2_type": "ORG",
+      "sentence": "NIKE, Inc. (NKE): A Bull Case Theory\nPositive Sentiment:\nCrypto exchange Gemini adds NKE to its tokenized stock offering in the EU, broadening investor access and liquidity.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NIKE",
+      "entity1_type": "ORG",
+      "entity2": "EU",
+      "entity2_type": "GPE",
+      "sentence": "NIKE, Inc. (NKE): A Bull Case Theory\nPositive Sentiment:\nCrypto exchange Gemini adds NKE to its tokenized stock offering in the EU, broadening investor access and liquidity.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "NIKE, Inc. (NKE): A Bull Case Theory\nPositive Sentiment:\nCrypto exchange Gemini adds NKE to its tokenized stock offering in the EU, broadening investor access and liquidity.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "NKE",
+      "entity2_type": "ORG",
+      "sentence": "NIKE, Inc. (NKE): A Bull Case Theory\nPositive Sentiment:\nCrypto exchange Gemini adds NKE to its tokenized stock offering in the EU, broadening investor access and liquidity.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "Gemini",
+      "entity2_type": "ORG",
+      "sentence": "NIKE, Inc. (NKE): A Bull Case Theory\nPositive Sentiment:\nCrypto exchange Gemini adds NKE to its tokenized stock offering in the EU, broadening investor access and liquidity.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "NKE",
+      "entity2_type": "ORG",
+      "sentence": "NIKE, Inc. (NKE): A Bull Case Theory\nPositive Sentiment:\nCrypto exchange Gemini adds NKE to its tokenized stock offering in the EU, broadening investor access and liquidity.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "EU",
+      "entity2_type": "GPE",
+      "sentence": "NIKE, Inc. (NKE): A Bull Case Theory\nPositive Sentiment:\nCrypto exchange Gemini adds NKE to its tokenized stock offering in the EU, broadening investor access and liquidity.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "NKE",
+      "entity2_type": "ORG",
+      "sentence": "NIKE, Inc. (NKE): A Bull Case Theory\nPositive Sentiment:\nCrypto exchange Gemini adds NKE to its tokenized stock offering in the EU, broadening investor access and liquidity.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "Gemini",
+      "entity2_type": "ORG",
+      "sentence": "NIKE, Inc. (NKE): A Bull Case Theory\nPositive Sentiment:\nCrypto exchange Gemini adds NKE to its tokenized stock offering in the EU, broadening investor access and liquidity.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "NKE",
+      "entity2_type": "ORG",
+      "sentence": "NIKE, Inc. (NKE): A Bull Case Theory\nPositive Sentiment:\nCrypto exchange Gemini adds NKE to its tokenized stock offering in the EU, broadening investor access and liquidity.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "EU",
+      "entity2_type": "GPE",
+      "sentence": "NIKE, Inc. (NKE): A Bull Case Theory\nPositive Sentiment:\nCrypto exchange Gemini adds NKE to its tokenized stock offering in the EU, broadening investor access and liquidity.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NKE",
+      "entity1_type": "ORG",
+      "entity2": "Gemini",
+      "entity2_type": "ORG",
+      "sentence": "NIKE, Inc. (NKE): A Bull Case Theory\nPositive Sentiment:\nCrypto exchange Gemini adds NKE to its tokenized stock offering in the EU, broadening investor access and liquidity.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NKE",
+      "entity1_type": "ORG",
+      "entity2": "NKE",
+      "entity2_type": "ORG",
+      "sentence": "NIKE, Inc. (NKE): A Bull Case Theory\nPositive Sentiment:\nCrypto exchange Gemini adds NKE to its tokenized stock offering in the EU, broadening investor access and liquidity.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NKE",
+      "entity1_type": "ORG",
+      "entity2": "EU",
+      "entity2_type": "GPE",
+      "sentence": "NIKE, Inc. (NKE): A Bull Case Theory\nPositive Sentiment:\nCrypto exchange Gemini adds NKE to its tokenized stock offering in the EU, broadening investor access and liquidity.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gemini",
+      "entity1_type": "ORG",
+      "entity2": "NKE",
+      "entity2_type": "ORG",
+      "sentence": "NIKE, Inc. (NKE): A Bull Case Theory\nPositive Sentiment:\nCrypto exchange Gemini adds NKE to its tokenized stock offering in the EU, broadening investor access and liquidity.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gemini",
+      "entity1_type": "ORG",
+      "entity2": "EU",
+      "entity2_type": "GPE",
+      "sentence": "NIKE, Inc. (NKE): A Bull Case Theory\nPositive Sentiment:\nCrypto exchange Gemini adds NKE to its tokenized stock offering in the EU, broadening investor access and liquidity.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NKE",
+      "entity1_type": "ORG",
+      "entity2": "EU",
+      "entity2_type": "GPE",
+      "sentence": "NIKE, Inc. (NKE): A Bull Case Theory\nPositive Sentiment:\nCrypto exchange Gemini adds NKE to its tokenized stock offering in the EU, broadening investor access and liquidity.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gemini",
+      "entity1_type": "ORG",
+      "entity2": "Nike",
+      "entity2_type": "ORG",
+      "sentence": "Gemini Expands Tokenized Stock Offerings with Nike, McDonald’s, Starbucks for EU Investors\nNeutral Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gemini",
+      "entity1_type": "ORG",
+      "entity2": "McDonald",
+      "entity2_type": "ORG",
+      "sentence": "Gemini Expands Tokenized Stock Offerings with Nike, McDonald’s, Starbucks for EU Investors\nNeutral Sentiment:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gemini",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "Gemini Expands Tokenized Stock Offerings with Nike, McDonald’s, Starbucks for EU Investors\nNeutral Sentiment:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gemini",
+      "entity1_type": "ORG",
+      "entity2": "Starbucks",
+      "entity2_type": "ORG",
+      "sentence": "Gemini Expands Tokenized Stock Offerings with Nike, McDonald’s, Starbucks for EU Investors\nNeutral Sentiment:",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nike",
+      "entity1_type": "ORG",
+      "entity2": "McDonald",
+      "entity2_type": "ORG",
+      "sentence": "Gemini Expands Tokenized Stock Offerings with Nike, McDonald’s, Starbucks for EU Investors\nNeutral Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nike",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "Gemini Expands Tokenized Stock Offerings with Nike, McDonald’s, Starbucks for EU Investors\nNeutral Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nike",
+      "entity1_type": "ORG",
+      "entity2": "Starbucks",
+      "entity2_type": "ORG",
+      "sentence": "Gemini Expands Tokenized Stock Offerings with Nike, McDonald’s, Starbucks for EU Investors\nNeutral Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "McDonald",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "Gemini Expands Tokenized Stock Offerings with Nike, McDonald’s, Starbucks for EU Investors\nNeutral Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "McDonald",
+      "entity1_type": "ORG",
+      "entity2": "Starbucks",
+      "entity2_type": "ORG",
+      "sentence": "Gemini Expands Tokenized Stock Offerings with Nike, McDonald’s, Starbucks for EU Investors\nNeutral Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "ORG",
+      "entity2": "Starbucks",
+      "entity2_type": "ORG",
+      "sentence": "Gemini Expands Tokenized Stock Offerings with Nike, McDonald’s, Starbucks for EU Investors\nNeutral Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nike",
+      "entity1_type": "ORG",
+      "entity2": "NIKE",
+      "entity2_type": "ORG",
+      "sentence": "Nike has become one of the most-watched stocks on Zacks.com, indicating heightened investor interest and trading volume.\nNIKE, Inc. (NKE) is Attracting Investor Attention\nNeutral Sentiment:",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nike",
+      "entity1_type": "ORG",
+      "entity2": ",",
+      "entity2_type": "ORG",
+      "sentence": "Nike has become one of the most-watched stocks on Zacks.com, indicating heightened investor interest and trading volume.\nNIKE, Inc. (NKE) is Attracting Investor Attention\nNeutral Sentiment:",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nike",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Nike has become one of the most-watched stocks on Zacks.com, indicating heightened investor interest and trading volume.\nNIKE, Inc. (NKE) is Attracting Investor Attention\nNeutral Sentiment:",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nike",
+      "entity1_type": "ORG",
+      "entity2": "NKE",
+      "entity2_type": "ORG",
+      "sentence": "Nike has become one of the most-watched stocks on Zacks.com, indicating heightened investor interest and trading volume.\nNIKE, Inc. (NKE) is Attracting Investor Attention\nNeutral Sentiment:",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NIKE",
+      "entity1_type": "ORG",
+      "entity2": ",",
+      "entity2_type": "ORG",
+      "sentence": "Nike has become one of the most-watched stocks on Zacks.com, indicating heightened investor interest and trading volume.\nNIKE, Inc. (NKE) is Attracting Investor Attention\nNeutral Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NIKE",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Nike has become one of the most-watched stocks on Zacks.com, indicating heightened investor interest and trading volume.\nNIKE, Inc. (NKE) is Attracting Investor Attention\nNeutral Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NIKE",
+      "entity1_type": "ORG",
+      "entity2": "NKE",
+      "entity2_type": "ORG",
+      "sentence": "Nike has become one of the most-watched stocks on Zacks.com, indicating heightened investor interest and trading volume.\nNIKE, Inc. (NKE) is Attracting Investor Attention\nNeutral Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Nike has become one of the most-watched stocks on Zacks.com, indicating heightened investor interest and trading volume.\nNIKE, Inc. (NKE) is Attracting Investor Attention\nNeutral Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "NKE",
+      "entity2_type": "ORG",
+      "sentence": "Nike has become one of the most-watched stocks on Zacks.com, indicating heightened investor interest and trading volume.\nNIKE, Inc. (NKE) is Attracting Investor Attention\nNeutral Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "NKE",
+      "entity2_type": "ORG",
+      "sentence": "Nike has become one of the most-watched stocks on Zacks.com, indicating heightened investor interest and trading volume.\nNIKE, Inc. (NKE) is Attracting Investor Attention\nNeutral Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nike",
+      "entity1_type": "ORG",
+      "entity2": "Special",
+      "entity2_type": "ORG",
+      "sentence": "Nike partners with Special Olympics for a global youth inclusion initiative, reinforcing brand goodwill and community engagement.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nike",
+      "entity1_type": "ORG",
+      "entity2": "Olympics",
+      "entity2_type": "ORG",
+      "sentence": "Nike partners with Special Olympics for a global youth inclusion initiative, reinforcing brand goodwill and community engagement.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Special",
+      "entity1_type": "ORG",
+      "entity2": "Olympics",
+      "entity2_type": "ORG",
+      "sentence": "Nike partners with Special Olympics for a global youth inclusion initiative, reinforcing brand goodwill and community engagement.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NIKE",
+      "entity1_type": "ORG",
+      "entity2": "NKE",
+      "entity2_type": "ORG",
+      "sentence": "NIKE (NKE) Teams With Special Olympics For Global Youth Sport Inclusion Initiative\nNeutral Sentiment:\nOakmark’s Q2 investor letter revisits Nike’s valuation amid mixed sector returns, sparking debate on whether this is the right entry point.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NIKE",
+      "entity1_type": "ORG",
+      "entity2": "Special",
+      "entity2_type": "EVENT",
+      "sentence": "NIKE (NKE) Teams With Special Olympics For Global Youth Sport Inclusion Initiative\nNeutral Sentiment:\nOakmark’s Q2 investor letter revisits Nike’s valuation amid mixed sector returns, sparking debate on whether this is the right entry point.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NIKE",
+      "entity1_type": "ORG",
+      "entity2": "Olympics",
+      "entity2_type": "EVENT",
+      "sentence": "NIKE (NKE) Teams With Special Olympics For Global Youth Sport Inclusion Initiative\nNeutral Sentiment:\nOakmark’s Q2 investor letter revisits Nike’s valuation amid mixed sector returns, sparking debate on whether this is the right entry point.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NIKE",
+      "entity1_type": "ORG",
+      "entity2": "Oakmark",
+      "entity2_type": "ORG",
+      "sentence": "NIKE (NKE) Teams With Special Olympics For Global Youth Sport Inclusion Initiative\nNeutral Sentiment:\nOakmark’s Q2 investor letter revisits Nike’s valuation amid mixed sector returns, sparking debate on whether this is the right entry point.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NIKE",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "NIKE (NKE) Teams With Special Olympics For Global Youth Sport Inclusion Initiative\nNeutral Sentiment:\nOakmark’s Q2 investor letter revisits Nike’s valuation amid mixed sector returns, sparking debate on whether this is the right entry point.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NIKE",
+      "entity1_type": "ORG",
+      "entity2": "Nike",
+      "entity2_type": "ORG",
+      "sentence": "NIKE (NKE) Teams With Special Olympics For Global Youth Sport Inclusion Initiative\nNeutral Sentiment:\nOakmark’s Q2 investor letter revisits Nike’s valuation amid mixed sector returns, sparking debate on whether this is the right entry point.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NKE",
+      "entity1_type": "ORG",
+      "entity2": "Special",
+      "entity2_type": "EVENT",
+      "sentence": "NIKE (NKE) Teams With Special Olympics For Global Youth Sport Inclusion Initiative\nNeutral Sentiment:\nOakmark’s Q2 investor letter revisits Nike’s valuation amid mixed sector returns, sparking debate on whether this is the right entry point.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NKE",
+      "entity1_type": "ORG",
+      "entity2": "Olympics",
+      "entity2_type": "EVENT",
+      "sentence": "NIKE (NKE) Teams With Special Olympics For Global Youth Sport Inclusion Initiative\nNeutral Sentiment:\nOakmark’s Q2 investor letter revisits Nike’s valuation amid mixed sector returns, sparking debate on whether this is the right entry point.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NKE",
+      "entity1_type": "ORG",
+      "entity2": "Oakmark",
+      "entity2_type": "ORG",
+      "sentence": "NIKE (NKE) Teams With Special Olympics For Global Youth Sport Inclusion Initiative\nNeutral Sentiment:\nOakmark’s Q2 investor letter revisits Nike’s valuation amid mixed sector returns, sparking debate on whether this is the right entry point.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NKE",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "NIKE (NKE) Teams With Special Olympics For Global Youth Sport Inclusion Initiative\nNeutral Sentiment:\nOakmark’s Q2 investor letter revisits Nike’s valuation amid mixed sector returns, sparking debate on whether this is the right entry point.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NKE",
+      "entity1_type": "ORG",
+      "entity2": "Nike",
+      "entity2_type": "ORG",
+      "sentence": "NIKE (NKE) Teams With Special Olympics For Global Youth Sport Inclusion Initiative\nNeutral Sentiment:\nOakmark’s Q2 investor letter revisits Nike’s valuation amid mixed sector returns, sparking debate on whether this is the right entry point.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Special",
+      "entity1_type": "EVENT",
+      "entity2": "Olympics",
+      "entity2_type": "EVENT",
+      "sentence": "NIKE (NKE) Teams With Special Olympics For Global Youth Sport Inclusion Initiative\nNeutral Sentiment:\nOakmark’s Q2 investor letter revisits Nike’s valuation amid mixed sector returns, sparking debate on whether this is the right entry point.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Special",
+      "entity1_type": "EVENT",
+      "entity2": "Oakmark",
+      "entity2_type": "ORG",
+      "sentence": "NIKE (NKE) Teams With Special Olympics For Global Youth Sport Inclusion Initiative\nNeutral Sentiment:\nOakmark’s Q2 investor letter revisits Nike’s valuation amid mixed sector returns, sparking debate on whether this is the right entry point.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Special",
+      "entity1_type": "EVENT",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "NIKE (NKE) Teams With Special Olympics For Global Youth Sport Inclusion Initiative\nNeutral Sentiment:\nOakmark’s Q2 investor letter revisits Nike’s valuation amid mixed sector returns, sparking debate on whether this is the right entry point.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Special",
+      "entity1_type": "EVENT",
+      "entity2": "Nike",
+      "entity2_type": "ORG",
+      "sentence": "NIKE (NKE) Teams With Special Olympics For Global Youth Sport Inclusion Initiative\nNeutral Sentiment:\nOakmark’s Q2 investor letter revisits Nike’s valuation amid mixed sector returns, sparking debate on whether this is the right entry point.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Olympics",
+      "entity1_type": "EVENT",
+      "entity2": "Oakmark",
+      "entity2_type": "ORG",
+      "sentence": "NIKE (NKE) Teams With Special Olympics For Global Youth Sport Inclusion Initiative\nNeutral Sentiment:\nOakmark’s Q2 investor letter revisits Nike’s valuation amid mixed sector returns, sparking debate on whether this is the right entry point.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Olympics",
+      "entity1_type": "EVENT",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "NIKE (NKE) Teams With Special Olympics For Global Youth Sport Inclusion Initiative\nNeutral Sentiment:\nOakmark’s Q2 investor letter revisits Nike’s valuation amid mixed sector returns, sparking debate on whether this is the right entry point.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Olympics",
+      "entity1_type": "EVENT",
+      "entity2": "Nike",
+      "entity2_type": "ORG",
+      "sentence": "NIKE (NKE) Teams With Special Olympics For Global Youth Sport Inclusion Initiative\nNeutral Sentiment:\nOakmark’s Q2 investor letter revisits Nike’s valuation amid mixed sector returns, sparking debate on whether this is the right entry point.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Oakmark",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "NIKE (NKE) Teams With Special Olympics For Global Youth Sport Inclusion Initiative\nNeutral Sentiment:\nOakmark’s Q2 investor letter revisits Nike’s valuation amid mixed sector returns, sparking debate on whether this is the right entry point.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Oakmark",
+      "entity1_type": "ORG",
+      "entity2": "Nike",
+      "entity2_type": "ORG",
+      "sentence": "NIKE (NKE) Teams With Special Olympics For Global Youth Sport Inclusion Initiative\nNeutral Sentiment:\nOakmark’s Q2 investor letter revisits Nike’s valuation amid mixed sector returns, sparking debate on whether this is the right entry point.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "Nike",
+      "entity2_type": "ORG",
+      "sentence": "NIKE (NKE) Teams With Special Olympics For Global Youth Sport Inclusion Initiative\nNeutral Sentiment:\nOakmark’s Q2 investor letter revisits Nike’s valuation amid mixed sector returns, sparking debate on whether this is the right entry point.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nike",
+      "entity1_type": "ORG",
+      "entity2": "NKE",
+      "entity2_type": "ORG",
+      "sentence": "Is this the Best Time to Invest in Nike (NKE)?",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Hypebeast",
+      "entity1_type": "ORG",
+      "entity2": "Nike",
+      "entity2_type": "ORG",
+      "sentence": "Hypebeast highlights Nike’s new Air Superfly release, showcasing ongoing product innovation that may support brand momentum.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Hypebeast",
+      "entity1_type": "ORG",
+      "entity2": "Air",
+      "entity2_type": "PRODUCT",
+      "sentence": "Hypebeast highlights Nike’s new Air Superfly release, showcasing ongoing product innovation that may support brand momentum.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Hypebeast",
+      "entity1_type": "ORG",
+      "entity2": "Superfly",
+      "entity2_type": "PRODUCT",
+      "sentence": "Hypebeast highlights Nike’s new Air Superfly release, showcasing ongoing product innovation that may support brand momentum.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nike",
+      "entity1_type": "ORG",
+      "entity2": "Air",
+      "entity2_type": "PRODUCT",
+      "sentence": "Hypebeast highlights Nike’s new Air Superfly release, showcasing ongoing product innovation that may support brand momentum.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nike",
+      "entity1_type": "ORG",
+      "entity2": "Superfly",
+      "entity2_type": "PRODUCT",
+      "sentence": "Hypebeast highlights Nike’s new Air Superfly release, showcasing ongoing product innovation that may support brand momentum.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Air",
+      "entity1_type": "PRODUCT",
+      "entity2": "Superfly",
+      "entity2_type": "PRODUCT",
+      "sentence": "Hypebeast highlights Nike’s new Air Superfly release, showcasing ongoing product innovation that may support brand momentum.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nike",
+      "entity1_type": "ORG",
+      "entity2": "the",
+      "entity2_type": "PRODUCT",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nike",
+      "entity1_type": "ORG",
+      "entity2": "Iconic",
+      "entity2_type": "PRODUCT",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nike",
+      "entity1_type": "ORG",
+      "entity2": "Air",
+      "entity2_type": "PRODUCT",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nike",
+      "entity1_type": "ORG",
+      "entity2": "Superfly",
+      "entity2_type": "PRODUCT",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nike",
+      "entity1_type": "ORG",
+      "entity2": "Zacks",
+      "entity2_type": "ORG",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nike",
+      "entity1_type": "ORG",
+      "entity2": "Research",
+      "entity2_type": "ORG",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nike",
+      "entity1_type": "ORG",
+      "entity2": "Q1",
+      "entity2_type": "DATE",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nike",
+      "entity1_type": "ORG",
+      "entity2": "2026",
+      "entity2_type": "DATE",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nike",
+      "entity1_type": "ORG",
+      "entity2": "Nike",
+      "entity2_type": "ORG",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nike",
+      "entity1_type": "ORG",
+      "entity2": "0.27",
+      "entity2_type": "MONEY",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nike",
+      "entity1_type": "ORG",
+      "entity2": "0.35",
+      "entity2_type": "MONEY",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "PRODUCT",
+      "entity2": "Iconic",
+      "entity2_type": "PRODUCT",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "PRODUCT",
+      "entity2": "Air",
+      "entity2_type": "PRODUCT",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "PRODUCT",
+      "entity2": "Superfly",
+      "entity2_type": "PRODUCT",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "PRODUCT",
+      "entity2": "Zacks",
+      "entity2_type": "ORG",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "PRODUCT",
+      "entity2": "Research",
+      "entity2_type": "ORG",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "PRODUCT",
+      "entity2": "Q1",
+      "entity2_type": "DATE",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "PRODUCT",
+      "entity2": "2026",
+      "entity2_type": "DATE",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "PRODUCT",
+      "entity2": "Nike",
+      "entity2_type": "ORG",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "PRODUCT",
+      "entity2": "0.27",
+      "entity2_type": "MONEY",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "PRODUCT",
+      "entity2": "0.35",
+      "entity2_type": "MONEY",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Iconic",
+      "entity1_type": "PRODUCT",
+      "entity2": "Air",
+      "entity2_type": "PRODUCT",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Iconic",
+      "entity1_type": "PRODUCT",
+      "entity2": "Superfly",
+      "entity2_type": "PRODUCT",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Iconic",
+      "entity1_type": "PRODUCT",
+      "entity2": "Zacks",
+      "entity2_type": "ORG",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Iconic",
+      "entity1_type": "PRODUCT",
+      "entity2": "Research",
+      "entity2_type": "ORG",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Iconic",
+      "entity1_type": "PRODUCT",
+      "entity2": "Q1",
+      "entity2_type": "DATE",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Iconic",
+      "entity1_type": "PRODUCT",
+      "entity2": "2026",
+      "entity2_type": "DATE",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Iconic",
+      "entity1_type": "PRODUCT",
+      "entity2": "Nike",
+      "entity2_type": "ORG",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Iconic",
+      "entity1_type": "PRODUCT",
+      "entity2": "0.27",
+      "entity2_type": "MONEY",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Iconic",
+      "entity1_type": "PRODUCT",
+      "entity2": "0.35",
+      "entity2_type": "MONEY",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Air",
+      "entity1_type": "PRODUCT",
+      "entity2": "Superfly",
+      "entity2_type": "PRODUCT",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Air",
+      "entity1_type": "PRODUCT",
+      "entity2": "Zacks",
+      "entity2_type": "ORG",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Air",
+      "entity1_type": "PRODUCT",
+      "entity2": "Research",
+      "entity2_type": "ORG",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Air",
+      "entity1_type": "PRODUCT",
+      "entity2": "Q1",
+      "entity2_type": "DATE",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Air",
+      "entity1_type": "PRODUCT",
+      "entity2": "2026",
+      "entity2_type": "DATE",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Air",
+      "entity1_type": "PRODUCT",
+      "entity2": "Nike",
+      "entity2_type": "ORG",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Air",
+      "entity1_type": "PRODUCT",
+      "entity2": "0.27",
+      "entity2_type": "MONEY",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Air",
+      "entity1_type": "PRODUCT",
+      "entity2": "0.35",
+      "entity2_type": "MONEY",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Superfly",
+      "entity1_type": "PRODUCT",
+      "entity2": "Zacks",
+      "entity2_type": "ORG",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Superfly",
+      "entity1_type": "PRODUCT",
+      "entity2": "Research",
+      "entity2_type": "ORG",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Superfly",
+      "entity1_type": "PRODUCT",
+      "entity2": "Q1",
+      "entity2_type": "DATE",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Superfly",
+      "entity1_type": "PRODUCT",
+      "entity2": "2026",
+      "entity2_type": "DATE",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Superfly",
+      "entity1_type": "PRODUCT",
+      "entity2": "Nike",
+      "entity2_type": "ORG",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Superfly",
+      "entity1_type": "PRODUCT",
+      "entity2": "0.27",
+      "entity2_type": "MONEY",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Superfly",
+      "entity1_type": "PRODUCT",
+      "entity2": "0.35",
+      "entity2_type": "MONEY",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "Research",
+      "entity2_type": "ORG",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "Q1",
+      "entity2_type": "DATE",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "2026",
+      "entity2_type": "DATE",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "Nike",
+      "entity2_type": "ORG",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "0.27",
+      "entity2_type": "MONEY",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "0.35",
+      "entity2_type": "MONEY",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "Q1",
+      "entity2_type": "DATE",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "2026",
+      "entity2_type": "DATE",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "Nike",
+      "entity2_type": "ORG",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "0.27",
+      "entity2_type": "MONEY",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "0.35",
+      "entity2_type": "MONEY",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q1",
+      "entity1_type": "DATE",
+      "entity2": "2026",
+      "entity2_type": "DATE",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q1",
+      "entity1_type": "DATE",
+      "entity2": "Nike",
+      "entity2_type": "ORG",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q1",
+      "entity1_type": "DATE",
+      "entity2": "0.27",
+      "entity2_type": "MONEY",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q1",
+      "entity1_type": "DATE",
+      "entity2": "0.35",
+      "entity2_type": "MONEY",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2026",
+      "entity1_type": "DATE",
+      "entity2": "Nike",
+      "entity2_type": "ORG",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2026",
+      "entity1_type": "DATE",
+      "entity2": "0.27",
+      "entity2_type": "MONEY",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2026",
+      "entity1_type": "DATE",
+      "entity2": "0.35",
+      "entity2_type": "MONEY",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nike",
+      "entity1_type": "ORG",
+      "entity2": "0.27",
+      "entity2_type": "MONEY",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Nike",
+      "entity1_type": "ORG",
+      "entity2": "0.35",
+      "entity2_type": "MONEY",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "0.27",
+      "entity1_type": "MONEY",
+      "entity2": "0.35",
+      "entity2_type": "MONEY",
+      "sentence": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "Research",
+      "entity2_type": "ORG",
+      "sentence": "Zacks Research Has Bearish Estimate for NIKE Q1 Earnings\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "NIKE",
+      "entity2_type": "ORG",
+      "sentence": "Zacks Research Has Bearish Estimate for NIKE Q1 Earnings\nNegative Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "Q1",
+      "entity2_type": "DATE",
+      "sentence": "Zacks Research Has Bearish Estimate for NIKE Q1 Earnings\nNegative Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "NIKE",
+      "entity2_type": "ORG",
+      "sentence": "Zacks Research Has Bearish Estimate for NIKE Q1 Earnings\nNegative Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "Q1",
+      "entity2_type": "DATE",
+      "sentence": "Zacks Research Has Bearish Estimate for NIKE Q1 Earnings\nNegative Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NIKE",
+      "entity1_type": "ORG",
+      "entity2": "Q1",
+      "entity2_type": "DATE",
+      "sentence": "Zacks Research Has Bearish Estimate for NIKE Q1 Earnings\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NKE",
+      "entity1_type": "ORG",
+      "entity2": "five",
+      "entity2_type": "CARDINAL",
+      "sentence": "An Investors.com article flags NKE among five S&P 500 stocks whose earnings are poised to plunge in the coming quarter.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NKE",
+      "entity1_type": "ORG",
+      "entity2": "the",
+      "entity2_type": "DATE",
+      "sentence": "An Investors.com article flags NKE among five S&P 500 stocks whose earnings are poised to plunge in the coming quarter.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NKE",
+      "entity1_type": "ORG",
+      "entity2": "coming",
+      "entity2_type": "DATE",
+      "sentence": "An Investors.com article flags NKE among five S&P 500 stocks whose earnings are poised to plunge in the coming quarter.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "NKE",
+      "entity1_type": "ORG",
+      "entity2": "quarter",
+      "entity2_type": "DATE",
+      "sentence": "An Investors.com article flags NKE among five S&P 500 stocks whose earnings are poised to plunge in the coming quarter.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "five",
+      "entity1_type": "CARDINAL",
+      "entity2": "the",
+      "entity2_type": "DATE",
+      "sentence": "An Investors.com article flags NKE among five S&P 500 stocks whose earnings are poised to plunge in the coming quarter.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "five",
+      "entity1_type": "CARDINAL",
+      "entity2": "coming",
+      "entity2_type": "DATE",
+      "sentence": "An Investors.com article flags NKE among five S&P 500 stocks whose earnings are poised to plunge in the coming quarter.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "five",
+      "entity1_type": "CARDINAL",
+      "entity2": "quarter",
+      "entity2_type": "DATE",
+      "sentence": "An Investors.com article flags NKE among five S&P 500 stocks whose earnings are poised to plunge in the coming quarter.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "coming",
+      "entity2_type": "DATE",
+      "sentence": "An Investors.com article flags NKE among five S&P 500 stocks whose earnings are poised to plunge in the coming quarter.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "quarter",
+      "entity2_type": "DATE",
+      "sentence": "An Investors.com article flags NKE among five S&P 500 stocks whose earnings are poised to plunge in the coming quarter.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "coming",
+      "entity1_type": "DATE",
+      "entity2": "quarter",
+      "entity2_type": "DATE",
+      "sentence": "An Investors.com article flags NKE among five S&P 500 stocks whose earnings are poised to plunge in the coming quarter.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Five",
+      "entity1_type": "CARDINAL",
+      "entity2": "Any",
+      "entity2_type": "DATE",
+      "sentence": "Five S&P 500 Stocks' Earnings Poised To Plunge Any Day Now\nPosted 2h ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Five",
+      "entity1_type": "CARDINAL",
+      "entity2": "Day",
+      "entity2_type": "DATE",
+      "sentence": "Five S&P 500 Stocks' Earnings Poised To Plunge Any Day Now\nPosted 2h ago\nAI Generated.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Five",
+      "entity1_type": "CARDINAL",
+      "entity2": "2h",
+      "entity2_type": "DATE",
+      "sentence": "Five S&P 500 Stocks' Earnings Poised To Plunge Any Day Now\nPosted 2h ago\nAI Generated.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Five",
+      "entity1_type": "CARDINAL",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Five S&P 500 Stocks' Earnings Poised To Plunge Any Day Now\nPosted 2h ago\nAI Generated.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Any",
+      "entity1_type": "DATE",
+      "entity2": "Day",
+      "entity2_type": "DATE",
+      "sentence": "Five S&P 500 Stocks' Earnings Poised To Plunge Any Day Now\nPosted 2h ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Any",
+      "entity1_type": "DATE",
+      "entity2": "2h",
+      "entity2_type": "DATE",
+      "sentence": "Five S&P 500 Stocks' Earnings Poised To Plunge Any Day Now\nPosted 2h ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Any",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Five S&P 500 Stocks' Earnings Poised To Plunge Any Day Now\nPosted 2h ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Day",
+      "entity1_type": "DATE",
+      "entity2": "2h",
+      "entity2_type": "DATE",
+      "sentence": "Five S&P 500 Stocks' Earnings Poised To Plunge Any Day Now\nPosted 2h ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Day",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Five S&P 500 Stocks' Earnings Poised To Plunge Any Day Now\nPosted 2h ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2h",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Five S&P 500 Stocks' Earnings Poised To Plunge Any Day Now\nPosted 2h ago\nAI Generated.",
+      "distance": 1
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "profit forecasts",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "several bullish themes",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Zacks Research",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its Q1 2026 EPS estimate",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a report",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "S&P 500 names",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "potentially plunging earnings",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "attractive valuation",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "expanded trading access",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "brand-strengthening initiatives",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a rebound",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a bullish thesis",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "valuation potential",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the recent share slide",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "A Bull Case Theory",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Crypto exchange Gemini",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its tokenized stock offering",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "the EU",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "investor access",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Tokenized Stock Offerings",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the most-watched stocks",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "heightened investor interest",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "trading volume",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Investor Attention",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Special Olympics",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a global youth inclusion initiative",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "brand goodwill",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "community engagement",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Special Olympics",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Global Youth Sport Inclusion Initiative",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Oakmark’s Q2 investor letter",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Nike’s valuation",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "mixed sector returns",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the right entry point",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the Best Time",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Nike’s new Air Superfly release",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "ongoing product innovation",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "brand momentum",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the Iconic Air Superfly",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Zacks Research",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its Q1 2026 EPS estimate",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "weaker near-term profit expectations",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Zacks Research",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Bearish Estimate",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "NIKE Q1 Earnings",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "An Investors.com article",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "five S&P 500 stocks",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "whose earnings",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "the coming quarter",
+      "type": "noun_chunk",
+      "category": "temporal"
+    },
+    {
+      "text": "Five S&P 500 Stocks' Earnings",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "$0.27",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$0.35",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "Q1 2026",
+      "type": "pattern",
+      "category": "quarter"
+    },
+    {
+      "text": "Q1 2026",
+      "type": "pattern",
+      "category": "quarter"
+    },
+    {
+      "text": "profit",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "profit",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "trading",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "share",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "trading",
+      "type": "pattern",
+      "category": "market_term"
+    }
+  ],
+  "important_sentences": [
+    {
+      "text": "Nike Revives the Iconic Air Superfly with a Futuristic Exclusive\nNegative Sentiment:\nZacks Research cut its Q1 2026 EPS estimate for Nike to $0.27 from $0.35, signaling weaker near-term profit expectations.",
+      "importance_score": 52,
+      "entity_count": 12,
+      "financial_keyword_count": 2,
+      "money_count": 2,
+      "company_count": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "NIKE (NKE) Teams With Special Olympics For Global Youth Sport Inclusion Initiative\nNeutral Sentiment:\nOakmark’s Q2 investor letter revisits Nike’s valuation amid mixed sector returns, sparking debate on whether this is the right entry point.",
+      "importance_score": 45,
+      "entity_count": 7,
+      "financial_keyword_count": 5,
+      "money_count": 0,
+      "company_count": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "NIKE, Inc. (NKE): A Bull Case Theory\nPositive Sentiment:\nCrypto exchange Gemini adds NKE to its tokenized stock offering in the EU, broadening investor access and liquidity.",
+      "importance_score": 39,
+      "entity_count": 7,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 4,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Nike has become one of the most-watched stocks on Zacks.com, indicating heightened investor interest and trading volume.\nNIKE, Inc. (NKE) is Attracting Investor Attention\nNeutral Sentiment:",
+      "importance_score": 31,
+      "entity_count": 5,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Gemini Expands Tokenized Stock Offerings with Nike, McDonald’s, Starbucks for EU Investors\nNeutral Sentiment:",
+      "importance_score": 29,
+      "entity_count": 5,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Zacks Research cut its Q1 2026 EPS estimate and a report flagged NKE among S&P 500 names with potentially plunging earnings.",
+      "importance_score": 27,
+      "entity_count": 5,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Nike partners with Special Olympics for a global youth inclusion initiative, reinforcing brand goodwill and community engagement.",
+      "importance_score": 23,
+      "entity_count": 3,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Hypebeast highlights Nike’s new Air Superfly release, showcasing ongoing product innovation that may support brand momentum.",
+      "importance_score": 22,
+      "entity_count": 4,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Zacks Research Has Bearish Estimate for NIKE Q1 Earnings\nNegative Sentiment:",
+      "importance_score": 22,
+      "entity_count": 4,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "negative"
+    },
+    {
+      "text": "NIKE, Inc. (NKE) shares are under pressure today after analysts trimmed profit forecasts, even as several bullish themes emerge.",
+      "importance_score": 21,
+      "entity_count": 5,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "positive"
+    }
+  ],
+  "entity_statistics": {
+    "total_entities": 50,
+    "unique_entities": 27,
+    "type_counts": {
+      "ORG": 33,
+      "DATE": 8,
+      "LOC": 1,
+      "GPE": 1,
+      "EVENT": 1,
+      "PRODUCT": 2,
+      "MONEY": 2,
+      "CARDINAL": 2
+    },
+    "type_distribution": {
+      "ORG": 0.66,
+      "DATE": 0.16,
+      "LOC": 0.02,
+      "GPE": 0.02,
+      "EVENT": 0.02,
+      "PRODUCT": 0.04,
+      "MONEY": 0.04,
+      "CARDINAL": 0.04
+    },
+    "most_common_entities": [
+      [
+        "NKE",
+        9
+      ],
+      [
+        "Nike",
+        8
+      ],
+      [
+        "NIKE, Inc.",
+        3
+      ],
+      [
+        "Zacks Research",
+        3
+      ],
+      [
+        "Q1 2026",
+        2
+      ],
+      [
+        "Gemini",
+        2
+      ],
+      [
+        "Special Olympics",
+        2
+      ],
+      [
+        "NIKE",
+        2
+      ],
+      [
+        "today",
+        1
+      ],
+      [
+        "Europe",
+        1
+      ]
+    ],
+    "entity_types_found": [
+      "ORG",
+      "DATE",
+      "LOC",
+      "GPE",
+      "EVENT",
+      "PRODUCT",
+      "MONEY",
+      "CARDINAL"
+    ],
+    "company_entities": 35,
+    "person_entities": 0,
+    "financial_entities": 2,
+    "entity_density": 0.17421602787456447
+  },
+  "financial_analysis": {
+    "money_amounts": [
+      "0.27",
+      "0.35"
+    ],
+    "percentages": [],
+    "companies": [
+      "NIKE, Inc.",
+      "NKE",
+      "Zacks Research",
+      "NKE",
+      "InsiderMonkey",
+      "NKE",
+      "NIKE, Inc.",
+      "NKE",
+      "Gemini",
+      "NKE",
+      "Gemini",
+      "Nike",
+      "McDonald’s",
+      "Starbucks",
+      "Nike",
+      "NIKE, Inc.",
+      "NKE",
+      "Nike",
+      "Special Olympics",
+      "NIKE",
+      "NKE",
+      "Oakmark",
+      "Nike",
+      "Nike",
+      "NKE",
+      "Hypebeast",
+      "Nike",
+      "Nike",
+      "Zacks Research",
+      "Nike",
+      "Zacks Research",
+      "NIKE",
+      "NKE"
+    ],
+    "people": [],
+    "dates": [
+      "today",
+      "Q1 2026",
+      "Q2",
+      "Q1 2026",
+      "Q1",
+      "the coming quarter",
+      "Any Day",
+      "2h ago"
+    ],
+    "financial_terms": [
+      "Stock",
+      "Earnings",
+      "profit",
+      "earnings",
+      "stock",
+      "share",
+      "trading",
+      "quarter"
+    ],
+    "financial_metrics": [],
+    "market_indicators": [
+      "volume",
+      "Bull"
+    ]
+  },
+  "temporal_analysis": {
+    "dates": [
+      "today",
+      "Q1 2026",
+      "Q2",
+      "Q1 2026",
+      "Q1",
+      "the coming quarter",
+      "Any Day",
+      "2h ago"
+    ],
+    "time_expressions": [],
+    "temporal_relationships": [
+      "today",
+      "recent"
+    ],
+    "quarters": [
+      "Q1 2026",
+      "Q2",
+      "Q1 2026",
+      "Q1"
+    ],
+    "years": [
+      "Q1 2026",
+      "Q1 2026"
+    ],
+    "time_periods": []
+  },
+  "sentiment_analysis": {
+    "positive_words": 6,
+    "negative_words": 3,
+    "positive_ratio": 0.020905923344947737,
+    "negative_ratio": 0.010452961672473868,
+    "sentiment_score": 0.010452961672473868,
+    "sentiment_label": "positive",
+    "sentiment_strength": 0.010452961672473868,
+    "confidence": 0.10452961672473868
+  },
+  "industry_analysis": {
+    "dominant_industry": "tech",
+    "industry_scores": {
+      "tech": 2,
+      "finance": 2,
+      "healthcare": 0,
+      "energy": 0,
+      "retail": 0,
+      "automotive": 0,
+      "media": 0,
+      "industrial": 0,
+      "real_estate": 0,
+      "telecom": 0,
+      "food_beverage": 0,
+      "travel": 0,
+      "education": 0,
+      "professional": 0,
+      "mining": 0,
+      "aerospace": 0,
+      "environmental": 0,
+      "cannabis": 0
+    },
+    "confidence": 0.5
+  },
+  "market_analysis": {
+    "market_sentiment": "bearish",
+    "bullish_indicators": 1,
+    "bearish_indicators": 2,
+    "market_conditions": {
+      "volatility": "normal",
+      "volume": "normal",
+      "trend": "bearish"
+    },
+    "trading_activity": "normal"
+  },
+  "competitor_analysis": {
+    "companies_mentioned": [
+      "NIKE, Inc.",
+      "NKE",
+      "Zacks Research",
+      "NKE",
+      "InsiderMonkey",
+      "NKE",
+      "NIKE, Inc.",
+      "NKE",
+      "Gemini",
+      "NKE",
+      "Gemini",
+      "Nike",
+      "McDonald’s",
+      "Starbucks",
+      "Nike",
+      "NIKE, Inc.",
+      "NKE",
+      "Nike",
+      "Special Olympics",
+      "NIKE",
+      "NKE",
+      "Oakmark",
+      "Nike",
+      "Nike",
+      "NKE",
+      "Hypebeast",
+      "Nike",
+      "Nike",
+      "Zacks Research",
+      "Nike",
+      "Zacks Research",
+      "NIKE",
+      "NKE"
+    ],
+    "competitive_context": [],
+    "competitor_count": 33,
+    "has_competitive_language": false
+  },
+  "risk_analysis": {
+    "risk_sentences": [],
+    "risk_count": 0,
+    "risk_level": "low"
+  },
+  "opportunity_analysis": {
+    "opportunity_sentences": [
+      "Zacks Research cut its Q1 2026 EPS estimate and a report flagged NKE among S&P 500 names with potentially plunging earnings.",
+      "InsiderMonkey outlines a bullish thesis on NKE, highlighting valuation potential after the recent share slide.",
+      "Hypebeast highlights Nike’s new Air Superfly release, showcasing ongoing product innovation that may support brand momentum."
+    ],
+    "opportunity_count": 3,
+    "opportunity_level": "medium"
+  },
+  "processing_metadata": {
+    "timestamp": "2025-07-17T02:27:13.954060",
+    "model_used": "en_core_web_trf",
+    "text_length": 2087
+  }
+}
