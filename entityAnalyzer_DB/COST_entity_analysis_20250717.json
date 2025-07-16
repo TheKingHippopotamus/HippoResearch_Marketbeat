@@ -1,0 +1,3175 @@
+{
+  "ticker": "COST",
+  "entities": [
+    {
+      "text": "Costco Wholesale Corporation",
+      "label": "ORG",
+      "start": 0,
+      "end": 28,
+      "sentence": "Costco Wholesale Corporation (NASDAQ:COST) stock is reacting to a mix of dividend news, sales data, analyst moves and insider activity.",
+      "context": "Costco Wholesale Corporation (NASDAQ:COST) stock is reacting to a mix of divid",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "COST",
+      "label": "ORG",
+      "start": 37,
+      "end": 41,
+      "sentence": "Costco Wholesale Corporation (NASDAQ:COST) stock is reacting to a mix of dividend news, sales data, analyst moves and insider activity.",
+      "context": "Costco Wholesale Corporation (NASDAQ:COST) stock is reacting to a mix of dividend news, sal",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Costco",
+      "label": "ORG",
+      "start": 204,
+      "end": 210,
+      "sentence": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "context": "nvestors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "quarterly",
+      "label": "DATE",
+      "start": 222,
+      "end": 231,
+      "sentence": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "context": "te include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payabl",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "1.30",
+      "label": "MONEY",
+      "start": 245,
+      "end": 249,
+      "sentence": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "context": "ntiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to sha",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "0.55%",
+      "label": "PERCENT",
+      "start": 261,
+      "end": 266,
+      "sentence": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "context": "declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of reco",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "August 15",
+      "label": "DATE",
+      "start": 283,
+      "end": 292,
+      "sentence": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "context": "ividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Anno",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "August 1",
+      "label": "DATE",
+      "start": 319,
+      "end": 327,
+      "sentence": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "context": "eld), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:\nJune s",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "June",
+      "label": "DATE",
+      "start": 371,
+      "end": 375,
+      "sentence": "June sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.",
+      "context": "gust 1.\nDividend Announcement\nPositive Sentiment:\nJune sales rose 8% to $26.44 billion, driven by 11.5%",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "8%",
+      "label": "PERCENT",
+      "start": 387,
+      "end": 389,
+      "sentence": "June sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.",
+      "context": "Announcement\nPositive Sentiment:\nJune sales rose 8% to $26.44 billion, driven by 11.5% e-commerce gro",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "$26.44 billion",
+      "label": "MONEY",
+      "start": 393,
+      "end": 407,
+      "sentence": "June sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.",
+      "context": "ncement\nPositive Sentiment:\nJune sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing C",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "11.5%",
+      "label": "PERCENT",
+      "start": 419,
+      "end": 424,
+      "sentence": "June sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.",
+      "context": ":\nJune sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Costco",
+      "label": "ORG",
+      "start": 456,
+      "end": 462,
+      "sentence": "June sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.",
+      "context": "n, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.\nZacks: Strong",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "June",
+      "label": "DATE",
+      "start": 512,
+      "end": 516,
+      "sentence": "Zacks: Strong June Sales\nPositive Sentiment:",
+      "context": "’s role as a defensive retail play.\nZacks: Strong June Sales\nPositive Sentiment:\nLoop Capital lifted its",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Loop Capital",
+      "label": "ORG",
+      "start": 543,
+      "end": 555,
+      "sentence": "Loop Capital lifted its price target on COST, citing strong global sales.",
+      "context": "lay.\nZacks: Strong June Sales\nPositive Sentiment:\nLoop Capital lifted its price target on COST, citing strong gl",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "COST",
+      "label": "ORG",
+      "start": 583,
+      "end": 587,
+      "sentence": "Loop Capital lifted its price target on COST, citing strong global sales.",
+      "context": "entiment:\nLoop Capital lifted its price target on COST, citing strong global sales.\nPrice Target Raised",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Costco",
+      "label": "ORG",
+      "start": 657,
+      "end": 663,
+      "sentence": "Costco will open four new U.S. warehouses in August, driving further expansion.",
+      "context": "al sales.\nPrice Target Raised\nPositive Sentiment:\nCostco will open four new U.S. warehouses in August, dri",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "four",
+      "label": "CARDINAL",
+      "start": 674,
+      "end": 678,
+      "sentence": "Costco will open four new U.S. warehouses in August, driving further expansion.",
+      "context": "arget Raised\nPositive Sentiment:\nCostco will open four new U.S. warehouses in August, driving further ex",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "U.S.",
+      "label": "GPE",
+      "start": 683,
+      "end": 687,
+      "sentence": "Costco will open four new U.S. warehouses in August, driving further expansion.",
+      "context": "sed\nPositive Sentiment:\nCostco will open four new U.S. warehouses in August, driving further expansion.",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "August",
+      "label": "DATE",
+      "start": 702,
+      "end": 708,
+      "sentence": "Costco will open four new U.S. warehouses in August, driving further expansion.",
+      "context": "ent:\nCostco will open four new U.S. warehouses in August, driving further expansion.\nStore Openings\nPositi",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Jim Cramer",
+      "label": "PERSON",
+      "start": 772,
+      "end": 782,
+      "sentence": "Jim Cramer reaffirmed Costco’s quality, calling it “an amazing company.”\nJim Cramer Praise\nPositive Sentiment:",
+      "context": "her expansion.\nStore Openings\nPositive Sentiment:\nJim Cramer reaffirmed Costco’s quality, calling it “an amazi",
+      "is_company": false,
+      "is_person": true,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Costco",
+      "label": "ORG",
+      "start": 794,
+      "end": 800,
+      "sentence": "Jim Cramer reaffirmed Costco’s quality, calling it “an amazing company.”\nJim Cramer Praise\nPositive Sentiment:",
+      "context": "penings\nPositive Sentiment:\nJim Cramer reaffirmed Costco’s quality, calling it “an amazing company.”\nJim C",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Jim Cramer",
+      "label": "PERSON",
+      "start": 845,
+      "end": 855,
+      "sentence": "Jim Cramer reaffirmed Costco’s quality, calling it “an amazing company.”\nJim Cramer Praise\nPositive Sentiment:",
+      "context": "ostco’s quality, calling it “an amazing company.”\nJim Cramer Praise\nPositive Sentiment:\nHighlighted as a defen",
+      "is_company": false,
+      "is_person": true,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "3",
+      "label": "CARDINAL",
+      "start": 919,
+      "end": 920,
+      "sentence": "Highlighted as a defensive pick in “3 Stocks to Cushion Your Portfolio This Earnings Season.”",
+      "context": "ve Sentiment:\nHighlighted as a defensive pick in “3 Stocks to Cushion Your Portfolio This Earnings Se",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "This Earnings Season",
+      "label": "DATE",
+      "start": 954,
+      "end": 974,
+      "sentence": "Highlighted as a defensive pick in “3 Stocks to Cushion Your Portfolio This Earnings Season.”",
+      "context": "nsive pick in “3 Stocks to Cushion Your Portfolio This Earnings Season.”\nDefensive Stock Article\nNeutral Sentiment:\nFeat",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "MarketBeat",
+      "label": "ORG",
+      "start": 1032,
+      "end": 1042,
+      "sentence": "Defensive Stock Article\nNeutral Sentiment:\nFeatured in MarketBeat screener lists for travel, grocery, toy and apparel stocks, showing broad sector coverage.",
+      "context": "sive Stock Article\nNeutral Sentiment:\nFeatured in MarketBeat screener lists for travel, grocery, toy and appar",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "an Auto Spa Express",
+      "label": "FAC",
+      "start": 1178,
+      "end": 1197,
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "context": "rage.\nNeutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Bel Air Costco",
+      "label": "ORG",
+      "start": 1210,
+      "end": 1224,
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "context": "sal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Dev",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Yoram Rubanenko",
+      "label": "PERSON",
+      "start": 1307,
+      "end": 1322,
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "context": "tivity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting",
+      "is_company": false,
+      "is_person": true,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "4,000",
+      "label": "CARDINAL",
+      "start": 1328,
+      "end": 1333,
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "context": "ment\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake b",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "974.96",
+      "label": "MONEY",
+      "start": 1356,
+      "end": 1362,
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "context": "Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "about 41%",
+      "label": "PERCENT",
+      "start": 1385,
+      "end": 1394,
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "context": "hares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:\nRoth Capital",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Roth Capital",
+      "label": "ORG",
+      "start": 1432,
+      "end": 1444,
+      "sentence": "Roth Capital trimmed its FY2025 EPS forecast for COST from $18.82 to $18.06, slightly below consensus estimates.",
+      "context": "by about 41%.\nInsider Selling\nNegative Sentiment:\nRoth Capital trimmed its FY2025 EPS forecast for COST from $18",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "FY2025",
+      "label": "DATE",
+      "start": 1457,
+      "end": 1463,
+      "sentence": "Roth Capital trimmed its FY2025 EPS forecast for COST from $18.82 to $18.06, slightly below consensus estimates.",
+      "context": "ling\nNegative Sentiment:\nRoth Capital trimmed its FY2025 EPS forecast for COST from $18.82 to $18.06, slig",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "COST",
+      "label": "ORG",
+      "start": 1481,
+      "end": 1485,
+      "sentence": "Roth Capital trimmed its FY2025 EPS forecast for COST from $18.82 to $18.06, slightly below consensus estimates.",
+      "context": "Roth Capital trimmed its FY2025 EPS forecast for COST from $18.82 to $18.06, slightly below consensus e",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "18.82",
+      "label": "MONEY",
+      "start": 1492,
+      "end": 1497,
+      "sentence": "Roth Capital trimmed its FY2025 EPS forecast for COST from $18.82 to $18.06, slightly below consensus estimates.",
+      "context": "al trimmed its FY2025 EPS forecast for COST from $18.82 to $18.06, slightly below consensus estimates.\nPo",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "18.06",
+      "label": "MONEY",
+      "start": 1502,
+      "end": 1507,
+      "sentence": "Roth Capital trimmed its FY2025 EPS forecast for COST from $18.82 to $18.06, slightly below consensus estimates.",
+      "context": "its FY2025 EPS forecast for COST from $18.82 to $18.06, slightly below consensus estimates.\nPosted 4m ag",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "4m ago",
+      "label": "DATE",
+      "start": 1552,
+      "end": 1558,
+      "sentence": "Posted 4m ago\nAI Generated.",
+      "context": "18.06, slightly below consensus estimates.\nPosted 4m ago\nAI Generated. May Contain Errors.",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AI Generated",
+      "label": "ORG",
+      "start": 1559,
+      "end": 1571,
+      "sentence": "Posted 4m ago\nAI Generated.",
+      "context": "slightly below consensus estimates.\nPosted 4m ago\nAI Generated. May Contain Errors.",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    }
+  ],
+  "relationships": [
+    {
+      "type": "SVO",
+      "subject": "Costco",
+      "verb": "declared",
+      "object": "dividend",
+      "sentence": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "importance": 14
+    },
+    {
+      "type": "SVO",
+      "subject": "Capital",
+      "verb": "lifted",
+      "object": "target",
+      "sentence": "Loop Capital lifted its price target on COST, citing strong global sales.",
+      "importance": 6
+    },
+    {
+      "type": "SVO",
+      "subject": "Costco",
+      "verb": "open",
+      "object": "warehouses",
+      "sentence": "Costco will open four new U.S. warehouses in August, driving further expansion.",
+      "importance": 5
+    },
+    {
+      "type": "SVO",
+      "subject": "Cramer",
+      "verb": "reaffirmed",
+      "object": "quality",
+      "sentence": "Jim Cramer reaffirmed Costco’s quality, calling it “an amazing company.”\nJim Cramer Praise\nPositive Sentiment:",
+      "importance": 5
+    },
+    {
+      "type": "SVO",
+      "subject": "Sentiment",
+      "verb": "sold",
+      "object": "shares",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "importance": 14
+    },
+    {
+      "type": "SVO",
+      "subject": "Rubanenko",
+      "verb": "sold",
+      "object": "shares",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "importance": 14
+    },
+    {
+      "type": "SVO",
+      "subject": "Capital",
+      "verb": "trimmed",
+      "object": "forecast",
+      "sentence": "Roth Capital trimmed its FY2025 EPS forecast for COST from $18.82 to $18.06, slightly below consensus estimates.",
+      "importance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Costco",
+      "entity1_type": "ORG",
+      "entity2": "Wholesale",
+      "entity2_type": "ORG",
+      "sentence": "Costco Wholesale Corporation (NASDAQ:COST) stock is reacting to a mix of dividend news, sales data, analyst moves and insider activity.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Costco",
+      "entity1_type": "ORG",
+      "entity2": "Corporation",
+      "entity2_type": "ORG",
+      "sentence": "Costco Wholesale Corporation (NASDAQ:COST) stock is reacting to a mix of dividend news, sales data, analyst moves and insider activity.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Costco",
+      "entity1_type": "ORG",
+      "entity2": "COST",
+      "entity2_type": "ORG",
+      "sentence": "Costco Wholesale Corporation (NASDAQ:COST) stock is reacting to a mix of dividend news, sales data, analyst moves and insider activity.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wholesale",
+      "entity1_type": "ORG",
+      "entity2": "Corporation",
+      "entity2_type": "ORG",
+      "sentence": "Costco Wholesale Corporation (NASDAQ:COST) stock is reacting to a mix of dividend news, sales data, analyst moves and insider activity.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wholesale",
+      "entity1_type": "ORG",
+      "entity2": "COST",
+      "entity2_type": "ORG",
+      "sentence": "Costco Wholesale Corporation (NASDAQ:COST) stock is reacting to a mix of dividend news, sales data, analyst moves and insider activity.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Corporation",
+      "entity1_type": "ORG",
+      "entity2": "COST",
+      "entity2_type": "ORG",
+      "sentence": "Costco Wholesale Corporation (NASDAQ:COST) stock is reacting to a mix of dividend news, sales data, analyst moves and insider activity.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Costco",
+      "entity1_type": "ORG",
+      "entity2": "quarterly",
+      "entity2_type": "DATE",
+      "sentence": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Costco",
+      "entity1_type": "ORG",
+      "entity2": "1.30",
+      "entity2_type": "MONEY",
+      "sentence": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Costco",
+      "entity1_type": "ORG",
+      "entity2": "0.55",
+      "entity2_type": "PERCENT",
+      "sentence": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Costco",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Costco",
+      "entity1_type": "ORG",
+      "entity2": "August",
+      "entity2_type": "DATE",
+      "sentence": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Costco",
+      "entity1_type": "ORG",
+      "entity2": "15",
+      "entity2_type": "DATE",
+      "sentence": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Costco",
+      "entity1_type": "ORG",
+      "entity2": "August",
+      "entity2_type": "DATE",
+      "sentence": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Costco",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "quarterly",
+      "entity1_type": "DATE",
+      "entity2": "1.30",
+      "entity2_type": "MONEY",
+      "sentence": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "quarterly",
+      "entity1_type": "DATE",
+      "entity2": "0.55",
+      "entity2_type": "PERCENT",
+      "sentence": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "quarterly",
+      "entity1_type": "DATE",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "quarterly",
+      "entity1_type": "DATE",
+      "entity2": "August",
+      "entity2_type": "DATE",
+      "sentence": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "quarterly",
+      "entity1_type": "DATE",
+      "entity2": "15",
+      "entity2_type": "DATE",
+      "sentence": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "quarterly",
+      "entity1_type": "DATE",
+      "entity2": "August",
+      "entity2_type": "DATE",
+      "sentence": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "quarterly",
+      "entity1_type": "DATE",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.30",
+      "entity1_type": "MONEY",
+      "entity2": "0.55",
+      "entity2_type": "PERCENT",
+      "sentence": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.30",
+      "entity1_type": "MONEY",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.30",
+      "entity1_type": "MONEY",
+      "entity2": "August",
+      "entity2_type": "DATE",
+      "sentence": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.30",
+      "entity1_type": "MONEY",
+      "entity2": "15",
+      "entity2_type": "DATE",
+      "sentence": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.30",
+      "entity1_type": "MONEY",
+      "entity2": "August",
+      "entity2_type": "DATE",
+      "sentence": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.30",
+      "entity1_type": "MONEY",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "0.55",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "0.55",
+      "entity1_type": "PERCENT",
+      "entity2": "August",
+      "entity2_type": "DATE",
+      "sentence": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "0.55",
+      "entity1_type": "PERCENT",
+      "entity2": "15",
+      "entity2_type": "DATE",
+      "sentence": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "0.55",
+      "entity1_type": "PERCENT",
+      "entity2": "August",
+      "entity2_type": "DATE",
+      "sentence": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "0.55",
+      "entity1_type": "PERCENT",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "August",
+      "entity2_type": "DATE",
+      "sentence": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "15",
+      "entity2_type": "DATE",
+      "sentence": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "August",
+      "entity2_type": "DATE",
+      "sentence": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "August",
+      "entity1_type": "DATE",
+      "entity2": "15",
+      "entity2_type": "DATE",
+      "sentence": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "August",
+      "entity1_type": "DATE",
+      "entity2": "August",
+      "entity2_type": "DATE",
+      "sentence": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "August",
+      "entity1_type": "DATE",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "15",
+      "entity1_type": "DATE",
+      "entity2": "August",
+      "entity2_type": "DATE",
+      "sentence": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "15",
+      "entity1_type": "DATE",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "August",
+      "entity1_type": "DATE",
+      "entity2": "1",
+      "entity2_type": "DATE",
+      "sentence": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "June",
+      "entity1_type": "DATE",
+      "entity2": "8",
+      "entity2_type": "PERCENT",
+      "sentence": "June sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "June",
+      "entity1_type": "DATE",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "June sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "June",
+      "entity1_type": "DATE",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "June sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "June",
+      "entity1_type": "DATE",
+      "entity2": "26.44",
+      "entity2_type": "MONEY",
+      "sentence": "June sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "June",
+      "entity1_type": "DATE",
+      "entity2": "billion",
+      "entity2_type": "MONEY",
+      "sentence": "June sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "June",
+      "entity1_type": "DATE",
+      "entity2": "11.5",
+      "entity2_type": "PERCENT",
+      "sentence": "June sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "June",
+      "entity1_type": "DATE",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "June sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "June",
+      "entity1_type": "DATE",
+      "entity2": "Costco",
+      "entity2_type": "ORG",
+      "sentence": "June sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "8",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "June sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "8",
+      "entity1_type": "PERCENT",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "June sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "8",
+      "entity1_type": "PERCENT",
+      "entity2": "26.44",
+      "entity2_type": "MONEY",
+      "sentence": "June sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "8",
+      "entity1_type": "PERCENT",
+      "entity2": "billion",
+      "entity2_type": "MONEY",
+      "sentence": "June sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "8",
+      "entity1_type": "PERCENT",
+      "entity2": "11.5",
+      "entity2_type": "PERCENT",
+      "sentence": "June sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "8",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "June sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "8",
+      "entity1_type": "PERCENT",
+      "entity2": "Costco",
+      "entity2_type": "ORG",
+      "sentence": "June sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "June sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "26.44",
+      "entity2_type": "MONEY",
+      "sentence": "June sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "billion",
+      "entity2_type": "MONEY",
+      "sentence": "June sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "11.5",
+      "entity2_type": "PERCENT",
+      "sentence": "June sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "June sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "Costco",
+      "entity2_type": "ORG",
+      "sentence": "June sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "26.44",
+      "entity2_type": "MONEY",
+      "sentence": "June sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "billion",
+      "entity2_type": "MONEY",
+      "sentence": "June sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "11.5",
+      "entity2_type": "PERCENT",
+      "sentence": "June sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "June sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "Costco",
+      "entity2_type": "ORG",
+      "sentence": "June sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "26.44",
+      "entity1_type": "MONEY",
+      "entity2": "billion",
+      "entity2_type": "MONEY",
+      "sentence": "June sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "26.44",
+      "entity1_type": "MONEY",
+      "entity2": "11.5",
+      "entity2_type": "PERCENT",
+      "sentence": "June sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "26.44",
+      "entity1_type": "MONEY",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "June sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "26.44",
+      "entity1_type": "MONEY",
+      "entity2": "Costco",
+      "entity2_type": "ORG",
+      "sentence": "June sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "billion",
+      "entity1_type": "MONEY",
+      "entity2": "11.5",
+      "entity2_type": "PERCENT",
+      "sentence": "June sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "billion",
+      "entity1_type": "MONEY",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "June sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "billion",
+      "entity1_type": "MONEY",
+      "entity2": "Costco",
+      "entity2_type": "ORG",
+      "sentence": "June sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "11.5",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "June sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "11.5",
+      "entity1_type": "PERCENT",
+      "entity2": "Costco",
+      "entity2_type": "ORG",
+      "sentence": "June sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "Costco",
+      "entity2_type": "ORG",
+      "sentence": "June sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Loop",
+      "entity1_type": "ORG",
+      "entity2": "Capital",
+      "entity2_type": "ORG",
+      "sentence": "Loop Capital lifted its price target on COST, citing strong global sales.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Loop",
+      "entity1_type": "ORG",
+      "entity2": "COST",
+      "entity2_type": "ORG",
+      "sentence": "Loop Capital lifted its price target on COST, citing strong global sales.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Capital",
+      "entity1_type": "ORG",
+      "entity2": "COST",
+      "entity2_type": "ORG",
+      "sentence": "Loop Capital lifted its price target on COST, citing strong global sales.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Costco",
+      "entity1_type": "ORG",
+      "entity2": "four",
+      "entity2_type": "CARDINAL",
+      "sentence": "Costco will open four new U.S. warehouses in August, driving further expansion.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Costco",
+      "entity1_type": "ORG",
+      "entity2": "U.S.",
+      "entity2_type": "GPE",
+      "sentence": "Costco will open four new U.S. warehouses in August, driving further expansion.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Costco",
+      "entity1_type": "ORG",
+      "entity2": "August",
+      "entity2_type": "DATE",
+      "sentence": "Costco will open four new U.S. warehouses in August, driving further expansion.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "four",
+      "entity1_type": "CARDINAL",
+      "entity2": "U.S.",
+      "entity2_type": "GPE",
+      "sentence": "Costco will open four new U.S. warehouses in August, driving further expansion.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "four",
+      "entity1_type": "CARDINAL",
+      "entity2": "August",
+      "entity2_type": "DATE",
+      "sentence": "Costco will open four new U.S. warehouses in August, driving further expansion.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "U.S.",
+      "entity1_type": "GPE",
+      "entity2": "August",
+      "entity2_type": "DATE",
+      "sentence": "Costco will open four new U.S. warehouses in August, driving further expansion.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jim",
+      "entity1_type": "PERSON",
+      "entity2": "Cramer",
+      "entity2_type": "PERSON",
+      "sentence": "Jim Cramer reaffirmed Costco’s quality, calling it “an amazing company.”\nJim Cramer Praise\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jim",
+      "entity1_type": "PERSON",
+      "entity2": "Costco",
+      "entity2_type": "ORG",
+      "sentence": "Jim Cramer reaffirmed Costco’s quality, calling it “an amazing company.”\nJim Cramer Praise\nPositive Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jim",
+      "entity1_type": "PERSON",
+      "entity2": "Jim",
+      "entity2_type": "PERSON",
+      "sentence": "Jim Cramer reaffirmed Costco’s quality, calling it “an amazing company.”\nJim Cramer Praise\nPositive Sentiment:",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jim",
+      "entity1_type": "PERSON",
+      "entity2": "Cramer",
+      "entity2_type": "PERSON",
+      "sentence": "Jim Cramer reaffirmed Costco’s quality, calling it “an amazing company.”\nJim Cramer Praise\nPositive Sentiment:",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cramer",
+      "entity1_type": "PERSON",
+      "entity2": "Costco",
+      "entity2_type": "ORG",
+      "sentence": "Jim Cramer reaffirmed Costco’s quality, calling it “an amazing company.”\nJim Cramer Praise\nPositive Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cramer",
+      "entity1_type": "PERSON",
+      "entity2": "Jim",
+      "entity2_type": "PERSON",
+      "sentence": "Jim Cramer reaffirmed Costco’s quality, calling it “an amazing company.”\nJim Cramer Praise\nPositive Sentiment:",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cramer",
+      "entity1_type": "PERSON",
+      "entity2": "Cramer",
+      "entity2_type": "PERSON",
+      "sentence": "Jim Cramer reaffirmed Costco’s quality, calling it “an amazing company.”\nJim Cramer Praise\nPositive Sentiment:",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Costco",
+      "entity1_type": "ORG",
+      "entity2": "Jim",
+      "entity2_type": "PERSON",
+      "sentence": "Jim Cramer reaffirmed Costco’s quality, calling it “an amazing company.”\nJim Cramer Praise\nPositive Sentiment:",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Costco",
+      "entity1_type": "ORG",
+      "entity2": "Cramer",
+      "entity2_type": "PERSON",
+      "sentence": "Jim Cramer reaffirmed Costco’s quality, calling it “an amazing company.”\nJim Cramer Praise\nPositive Sentiment:",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jim",
+      "entity1_type": "PERSON",
+      "entity2": "Cramer",
+      "entity2_type": "PERSON",
+      "sentence": "Jim Cramer reaffirmed Costco’s quality, calling it “an amazing company.”\nJim Cramer Praise\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3",
+      "entity1_type": "CARDINAL",
+      "entity2": "This",
+      "entity2_type": "DATE",
+      "sentence": "Highlighted as a defensive pick in “3 Stocks to Cushion Your Portfolio This Earnings Season.”",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3",
+      "entity1_type": "CARDINAL",
+      "entity2": "Earnings",
+      "entity2_type": "DATE",
+      "sentence": "Highlighted as a defensive pick in “3 Stocks to Cushion Your Portfolio This Earnings Season.”",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3",
+      "entity1_type": "CARDINAL",
+      "entity2": "Season",
+      "entity2_type": "DATE",
+      "sentence": "Highlighted as a defensive pick in “3 Stocks to Cushion Your Portfolio This Earnings Season.”",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "This",
+      "entity1_type": "DATE",
+      "entity2": "Earnings",
+      "entity2_type": "DATE",
+      "sentence": "Highlighted as a defensive pick in “3 Stocks to Cushion Your Portfolio This Earnings Season.”",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "This",
+      "entity1_type": "DATE",
+      "entity2": "Season",
+      "entity2_type": "DATE",
+      "sentence": "Highlighted as a defensive pick in “3 Stocks to Cushion Your Portfolio This Earnings Season.”",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Earnings",
+      "entity1_type": "DATE",
+      "entity2": "Season",
+      "entity2_type": "DATE",
+      "sentence": "Highlighted as a defensive pick in “3 Stocks to Cushion Your Portfolio This Earnings Season.”",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "an",
+      "entity1_type": "FAC",
+      "entity2": "Auto",
+      "entity2_type": "FAC",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "an",
+      "entity1_type": "FAC",
+      "entity2": "Spa",
+      "entity2_type": "FAC",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "an",
+      "entity1_type": "FAC",
+      "entity2": "Express",
+      "entity2_type": "FAC",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "an",
+      "entity1_type": "FAC",
+      "entity2": "Bel",
+      "entity2_type": "ORG",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "an",
+      "entity1_type": "FAC",
+      "entity2": "Air",
+      "entity2_type": "ORG",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "an",
+      "entity1_type": "FAC",
+      "entity2": "Costco",
+      "entity2_type": "ORG",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "an",
+      "entity1_type": "FAC",
+      "entity2": "Yoram",
+      "entity2_type": "PERSON",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "an",
+      "entity1_type": "FAC",
+      "entity2": "Rubanenko",
+      "entity2_type": "PERSON",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "an",
+      "entity1_type": "FAC",
+      "entity2": "4,000",
+      "entity2_type": "CARDINAL",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "an",
+      "entity1_type": "FAC",
+      "entity2": "974.96",
+      "entity2_type": "MONEY",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 36
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "an",
+      "entity1_type": "FAC",
+      "entity2": "about",
+      "entity2_type": "PERCENT",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 42
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "an",
+      "entity1_type": "FAC",
+      "entity2": "41",
+      "entity2_type": "PERCENT",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 43
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "an",
+      "entity1_type": "FAC",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 44
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Auto",
+      "entity1_type": "FAC",
+      "entity2": "Spa",
+      "entity2_type": "FAC",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Auto",
+      "entity1_type": "FAC",
+      "entity2": "Express",
+      "entity2_type": "FAC",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Auto",
+      "entity1_type": "FAC",
+      "entity2": "Bel",
+      "entity2_type": "ORG",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Auto",
+      "entity1_type": "FAC",
+      "entity2": "Air",
+      "entity2_type": "ORG",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Auto",
+      "entity1_type": "FAC",
+      "entity2": "Costco",
+      "entity2_type": "ORG",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Auto",
+      "entity1_type": "FAC",
+      "entity2": "Yoram",
+      "entity2_type": "PERSON",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Auto",
+      "entity1_type": "FAC",
+      "entity2": "Rubanenko",
+      "entity2_type": "PERSON",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Auto",
+      "entity1_type": "FAC",
+      "entity2": "4,000",
+      "entity2_type": "CARDINAL",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Auto",
+      "entity1_type": "FAC",
+      "entity2": "974.96",
+      "entity2_type": "MONEY",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 35
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Auto",
+      "entity1_type": "FAC",
+      "entity2": "about",
+      "entity2_type": "PERCENT",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 41
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Auto",
+      "entity1_type": "FAC",
+      "entity2": "41",
+      "entity2_type": "PERCENT",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 42
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Auto",
+      "entity1_type": "FAC",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 43
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Spa",
+      "entity1_type": "FAC",
+      "entity2": "Express",
+      "entity2_type": "FAC",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Spa",
+      "entity1_type": "FAC",
+      "entity2": "Bel",
+      "entity2_type": "ORG",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Spa",
+      "entity1_type": "FAC",
+      "entity2": "Air",
+      "entity2_type": "ORG",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Spa",
+      "entity1_type": "FAC",
+      "entity2": "Costco",
+      "entity2_type": "ORG",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Spa",
+      "entity1_type": "FAC",
+      "entity2": "Yoram",
+      "entity2_type": "PERSON",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Spa",
+      "entity1_type": "FAC",
+      "entity2": "Rubanenko",
+      "entity2_type": "PERSON",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Spa",
+      "entity1_type": "FAC",
+      "entity2": "4,000",
+      "entity2_type": "CARDINAL",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Spa",
+      "entity1_type": "FAC",
+      "entity2": "974.96",
+      "entity2_type": "MONEY",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 34
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Spa",
+      "entity1_type": "FAC",
+      "entity2": "about",
+      "entity2_type": "PERCENT",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 40
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Spa",
+      "entity1_type": "FAC",
+      "entity2": "41",
+      "entity2_type": "PERCENT",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 41
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Spa",
+      "entity1_type": "FAC",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 42
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Express",
+      "entity1_type": "FAC",
+      "entity2": "Bel",
+      "entity2_type": "ORG",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Express",
+      "entity1_type": "FAC",
+      "entity2": "Air",
+      "entity2_type": "ORG",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Express",
+      "entity1_type": "FAC",
+      "entity2": "Costco",
+      "entity2_type": "ORG",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Express",
+      "entity1_type": "FAC",
+      "entity2": "Yoram",
+      "entity2_type": "PERSON",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Express",
+      "entity1_type": "FAC",
+      "entity2": "Rubanenko",
+      "entity2_type": "PERSON",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Express",
+      "entity1_type": "FAC",
+      "entity2": "4,000",
+      "entity2_type": "CARDINAL",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Express",
+      "entity1_type": "FAC",
+      "entity2": "974.96",
+      "entity2_type": "MONEY",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 33
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Express",
+      "entity1_type": "FAC",
+      "entity2": "about",
+      "entity2_type": "PERCENT",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 39
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Express",
+      "entity1_type": "FAC",
+      "entity2": "41",
+      "entity2_type": "PERCENT",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 40
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Express",
+      "entity1_type": "FAC",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 41
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bel",
+      "entity1_type": "ORG",
+      "entity2": "Air",
+      "entity2_type": "ORG",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bel",
+      "entity1_type": "ORG",
+      "entity2": "Costco",
+      "entity2_type": "ORG",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bel",
+      "entity1_type": "ORG",
+      "entity2": "Yoram",
+      "entity2_type": "PERSON",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bel",
+      "entity1_type": "ORG",
+      "entity2": "Rubanenko",
+      "entity2_type": "PERSON",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bel",
+      "entity1_type": "ORG",
+      "entity2": "4,000",
+      "entity2_type": "CARDINAL",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bel",
+      "entity1_type": "ORG",
+      "entity2": "974.96",
+      "entity2_type": "MONEY",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bel",
+      "entity1_type": "ORG",
+      "entity2": "about",
+      "entity2_type": "PERCENT",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 35
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bel",
+      "entity1_type": "ORG",
+      "entity2": "41",
+      "entity2_type": "PERCENT",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 36
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bel",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 37
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Air",
+      "entity1_type": "ORG",
+      "entity2": "Costco",
+      "entity2_type": "ORG",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Air",
+      "entity1_type": "ORG",
+      "entity2": "Yoram",
+      "entity2_type": "PERSON",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Air",
+      "entity1_type": "ORG",
+      "entity2": "Rubanenko",
+      "entity2_type": "PERSON",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Air",
+      "entity1_type": "ORG",
+      "entity2": "4,000",
+      "entity2_type": "CARDINAL",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Air",
+      "entity1_type": "ORG",
+      "entity2": "974.96",
+      "entity2_type": "MONEY",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Air",
+      "entity1_type": "ORG",
+      "entity2": "about",
+      "entity2_type": "PERCENT",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 34
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Air",
+      "entity1_type": "ORG",
+      "entity2": "41",
+      "entity2_type": "PERCENT",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 35
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Air",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 36
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Costco",
+      "entity1_type": "ORG",
+      "entity2": "Yoram",
+      "entity2_type": "PERSON",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Costco",
+      "entity1_type": "ORG",
+      "entity2": "Rubanenko",
+      "entity2_type": "PERSON",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Costco",
+      "entity1_type": "ORG",
+      "entity2": "4,000",
+      "entity2_type": "CARDINAL",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Costco",
+      "entity1_type": "ORG",
+      "entity2": "974.96",
+      "entity2_type": "MONEY",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Costco",
+      "entity1_type": "ORG",
+      "entity2": "about",
+      "entity2_type": "PERCENT",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 33
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Costco",
+      "entity1_type": "ORG",
+      "entity2": "41",
+      "entity2_type": "PERCENT",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 34
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Costco",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 35
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yoram",
+      "entity1_type": "PERSON",
+      "entity2": "Rubanenko",
+      "entity2_type": "PERSON",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yoram",
+      "entity1_type": "PERSON",
+      "entity2": "4,000",
+      "entity2_type": "CARDINAL",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yoram",
+      "entity1_type": "PERSON",
+      "entity2": "974.96",
+      "entity2_type": "MONEY",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yoram",
+      "entity1_type": "PERSON",
+      "entity2": "about",
+      "entity2_type": "PERCENT",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yoram",
+      "entity1_type": "PERSON",
+      "entity2": "41",
+      "entity2_type": "PERCENT",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yoram",
+      "entity1_type": "PERSON",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Rubanenko",
+      "entity1_type": "PERSON",
+      "entity2": "4,000",
+      "entity2_type": "CARDINAL",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Rubanenko",
+      "entity1_type": "PERSON",
+      "entity2": "974.96",
+      "entity2_type": "MONEY",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Rubanenko",
+      "entity1_type": "PERSON",
+      "entity2": "about",
+      "entity2_type": "PERCENT",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Rubanenko",
+      "entity1_type": "PERSON",
+      "entity2": "41",
+      "entity2_type": "PERCENT",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Rubanenko",
+      "entity1_type": "PERSON",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "4,000",
+      "entity1_type": "CARDINAL",
+      "entity2": "974.96",
+      "entity2_type": "MONEY",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "4,000",
+      "entity1_type": "CARDINAL",
+      "entity2": "about",
+      "entity2_type": "PERCENT",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "4,000",
+      "entity1_type": "CARDINAL",
+      "entity2": "41",
+      "entity2_type": "PERCENT",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "4,000",
+      "entity1_type": "CARDINAL",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "974.96",
+      "entity1_type": "MONEY",
+      "entity2": "about",
+      "entity2_type": "PERCENT",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "974.96",
+      "entity1_type": "MONEY",
+      "entity2": "41",
+      "entity2_type": "PERCENT",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "974.96",
+      "entity1_type": "MONEY",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "about",
+      "entity1_type": "PERCENT",
+      "entity2": "41",
+      "entity2_type": "PERCENT",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "about",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "41",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Roth",
+      "entity1_type": "ORG",
+      "entity2": "Capital",
+      "entity2_type": "ORG",
+      "sentence": "Roth Capital trimmed its FY2025 EPS forecast for COST from $18.82 to $18.06, slightly below consensus estimates.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Roth",
+      "entity1_type": "ORG",
+      "entity2": "FY2025",
+      "entity2_type": "DATE",
+      "sentence": "Roth Capital trimmed its FY2025 EPS forecast for COST from $18.82 to $18.06, slightly below consensus estimates.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Roth",
+      "entity1_type": "ORG",
+      "entity2": "COST",
+      "entity2_type": "ORG",
+      "sentence": "Roth Capital trimmed its FY2025 EPS forecast for COST from $18.82 to $18.06, slightly below consensus estimates.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Roth",
+      "entity1_type": "ORG",
+      "entity2": "18.82",
+      "entity2_type": "MONEY",
+      "sentence": "Roth Capital trimmed its FY2025 EPS forecast for COST from $18.82 to $18.06, slightly below consensus estimates.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Roth",
+      "entity1_type": "ORG",
+      "entity2": "18.06",
+      "entity2_type": "MONEY",
+      "sentence": "Roth Capital trimmed its FY2025 EPS forecast for COST from $18.82 to $18.06, slightly below consensus estimates.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Capital",
+      "entity1_type": "ORG",
+      "entity2": "FY2025",
+      "entity2_type": "DATE",
+      "sentence": "Roth Capital trimmed its FY2025 EPS forecast for COST from $18.82 to $18.06, slightly below consensus estimates.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Capital",
+      "entity1_type": "ORG",
+      "entity2": "COST",
+      "entity2_type": "ORG",
+      "sentence": "Roth Capital trimmed its FY2025 EPS forecast for COST from $18.82 to $18.06, slightly below consensus estimates.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Capital",
+      "entity1_type": "ORG",
+      "entity2": "18.82",
+      "entity2_type": "MONEY",
+      "sentence": "Roth Capital trimmed its FY2025 EPS forecast for COST from $18.82 to $18.06, slightly below consensus estimates.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Capital",
+      "entity1_type": "ORG",
+      "entity2": "18.06",
+      "entity2_type": "MONEY",
+      "sentence": "Roth Capital trimmed its FY2025 EPS forecast for COST from $18.82 to $18.06, slightly below consensus estimates.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FY2025",
+      "entity1_type": "DATE",
+      "entity2": "COST",
+      "entity2_type": "ORG",
+      "sentence": "Roth Capital trimmed its FY2025 EPS forecast for COST from $18.82 to $18.06, slightly below consensus estimates.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FY2025",
+      "entity1_type": "DATE",
+      "entity2": "18.82",
+      "entity2_type": "MONEY",
+      "sentence": "Roth Capital trimmed its FY2025 EPS forecast for COST from $18.82 to $18.06, slightly below consensus estimates.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FY2025",
+      "entity1_type": "DATE",
+      "entity2": "18.06",
+      "entity2_type": "MONEY",
+      "sentence": "Roth Capital trimmed its FY2025 EPS forecast for COST from $18.82 to $18.06, slightly below consensus estimates.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "COST",
+      "entity1_type": "ORG",
+      "entity2": "18.82",
+      "entity2_type": "MONEY",
+      "sentence": "Roth Capital trimmed its FY2025 EPS forecast for COST from $18.82 to $18.06, slightly below consensus estimates.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "COST",
+      "entity1_type": "ORG",
+      "entity2": "18.06",
+      "entity2_type": "MONEY",
+      "sentence": "Roth Capital trimmed its FY2025 EPS forecast for COST from $18.82 to $18.06, slightly below consensus estimates.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "18.82",
+      "entity1_type": "MONEY",
+      "entity2": "18.06",
+      "entity2_type": "MONEY",
+      "sentence": "Roth Capital trimmed its FY2025 EPS forecast for COST from $18.82 to $18.06, slightly below consensus estimates.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "4",
+      "entity1_type": "DATE",
+      "entity2": "m",
+      "entity2_type": "DATE",
+      "sentence": "Posted 4m ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "4",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Posted 4m ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "4",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Posted 4m ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "4",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Posted 4m ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "m",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Posted 4m ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "m",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Posted 4m ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "m",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Posted 4m ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ago",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Posted 4m ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ago",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Posted 4m ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AI",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Posted 4m ago\nAI Generated.",
+      "distance": 1
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "a mix",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "dividend news",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "sales data",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "analyst moves",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "insider activity",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Key developments",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a quarterly dividend",
+      "type": "noun_chunk",
+      "category": "temporal"
+    },
+    {
+      "text": "0.55% yield",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Dividend Announcement",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "June sales",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "11.5% e-commerce growth",
+      "type": "noun_chunk",
+      "category": "trend"
+    },
+    {
+      "text": "Costco’s role",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a defensive retail play",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Strong June Sales",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Loop Capital",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its price target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "strong global sales",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Price Target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "four new U.S. warehouses",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "further expansion",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Jim Cramer",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Costco’s quality",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "“an amazing company",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a defensive pick",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "3 Stocks",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Your Portfolio",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Defensive Stock",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "MarketBeat screener lists",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "travel, grocery, toy and apparel stocks",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "broad sector coverage",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "A proposal",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "an Auto Spa Express",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the Bel Air Costco",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "local real-estate activity",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Local Development\nNegative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "EVP Yoram Rubanenko",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "4,000 shares",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "his stake",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "about 41%",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Insider Selling",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Roth Capital",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its FY2025 EPS forecast",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "consensus estimates",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "$1.30",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$26.44 billion",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$974.96",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$18.82",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$18.06",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "0.55%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "8%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "11.5%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "41%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "FY2025",
+      "type": "pattern",
+      "category": "fiscal_year"
+    },
+    {
+      "text": "growth",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "share",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Stock",
+      "type": "pattern",
+      "category": "market_term"
+    }
+  ],
+  "important_sentences": [
+    {
+      "text": "Key developments investors should note include:\nPositive Sentiment:\nCostco declared a quarterly dividend of $1.30 per share (0.55% yield), payable August 15 to shareholders of record August 1.\nDividend Announcement\nPositive Sentiment:",
+      "importance_score": 42,
+      "entity_count": 9,
+      "financial_keyword_count": 5,
+      "money_count": 1,
+      "company_count": 1,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Neutral Sentiment:\nA proposal was filed for an Auto Spa Express next to the Bel Air Costco, indicating local real-estate activity.\nLocal Development\nNegative Sentiment:\nEVP Yoram Rubanenko sold 4,000 shares at an average $974.96, cutting his stake by about 41%.\nInsider Selling\nNegative Sentiment:",
+      "importance_score": 37,
+      "entity_count": 14,
+      "financial_keyword_count": 0,
+      "money_count": 1,
+      "company_count": 1,
+      "sentiment": "negative"
+    },
+    {
+      "text": "June sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.",
+      "importance_score": 33,
+      "entity_count": 9,
+      "financial_keyword_count": 2,
+      "money_count": 1,
+      "company_count": 1,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Roth Capital trimmed its FY2025 EPS forecast for COST from $18.82 to $18.06, slightly below consensus estimates.",
+      "importance_score": 33,
+      "entity_count": 6,
+      "financial_keyword_count": 1,
+      "money_count": 2,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Costco Wholesale Corporation (NASDAQ:COST) stock is reacting to a mix of dividend news, sales data, analyst moves and insider activity.",
+      "importance_score": 31,
+      "entity_count": 4,
+      "financial_keyword_count": 5,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Loop Capital lifted its price target on COST, citing strong global sales.",
+      "importance_score": 23,
+      "entity_count": 3,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Posted 4m ago\nAI Generated.",
+      "importance_score": 17,
+      "entity_count": 5,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Costco will open four new U.S. warehouses in August, driving further expansion.",
+      "importance_score": 15,
+      "entity_count": 4,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Jim Cramer reaffirmed Costco’s quality, calling it “an amazing company.”\nJim Cramer Praise\nPositive Sentiment:",
+      "importance_score": 14,
+      "entity_count": 5,
+      "financial_keyword_count": 0,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Highlighted as a defensive pick in “3 Stocks to Cushion Your Portfolio This Earnings Season.”",
+      "importance_score": 14,
+      "entity_count": 4,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 0,
+      "sentiment": "neutral"
+    }
+  ],
+  "entity_statistics": {
+    "total_entities": 39,
+    "unique_entities": 32,
+    "type_counts": {
+      "ORG": 13,
+      "DATE": 9,
+      "MONEY": 5,
+      "PERCENT": 4,
+      "CARDINAL": 3,
+      "GPE": 1,
+      "PERSON": 3,
+      "FAC": 1
+    },
+    "type_distribution": {
+      "ORG": 0.3333333333333333,
+      "DATE": 0.23076923076923078,
+      "MONEY": 0.1282051282051282,
+      "PERCENT": 0.10256410256410256,
+      "CARDINAL": 0.07692307692307693,
+      "GPE": 0.02564102564102564,
+      "PERSON": 0.07692307692307693,
+      "FAC": 0.02564102564102564
+    },
+    "most_common_entities": [
+      [
+        "Costco",
+        4
+      ],
+      [
+        "COST",
+        3
+      ],
+      [
+        "June",
+        2
+      ],
+      [
+        "Jim Cramer",
+        2
+      ],
+      [
+        "Costco Wholesale Corporation",
+        1
+      ],
+      [
+        "quarterly",
+        1
+      ],
+      [
+        "1.30",
+        1
+      ],
+      [
+        "0.55%",
+        1
+      ],
+      [
+        "August 15",
+        1
+      ],
+      [
+        "August 1",
+        1
+      ]
+    ],
+    "entity_types_found": [
+      "ORG",
+      "DATE",
+      "MONEY",
+      "PERCENT",
+      "CARDINAL",
+      "GPE",
+      "PERSON",
+      "FAC"
+    ],
+    "company_entities": 13,
+    "person_entities": 3,
+    "financial_entities": 9,
+    "entity_density": 0.17727272727272728
+  },
+  "financial_analysis": {
+    "money_amounts": [
+      "1.30",
+      "$26.44 billion",
+      "974.96",
+      "18.82",
+      "18.06"
+    ],
+    "percentages": [
+      "0.55%",
+      "8%",
+      "11.5%",
+      "about 41%"
+    ],
+    "companies": [
+      "Costco Wholesale Corporation",
+      "COST",
+      "Costco",
+      "Costco",
+      "Loop Capital",
+      "COST",
+      "Costco",
+      "Costco",
+      "MarketBeat",
+      "Bel Air Costco",
+      "Roth Capital",
+      "COST",
+      "AI Generated"
+    ],
+    "people": [
+      "Jim Cramer",
+      "Jim Cramer",
+      "Yoram Rubanenko"
+    ],
+    "dates": [
+      "quarterly",
+      "August 15",
+      "August 1",
+      "June",
+      "June",
+      "August",
+      "This Earnings Season",
+      "FY2025",
+      "4m ago"
+    ],
+    "financial_terms": [
+      "Stock",
+      "Earnings",
+      "stock",
+      "growth",
+      "share"
+    ],
+    "financial_metrics": [],
+    "market_indicators": [
+      "Price",
+      "price",
+      "target",
+      "Target"
+    ]
+  },
+  "temporal_analysis": {
+    "dates": [
+      "quarterly",
+      "August 15",
+      "August 1",
+      "June",
+      "June",
+      "August",
+      "This Earnings Season",
+      "FY2025",
+      "4m ago"
+    ],
+    "time_expressions": [],
+    "temporal_relationships": [
+      "quarterly",
+      "next"
+    ],
+    "quarters": [],
+    "years": [],
+    "time_periods": []
+  },
+  "sentiment_analysis": {
+    "positive_words": 9,
+    "negative_words": 2,
+    "positive_ratio": 0.04090909090909091,
+    "negative_ratio": 0.00909090909090909,
+    "sentiment_score": 0.031818181818181815,
+    "sentiment_label": "positive",
+    "sentiment_strength": 0.031818181818181815,
+    "confidence": 0.3181818181818181
+  },
+  "industry_analysis": {
+    "dominant_industry": "retail",
+    "industry_scores": {
+      "tech": 1,
+      "finance": 0,
+      "healthcare": 0,
+      "energy": 0,
+      "retail": 2,
+      "automotive": 0,
+      "media": 1,
+      "industrial": 0,
+      "real_estate": 1,
+      "telecom": 0,
+      "food_beverage": 0,
+      "travel": 1,
+      "education": 0,
+      "professional": 0,
+      "mining": 0,
+      "aerospace": 0,
+      "environmental": 0,
+      "cannabis": 0
+    },
+    "confidence": 0.3333333333333333
+  },
+  "market_analysis": {
+    "market_sentiment": "neutral",
+    "bullish_indicators": 0,
+    "bearish_indicators": 0,
+    "market_conditions": {
+      "volatility": "normal",
+      "volume": "normal",
+      "trend": "neutral"
+    },
+    "trading_activity": "normal"
+  },
+  "competitor_analysis": {
+    "companies_mentioned": [
+      "Costco Wholesale Corporation",
+      "COST",
+      "Costco",
+      "Costco",
+      "Loop Capital",
+      "COST",
+      "Costco",
+      "Costco",
+      "MarketBeat",
+      "Bel Air Costco",
+      "Roth Capital",
+      "COST",
+      "AI Generated"
+    ],
+    "competitive_context": [],
+    "competitor_count": 13,
+    "has_competitive_language": false
+  },
+  "risk_analysis": {
+    "risk_sentences": [],
+    "risk_count": 0,
+    "risk_level": "low"
+  },
+  "opportunity_analysis": {
+    "opportunity_sentences": [
+      "June sales rose 8% to $26.44 billion, driven by 11.5% e-commerce growth, reinforcing Costco’s role as a defensive retail play.",
+      "Costco will open four new U.S. warehouses in August, driving further expansion."
+    ],
+    "opportunity_count": 2,
+    "opportunity_level": "medium"
+  },
+  "processing_metadata": {
+    "timestamp": "2025-07-17T01:29:08.691027",
+    "model_used": "en_core_web_trf",
+    "text_length": 1592
+  }
+}
