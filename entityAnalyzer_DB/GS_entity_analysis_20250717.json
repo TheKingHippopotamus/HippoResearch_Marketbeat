@@ -1,0 +1,2497 @@
+{
+  "ticker": "GS",
+  "entities": [
+    {
+      "text": "Goldman Sachs Group, Inc.",
+      "label": "ORG",
+      "start": 4,
+      "end": 29,
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "context": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm repo",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "GS",
+      "label": "ORG",
+      "start": 36,
+      "end": 38,
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "context": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robu",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "today",
+      "label": "DATE",
+      "start": 54,
+      "end": 59,
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "context": "Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter res",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "second-quarter",
+      "label": "DATE",
+      "start": 91,
+      "end": 105,
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "context": "hares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlig",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q2",
+      "label": "DATE",
+      "start": 246,
+      "end": 248,
+      "sentence": "Positive Sentiment:\nQ2 revenue of $14.58 billion and EPS of $10.91 came in well above consensus, driven by record equities trading and strong investment banking performance.",
+      "context": "ckup in IPO and M&A activity.\nPositive Sentiment:\nQ2 revenue of $14.58 billion and EPS of $10.91 came",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "$14.58 billion",
+      "label": "MONEY",
+      "start": 260,
+      "end": 274,
+      "sentence": "Positive Sentiment:\nQ2 revenue of $14.58 billion and EPS of $10.91 came in well above consensus, driven by record equities trading and strong investment banking performance.",
+      "context": "d M&A activity.\nPositive Sentiment:\nQ2 revenue of $14.58 billion and EPS of $10.91 came in well above consensus, d",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "10.91",
+      "label": "MONEY",
+      "start": 287,
+      "end": 292,
+      "sentence": "Positive Sentiment:\nQ2 revenue of $14.58 billion and EPS of $10.91 came in well above consensus, driven by record equities trading and strong investment banking performance.",
+      "context": "ntiment:\nQ2 revenue of $14.58 billion and EPS of $10.91 came in well above consensus, driven by record eq",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Goldman Sachs",
+      "label": "ORG",
+      "start": 400,
+      "end": 413,
+      "sentence": "Goldman Sachs Q2 Profit Jumps",
+      "context": "rading and strong investment banking performance.\nGoldman Sachs Q2 Profit Jumps\nPositive Sentiment:\nNet interest",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q2",
+      "label": "DATE",
+      "start": 414,
+      "end": 416,
+      "sentence": "Goldman Sachs Q2 Profit Jumps",
+      "context": "ong investment banking performance.\nGoldman Sachs Q2 Profit Jumps\nPositive Sentiment:\nNet interest inc",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "56%",
+      "label": "PERCENT",
+      "start": 477,
+      "end": 480,
+      "sentence": "Net interest income surged 56% and assets under supervision hit a new high, reflecting strong inflows and client activity.",
+      "context": "ps\nPositive Sentiment:\nNet interest income surged 56% and assets under supervision hit a new high, refl",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "GS Q2",
+      "label": "ORG",
+      "start": 573,
+      "end": 578,
+      "sentence": "GS Q2 Assets Under Supervision Hit Record, Net Interest Income Surges 56%\nPositive Sentiment:\nThe board approved a 33.3% dividend increase, underscoring confidence in the firm’s capital position following the earnings beat.",
+      "context": "h, reflecting strong inflows and client activity.\nGS Q2 Assets Under Supervision Hit Record, Net Interest",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "56%",
+      "label": "PERCENT",
+      "start": 643,
+      "end": 646,
+      "sentence": "GS Q2 Assets Under Supervision Hit Record, Net Interest Income Surges 56%\nPositive Sentiment:\nThe board approved a 33.3% dividend increase, underscoring confidence in the firm’s capital position following the earnings beat.",
+      "context": "upervision Hit Record, Net Interest Income Surges 56%\nPositive Sentiment:\nThe board approved a 33.3% di",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "33.3%",
+      "label": "PERCENT",
+      "start": 688,
+      "end": 693,
+      "sentence": "GS Q2 Assets Under Supervision Hit Record, Net Interest Income Surges 56%\nPositive Sentiment:\nThe board approved a 33.3% dividend increase, underscoring confidence in the firm’s capital position following the earnings beat.",
+      "context": "rges 56%\nPositive Sentiment:\nThe board approved a 33.3% dividend increase, underscoring confidence in the",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Goldman",
+      "label": "ORG",
+      "start": 797,
+      "end": 804,
+      "sentence": "Goldman Gains as Q2 Earnings Beat Estimates, Boosts Dividend 33.3%\nPositive Sentiment:",
+      "context": "m’s capital position following the earnings beat.\nGoldman Gains as Q2 Earnings Beat Estimates, Boosts Divid",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q2",
+      "label": "DATE",
+      "start": 814,
+      "end": 816,
+      "sentence": "Goldman Gains as Q2 Earnings Beat Estimates, Boosts Dividend 33.3%\nPositive Sentiment:",
+      "context": "ion following the earnings beat.\nGoldman Gains as Q2 Earnings Beat Estimates, Boosts Dividend 33.3%\nPo",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "33.3%",
+      "label": "PERCENT",
+      "start": 858,
+      "end": 863,
+      "sentence": "Goldman Gains as Q2 Earnings Beat Estimates, Boosts Dividend 33.3%\nPositive Sentiment:",
+      "context": "ns as Q2 Earnings Beat Estimates, Boosts Dividend 33.3%\nPositive Sentiment:\nCEO David Solomon noted impro",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "David Solomon",
+      "label": "PERSON",
+      "start": 888,
+      "end": 901,
+      "sentence": "CEO David Solomon noted improved client confidence in Q2, expects increased IPO activity in Q3/Q4 after successful second-quarter listings, and foresees robust M&A pipeline.",
+      "context": "es, Boosts Dividend 33.3%\nPositive Sentiment:\nCEO David Solomon noted improved client confidence in Q2, expects i",
+      "is_company": false,
+      "is_person": true,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q2",
+      "label": "DATE",
+      "start": 938,
+      "end": 940,
+      "sentence": "CEO David Solomon noted improved client confidence in Q2, expects increased IPO activity in Q3/Q4 after successful second-quarter listings, and foresees robust M&A pipeline.",
+      "context": "David Solomon noted improved client confidence in Q2, expects increased IPO activity in Q3/Q4 after su",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q3/Q4",
+      "label": "DATE",
+      "start": 976,
+      "end": 981,
+      "sentence": "CEO David Solomon noted improved client confidence in Q2, expects increased IPO activity in Q3/Q4 after successful second-quarter listings, and foresees robust M&A pipeline.",
+      "context": "nfidence in Q2, expects increased IPO activity in Q3/Q4 after successful second-quarter listings, and for",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "second-quarter",
+      "label": "DATE",
+      "start": 999,
+      "end": 1013,
+      "sentence": "CEO David Solomon noted improved client confidence in Q2, expects increased IPO activity in Q3/Q4 after successful second-quarter listings, and foresees robust M&A pipeline.",
+      "context": "increased IPO activity in Q3/Q4 after successful second-quarter listings, and foresees robust M&A pipeline.\nClien",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Goldman",
+      "label": "ORG",
+      "start": 1159,
+      "end": 1166,
+      "sentence": "Client confidence improved\nMore IPO activity expected\nExpect robust M&A activity\nPositive Sentiment:\nGoldman committed $270 million to finance affordable housing in Brooklyn, aligning with its focus on sustainable community investments.",
+      "context": "ed\nExpect robust M&A activity\nPositive Sentiment:\nGoldman committed $270 million to finance affordable hous",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "$270 million",
+      "label": "MONEY",
+      "start": 1177,
+      "end": 1189,
+      "sentence": "Client confidence improved\nMore IPO activity expected\nExpect robust M&A activity\nPositive Sentiment:\nGoldman committed $270 million to finance affordable housing in Brooklyn, aligning with its focus on sustainable community investments.",
+      "context": "&A activity\nPositive Sentiment:\nGoldman committed $270 million to finance affordable housing in Brooklyn, aligni",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Brooklyn",
+      "label": "GPE",
+      "start": 1223,
+      "end": 1231,
+      "sentence": "Client confidence improved\nMore IPO activity expected\nExpect robust M&A activity\nPositive Sentiment:\nGoldman committed $270 million to finance affordable housing in Brooklyn, aligning with its focus on sustainable community investments.",
+      "context": "ted $270 million to finance affordable housing in Brooklyn, aligning with its focus on sustainable community",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "26%",
+      "label": "PERCENT",
+      "start": 1437,
+      "end": 1440,
+      "sentence": "Neutral Sentiment:\nDespite the beats, shares dipped briefly in early trade, suggesting some profit-taking after a 26% year-to-date rally.",
+      "context": "arly trade, suggesting some profit-taking after a 26% year-to-date rally.\nEarly trading dip\nNegative Se",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "year-to-date",
+      "label": "DATE",
+      "start": 1441,
+      "end": 1453,
+      "sentence": "Neutral Sentiment:\nDespite the beats, shares dipped briefly in early trade, suggesting some profit-taking after a 26% year-to-date rally.",
+      "context": "trade, suggesting some profit-taking after a 26% year-to-date rally.\nEarly trading dip\nNegative Sentiment:\nJMP",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "JMP Securities",
+      "label": "ORG",
+      "start": 1499,
+      "end": 1513,
+      "sentence": "Early trading dip\nNegative Sentiment:\nJMP Securities cut its ratings on both GS common and preferred shares, citing limited upside and valuation concerns.",
+      "context": "date rally.\nEarly trading dip\nNegative Sentiment:\nJMP Securities cut its ratings on both GS common and preferred s",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "GS",
+      "label": "ORG",
+      "start": 1538,
+      "end": 1540,
+      "sentence": "Early trading dip\nNegative Sentiment:\nJMP Securities cut its ratings on both GS common and preferred shares, citing limited upside and valuation concerns.",
+      "context": "Sentiment:\nJMP Securities cut its ratings on both GS common and preferred shares, citing limited upsid",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "JMP",
+      "label": "ORG",
+      "start": 1616,
+      "end": 1619,
+      "sentence": "JMP downgrades GS\nPosted 1h ago\nAI Generated.",
+      "context": "es, citing limited upside and valuation concerns.\nJMP downgrades GS\nPosted 1h ago\nAI Generated. May Con",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "GS",
+      "label": "ORG",
+      "start": 1631,
+      "end": 1633,
+      "sentence": "JMP downgrades GS\nPosted 1h ago\nAI Generated.",
+      "context": "ted upside and valuation concerns.\nJMP downgrades GS\nPosted 1h ago\nAI Generated. May Contain Errors.",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AI Generated",
+      "label": "ORG",
+      "start": 1648,
+      "end": 1660,
+      "sentence": "JMP downgrades GS\nPosted 1h ago\nAI Generated.",
+      "context": "luation concerns.\nJMP downgrades GS\nPosted 1h ago\nAI Generated. May Contain Errors.",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    }
+  ],
+  "relationships": [
+    {
+      "type": "SVO",
+      "subject": "firm",
+      "verb": "reported",
+      "object": "results",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "importance": 14
+    },
+    {
+      "type": "SVO",
+      "subject": "CEO",
+      "verb": "highlighted",
+      "object": "confidence",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "importance": 14
+    },
+    {
+      "type": "SVO",
+      "subject": "assets",
+      "verb": "hit",
+      "object": "high",
+      "sentence": "Net interest income surged 56% and assets under supervision hit a new high, reflecting strong inflows and client activity.",
+      "importance": 5
+    },
+    {
+      "type": "SVO",
+      "subject": "Assets",
+      "verb": "Hit",
+      "object": "Record",
+      "sentence": "GS Q2 Assets Under Supervision Hit Record, Net Interest Income Surges 56%\nPositive Sentiment:\nThe board approved a 33.3% dividend increase, underscoring confidence in the firm’s capital position following the earnings beat.",
+      "importance": 12
+    },
+    {
+      "type": "SVO",
+      "subject": "board",
+      "verb": "approved",
+      "object": "increase",
+      "sentence": "GS Q2 Assets Under Supervision Hit Record, Net Interest Income Surges 56%\nPositive Sentiment:\nThe board approved a 33.3% dividend increase, underscoring confidence in the firm’s capital position following the earnings beat.",
+      "importance": 12
+    },
+    {
+      "type": "SVO",
+      "subject": "Earnings",
+      "verb": "Beat",
+      "object": "Estimates",
+      "sentence": "Goldman Gains as Q2 Earnings Beat Estimates, Boosts Dividend 33.3%\nPositive Sentiment:",
+      "importance": 6
+    },
+    {
+      "type": "SVO",
+      "subject": "Solomon",
+      "verb": "noted",
+      "object": "confidence",
+      "sentence": "CEO David Solomon noted improved client confidence in Q2, expects increased IPO activity in Q3/Q4 after successful second-quarter listings, and foresees robust M&A pipeline.",
+      "importance": 12
+    },
+    {
+      "type": "SVO",
+      "subject": "Goldman",
+      "verb": "committed",
+      "object": "million",
+      "sentence": "Client confidence improved\nMore IPO activity expected\nExpect robust M&A activity\nPositive Sentiment:\nGoldman committed $270 million to finance affordable housing in Brooklyn, aligning with its focus on sustainable community investments.",
+      "importance": 7
+    },
+    {
+      "type": "SVO",
+      "subject": "Securities",
+      "verb": "cut",
+      "object": "ratings",
+      "sentence": "Early trading dip\nNegative Sentiment:\nJMP Securities cut its ratings on both GS common and preferred shares, citing limited upside and valuation concerns.",
+      "importance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Goldman",
+      "entity1_type": "ORG",
+      "entity2": "Sachs",
+      "entity2_type": "ORG",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Goldman",
+      "entity1_type": "ORG",
+      "entity2": "Group",
+      "entity2_type": "ORG",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Goldman",
+      "entity1_type": "ORG",
+      "entity2": ",",
+      "entity2_type": "ORG",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Goldman",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Goldman",
+      "entity1_type": "ORG",
+      "entity2": "GS",
+      "entity2_type": "ORG",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Goldman",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Goldman",
+      "entity1_type": "ORG",
+      "entity2": "second",
+      "entity2_type": "DATE",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Goldman",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Goldman",
+      "entity1_type": "ORG",
+      "entity2": "quarter",
+      "entity2_type": "DATE",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sachs",
+      "entity1_type": "ORG",
+      "entity2": "Group",
+      "entity2_type": "ORG",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sachs",
+      "entity1_type": "ORG",
+      "entity2": ",",
+      "entity2_type": "ORG",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sachs",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sachs",
+      "entity1_type": "ORG",
+      "entity2": "GS",
+      "entity2_type": "ORG",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sachs",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sachs",
+      "entity1_type": "ORG",
+      "entity2": "second",
+      "entity2_type": "DATE",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sachs",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sachs",
+      "entity1_type": "ORG",
+      "entity2": "quarter",
+      "entity2_type": "DATE",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Group",
+      "entity1_type": "ORG",
+      "entity2": ",",
+      "entity2_type": "ORG",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Group",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Group",
+      "entity1_type": "ORG",
+      "entity2": "GS",
+      "entity2_type": "ORG",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Group",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Group",
+      "entity1_type": "ORG",
+      "entity2": "second",
+      "entity2_type": "DATE",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Group",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Group",
+      "entity1_type": "ORG",
+      "entity2": "quarter",
+      "entity2_type": "DATE",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "GS",
+      "entity2_type": "ORG",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "second",
+      "entity2_type": "DATE",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "quarter",
+      "entity2_type": "DATE",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "GS",
+      "entity2_type": "ORG",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "second",
+      "entity2_type": "DATE",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "quarter",
+      "entity2_type": "DATE",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GS",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GS",
+      "entity1_type": "ORG",
+      "entity2": "second",
+      "entity2_type": "DATE",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GS",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GS",
+      "entity1_type": "ORG",
+      "entity2": "quarter",
+      "entity2_type": "DATE",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "today",
+      "entity1_type": "DATE",
+      "entity2": "second",
+      "entity2_type": "DATE",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "today",
+      "entity1_type": "DATE",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "today",
+      "entity1_type": "DATE",
+      "entity2": "quarter",
+      "entity2_type": "DATE",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "second",
+      "entity1_type": "DATE",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "second",
+      "entity1_type": "DATE",
+      "entity2": "quarter",
+      "entity2_type": "DATE",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "DATE",
+      "entity2": "quarter",
+      "entity2_type": "DATE",
+      "sentence": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nQ2 revenue of $14.58 billion and EPS of $10.91 came in well above consensus, driven by record equities trading and strong investment banking performance.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "14.58",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nQ2 revenue of $14.58 billion and EPS of $10.91 came in well above consensus, driven by record equities trading and strong investment banking performance.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "billion",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nQ2 revenue of $14.58 billion and EPS of $10.91 came in well above consensus, driven by record equities trading and strong investment banking performance.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "10.91",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nQ2 revenue of $14.58 billion and EPS of $10.91 came in well above consensus, driven by record equities trading and strong investment banking performance.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "14.58",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nQ2 revenue of $14.58 billion and EPS of $10.91 came in well above consensus, driven by record equities trading and strong investment banking performance.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "billion",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nQ2 revenue of $14.58 billion and EPS of $10.91 came in well above consensus, driven by record equities trading and strong investment banking performance.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "10.91",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nQ2 revenue of $14.58 billion and EPS of $10.91 came in well above consensus, driven by record equities trading and strong investment banking performance.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "14.58",
+      "entity1_type": "MONEY",
+      "entity2": "billion",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nQ2 revenue of $14.58 billion and EPS of $10.91 came in well above consensus, driven by record equities trading and strong investment banking performance.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "14.58",
+      "entity1_type": "MONEY",
+      "entity2": "10.91",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nQ2 revenue of $14.58 billion and EPS of $10.91 came in well above consensus, driven by record equities trading and strong investment banking performance.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "billion",
+      "entity1_type": "MONEY",
+      "entity2": "10.91",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nQ2 revenue of $14.58 billion and EPS of $10.91 came in well above consensus, driven by record equities trading and strong investment banking performance.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Goldman",
+      "entity1_type": "ORG",
+      "entity2": "Sachs",
+      "entity2_type": "ORG",
+      "sentence": "Goldman Sachs Q2 Profit Jumps",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Goldman",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "Goldman Sachs Q2 Profit Jumps",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Sachs",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "Goldman Sachs Q2 Profit Jumps",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "56",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Net interest income surged 56% and assets under supervision hit a new high, reflecting strong inflows and client activity.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GS",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "ORG",
+      "sentence": "GS Q2 Assets Under Supervision Hit Record, Net Interest Income Surges 56%\nPositive Sentiment:\nThe board approved a 33.3% dividend increase, underscoring confidence in the firm’s capital position following the earnings beat.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GS",
+      "entity1_type": "ORG",
+      "entity2": "56",
+      "entity2_type": "PERCENT",
+      "sentence": "GS Q2 Assets Under Supervision Hit Record, Net Interest Income Surges 56%\nPositive Sentiment:\nThe board approved a 33.3% dividend increase, underscoring confidence in the firm’s capital position following the earnings beat.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GS",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "GS Q2 Assets Under Supervision Hit Record, Net Interest Income Surges 56%\nPositive Sentiment:\nThe board approved a 33.3% dividend increase, underscoring confidence in the firm’s capital position following the earnings beat.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GS",
+      "entity1_type": "ORG",
+      "entity2": "33.3",
+      "entity2_type": "PERCENT",
+      "sentence": "GS Q2 Assets Under Supervision Hit Record, Net Interest Income Surges 56%\nPositive Sentiment:\nThe board approved a 33.3% dividend increase, underscoring confidence in the firm’s capital position following the earnings beat.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GS",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "GS Q2 Assets Under Supervision Hit Record, Net Interest Income Surges 56%\nPositive Sentiment:\nThe board approved a 33.3% dividend increase, underscoring confidence in the firm’s capital position following the earnings beat.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "ORG",
+      "entity2": "56",
+      "entity2_type": "PERCENT",
+      "sentence": "GS Q2 Assets Under Supervision Hit Record, Net Interest Income Surges 56%\nPositive Sentiment:\nThe board approved a 33.3% dividend increase, underscoring confidence in the firm’s capital position following the earnings beat.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "GS Q2 Assets Under Supervision Hit Record, Net Interest Income Surges 56%\nPositive Sentiment:\nThe board approved a 33.3% dividend increase, underscoring confidence in the firm’s capital position following the earnings beat.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "ORG",
+      "entity2": "33.3",
+      "entity2_type": "PERCENT",
+      "sentence": "GS Q2 Assets Under Supervision Hit Record, Net Interest Income Surges 56%\nPositive Sentiment:\nThe board approved a 33.3% dividend increase, underscoring confidence in the firm’s capital position following the earnings beat.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "GS Q2 Assets Under Supervision Hit Record, Net Interest Income Surges 56%\nPositive Sentiment:\nThe board approved a 33.3% dividend increase, underscoring confidence in the firm’s capital position following the earnings beat.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "56",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "GS Q2 Assets Under Supervision Hit Record, Net Interest Income Surges 56%\nPositive Sentiment:\nThe board approved a 33.3% dividend increase, underscoring confidence in the firm’s capital position following the earnings beat.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "56",
+      "entity1_type": "PERCENT",
+      "entity2": "33.3",
+      "entity2_type": "PERCENT",
+      "sentence": "GS Q2 Assets Under Supervision Hit Record, Net Interest Income Surges 56%\nPositive Sentiment:\nThe board approved a 33.3% dividend increase, underscoring confidence in the firm’s capital position following the earnings beat.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "56",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "GS Q2 Assets Under Supervision Hit Record, Net Interest Income Surges 56%\nPositive Sentiment:\nThe board approved a 33.3% dividend increase, underscoring confidence in the firm’s capital position following the earnings beat.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "33.3",
+      "entity2_type": "PERCENT",
+      "sentence": "GS Q2 Assets Under Supervision Hit Record, Net Interest Income Surges 56%\nPositive Sentiment:\nThe board approved a 33.3% dividend increase, underscoring confidence in the firm’s capital position following the earnings beat.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "GS Q2 Assets Under Supervision Hit Record, Net Interest Income Surges 56%\nPositive Sentiment:\nThe board approved a 33.3% dividend increase, underscoring confidence in the firm’s capital position following the earnings beat.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "33.3",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "GS Q2 Assets Under Supervision Hit Record, Net Interest Income Surges 56%\nPositive Sentiment:\nThe board approved a 33.3% dividend increase, underscoring confidence in the firm’s capital position following the earnings beat.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Goldman",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "Goldman Gains as Q2 Earnings Beat Estimates, Boosts Dividend 33.3%\nPositive Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Goldman",
+      "entity1_type": "ORG",
+      "entity2": "33.3",
+      "entity2_type": "PERCENT",
+      "sentence": "Goldman Gains as Q2 Earnings Beat Estimates, Boosts Dividend 33.3%\nPositive Sentiment:",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Goldman",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Goldman Gains as Q2 Earnings Beat Estimates, Boosts Dividend 33.3%\nPositive Sentiment:",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "33.3",
+      "entity2_type": "PERCENT",
+      "sentence": "Goldman Gains as Q2 Earnings Beat Estimates, Boosts Dividend 33.3%\nPositive Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Goldman Gains as Q2 Earnings Beat Estimates, Boosts Dividend 33.3%\nPositive Sentiment:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "33.3",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Goldman Gains as Q2 Earnings Beat Estimates, Boosts Dividend 33.3%\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "David",
+      "entity1_type": "PERSON",
+      "entity2": "Solomon",
+      "entity2_type": "PERSON",
+      "sentence": "CEO David Solomon noted improved client confidence in Q2, expects increased IPO activity in Q3/Q4 after successful second-quarter listings, and foresees robust M&A pipeline.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "David",
+      "entity1_type": "PERSON",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "CEO David Solomon noted improved client confidence in Q2, expects increased IPO activity in Q3/Q4 after successful second-quarter listings, and foresees robust M&A pipeline.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "David",
+      "entity1_type": "PERSON",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "CEO David Solomon noted improved client confidence in Q2, expects increased IPO activity in Q3/Q4 after successful second-quarter listings, and foresees robust M&A pipeline.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "David",
+      "entity1_type": "PERSON",
+      "entity2": "/",
+      "entity2_type": "DATE",
+      "sentence": "CEO David Solomon noted improved client confidence in Q2, expects increased IPO activity in Q3/Q4 after successful second-quarter listings, and foresees robust M&A pipeline.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "David",
+      "entity1_type": "PERSON",
+      "entity2": "Q4",
+      "entity2_type": "DATE",
+      "sentence": "CEO David Solomon noted improved client confidence in Q2, expects increased IPO activity in Q3/Q4 after successful second-quarter listings, and foresees robust M&A pipeline.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "David",
+      "entity1_type": "PERSON",
+      "entity2": "second",
+      "entity2_type": "DATE",
+      "sentence": "CEO David Solomon noted improved client confidence in Q2, expects increased IPO activity in Q3/Q4 after successful second-quarter listings, and foresees robust M&A pipeline.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "David",
+      "entity1_type": "PERSON",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "CEO David Solomon noted improved client confidence in Q2, expects increased IPO activity in Q3/Q4 after successful second-quarter listings, and foresees robust M&A pipeline.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "David",
+      "entity1_type": "PERSON",
+      "entity2": "quarter",
+      "entity2_type": "DATE",
+      "sentence": "CEO David Solomon noted improved client confidence in Q2, expects increased IPO activity in Q3/Q4 after successful second-quarter listings, and foresees robust M&A pipeline.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Solomon",
+      "entity1_type": "PERSON",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "CEO David Solomon noted improved client confidence in Q2, expects increased IPO activity in Q3/Q4 after successful second-quarter listings, and foresees robust M&A pipeline.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Solomon",
+      "entity1_type": "PERSON",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "CEO David Solomon noted improved client confidence in Q2, expects increased IPO activity in Q3/Q4 after successful second-quarter listings, and foresees robust M&A pipeline.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Solomon",
+      "entity1_type": "PERSON",
+      "entity2": "/",
+      "entity2_type": "DATE",
+      "sentence": "CEO David Solomon noted improved client confidence in Q2, expects increased IPO activity in Q3/Q4 after successful second-quarter listings, and foresees robust M&A pipeline.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Solomon",
+      "entity1_type": "PERSON",
+      "entity2": "Q4",
+      "entity2_type": "DATE",
+      "sentence": "CEO David Solomon noted improved client confidence in Q2, expects increased IPO activity in Q3/Q4 after successful second-quarter listings, and foresees robust M&A pipeline.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Solomon",
+      "entity1_type": "PERSON",
+      "entity2": "second",
+      "entity2_type": "DATE",
+      "sentence": "CEO David Solomon noted improved client confidence in Q2, expects increased IPO activity in Q3/Q4 after successful second-quarter listings, and foresees robust M&A pipeline.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Solomon",
+      "entity1_type": "PERSON",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "CEO David Solomon noted improved client confidence in Q2, expects increased IPO activity in Q3/Q4 after successful second-quarter listings, and foresees robust M&A pipeline.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Solomon",
+      "entity1_type": "PERSON",
+      "entity2": "quarter",
+      "entity2_type": "DATE",
+      "sentence": "CEO David Solomon noted improved client confidence in Q2, expects increased IPO activity in Q3/Q4 after successful second-quarter listings, and foresees robust M&A pipeline.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "CEO David Solomon noted improved client confidence in Q2, expects increased IPO activity in Q3/Q4 after successful second-quarter listings, and foresees robust M&A pipeline.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "/",
+      "entity2_type": "DATE",
+      "sentence": "CEO David Solomon noted improved client confidence in Q2, expects increased IPO activity in Q3/Q4 after successful second-quarter listings, and foresees robust M&A pipeline.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "Q4",
+      "entity2_type": "DATE",
+      "sentence": "CEO David Solomon noted improved client confidence in Q2, expects increased IPO activity in Q3/Q4 after successful second-quarter listings, and foresees robust M&A pipeline.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "second",
+      "entity2_type": "DATE",
+      "sentence": "CEO David Solomon noted improved client confidence in Q2, expects increased IPO activity in Q3/Q4 after successful second-quarter listings, and foresees robust M&A pipeline.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "CEO David Solomon noted improved client confidence in Q2, expects increased IPO activity in Q3/Q4 after successful second-quarter listings, and foresees robust M&A pipeline.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "quarter",
+      "entity2_type": "DATE",
+      "sentence": "CEO David Solomon noted improved client confidence in Q2, expects increased IPO activity in Q3/Q4 after successful second-quarter listings, and foresees robust M&A pipeline.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "/",
+      "entity2_type": "DATE",
+      "sentence": "CEO David Solomon noted improved client confidence in Q2, expects increased IPO activity in Q3/Q4 after successful second-quarter listings, and foresees robust M&A pipeline.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "Q4",
+      "entity2_type": "DATE",
+      "sentence": "CEO David Solomon noted improved client confidence in Q2, expects increased IPO activity in Q3/Q4 after successful second-quarter listings, and foresees robust M&A pipeline.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "second",
+      "entity2_type": "DATE",
+      "sentence": "CEO David Solomon noted improved client confidence in Q2, expects increased IPO activity in Q3/Q4 after successful second-quarter listings, and foresees robust M&A pipeline.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "CEO David Solomon noted improved client confidence in Q2, expects increased IPO activity in Q3/Q4 after successful second-quarter listings, and foresees robust M&A pipeline.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "quarter",
+      "entity2_type": "DATE",
+      "sentence": "CEO David Solomon noted improved client confidence in Q2, expects increased IPO activity in Q3/Q4 after successful second-quarter listings, and foresees robust M&A pipeline.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "/",
+      "entity1_type": "DATE",
+      "entity2": "Q4",
+      "entity2_type": "DATE",
+      "sentence": "CEO David Solomon noted improved client confidence in Q2, expects increased IPO activity in Q3/Q4 after successful second-quarter listings, and foresees robust M&A pipeline.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "/",
+      "entity1_type": "DATE",
+      "entity2": "second",
+      "entity2_type": "DATE",
+      "sentence": "CEO David Solomon noted improved client confidence in Q2, expects increased IPO activity in Q3/Q4 after successful second-quarter listings, and foresees robust M&A pipeline.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "/",
+      "entity1_type": "DATE",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "CEO David Solomon noted improved client confidence in Q2, expects increased IPO activity in Q3/Q4 after successful second-quarter listings, and foresees robust M&A pipeline.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "/",
+      "entity1_type": "DATE",
+      "entity2": "quarter",
+      "entity2_type": "DATE",
+      "sentence": "CEO David Solomon noted improved client confidence in Q2, expects increased IPO activity in Q3/Q4 after successful second-quarter listings, and foresees robust M&A pipeline.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q4",
+      "entity1_type": "DATE",
+      "entity2": "second",
+      "entity2_type": "DATE",
+      "sentence": "CEO David Solomon noted improved client confidence in Q2, expects increased IPO activity in Q3/Q4 after successful second-quarter listings, and foresees robust M&A pipeline.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q4",
+      "entity1_type": "DATE",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "CEO David Solomon noted improved client confidence in Q2, expects increased IPO activity in Q3/Q4 after successful second-quarter listings, and foresees robust M&A pipeline.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q4",
+      "entity1_type": "DATE",
+      "entity2": "quarter",
+      "entity2_type": "DATE",
+      "sentence": "CEO David Solomon noted improved client confidence in Q2, expects increased IPO activity in Q3/Q4 after successful second-quarter listings, and foresees robust M&A pipeline.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "second",
+      "entity1_type": "DATE",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "CEO David Solomon noted improved client confidence in Q2, expects increased IPO activity in Q3/Q4 after successful second-quarter listings, and foresees robust M&A pipeline.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "second",
+      "entity1_type": "DATE",
+      "entity2": "quarter",
+      "entity2_type": "DATE",
+      "sentence": "CEO David Solomon noted improved client confidence in Q2, expects increased IPO activity in Q3/Q4 after successful second-quarter listings, and foresees robust M&A pipeline.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "DATE",
+      "entity2": "quarter",
+      "entity2_type": "DATE",
+      "sentence": "CEO David Solomon noted improved client confidence in Q2, expects increased IPO activity in Q3/Q4 after successful second-quarter listings, and foresees robust M&A pipeline.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Goldman",
+      "entity1_type": "ORG",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Client confidence improved\nMore IPO activity expected\nExpect robust M&A activity\nPositive Sentiment:\nGoldman committed $270 million to finance affordable housing in Brooklyn, aligning with its focus on sustainable community investments.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Goldman",
+      "entity1_type": "ORG",
+      "entity2": "270",
+      "entity2_type": "MONEY",
+      "sentence": "Client confidence improved\nMore IPO activity expected\nExpect robust M&A activity\nPositive Sentiment:\nGoldman committed $270 million to finance affordable housing in Brooklyn, aligning with its focus on sustainable community investments.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Goldman",
+      "entity1_type": "ORG",
+      "entity2": "million",
+      "entity2_type": "MONEY",
+      "sentence": "Client confidence improved\nMore IPO activity expected\nExpect robust M&A activity\nPositive Sentiment:\nGoldman committed $270 million to finance affordable housing in Brooklyn, aligning with its focus on sustainable community investments.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Goldman",
+      "entity1_type": "ORG",
+      "entity2": "Brooklyn",
+      "entity2_type": "GPE",
+      "sentence": "Client confidence improved\nMore IPO activity expected\nExpect robust M&A activity\nPositive Sentiment:\nGoldman committed $270 million to finance affordable housing in Brooklyn, aligning with its focus on sustainable community investments.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "270",
+      "entity2_type": "MONEY",
+      "sentence": "Client confidence improved\nMore IPO activity expected\nExpect robust M&A activity\nPositive Sentiment:\nGoldman committed $270 million to finance affordable housing in Brooklyn, aligning with its focus on sustainable community investments.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "million",
+      "entity2_type": "MONEY",
+      "sentence": "Client confidence improved\nMore IPO activity expected\nExpect robust M&A activity\nPositive Sentiment:\nGoldman committed $270 million to finance affordable housing in Brooklyn, aligning with its focus on sustainable community investments.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "Brooklyn",
+      "entity2_type": "GPE",
+      "sentence": "Client confidence improved\nMore IPO activity expected\nExpect robust M&A activity\nPositive Sentiment:\nGoldman committed $270 million to finance affordable housing in Brooklyn, aligning with its focus on sustainable community investments.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "270",
+      "entity1_type": "MONEY",
+      "entity2": "million",
+      "entity2_type": "MONEY",
+      "sentence": "Client confidence improved\nMore IPO activity expected\nExpect robust M&A activity\nPositive Sentiment:\nGoldman committed $270 million to finance affordable housing in Brooklyn, aligning with its focus on sustainable community investments.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "270",
+      "entity1_type": "MONEY",
+      "entity2": "Brooklyn",
+      "entity2_type": "GPE",
+      "sentence": "Client confidence improved\nMore IPO activity expected\nExpect robust M&A activity\nPositive Sentiment:\nGoldman committed $270 million to finance affordable housing in Brooklyn, aligning with its focus on sustainable community investments.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "million",
+      "entity1_type": "MONEY",
+      "entity2": "Brooklyn",
+      "entity2_type": "GPE",
+      "sentence": "Client confidence improved\nMore IPO activity expected\nExpect robust M&A activity\nPositive Sentiment:\nGoldman committed $270 million to finance affordable housing in Brooklyn, aligning with its focus on sustainable community investments.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "26",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Neutral Sentiment:\nDespite the beats, shares dipped briefly in early trade, suggesting some profit-taking after a 26% year-to-date rally.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "26",
+      "entity1_type": "PERCENT",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Neutral Sentiment:\nDespite the beats, shares dipped briefly in early trade, suggesting some profit-taking after a 26% year-to-date rally.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "26",
+      "entity1_type": "PERCENT",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Neutral Sentiment:\nDespite the beats, shares dipped briefly in early trade, suggesting some profit-taking after a 26% year-to-date rally.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "26",
+      "entity1_type": "PERCENT",
+      "entity2": "to",
+      "entity2_type": "DATE",
+      "sentence": "Neutral Sentiment:\nDespite the beats, shares dipped briefly in early trade, suggesting some profit-taking after a 26% year-to-date rally.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "26",
+      "entity1_type": "PERCENT",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Neutral Sentiment:\nDespite the beats, shares dipped briefly in early trade, suggesting some profit-taking after a 26% year-to-date rally.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "26",
+      "entity1_type": "PERCENT",
+      "entity2": "date",
+      "entity2_type": "DATE",
+      "sentence": "Neutral Sentiment:\nDespite the beats, shares dipped briefly in early trade, suggesting some profit-taking after a 26% year-to-date rally.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "year",
+      "entity2_type": "DATE",
+      "sentence": "Neutral Sentiment:\nDespite the beats, shares dipped briefly in early trade, suggesting some profit-taking after a 26% year-to-date rally.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Neutral Sentiment:\nDespite the beats, shares dipped briefly in early trade, suggesting some profit-taking after a 26% year-to-date rally.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "to",
+      "entity2_type": "DATE",
+      "sentence": "Neutral Sentiment:\nDespite the beats, shares dipped briefly in early trade, suggesting some profit-taking after a 26% year-to-date rally.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Neutral Sentiment:\nDespite the beats, shares dipped briefly in early trade, suggesting some profit-taking after a 26% year-to-date rally.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "date",
+      "entity2_type": "DATE",
+      "sentence": "Neutral Sentiment:\nDespite the beats, shares dipped briefly in early trade, suggesting some profit-taking after a 26% year-to-date rally.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "year",
+      "entity1_type": "DATE",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Neutral Sentiment:\nDespite the beats, shares dipped briefly in early trade, suggesting some profit-taking after a 26% year-to-date rally.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "year",
+      "entity1_type": "DATE",
+      "entity2": "to",
+      "entity2_type": "DATE",
+      "sentence": "Neutral Sentiment:\nDespite the beats, shares dipped briefly in early trade, suggesting some profit-taking after a 26% year-to-date rally.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "year",
+      "entity1_type": "DATE",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Neutral Sentiment:\nDespite the beats, shares dipped briefly in early trade, suggesting some profit-taking after a 26% year-to-date rally.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "year",
+      "entity1_type": "DATE",
+      "entity2": "date",
+      "entity2_type": "DATE",
+      "sentence": "Neutral Sentiment:\nDespite the beats, shares dipped briefly in early trade, suggesting some profit-taking after a 26% year-to-date rally.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "DATE",
+      "entity2": "to",
+      "entity2_type": "DATE",
+      "sentence": "Neutral Sentiment:\nDespite the beats, shares dipped briefly in early trade, suggesting some profit-taking after a 26% year-to-date rally.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "DATE",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Neutral Sentiment:\nDespite the beats, shares dipped briefly in early trade, suggesting some profit-taking after a 26% year-to-date rally.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "DATE",
+      "entity2": "date",
+      "entity2_type": "DATE",
+      "sentence": "Neutral Sentiment:\nDespite the beats, shares dipped briefly in early trade, suggesting some profit-taking after a 26% year-to-date rally.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "to",
+      "entity1_type": "DATE",
+      "entity2": "-",
+      "entity2_type": "DATE",
+      "sentence": "Neutral Sentiment:\nDespite the beats, shares dipped briefly in early trade, suggesting some profit-taking after a 26% year-to-date rally.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "to",
+      "entity1_type": "DATE",
+      "entity2": "date",
+      "entity2_type": "DATE",
+      "sentence": "Neutral Sentiment:\nDespite the beats, shares dipped briefly in early trade, suggesting some profit-taking after a 26% year-to-date rally.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "DATE",
+      "entity2": "date",
+      "entity2_type": "DATE",
+      "sentence": "Neutral Sentiment:\nDespite the beats, shares dipped briefly in early trade, suggesting some profit-taking after a 26% year-to-date rally.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JMP",
+      "entity1_type": "ORG",
+      "entity2": "Securities",
+      "entity2_type": "ORG",
+      "sentence": "Early trading dip\nNegative Sentiment:\nJMP Securities cut its ratings on both GS common and preferred shares, citing limited upside and valuation concerns.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JMP",
+      "entity1_type": "ORG",
+      "entity2": "GS",
+      "entity2_type": "ORG",
+      "sentence": "Early trading dip\nNegative Sentiment:\nJMP Securities cut its ratings on both GS common and preferred shares, citing limited upside and valuation concerns.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Securities",
+      "entity1_type": "ORG",
+      "entity2": "GS",
+      "entity2_type": "ORG",
+      "sentence": "Early trading dip\nNegative Sentiment:\nJMP Securities cut its ratings on both GS common and preferred shares, citing limited upside and valuation concerns.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JMP",
+      "entity1_type": "ORG",
+      "entity2": "GS",
+      "entity2_type": "ORG",
+      "sentence": "JMP downgrades GS\nPosted 1h ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JMP",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "JMP downgrades GS\nPosted 1h ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JMP",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "JMP downgrades GS\nPosted 1h ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GS",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "JMP downgrades GS\nPosted 1h ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GS",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "JMP downgrades GS\nPosted 1h ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AI",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "JMP downgrades GS\nPosted 1h ago\nAI Generated.",
+      "distance": 1
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "the firm",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "robust second-quarter results",
+      "type": "noun_chunk",
+      "category": "temporal"
+    },
+    {
+      "text": "its dividend",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the CEO",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "improving client confidence",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a pickup",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "IPO and M&A activity",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Q2 revenue",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "record equities trading",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "strong investment banking performance",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Goldman Sachs Q2 Profit",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Net interest income",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a new high",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "strong inflows",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "client activity",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "GS Q2 Assets",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Net Interest Income",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "The board",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a 33.3% dividend increase",
+      "type": "noun_chunk",
+      "category": "trend"
+    },
+    {
+      "text": "the firm’s capital position",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the earnings beat",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Q2 Earnings",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "CEO David Solomon",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "improved client confidence",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "increased IPO activity",
+      "type": "noun_chunk",
+      "category": "trend"
+    },
+    {
+      "text": "successful second-quarter listings",
+      "type": "noun_chunk",
+      "category": "temporal"
+    },
+    {
+      "text": "robust M&A pipeline",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Client confidence",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "More IPO activity",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "robust M&A activity",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "affordable housing",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its focus",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "sustainable community investments",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Finances affordable housing",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the beats",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "early trade",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "some profit-taking",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Early trading dip\nNegative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "JMP Securities",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its ratings",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "both GS common and preferred shares",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "limited upside",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "valuation concerns",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "$14.58 billion",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$10.91",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$270 million",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "56%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "56%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "33.3%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "33.3%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "26%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "revenue",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Profit",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "profit",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "trading",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "investment",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "trading",
+      "type": "pattern",
+      "category": "market_term"
+    }
+  ],
+  "important_sentences": [
+    {
+      "text": "The Goldman Sachs Group, Inc. (NYSE:GS) shares are up today after the firm reported robust second-quarter results, raised its dividend, and the CEO highlighted improving client confidence and a pickup in IPO and M&A activity.",
+      "importance_score": 40,
+      "entity_count": 10,
+      "financial_keyword_count": 4,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "GS Q2 Assets Under Supervision Hit Record, Net Interest Income Surges 56%\nPositive Sentiment:\nThe board approved a 33.3% dividend increase, underscoring confidence in the firm’s capital position following the earnings beat.",
+      "importance_score": 34,
+      "entity_count": 6,
+      "financial_keyword_count": 6,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Positive Sentiment:\nQ2 revenue of $14.58 billion and EPS of $10.91 came in well above consensus, driven by record equities trading and strong investment banking performance.",
+      "importance_score": 32,
+      "entity_count": 5,
+      "financial_keyword_count": 4,
+      "money_count": 2,
+      "company_count": 0,
+      "sentiment": "positive"
+    },
+    {
+      "text": "CEO David Solomon noted improved client confidence in Q2, expects increased IPO activity in Q3/Q4 after successful second-quarter listings, and foresees robust M&A pipeline.",
+      "importance_score": 27,
+      "entity_count": 9,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 0,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Client confidence improved\nMore IPO activity expected\nExpect robust M&A activity\nPositive Sentiment:\nGoldman committed $270 million to finance affordable housing in Brooklyn, aligning with its focus on sustainable community investments.",
+      "importance_score": 25,
+      "entity_count": 5,
+      "financial_keyword_count": 2,
+      "money_count": 1,
+      "company_count": 1,
+      "sentiment": "positive"
+    },
+    {
+      "text": "JMP downgrades GS\nPosted 1h ago\nAI Generated.",
+      "importance_score": 23,
+      "entity_count": 4,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Neutral Sentiment:\nDespite the beats, shares dipped briefly in early trade, suggesting some profit-taking after a 26% year-to-date rally.",
+      "importance_score": 20,
+      "entity_count": 7,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 0,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Early trading dip\nNegative Sentiment:\nJMP Securities cut its ratings on both GS common and preferred shares, citing limited upside and valuation concerns.",
+      "importance_score": 20,
+      "entity_count": 3,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Goldman Gains as Q2 Earnings Beat Estimates, Boosts Dividend 33.3%\nPositive Sentiment:",
+      "importance_score": 18,
+      "entity_count": 4,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Goldman Sachs Q2 Profit Jumps",
+      "importance_score": 13,
+      "entity_count": 3,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "positive"
+    }
+  ],
+  "entity_statistics": {
+    "total_entities": 30,
+    "unique_entities": 21,
+    "type_counts": {
+      "ORG": 11,
+      "DATE": 9,
+      "MONEY": 3,
+      "PERCENT": 5,
+      "PERSON": 1,
+      "GPE": 1
+    },
+    "type_distribution": {
+      "ORG": 0.36666666666666664,
+      "DATE": 0.3,
+      "MONEY": 0.1,
+      "PERCENT": 0.16666666666666666,
+      "PERSON": 0.03333333333333333,
+      "GPE": 0.03333333333333333
+    },
+    "most_common_entities": [
+      [
+        "Q2",
+        4
+      ],
+      [
+        "GS",
+        3
+      ],
+      [
+        "second-quarter",
+        2
+      ],
+      [
+        "56%",
+        2
+      ],
+      [
+        "33.3%",
+        2
+      ],
+      [
+        "Goldman",
+        2
+      ],
+      [
+        "Goldman Sachs Group, Inc.",
+        1
+      ],
+      [
+        "today",
+        1
+      ],
+      [
+        "$14.58 billion",
+        1
+      ],
+      [
+        "10.91",
+        1
+      ]
+    ],
+    "entity_types_found": [
+      "ORG",
+      "DATE",
+      "MONEY",
+      "PERCENT",
+      "PERSON",
+      "GPE"
+    ],
+    "company_entities": 13,
+    "person_entities": 1,
+    "financial_entities": 8,
+    "entity_density": 0.13100436681222707
+  },
+  "financial_analysis": {
+    "money_amounts": [
+      "$14.58 billion",
+      "10.91",
+      "$270 million"
+    ],
+    "percentages": [
+      "56%",
+      "56%",
+      "33.3%",
+      "33.3%",
+      "26%"
+    ],
+    "companies": [
+      "Goldman Sachs Group, Inc.",
+      "GS",
+      "Goldman Sachs",
+      "GS Q2",
+      "Goldman",
+      "Goldman",
+      "JMP Securities",
+      "GS",
+      "JMP",
+      "GS",
+      "AI Generated"
+    ],
+    "people": [
+      "David Solomon"
+    ],
+    "dates": [
+      "today",
+      "second-quarter",
+      "Q2",
+      "Q2",
+      "Q2",
+      "Q2",
+      "Q3/Q4",
+      "second-quarter",
+      "year-to-date"
+    ],
+    "financial_terms": [
+      "Profit",
+      "revenue",
+      "Earnings",
+      "trading",
+      "profit",
+      "earnings",
+      "investment",
+      "quarter"
+    ],
+    "financial_metrics": [],
+    "market_indicators": [
+      "rally"
+    ]
+  },
+  "temporal_analysis": {
+    "dates": [
+      "today",
+      "second-quarter",
+      "Q2",
+      "Q2",
+      "Q2",
+      "Q2",
+      "Q3/Q4",
+      "second-quarter",
+      "year-to-date"
+    ],
+    "time_expressions": [],
+    "temporal_relationships": [
+      "today"
+    ],
+    "quarters": [
+      "Q2",
+      "Q2",
+      "Q2",
+      "Q2",
+      "Q3/Q4"
+    ],
+    "years": [],
+    "time_periods": []
+  },
+  "sentiment_analysis": {
+    "positive_words": 12,
+    "negative_words": 1,
+    "positive_ratio": 0.05240174672489083,
+    "negative_ratio": 0.004366812227074236,
+    "sentiment_score": 0.048034934497816595,
+    "sentiment_label": "positive",
+    "sentiment_strength": 0.048034934497816595,
+    "confidence": 0.48034934497816595
+  },
+  "industry_analysis": {
+    "dominant_industry": "finance",
+    "industry_scores": {
+      "tech": 1,
+      "finance": 4,
+      "healthcare": 0,
+      "energy": 0,
+      "retail": 0,
+      "automotive": 0,
+      "media": 0,
+      "industrial": 0,
+      "real_estate": 0,
+      "telecom": 0,
+      "food_beverage": 0,
+      "travel": 0,
+      "education": 0,
+      "professional": 0,
+      "mining": 0,
+      "aerospace": 0,
+      "environmental": 0,
+      "cannabis": 0
+    },
+    "confidence": 0.8
+  },
+  "market_analysis": {
+    "market_sentiment": "bullish",
+    "bullish_indicators": 4,
+    "bearish_indicators": 0,
+    "market_conditions": {
+      "volatility": "normal",
+      "volume": "normal",
+      "trend": "bullish"
+    },
+    "trading_activity": "normal"
+  },
+  "competitor_analysis": {
+    "companies_mentioned": [
+      "Goldman Sachs Group, Inc.",
+      "GS",
+      "Goldman Sachs",
+      "GS Q2",
+      "Goldman",
+      "Goldman",
+      "JMP Securities",
+      "GS",
+      "JMP",
+      "GS",
+      "AI Generated"
+    ],
+    "competitive_context": [],
+    "competitor_count": 11,
+    "has_competitive_language": false
+  },
+  "risk_analysis": {
+    "risk_sentences": [
+      "Early trading dip\nNegative Sentiment:\nJMP Securities cut its ratings on both GS common and preferred shares, citing limited upside and valuation concerns."
+    ],
+    "risk_count": 1,
+    "risk_level": "low"
+  },
+  "opportunity_analysis": {
+    "opportunity_sentences": [],
+    "opportunity_count": 0,
+    "opportunity_level": "low"
+  },
+  "processing_metadata": {
+    "timestamp": "2025-07-17T02:31:07.505209",
+    "model_used": "en_core_web_trf",
+    "text_length": 1681
+  }
+}
