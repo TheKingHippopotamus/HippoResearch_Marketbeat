@@ -1,0 +1,3124 @@
+{
+  "ticker": "SBUX",
+  "entities": [
+    {
+      "text": "Starbucks Corporation",
+      "label": "ORG",
+      "start": 0,
+      "end": 21,
+      "sentence": "Starbucks Corporation (NASDAQ:SBUX) stock is reacting to a mix of dividend announcements, executive initiatives, analyst commentary, and operational mandates.",
+      "context": "Starbucks Corporation (NASDAQ:SBUX) stock is reacting to a mix of divid",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "SBUX",
+      "label": "ORG",
+      "start": 30,
+      "end": 34,
+      "sentence": "Starbucks Corporation (NASDAQ:SBUX) stock is reacting to a mix of dividend announcements, executive initiatives, analyst commentary, and operational mandates.",
+      "context": "Starbucks Corporation (NASDAQ:SBUX) stock is reacting to a mix of dividend announcem",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Starbucks",
+      "label": "ORG",
+      "start": 225,
+      "end": 234,
+      "sentence": "Positive Sentiment:\nStarbucks announced a quarterly dividend of $0.61 per share, representing a $2.44 annual payout and a yield of 2.64%, enhancing its income profile for shareholders.",
+      "context": "weigh the following factors:\nPositive Sentiment:\nStarbucks announced a quarterly dividend of $0.61 per share",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "quarterly",
+      "label": "DATE",
+      "start": 247,
+      "end": 256,
+      "sentence": "Positive Sentiment:\nStarbucks announced a quarterly dividend of $0.61 per share, representing a $2.44 annual payout and a yield of 2.64%, enhancing its income profile for shareholders.",
+      "context": "actors:\nPositive Sentiment:\nStarbucks announced a quarterly dividend of $0.61 per share, representing a $2.44",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "0.61",
+      "label": "MONEY",
+      "start": 270,
+      "end": 274,
+      "sentence": "Positive Sentiment:\nStarbucks announced a quarterly dividend of $0.61 per share, representing a $2.44 annual payout and a yield of 2.64%, enhancing its income profile for shareholders.",
+      "context": "ent:\nStarbucks announced a quarterly dividend of $0.61 per share, representing a $2.44 annual payout and",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "2.44",
+      "label": "MONEY",
+      "start": 302,
+      "end": 306,
+      "sentence": "Positive Sentiment:\nStarbucks announced a quarterly dividend of $0.61 per share, representing a $2.44 annual payout and a yield of 2.64%, enhancing its income profile for shareholders.",
+      "context": "erly dividend of $0.61 per share, representing a $2.44 annual payout and a yield of 2.64%, enhancing its",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "annual",
+      "label": "DATE",
+      "start": 307,
+      "end": 313,
+      "sentence": "Positive Sentiment:\nStarbucks announced a quarterly dividend of $0.61 per share, representing a $2.44 annual payout and a yield of 2.64%, enhancing its income profile for shareholders.",
+      "context": "dividend of $0.61 per share, representing a $2.44 annual payout and a yield of 2.64%, enhancing its income",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "2.64%",
+      "label": "PERCENT",
+      "start": 336,
+      "end": 341,
+      "sentence": "Positive Sentiment:\nStarbucks announced a quarterly dividend of $0.61 per share, representing a $2.44 annual payout and a yield of 2.64%, enhancing its income profile for shareholders.",
+      "context": "representing a $2.44 annual payout and a yield of 2.64%, enhancing its income profile for shareholders.\nS",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Starbucks Corporation",
+      "label": "ORG",
+      "start": 390,
+      "end": 411,
+      "sentence": "Starbucks Corporation Plans Quarterly Dividend of $0.61\nPositive Sentiment:\nThe stock ticked higher as investors applauded CEO Brian Niccol’s firm stance on returning employees to the office, viewing it as part of his broader turnaround strategy.\nStarbucks Stock Notches Up on Niccol’s Lengths to Return to Office\nPositive Sentiment:",
+      "context": "%, enhancing its income profile for shareholders.\nStarbucks Corporation Plans Quarterly Dividend of $0.61\nPositive Sentim",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Quarterly",
+      "label": "DATE",
+      "start": 418,
+      "end": 427,
+      "sentence": "Starbucks Corporation Plans Quarterly Dividend of $0.61\nPositive Sentiment:\nThe stock ticked higher as investors applauded CEO Brian Niccol’s firm stance on returning employees to the office, viewing it as part of his broader turnaround strategy.\nStarbucks Stock Notches Up on Niccol’s Lengths to Return to Office\nPositive Sentiment:",
+      "context": "ile for shareholders.\nStarbucks Corporation Plans Quarterly Dividend of $0.61\nPositive Sentiment:\nThe stock t",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "0.61",
+      "label": "MONEY",
+      "start": 441,
+      "end": 445,
+      "sentence": "Starbucks Corporation Plans Quarterly Dividend of $0.61\nPositive Sentiment:\nThe stock ticked higher as investors applauded CEO Brian Niccol’s firm stance on returning employees to the office, viewing it as part of his broader turnaround strategy.\nStarbucks Stock Notches Up on Niccol’s Lengths to Return to Office\nPositive Sentiment:",
+      "context": "tarbucks Corporation Plans Quarterly Dividend of $0.61\nPositive Sentiment:\nThe stock ticked higher as in",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Brian Niccol",
+      "label": "PERSON",
+      "start": 517,
+      "end": 529,
+      "sentence": "Starbucks Corporation Plans Quarterly Dividend of $0.61\nPositive Sentiment:\nThe stock ticked higher as investors applauded CEO Brian Niccol’s firm stance on returning employees to the office, viewing it as part of his broader turnaround strategy.\nStarbucks Stock Notches Up on Niccol’s Lengths to Return to Office\nPositive Sentiment:",
+      "context": "he stock ticked higher as investors applauded CEO Brian Niccol’s firm stance on returning employees to the offic",
+      "is_company": true,
+      "is_person": true,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Starbucks",
+      "label": "ORG",
+      "start": 637,
+      "end": 646,
+      "sentence": "Starbucks Corporation Plans Quarterly Dividend of $0.61\nPositive Sentiment:\nThe stock ticked higher as investors applauded CEO Brian Niccol’s firm stance on returning employees to the office, viewing it as part of his broader turnaround strategy.\nStarbucks Stock Notches Up on Niccol’s Lengths to Return to Office\nPositive Sentiment:",
+      "context": "ng it as part of his broader turnaround strategy.\nStarbucks Stock Notches Up on Niccol’s Lengths to Return to",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Niccol",
+      "label": "PERSON",
+      "start": 667,
+      "end": 673,
+      "sentence": "Starbucks Corporation Plans Quarterly Dividend of $0.61\nPositive Sentiment:\nThe stock ticked higher as investors applauded CEO Brian Niccol’s firm stance on returning employees to the office, viewing it as part of his broader turnaround strategy.\nStarbucks Stock Notches Up on Niccol’s Lengths to Return to Office\nPositive Sentiment:",
+      "context": "urnaround strategy.\nStarbucks Stock Notches Up on Niccol’s Lengths to Return to Office\nPositive Sentiment:",
+      "is_company": true,
+      "is_person": true,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Mad Money",
+      "label": "WORK_OF_ART",
+      "start": 725,
+      "end": 734,
+      "sentence": "“Mad Money” host Jim Cramer weighed in, calling this period the right time to buy Starbucks shares, reflecting bullish analyst views.",
+      "context": "Lengths to Return to Office\nPositive Sentiment:\n“Mad Money” host Jim Cramer weighed in, calling this period",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Jim Cramer",
+      "label": "PERSON",
+      "start": 741,
+      "end": 751,
+      "sentence": "“Mad Money” host Jim Cramer weighed in, calling this period the right time to buy Starbucks shares, reflecting bullish analyst views.",
+      "context": "rn to Office\nPositive Sentiment:\n“Mad Money” host Jim Cramer weighed in, calling this period the right time to",
+      "is_company": false,
+      "is_person": true,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Starbucks",
+      "label": "ORG",
+      "start": 806,
+      "end": 815,
+      "sentence": "“Mad Money” host Jim Cramer weighed in, calling this period the right time to buy Starbucks shares, reflecting bullish analyst views.",
+      "context": "hed in, calling this period the right time to buy Starbucks shares, reflecting bullish analyst views.\nJim Cra",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Jim Cramer",
+      "label": "PERSON",
+      "start": 858,
+      "end": 868,
+      "sentence": "Jim Cramer Says “This is the Right Time to Buy Starbucks”",
+      "context": "arbucks shares, reflecting bullish analyst views.\nJim Cramer Says “This is the Right Time to Buy Starbucks”\nNe",
+      "is_company": false,
+      "is_person": true,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Starbucks",
+      "label": "ORG",
+      "start": 905,
+      "end": 914,
+      "sentence": "Jim Cramer Says “This is the Right Time to Buy Starbucks”",
+      "context": "s.\nJim Cramer Says “This is the Right Time to Buy Starbucks”\nNeutral Sentiment:\nStarbucks will host its Q3 fi",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Starbucks",
+      "label": "ORG",
+      "start": 935,
+      "end": 944,
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "context": "e Right Time to Buy Starbucks”\nNeutral Sentiment:\nStarbucks will host its Q3 fiscal 2025 earnings conference",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q3 fiscal 2025",
+      "label": "DATE",
+      "start": 959,
+      "end": 973,
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "context": "bucks”\nNeutral Sentiment:\nStarbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "July 29",
+      "label": "DATE",
+      "start": 1002,
+      "end": 1009,
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "context": "st its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webc",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Starbucks",
+      "label": "ORG",
+      "start": 1072,
+      "end": 1081,
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "context": "close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q3 Fiscal Year 2025",
+      "label": "DATE",
+      "start": 1092,
+      "end": 1111,
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "context": "l access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:\nAnalys",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "three",
+      "label": "CARDINAL",
+      "start": 1173,
+      "end": 1178,
+      "sentence": "Analysts laid out three potential menu additions for Niccol to consider, highlighting product innovation ideas that could drive traffic if implemented.",
+      "context": "ference Call\nNeutral Sentiment:\nAnalysts laid out three potential menu additions for Niccol to consider,",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Niccol",
+      "label": "ORG",
+      "start": 1208,
+      "end": 1214,
+      "sentence": "Analysts laid out three potential menu additions for Niccol to consider, highlighting product innovation ideas that could drive traffic if implemented.",
+      "context": "lysts laid out three potential menu additions for Niccol to consider, highlighting product innovation idea",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "3",
+      "label": "CARDINAL",
+      "start": 1307,
+      "end": 1308,
+      "sentence": "3 Menu Additions the New Starbucks CEO Should Absolutely Consider\nNegative Sentiment:",
+      "context": "on ideas that could drive traffic if implemented.\n3 Menu Additions the New Starbucks CEO Should Absol",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Starbucks",
+      "label": "ORG",
+      "start": 1332,
+      "end": 1341,
+      "sentence": "3 Menu Additions the New Starbucks CEO Should Absolutely Consider\nNegative Sentiment:",
+      "context": "traffic if implemented.\n3 Menu Additions the New Starbucks CEO Should Absolutely Consider\nNegative Sentiment",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "SBUX",
+      "label": "ORG",
+      "start": 1393,
+      "end": 1397,
+      "sentence": "SBUX shares underperformed the broader market, closing about 1% lower amid profit-taking and mixed sentiment.\nStarbucks (SBUX) Falls More Steeply Than Broader Market\nNegative Sentiment:",
+      "context": "EO Should Absolutely Consider\nNegative Sentiment:\nSBUX shares underperformed the broader market, closing",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "about 1%",
+      "label": "PERCENT",
+      "start": 1448,
+      "end": 1456,
+      "sentence": "SBUX shares underperformed the broader market, closing about 1% lower amid profit-taking and mixed sentiment.\nStarbucks (SBUX) Falls More Steeply Than Broader Market\nNegative Sentiment:",
+      "context": "shares underperformed the broader market, closing about 1% lower amid profit-taking and mixed sentiment.\nSta",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Starbucks",
+      "label": "ORG",
+      "start": 1503,
+      "end": 1512,
+      "sentence": "SBUX shares underperformed the broader market, closing about 1% lower amid profit-taking and mixed sentiment.\nStarbucks (SBUX) Falls More Steeply Than Broader Market\nNegative Sentiment:",
+      "context": "1% lower amid profit-taking and mixed sentiment.\nStarbucks (SBUX) Falls More Steeply Than Broader Market\nNeg",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "SBUX",
+      "label": "ORG",
+      "start": 1514,
+      "end": 1518,
+      "sentence": "SBUX shares underperformed the broader market, closing about 1% lower amid profit-taking and mixed sentiment.\nStarbucks (SBUX) Falls More Steeply Than Broader Market\nNegative Sentiment:",
+      "context": "mid profit-taking and mixed sentiment.\nStarbucks (SBUX) Falls More Steeply Than Broader Market\nNegative",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "four days",
+      "label": "DATE",
+      "start": 1644,
+      "end": 1653,
+      "sentence": "The company mandated corporate employees to return to the office four days a week starting October—while offering voluntary exit packages—raising concerns over morale and retention.",
+      "context": "dated corporate employees to return to the office four days a week starting October—while offering voluntary",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "October",
+      "label": "DATE",
+      "start": 1670,
+      "end": 1677,
+      "sentence": "The company mandated corporate employees to return to the office four days a week starting October—while offering voluntary exit packages—raising concerns over morale and retention.",
+      "context": "to return to the office four days a week starting October—while offering voluntary exit packages—raising co",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Starbucks",
+      "label": "ORG",
+      "start": 1761,
+      "end": 1770,
+      "sentence": "Starbucks tells corporate staff in US and Canada to work in office four days a week\nNegative Sentiment:\nCritics argue that the return-to-office edict won’t address deeper operational issues, suggesting the policy may be more cosmetic than strategic.",
+      "context": "kages—raising concerns over morale and retention.\nStarbucks tells corporate staff in US and Canada to work in",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "US",
+      "label": "GPE",
+      "start": 1796,
+      "end": 1798,
+      "sentence": "Starbucks tells corporate staff in US and Canada to work in office four days a week\nNegative Sentiment:\nCritics argue that the return-to-office edict won’t address deeper operational issues, suggesting the policy may be more cosmetic than strategic.",
+      "context": "and retention.\nStarbucks tells corporate staff in US and Canada to work in office four days a week\nNeg",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "Canada",
+      "label": "GPE",
+      "start": 1803,
+      "end": 1809,
+      "sentence": "Starbucks tells corporate staff in US and Canada to work in office four days a week\nNegative Sentiment:\nCritics argue that the return-to-office edict won’t address deeper operational issues, suggesting the policy may be more cosmetic than strategic.",
+      "context": "ention.\nStarbucks tells corporate staff in US and Canada to work in office four days a week\nNegative Senti",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "four days",
+      "label": "DATE",
+      "start": 1828,
+      "end": 1837,
+      "sentence": "Starbucks tells corporate staff in US and Canada to work in office four days a week\nNegative Sentiment:\nCritics argue that the return-to-office edict won’t address deeper operational issues, suggesting the policy may be more cosmetic than strategic.",
+      "context": "orporate staff in US and Canada to work in office four days a week\nNegative Sentiment:\nCritics argue that the",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Starbucks",
+      "label": "ORG",
+      "start": 2011,
+      "end": 2020,
+      "sentence": "Starbucks White-Collar Decision Won’t Fix a Broken Company\nNegative Sentiment:",
+      "context": "g the policy may be more cosmetic than strategic.\nStarbucks White-Collar Decision Won’t Fix a Broken Company",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Starbucks",
+      "label": "ORG",
+      "start": 2109,
+      "end": 2118,
+      "sentence": "Analysts warn that Starbucks’ China business—valued at up to $10 billion by private equity interest—may be overvalued, posing a risk if growth slows.",
+      "context": "en Company\nNegative Sentiment:\nAnalysts warn that Starbucks’ China business—valued at up to $10 billion by pr",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "China",
+      "label": "GPE",
+      "start": 2120,
+      "end": 2125,
+      "sentence": "Analysts warn that Starbucks’ China business—valued at up to $10 billion by private equity interest—may be overvalued, posing a risk if growth slows.",
+      "context": "Negative Sentiment:\nAnalysts warn that Starbucks’ China business—valued at up to $10 billion by private e",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "up to $10 billion",
+      "label": "MONEY",
+      "start": 2145,
+      "end": 2162,
+      "sentence": "Analysts warn that Starbucks’ China business—valued at up to $10 billion by private equity interest—may be overvalued, posing a risk if growth slows.",
+      "context": "sts warn that Starbucks’ China business—valued at up to $10 billion by private equity interest—may be overvalued, pos",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Starbucks",
+      "label": "ORG",
+      "start": 2240,
+      "end": 2249,
+      "sentence": "Starbucks China At $10 Billion May Be Overvalued\nPosted 1h ago\nAI Generated.",
+      "context": "may be overvalued, posing a risk if growth slows.\nStarbucks China At $10 Billion May Be Overvalued\nPosted 1h",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "China",
+      "label": "GPE",
+      "start": 2250,
+      "end": 2255,
+      "sentence": "Starbucks China At $10 Billion May Be Overvalued\nPosted 1h ago\nAI Generated.",
+      "context": "rvalued, posing a risk if growth slows.\nStarbucks China At $10 Billion May Be Overvalued\nPosted 1h ago\nAI",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "$10 Billion",
+      "label": "MONEY",
+      "start": 2259,
+      "end": 2270,
+      "sentence": "Starbucks China At $10 Billion May Be Overvalued\nPosted 1h ago\nAI Generated.",
+      "context": "posing a risk if growth slows.\nStarbucks China At $10 Billion May Be Overvalued\nPosted 1h ago\nAI Generated. May",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "1h ago",
+      "label": "DATE",
+      "start": 2296,
+      "end": 2302,
+      "sentence": "Starbucks China At $10 Billion May Be Overvalued\nPosted 1h ago\nAI Generated.",
+      "context": "cks China At $10 Billion May Be Overvalued\nPosted 1h ago\nAI Generated. May Contain Errors.",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    }
+  ],
+  "relationships": [
+    {
+      "type": "SVO",
+      "subject": "Investors",
+      "verb": "weigh",
+      "object": "factors",
+      "sentence": "Investors should weigh the following factors:",
+      "importance": 0
+    },
+    {
+      "type": "SVO",
+      "subject": "Starbucks",
+      "verb": "announced",
+      "object": "dividend",
+      "sentence": "Positive Sentiment:\nStarbucks announced a quarterly dividend of $0.61 per share, representing a $2.44 annual payout and a yield of 2.64%, enhancing its income profile for shareholders.",
+      "importance": 13
+    },
+    {
+      "type": "SVO",
+      "subject": "Corporation",
+      "verb": "Plans",
+      "object": "Dividend",
+      "sentence": "Starbucks Corporation Plans Quarterly Dividend of $0.61\nPositive Sentiment:\nThe stock ticked higher as investors applauded CEO Brian Niccol’s firm stance on returning employees to the office, viewing it as part of his broader turnaround strategy.\nStarbucks Stock Notches Up on Niccol’s Lengths to Return to Office\nPositive Sentiment:",
+      "importance": 13
+    },
+    {
+      "type": "SVO",
+      "subject": "investors",
+      "verb": "applauded",
+      "object": "stance",
+      "sentence": "Starbucks Corporation Plans Quarterly Dividend of $0.61\nPositive Sentiment:\nThe stock ticked higher as investors applauded CEO Brian Niccol’s firm stance on returning employees to the office, viewing it as part of his broader turnaround strategy.\nStarbucks Stock Notches Up on Niccol’s Lengths to Return to Office\nPositive Sentiment:",
+      "importance": 13
+    },
+    {
+      "type": "SVO",
+      "subject": "Starbucks",
+      "verb": "host",
+      "object": "call",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "importance": 14
+    },
+    {
+      "type": "SVO",
+      "subject": "Starbucks",
+      "verb": "Announces",
+      "object": "Call",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "importance": 14
+    },
+    {
+      "type": "SVO",
+      "subject": "Analysts",
+      "verb": "laid",
+      "object": "additions",
+      "sentence": "Analysts laid out three potential menu additions for Niccol to consider, highlighting product innovation ideas that could drive traffic if implemented.",
+      "importance": 3
+    },
+    {
+      "type": "SVO",
+      "subject": "that",
+      "verb": "drive",
+      "object": "traffic",
+      "sentence": "Analysts laid out three potential menu additions for Niccol to consider, highlighting product innovation ideas that could drive traffic if implemented.",
+      "importance": 3
+    },
+    {
+      "type": "SVO",
+      "subject": "shares",
+      "verb": "underperformed",
+      "object": "market",
+      "sentence": "SBUX shares underperformed the broader market, closing about 1% lower amid profit-taking and mixed sentiment.\nStarbucks (SBUX) Falls More Steeply Than Broader Market\nNegative Sentiment:",
+      "importance": 9
+    },
+    {
+      "type": "SVO",
+      "subject": "company",
+      "verb": "mandated",
+      "object": "employees",
+      "sentence": "The company mandated corporate employees to return to the office four days a week starting October—while offering voluntary exit packages—raising concerns over morale and retention.",
+      "importance": 4
+    },
+    {
+      "type": "SVO",
+      "subject": "Starbucks",
+      "verb": "tells",
+      "object": "staff",
+      "sentence": "Starbucks tells corporate staff in US and Canada to work in office four days a week\nNegative Sentiment:\nCritics argue that the return-to-office edict won’t address deeper operational issues, suggesting the policy may be more cosmetic than strategic.",
+      "importance": 5
+    },
+    {
+      "type": "SVO",
+      "subject": "edict",
+      "verb": "address",
+      "object": "issues",
+      "sentence": "Starbucks tells corporate staff in US and Canada to work in office four days a week\nNegative Sentiment:\nCritics argue that the return-to-office edict won’t address deeper operational issues, suggesting the policy may be more cosmetic than strategic.",
+      "importance": 5
+    },
+    {
+      "type": "SVO",
+      "subject": "Decision",
+      "verb": "Fix",
+      "object": "Company",
+      "sentence": "Starbucks White-Collar Decision Won’t Fix a Broken Company\nNegative Sentiment:",
+      "importance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "Corporation",
+      "entity2_type": "ORG",
+      "sentence": "Starbucks Corporation (NASDAQ:SBUX) stock is reacting to a mix of dividend announcements, executive initiatives, analyst commentary, and operational mandates.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "SBUX",
+      "entity2_type": "ORG",
+      "sentence": "Starbucks Corporation (NASDAQ:SBUX) stock is reacting to a mix of dividend announcements, executive initiatives, analyst commentary, and operational mandates.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Corporation",
+      "entity1_type": "ORG",
+      "entity2": "SBUX",
+      "entity2_type": "ORG",
+      "sentence": "Starbucks Corporation (NASDAQ:SBUX) stock is reacting to a mix of dividend announcements, executive initiatives, analyst commentary, and operational mandates.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "quarterly",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nStarbucks announced a quarterly dividend of $0.61 per share, representing a $2.44 annual payout and a yield of 2.64%, enhancing its income profile for shareholders.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "0.61",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nStarbucks announced a quarterly dividend of $0.61 per share, representing a $2.44 annual payout and a yield of 2.64%, enhancing its income profile for shareholders.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "2.44",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nStarbucks announced a quarterly dividend of $0.61 per share, representing a $2.44 annual payout and a yield of 2.64%, enhancing its income profile for shareholders.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "annual",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nStarbucks announced a quarterly dividend of $0.61 per share, representing a $2.44 annual payout and a yield of 2.64%, enhancing its income profile for shareholders.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "2.64",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nStarbucks announced a quarterly dividend of $0.61 per share, representing a $2.44 annual payout and a yield of 2.64%, enhancing its income profile for shareholders.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nStarbucks announced a quarterly dividend of $0.61 per share, representing a $2.44 annual payout and a yield of 2.64%, enhancing its income profile for shareholders.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "quarterly",
+      "entity1_type": "DATE",
+      "entity2": "0.61",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nStarbucks announced a quarterly dividend of $0.61 per share, representing a $2.44 annual payout and a yield of 2.64%, enhancing its income profile for shareholders.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "quarterly",
+      "entity1_type": "DATE",
+      "entity2": "2.44",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nStarbucks announced a quarterly dividend of $0.61 per share, representing a $2.44 annual payout and a yield of 2.64%, enhancing its income profile for shareholders.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "quarterly",
+      "entity1_type": "DATE",
+      "entity2": "annual",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nStarbucks announced a quarterly dividend of $0.61 per share, representing a $2.44 annual payout and a yield of 2.64%, enhancing its income profile for shareholders.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "quarterly",
+      "entity1_type": "DATE",
+      "entity2": "2.64",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nStarbucks announced a quarterly dividend of $0.61 per share, representing a $2.44 annual payout and a yield of 2.64%, enhancing its income profile for shareholders.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "quarterly",
+      "entity1_type": "DATE",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nStarbucks announced a quarterly dividend of $0.61 per share, representing a $2.44 annual payout and a yield of 2.64%, enhancing its income profile for shareholders.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "0.61",
+      "entity1_type": "MONEY",
+      "entity2": "2.44",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nStarbucks announced a quarterly dividend of $0.61 per share, representing a $2.44 annual payout and a yield of 2.64%, enhancing its income profile for shareholders.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "0.61",
+      "entity1_type": "MONEY",
+      "entity2": "annual",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nStarbucks announced a quarterly dividend of $0.61 per share, representing a $2.44 annual payout and a yield of 2.64%, enhancing its income profile for shareholders.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "0.61",
+      "entity1_type": "MONEY",
+      "entity2": "2.64",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nStarbucks announced a quarterly dividend of $0.61 per share, representing a $2.44 annual payout and a yield of 2.64%, enhancing its income profile for shareholders.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "0.61",
+      "entity1_type": "MONEY",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nStarbucks announced a quarterly dividend of $0.61 per share, representing a $2.44 annual payout and a yield of 2.64%, enhancing its income profile for shareholders.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2.44",
+      "entity1_type": "MONEY",
+      "entity2": "annual",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nStarbucks announced a quarterly dividend of $0.61 per share, representing a $2.44 annual payout and a yield of 2.64%, enhancing its income profile for shareholders.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2.44",
+      "entity1_type": "MONEY",
+      "entity2": "2.64",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nStarbucks announced a quarterly dividend of $0.61 per share, representing a $2.44 annual payout and a yield of 2.64%, enhancing its income profile for shareholders.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2.44",
+      "entity1_type": "MONEY",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nStarbucks announced a quarterly dividend of $0.61 per share, representing a $2.44 annual payout and a yield of 2.64%, enhancing its income profile for shareholders.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "annual",
+      "entity1_type": "DATE",
+      "entity2": "2.64",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nStarbucks announced a quarterly dividend of $0.61 per share, representing a $2.44 annual payout and a yield of 2.64%, enhancing its income profile for shareholders.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "annual",
+      "entity1_type": "DATE",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nStarbucks announced a quarterly dividend of $0.61 per share, representing a $2.44 annual payout and a yield of 2.64%, enhancing its income profile for shareholders.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2.64",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Positive Sentiment:\nStarbucks announced a quarterly dividend of $0.61 per share, representing a $2.44 annual payout and a yield of 2.64%, enhancing its income profile for shareholders.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "Corporation",
+      "entity2_type": "ORG",
+      "sentence": "Starbucks Corporation Plans Quarterly Dividend of $0.61\nPositive Sentiment:\nThe stock ticked higher as investors applauded CEO Brian Niccol’s firm stance on returning employees to the office, viewing it as part of his broader turnaround strategy.\nStarbucks Stock Notches Up on Niccol’s Lengths to Return to Office\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "Quarterly",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks Corporation Plans Quarterly Dividend of $0.61\nPositive Sentiment:\nThe stock ticked higher as investors applauded CEO Brian Niccol’s firm stance on returning employees to the office, viewing it as part of his broader turnaround strategy.\nStarbucks Stock Notches Up on Niccol’s Lengths to Return to Office\nPositive Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "0.61",
+      "entity2_type": "MONEY",
+      "sentence": "Starbucks Corporation Plans Quarterly Dividend of $0.61\nPositive Sentiment:\nThe stock ticked higher as investors applauded CEO Brian Niccol’s firm stance on returning employees to the office, viewing it as part of his broader turnaround strategy.\nStarbucks Stock Notches Up on Niccol’s Lengths to Return to Office\nPositive Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "Brian",
+      "entity2_type": "PERSON",
+      "sentence": "Starbucks Corporation Plans Quarterly Dividend of $0.61\nPositive Sentiment:\nThe stock ticked higher as investors applauded CEO Brian Niccol’s firm stance on returning employees to the office, viewing it as part of his broader turnaround strategy.\nStarbucks Stock Notches Up on Niccol’s Lengths to Return to Office\nPositive Sentiment:",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "Niccol",
+      "entity2_type": "PERSON",
+      "sentence": "Starbucks Corporation Plans Quarterly Dividend of $0.61\nPositive Sentiment:\nThe stock ticked higher as investors applauded CEO Brian Niccol’s firm stance on returning employees to the office, viewing it as part of his broader turnaround strategy.\nStarbucks Stock Notches Up on Niccol’s Lengths to Return to Office\nPositive Sentiment:",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "Starbucks",
+      "entity2_type": "ORG",
+      "sentence": "Starbucks Corporation Plans Quarterly Dividend of $0.61\nPositive Sentiment:\nThe stock ticked higher as investors applauded CEO Brian Niccol’s firm stance on returning employees to the office, viewing it as part of his broader turnaround strategy.\nStarbucks Stock Notches Up on Niccol’s Lengths to Return to Office\nPositive Sentiment:",
+      "distance": 44
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "Niccol",
+      "entity2_type": "PERSON",
+      "sentence": "Starbucks Corporation Plans Quarterly Dividend of $0.61\nPositive Sentiment:\nThe stock ticked higher as investors applauded CEO Brian Niccol’s firm stance on returning employees to the office, viewing it as part of his broader turnaround strategy.\nStarbucks Stock Notches Up on Niccol’s Lengths to Return to Office\nPositive Sentiment:",
+      "distance": 49
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Corporation",
+      "entity1_type": "ORG",
+      "entity2": "Quarterly",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks Corporation Plans Quarterly Dividend of $0.61\nPositive Sentiment:\nThe stock ticked higher as investors applauded CEO Brian Niccol’s firm stance on returning employees to the office, viewing it as part of his broader turnaround strategy.\nStarbucks Stock Notches Up on Niccol’s Lengths to Return to Office\nPositive Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Corporation",
+      "entity1_type": "ORG",
+      "entity2": "0.61",
+      "entity2_type": "MONEY",
+      "sentence": "Starbucks Corporation Plans Quarterly Dividend of $0.61\nPositive Sentiment:\nThe stock ticked higher as investors applauded CEO Brian Niccol’s firm stance on returning employees to the office, viewing it as part of his broader turnaround strategy.\nStarbucks Stock Notches Up on Niccol’s Lengths to Return to Office\nPositive Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Corporation",
+      "entity1_type": "ORG",
+      "entity2": "Brian",
+      "entity2_type": "PERSON",
+      "sentence": "Starbucks Corporation Plans Quarterly Dividend of $0.61\nPositive Sentiment:\nThe stock ticked higher as investors applauded CEO Brian Niccol’s firm stance on returning employees to the office, viewing it as part of his broader turnaround strategy.\nStarbucks Stock Notches Up on Niccol’s Lengths to Return to Office\nPositive Sentiment:",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Corporation",
+      "entity1_type": "ORG",
+      "entity2": "Niccol",
+      "entity2_type": "PERSON",
+      "sentence": "Starbucks Corporation Plans Quarterly Dividend of $0.61\nPositive Sentiment:\nThe stock ticked higher as investors applauded CEO Brian Niccol’s firm stance on returning employees to the office, viewing it as part of his broader turnaround strategy.\nStarbucks Stock Notches Up on Niccol’s Lengths to Return to Office\nPositive Sentiment:",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Corporation",
+      "entity1_type": "ORG",
+      "entity2": "Starbucks",
+      "entity2_type": "ORG",
+      "sentence": "Starbucks Corporation Plans Quarterly Dividend of $0.61\nPositive Sentiment:\nThe stock ticked higher as investors applauded CEO Brian Niccol’s firm stance on returning employees to the office, viewing it as part of his broader turnaround strategy.\nStarbucks Stock Notches Up on Niccol’s Lengths to Return to Office\nPositive Sentiment:",
+      "distance": 43
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Corporation",
+      "entity1_type": "ORG",
+      "entity2": "Niccol",
+      "entity2_type": "PERSON",
+      "sentence": "Starbucks Corporation Plans Quarterly Dividend of $0.61\nPositive Sentiment:\nThe stock ticked higher as investors applauded CEO Brian Niccol’s firm stance on returning employees to the office, viewing it as part of his broader turnaround strategy.\nStarbucks Stock Notches Up on Niccol’s Lengths to Return to Office\nPositive Sentiment:",
+      "distance": 48
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Quarterly",
+      "entity1_type": "DATE",
+      "entity2": "0.61",
+      "entity2_type": "MONEY",
+      "sentence": "Starbucks Corporation Plans Quarterly Dividend of $0.61\nPositive Sentiment:\nThe stock ticked higher as investors applauded CEO Brian Niccol’s firm stance on returning employees to the office, viewing it as part of his broader turnaround strategy.\nStarbucks Stock Notches Up on Niccol’s Lengths to Return to Office\nPositive Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Quarterly",
+      "entity1_type": "DATE",
+      "entity2": "Brian",
+      "entity2_type": "PERSON",
+      "sentence": "Starbucks Corporation Plans Quarterly Dividend of $0.61\nPositive Sentiment:\nThe stock ticked higher as investors applauded CEO Brian Niccol’s firm stance on returning employees to the office, viewing it as part of his broader turnaround strategy.\nStarbucks Stock Notches Up on Niccol’s Lengths to Return to Office\nPositive Sentiment:",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Quarterly",
+      "entity1_type": "DATE",
+      "entity2": "Niccol",
+      "entity2_type": "PERSON",
+      "sentence": "Starbucks Corporation Plans Quarterly Dividend of $0.61\nPositive Sentiment:\nThe stock ticked higher as investors applauded CEO Brian Niccol’s firm stance on returning employees to the office, viewing it as part of his broader turnaround strategy.\nStarbucks Stock Notches Up on Niccol’s Lengths to Return to Office\nPositive Sentiment:",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Quarterly",
+      "entity1_type": "DATE",
+      "entity2": "Starbucks",
+      "entity2_type": "ORG",
+      "sentence": "Starbucks Corporation Plans Quarterly Dividend of $0.61\nPositive Sentiment:\nThe stock ticked higher as investors applauded CEO Brian Niccol’s firm stance on returning employees to the office, viewing it as part of his broader turnaround strategy.\nStarbucks Stock Notches Up on Niccol’s Lengths to Return to Office\nPositive Sentiment:",
+      "distance": 41
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Quarterly",
+      "entity1_type": "DATE",
+      "entity2": "Niccol",
+      "entity2_type": "PERSON",
+      "sentence": "Starbucks Corporation Plans Quarterly Dividend of $0.61\nPositive Sentiment:\nThe stock ticked higher as investors applauded CEO Brian Niccol’s firm stance on returning employees to the office, viewing it as part of his broader turnaround strategy.\nStarbucks Stock Notches Up on Niccol’s Lengths to Return to Office\nPositive Sentiment:",
+      "distance": 46
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "0.61",
+      "entity1_type": "MONEY",
+      "entity2": "Brian",
+      "entity2_type": "PERSON",
+      "sentence": "Starbucks Corporation Plans Quarterly Dividend of $0.61\nPositive Sentiment:\nThe stock ticked higher as investors applauded CEO Brian Niccol’s firm stance on returning employees to the office, viewing it as part of his broader turnaround strategy.\nStarbucks Stock Notches Up on Niccol’s Lengths to Return to Office\nPositive Sentiment:",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "0.61",
+      "entity1_type": "MONEY",
+      "entity2": "Niccol",
+      "entity2_type": "PERSON",
+      "sentence": "Starbucks Corporation Plans Quarterly Dividend of $0.61\nPositive Sentiment:\nThe stock ticked higher as investors applauded CEO Brian Niccol’s firm stance on returning employees to the office, viewing it as part of his broader turnaround strategy.\nStarbucks Stock Notches Up on Niccol’s Lengths to Return to Office\nPositive Sentiment:",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "0.61",
+      "entity1_type": "MONEY",
+      "entity2": "Starbucks",
+      "entity2_type": "ORG",
+      "sentence": "Starbucks Corporation Plans Quarterly Dividend of $0.61\nPositive Sentiment:\nThe stock ticked higher as investors applauded CEO Brian Niccol’s firm stance on returning employees to the office, viewing it as part of his broader turnaround strategy.\nStarbucks Stock Notches Up on Niccol’s Lengths to Return to Office\nPositive Sentiment:",
+      "distance": 37
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "0.61",
+      "entity1_type": "MONEY",
+      "entity2": "Niccol",
+      "entity2_type": "PERSON",
+      "sentence": "Starbucks Corporation Plans Quarterly Dividend of $0.61\nPositive Sentiment:\nThe stock ticked higher as investors applauded CEO Brian Niccol’s firm stance on returning employees to the office, viewing it as part of his broader turnaround strategy.\nStarbucks Stock Notches Up on Niccol’s Lengths to Return to Office\nPositive Sentiment:",
+      "distance": 42
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brian",
+      "entity1_type": "PERSON",
+      "entity2": "Niccol",
+      "entity2_type": "PERSON",
+      "sentence": "Starbucks Corporation Plans Quarterly Dividend of $0.61\nPositive Sentiment:\nThe stock ticked higher as investors applauded CEO Brian Niccol’s firm stance on returning employees to the office, viewing it as part of his broader turnaround strategy.\nStarbucks Stock Notches Up on Niccol’s Lengths to Return to Office\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brian",
+      "entity1_type": "PERSON",
+      "entity2": "Starbucks",
+      "entity2_type": "ORG",
+      "sentence": "Starbucks Corporation Plans Quarterly Dividend of $0.61\nPositive Sentiment:\nThe stock ticked higher as investors applauded CEO Brian Niccol’s firm stance on returning employees to the office, viewing it as part of his broader turnaround strategy.\nStarbucks Stock Notches Up on Niccol’s Lengths to Return to Office\nPositive Sentiment:",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brian",
+      "entity1_type": "PERSON",
+      "entity2": "Niccol",
+      "entity2_type": "PERSON",
+      "sentence": "Starbucks Corporation Plans Quarterly Dividend of $0.61\nPositive Sentiment:\nThe stock ticked higher as investors applauded CEO Brian Niccol’s firm stance on returning employees to the office, viewing it as part of his broader turnaround strategy.\nStarbucks Stock Notches Up on Niccol’s Lengths to Return to Office\nPositive Sentiment:",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Niccol",
+      "entity1_type": "PERSON",
+      "entity2": "Starbucks",
+      "entity2_type": "ORG",
+      "sentence": "Starbucks Corporation Plans Quarterly Dividend of $0.61\nPositive Sentiment:\nThe stock ticked higher as investors applauded CEO Brian Niccol’s firm stance on returning employees to the office, viewing it as part of his broader turnaround strategy.\nStarbucks Stock Notches Up on Niccol’s Lengths to Return to Office\nPositive Sentiment:",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Niccol",
+      "entity1_type": "PERSON",
+      "entity2": "Niccol",
+      "entity2_type": "PERSON",
+      "sentence": "Starbucks Corporation Plans Quarterly Dividend of $0.61\nPositive Sentiment:\nThe stock ticked higher as investors applauded CEO Brian Niccol’s firm stance on returning employees to the office, viewing it as part of his broader turnaround strategy.\nStarbucks Stock Notches Up on Niccol’s Lengths to Return to Office\nPositive Sentiment:",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "Niccol",
+      "entity2_type": "PERSON",
+      "sentence": "Starbucks Corporation Plans Quarterly Dividend of $0.61\nPositive Sentiment:\nThe stock ticked higher as investors applauded CEO Brian Niccol’s firm stance on returning employees to the office, viewing it as part of his broader turnaround strategy.\nStarbucks Stock Notches Up on Niccol’s Lengths to Return to Office\nPositive Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mad",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "Money",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "“Mad Money” host Jim Cramer weighed in, calling this period the right time to buy Starbucks shares, reflecting bullish analyst views.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mad",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "Jim",
+      "entity2_type": "PERSON",
+      "sentence": "“Mad Money” host Jim Cramer weighed in, calling this period the right time to buy Starbucks shares, reflecting bullish analyst views.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mad",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "Cramer",
+      "entity2_type": "PERSON",
+      "sentence": "“Mad Money” host Jim Cramer weighed in, calling this period the right time to buy Starbucks shares, reflecting bullish analyst views.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mad",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "Starbucks",
+      "entity2_type": "ORG",
+      "sentence": "“Mad Money” host Jim Cramer weighed in, calling this period the right time to buy Starbucks shares, reflecting bullish analyst views.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Money",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "Jim",
+      "entity2_type": "PERSON",
+      "sentence": "“Mad Money” host Jim Cramer weighed in, calling this period the right time to buy Starbucks shares, reflecting bullish analyst views.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Money",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "Cramer",
+      "entity2_type": "PERSON",
+      "sentence": "“Mad Money” host Jim Cramer weighed in, calling this period the right time to buy Starbucks shares, reflecting bullish analyst views.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Money",
+      "entity1_type": "WORK_OF_ART",
+      "entity2": "Starbucks",
+      "entity2_type": "ORG",
+      "sentence": "“Mad Money” host Jim Cramer weighed in, calling this period the right time to buy Starbucks shares, reflecting bullish analyst views.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jim",
+      "entity1_type": "PERSON",
+      "entity2": "Cramer",
+      "entity2_type": "PERSON",
+      "sentence": "“Mad Money” host Jim Cramer weighed in, calling this period the right time to buy Starbucks shares, reflecting bullish analyst views.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jim",
+      "entity1_type": "PERSON",
+      "entity2": "Starbucks",
+      "entity2_type": "ORG",
+      "sentence": "“Mad Money” host Jim Cramer weighed in, calling this period the right time to buy Starbucks shares, reflecting bullish analyst views.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cramer",
+      "entity1_type": "PERSON",
+      "entity2": "Starbucks",
+      "entity2_type": "ORG",
+      "sentence": "“Mad Money” host Jim Cramer weighed in, calling this period the right time to buy Starbucks shares, reflecting bullish analyst views.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jim",
+      "entity1_type": "PERSON",
+      "entity2": "Cramer",
+      "entity2_type": "PERSON",
+      "sentence": "Jim Cramer Says “This is the Right Time to Buy Starbucks”",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jim",
+      "entity1_type": "PERSON",
+      "entity2": "Starbucks",
+      "entity2_type": "ORG",
+      "sentence": "Jim Cramer Says “This is the Right Time to Buy Starbucks”",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cramer",
+      "entity1_type": "PERSON",
+      "entity2": "Starbucks",
+      "entity2_type": "ORG",
+      "sentence": "Jim Cramer Says “This is the Right Time to Buy Starbucks”",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "fiscal",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "July",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "29",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "Starbucks",
+      "entity2_type": "ORG",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "Fiscal",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "Year",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "fiscal",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "July",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "29",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "Starbucks",
+      "entity2_type": "ORG",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "Fiscal",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "Year",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "fiscal",
+      "entity1_type": "DATE",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "fiscal",
+      "entity1_type": "DATE",
+      "entity2": "July",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "fiscal",
+      "entity1_type": "DATE",
+      "entity2": "29",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "fiscal",
+      "entity1_type": "DATE",
+      "entity2": "Starbucks",
+      "entity2_type": "ORG",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "fiscal",
+      "entity1_type": "DATE",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "fiscal",
+      "entity1_type": "DATE",
+      "entity2": "Fiscal",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "fiscal",
+      "entity1_type": "DATE",
+      "entity2": "Year",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "fiscal",
+      "entity1_type": "DATE",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "July",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "29",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "Starbucks",
+      "entity2_type": "ORG",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "Fiscal",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "Year",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "July",
+      "entity1_type": "DATE",
+      "entity2": "29",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "July",
+      "entity1_type": "DATE",
+      "entity2": "Starbucks",
+      "entity2_type": "ORG",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "July",
+      "entity1_type": "DATE",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "July",
+      "entity1_type": "DATE",
+      "entity2": "Fiscal",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "July",
+      "entity1_type": "DATE",
+      "entity2": "Year",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "July",
+      "entity1_type": "DATE",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "29",
+      "entity1_type": "DATE",
+      "entity2": "Starbucks",
+      "entity2_type": "ORG",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "29",
+      "entity1_type": "DATE",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "29",
+      "entity1_type": "DATE",
+      "entity2": "Fiscal",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "29",
+      "entity1_type": "DATE",
+      "entity2": "Year",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "29",
+      "entity1_type": "DATE",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "Fiscal",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "Year",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "Fiscal",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "Year",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fiscal",
+      "entity1_type": "DATE",
+      "entity2": "Year",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fiscal",
+      "entity1_type": "DATE",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Year",
+      "entity1_type": "DATE",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "three",
+      "entity1_type": "CARDINAL",
+      "entity2": "Niccol",
+      "entity2_type": "ORG",
+      "sentence": "Analysts laid out three potential menu additions for Niccol to consider, highlighting product innovation ideas that could drive traffic if implemented.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3",
+      "entity1_type": "CARDINAL",
+      "entity2": "Starbucks",
+      "entity2_type": "ORG",
+      "sentence": "3 Menu Additions the New Starbucks CEO Should Absolutely Consider\nNegative Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SBUX",
+      "entity1_type": "ORG",
+      "entity2": "about",
+      "entity2_type": "PERCENT",
+      "sentence": "SBUX shares underperformed the broader market, closing about 1% lower amid profit-taking and mixed sentiment.\nStarbucks (SBUX) Falls More Steeply Than Broader Market\nNegative Sentiment:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SBUX",
+      "entity1_type": "ORG",
+      "entity2": "1",
+      "entity2_type": "PERCENT",
+      "sentence": "SBUX shares underperformed the broader market, closing about 1% lower amid profit-taking and mixed sentiment.\nStarbucks (SBUX) Falls More Steeply Than Broader Market\nNegative Sentiment:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SBUX",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "SBUX shares underperformed the broader market, closing about 1% lower amid profit-taking and mixed sentiment.\nStarbucks (SBUX) Falls More Steeply Than Broader Market\nNegative Sentiment:",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SBUX",
+      "entity1_type": "ORG",
+      "entity2": "Starbucks",
+      "entity2_type": "ORG",
+      "sentence": "SBUX shares underperformed the broader market, closing about 1% lower amid profit-taking and mixed sentiment.\nStarbucks (SBUX) Falls More Steeply Than Broader Market\nNegative Sentiment:",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SBUX",
+      "entity1_type": "ORG",
+      "entity2": "SBUX",
+      "entity2_type": "ORG",
+      "sentence": "SBUX shares underperformed the broader market, closing about 1% lower amid profit-taking and mixed sentiment.\nStarbucks (SBUX) Falls More Steeply Than Broader Market\nNegative Sentiment:",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "about",
+      "entity1_type": "PERCENT",
+      "entity2": "1",
+      "entity2_type": "PERCENT",
+      "sentence": "SBUX shares underperformed the broader market, closing about 1% lower amid profit-taking and mixed sentiment.\nStarbucks (SBUX) Falls More Steeply Than Broader Market\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "about",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "SBUX shares underperformed the broader market, closing about 1% lower amid profit-taking and mixed sentiment.\nStarbucks (SBUX) Falls More Steeply Than Broader Market\nNegative Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "about",
+      "entity1_type": "PERCENT",
+      "entity2": "Starbucks",
+      "entity2_type": "ORG",
+      "sentence": "SBUX shares underperformed the broader market, closing about 1% lower amid profit-taking and mixed sentiment.\nStarbucks (SBUX) Falls More Steeply Than Broader Market\nNegative Sentiment:",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "about",
+      "entity1_type": "PERCENT",
+      "entity2": "SBUX",
+      "entity2_type": "ORG",
+      "sentence": "SBUX shares underperformed the broader market, closing about 1% lower amid profit-taking and mixed sentiment.\nStarbucks (SBUX) Falls More Steeply Than Broader Market\nNegative Sentiment:",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "SBUX shares underperformed the broader market, closing about 1% lower amid profit-taking and mixed sentiment.\nStarbucks (SBUX) Falls More Steeply Than Broader Market\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "PERCENT",
+      "entity2": "Starbucks",
+      "entity2_type": "ORG",
+      "sentence": "SBUX shares underperformed the broader market, closing about 1% lower amid profit-taking and mixed sentiment.\nStarbucks (SBUX) Falls More Steeply Than Broader Market\nNegative Sentiment:",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "PERCENT",
+      "entity2": "SBUX",
+      "entity2_type": "ORG",
+      "sentence": "SBUX shares underperformed the broader market, closing about 1% lower amid profit-taking and mixed sentiment.\nStarbucks (SBUX) Falls More Steeply Than Broader Market\nNegative Sentiment:",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "Starbucks",
+      "entity2_type": "ORG",
+      "sentence": "SBUX shares underperformed the broader market, closing about 1% lower amid profit-taking and mixed sentiment.\nStarbucks (SBUX) Falls More Steeply Than Broader Market\nNegative Sentiment:",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "SBUX",
+      "entity2_type": "ORG",
+      "sentence": "SBUX shares underperformed the broader market, closing about 1% lower amid profit-taking and mixed sentiment.\nStarbucks (SBUX) Falls More Steeply Than Broader Market\nNegative Sentiment:",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "SBUX",
+      "entity2_type": "ORG",
+      "sentence": "SBUX shares underperformed the broader market, closing about 1% lower amid profit-taking and mixed sentiment.\nStarbucks (SBUX) Falls More Steeply Than Broader Market\nNegative Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "four",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "The company mandated corporate employees to return to the office four days a week starting October—while offering voluntary exit packages—raising concerns over morale and retention.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "four",
+      "entity1_type": "DATE",
+      "entity2": "October",
+      "entity2_type": "DATE",
+      "sentence": "The company mandated corporate employees to return to the office four days a week starting October—while offering voluntary exit packages—raising concerns over morale and retention.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "October",
+      "entity2_type": "DATE",
+      "sentence": "The company mandated corporate employees to return to the office four days a week starting October—while offering voluntary exit packages—raising concerns over morale and retention.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "US",
+      "entity2_type": "GPE",
+      "sentence": "Starbucks tells corporate staff in US and Canada to work in office four days a week\nNegative Sentiment:\nCritics argue that the return-to-office edict won’t address deeper operational issues, suggesting the policy may be more cosmetic than strategic.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "Canada",
+      "entity2_type": "GPE",
+      "sentence": "Starbucks tells corporate staff in US and Canada to work in office four days a week\nNegative Sentiment:\nCritics argue that the return-to-office edict won’t address deeper operational issues, suggesting the policy may be more cosmetic than strategic.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "four",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks tells corporate staff in US and Canada to work in office four days a week\nNegative Sentiment:\nCritics argue that the return-to-office edict won’t address deeper operational issues, suggesting the policy may be more cosmetic than strategic.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks tells corporate staff in US and Canada to work in office four days a week\nNegative Sentiment:\nCritics argue that the return-to-office edict won’t address deeper operational issues, suggesting the policy may be more cosmetic than strategic.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "US",
+      "entity1_type": "GPE",
+      "entity2": "Canada",
+      "entity2_type": "GPE",
+      "sentence": "Starbucks tells corporate staff in US and Canada to work in office four days a week\nNegative Sentiment:\nCritics argue that the return-to-office edict won’t address deeper operational issues, suggesting the policy may be more cosmetic than strategic.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "US",
+      "entity1_type": "GPE",
+      "entity2": "four",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks tells corporate staff in US and Canada to work in office four days a week\nNegative Sentiment:\nCritics argue that the return-to-office edict won’t address deeper operational issues, suggesting the policy may be more cosmetic than strategic.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "US",
+      "entity1_type": "GPE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks tells corporate staff in US and Canada to work in office four days a week\nNegative Sentiment:\nCritics argue that the return-to-office edict won’t address deeper operational issues, suggesting the policy may be more cosmetic than strategic.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Canada",
+      "entity1_type": "GPE",
+      "entity2": "four",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks tells corporate staff in US and Canada to work in office four days a week\nNegative Sentiment:\nCritics argue that the return-to-office edict won’t address deeper operational issues, suggesting the policy may be more cosmetic than strategic.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Canada",
+      "entity1_type": "GPE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks tells corporate staff in US and Canada to work in office four days a week\nNegative Sentiment:\nCritics argue that the return-to-office edict won’t address deeper operational issues, suggesting the policy may be more cosmetic than strategic.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "four",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks tells corporate staff in US and Canada to work in office four days a week\nNegative Sentiment:\nCritics argue that the return-to-office edict won’t address deeper operational issues, suggesting the policy may be more cosmetic than strategic.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "China",
+      "entity2_type": "GPE",
+      "sentence": "Analysts warn that Starbucks’ China business—valued at up to $10 billion by private equity interest—may be overvalued, posing a risk if growth slows.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "up",
+      "entity2_type": "MONEY",
+      "sentence": "Analysts warn that Starbucks’ China business—valued at up to $10 billion by private equity interest—may be overvalued, posing a risk if growth slows.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "to",
+      "entity2_type": "MONEY",
+      "sentence": "Analysts warn that Starbucks’ China business—valued at up to $10 billion by private equity interest—may be overvalued, posing a risk if growth slows.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Analysts warn that Starbucks’ China business—valued at up to $10 billion by private equity interest—may be overvalued, posing a risk if growth slows.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "10",
+      "entity2_type": "MONEY",
+      "sentence": "Analysts warn that Starbucks’ China business—valued at up to $10 billion by private equity interest—may be overvalued, posing a risk if growth slows.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "billion",
+      "entity2_type": "MONEY",
+      "sentence": "Analysts warn that Starbucks’ China business—valued at up to $10 billion by private equity interest—may be overvalued, posing a risk if growth slows.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "China",
+      "entity1_type": "GPE",
+      "entity2": "up",
+      "entity2_type": "MONEY",
+      "sentence": "Analysts warn that Starbucks’ China business—valued at up to $10 billion by private equity interest—may be overvalued, posing a risk if growth slows.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "China",
+      "entity1_type": "GPE",
+      "entity2": "to",
+      "entity2_type": "MONEY",
+      "sentence": "Analysts warn that Starbucks’ China business—valued at up to $10 billion by private equity interest—may be overvalued, posing a risk if growth slows.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "China",
+      "entity1_type": "GPE",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Analysts warn that Starbucks’ China business—valued at up to $10 billion by private equity interest—may be overvalued, posing a risk if growth slows.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "China",
+      "entity1_type": "GPE",
+      "entity2": "10",
+      "entity2_type": "MONEY",
+      "sentence": "Analysts warn that Starbucks’ China business—valued at up to $10 billion by private equity interest—may be overvalued, posing a risk if growth slows.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "China",
+      "entity1_type": "GPE",
+      "entity2": "billion",
+      "entity2_type": "MONEY",
+      "sentence": "Analysts warn that Starbucks’ China business—valued at up to $10 billion by private equity interest—may be overvalued, posing a risk if growth slows.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "up",
+      "entity1_type": "MONEY",
+      "entity2": "to",
+      "entity2_type": "MONEY",
+      "sentence": "Analysts warn that Starbucks’ China business—valued at up to $10 billion by private equity interest—may be overvalued, posing a risk if growth slows.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "up",
+      "entity1_type": "MONEY",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Analysts warn that Starbucks’ China business—valued at up to $10 billion by private equity interest—may be overvalued, posing a risk if growth slows.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "up",
+      "entity1_type": "MONEY",
+      "entity2": "10",
+      "entity2_type": "MONEY",
+      "sentence": "Analysts warn that Starbucks’ China business—valued at up to $10 billion by private equity interest—may be overvalued, posing a risk if growth slows.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "up",
+      "entity1_type": "MONEY",
+      "entity2": "billion",
+      "entity2_type": "MONEY",
+      "sentence": "Analysts warn that Starbucks’ China business—valued at up to $10 billion by private equity interest—may be overvalued, posing a risk if growth slows.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "to",
+      "entity1_type": "MONEY",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Analysts warn that Starbucks’ China business—valued at up to $10 billion by private equity interest—may be overvalued, posing a risk if growth slows.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "to",
+      "entity1_type": "MONEY",
+      "entity2": "10",
+      "entity2_type": "MONEY",
+      "sentence": "Analysts warn that Starbucks’ China business—valued at up to $10 billion by private equity interest—may be overvalued, posing a risk if growth slows.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "to",
+      "entity1_type": "MONEY",
+      "entity2": "billion",
+      "entity2_type": "MONEY",
+      "sentence": "Analysts warn that Starbucks’ China business—valued at up to $10 billion by private equity interest—may be overvalued, posing a risk if growth slows.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "10",
+      "entity2_type": "MONEY",
+      "sentence": "Analysts warn that Starbucks’ China business—valued at up to $10 billion by private equity interest—may be overvalued, posing a risk if growth slows.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "billion",
+      "entity2_type": "MONEY",
+      "sentence": "Analysts warn that Starbucks’ China business—valued at up to $10 billion by private equity interest—may be overvalued, posing a risk if growth slows.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "10",
+      "entity1_type": "MONEY",
+      "entity2": "billion",
+      "entity2_type": "MONEY",
+      "sentence": "Analysts warn that Starbucks’ China business—valued at up to $10 billion by private equity interest—may be overvalued, posing a risk if growth slows.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "China",
+      "entity2_type": "GPE",
+      "sentence": "Starbucks China At $10 Billion May Be Overvalued\nPosted 1h ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Starbucks China At $10 Billion May Be Overvalued\nPosted 1h ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "10",
+      "entity2_type": "MONEY",
+      "sentence": "Starbucks China At $10 Billion May Be Overvalued\nPosted 1h ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "Billion",
+      "entity2_type": "MONEY",
+      "sentence": "Starbucks China At $10 Billion May Be Overvalued\nPosted 1h ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "1h",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks China At $10 Billion May Be Overvalued\nPosted 1h ago\nAI Generated.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Starbucks",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks China At $10 Billion May Be Overvalued\nPosted 1h ago\nAI Generated.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "China",
+      "entity1_type": "GPE",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Starbucks China At $10 Billion May Be Overvalued\nPosted 1h ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "China",
+      "entity1_type": "GPE",
+      "entity2": "10",
+      "entity2_type": "MONEY",
+      "sentence": "Starbucks China At $10 Billion May Be Overvalued\nPosted 1h ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "China",
+      "entity1_type": "GPE",
+      "entity2": "Billion",
+      "entity2_type": "MONEY",
+      "sentence": "Starbucks China At $10 Billion May Be Overvalued\nPosted 1h ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "China",
+      "entity1_type": "GPE",
+      "entity2": "1h",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks China At $10 Billion May Be Overvalued\nPosted 1h ago\nAI Generated.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "China",
+      "entity1_type": "GPE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks China At $10 Billion May Be Overvalued\nPosted 1h ago\nAI Generated.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "10",
+      "entity2_type": "MONEY",
+      "sentence": "Starbucks China At $10 Billion May Be Overvalued\nPosted 1h ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "Billion",
+      "entity2_type": "MONEY",
+      "sentence": "Starbucks China At $10 Billion May Be Overvalued\nPosted 1h ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "1h",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks China At $10 Billion May Be Overvalued\nPosted 1h ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks China At $10 Billion May Be Overvalued\nPosted 1h ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "10",
+      "entity1_type": "MONEY",
+      "entity2": "Billion",
+      "entity2_type": "MONEY",
+      "sentence": "Starbucks China At $10 Billion May Be Overvalued\nPosted 1h ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "10",
+      "entity1_type": "MONEY",
+      "entity2": "1h",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks China At $10 Billion May Be Overvalued\nPosted 1h ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "10",
+      "entity1_type": "MONEY",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks China At $10 Billion May Be Overvalued\nPosted 1h ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Billion",
+      "entity1_type": "MONEY",
+      "entity2": "1h",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks China At $10 Billion May Be Overvalued\nPosted 1h ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Billion",
+      "entity1_type": "MONEY",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks China At $10 Billion May Be Overvalued\nPosted 1h ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1h",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Starbucks China At $10 Billion May Be Overvalued\nPosted 1h ago\nAI Generated.",
+      "distance": 1
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "a mix",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "dividend announcements",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "executive initiatives",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "analyst commentary",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "operational mandates",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the following factors",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a quarterly dividend",
+      "type": "noun_chunk",
+      "category": "temporal"
+    },
+    {
+      "text": "a $2.44 annual payout",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a yield",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its income profile",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Starbucks Corporation",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Quarterly Dividend",
+      "type": "noun_chunk",
+      "category": "temporal"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "The stock",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "CEO Brian Niccol’s firm stance",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the office",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "his broader turnaround strategy",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Starbucks Stock",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Niccol’s Lengths",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Mad Money” host Jim Cramer",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "this period",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the right time",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Starbucks shares",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "bullish analyst views",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Jim Cramer",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the Right Time",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its Q3 fiscal 2025 earnings conference call",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "market close",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "full access",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Q3 Fiscal Year 2025 Results Conference Call",
+      "type": "noun_chunk",
+      "category": "temporal"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "three potential menu additions",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "product innovation ideas",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the New Starbucks CEO",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "SBUX shares",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "the broader market",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "mixed sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Broader Market",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "The company",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "corporate employees",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the office",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "voluntary exit packages",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "corporate staff",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "deeper operational issues",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the policy",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Starbucks White-Collar Decision",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a Broken Company",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Starbucks’ China business",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "private equity interest",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a risk",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "$0.61",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$2.44",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$0.61",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$10 billion",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$10 Billion",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "2.64%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "1%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "Fiscal Year",
+      "type": "pattern",
+      "category": "fiscal_year"
+    },
+    {
+      "text": "earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "profit",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "growth",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "share",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "market",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "market",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Market",
+      "type": "pattern",
+      "category": "market_term"
+    }
+  ],
+  "important_sentences": [
+    {
+      "text": "Positive Sentiment:\nStarbucks announced a quarterly dividend of $0.61 per share, representing a $2.44 annual payout and a yield of 2.64%, enhancing its income profile for shareholders.",
+      "importance_score": 46,
+      "entity_count": 7,
+      "financial_keyword_count": 6,
+      "money_count": 2,
+      "company_count": 1,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Starbucks Corporation Plans Quarterly Dividend of $0.61\nPositive Sentiment:\nThe stock ticked higher as investors applauded CEO Brian Niccol’s firm stance on returning employees to the office, viewing it as part of his broader turnaround strategy.\nStarbucks Stock Notches Up on Niccol’s Lengths to Return to Office\nPositive Sentiment:",
+      "importance_score": 44,
+      "entity_count": 8,
+      "financial_keyword_count": 5,
+      "money_count": 1,
+      "company_count": 2,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Starbucks will host its Q3 fiscal 2025 earnings conference call on July 29 after market close, offering full access via webcast and Q&A.\nStarbucks Announces Q3 Fiscal Year 2025 Results Conference Call\nNeutral Sentiment:",
+      "importance_score": 39,
+      "entity_count": 11,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "SBUX shares underperformed the broader market, closing about 1% lower amid profit-taking and mixed sentiment.\nStarbucks (SBUX) Falls More Steeply Than Broader Market\nNegative Sentiment:",
+      "importance_score": 33,
+      "entity_count": 6,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Analysts warn that Starbucks’ China business—valued at up to $10 billion by private equity interest—may be overvalued, posing a risk if growth slows.",
+      "importance_score": 32,
+      "entity_count": 7,
+      "financial_keyword_count": 3,
+      "money_count": 1,
+      "company_count": 1,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Starbucks China At $10 Billion May Be Overvalued\nPosted 1h ago\nAI Generated.",
+      "importance_score": 26,
+      "entity_count": 7,
+      "financial_keyword_count": 1,
+      "money_count": 1,
+      "company_count": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Starbucks Corporation (NASDAQ:SBUX) stock is reacting to a mix of dividend announcements, executive initiatives, analyst commentary, and operational mandates.",
+      "importance_score": 23,
+      "entity_count": 3,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "“Mad Money” host Jim Cramer weighed in, calling this period the right time to buy Starbucks shares, reflecting bullish analyst views.",
+      "importance_score": 20,
+      "entity_count": 5,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Starbucks tells corporate staff in US and Canada to work in office four days a week\nNegative Sentiment:\nCritics argue that the return-to-office edict won’t address deeper operational issues, suggesting the policy may be more cosmetic than strategic.",
+      "importance_score": 14,
+      "entity_count": 5,
+      "financial_keyword_count": 0,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Jim Cramer Says “This is the Right Time to Buy Starbucks”",
+      "importance_score": 13,
+      "entity_count": 3,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "neutral"
+    }
+  ],
+  "entity_statistics": {
+    "total_entities": 46,
+    "unique_entities": 27,
+    "type_counts": {
+      "ORG": 18,
+      "DATE": 10,
+      "MONEY": 5,
+      "PERCENT": 2,
+      "PERSON": 4,
+      "WORK_OF_ART": 1,
+      "CARDINAL": 2,
+      "GPE": 4
+    },
+    "type_distribution": {
+      "ORG": 0.391304347826087,
+      "DATE": 0.21739130434782608,
+      "MONEY": 0.10869565217391304,
+      "PERCENT": 0.043478260869565216,
+      "PERSON": 0.08695652173913043,
+      "WORK_OF_ART": 0.021739130434782608,
+      "CARDINAL": 0.043478260869565216,
+      "GPE": 0.08695652173913043
+    },
+    "most_common_entities": [
+      [
+        "Starbucks",
+        12
+      ],
+      [
+        "SBUX",
+        3
+      ],
+      [
+        "Starbucks Corporation",
+        2
+      ],
+      [
+        "0.61",
+        2
+      ],
+      [
+        "Niccol",
+        2
+      ],
+      [
+        "Jim Cramer",
+        2
+      ],
+      [
+        "four days",
+        2
+      ],
+      [
+        "China",
+        2
+      ],
+      [
+        "quarterly",
+        1
+      ],
+      [
+        "2.44",
+        1
+      ]
+    ],
+    "entity_types_found": [
+      "ORG",
+      "DATE",
+      "MONEY",
+      "PERCENT",
+      "PERSON",
+      "WORK_OF_ART",
+      "CARDINAL",
+      "GPE"
+    ],
+    "company_entities": 20,
+    "person_entities": 4,
+    "financial_entities": 7,
+    "entity_density": 0.13813813813813813
+  },
+  "financial_analysis": {
+    "money_amounts": [
+      "0.61",
+      "2.44",
+      "0.61",
+      "up to $10 billion",
+      "$10 Billion"
+    ],
+    "percentages": [
+      "2.64%",
+      "about 1%"
+    ],
+    "companies": [
+      "Starbucks Corporation",
+      "SBUX",
+      "Starbucks",
+      "Starbucks Corporation",
+      "Starbucks",
+      "Starbucks",
+      "Starbucks",
+      "Starbucks",
+      "Starbucks",
+      "Niccol",
+      "Starbucks",
+      "SBUX",
+      "Starbucks",
+      "SBUX",
+      "Starbucks",
+      "Starbucks",
+      "Starbucks",
+      "Starbucks"
+    ],
+    "people": [
+      "Brian Niccol",
+      "Niccol",
+      "Jim Cramer",
+      "Jim Cramer"
+    ],
+    "dates": [
+      "quarterly",
+      "annual",
+      "Quarterly",
+      "Q3 fiscal 2025",
+      "July 29",
+      "Q3 Fiscal Year 2025",
+      "four days",
+      "October",
+      "four days",
+      "1h ago"
+    ],
+    "financial_terms": [
+      "Stock",
+      "profit",
+      "annual",
+      "earnings",
+      "stock",
+      "market",
+      "Fiscal",
+      "growth",
+      "share",
+      "fiscal",
+      "Market"
+    ],
+    "financial_metrics": [],
+    "market_indicators": []
+  },
+  "temporal_analysis": {
+    "dates": [
+      "quarterly",
+      "annual",
+      "Quarterly",
+      "Q3 fiscal 2025",
+      "July 29",
+      "Q3 Fiscal Year 2025",
+      "four days",
+      "October",
+      "four days",
+      "1h ago"
+    ],
+    "time_expressions": [],
+    "temporal_relationships": [
+      "quarterly",
+      "annual",
+      "Quarterly"
+    ],
+    "quarters": [
+      "Quarterly",
+      "Q3 fiscal 2025",
+      "Q3 Fiscal Year 2025"
+    ],
+    "years": [
+      "Q3 fiscal 2025",
+      "Q3 Fiscal Year 2025"
+    ],
+    "time_periods": []
+  },
+  "sentiment_analysis": {
+    "positive_words": 8,
+    "negative_words": 4,
+    "positive_ratio": 0.024024024024024024,
+    "negative_ratio": 0.012012012012012012,
+    "sentiment_score": 0.012012012012012012,
+    "sentiment_label": "positive",
+    "sentiment_strength": 0.012012012012012012,
+    "confidence": 0.12012012012012012
+  },
+  "industry_analysis": {
+    "dominant_industry": "real_estate",
+    "industry_scores": {
+      "tech": 1,
+      "finance": 0,
+      "healthcare": 0,
+      "energy": 0,
+      "retail": 0,
+      "automotive": 0,
+      "media": 0,
+      "industrial": 0,
+      "real_estate": 5,
+      "telecom": 0,
+      "food_beverage": 0,
+      "travel": 0,
+      "education": 0,
+      "professional": 1,
+      "mining": 0,
+      "aerospace": 0,
+      "environmental": 0,
+      "cannabis": 0
+    },
+    "confidence": 0.7142857142857143
+  },
+  "market_analysis": {
+    "market_sentiment": "neutral",
+    "bullish_indicators": 1,
+    "bearish_indicators": 1,
+    "market_conditions": {
+      "volatility": "normal",
+      "volume": "normal",
+      "trend": "neutral"
+    },
+    "trading_activity": "normal"
+  },
+  "competitor_analysis": {
+    "companies_mentioned": [
+      "Starbucks Corporation",
+      "SBUX",
+      "Starbucks",
+      "Starbucks Corporation",
+      "Starbucks",
+      "Starbucks",
+      "Starbucks",
+      "Starbucks",
+      "Starbucks",
+      "Niccol",
+      "Starbucks",
+      "SBUX",
+      "Starbucks",
+      "SBUX",
+      "Starbucks",
+      "Starbucks",
+      "Starbucks",
+      "Starbucks"
+    ],
+    "competitive_context": [
+      "SBUX shares underperformed the broader market, closing about 1% lower amid profit-taking and mixed sentiment.\nStarbucks (SBUX) Falls More Steeply Than Broader Market\nNegative Sentiment:"
+    ],
+    "competitor_count": 18,
+    "has_competitive_language": true
+  },
+  "risk_analysis": {
+    "risk_sentences": [
+      "The company mandated corporate employees to return to the office four days a week starting October—while offering voluntary exit packages—raising concerns over morale and retention.",
+      "Analysts warn that Starbucks’ China business—valued at up to $10 billion by private equity interest—may be overvalued, posing a risk if growth slows."
+    ],
+    "risk_count": 2,
+    "risk_level": "medium"
+  },
+  "opportunity_analysis": {
+    "opportunity_sentences": [
+      "Analysts laid out three potential menu additions for Niccol to consider, highlighting product innovation ideas that could drive traffic if implemented.",
+      "Analysts warn that Starbucks’ China business—valued at up to $10 billion by private equity interest—may be overvalued, posing a risk if growth slows."
+    ],
+    "opportunity_count": 2,
+    "opportunity_level": "medium"
+  },
+  "processing_metadata": {
+    "timestamp": "2025-07-17T03:27:39.765044",
+    "model_used": "en_core_web_trf",
+    "text_length": 2336
+  }
+}
