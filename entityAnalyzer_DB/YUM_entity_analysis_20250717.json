@@ -1,0 +1,3898 @@
+{
+  "ticker": "YUM",
+  "entities": [
+    {
+      "text": "Yum! Brands, Inc.",
+      "label": "ORG",
+      "start": 0,
+      "end": 17,
+      "sentence": "Yum! Brands, Inc. (NYSE: YUM) shares are moving in response to a blend of bullish analyst actions, shifting sector dynamics and company-specific news.",
+      "context": "Yum! Brands, Inc. (NYSE: YUM) shares are moving in response to a bl",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Morgan Stanley",
+      "label": "ORG",
+      "start": 171,
+      "end": 185,
+      "sentence": "Positive Sentiment:\nMorgan Stanley raises its price target on YUM to $153, citing strong upside potential.",
+      "context": "cs and company-specific news.\nPositive Sentiment:\nMorgan Stanley raises its price target on YUM to $153, citing st",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "YUM",
+      "label": "ORG",
+      "start": 213,
+      "end": 216,
+      "sentence": "Positive Sentiment:\nMorgan Stanley raises its price target on YUM to $153, citing strong upside potential.",
+      "context": "timent:\nMorgan Stanley raises its price target on YUM to $153, citing strong upside potential.\nMorgan S",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "153",
+      "label": "MONEY",
+      "start": 221,
+      "end": 224,
+      "sentence": "Positive Sentiment:\nMorgan Stanley raises its price target on YUM to $153, citing strong upside potential.",
+      "context": "Morgan Stanley raises its price target on YUM to $153, citing strong upside potential.\nMorgan Stanley F",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Morgan Stanley",
+      "label": "ORG",
+      "start": 258,
+      "end": 272,
+      "sentence": "Morgan Stanley Forecasts Strong Price Appreciation for Yum!",
+      "context": "t on YUM to $153, citing strong upside potential.\nMorgan Stanley Forecasts Strong Price Appreciation for Yum! Bran",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Yum!",
+      "label": "ORG",
+      "start": 313,
+      "end": 317,
+      "sentence": "Morgan Stanley Forecasts Strong Price Appreciation for Yum!",
+      "context": "n Stanley Forecasts Strong Price Appreciation for Yum! Brands Stock\nPositive Sentiment:\nAnalysts at Meli",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Melius",
+      "label": "ORG",
+      "start": 363,
+      "end": 369,
+      "sentence": "Positive Sentiment:\nAnalysts at Melius initiate coverage on YUM with a “buy” rating and $200 price target.",
+      "context": "Yum! Brands Stock\nPositive Sentiment:\nAnalysts at Melius initiate coverage on YUM with a “buy” rating and",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "YUM",
+      "label": "ORG",
+      "start": 391,
+      "end": 394,
+      "sentence": "Positive Sentiment:\nAnalysts at Melius initiate coverage on YUM with a “buy” rating and $200 price target.",
+      "context": "entiment:\nAnalysts at Melius initiate coverage on YUM with a “buy” rating and $200 price target.\nYum! B",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "200",
+      "label": "MONEY",
+      "start": 420,
+      "end": 423,
+      "sentence": "Positive Sentiment:\nAnalysts at Melius initiate coverage on YUM with a “buy” rating and $200 price target.",
+      "context": "initiate coverage on YUM with a “buy” rating and $200 price target.\nYum! Brands Coverage Initiated by A",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Yum!",
+      "label": "ORG",
+      "start": 438,
+      "end": 442,
+      "sentence": "Yum! Brands Coverage Initiated by Analysts at Melius\nPositive Sentiment:",
+      "context": "on YUM with a “buy” rating and $200 price target.\nYum! Brands Coverage Initiated by Analysts at Melius\nP",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Melius",
+      "label": "ORG",
+      "start": 484,
+      "end": 490,
+      "sentence": "Yum! Brands Coverage Initiated by Analysts at Melius\nPositive Sentiment:",
+      "context": "et.\nYum! Brands Coverage Initiated by Analysts at Melius\nPositive Sentiment:\nKeyBanc highlights positive m",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "KeyBanc",
+      "label": "ORG",
+      "start": 511,
+      "end": 518,
+      "sentence": "KeyBanc highlights positive momentum for Yum! and peers like SHAK and MCD.",
+      "context": "itiated by Analysts at Melius\nPositive Sentiment:\nKeyBanc highlights positive momentum for Yum! and peers l",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Yum",
+      "label": "ORG",
+      "start": 552,
+      "end": 555,
+      "sentence": "KeyBanc highlights positive momentum for Yum! and peers like SHAK and MCD.",
+      "context": "ntiment:\nKeyBanc highlights positive momentum for Yum! and peers like SHAK and MCD.\nKeyBanc: Sentiment",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "SHAK",
+      "label": "ORG",
+      "start": 572,
+      "end": 576,
+      "sentence": "KeyBanc highlights positive momentum for Yum! and peers like SHAK and MCD.",
+      "context": "hlights positive momentum for Yum! and peers like SHAK and MCD.\nKeyBanc: Sentiment Positive for YUM and",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "MCD",
+      "label": "ORG",
+      "start": 581,
+      "end": 584,
+      "sentence": "KeyBanc highlights positive momentum for Yum! and peers like SHAK and MCD.",
+      "context": "ositive momentum for Yum! and peers like SHAK and MCD.\nKeyBanc: Sentiment Positive for YUM and SHAK\nPos",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "YUM",
+      "label": "ORG",
+      "start": 618,
+      "end": 621,
+      "sentence": "KeyBanc: Sentiment Positive for YUM and SHAK\nPositive Sentiment:\nZacks Research names YUM a strong momentum stock, underlining its growth profile.",
+      "context": "ike SHAK and MCD.\nKeyBanc: Sentiment Positive for YUM and SHAK\nPositive Sentiment:\nZacks Research names",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "SHAK",
+      "label": "ORG",
+      "start": 626,
+      "end": 630,
+      "sentence": "KeyBanc: Sentiment Positive for YUM and SHAK\nPositive Sentiment:\nZacks Research names YUM a strong momentum stock, underlining its growth profile.",
+      "context": "and MCD.\nKeyBanc: Sentiment Positive for YUM and SHAK\nPositive Sentiment:\nZacks Research names YUM a st",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Zacks Research",
+      "label": "ORG",
+      "start": 651,
+      "end": 665,
+      "sentence": "KeyBanc: Sentiment Positive for YUM and SHAK\nPositive Sentiment:\nZacks Research names YUM a strong momentum stock, underlining its growth profile.",
+      "context": "ent Positive for YUM and SHAK\nPositive Sentiment:\nZacks Research names YUM a strong momentum stock, underlining it",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "YUM",
+      "label": "ORG",
+      "start": 672,
+      "end": 675,
+      "sentence": "KeyBanc: Sentiment Positive for YUM and SHAK\nPositive Sentiment:\nZacks Research names YUM a strong momentum stock, underlining its growth profile.",
+      "context": "and SHAK\nPositive Sentiment:\nZacks Research names YUM a strong momentum stock, underlining its growth p",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Yum Brands",
+      "label": "ORG",
+      "start": 744,
+      "end": 754,
+      "sentence": "Here’s Why Yum Brands Is a Strong Momentum Stock\nNeutral Sentiment:",
+      "context": "stock, underlining its growth profile.\nHere’s Why Yum Brands Is a Strong Momentum Stock\nNeutral Sentiment:\nA g",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Yum",
+      "label": "ORG",
+      "start": 860,
+      "end": 863,
+      "sentence": "A growing return-to-office trend may boost foot traffic at Yum’s brands, though outcomes could vary by market.",
+      "context": "return-to-office trend may boost foot traffic at Yum’s brands, though outcomes could vary by market.\nW",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "David W. Gibbs",
+      "label": "PERSON",
+      "start": 1012,
+      "end": 1026,
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "context": "ng return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable",
+      "is_company": false,
+      "is_person": true,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "7,117",
+      "label": "CARDINAL",
+      "start": 1032,
+      "end": 1037,
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "context": "trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider se",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "~6.5%",
+      "label": "PERCENT",
+      "start": 1046,
+      "end": 1051,
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "context": "Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. G",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "David W. Gibbs",
+      "label": "PERSON",
+      "start": 1091,
+      "end": 1105,
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "context": "res (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentim",
+      "is_company": false,
+      "is_person": true,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "7,117",
+      "label": "CARDINAL",
+      "start": 1112,
+      "end": 1117,
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "context": "ke), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:\nQ1 sale",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Yum",
+      "label": "ORG",
+      "start": 1128,
+      "end": 1131,
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "context": "nsider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:\nQ1 sales at KFC, Pizz",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q1",
+      "label": "DATE",
+      "start": 1160,
+      "end": 1162,
+      "sentence": "Q1 sales at KFC, Pizza Hut and Taco Bell fell 3%, underperforming broader fast-food growth.",
+      "context": "s 7,117 Shares of Yum! Brands\nNegative Sentiment:\nQ1 sales at KFC, Pizza Hut and Taco Bell fell 3%, un",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "KFC",
+      "label": "ORG",
+      "start": 1172,
+      "end": 1175,
+      "sentence": "Q1 sales at KFC, Pizza Hut and Taco Bell fell 3%, underperforming broader fast-food growth.",
+      "context": "es of Yum! Brands\nNegative Sentiment:\nQ1 sales at KFC, Pizza Hut and Taco Bell fell 3%, underperforming",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Pizza Hut",
+      "label": "ORG",
+      "start": 1177,
+      "end": 1186,
+      "sentence": "Q1 sales at KFC, Pizza Hut and Taco Bell fell 3%, underperforming broader fast-food growth.",
+      "context": "Yum! Brands\nNegative Sentiment:\nQ1 sales at KFC, Pizza Hut and Taco Bell fell 3%, underperforming broader fa",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Taco Bell",
+      "label": "ORG",
+      "start": 1191,
+      "end": 1200,
+      "sentence": "Q1 sales at KFC, Pizza Hut and Taco Bell fell 3%, underperforming broader fast-food growth.",
+      "context": "egative Sentiment:\nQ1 sales at KFC, Pizza Hut and Taco Bell fell 3%, underperforming broader fast-food growth",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "3%",
+      "label": "PERCENT",
+      "start": 1206,
+      "end": 1208,
+      "sentence": "Q1 sales at KFC, Pizza Hut and Taco Bell fell 3%, underperforming broader fast-food growth.",
+      "context": "nt:\nQ1 sales at KFC, Pizza Hut and Taco Bell fell 3%, underperforming broader fast-food growth.\n3 Fast",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "3",
+      "label": "CARDINAL",
+      "start": 1252,
+      "end": 1253,
+      "sentence": "3 Fast Food Stocks That Won’t Give You Indigestion Right Now (YUM)",
+      "context": "ell 3%, underperforming broader fast-food growth.\n3 Fast Food Stocks That Won’t Give You Indigestion",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Yum",
+      "label": "ORG",
+      "start": 1350,
+      "end": 1353,
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "context": "on Right Now (YUM)\nNegative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "!",
+      "label": "ORG",
+      "start": 1353,
+      "end": 1354,
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "context": "Right Now (YUM)\nNegative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Inspire Brands",
+      "label": "ORG",
+      "start": 1362,
+      "end": 1376,
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "context": "(YUM)\nNegative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Yum",
+      "label": "ORG",
+      "start": 1383,
+      "end": 1386,
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "context": "ment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Dave & Buster’s",
+      "label": "ORG",
+      "start": 1404,
+      "end": 1419,
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "context": "talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.\nInspire Brands",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "ex-KFC US",
+      "label": "ORG",
+      "start": 1426,
+      "end": 1435,
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "context": "hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.\nInspire Brands Names Yum Brands",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Inspire Brands",
+      "label": "ORG",
+      "start": 1454,
+      "end": 1468,
+      "sentence": "Inspire Brands Names Yum Brands Executive as Chief Legal Officer",
+      "context": "Dave & Buster’s names ex-KFC US president as CEO.\nInspire Brands Names Yum Brands Executive as Chief Legal Officer",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Yum Brands",
+      "label": "ORG",
+      "start": 1475,
+      "end": 1485,
+      "sentence": "Inspire Brands Names Yum Brands Executive as Chief Legal Officer",
+      "context": "ex-KFC US president as CEO.\nInspire Brands Names Yum Brands Executive as Chief Legal Officer\nDave & Buster’s",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Dave & Buster’s",
+      "label": "ORG",
+      "start": 1519,
+      "end": 1534,
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "context": "Names Yum Brands Executive as Chief Legal Officer\nDave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nA",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "ex-KFC US",
+      "label": "NORP",
+      "start": 1541,
+      "end": 1550,
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "context": "tive as Chief Legal Officer\nDave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated. May",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "32m ago",
+      "label": "DATE",
+      "start": 1575,
+      "end": 1582,
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "context": "Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated. May Contain Errors.",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AI Generated",
+      "label": "ORG",
+      "start": 1583,
+      "end": 1595,
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "context": "s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated. May Contain Errors.",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    }
+  ],
+  "relationships": [
+    {
+      "type": "SVO",
+      "subject": "Stanley",
+      "verb": "raises",
+      "object": "target",
+      "sentence": "Positive Sentiment:\nMorgan Stanley raises its price target on YUM to $153, citing strong upside potential.",
+      "importance": 5
+    },
+    {
+      "type": "SVO",
+      "subject": "Stanley",
+      "verb": "Forecasts",
+      "object": "Appreciation",
+      "sentence": "Morgan Stanley Forecasts Strong Price Appreciation for Yum!",
+      "importance": 4
+    },
+    {
+      "type": "SVO",
+      "subject": "Analysts",
+      "verb": "initiate",
+      "object": "coverage",
+      "sentence": "Positive Sentiment:\nAnalysts at Melius initiate coverage on YUM with a “buy” rating and $200 price target.",
+      "importance": 7
+    },
+    {
+      "type": "SVO",
+      "subject": "KeyBanc",
+      "verb": "highlights",
+      "object": "momentum",
+      "sentence": "KeyBanc highlights positive momentum for Yum! and peers like SHAK and MCD.",
+      "importance": 5
+    },
+    {
+      "type": "SVO",
+      "subject": "trend",
+      "verb": "boost",
+      "object": "traffic",
+      "sentence": "A growing return-to-office trend may boost foot traffic at Yum’s brands, though outcomes could vary by market.",
+      "importance": 3
+    },
+    {
+      "type": "SVO",
+      "subject": "Gibbs",
+      "verb": "sold",
+      "object": "shares",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "importance": 13
+    },
+    {
+      "type": "SVO",
+      "subject": "Gibbs",
+      "verb": "Sells",
+      "object": "Shares",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "importance": 13
+    },
+    {
+      "type": "SVO",
+      "subject": "That",
+      "verb": "Give",
+      "object": "Indigestion",
+      "sentence": "3 Fast Food Stocks That Won’t Give You Indigestion Right Now (YUM)",
+      "importance": 1
+    },
+    {
+      "type": "SVO",
+      "subject": "Rivals",
+      "verb": "tap",
+      "object": "talent",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "importance": 13
+    },
+    {
+      "type": "SVO",
+      "subject": "Brands",
+      "verb": "hires",
+      "object": "CLO",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "importance": 13
+    },
+    {
+      "type": "SVO",
+      "subject": "Dave",
+      "verb": "names",
+      "object": "president",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "importance": 13
+    },
+    {
+      "type": "SVO",
+      "subject": "Brands",
+      "verb": "Names",
+      "object": "Executive",
+      "sentence": "Inspire Brands Names Yum Brands Executive as Chief Legal Officer",
+      "importance": 4
+    },
+    {
+      "type": "SVO",
+      "subject": "Dave",
+      "verb": "hires",
+      "object": "president",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "importance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yum",
+      "entity1_type": "ORG",
+      "entity2": "!",
+      "entity2_type": "ORG",
+      "sentence": "Yum! Brands, Inc. (NYSE: YUM) shares are moving in response to a blend of bullish analyst actions, shifting sector dynamics and company-specific news.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yum",
+      "entity1_type": "ORG",
+      "entity2": "Brands",
+      "entity2_type": "ORG",
+      "sentence": "Yum! Brands, Inc. (NYSE: YUM) shares are moving in response to a blend of bullish analyst actions, shifting sector dynamics and company-specific news.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yum",
+      "entity1_type": "ORG",
+      "entity2": ",",
+      "entity2_type": "ORG",
+      "sentence": "Yum! Brands, Inc. (NYSE: YUM) shares are moving in response to a blend of bullish analyst actions, shifting sector dynamics and company-specific news.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yum",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Yum! Brands, Inc. (NYSE: YUM) shares are moving in response to a blend of bullish analyst actions, shifting sector dynamics and company-specific news.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "!",
+      "entity1_type": "ORG",
+      "entity2": "Brands",
+      "entity2_type": "ORG",
+      "sentence": "Yum! Brands, Inc. (NYSE: YUM) shares are moving in response to a blend of bullish analyst actions, shifting sector dynamics and company-specific news.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "!",
+      "entity1_type": "ORG",
+      "entity2": ",",
+      "entity2_type": "ORG",
+      "sentence": "Yum! Brands, Inc. (NYSE: YUM) shares are moving in response to a blend of bullish analyst actions, shifting sector dynamics and company-specific news.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "!",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Yum! Brands, Inc. (NYSE: YUM) shares are moving in response to a blend of bullish analyst actions, shifting sector dynamics and company-specific news.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brands",
+      "entity1_type": "ORG",
+      "entity2": ",",
+      "entity2_type": "ORG",
+      "sentence": "Yum! Brands, Inc. (NYSE: YUM) shares are moving in response to a blend of bullish analyst actions, shifting sector dynamics and company-specific news.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brands",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Yum! Brands, Inc. (NYSE: YUM) shares are moving in response to a blend of bullish analyst actions, shifting sector dynamics and company-specific news.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Yum! Brands, Inc. (NYSE: YUM) shares are moving in response to a blend of bullish analyst actions, shifting sector dynamics and company-specific news.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "Stanley",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nMorgan Stanley raises its price target on YUM to $153, citing strong upside potential.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "YUM",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nMorgan Stanley raises its price target on YUM to $153, citing strong upside potential.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "153",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nMorgan Stanley raises its price target on YUM to $153, citing strong upside potential.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "YUM",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nMorgan Stanley raises its price target on YUM to $153, citing strong upside potential.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "153",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nMorgan Stanley raises its price target on YUM to $153, citing strong upside potential.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "YUM",
+      "entity1_type": "ORG",
+      "entity2": "153",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nMorgan Stanley raises its price target on YUM to $153, citing strong upside potential.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "Stanley",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Forecasts Strong Price Appreciation for Yum!",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "Yum",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Forecasts Strong Price Appreciation for Yum!",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Morgan",
+      "entity1_type": "ORG",
+      "entity2": "!",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Forecasts Strong Price Appreciation for Yum!",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "Yum",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Forecasts Strong Price Appreciation for Yum!",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Stanley",
+      "entity1_type": "ORG",
+      "entity2": "!",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Forecasts Strong Price Appreciation for Yum!",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yum",
+      "entity1_type": "ORG",
+      "entity2": "!",
+      "entity2_type": "ORG",
+      "sentence": "Morgan Stanley Forecasts Strong Price Appreciation for Yum!",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Melius",
+      "entity1_type": "ORG",
+      "entity2": "YUM",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nAnalysts at Melius initiate coverage on YUM with a “buy” rating and $200 price target.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Melius",
+      "entity1_type": "ORG",
+      "entity2": "200",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nAnalysts at Melius initiate coverage on YUM with a “buy” rating and $200 price target.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "YUM",
+      "entity1_type": "ORG",
+      "entity2": "200",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nAnalysts at Melius initiate coverage on YUM with a “buy” rating and $200 price target.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yum",
+      "entity1_type": "ORG",
+      "entity2": "!",
+      "entity2_type": "ORG",
+      "sentence": "Yum! Brands Coverage Initiated by Analysts at Melius\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yum",
+      "entity1_type": "ORG",
+      "entity2": "Melius",
+      "entity2_type": "ORG",
+      "sentence": "Yum! Brands Coverage Initiated by Analysts at Melius\nPositive Sentiment:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "!",
+      "entity1_type": "ORG",
+      "entity2": "Melius",
+      "entity2_type": "ORG",
+      "sentence": "Yum! Brands Coverage Initiated by Analysts at Melius\nPositive Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KeyBanc",
+      "entity1_type": "ORG",
+      "entity2": "Yum",
+      "entity2_type": "ORG",
+      "sentence": "KeyBanc highlights positive momentum for Yum! and peers like SHAK and MCD.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KeyBanc",
+      "entity1_type": "ORG",
+      "entity2": "SHAK",
+      "entity2_type": "ORG",
+      "sentence": "KeyBanc highlights positive momentum for Yum! and peers like SHAK and MCD.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KeyBanc",
+      "entity1_type": "ORG",
+      "entity2": "MCD",
+      "entity2_type": "ORG",
+      "sentence": "KeyBanc highlights positive momentum for Yum! and peers like SHAK and MCD.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yum",
+      "entity1_type": "ORG",
+      "entity2": "SHAK",
+      "entity2_type": "ORG",
+      "sentence": "KeyBanc highlights positive momentum for Yum! and peers like SHAK and MCD.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yum",
+      "entity1_type": "ORG",
+      "entity2": "MCD",
+      "entity2_type": "ORG",
+      "sentence": "KeyBanc highlights positive momentum for Yum! and peers like SHAK and MCD.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SHAK",
+      "entity1_type": "ORG",
+      "entity2": "MCD",
+      "entity2_type": "ORG",
+      "sentence": "KeyBanc highlights positive momentum for Yum! and peers like SHAK and MCD.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "YUM",
+      "entity1_type": "ORG",
+      "entity2": "SHAK",
+      "entity2_type": "ORG",
+      "sentence": "KeyBanc: Sentiment Positive for YUM and SHAK\nPositive Sentiment:\nZacks Research names YUM a strong momentum stock, underlining its growth profile.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "YUM",
+      "entity1_type": "ORG",
+      "entity2": "Zacks",
+      "entity2_type": "ORG",
+      "sentence": "KeyBanc: Sentiment Positive for YUM and SHAK\nPositive Sentiment:\nZacks Research names YUM a strong momentum stock, underlining its growth profile.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "YUM",
+      "entity1_type": "ORG",
+      "entity2": "Research",
+      "entity2_type": "ORG",
+      "sentence": "KeyBanc: Sentiment Positive for YUM and SHAK\nPositive Sentiment:\nZacks Research names YUM a strong momentum stock, underlining its growth profile.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "YUM",
+      "entity1_type": "ORG",
+      "entity2": "YUM",
+      "entity2_type": "ORG",
+      "sentence": "KeyBanc: Sentiment Positive for YUM and SHAK\nPositive Sentiment:\nZacks Research names YUM a strong momentum stock, underlining its growth profile.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SHAK",
+      "entity1_type": "ORG",
+      "entity2": "Zacks",
+      "entity2_type": "ORG",
+      "sentence": "KeyBanc: Sentiment Positive for YUM and SHAK\nPositive Sentiment:\nZacks Research names YUM a strong momentum stock, underlining its growth profile.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SHAK",
+      "entity1_type": "ORG",
+      "entity2": "Research",
+      "entity2_type": "ORG",
+      "sentence": "KeyBanc: Sentiment Positive for YUM and SHAK\nPositive Sentiment:\nZacks Research names YUM a strong momentum stock, underlining its growth profile.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "SHAK",
+      "entity1_type": "ORG",
+      "entity2": "YUM",
+      "entity2_type": "ORG",
+      "sentence": "KeyBanc: Sentiment Positive for YUM and SHAK\nPositive Sentiment:\nZacks Research names YUM a strong momentum stock, underlining its growth profile.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "Research",
+      "entity2_type": "ORG",
+      "sentence": "KeyBanc: Sentiment Positive for YUM and SHAK\nPositive Sentiment:\nZacks Research names YUM a strong momentum stock, underlining its growth profile.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "YUM",
+      "entity2_type": "ORG",
+      "sentence": "KeyBanc: Sentiment Positive for YUM and SHAK\nPositive Sentiment:\nZacks Research names YUM a strong momentum stock, underlining its growth profile.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "YUM",
+      "entity2_type": "ORG",
+      "sentence": "KeyBanc: Sentiment Positive for YUM and SHAK\nPositive Sentiment:\nZacks Research names YUM a strong momentum stock, underlining its growth profile.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yum",
+      "entity1_type": "ORG",
+      "entity2": "Brands",
+      "entity2_type": "ORG",
+      "sentence": "Here’s Why Yum Brands Is a Strong Momentum Stock\nNeutral Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "David",
+      "entity1_type": "PERSON",
+      "entity2": "W.",
+      "entity2_type": "PERSON",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "David",
+      "entity1_type": "PERSON",
+      "entity2": "Gibbs",
+      "entity2_type": "PERSON",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "David",
+      "entity1_type": "PERSON",
+      "entity2": "7,117",
+      "entity2_type": "CARDINAL",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "David",
+      "entity1_type": "PERSON",
+      "entity2": "~6.5",
+      "entity2_type": "PERCENT",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "David",
+      "entity1_type": "PERSON",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "David",
+      "entity1_type": "PERSON",
+      "entity2": "David",
+      "entity2_type": "PERSON",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "David",
+      "entity1_type": "PERSON",
+      "entity2": "W.",
+      "entity2_type": "PERSON",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "David",
+      "entity1_type": "PERSON",
+      "entity2": "Gibbs",
+      "entity2_type": "PERSON",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "David",
+      "entity1_type": "PERSON",
+      "entity2": "7,117",
+      "entity2_type": "CARDINAL",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "David",
+      "entity1_type": "PERSON",
+      "entity2": "Yum",
+      "entity2_type": "ORG",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "W.",
+      "entity1_type": "PERSON",
+      "entity2": "Gibbs",
+      "entity2_type": "PERSON",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "W.",
+      "entity1_type": "PERSON",
+      "entity2": "7,117",
+      "entity2_type": "CARDINAL",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "W.",
+      "entity1_type": "PERSON",
+      "entity2": "~6.5",
+      "entity2_type": "PERCENT",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "W.",
+      "entity1_type": "PERSON",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "W.",
+      "entity1_type": "PERSON",
+      "entity2": "David",
+      "entity2_type": "PERSON",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "W.",
+      "entity1_type": "PERSON",
+      "entity2": "W.",
+      "entity2_type": "PERSON",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "W.",
+      "entity1_type": "PERSON",
+      "entity2": "Gibbs",
+      "entity2_type": "PERSON",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "W.",
+      "entity1_type": "PERSON",
+      "entity2": "7,117",
+      "entity2_type": "CARDINAL",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "W.",
+      "entity1_type": "PERSON",
+      "entity2": "Yum",
+      "entity2_type": "ORG",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gibbs",
+      "entity1_type": "PERSON",
+      "entity2": "7,117",
+      "entity2_type": "CARDINAL",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gibbs",
+      "entity1_type": "PERSON",
+      "entity2": "~6.5",
+      "entity2_type": "PERCENT",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gibbs",
+      "entity1_type": "PERSON",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gibbs",
+      "entity1_type": "PERSON",
+      "entity2": "David",
+      "entity2_type": "PERSON",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gibbs",
+      "entity1_type": "PERSON",
+      "entity2": "W.",
+      "entity2_type": "PERSON",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gibbs",
+      "entity1_type": "PERSON",
+      "entity2": "Gibbs",
+      "entity2_type": "PERSON",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gibbs",
+      "entity1_type": "PERSON",
+      "entity2": "7,117",
+      "entity2_type": "CARDINAL",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gibbs",
+      "entity1_type": "PERSON",
+      "entity2": "Yum",
+      "entity2_type": "ORG",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "7,117",
+      "entity1_type": "CARDINAL",
+      "entity2": "~6.5",
+      "entity2_type": "PERCENT",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "7,117",
+      "entity1_type": "CARDINAL",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "7,117",
+      "entity1_type": "CARDINAL",
+      "entity2": "David",
+      "entity2_type": "PERSON",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "7,117",
+      "entity1_type": "CARDINAL",
+      "entity2": "W.",
+      "entity2_type": "PERSON",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "7,117",
+      "entity1_type": "CARDINAL",
+      "entity2": "Gibbs",
+      "entity2_type": "PERSON",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "7,117",
+      "entity1_type": "CARDINAL",
+      "entity2": "7,117",
+      "entity2_type": "CARDINAL",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "7,117",
+      "entity1_type": "CARDINAL",
+      "entity2": "Yum",
+      "entity2_type": "ORG",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "~6.5",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "~6.5",
+      "entity1_type": "PERCENT",
+      "entity2": "David",
+      "entity2_type": "PERSON",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "~6.5",
+      "entity1_type": "PERCENT",
+      "entity2": "W.",
+      "entity2_type": "PERSON",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "~6.5",
+      "entity1_type": "PERCENT",
+      "entity2": "Gibbs",
+      "entity2_type": "PERSON",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "~6.5",
+      "entity1_type": "PERCENT",
+      "entity2": "7,117",
+      "entity2_type": "CARDINAL",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "~6.5",
+      "entity1_type": "PERCENT",
+      "entity2": "Yum",
+      "entity2_type": "ORG",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "David",
+      "entity2_type": "PERSON",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "W.",
+      "entity2_type": "PERSON",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "Gibbs",
+      "entity2_type": "PERSON",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "7,117",
+      "entity2_type": "CARDINAL",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "Yum",
+      "entity2_type": "ORG",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "David",
+      "entity1_type": "PERSON",
+      "entity2": "W.",
+      "entity2_type": "PERSON",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "David",
+      "entity1_type": "PERSON",
+      "entity2": "Gibbs",
+      "entity2_type": "PERSON",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "David",
+      "entity1_type": "PERSON",
+      "entity2": "7,117",
+      "entity2_type": "CARDINAL",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "David",
+      "entity1_type": "PERSON",
+      "entity2": "Yum",
+      "entity2_type": "ORG",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "W.",
+      "entity1_type": "PERSON",
+      "entity2": "Gibbs",
+      "entity2_type": "PERSON",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "W.",
+      "entity1_type": "PERSON",
+      "entity2": "7,117",
+      "entity2_type": "CARDINAL",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "W.",
+      "entity1_type": "PERSON",
+      "entity2": "Yum",
+      "entity2_type": "ORG",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gibbs",
+      "entity1_type": "PERSON",
+      "entity2": "7,117",
+      "entity2_type": "CARDINAL",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gibbs",
+      "entity1_type": "PERSON",
+      "entity2": "Yum",
+      "entity2_type": "ORG",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "7,117",
+      "entity1_type": "CARDINAL",
+      "entity2": "Yum",
+      "entity2_type": "ORG",
+      "sentence": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q1",
+      "entity1_type": "DATE",
+      "entity2": "KFC",
+      "entity2_type": "ORG",
+      "sentence": "Q1 sales at KFC, Pizza Hut and Taco Bell fell 3%, underperforming broader fast-food growth.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q1",
+      "entity1_type": "DATE",
+      "entity2": "Pizza",
+      "entity2_type": "ORG",
+      "sentence": "Q1 sales at KFC, Pizza Hut and Taco Bell fell 3%, underperforming broader fast-food growth.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q1",
+      "entity1_type": "DATE",
+      "entity2": "Hut",
+      "entity2_type": "ORG",
+      "sentence": "Q1 sales at KFC, Pizza Hut and Taco Bell fell 3%, underperforming broader fast-food growth.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q1",
+      "entity1_type": "DATE",
+      "entity2": "Taco",
+      "entity2_type": "ORG",
+      "sentence": "Q1 sales at KFC, Pizza Hut and Taco Bell fell 3%, underperforming broader fast-food growth.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q1",
+      "entity1_type": "DATE",
+      "entity2": "Bell",
+      "entity2_type": "ORG",
+      "sentence": "Q1 sales at KFC, Pizza Hut and Taco Bell fell 3%, underperforming broader fast-food growth.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q1",
+      "entity1_type": "DATE",
+      "entity2": "3",
+      "entity2_type": "PERCENT",
+      "sentence": "Q1 sales at KFC, Pizza Hut and Taco Bell fell 3%, underperforming broader fast-food growth.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q1",
+      "entity1_type": "DATE",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Q1 sales at KFC, Pizza Hut and Taco Bell fell 3%, underperforming broader fast-food growth.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KFC",
+      "entity1_type": "ORG",
+      "entity2": "Pizza",
+      "entity2_type": "ORG",
+      "sentence": "Q1 sales at KFC, Pizza Hut and Taco Bell fell 3%, underperforming broader fast-food growth.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KFC",
+      "entity1_type": "ORG",
+      "entity2": "Hut",
+      "entity2_type": "ORG",
+      "sentence": "Q1 sales at KFC, Pizza Hut and Taco Bell fell 3%, underperforming broader fast-food growth.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KFC",
+      "entity1_type": "ORG",
+      "entity2": "Taco",
+      "entity2_type": "ORG",
+      "sentence": "Q1 sales at KFC, Pizza Hut and Taco Bell fell 3%, underperforming broader fast-food growth.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KFC",
+      "entity1_type": "ORG",
+      "entity2": "Bell",
+      "entity2_type": "ORG",
+      "sentence": "Q1 sales at KFC, Pizza Hut and Taco Bell fell 3%, underperforming broader fast-food growth.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KFC",
+      "entity1_type": "ORG",
+      "entity2": "3",
+      "entity2_type": "PERCENT",
+      "sentence": "Q1 sales at KFC, Pizza Hut and Taco Bell fell 3%, underperforming broader fast-food growth.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KFC",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Q1 sales at KFC, Pizza Hut and Taco Bell fell 3%, underperforming broader fast-food growth.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pizza",
+      "entity1_type": "ORG",
+      "entity2": "Hut",
+      "entity2_type": "ORG",
+      "sentence": "Q1 sales at KFC, Pizza Hut and Taco Bell fell 3%, underperforming broader fast-food growth.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pizza",
+      "entity1_type": "ORG",
+      "entity2": "Taco",
+      "entity2_type": "ORG",
+      "sentence": "Q1 sales at KFC, Pizza Hut and Taco Bell fell 3%, underperforming broader fast-food growth.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pizza",
+      "entity1_type": "ORG",
+      "entity2": "Bell",
+      "entity2_type": "ORG",
+      "sentence": "Q1 sales at KFC, Pizza Hut and Taco Bell fell 3%, underperforming broader fast-food growth.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pizza",
+      "entity1_type": "ORG",
+      "entity2": "3",
+      "entity2_type": "PERCENT",
+      "sentence": "Q1 sales at KFC, Pizza Hut and Taco Bell fell 3%, underperforming broader fast-food growth.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pizza",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Q1 sales at KFC, Pizza Hut and Taco Bell fell 3%, underperforming broader fast-food growth.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Hut",
+      "entity1_type": "ORG",
+      "entity2": "Taco",
+      "entity2_type": "ORG",
+      "sentence": "Q1 sales at KFC, Pizza Hut and Taco Bell fell 3%, underperforming broader fast-food growth.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Hut",
+      "entity1_type": "ORG",
+      "entity2": "Bell",
+      "entity2_type": "ORG",
+      "sentence": "Q1 sales at KFC, Pizza Hut and Taco Bell fell 3%, underperforming broader fast-food growth.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Hut",
+      "entity1_type": "ORG",
+      "entity2": "3",
+      "entity2_type": "PERCENT",
+      "sentence": "Q1 sales at KFC, Pizza Hut and Taco Bell fell 3%, underperforming broader fast-food growth.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Hut",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Q1 sales at KFC, Pizza Hut and Taco Bell fell 3%, underperforming broader fast-food growth.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Taco",
+      "entity1_type": "ORG",
+      "entity2": "Bell",
+      "entity2_type": "ORG",
+      "sentence": "Q1 sales at KFC, Pizza Hut and Taco Bell fell 3%, underperforming broader fast-food growth.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Taco",
+      "entity1_type": "ORG",
+      "entity2": "3",
+      "entity2_type": "PERCENT",
+      "sentence": "Q1 sales at KFC, Pizza Hut and Taco Bell fell 3%, underperforming broader fast-food growth.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Taco",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Q1 sales at KFC, Pizza Hut and Taco Bell fell 3%, underperforming broader fast-food growth.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bell",
+      "entity1_type": "ORG",
+      "entity2": "3",
+      "entity2_type": "PERCENT",
+      "sentence": "Q1 sales at KFC, Pizza Hut and Taco Bell fell 3%, underperforming broader fast-food growth.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bell",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Q1 sales at KFC, Pizza Hut and Taco Bell fell 3%, underperforming broader fast-food growth.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Q1 sales at KFC, Pizza Hut and Taco Bell fell 3%, underperforming broader fast-food growth.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yum",
+      "entity1_type": "ORG",
+      "entity2": "!",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yum",
+      "entity1_type": "ORG",
+      "entity2": "Inspire",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yum",
+      "entity1_type": "ORG",
+      "entity2": "Brands",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yum",
+      "entity1_type": "ORG",
+      "entity2": "Yum",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yum",
+      "entity1_type": "ORG",
+      "entity2": "Dave",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yum",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yum",
+      "entity1_type": "ORG",
+      "entity2": "Buster",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yum",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yum",
+      "entity1_type": "ORG",
+      "entity2": "ex",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yum",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yum",
+      "entity1_type": "ORG",
+      "entity2": "KFC",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yum",
+      "entity1_type": "ORG",
+      "entity2": "US",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "!",
+      "entity1_type": "ORG",
+      "entity2": "Inspire",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "!",
+      "entity1_type": "ORG",
+      "entity2": "Brands",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "!",
+      "entity1_type": "ORG",
+      "entity2": "Yum",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "!",
+      "entity1_type": "ORG",
+      "entity2": "Dave",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "!",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "!",
+      "entity1_type": "ORG",
+      "entity2": "Buster",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "!",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "!",
+      "entity1_type": "ORG",
+      "entity2": "ex",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "!",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "!",
+      "entity1_type": "ORG",
+      "entity2": "KFC",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "!",
+      "entity1_type": "ORG",
+      "entity2": "US",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inspire",
+      "entity1_type": "ORG",
+      "entity2": "Brands",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inspire",
+      "entity1_type": "ORG",
+      "entity2": "Yum",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inspire",
+      "entity1_type": "ORG",
+      "entity2": "Dave",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inspire",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inspire",
+      "entity1_type": "ORG",
+      "entity2": "Buster",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inspire",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inspire",
+      "entity1_type": "ORG",
+      "entity2": "ex",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inspire",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inspire",
+      "entity1_type": "ORG",
+      "entity2": "KFC",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inspire",
+      "entity1_type": "ORG",
+      "entity2": "US",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brands",
+      "entity1_type": "ORG",
+      "entity2": "Yum",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brands",
+      "entity1_type": "ORG",
+      "entity2": "Dave",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brands",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brands",
+      "entity1_type": "ORG",
+      "entity2": "Buster",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brands",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brands",
+      "entity1_type": "ORG",
+      "entity2": "ex",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brands",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brands",
+      "entity1_type": "ORG",
+      "entity2": "KFC",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brands",
+      "entity1_type": "ORG",
+      "entity2": "US",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yum",
+      "entity1_type": "ORG",
+      "entity2": "Dave",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yum",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yum",
+      "entity1_type": "ORG",
+      "entity2": "Buster",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yum",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yum",
+      "entity1_type": "ORG",
+      "entity2": "ex",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yum",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yum",
+      "entity1_type": "ORG",
+      "entity2": "KFC",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yum",
+      "entity1_type": "ORG",
+      "entity2": "US",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Dave",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Dave",
+      "entity1_type": "ORG",
+      "entity2": "Buster",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Dave",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Dave",
+      "entity1_type": "ORG",
+      "entity2": "ex",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Dave",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Dave",
+      "entity1_type": "ORG",
+      "entity2": "KFC",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Dave",
+      "entity1_type": "ORG",
+      "entity2": "US",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Buster",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "ex",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "KFC",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "US",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Buster",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Buster",
+      "entity1_type": "ORG",
+      "entity2": "ex",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Buster",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Buster",
+      "entity1_type": "ORG",
+      "entity2": "KFC",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Buster",
+      "entity1_type": "ORG",
+      "entity2": "US",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "ORG",
+      "entity2": "ex",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "ORG",
+      "entity2": "KFC",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "ORG",
+      "entity2": "US",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ex",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ex",
+      "entity1_type": "ORG",
+      "entity2": "KFC",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ex",
+      "entity1_type": "ORG",
+      "entity2": "US",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "ORG",
+      "entity2": "KFC",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "ORG",
+      "entity2": "US",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KFC",
+      "entity1_type": "ORG",
+      "entity2": "US",
+      "entity2_type": "ORG",
+      "sentence": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inspire",
+      "entity1_type": "ORG",
+      "entity2": "Brands",
+      "entity2_type": "ORG",
+      "sentence": "Inspire Brands Names Yum Brands Executive as Chief Legal Officer",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inspire",
+      "entity1_type": "ORG",
+      "entity2": "Yum",
+      "entity2_type": "ORG",
+      "sentence": "Inspire Brands Names Yum Brands Executive as Chief Legal Officer",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inspire",
+      "entity1_type": "ORG",
+      "entity2": "Brands",
+      "entity2_type": "ORG",
+      "sentence": "Inspire Brands Names Yum Brands Executive as Chief Legal Officer",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brands",
+      "entity1_type": "ORG",
+      "entity2": "Yum",
+      "entity2_type": "ORG",
+      "sentence": "Inspire Brands Names Yum Brands Executive as Chief Legal Officer",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Brands",
+      "entity1_type": "ORG",
+      "entity2": "Brands",
+      "entity2_type": "ORG",
+      "sentence": "Inspire Brands Names Yum Brands Executive as Chief Legal Officer",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Yum",
+      "entity1_type": "ORG",
+      "entity2": "Brands",
+      "entity2_type": "ORG",
+      "sentence": "Inspire Brands Names Yum Brands Executive as Chief Legal Officer",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Dave",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Dave",
+      "entity1_type": "ORG",
+      "entity2": "Buster",
+      "entity2_type": "ORG",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Dave",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Dave",
+      "entity1_type": "ORG",
+      "entity2": "ex",
+      "entity2_type": "NORP",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Dave",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "NORP",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Dave",
+      "entity1_type": "ORG",
+      "entity2": "KFC",
+      "entity2_type": "NORP",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Dave",
+      "entity1_type": "ORG",
+      "entity2": "US",
+      "entity2_type": "NORP",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Dave",
+      "entity1_type": "ORG",
+      "entity2": "32",
+      "entity2_type": "DATE",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Dave",
+      "entity1_type": "ORG",
+      "entity2": "m",
+      "entity2_type": "DATE",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Dave",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Dave",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Dave",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Buster",
+      "entity2_type": "ORG",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "ex",
+      "entity2_type": "NORP",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "NORP",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "KFC",
+      "entity2_type": "NORP",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "US",
+      "entity2_type": "NORP",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "32",
+      "entity2_type": "DATE",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "m",
+      "entity2_type": "DATE",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Buster",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Buster",
+      "entity1_type": "ORG",
+      "entity2": "ex",
+      "entity2_type": "NORP",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Buster",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "NORP",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Buster",
+      "entity1_type": "ORG",
+      "entity2": "KFC",
+      "entity2_type": "NORP",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Buster",
+      "entity1_type": "ORG",
+      "entity2": "US",
+      "entity2_type": "NORP",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Buster",
+      "entity1_type": "ORG",
+      "entity2": "32",
+      "entity2_type": "DATE",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Buster",
+      "entity1_type": "ORG",
+      "entity2": "m",
+      "entity2_type": "DATE",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Buster",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Buster",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Buster",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "ORG",
+      "entity2": "ex",
+      "entity2_type": "NORP",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "ORG",
+      "entity2": "-",
+      "entity2_type": "NORP",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "ORG",
+      "entity2": "KFC",
+      "entity2_type": "NORP",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "ORG",
+      "entity2": "US",
+      "entity2_type": "NORP",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "ORG",
+      "entity2": "32",
+      "entity2_type": "DATE",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "ORG",
+      "entity2": "m",
+      "entity2_type": "DATE",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "ORG",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "ORG",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ex",
+      "entity1_type": "NORP",
+      "entity2": "-",
+      "entity2_type": "NORP",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ex",
+      "entity1_type": "NORP",
+      "entity2": "KFC",
+      "entity2_type": "NORP",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ex",
+      "entity1_type": "NORP",
+      "entity2": "US",
+      "entity2_type": "NORP",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ex",
+      "entity1_type": "NORP",
+      "entity2": "32",
+      "entity2_type": "DATE",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ex",
+      "entity1_type": "NORP",
+      "entity2": "m",
+      "entity2_type": "DATE",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ex",
+      "entity1_type": "NORP",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ex",
+      "entity1_type": "NORP",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ex",
+      "entity1_type": "NORP",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "NORP",
+      "entity2": "KFC",
+      "entity2_type": "NORP",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "NORP",
+      "entity2": "US",
+      "entity2_type": "NORP",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "NORP",
+      "entity2": "32",
+      "entity2_type": "DATE",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "NORP",
+      "entity2": "m",
+      "entity2_type": "DATE",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "NORP",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "NORP",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "-",
+      "entity1_type": "NORP",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KFC",
+      "entity1_type": "NORP",
+      "entity2": "US",
+      "entity2_type": "NORP",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KFC",
+      "entity1_type": "NORP",
+      "entity2": "32",
+      "entity2_type": "DATE",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KFC",
+      "entity1_type": "NORP",
+      "entity2": "m",
+      "entity2_type": "DATE",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KFC",
+      "entity1_type": "NORP",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KFC",
+      "entity1_type": "NORP",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "KFC",
+      "entity1_type": "NORP",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "US",
+      "entity1_type": "NORP",
+      "entity2": "32",
+      "entity2_type": "DATE",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "US",
+      "entity1_type": "NORP",
+      "entity2": "m",
+      "entity2_type": "DATE",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "US",
+      "entity1_type": "NORP",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "US",
+      "entity1_type": "NORP",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "US",
+      "entity1_type": "NORP",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "32",
+      "entity1_type": "DATE",
+      "entity2": "m",
+      "entity2_type": "DATE",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "32",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "32",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "32",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "m",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "m",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "m",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ago",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ago",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AI",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "distance": 1
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "a blend",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "bullish analyst actions",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "shifting sector dynamics",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "company-specific news",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Morgan Stanley",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its price target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "strong upside potential",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Morgan Stanley",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Strong Price Appreciation",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a “buy” rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "$200 price target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Yum! Brands Coverage",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "positive momentum",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Zacks Research",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its growth profile",
+      "type": "noun_chunk",
+      "category": "trend"
+    },
+    {
+      "text": "Yum Brands",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a Strong Momentum Stock",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "foot traffic",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Yum’s brands",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "restaurant operators",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "CEO David W. Gibbs",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "7,117 shares",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "his stake",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a notable insider sell",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "David W. Gibbs",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "7,117 Shares",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Yum! Brands",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Q1 sales",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Pizza Hut",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Taco Bell",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "broader fast-food growth",
+      "type": "noun_chunk",
+      "category": "trend"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Yum! talent",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Inspire Brands",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Yum’s former CLO",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "ex-KFC US president",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Inspire Brands",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Yum Brands Executive",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Chief Legal Officer",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "ex-KFC US president",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "$153,",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$200",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "6.5%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "3%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "growth",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "growth",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "market",
+      "type": "pattern",
+      "category": "market_term"
+    }
+  ],
+  "important_sentences": [
+    {
+      "text": "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO.",
+      "importance_score": 50,
+      "entity_count": 13,
+      "financial_keyword_count": 0,
+      "money_count": 0,
+      "company_count": 6,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Dave & Buster’s hires ex-KFC US president as CEO\nPosted 32m ago\nAI Generated.",
+      "importance_score": 37,
+      "entity_count": 13,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "KeyBanc: Sentiment Positive for YUM and SHAK\nPositive Sentiment:\nZacks Research names YUM a strong momentum stock, underlining its growth profile.",
+      "importance_score": 35,
+      "entity_count": 5,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 4,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Q1 sales at KFC, Pizza Hut and Taco Bell fell 3%, underperforming broader fast-food growth.",
+      "importance_score": 34,
+      "entity_count": 8,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 3,
+      "sentiment": "positive"
+    },
+    {
+      "text": "What restaurant operators need to know about growing return-to-office trend\nNegative Sentiment:\nCEO David W. Gibbs sold 7,117 shares (~6.5% of his stake), a notable insider sell.\nDavid W. Gibbs Sells 7,117 Shares of Yum! Brands\nNegative Sentiment:",
+      "importance_score": 32,
+      "entity_count": 11,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Positive Sentiment:\nAnalysts at Melius initiate coverage on YUM with a “buy” rating and $200 price target.",
+      "importance_score": 31,
+      "entity_count": 3,
+      "financial_keyword_count": 4,
+      "money_count": 1,
+      "company_count": 2,
+      "sentiment": "positive"
+    },
+    {
+      "text": "KeyBanc highlights positive momentum for Yum! and peers like SHAK and MCD.",
+      "importance_score": 27,
+      "entity_count": 4,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 4,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Positive Sentiment:\nMorgan Stanley raises its price target on YUM to $153, citing strong upside potential.",
+      "importance_score": 24,
+      "entity_count": 4,
+      "financial_keyword_count": 1,
+      "money_count": 1,
+      "company_count": 2,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Yum! Brands, Inc. (NYSE: YUM) shares are moving in response to a blend of bullish analyst actions, shifting sector dynamics and company-specific news.",
+      "importance_score": 20,
+      "entity_count": 5,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Morgan Stanley Forecasts Strong Price Appreciation for Yum!",
+      "importance_score": 16,
+      "entity_count": 4,
+      "financial_keyword_count": 0,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "positive"
+    }
+  ],
+  "entity_statistics": {
+    "total_entities": 45,
+    "unique_entities": 28,
+    "type_counts": {
+      "ORG": 33,
+      "MONEY": 2,
+      "PERSON": 2,
+      "CARDINAL": 3,
+      "PERCENT": 2,
+      "DATE": 2,
+      "NORP": 1
+    },
+    "type_distribution": {
+      "ORG": 0.7333333333333333,
+      "MONEY": 0.044444444444444446,
+      "PERSON": 0.044444444444444446,
+      "CARDINAL": 0.06666666666666667,
+      "PERCENT": 0.044444444444444446,
+      "DATE": 0.044444444444444446,
+      "NORP": 0.022222222222222223
+    },
+    "most_common_entities": [
+      [
+        "Yum",
+        5
+      ],
+      [
+        "YUM",
+        4
+      ],
+      [
+        "Morgan Stanley",
+        2
+      ],
+      [
+        "Yum!",
+        2
+      ],
+      [
+        "Melius",
+        2
+      ],
+      [
+        "SHAK",
+        2
+      ],
+      [
+        "Yum Brands",
+        2
+      ],
+      [
+        "David W. Gibbs",
+        2
+      ],
+      [
+        "7,117",
+        2
+      ],
+      [
+        "Inspire Brands",
+        2
+      ]
+    ],
+    "entity_types_found": [
+      "ORG",
+      "MONEY",
+      "PERSON",
+      "CARDINAL",
+      "PERCENT",
+      "DATE",
+      "NORP"
+    ],
+    "company_entities": 33,
+    "person_entities": 2,
+    "financial_entities": 4,
+    "entity_density": 0.18292682926829268
+  },
+  "financial_analysis": {
+    "money_amounts": [
+      "153",
+      "200"
+    ],
+    "percentages": [
+      "~6.5%",
+      "3%"
+    ],
+    "companies": [
+      "Yum! Brands, Inc.",
+      "Morgan Stanley",
+      "YUM",
+      "Morgan Stanley",
+      "Yum!",
+      "Melius",
+      "YUM",
+      "Yum!",
+      "Melius",
+      "KeyBanc",
+      "Yum",
+      "SHAK",
+      "MCD",
+      "YUM",
+      "SHAK",
+      "Zacks Research",
+      "YUM",
+      "Yum Brands",
+      "Yum",
+      "Yum",
+      "KFC",
+      "Pizza Hut",
+      "Taco Bell",
+      "Yum",
+      "!",
+      "Inspire Brands",
+      "Yum",
+      "Dave & Buster’s",
+      "ex-KFC US",
+      "Inspire Brands",
+      "Yum Brands",
+      "Dave & Buster’s",
+      "AI Generated"
+    ],
+    "people": [
+      "David W. Gibbs",
+      "David W. Gibbs"
+    ],
+    "dates": [
+      "Q1",
+      "32m ago"
+    ],
+    "financial_terms": [
+      "market",
+      "growth",
+      "Stock",
+      "stock"
+    ],
+    "financial_metrics": [],
+    "market_indicators": [
+      "Price",
+      "price",
+      "target",
+      "rating"
+    ]
+  },
+  "temporal_analysis": {
+    "dates": [
+      "Q1",
+      "32m ago"
+    ],
+    "time_expressions": [],
+    "temporal_relationships": [],
+    "quarters": [
+      "Q1"
+    ],
+    "years": [],
+    "time_periods": []
+  },
+  "sentiment_analysis": {
+    "positive_words": 13,
+    "negative_words": 3,
+    "positive_ratio": 0.052845528455284556,
+    "negative_ratio": 0.012195121951219513,
+    "sentiment_score": 0.04065040650406504,
+    "sentiment_label": "positive",
+    "sentiment_strength": 0.04065040650406504,
+    "confidence": 0.4065040650406504
+  },
+  "industry_analysis": {
+    "dominant_industry": "food_beverage",
+    "industry_scores": {
+      "tech": 1,
+      "finance": 0,
+      "healthcare": 0,
+      "energy": 0,
+      "retail": 0,
+      "automotive": 0,
+      "media": 1,
+      "industrial": 0,
+      "real_estate": 2,
+      "telecom": 0,
+      "food_beverage": 3,
+      "travel": 0,
+      "education": 0,
+      "professional": 1,
+      "mining": 0,
+      "aerospace": 0,
+      "environmental": 0,
+      "cannabis": 0
+    },
+    "confidence": 0.375
+  },
+  "market_analysis": {
+    "market_sentiment": "bullish",
+    "bullish_indicators": 1,
+    "bearish_indicators": 0,
+    "market_conditions": {
+      "volatility": "normal",
+      "volume": "normal",
+      "trend": "bullish"
+    },
+    "trading_activity": "normal"
+  },
+  "competitor_analysis": {
+    "companies_mentioned": [
+      "Yum! Brands, Inc.",
+      "Morgan Stanley",
+      "YUM",
+      "Morgan Stanley",
+      "Yum!",
+      "Melius",
+      "YUM",
+      "Yum!",
+      "Melius",
+      "KeyBanc",
+      "Yum",
+      "SHAK",
+      "MCD",
+      "YUM",
+      "SHAK",
+      "Zacks Research",
+      "YUM",
+      "Yum Brands",
+      "Yum",
+      "Yum",
+      "KFC",
+      "Pizza Hut",
+      "Taco Bell",
+      "Yum",
+      "!",
+      "Inspire Brands",
+      "Yum",
+      "Dave & Buster’s",
+      "ex-KFC US",
+      "Inspire Brands",
+      "Yum Brands",
+      "Dave & Buster’s",
+      "AI Generated"
+    ],
+    "competitive_context": [
+      "Q1 sales at KFC, Pizza Hut and Taco Bell fell 3%, underperforming broader fast-food growth.",
+      "Negative Sentiment:\nRivals tap Yum! talent—Inspire Brands hires Yum’s former CLO and Dave & Buster’s names ex-KFC US president as CEO."
+    ],
+    "competitor_count": 33,
+    "has_competitive_language": true
+  },
+  "risk_analysis": {
+    "risk_sentences": [],
+    "risk_count": 0,
+    "risk_level": "low"
+  },
+  "opportunity_analysis": {
+    "opportunity_sentences": [
+      "Positive Sentiment:\nMorgan Stanley raises its price target on YUM to $153, citing strong upside potential.",
+      "KeyBanc: Sentiment Positive for YUM and SHAK\nPositive Sentiment:\nZacks Research names YUM a strong momentum stock, underlining its growth profile.",
+      "Q1 sales at KFC, Pizza Hut and Taco Bell fell 3%, underperforming broader fast-food growth."
+    ],
+    "opportunity_count": 3,
+    "opportunity_level": "medium"
+  },
+  "processing_metadata": {
+    "timestamp": "2025-07-17T04:19:19.369706",
+    "model_used": "en_core_web_trf",
+    "text_length": 1616
+  }
+}
