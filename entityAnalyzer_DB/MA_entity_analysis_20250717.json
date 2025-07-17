@@ -1,0 +1,3782 @@
+{
+  "ticker": "MA",
+  "entities": [
+    {
+      "text": "Mastercard",
+      "label": "ORG",
+      "start": 0,
+      "end": 10,
+      "sentence": "Mastercard (MA) Sees Positive Momentum on Multiple Fronts",
+      "context": "Mastercard (MA) Sees Positive Momentum on Multiple Fronts\nMa",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "MA",
+      "label": "ORG",
+      "start": 12,
+      "end": 14,
+      "sentence": "Mastercard (MA) Sees Positive Momentum on Multiple Fronts",
+      "context": "Mastercard (MA) Sees Positive Momentum on Multiple Fronts\nMaster",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Mastercard",
+      "label": "ORG",
+      "start": 58,
+      "end": 68,
+      "sentence": "Mastercard’s shares are trading higher, driven by upbeat analyst revisions, expanding partnerships, and new product launches that reinforce its leadership in payments and security.",
+      "context": "rd (MA) Sees Positive Momentum on Multiple Fronts\nMastercard’s shares are trading higher, driven by upbeat ana",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Seaport Research Partners",
+      "label": "ORG",
+      "start": 259,
+      "end": 284,
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "context": "hip in payments and security.\nPositive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "MA",
+      "label": "ORG",
+      "start": 294,
+      "end": 296,
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "context": "ive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimat",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "FY2025",
+      "label": "DATE",
+      "start": 328,
+      "end": 334,
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "context": "rtners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "15.94",
+      "label": "MONEY",
+      "start": 352,
+      "end": 357,
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "context": "trong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.1",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "15.86",
+      "label": "MONEY",
+      "start": 365,
+      "end": 370,
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "context": "d raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Q2",
+      "label": "DATE",
+      "start": 393,
+      "end": 395,
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "context": "mate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Ma",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "4.10",
+      "label": "MONEY",
+      "start": 404,
+      "end": 408,
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "context": ".94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s ea",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Mastercard",
+      "label": "ORG",
+      "start": 443,
+      "end": 453,
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "context": "Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.\nStock Rating Upgraded by Seapor",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Seaport Res Ptn",
+      "label": "ORG",
+      "start": 497,
+      "end": 512,
+      "sentence": "Stock Rating Upgraded by Seaport Res Ptn\nPositive Sentiment:",
+      "context": "ercard’s earnings power.\nStock Rating Upgraded by Seaport Res Ptn\nPositive Sentiment:\nRoyal Bank of Canada reiterat",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Royal Bank of Canada",
+      "label": "ORG",
+      "start": 533,
+      "end": 553,
+      "sentence": "Royal Bank of Canada reiterated an “Outperform” rating on MA with a $650 price target, signaling a 17.1% upside from current levels.",
+      "context": "g Upgraded by Seaport Res Ptn\nPositive Sentiment:\nRoyal Bank of Canada reiterated an “Outperform” rating on MA with a $6",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "MA",
+      "label": "ORG",
+      "start": 591,
+      "end": 593,
+      "sentence": "Royal Bank of Canada reiterated an “Outperform” rating on MA with a $650 price target, signaling a 17.1% upside from current levels.",
+      "context": "nk of Canada reiterated an “Outperform” rating on MA with a $650 price target, signaling a 17.1% upsid",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "650",
+      "label": "MONEY",
+      "start": 602,
+      "end": 605,
+      "sentence": "Royal Bank of Canada reiterated an “Outperform” rating on MA with a $650 price target, signaling a 17.1% upside from current levels.",
+      "context": "a reiterated an “Outperform” rating on MA with a $650 price target, signaling a 17.1% upside from curre",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "17.1%",
+      "label": "PERCENT",
+      "start": 632,
+      "end": 637,
+      "sentence": "Royal Bank of Canada reiterated an “Outperform” rating on MA with a $650 price target, signaling a 17.1% upside from current levels.",
+      "context": "ating on MA with a $650 price target, signaling a 17.1% upside from current levels.\nRBC Reiterates Outper",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "RBC",
+      "label": "ORG",
+      "start": 666,
+      "end": 669,
+      "sentence": "RBC Reiterates Outperform Rating\nPositive Sentiment:",
+      "context": "et, signaling a 17.1% upside from current levels.\nRBC Reiterates Outperform Rating\nPositive Sentiment:",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Zacks",
+      "label": "ORG",
+      "start": 719,
+      "end": 724,
+      "sentence": "Zacks highlighted MA as one of the top mobile payments stocks to buy for riding the cashless wave, underscoring its strong positioning in digital and contactless transactions.\nTop Mobile Payments Stocks to Buy\nPositive Sentiment:",
+      "context": "Reiterates Outperform Rating\nPositive Sentiment:\nZacks highlighted MA as one of the top mobile payments",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "MA",
+      "label": "ORG",
+      "start": 737,
+      "end": 739,
+      "sentence": "Zacks highlighted MA as one of the top mobile payments stocks to buy for riding the cashless wave, underscoring its strong positioning in digital and contactless transactions.\nTop Mobile Payments Stocks to Buy\nPositive Sentiment:",
+      "context": "form Rating\nPositive Sentiment:\nZacks highlighted MA as one of the top mobile payments stocks to buy f",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Mastercard",
+      "label": "ORG",
+      "start": 949,
+      "end": 959,
+      "sentence": "Mastercard’s new AI-driven fraud detection tools, cybersecurity investments and partner integrations are winning merchant trust in an increasingly risky digital environment.",
+      "context": "Mobile Payments Stocks to Buy\nPositive Sentiment:\nMastercard’s new AI-driven fraud detection tools, cybersecur",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Mastercard",
+      "label": "ORG",
+      "start": 1146,
+      "end": 1156,
+      "sentence": "Why Do Merchants Trust Mastercard in a Risky Digital World?",
+      "context": "risky digital environment.\nWhy Do Merchants Trust Mastercard in a Risky Digital World?\nPositive Sentiment:\nmyT",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "myTU",
+      "label": "ORG",
+      "start": 1203,
+      "end": 1207,
+      "sentence": "myTU selected Mastercard (alongside Visa Direct) to power real-time global payouts, expanding the company’s payments footprint and reinforcing its cross-border capabilities.",
+      "context": "ard in a Risky Digital World?\nPositive Sentiment:\nmyTU selected Mastercard (alongside Visa Direct) to po",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Mastercard",
+      "label": "ORG",
+      "start": 1217,
+      "end": 1227,
+      "sentence": "myTU selected Mastercard (alongside Visa Direct) to power real-time global payouts, expanding the company’s payments footprint and reinforcing its cross-border capabilities.",
+      "context": "Digital World?\nPositive Sentiment:\nmyTU selected Mastercard (alongside Visa Direct) to power real-time global",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Visa Direct",
+      "label": "ORG",
+      "start": 1239,
+      "end": 1250,
+      "sentence": "myTU selected Mastercard (alongside Visa Direct) to power real-time global payouts, expanding the company’s payments footprint and reinforcing its cross-border capabilities.",
+      "context": "ve Sentiment:\nmyTU selected Mastercard (alongside Visa Direct) to power real-time global payouts, expanding the",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "myTU",
+      "label": "ORG",
+      "start": 1377,
+      "end": 1381,
+      "sentence": "myTU taps Visa Direct and Mastercard\nPositive Sentiment:",
+      "context": "nt and reinforcing its cross-border capabilities.\nmyTU taps Visa Direct and Mastercard\nPositive Sentimen",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Visa Direct",
+      "label": "ORG",
+      "start": 1387,
+      "end": 1398,
+      "sentence": "myTU taps Visa Direct and Mastercard\nPositive Sentiment:",
+      "context": "nforcing its cross-border capabilities.\nmyTU taps Visa Direct and Mastercard\nPositive Sentiment:\nMastercard rel",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Mastercard",
+      "label": "ORG",
+      "start": 1403,
+      "end": 1413,
+      "sentence": "myTU taps Visa Direct and Mastercard\nPositive Sentiment:",
+      "context": "ss-border capabilities.\nmyTU taps Visa Direct and Mastercard\nPositive Sentiment:\nMastercard released a new stu",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Mastercard",
+      "label": "ORG",
+      "start": 1434,
+      "end": 1444,
+      "sentence": "Mastercard released a new study on modernizing cross-border payments for SMEs in Latin America and the Caribbean, positioning itself as a facilitator of global small-business growth.",
+      "context": "ps Visa Direct and Mastercard\nPositive Sentiment:\nMastercard released a new study on modernizing cross-border",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Latin America",
+      "label": "LOC",
+      "start": 1515,
+      "end": 1528,
+      "sentence": "Mastercard released a new study on modernizing cross-border payments for SMEs in Latin America and the Caribbean, positioning itself as a facilitator of global small-business growth.",
+      "context": "on modernizing cross-border payments for SMEs in Latin America and the Caribbean, positioning itself as a facili",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "Caribbean",
+      "label": "LOC",
+      "start": 1537,
+      "end": 1546,
+      "sentence": "Mastercard released a new study on modernizing cross-border payments for SMEs in Latin America and the Caribbean, positioning itself as a facilitator of global small-business growth.",
+      "context": "border payments for SMEs in Latin America and the Caribbean, positioning itself as a facilitator of global sm",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "Mastercard",
+      "label": "ORG",
+      "start": 1671,
+      "end": 1681,
+      "sentence": "Mastercard launched The Mastercard Collection and introduced the World Legend Mastercard, enhancing premium card offerings to capture high-spend consumers.",
+      "context": "rnizing cross-border payments\nPositive Sentiment:\nMastercard launched The Mastercard Collection and introduced",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "The Mastercard Collection",
+      "label": "PRODUCT",
+      "start": 1691,
+      "end": 1716,
+      "sentence": "Mastercard launched The Mastercard Collection and introduced the World Legend Mastercard, enhancing premium card offerings to capture high-spend consumers.",
+      "context": "payments\nPositive Sentiment:\nMastercard launched The Mastercard Collection and introduced the World Legend Mastercard, enhan",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "the World Legend Mastercard",
+      "label": "PRODUCT",
+      "start": 1732,
+      "end": 1759,
+      "sentence": "Mastercard launched The Mastercard Collection and introduced the World Legend Mastercard, enhancing premium card offerings to capture high-spend consumers.",
+      "context": "launched The Mastercard Collection and introduced the World Legend Mastercard, enhancing premium card offerings to capture high",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Mastercard",
+      "label": "ORG",
+      "start": 1890,
+      "end": 1900,
+      "sentence": "Elevating Cardholder Experiences Worldwide\nPositive Sentiment:\nMastercard extended its partnership with the Esports World Cup 2025, enhancing brand visibility among younger, digitally engaged audiences.",
+      "context": "dholder Experiences Worldwide\nPositive Sentiment:\nMastercard extended its partnership with the Esports World C",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "the Esports World Cup 2025",
+      "label": "EVENT",
+      "start": 1931,
+      "end": 1957,
+      "sentence": "Elevating Cardholder Experiences Worldwide\nPositive Sentiment:\nMastercard extended its partnership with the Esports World Cup 2025, enhancing brand visibility among younger, digitally engaged audiences.",
+      "context": "ntiment:\nMastercard extended its partnership with the Esports World Cup 2025, enhancing brand visibility among younger, digita",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Mastercard",
+      "label": "ORG",
+      "start": 2030,
+      "end": 2040,
+      "sentence": "Mastercard extends partnership with Esports World Cup 2025\nPositive Sentiment:\nPhotonPay introduced a new co-branded Mastercard credit card aimed at smarter global payments, showcasing ongoing collaboration in fintech innovation.",
+      "context": "ility among younger, digitally engaged audiences.\nMastercard extends partnership with Esports World Cup 2025\nP",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Esports World Cup 2025",
+      "label": "EVENT",
+      "start": 2066,
+      "end": 2088,
+      "sentence": "Mastercard extends partnership with Esports World Cup 2025\nPositive Sentiment:\nPhotonPay introduced a new co-branded Mastercard credit card aimed at smarter global payments, showcasing ongoing collaboration in fintech innovation.",
+      "context": "ed audiences.\nMastercard extends partnership with Esports World Cup 2025\nPositive Sentiment:\nPhotonPay introduced a new co",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "PhotonPay",
+      "label": "ORG",
+      "start": 2109,
+      "end": 2118,
+      "sentence": "Mastercard extends partnership with Esports World Cup 2025\nPositive Sentiment:\nPhotonPay introduced a new co-branded Mastercard credit card aimed at smarter global payments, showcasing ongoing collaboration in fintech innovation.",
+      "context": "p with Esports World Cup 2025\nPositive Sentiment:\nPhotonPay introduced a new co-branded Mastercard credit car",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Mastercard",
+      "label": "ORG",
+      "start": 2147,
+      "end": 2157,
+      "sentence": "Mastercard extends partnership with Esports World Cup 2025\nPositive Sentiment:\nPhotonPay introduced a new co-branded Mastercard credit card aimed at smarter global payments, showcasing ongoing collaboration in fintech innovation.",
+      "context": "Sentiment:\nPhotonPay introduced a new co-branded Mastercard credit card aimed at smarter global payments, sho",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "PhotonPay",
+      "label": "ORG",
+      "start": 2260,
+      "end": 2269,
+      "sentence": "PhotonPay Unveils Mastercard Credit Card\nPositive Sentiment:\nQatar Islamic Bank (QIB) and Mastercard kicked off a summer spend campaign, driving card usage and reinforcing strategic regional partnerships.",
+      "context": "sing ongoing collaboration in fintech innovation.\nPhotonPay Unveils Mastercard Credit Card\nPositive Sentiment",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Mastercard",
+      "label": "ORG",
+      "start": 2278,
+      "end": 2288,
+      "sentence": "PhotonPay Unveils Mastercard Credit Card\nPositive Sentiment:\nQatar Islamic Bank (QIB) and Mastercard kicked off a summer spend campaign, driving card usage and reinforcing strategic regional partnerships.",
+      "context": "boration in fintech innovation.\nPhotonPay Unveils Mastercard Credit Card\nPositive Sentiment:\nQatar Islamic Ban",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Qatar Islamic Bank",
+      "label": "ORG",
+      "start": 2321,
+      "end": 2339,
+      "sentence": "PhotonPay Unveils Mastercard Credit Card\nPositive Sentiment:\nQatar Islamic Bank (QIB) and Mastercard kicked off a summer spend campaign, driving card usage and reinforcing strategic regional partnerships.",
+      "context": "nveils Mastercard Credit Card\nPositive Sentiment:\nQatar Islamic Bank (QIB) and Mastercard kicked off a summer spend ca",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "QIB",
+      "label": "ORG",
+      "start": 2341,
+      "end": 2344,
+      "sentence": "PhotonPay Unveils Mastercard Credit Card\nPositive Sentiment:\nQatar Islamic Bank (QIB) and Mastercard kicked off a summer spend campaign, driving card usage and reinforcing strategic regional partnerships.",
+      "context": "edit Card\nPositive Sentiment:\nQatar Islamic Bank (QIB) and Mastercard kicked off a summer spend campaig",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Mastercard",
+      "label": "ORG",
+      "start": 2350,
+      "end": 2360,
+      "sentence": "PhotonPay Unveils Mastercard Credit Card\nPositive Sentiment:\nQatar Islamic Bank (QIB) and Mastercard kicked off a summer spend campaign, driving card usage and reinforcing strategic regional partnerships.",
+      "context": "Positive Sentiment:\nQatar Islamic Bank (QIB) and Mastercard kicked off a summer spend campaign, driving card",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "summer",
+      "label": "DATE",
+      "start": 2374,
+      "end": 2380,
+      "sentence": "PhotonPay Unveils Mastercard Credit Card\nPositive Sentiment:\nQatar Islamic Bank (QIB) and Mastercard kicked off a summer spend campaign, driving card usage and reinforcing strategic regional partnerships.",
+      "context": "ar Islamic Bank (QIB) and Mastercard kicked off a summer spend campaign, driving card usage and reinforcin",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "QIB",
+      "label": "ORG",
+      "start": 2465,
+      "end": 2468,
+      "sentence": "QIB and Mastercard launch summer spend campaign\nNeutral Sentiment:\nMastercard’s research concludes that stablecoins aren’t yet ready for everyday payments, reflecting a cautious approach to digital currencies.\nMastercard:",
+      "context": "and reinforcing strategic regional partnerships.\nQIB and Mastercard launch summer spend campaign\nNeutr",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Mastercard",
+      "label": "ORG",
+      "start": 2473,
+      "end": 2483,
+      "sentence": "QIB and Mastercard launch summer spend campaign\nNeutral Sentiment:\nMastercard’s research concludes that stablecoins aren’t yet ready for everyday payments, reflecting a cautious approach to digital currencies.\nMastercard:",
+      "context": "nforcing strategic regional partnerships.\nQIB and Mastercard launch summer spend campaign\nNeutral Sentiment:\nM",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "summer",
+      "label": "DATE",
+      "start": 2491,
+      "end": 2497,
+      "sentence": "QIB and Mastercard launch summer spend campaign\nNeutral Sentiment:\nMastercard’s research concludes that stablecoins aren’t yet ready for everyday payments, reflecting a cautious approach to digital currencies.\nMastercard:",
+      "context": "regional partnerships.\nQIB and Mastercard launch summer spend campaign\nNeutral Sentiment:\nMastercard’s re",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Mastercard",
+      "label": "ORG",
+      "start": 2532,
+      "end": 2542,
+      "sentence": "QIB and Mastercard launch summer spend campaign\nNeutral Sentiment:\nMastercard’s research concludes that stablecoins aren’t yet ready for everyday payments, reflecting a cautious approach to digital currencies.\nMastercard:",
+      "context": "d launch summer spend campaign\nNeutral Sentiment:\nMastercard’s research concludes that stablecoins aren’t yet",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Mastercard",
+      "label": "ORG",
+      "start": 2675,
+      "end": 2685,
+      "sentence": "QIB and Mastercard launch summer spend campaign\nNeutral Sentiment:\nMastercard’s research concludes that stablecoins aren’t yet ready for everyday payments, reflecting a cautious approach to digital currencies.\nMastercard:",
+      "context": "ecting a cautious approach to digital currencies.\nMastercard: Stablecoins Not Yet Ready for Everyday Payment U",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Techopedia",
+      "label": "ORG",
+      "start": 2757,
+      "end": 2767,
+      "sentence": "Techopedia detailed Mastercard’s distinct crypto strategy compared to Visa, illustrating ongoing exploration of blockchain and digital assets.",
+      "context": "Ready for Everyday Payment Use\nNeutral Sentiment:\nTechopedia detailed Mastercard’s distinct crypto strategy co",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Mastercard",
+      "label": "ORG",
+      "start": 2777,
+      "end": 2787,
+      "sentence": "Techopedia detailed Mastercard’s distinct crypto strategy compared to Visa, illustrating ongoing exploration of blockchain and digital assets.",
+      "context": "ayment Use\nNeutral Sentiment:\nTechopedia detailed Mastercard’s distinct crypto strategy compared to Visa, illu",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Visa",
+      "label": "ORG",
+      "start": 2827,
+      "end": 2831,
+      "sentence": "Techopedia detailed Mastercard’s distinct crypto strategy compared to Visa, illustrating ongoing exploration of blockchain and digital assets.",
+      "context": "Mastercard’s distinct crypto strategy compared to Visa, illustrating ongoing exploration of blockchain a",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Mastercard",
+      "label": "ORG",
+      "start": 2900,
+      "end": 2910,
+      "sentence": "Mastercard Takes a Different Route to Visa in Crypto Race 2025\nNeutral Sentiment:",
+      "context": "ing exploration of blockchain and digital assets.\nMastercard Takes a Different Route to Visa in Crypto Race 20",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Visa",
+      "label": "ORG",
+      "start": 2938,
+      "end": 2942,
+      "sentence": "Mastercard Takes a Different Route to Visa in Crypto Race 2025\nNeutral Sentiment:",
+      "context": "tal assets.\nMastercard Takes a Different Route to Visa in Crypto Race 2025\nNeutral Sentiment:\nA Benzinga",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "2025",
+      "label": "DATE",
+      "start": 2958,
+      "end": 2962,
+      "sentence": "Mastercard Takes a Different Route to Visa in Crypto Race 2025\nNeutral Sentiment:",
+      "context": "rd Takes a Different Route to Visa in Crypto Race 2025\nNeutral Sentiment:\nA Benzinga piece provided an a",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Benzinga",
+      "label": "ORG",
+      "start": 2984,
+      "end": 2992,
+      "sentence": "A Benzinga piece provided an aggregated outlook from 10 analysts on MA, offering a range of perspectives but no single consensus shift.",
+      "context": "to Visa in Crypto Race 2025\nNeutral Sentiment:\nA Benzinga piece provided an aggregated outlook from 10 anal",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "10",
+      "label": "CARDINAL",
+      "start": 3035,
+      "end": 3037,
+      "sentence": "A Benzinga piece provided an aggregated outlook from 10 analysts on MA, offering a range of perspectives but no single consensus shift.",
+      "context": "enzinga piece provided an aggregated outlook from 10 analysts on MA, offering a range of perspectives",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "MA",
+      "label": "ORG",
+      "start": 3050,
+      "end": 3052,
+      "sentence": "A Benzinga piece provided an aggregated outlook from 10 analysts on MA, offering a range of perspectives but no single consensus shift.",
+      "context": "rovided an aggregated outlook from 10 analysts on MA, offering a range of perspectives but no single c",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "10",
+      "label": "CARDINAL",
+      "start": 3165,
+      "end": 3167,
+      "sentence": "Expert Outlook: Mastercard Through The Eyes Of 10 Analysts\nPosted 1h ago\nAI Generated.",
+      "context": "t.\nExpert Outlook: Mastercard Through The Eyes Of 10 Analysts\nPosted 1h ago\nAI Generated. May Contain",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "1h ago",
+      "label": "DATE",
+      "start": 3184,
+      "end": 3190,
+      "sentence": "Expert Outlook: Mastercard Through The Eyes Of 10 Analysts\nPosted 1h ago\nAI Generated.",
+      "context": "Mastercard Through The Eyes Of 10 Analysts\nPosted 1h ago\nAI Generated. May Contain Errors.",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AI Generated",
+      "label": "ORG",
+      "start": 3191,
+      "end": 3203,
+      "sentence": "Expert Outlook: Mastercard Through The Eyes Of 10 Analysts\nPosted 1h ago\nAI Generated.",
+      "context": "ard Through The Eyes Of 10 Analysts\nPosted 1h ago\nAI Generated. May Contain Errors.",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    }
+  ],
+  "relationships": [
+    {
+      "type": "SVO",
+      "subject": "Mastercard",
+      "verb": "Sees",
+      "object": "Momentum",
+      "sentence": "Mastercard (MA) Sees Positive Momentum on Multiple Fronts",
+      "importance": 3
+    },
+    {
+      "type": "SVO",
+      "subject": "that",
+      "verb": "reinforce",
+      "object": "leadership",
+      "sentence": "Mastercard’s shares are trading higher, driven by upbeat analyst revisions, expanding partnerships, and new product launches that reinforce its leadership in payments and security.",
+      "importance": 4
+    },
+    {
+      "type": "SVO",
+      "subject": "Partners",
+      "verb": "upgraded",
+      "object": "MA",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "importance": 13
+    },
+    {
+      "type": "SVO",
+      "subject": "Bank",
+      "verb": "reiterated",
+      "object": "rating",
+      "sentence": "Royal Bank of Canada reiterated an “Outperform” rating on MA with a $650 price target, signaling a 17.1% upside from current levels.",
+      "importance": 11
+    },
+    {
+      "type": "SVO",
+      "subject": "RBC",
+      "verb": "Reiterates",
+      "object": "Rating",
+      "sentence": "RBC Reiterates Outperform Rating\nPositive Sentiment:",
+      "importance": 3
+    },
+    {
+      "type": "SVO",
+      "subject": "Zacks",
+      "verb": "highlighted",
+      "object": "MA",
+      "sentence": "Zacks highlighted MA as one of the top mobile payments stocks to buy for riding the cashless wave, underscoring its strong positioning in digital and contactless transactions.\nTop Mobile Payments Stocks to Buy\nPositive Sentiment:",
+      "importance": 5
+    },
+    {
+      "type": "SVO",
+      "subject": "tools",
+      "verb": "winning",
+      "object": "trust",
+      "sentence": "Mastercard’s new AI-driven fraud detection tools, cybersecurity investments and partner integrations are winning merchant trust in an increasingly risky digital environment.",
+      "importance": 4
+    },
+    {
+      "type": "SVO",
+      "subject": "Merchants",
+      "verb": "Trust",
+      "object": "Mastercard",
+      "sentence": "Why Do Merchants Trust Mastercard in a Risky Digital World?",
+      "importance": 2
+    },
+    {
+      "type": "SVO",
+      "subject": "myTU",
+      "verb": "selected",
+      "object": "Mastercard",
+      "sentence": "myTU selected Mastercard (alongside Visa Direct) to power real-time global payouts, expanding the company’s payments footprint and reinforcing its cross-border capabilities.",
+      "importance": 5
+    },
+    {
+      "type": "SVO",
+      "subject": "myTU",
+      "verb": "taps",
+      "object": "Direct",
+      "sentence": "myTU taps Visa Direct and Mastercard\nPositive Sentiment:",
+      "importance": 4
+    },
+    {
+      "type": "SVO",
+      "subject": "Mastercard",
+      "verb": "released",
+      "object": "study",
+      "sentence": "Mastercard released a new study on modernizing cross-border payments for SMEs in Latin America and the Caribbean, positioning itself as a facilitator of global small-business growth.",
+      "importance": 6
+    },
+    {
+      "type": "SVO",
+      "subject": "Mastercard",
+      "verb": "launched",
+      "object": "Collection",
+      "sentence": "Mastercard launched The Mastercard Collection and introduced the World Legend Mastercard, enhancing premium card offerings to capture high-spend consumers.",
+      "importance": 8
+    },
+    {
+      "type": "SVO",
+      "subject": "Mastercard",
+      "verb": "extended",
+      "object": "partnership",
+      "sentence": "Elevating Cardholder Experiences Worldwide\nPositive Sentiment:\nMastercard extended its partnership with the Esports World Cup 2025, enhancing brand visibility among younger, digitally engaged audiences.",
+      "importance": 7
+    },
+    {
+      "type": "SVO",
+      "subject": "Mastercard",
+      "verb": "extends",
+      "object": "partnership",
+      "sentence": "Mastercard extends partnership with Esports World Cup 2025\nPositive Sentiment:\nPhotonPay introduced a new co-branded Mastercard credit card aimed at smarter global payments, showcasing ongoing collaboration in fintech innovation.",
+      "importance": 11
+    },
+    {
+      "type": "SVO",
+      "subject": "PhotonPay",
+      "verb": "introduced",
+      "object": "card",
+      "sentence": "Mastercard extends partnership with Esports World Cup 2025\nPositive Sentiment:\nPhotonPay introduced a new co-branded Mastercard credit card aimed at smarter global payments, showcasing ongoing collaboration in fintech innovation.",
+      "importance": 11
+    },
+    {
+      "type": "SVO",
+      "subject": "PhotonPay",
+      "verb": "Unveils",
+      "object": "Card",
+      "sentence": "PhotonPay Unveils Mastercard Credit Card\nPositive Sentiment:\nQatar Islamic Bank (QIB) and Mastercard kicked off a summer spend campaign, driving card usage and reinforcing strategic regional partnerships.",
+      "importance": 9
+    },
+    {
+      "type": "SVO",
+      "subject": "Bank",
+      "verb": "kicked",
+      "object": "campaign",
+      "sentence": "PhotonPay Unveils Mastercard Credit Card\nPositive Sentiment:\nQatar Islamic Bank (QIB) and Mastercard kicked off a summer spend campaign, driving card usage and reinforcing strategic regional partnerships.",
+      "importance": 9
+    },
+    {
+      "type": "SVO",
+      "subject": "QIB",
+      "verb": "launch",
+      "object": "campaign",
+      "sentence": "QIB and Mastercard launch summer spend campaign\nNeutral Sentiment:\nMastercard’s research concludes that stablecoins aren’t yet ready for everyday payments, reflecting a cautious approach to digital currencies.\nMastercard:",
+      "importance": 6
+    },
+    {
+      "type": "SVO",
+      "subject": "Techopedia",
+      "verb": "detailed",
+      "object": "strategy",
+      "sentence": "Techopedia detailed Mastercard’s distinct crypto strategy compared to Visa, illustrating ongoing exploration of blockchain and digital assets.",
+      "importance": 6
+    },
+    {
+      "type": "SVO",
+      "subject": "Mastercard",
+      "verb": "Takes",
+      "object": "Route",
+      "sentence": "Mastercard Takes a Different Route to Visa in Crypto Race 2025\nNeutral Sentiment:",
+      "importance": 3
+    },
+    {
+      "type": "SVO",
+      "subject": "piece",
+      "verb": "provided",
+      "object": "outlook",
+      "sentence": "A Benzinga piece provided an aggregated outlook from 10 analysts on MA, offering a range of perspectives but no single consensus shift.",
+      "importance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mastercard",
+      "entity1_type": "ORG",
+      "entity2": "MA",
+      "entity2_type": "ORG",
+      "sentence": "Mastercard (MA) Sees Positive Momentum on Multiple Fronts",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "Research",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "Partners",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "MA",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "FY2025",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "15.94",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "15.86",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "4.10",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 33
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "Mastercard",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 39
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "Partners",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "MA",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "FY2025",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "15.94",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "15.86",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "4.10",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 32
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "Mastercard",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 38
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Partners",
+      "entity1_type": "ORG",
+      "entity2": "MA",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Partners",
+      "entity1_type": "ORG",
+      "entity2": "FY2025",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Partners",
+      "entity1_type": "ORG",
+      "entity2": "15.94",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Partners",
+      "entity1_type": "ORG",
+      "entity2": "15.86",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Partners",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Partners",
+      "entity1_type": "ORG",
+      "entity2": "4.10",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Partners",
+      "entity1_type": "ORG",
+      "entity2": "Mastercard",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 37
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MA",
+      "entity1_type": "ORG",
+      "entity2": "FY2025",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MA",
+      "entity1_type": "ORG",
+      "entity2": "15.94",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MA",
+      "entity1_type": "ORG",
+      "entity2": "15.86",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MA",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MA",
+      "entity1_type": "ORG",
+      "entity2": "4.10",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MA",
+      "entity1_type": "ORG",
+      "entity2": "Mastercard",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 35
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FY2025",
+      "entity1_type": "DATE",
+      "entity2": "15.94",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FY2025",
+      "entity1_type": "DATE",
+      "entity2": "15.86",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FY2025",
+      "entity1_type": "DATE",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FY2025",
+      "entity1_type": "DATE",
+      "entity2": "4.10",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "FY2025",
+      "entity1_type": "DATE",
+      "entity2": "Mastercard",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "15.94",
+      "entity1_type": "MONEY",
+      "entity2": "15.86",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "15.94",
+      "entity1_type": "MONEY",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "15.94",
+      "entity1_type": "MONEY",
+      "entity2": "4.10",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "15.94",
+      "entity1_type": "MONEY",
+      "entity2": "Mastercard",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "15.86",
+      "entity1_type": "MONEY",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "15.86",
+      "entity1_type": "MONEY",
+      "entity2": "4.10",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "15.86",
+      "entity1_type": "MONEY",
+      "entity2": "Mastercard",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "4.10",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "Mastercard",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "4.10",
+      "entity1_type": "MONEY",
+      "entity2": "Mastercard",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "Res",
+      "entity2_type": "ORG",
+      "sentence": "Stock Rating Upgraded by Seaport Res Ptn\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Seaport",
+      "entity1_type": "ORG",
+      "entity2": "Ptn",
+      "entity2_type": "ORG",
+      "sentence": "Stock Rating Upgraded by Seaport Res Ptn\nPositive Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Res",
+      "entity1_type": "ORG",
+      "entity2": "Ptn",
+      "entity2_type": "ORG",
+      "sentence": "Stock Rating Upgraded by Seaport Res Ptn\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Royal",
+      "entity1_type": "ORG",
+      "entity2": "Bank",
+      "entity2_type": "ORG",
+      "sentence": "Royal Bank of Canada reiterated an “Outperform” rating on MA with a $650 price target, signaling a 17.1% upside from current levels.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Royal",
+      "entity1_type": "ORG",
+      "entity2": "of",
+      "entity2_type": "ORG",
+      "sentence": "Royal Bank of Canada reiterated an “Outperform” rating on MA with a $650 price target, signaling a 17.1% upside from current levels.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Royal",
+      "entity1_type": "ORG",
+      "entity2": "Canada",
+      "entity2_type": "ORG",
+      "sentence": "Royal Bank of Canada reiterated an “Outperform” rating on MA with a $650 price target, signaling a 17.1% upside from current levels.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Royal",
+      "entity1_type": "ORG",
+      "entity2": "MA",
+      "entity2_type": "ORG",
+      "sentence": "Royal Bank of Canada reiterated an “Outperform” rating on MA with a $650 price target, signaling a 17.1% upside from current levels.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Royal",
+      "entity1_type": "ORG",
+      "entity2": "650",
+      "entity2_type": "MONEY",
+      "sentence": "Royal Bank of Canada reiterated an “Outperform” rating on MA with a $650 price target, signaling a 17.1% upside from current levels.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Royal",
+      "entity1_type": "ORG",
+      "entity2": "17.1",
+      "entity2_type": "PERCENT",
+      "sentence": "Royal Bank of Canada reiterated an “Outperform” rating on MA with a $650 price target, signaling a 17.1% upside from current levels.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Royal",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Royal Bank of Canada reiterated an “Outperform” rating on MA with a $650 price target, signaling a 17.1% upside from current levels.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bank",
+      "entity1_type": "ORG",
+      "entity2": "of",
+      "entity2_type": "ORG",
+      "sentence": "Royal Bank of Canada reiterated an “Outperform” rating on MA with a $650 price target, signaling a 17.1% upside from current levels.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bank",
+      "entity1_type": "ORG",
+      "entity2": "Canada",
+      "entity2_type": "ORG",
+      "sentence": "Royal Bank of Canada reiterated an “Outperform” rating on MA with a $650 price target, signaling a 17.1% upside from current levels.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bank",
+      "entity1_type": "ORG",
+      "entity2": "MA",
+      "entity2_type": "ORG",
+      "sentence": "Royal Bank of Canada reiterated an “Outperform” rating on MA with a $650 price target, signaling a 17.1% upside from current levels.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bank",
+      "entity1_type": "ORG",
+      "entity2": "650",
+      "entity2_type": "MONEY",
+      "sentence": "Royal Bank of Canada reiterated an “Outperform” rating on MA with a $650 price target, signaling a 17.1% upside from current levels.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bank",
+      "entity1_type": "ORG",
+      "entity2": "17.1",
+      "entity2_type": "PERCENT",
+      "sentence": "Royal Bank of Canada reiterated an “Outperform” rating on MA with a $650 price target, signaling a 17.1% upside from current levels.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bank",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Royal Bank of Canada reiterated an “Outperform” rating on MA with a $650 price target, signaling a 17.1% upside from current levels.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "of",
+      "entity1_type": "ORG",
+      "entity2": "Canada",
+      "entity2_type": "ORG",
+      "sentence": "Royal Bank of Canada reiterated an “Outperform” rating on MA with a $650 price target, signaling a 17.1% upside from current levels.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "of",
+      "entity1_type": "ORG",
+      "entity2": "MA",
+      "entity2_type": "ORG",
+      "sentence": "Royal Bank of Canada reiterated an “Outperform” rating on MA with a $650 price target, signaling a 17.1% upside from current levels.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "of",
+      "entity1_type": "ORG",
+      "entity2": "650",
+      "entity2_type": "MONEY",
+      "sentence": "Royal Bank of Canada reiterated an “Outperform” rating on MA with a $650 price target, signaling a 17.1% upside from current levels.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "of",
+      "entity1_type": "ORG",
+      "entity2": "17.1",
+      "entity2_type": "PERCENT",
+      "sentence": "Royal Bank of Canada reiterated an “Outperform” rating on MA with a $650 price target, signaling a 17.1% upside from current levels.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "of",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Royal Bank of Canada reiterated an “Outperform” rating on MA with a $650 price target, signaling a 17.1% upside from current levels.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Canada",
+      "entity1_type": "ORG",
+      "entity2": "MA",
+      "entity2_type": "ORG",
+      "sentence": "Royal Bank of Canada reiterated an “Outperform” rating on MA with a $650 price target, signaling a 17.1% upside from current levels.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Canada",
+      "entity1_type": "ORG",
+      "entity2": "650",
+      "entity2_type": "MONEY",
+      "sentence": "Royal Bank of Canada reiterated an “Outperform” rating on MA with a $650 price target, signaling a 17.1% upside from current levels.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Canada",
+      "entity1_type": "ORG",
+      "entity2": "17.1",
+      "entity2_type": "PERCENT",
+      "sentence": "Royal Bank of Canada reiterated an “Outperform” rating on MA with a $650 price target, signaling a 17.1% upside from current levels.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Canada",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Royal Bank of Canada reiterated an “Outperform” rating on MA with a $650 price target, signaling a 17.1% upside from current levels.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MA",
+      "entity1_type": "ORG",
+      "entity2": "650",
+      "entity2_type": "MONEY",
+      "sentence": "Royal Bank of Canada reiterated an “Outperform” rating on MA with a $650 price target, signaling a 17.1% upside from current levels.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MA",
+      "entity1_type": "ORG",
+      "entity2": "17.1",
+      "entity2_type": "PERCENT",
+      "sentence": "Royal Bank of Canada reiterated an “Outperform” rating on MA with a $650 price target, signaling a 17.1% upside from current levels.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MA",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Royal Bank of Canada reiterated an “Outperform” rating on MA with a $650 price target, signaling a 17.1% upside from current levels.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "650",
+      "entity1_type": "MONEY",
+      "entity2": "17.1",
+      "entity2_type": "PERCENT",
+      "sentence": "Royal Bank of Canada reiterated an “Outperform” rating on MA with a $650 price target, signaling a 17.1% upside from current levels.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "650",
+      "entity1_type": "MONEY",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Royal Bank of Canada reiterated an “Outperform” rating on MA with a $650 price target, signaling a 17.1% upside from current levels.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "17.1",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Royal Bank of Canada reiterated an “Outperform” rating on MA with a $650 price target, signaling a 17.1% upside from current levels.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "MA",
+      "entity2_type": "ORG",
+      "sentence": "Zacks highlighted MA as one of the top mobile payments stocks to buy for riding the cashless wave, underscoring its strong positioning in digital and contactless transactions.\nTop Mobile Payments Stocks to Buy\nPositive Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "myTU",
+      "entity1_type": "ORG",
+      "entity2": "Mastercard",
+      "entity2_type": "ORG",
+      "sentence": "myTU selected Mastercard (alongside Visa Direct) to power real-time global payouts, expanding the company’s payments footprint and reinforcing its cross-border capabilities.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "myTU",
+      "entity1_type": "ORG",
+      "entity2": "Visa",
+      "entity2_type": "ORG",
+      "sentence": "myTU selected Mastercard (alongside Visa Direct) to power real-time global payouts, expanding the company’s payments footprint and reinforcing its cross-border capabilities.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "myTU",
+      "entity1_type": "ORG",
+      "entity2": "Direct",
+      "entity2_type": "ORG",
+      "sentence": "myTU selected Mastercard (alongside Visa Direct) to power real-time global payouts, expanding the company’s payments footprint and reinforcing its cross-border capabilities.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mastercard",
+      "entity1_type": "ORG",
+      "entity2": "Visa",
+      "entity2_type": "ORG",
+      "sentence": "myTU selected Mastercard (alongside Visa Direct) to power real-time global payouts, expanding the company’s payments footprint and reinforcing its cross-border capabilities.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mastercard",
+      "entity1_type": "ORG",
+      "entity2": "Direct",
+      "entity2_type": "ORG",
+      "sentence": "myTU selected Mastercard (alongside Visa Direct) to power real-time global payouts, expanding the company’s payments footprint and reinforcing its cross-border capabilities.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Visa",
+      "entity1_type": "ORG",
+      "entity2": "Direct",
+      "entity2_type": "ORG",
+      "sentence": "myTU selected Mastercard (alongside Visa Direct) to power real-time global payouts, expanding the company’s payments footprint and reinforcing its cross-border capabilities.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "myTU",
+      "entity1_type": "ORG",
+      "entity2": "Visa",
+      "entity2_type": "ORG",
+      "sentence": "myTU taps Visa Direct and Mastercard\nPositive Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "myTU",
+      "entity1_type": "ORG",
+      "entity2": "Direct",
+      "entity2_type": "ORG",
+      "sentence": "myTU taps Visa Direct and Mastercard\nPositive Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "myTU",
+      "entity1_type": "ORG",
+      "entity2": "Mastercard",
+      "entity2_type": "ORG",
+      "sentence": "myTU taps Visa Direct and Mastercard\nPositive Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Visa",
+      "entity1_type": "ORG",
+      "entity2": "Direct",
+      "entity2_type": "ORG",
+      "sentence": "myTU taps Visa Direct and Mastercard\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Visa",
+      "entity1_type": "ORG",
+      "entity2": "Mastercard",
+      "entity2_type": "ORG",
+      "sentence": "myTU taps Visa Direct and Mastercard\nPositive Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Direct",
+      "entity1_type": "ORG",
+      "entity2": "Mastercard",
+      "entity2_type": "ORG",
+      "sentence": "myTU taps Visa Direct and Mastercard\nPositive Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mastercard",
+      "entity1_type": "ORG",
+      "entity2": "Latin",
+      "entity2_type": "LOC",
+      "sentence": "Mastercard released a new study on modernizing cross-border payments for SMEs in Latin America and the Caribbean, positioning itself as a facilitator of global small-business growth.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mastercard",
+      "entity1_type": "ORG",
+      "entity2": "America",
+      "entity2_type": "LOC",
+      "sentence": "Mastercard released a new study on modernizing cross-border payments for SMEs in Latin America and the Caribbean, positioning itself as a facilitator of global small-business growth.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mastercard",
+      "entity1_type": "ORG",
+      "entity2": "Caribbean",
+      "entity2_type": "LOC",
+      "sentence": "Mastercard released a new study on modernizing cross-border payments for SMEs in Latin America and the Caribbean, positioning itself as a facilitator of global small-business growth.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Latin",
+      "entity1_type": "LOC",
+      "entity2": "America",
+      "entity2_type": "LOC",
+      "sentence": "Mastercard released a new study on modernizing cross-border payments for SMEs in Latin America and the Caribbean, positioning itself as a facilitator of global small-business growth.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Latin",
+      "entity1_type": "LOC",
+      "entity2": "Caribbean",
+      "entity2_type": "LOC",
+      "sentence": "Mastercard released a new study on modernizing cross-border payments for SMEs in Latin America and the Caribbean, positioning itself as a facilitator of global small-business growth.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "America",
+      "entity1_type": "LOC",
+      "entity2": "Caribbean",
+      "entity2_type": "LOC",
+      "sentence": "Mastercard released a new study on modernizing cross-border payments for SMEs in Latin America and the Caribbean, positioning itself as a facilitator of global small-business growth.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mastercard",
+      "entity1_type": "ORG",
+      "entity2": "The",
+      "entity2_type": "PRODUCT",
+      "sentence": "Mastercard launched The Mastercard Collection and introduced the World Legend Mastercard, enhancing premium card offerings to capture high-spend consumers.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mastercard",
+      "entity1_type": "ORG",
+      "entity2": "Mastercard",
+      "entity2_type": "PRODUCT",
+      "sentence": "Mastercard launched The Mastercard Collection and introduced the World Legend Mastercard, enhancing premium card offerings to capture high-spend consumers.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mastercard",
+      "entity1_type": "ORG",
+      "entity2": "Collection",
+      "entity2_type": "PRODUCT",
+      "sentence": "Mastercard launched The Mastercard Collection and introduced the World Legend Mastercard, enhancing premium card offerings to capture high-spend consumers.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mastercard",
+      "entity1_type": "ORG",
+      "entity2": "the",
+      "entity2_type": "PRODUCT",
+      "sentence": "Mastercard launched The Mastercard Collection and introduced the World Legend Mastercard, enhancing premium card offerings to capture high-spend consumers.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mastercard",
+      "entity1_type": "ORG",
+      "entity2": "World",
+      "entity2_type": "PRODUCT",
+      "sentence": "Mastercard launched The Mastercard Collection and introduced the World Legend Mastercard, enhancing premium card offerings to capture high-spend consumers.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mastercard",
+      "entity1_type": "ORG",
+      "entity2": "Legend",
+      "entity2_type": "PRODUCT",
+      "sentence": "Mastercard launched The Mastercard Collection and introduced the World Legend Mastercard, enhancing premium card offerings to capture high-spend consumers.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mastercard",
+      "entity1_type": "ORG",
+      "entity2": "Mastercard",
+      "entity2_type": "PRODUCT",
+      "sentence": "Mastercard launched The Mastercard Collection and introduced the World Legend Mastercard, enhancing premium card offerings to capture high-spend consumers.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "The",
+      "entity1_type": "PRODUCT",
+      "entity2": "Mastercard",
+      "entity2_type": "PRODUCT",
+      "sentence": "Mastercard launched The Mastercard Collection and introduced the World Legend Mastercard, enhancing premium card offerings to capture high-spend consumers.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "The",
+      "entity1_type": "PRODUCT",
+      "entity2": "Collection",
+      "entity2_type": "PRODUCT",
+      "sentence": "Mastercard launched The Mastercard Collection and introduced the World Legend Mastercard, enhancing premium card offerings to capture high-spend consumers.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "The",
+      "entity1_type": "PRODUCT",
+      "entity2": "the",
+      "entity2_type": "PRODUCT",
+      "sentence": "Mastercard launched The Mastercard Collection and introduced the World Legend Mastercard, enhancing premium card offerings to capture high-spend consumers.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "The",
+      "entity1_type": "PRODUCT",
+      "entity2": "World",
+      "entity2_type": "PRODUCT",
+      "sentence": "Mastercard launched The Mastercard Collection and introduced the World Legend Mastercard, enhancing premium card offerings to capture high-spend consumers.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "The",
+      "entity1_type": "PRODUCT",
+      "entity2": "Legend",
+      "entity2_type": "PRODUCT",
+      "sentence": "Mastercard launched The Mastercard Collection and introduced the World Legend Mastercard, enhancing premium card offerings to capture high-spend consumers.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "The",
+      "entity1_type": "PRODUCT",
+      "entity2": "Mastercard",
+      "entity2_type": "PRODUCT",
+      "sentence": "Mastercard launched The Mastercard Collection and introduced the World Legend Mastercard, enhancing premium card offerings to capture high-spend consumers.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mastercard",
+      "entity1_type": "PRODUCT",
+      "entity2": "Collection",
+      "entity2_type": "PRODUCT",
+      "sentence": "Mastercard launched The Mastercard Collection and introduced the World Legend Mastercard, enhancing premium card offerings to capture high-spend consumers.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mastercard",
+      "entity1_type": "PRODUCT",
+      "entity2": "the",
+      "entity2_type": "PRODUCT",
+      "sentence": "Mastercard launched The Mastercard Collection and introduced the World Legend Mastercard, enhancing premium card offerings to capture high-spend consumers.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mastercard",
+      "entity1_type": "PRODUCT",
+      "entity2": "World",
+      "entity2_type": "PRODUCT",
+      "sentence": "Mastercard launched The Mastercard Collection and introduced the World Legend Mastercard, enhancing premium card offerings to capture high-spend consumers.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mastercard",
+      "entity1_type": "PRODUCT",
+      "entity2": "Legend",
+      "entity2_type": "PRODUCT",
+      "sentence": "Mastercard launched The Mastercard Collection and introduced the World Legend Mastercard, enhancing premium card offerings to capture high-spend consumers.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mastercard",
+      "entity1_type": "PRODUCT",
+      "entity2": "Mastercard",
+      "entity2_type": "PRODUCT",
+      "sentence": "Mastercard launched The Mastercard Collection and introduced the World Legend Mastercard, enhancing premium card offerings to capture high-spend consumers.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Collection",
+      "entity1_type": "PRODUCT",
+      "entity2": "the",
+      "entity2_type": "PRODUCT",
+      "sentence": "Mastercard launched The Mastercard Collection and introduced the World Legend Mastercard, enhancing premium card offerings to capture high-spend consumers.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Collection",
+      "entity1_type": "PRODUCT",
+      "entity2": "World",
+      "entity2_type": "PRODUCT",
+      "sentence": "Mastercard launched The Mastercard Collection and introduced the World Legend Mastercard, enhancing premium card offerings to capture high-spend consumers.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Collection",
+      "entity1_type": "PRODUCT",
+      "entity2": "Legend",
+      "entity2_type": "PRODUCT",
+      "sentence": "Mastercard launched The Mastercard Collection and introduced the World Legend Mastercard, enhancing premium card offerings to capture high-spend consumers.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Collection",
+      "entity1_type": "PRODUCT",
+      "entity2": "Mastercard",
+      "entity2_type": "PRODUCT",
+      "sentence": "Mastercard launched The Mastercard Collection and introduced the World Legend Mastercard, enhancing premium card offerings to capture high-spend consumers.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "PRODUCT",
+      "entity2": "World",
+      "entity2_type": "PRODUCT",
+      "sentence": "Mastercard launched The Mastercard Collection and introduced the World Legend Mastercard, enhancing premium card offerings to capture high-spend consumers.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "PRODUCT",
+      "entity2": "Legend",
+      "entity2_type": "PRODUCT",
+      "sentence": "Mastercard launched The Mastercard Collection and introduced the World Legend Mastercard, enhancing premium card offerings to capture high-spend consumers.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "PRODUCT",
+      "entity2": "Mastercard",
+      "entity2_type": "PRODUCT",
+      "sentence": "Mastercard launched The Mastercard Collection and introduced the World Legend Mastercard, enhancing premium card offerings to capture high-spend consumers.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "World",
+      "entity1_type": "PRODUCT",
+      "entity2": "Legend",
+      "entity2_type": "PRODUCT",
+      "sentence": "Mastercard launched The Mastercard Collection and introduced the World Legend Mastercard, enhancing premium card offerings to capture high-spend consumers.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "World",
+      "entity1_type": "PRODUCT",
+      "entity2": "Mastercard",
+      "entity2_type": "PRODUCT",
+      "sentence": "Mastercard launched The Mastercard Collection and introduced the World Legend Mastercard, enhancing premium card offerings to capture high-spend consumers.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Legend",
+      "entity1_type": "PRODUCT",
+      "entity2": "Mastercard",
+      "entity2_type": "PRODUCT",
+      "sentence": "Mastercard launched The Mastercard Collection and introduced the World Legend Mastercard, enhancing premium card offerings to capture high-spend consumers.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mastercard",
+      "entity1_type": "ORG",
+      "entity2": "the",
+      "entity2_type": "EVENT",
+      "sentence": "Elevating Cardholder Experiences Worldwide\nPositive Sentiment:\nMastercard extended its partnership with the Esports World Cup 2025, enhancing brand visibility among younger, digitally engaged audiences.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mastercard",
+      "entity1_type": "ORG",
+      "entity2": "Esports",
+      "entity2_type": "EVENT",
+      "sentence": "Elevating Cardholder Experiences Worldwide\nPositive Sentiment:\nMastercard extended its partnership with the Esports World Cup 2025, enhancing brand visibility among younger, digitally engaged audiences.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mastercard",
+      "entity1_type": "ORG",
+      "entity2": "World",
+      "entity2_type": "EVENT",
+      "sentence": "Elevating Cardholder Experiences Worldwide\nPositive Sentiment:\nMastercard extended its partnership with the Esports World Cup 2025, enhancing brand visibility among younger, digitally engaged audiences.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mastercard",
+      "entity1_type": "ORG",
+      "entity2": "Cup",
+      "entity2_type": "EVENT",
+      "sentence": "Elevating Cardholder Experiences Worldwide\nPositive Sentiment:\nMastercard extended its partnership with the Esports World Cup 2025, enhancing brand visibility among younger, digitally engaged audiences.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mastercard",
+      "entity1_type": "ORG",
+      "entity2": "2025",
+      "entity2_type": "EVENT",
+      "sentence": "Elevating Cardholder Experiences Worldwide\nPositive Sentiment:\nMastercard extended its partnership with the Esports World Cup 2025, enhancing brand visibility among younger, digitally engaged audiences.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "EVENT",
+      "entity2": "Esports",
+      "entity2_type": "EVENT",
+      "sentence": "Elevating Cardholder Experiences Worldwide\nPositive Sentiment:\nMastercard extended its partnership with the Esports World Cup 2025, enhancing brand visibility among younger, digitally engaged audiences.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "EVENT",
+      "entity2": "World",
+      "entity2_type": "EVENT",
+      "sentence": "Elevating Cardholder Experiences Worldwide\nPositive Sentiment:\nMastercard extended its partnership with the Esports World Cup 2025, enhancing brand visibility among younger, digitally engaged audiences.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "EVENT",
+      "entity2": "Cup",
+      "entity2_type": "EVENT",
+      "sentence": "Elevating Cardholder Experiences Worldwide\nPositive Sentiment:\nMastercard extended its partnership with the Esports World Cup 2025, enhancing brand visibility among younger, digitally engaged audiences.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "EVENT",
+      "entity2": "2025",
+      "entity2_type": "EVENT",
+      "sentence": "Elevating Cardholder Experiences Worldwide\nPositive Sentiment:\nMastercard extended its partnership with the Esports World Cup 2025, enhancing brand visibility among younger, digitally engaged audiences.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Esports",
+      "entity1_type": "EVENT",
+      "entity2": "World",
+      "entity2_type": "EVENT",
+      "sentence": "Elevating Cardholder Experiences Worldwide\nPositive Sentiment:\nMastercard extended its partnership with the Esports World Cup 2025, enhancing brand visibility among younger, digitally engaged audiences.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Esports",
+      "entity1_type": "EVENT",
+      "entity2": "Cup",
+      "entity2_type": "EVENT",
+      "sentence": "Elevating Cardholder Experiences Worldwide\nPositive Sentiment:\nMastercard extended its partnership with the Esports World Cup 2025, enhancing brand visibility among younger, digitally engaged audiences.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Esports",
+      "entity1_type": "EVENT",
+      "entity2": "2025",
+      "entity2_type": "EVENT",
+      "sentence": "Elevating Cardholder Experiences Worldwide\nPositive Sentiment:\nMastercard extended its partnership with the Esports World Cup 2025, enhancing brand visibility among younger, digitally engaged audiences.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "World",
+      "entity1_type": "EVENT",
+      "entity2": "Cup",
+      "entity2_type": "EVENT",
+      "sentence": "Elevating Cardholder Experiences Worldwide\nPositive Sentiment:\nMastercard extended its partnership with the Esports World Cup 2025, enhancing brand visibility among younger, digitally engaged audiences.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "World",
+      "entity1_type": "EVENT",
+      "entity2": "2025",
+      "entity2_type": "EVENT",
+      "sentence": "Elevating Cardholder Experiences Worldwide\nPositive Sentiment:\nMastercard extended its partnership with the Esports World Cup 2025, enhancing brand visibility among younger, digitally engaged audiences.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cup",
+      "entity1_type": "EVENT",
+      "entity2": "2025",
+      "entity2_type": "EVENT",
+      "sentence": "Elevating Cardholder Experiences Worldwide\nPositive Sentiment:\nMastercard extended its partnership with the Esports World Cup 2025, enhancing brand visibility among younger, digitally engaged audiences.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mastercard",
+      "entity1_type": "ORG",
+      "entity2": "Esports",
+      "entity2_type": "EVENT",
+      "sentence": "Mastercard extends partnership with Esports World Cup 2025\nPositive Sentiment:\nPhotonPay introduced a new co-branded Mastercard credit card aimed at smarter global payments, showcasing ongoing collaboration in fintech innovation.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mastercard",
+      "entity1_type": "ORG",
+      "entity2": "World",
+      "entity2_type": "EVENT",
+      "sentence": "Mastercard extends partnership with Esports World Cup 2025\nPositive Sentiment:\nPhotonPay introduced a new co-branded Mastercard credit card aimed at smarter global payments, showcasing ongoing collaboration in fintech innovation.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mastercard",
+      "entity1_type": "ORG",
+      "entity2": "Cup",
+      "entity2_type": "EVENT",
+      "sentence": "Mastercard extends partnership with Esports World Cup 2025\nPositive Sentiment:\nPhotonPay introduced a new co-branded Mastercard credit card aimed at smarter global payments, showcasing ongoing collaboration in fintech innovation.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mastercard",
+      "entity1_type": "ORG",
+      "entity2": "2025",
+      "entity2_type": "EVENT",
+      "sentence": "Mastercard extends partnership with Esports World Cup 2025\nPositive Sentiment:\nPhotonPay introduced a new co-branded Mastercard credit card aimed at smarter global payments, showcasing ongoing collaboration in fintech innovation.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mastercard",
+      "entity1_type": "ORG",
+      "entity2": "PhotonPay",
+      "entity2_type": "ORG",
+      "sentence": "Mastercard extends partnership with Esports World Cup 2025\nPositive Sentiment:\nPhotonPay introduced a new co-branded Mastercard credit card aimed at smarter global payments, showcasing ongoing collaboration in fintech innovation.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mastercard",
+      "entity1_type": "ORG",
+      "entity2": "Mastercard",
+      "entity2_type": "ORG",
+      "sentence": "Mastercard extends partnership with Esports World Cup 2025\nPositive Sentiment:\nPhotonPay introduced a new co-branded Mastercard credit card aimed at smarter global payments, showcasing ongoing collaboration in fintech innovation.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Esports",
+      "entity1_type": "EVENT",
+      "entity2": "World",
+      "entity2_type": "EVENT",
+      "sentence": "Mastercard extends partnership with Esports World Cup 2025\nPositive Sentiment:\nPhotonPay introduced a new co-branded Mastercard credit card aimed at smarter global payments, showcasing ongoing collaboration in fintech innovation.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Esports",
+      "entity1_type": "EVENT",
+      "entity2": "Cup",
+      "entity2_type": "EVENT",
+      "sentence": "Mastercard extends partnership with Esports World Cup 2025\nPositive Sentiment:\nPhotonPay introduced a new co-branded Mastercard credit card aimed at smarter global payments, showcasing ongoing collaboration in fintech innovation.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Esports",
+      "entity1_type": "EVENT",
+      "entity2": "2025",
+      "entity2_type": "EVENT",
+      "sentence": "Mastercard extends partnership with Esports World Cup 2025\nPositive Sentiment:\nPhotonPay introduced a new co-branded Mastercard credit card aimed at smarter global payments, showcasing ongoing collaboration in fintech innovation.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Esports",
+      "entity1_type": "EVENT",
+      "entity2": "PhotonPay",
+      "entity2_type": "ORG",
+      "sentence": "Mastercard extends partnership with Esports World Cup 2025\nPositive Sentiment:\nPhotonPay introduced a new co-branded Mastercard credit card aimed at smarter global payments, showcasing ongoing collaboration in fintech innovation.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Esports",
+      "entity1_type": "EVENT",
+      "entity2": "Mastercard",
+      "entity2_type": "ORG",
+      "sentence": "Mastercard extends partnership with Esports World Cup 2025\nPositive Sentiment:\nPhotonPay introduced a new co-branded Mastercard credit card aimed at smarter global payments, showcasing ongoing collaboration in fintech innovation.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "World",
+      "entity1_type": "EVENT",
+      "entity2": "Cup",
+      "entity2_type": "EVENT",
+      "sentence": "Mastercard extends partnership with Esports World Cup 2025\nPositive Sentiment:\nPhotonPay introduced a new co-branded Mastercard credit card aimed at smarter global payments, showcasing ongoing collaboration in fintech innovation.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "World",
+      "entity1_type": "EVENT",
+      "entity2": "2025",
+      "entity2_type": "EVENT",
+      "sentence": "Mastercard extends partnership with Esports World Cup 2025\nPositive Sentiment:\nPhotonPay introduced a new co-branded Mastercard credit card aimed at smarter global payments, showcasing ongoing collaboration in fintech innovation.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "World",
+      "entity1_type": "EVENT",
+      "entity2": "PhotonPay",
+      "entity2_type": "ORG",
+      "sentence": "Mastercard extends partnership with Esports World Cup 2025\nPositive Sentiment:\nPhotonPay introduced a new co-branded Mastercard credit card aimed at smarter global payments, showcasing ongoing collaboration in fintech innovation.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "World",
+      "entity1_type": "EVENT",
+      "entity2": "Mastercard",
+      "entity2_type": "ORG",
+      "sentence": "Mastercard extends partnership with Esports World Cup 2025\nPositive Sentiment:\nPhotonPay introduced a new co-branded Mastercard credit card aimed at smarter global payments, showcasing ongoing collaboration in fintech innovation.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cup",
+      "entity1_type": "EVENT",
+      "entity2": "2025",
+      "entity2_type": "EVENT",
+      "sentence": "Mastercard extends partnership with Esports World Cup 2025\nPositive Sentiment:\nPhotonPay introduced a new co-branded Mastercard credit card aimed at smarter global payments, showcasing ongoing collaboration in fintech innovation.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cup",
+      "entity1_type": "EVENT",
+      "entity2": "PhotonPay",
+      "entity2_type": "ORG",
+      "sentence": "Mastercard extends partnership with Esports World Cup 2025\nPositive Sentiment:\nPhotonPay introduced a new co-branded Mastercard credit card aimed at smarter global payments, showcasing ongoing collaboration in fintech innovation.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cup",
+      "entity1_type": "EVENT",
+      "entity2": "Mastercard",
+      "entity2_type": "ORG",
+      "sentence": "Mastercard extends partnership with Esports World Cup 2025\nPositive Sentiment:\nPhotonPay introduced a new co-branded Mastercard credit card aimed at smarter global payments, showcasing ongoing collaboration in fintech innovation.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "EVENT",
+      "entity2": "PhotonPay",
+      "entity2_type": "ORG",
+      "sentence": "Mastercard extends partnership with Esports World Cup 2025\nPositive Sentiment:\nPhotonPay introduced a new co-branded Mastercard credit card aimed at smarter global payments, showcasing ongoing collaboration in fintech innovation.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "EVENT",
+      "entity2": "Mastercard",
+      "entity2_type": "ORG",
+      "sentence": "Mastercard extends partnership with Esports World Cup 2025\nPositive Sentiment:\nPhotonPay introduced a new co-branded Mastercard credit card aimed at smarter global payments, showcasing ongoing collaboration in fintech innovation.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "PhotonPay",
+      "entity1_type": "ORG",
+      "entity2": "Mastercard",
+      "entity2_type": "ORG",
+      "sentence": "Mastercard extends partnership with Esports World Cup 2025\nPositive Sentiment:\nPhotonPay introduced a new co-branded Mastercard credit card aimed at smarter global payments, showcasing ongoing collaboration in fintech innovation.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "PhotonPay",
+      "entity1_type": "ORG",
+      "entity2": "Mastercard",
+      "entity2_type": "ORG",
+      "sentence": "PhotonPay Unveils Mastercard Credit Card\nPositive Sentiment:\nQatar Islamic Bank (QIB) and Mastercard kicked off a summer spend campaign, driving card usage and reinforcing strategic regional partnerships.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "PhotonPay",
+      "entity1_type": "ORG",
+      "entity2": "Qatar",
+      "entity2_type": "ORG",
+      "sentence": "PhotonPay Unveils Mastercard Credit Card\nPositive Sentiment:\nQatar Islamic Bank (QIB) and Mastercard kicked off a summer spend campaign, driving card usage and reinforcing strategic regional partnerships.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "PhotonPay",
+      "entity1_type": "ORG",
+      "entity2": "Islamic",
+      "entity2_type": "ORG",
+      "sentence": "PhotonPay Unveils Mastercard Credit Card\nPositive Sentiment:\nQatar Islamic Bank (QIB) and Mastercard kicked off a summer spend campaign, driving card usage and reinforcing strategic regional partnerships.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "PhotonPay",
+      "entity1_type": "ORG",
+      "entity2": "Bank",
+      "entity2_type": "ORG",
+      "sentence": "PhotonPay Unveils Mastercard Credit Card\nPositive Sentiment:\nQatar Islamic Bank (QIB) and Mastercard kicked off a summer spend campaign, driving card usage and reinforcing strategic regional partnerships.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "PhotonPay",
+      "entity1_type": "ORG",
+      "entity2": "QIB",
+      "entity2_type": "ORG",
+      "sentence": "PhotonPay Unveils Mastercard Credit Card\nPositive Sentiment:\nQatar Islamic Bank (QIB) and Mastercard kicked off a summer spend campaign, driving card usage and reinforcing strategic regional partnerships.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "PhotonPay",
+      "entity1_type": "ORG",
+      "entity2": "Mastercard",
+      "entity2_type": "ORG",
+      "sentence": "PhotonPay Unveils Mastercard Credit Card\nPositive Sentiment:\nQatar Islamic Bank (QIB) and Mastercard kicked off a summer spend campaign, driving card usage and reinforcing strategic regional partnerships.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "PhotonPay",
+      "entity1_type": "ORG",
+      "entity2": "summer",
+      "entity2_type": "DATE",
+      "sentence": "PhotonPay Unveils Mastercard Credit Card\nPositive Sentiment:\nQatar Islamic Bank (QIB) and Mastercard kicked off a summer spend campaign, driving card usage and reinforcing strategic regional partnerships.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mastercard",
+      "entity1_type": "ORG",
+      "entity2": "Qatar",
+      "entity2_type": "ORG",
+      "sentence": "PhotonPay Unveils Mastercard Credit Card\nPositive Sentiment:\nQatar Islamic Bank (QIB) and Mastercard kicked off a summer spend campaign, driving card usage and reinforcing strategic regional partnerships.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mastercard",
+      "entity1_type": "ORG",
+      "entity2": "Islamic",
+      "entity2_type": "ORG",
+      "sentence": "PhotonPay Unveils Mastercard Credit Card\nPositive Sentiment:\nQatar Islamic Bank (QIB) and Mastercard kicked off a summer spend campaign, driving card usage and reinforcing strategic regional partnerships.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mastercard",
+      "entity1_type": "ORG",
+      "entity2": "Bank",
+      "entity2_type": "ORG",
+      "sentence": "PhotonPay Unveils Mastercard Credit Card\nPositive Sentiment:\nQatar Islamic Bank (QIB) and Mastercard kicked off a summer spend campaign, driving card usage and reinforcing strategic regional partnerships.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mastercard",
+      "entity1_type": "ORG",
+      "entity2": "QIB",
+      "entity2_type": "ORG",
+      "sentence": "PhotonPay Unveils Mastercard Credit Card\nPositive Sentiment:\nQatar Islamic Bank (QIB) and Mastercard kicked off a summer spend campaign, driving card usage and reinforcing strategic regional partnerships.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mastercard",
+      "entity1_type": "ORG",
+      "entity2": "Mastercard",
+      "entity2_type": "ORG",
+      "sentence": "PhotonPay Unveils Mastercard Credit Card\nPositive Sentiment:\nQatar Islamic Bank (QIB) and Mastercard kicked off a summer spend campaign, driving card usage and reinforcing strategic regional partnerships.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mastercard",
+      "entity1_type": "ORG",
+      "entity2": "summer",
+      "entity2_type": "DATE",
+      "sentence": "PhotonPay Unveils Mastercard Credit Card\nPositive Sentiment:\nQatar Islamic Bank (QIB) and Mastercard kicked off a summer spend campaign, driving card usage and reinforcing strategic regional partnerships.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Qatar",
+      "entity1_type": "ORG",
+      "entity2": "Islamic",
+      "entity2_type": "ORG",
+      "sentence": "PhotonPay Unveils Mastercard Credit Card\nPositive Sentiment:\nQatar Islamic Bank (QIB) and Mastercard kicked off a summer spend campaign, driving card usage and reinforcing strategic regional partnerships.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Qatar",
+      "entity1_type": "ORG",
+      "entity2": "Bank",
+      "entity2_type": "ORG",
+      "sentence": "PhotonPay Unveils Mastercard Credit Card\nPositive Sentiment:\nQatar Islamic Bank (QIB) and Mastercard kicked off a summer spend campaign, driving card usage and reinforcing strategic regional partnerships.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Qatar",
+      "entity1_type": "ORG",
+      "entity2": "QIB",
+      "entity2_type": "ORG",
+      "sentence": "PhotonPay Unveils Mastercard Credit Card\nPositive Sentiment:\nQatar Islamic Bank (QIB) and Mastercard kicked off a summer spend campaign, driving card usage and reinforcing strategic regional partnerships.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Qatar",
+      "entity1_type": "ORG",
+      "entity2": "Mastercard",
+      "entity2_type": "ORG",
+      "sentence": "PhotonPay Unveils Mastercard Credit Card\nPositive Sentiment:\nQatar Islamic Bank (QIB) and Mastercard kicked off a summer spend campaign, driving card usage and reinforcing strategic regional partnerships.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Qatar",
+      "entity1_type": "ORG",
+      "entity2": "summer",
+      "entity2_type": "DATE",
+      "sentence": "PhotonPay Unveils Mastercard Credit Card\nPositive Sentiment:\nQatar Islamic Bank (QIB) and Mastercard kicked off a summer spend campaign, driving card usage and reinforcing strategic regional partnerships.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Islamic",
+      "entity1_type": "ORG",
+      "entity2": "Bank",
+      "entity2_type": "ORG",
+      "sentence": "PhotonPay Unveils Mastercard Credit Card\nPositive Sentiment:\nQatar Islamic Bank (QIB) and Mastercard kicked off a summer spend campaign, driving card usage and reinforcing strategic regional partnerships.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Islamic",
+      "entity1_type": "ORG",
+      "entity2": "QIB",
+      "entity2_type": "ORG",
+      "sentence": "PhotonPay Unveils Mastercard Credit Card\nPositive Sentiment:\nQatar Islamic Bank (QIB) and Mastercard kicked off a summer spend campaign, driving card usage and reinforcing strategic regional partnerships.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Islamic",
+      "entity1_type": "ORG",
+      "entity2": "Mastercard",
+      "entity2_type": "ORG",
+      "sentence": "PhotonPay Unveils Mastercard Credit Card\nPositive Sentiment:\nQatar Islamic Bank (QIB) and Mastercard kicked off a summer spend campaign, driving card usage and reinforcing strategic regional partnerships.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Islamic",
+      "entity1_type": "ORG",
+      "entity2": "summer",
+      "entity2_type": "DATE",
+      "sentence": "PhotonPay Unveils Mastercard Credit Card\nPositive Sentiment:\nQatar Islamic Bank (QIB) and Mastercard kicked off a summer spend campaign, driving card usage and reinforcing strategic regional partnerships.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bank",
+      "entity1_type": "ORG",
+      "entity2": "QIB",
+      "entity2_type": "ORG",
+      "sentence": "PhotonPay Unveils Mastercard Credit Card\nPositive Sentiment:\nQatar Islamic Bank (QIB) and Mastercard kicked off a summer spend campaign, driving card usage and reinforcing strategic regional partnerships.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bank",
+      "entity1_type": "ORG",
+      "entity2": "Mastercard",
+      "entity2_type": "ORG",
+      "sentence": "PhotonPay Unveils Mastercard Credit Card\nPositive Sentiment:\nQatar Islamic Bank (QIB) and Mastercard kicked off a summer spend campaign, driving card usage and reinforcing strategic regional partnerships.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bank",
+      "entity1_type": "ORG",
+      "entity2": "summer",
+      "entity2_type": "DATE",
+      "sentence": "PhotonPay Unveils Mastercard Credit Card\nPositive Sentiment:\nQatar Islamic Bank (QIB) and Mastercard kicked off a summer spend campaign, driving card usage and reinforcing strategic regional partnerships.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "QIB",
+      "entity1_type": "ORG",
+      "entity2": "Mastercard",
+      "entity2_type": "ORG",
+      "sentence": "PhotonPay Unveils Mastercard Credit Card\nPositive Sentiment:\nQatar Islamic Bank (QIB) and Mastercard kicked off a summer spend campaign, driving card usage and reinforcing strategic regional partnerships.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "QIB",
+      "entity1_type": "ORG",
+      "entity2": "summer",
+      "entity2_type": "DATE",
+      "sentence": "PhotonPay Unveils Mastercard Credit Card\nPositive Sentiment:\nQatar Islamic Bank (QIB) and Mastercard kicked off a summer spend campaign, driving card usage and reinforcing strategic regional partnerships.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mastercard",
+      "entity1_type": "ORG",
+      "entity2": "summer",
+      "entity2_type": "DATE",
+      "sentence": "PhotonPay Unveils Mastercard Credit Card\nPositive Sentiment:\nQatar Islamic Bank (QIB) and Mastercard kicked off a summer spend campaign, driving card usage and reinforcing strategic regional partnerships.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "QIB",
+      "entity1_type": "ORG",
+      "entity2": "Mastercard",
+      "entity2_type": "ORG",
+      "sentence": "QIB and Mastercard launch summer spend campaign\nNeutral Sentiment:\nMastercard’s research concludes that stablecoins aren’t yet ready for everyday payments, reflecting a cautious approach to digital currencies.\nMastercard:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "QIB",
+      "entity1_type": "ORG",
+      "entity2": "summer",
+      "entity2_type": "DATE",
+      "sentence": "QIB and Mastercard launch summer spend campaign\nNeutral Sentiment:\nMastercard’s research concludes that stablecoins aren’t yet ready for everyday payments, reflecting a cautious approach to digital currencies.\nMastercard:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "QIB",
+      "entity1_type": "ORG",
+      "entity2": "Mastercard",
+      "entity2_type": "ORG",
+      "sentence": "QIB and Mastercard launch summer spend campaign\nNeutral Sentiment:\nMastercard’s research concludes that stablecoins aren’t yet ready for everyday payments, reflecting a cautious approach to digital currencies.\nMastercard:",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "QIB",
+      "entity1_type": "ORG",
+      "entity2": "Mastercard",
+      "entity2_type": "ORG",
+      "sentence": "QIB and Mastercard launch summer spend campaign\nNeutral Sentiment:\nMastercard’s research concludes that stablecoins aren’t yet ready for everyday payments, reflecting a cautious approach to digital currencies.\nMastercard:",
+      "distance": 35
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mastercard",
+      "entity1_type": "ORG",
+      "entity2": "summer",
+      "entity2_type": "DATE",
+      "sentence": "QIB and Mastercard launch summer spend campaign\nNeutral Sentiment:\nMastercard’s research concludes that stablecoins aren’t yet ready for everyday payments, reflecting a cautious approach to digital currencies.\nMastercard:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mastercard",
+      "entity1_type": "ORG",
+      "entity2": "Mastercard",
+      "entity2_type": "ORG",
+      "sentence": "QIB and Mastercard launch summer spend campaign\nNeutral Sentiment:\nMastercard’s research concludes that stablecoins aren’t yet ready for everyday payments, reflecting a cautious approach to digital currencies.\nMastercard:",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mastercard",
+      "entity1_type": "ORG",
+      "entity2": "Mastercard",
+      "entity2_type": "ORG",
+      "sentence": "QIB and Mastercard launch summer spend campaign\nNeutral Sentiment:\nMastercard’s research concludes that stablecoins aren’t yet ready for everyday payments, reflecting a cautious approach to digital currencies.\nMastercard:",
+      "distance": 33
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "summer",
+      "entity1_type": "DATE",
+      "entity2": "Mastercard",
+      "entity2_type": "ORG",
+      "sentence": "QIB and Mastercard launch summer spend campaign\nNeutral Sentiment:\nMastercard’s research concludes that stablecoins aren’t yet ready for everyday payments, reflecting a cautious approach to digital currencies.\nMastercard:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "summer",
+      "entity1_type": "DATE",
+      "entity2": "Mastercard",
+      "entity2_type": "ORG",
+      "sentence": "QIB and Mastercard launch summer spend campaign\nNeutral Sentiment:\nMastercard’s research concludes that stablecoins aren’t yet ready for everyday payments, reflecting a cautious approach to digital currencies.\nMastercard:",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mastercard",
+      "entity1_type": "ORG",
+      "entity2": "Mastercard",
+      "entity2_type": "ORG",
+      "sentence": "QIB and Mastercard launch summer spend campaign\nNeutral Sentiment:\nMastercard’s research concludes that stablecoins aren’t yet ready for everyday payments, reflecting a cautious approach to digital currencies.\nMastercard:",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Techopedia",
+      "entity1_type": "ORG",
+      "entity2": "Mastercard",
+      "entity2_type": "ORG",
+      "sentence": "Techopedia detailed Mastercard’s distinct crypto strategy compared to Visa, illustrating ongoing exploration of blockchain and digital assets.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Techopedia",
+      "entity1_type": "ORG",
+      "entity2": "Visa",
+      "entity2_type": "ORG",
+      "sentence": "Techopedia detailed Mastercard’s distinct crypto strategy compared to Visa, illustrating ongoing exploration of blockchain and digital assets.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mastercard",
+      "entity1_type": "ORG",
+      "entity2": "Visa",
+      "entity2_type": "ORG",
+      "sentence": "Techopedia detailed Mastercard’s distinct crypto strategy compared to Visa, illustrating ongoing exploration of blockchain and digital assets.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mastercard",
+      "entity1_type": "ORG",
+      "entity2": "Visa",
+      "entity2_type": "ORG",
+      "sentence": "Mastercard Takes a Different Route to Visa in Crypto Race 2025\nNeutral Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mastercard",
+      "entity1_type": "ORG",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Mastercard Takes a Different Route to Visa in Crypto Race 2025\nNeutral Sentiment:",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Visa",
+      "entity1_type": "ORG",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Mastercard Takes a Different Route to Visa in Crypto Race 2025\nNeutral Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Benzinga",
+      "entity1_type": "ORG",
+      "entity2": "10",
+      "entity2_type": "CARDINAL",
+      "sentence": "A Benzinga piece provided an aggregated outlook from 10 analysts on MA, offering a range of perspectives but no single consensus shift.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Benzinga",
+      "entity1_type": "ORG",
+      "entity2": "MA",
+      "entity2_type": "ORG",
+      "sentence": "A Benzinga piece provided an aggregated outlook from 10 analysts on MA, offering a range of perspectives but no single consensus shift.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "10",
+      "entity1_type": "CARDINAL",
+      "entity2": "MA",
+      "entity2_type": "ORG",
+      "sentence": "A Benzinga piece provided an aggregated outlook from 10 analysts on MA, offering a range of perspectives but no single consensus shift.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "10",
+      "entity1_type": "CARDINAL",
+      "entity2": "1h",
+      "entity2_type": "DATE",
+      "sentence": "Expert Outlook: Mastercard Through The Eyes Of 10 Analysts\nPosted 1h ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "10",
+      "entity1_type": "CARDINAL",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Expert Outlook: Mastercard Through The Eyes Of 10 Analysts\nPosted 1h ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "10",
+      "entity1_type": "CARDINAL",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Expert Outlook: Mastercard Through The Eyes Of 10 Analysts\nPosted 1h ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "10",
+      "entity1_type": "CARDINAL",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Expert Outlook: Mastercard Through The Eyes Of 10 Analysts\nPosted 1h ago\nAI Generated.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1h",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Expert Outlook: Mastercard Through The Eyes Of 10 Analysts\nPosted 1h ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1h",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Expert Outlook: Mastercard Through The Eyes Of 10 Analysts\nPosted 1h ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1h",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Expert Outlook: Mastercard Through The Eyes Of 10 Analysts\nPosted 1h ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ago",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Expert Outlook: Mastercard Through The Eyes Of 10 Analysts\nPosted 1h ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ago",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Expert Outlook: Mastercard Through The Eyes Of 10 Analysts\nPosted 1h ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AI",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Expert Outlook: Mastercard Through The Eyes Of 10 Analysts\nPosted 1h ago\nAI Generated.",
+      "distance": 1
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "Positive Momentum",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Multiple Fronts",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Mastercard’s shares",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "upbeat analyst revisions",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "expanding partnerships",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "new product launches",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its leadership",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Seaport Research Partners",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its FY2025 EPS estimate",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Q2 EPS",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "growing confidence",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Mastercard’s earnings power",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Stock Rating",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Seaport Res Ptn",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Royal Bank",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "an “Outperform” rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a $650 price target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a 17.1% upside",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "current levels",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Outperform Rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the top mobile payments stocks",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "the cashless wave",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its strong positioning",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "digital and contactless transactions",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Top Mobile Payments Stocks",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Mastercard’s new AI-driven fraud detection tools",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "cybersecurity investments",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "partner integrations",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "merchant trust",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "an increasingly risky digital environment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a Risky Digital World",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Visa Direct",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "real-time global payouts",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the company’s payments footprint",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its cross-border capabilities",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Visa Direct",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a new study",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "cross-border payments",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Latin America",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the Caribbean",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a facilitator",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "global small-business growth",
+      "type": "noun_chunk",
+      "category": "trend"
+    },
+    {
+      "text": "cross-border payments",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "The Mastercard Collection",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the World Legend Mastercard",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "premium card offerings",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "high-spend consumers",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Cardholder Experiences",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its partnership",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the Esports World Cup",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "brand visibility",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "younger, digitally engaged audiences",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Esports World Cup",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a new co-branded Mastercard credit card",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "smarter global payments",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "ongoing collaboration",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "fintech innovation",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Mastercard Credit Card",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Qatar Islamic Bank",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a summer spend campaign",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "card usage",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "strategic regional partnerships",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "summer spend campaign",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Mastercard’s research",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "everyday payments",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a cautious approach",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "digital currencies",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Everyday Payment Use",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Mastercard’s distinct crypto strategy",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "ongoing exploration",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "digital assets",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a Different Route",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Crypto Race",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "A Benzinga piece",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "an aggregated outlook",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "10 analysts",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a range",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "no single consensus shift",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Expert Outlook",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "The Eyes",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "10 Analysts",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "$15.94",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$15.86",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$4.10",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$650",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "17.1%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "FY2025",
+      "type": "pattern",
+      "category": "fiscal_year"
+    },
+    {
+      "text": "earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "growth",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "trading",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Stock",
+      "type": "pattern",
+      "category": "market_term"
+    }
+  ],
+  "important_sentences": [
+    {
+      "text": "Positive Sentiment:\nSeaport Research Partners upgraded MA to “Strong-Buy” and raised its FY2025 EPS estimate to $15.94 (from $15.86), while also boosting Q2 EPS to $4.10, reflecting growing confidence in Mastercard’s earnings power.",
+      "importance_score": 56,
+      "entity_count": 10,
+      "financial_keyword_count": 3,
+      "money_count": 3,
+      "company_count": 3,
+      "sentiment": "positive"
+    },
+    {
+      "text": "PhotonPay Unveils Mastercard Credit Card\nPositive Sentiment:\nQatar Islamic Bank (QIB) and Mastercard kicked off a summer spend campaign, driving card usage and reinforcing strategic regional partnerships.",
+      "importance_score": 39,
+      "entity_count": 8,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 5,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Royal Bank of Canada reiterated an “Outperform” rating on MA with a $650 price target, signaling a 17.1% upside from current levels.",
+      "importance_score": 38,
+      "entity_count": 8,
+      "financial_keyword_count": 3,
+      "money_count": 1,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Mastercard extends partnership with Esports World Cup 2025\nPositive Sentiment:\nPhotonPay introduced a new co-branded Mastercard credit card aimed at smarter global payments, showcasing ongoing collaboration in fintech innovation.",
+      "importance_score": 38,
+      "entity_count": 7,
+      "financial_keyword_count": 4,
+      "money_count": 0,
+      "company_count": 3,
+      "sentiment": "positive"
+    },
+    {
+      "text": "QIB and Mastercard launch summer spend campaign\nNeutral Sentiment:\nMastercard’s research concludes that stablecoins aren’t yet ready for everyday payments, reflecting a cautious approach to digital currencies.\nMastercard:",
+      "importance_score": 29,
+      "entity_count": 5,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Techopedia detailed Mastercard’s distinct crypto strategy compared to Visa, illustrating ongoing exploration of blockchain and digital assets.",
+      "importance_score": 27,
+      "entity_count": 3,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "myTU selected Mastercard (alongside Visa Direct) to power real-time global payouts, expanding the company’s payments footprint and reinforcing its cross-border capabilities.",
+      "importance_score": 23,
+      "entity_count": 4,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Zacks highlighted MA as one of the top mobile payments stocks to buy for riding the cashless wave, underscoring its strong positioning in digital and contactless transactions.\nTop Mobile Payments Stocks to Buy\nPositive Sentiment:",
+      "importance_score": 21,
+      "entity_count": 2,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "positive"
+    },
+    {
+      "text": "myTU taps Visa Direct and Mastercard\nPositive Sentiment:",
+      "importance_score": 20,
+      "entity_count": 4,
+      "financial_keyword_count": 0,
+      "money_count": 0,
+      "company_count": 3,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Mastercard launched The Mastercard Collection and introduced the World Legend Mastercard, enhancing premium card offerings to capture high-spend consumers.",
+      "importance_score": 20,
+      "entity_count": 8,
+      "financial_keyword_count": 0,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "neutral"
+    }
+  ],
+  "entity_statistics": {
+    "total_entities": 62,
+    "unique_entities": 33,
+    "type_counts": {
+      "ORG": 43,
+      "DATE": 6,
+      "MONEY": 4,
+      "PERCENT": 1,
+      "LOC": 2,
+      "PRODUCT": 2,
+      "EVENT": 2,
+      "CARDINAL": 2
+    },
+    "type_distribution": {
+      "ORG": 0.6935483870967742,
+      "DATE": 0.0967741935483871,
+      "MONEY": 0.06451612903225806,
+      "PERCENT": 0.016129032258064516,
+      "LOC": 0.03225806451612903,
+      "PRODUCT": 0.03225806451612903,
+      "EVENT": 0.03225806451612903,
+      "CARDINAL": 0.03225806451612903
+    },
+    "most_common_entities": [
+      [
+        "Mastercard",
+        19
+      ],
+      [
+        "MA",
+        5
+      ],
+      [
+        "myTU",
+        2
+      ],
+      [
+        "Visa Direct",
+        2
+      ],
+      [
+        "PhotonPay",
+        2
+      ],
+      [
+        "QIB",
+        2
+      ],
+      [
+        "summer",
+        2
+      ],
+      [
+        "Visa",
+        2
+      ],
+      [
+        "10",
+        2
+      ],
+      [
+        "Seaport Research Partners",
+        1
+      ]
+    ],
+    "entity_types_found": [
+      "ORG",
+      "DATE",
+      "MONEY",
+      "PERCENT",
+      "LOC",
+      "PRODUCT",
+      "EVENT",
+      "CARDINAL"
+    ],
+    "company_entities": 44,
+    "person_entities": 0,
+    "financial_entities": 5,
+    "entity_density": 0.14351851851851852
+  },
+  "financial_analysis": {
+    "money_amounts": [
+      "15.94",
+      "15.86",
+      "4.10",
+      "650"
+    ],
+    "percentages": [
+      "17.1%"
+    ],
+    "companies": [
+      "Mastercard",
+      "MA",
+      "Mastercard",
+      "Seaport Research Partners",
+      "MA",
+      "Mastercard",
+      "Seaport Res Ptn",
+      "Royal Bank of Canada",
+      "MA",
+      "RBC",
+      "Zacks",
+      "MA",
+      "Mastercard",
+      "Mastercard",
+      "myTU",
+      "Mastercard",
+      "Visa Direct",
+      "myTU",
+      "Visa Direct",
+      "Mastercard",
+      "Mastercard",
+      "Mastercard",
+      "Mastercard",
+      "Mastercard",
+      "PhotonPay",
+      "Mastercard",
+      "PhotonPay",
+      "Mastercard",
+      "Qatar Islamic Bank",
+      "QIB",
+      "Mastercard",
+      "QIB",
+      "Mastercard",
+      "Mastercard",
+      "Mastercard",
+      "Techopedia",
+      "Mastercard",
+      "Visa",
+      "Mastercard",
+      "Visa",
+      "Benzinga",
+      "MA",
+      "AI Generated"
+    ],
+    "people": [],
+    "dates": [
+      "FY2025",
+      "Q2",
+      "summer",
+      "summer",
+      "2025",
+      "1h ago"
+    ],
+    "financial_terms": [
+      "earnings",
+      "trading",
+      "Stock",
+      "growth"
+    ],
+    "financial_metrics": [],
+    "market_indicators": [
+      "price",
+      "target",
+      "Rating",
+      "rating"
+    ]
+  },
+  "temporal_analysis": {
+    "dates": [
+      "FY2025",
+      "Q2",
+      "summer",
+      "summer",
+      "2025",
+      "1h ago"
+    ],
+    "time_expressions": [],
+    "temporal_relationships": [],
+    "quarters": [
+      "Q2"
+    ],
+    "years": [
+      "2025"
+    ],
+    "time_periods": []
+  },
+  "sentiment_analysis": {
+    "positive_words": 14,
+    "negative_words": 0,
+    "positive_ratio": 0.032407407407407406,
+    "negative_ratio": 0.0,
+    "sentiment_score": 0.032407407407407406,
+    "sentiment_label": "positive",
+    "sentiment_strength": 0.032407407407407406,
+    "confidence": 0.32407407407407407
+  },
+  "industry_analysis": {
+    "dominant_industry": "tech",
+    "industry_scores": {
+      "tech": 8,
+      "finance": 5,
+      "healthcare": 0,
+      "energy": 0,
+      "retail": 0,
+      "automotive": 0,
+      "media": 2,
+      "industrial": 0,
+      "real_estate": 0,
+      "telecom": 0,
+      "food_beverage": 0,
+      "travel": 0,
+      "education": 0,
+      "professional": 1,
+      "mining": 1,
+      "aerospace": 0,
+      "environmental": 0,
+      "cannabis": 0
+    },
+    "confidence": 0.47058823529411764
+  },
+  "market_analysis": {
+    "market_sentiment": "neutral",
+    "bullish_indicators": 0,
+    "bearish_indicators": 0,
+    "market_conditions": {
+      "volatility": "normal",
+      "volume": "normal",
+      "trend": "neutral"
+    },
+    "trading_activity": "normal"
+  },
+  "competitor_analysis": {
+    "companies_mentioned": [
+      "Mastercard",
+      "MA",
+      "Mastercard",
+      "Seaport Research Partners",
+      "MA",
+      "Mastercard",
+      "Seaport Res Ptn",
+      "Royal Bank of Canada",
+      "MA",
+      "RBC",
+      "Zacks",
+      "MA",
+      "Mastercard",
+      "Mastercard",
+      "myTU",
+      "Mastercard",
+      "Visa Direct",
+      "myTU",
+      "Visa Direct",
+      "Mastercard",
+      "Mastercard",
+      "Mastercard",
+      "Mastercard",
+      "Mastercard",
+      "PhotonPay",
+      "Mastercard",
+      "PhotonPay",
+      "Mastercard",
+      "Qatar Islamic Bank",
+      "QIB",
+      "Mastercard",
+      "QIB",
+      "Mastercard",
+      "Mastercard",
+      "Mastercard",
+      "Techopedia",
+      "Mastercard",
+      "Visa",
+      "Mastercard",
+      "Visa",
+      "Benzinga",
+      "MA",
+      "AI Generated"
+    ],
+    "competitive_context": [
+      "Royal Bank of Canada reiterated an “Outperform” rating on MA with a $650 price target, signaling a 17.1% upside from current levels.",
+      "RBC Reiterates Outperform Rating\nPositive Sentiment:"
+    ],
+    "competitor_count": 43,
+    "has_competitive_language": true
+  },
+  "risk_analysis": {
+    "risk_sentences": [
+      "Mastercard’s new AI-driven fraud detection tools, cybersecurity investments and partner integrations are winning merchant trust in an increasingly risky digital environment.",
+      "Why Do Merchants Trust Mastercard in a Risky Digital World?"
+    ],
+    "risk_count": 2,
+    "risk_level": "medium"
+  },
+  "opportunity_analysis": {
+    "opportunity_sentences": [
+      "Mastercard released a new study on modernizing cross-border payments for SMEs in Latin America and the Caribbean, positioning itself as a facilitator of global small-business growth.",
+      "Mastercard extends partnership with Esports World Cup 2025\nPositive Sentiment:\nPhotonPay introduced a new co-branded Mastercard credit card aimed at smarter global payments, showcasing ongoing collaboration in fintech innovation."
+    ],
+    "opportunity_count": 2,
+    "opportunity_level": "medium"
+  },
+  "processing_metadata": {
+    "timestamp": "2025-07-17T03:04:20.195301",
+    "model_used": "en_core_web_trf",
+    "text_length": 3224
+  }
+}
