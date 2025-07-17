@@ -1,0 +1,3540 @@
+{
+  "ticker": "OXY",
+  "entities": [
+    {
+      "text": "Occidental Petroleum Corporation",
+      "label": "ORG",
+      "start": 0,
+      "end": 32,
+      "sentence": "Occidental Petroleum Corporation (NYSE:OXY) movements today reflect mixed analyst views, deal progress and operational challenges.",
+      "context": "Occidental Petroleum Corporation (NYSE:OXY) movements today reflect mixed analyst",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "today",
+      "label": "DATE",
+      "start": 54,
+      "end": 59,
+      "sentence": "Occidental Petroleum Corporation (NYSE:OXY) movements today reflect mixed analyst views, deal progress and operational challenges.",
+      "context": "dental Petroleum Corporation (NYSE:OXY) movements today reflect mixed analyst views, deal progress and op",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Zacks Research",
+      "label": "ORG",
+      "start": 309,
+      "end": 323,
+      "sentence": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "context": "estors cautious. Key drivers:\nPositive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 t",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q3 2025",
+      "label": "DATE",
+      "start": 331,
+      "end": 338,
+      "sentence": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "context": "rivers:\nPositive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "OXY",
+      "label": "ORG",
+      "start": 357,
+      "end": 360,
+      "sentence": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "context": ":\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive S",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "0.49",
+      "label": "MONEY",
+      "start": 367,
+      "end": 371,
+      "sentence": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "context": "search lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:\nJ",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "0.50",
+      "label": "MONEY",
+      "start": 376,
+      "end": 380,
+      "sentence": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "context": "fted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:\nJPMorgan C",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Zacks EPS",
+      "label": "ORG",
+      "start": 382,
+      "end": 391,
+      "sentence": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "context": "3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:\nJPMorgan Chase & Co.",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "JPMorgan Chase & Co.",
+      "label": "ORG",
+      "start": 420,
+      "end": 440,
+      "sentence": "JPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.",
+      "context": "9 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:\nJPMorgan Chase & Co. raised its price target on Occidental to $48.00 f",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Occidental",
+      "label": "ORG",
+      "start": 468,
+      "end": 478,
+      "sentence": "JPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.",
+      "context": ":\nJPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.\nJP",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "48.00",
+      "label": "MONEY",
+      "start": 483,
+      "end": 488,
+      "sentence": "JPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.",
+      "context": "e & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.\nJPMorgan Tar",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "47.00",
+      "label": "MONEY",
+      "start": 495,
+      "end": 500,
+      "sentence": "JPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.",
+      "context": "ed its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.\nJPMorgan Target Raise\nPo",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "~12.6%",
+      "label": "PERCENT",
+      "start": 511,
+      "end": 517,
+      "sentence": "JPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.",
+      "context": "get on Occidental to $48.00 from $47.00, implying ~12.6% upside.\nJPMorgan Target Raise\nPositive Sentiment:",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "JPMorgan",
+      "label": "ORG",
+      "start": 526,
+      "end": 534,
+      "sentence": "JPMorgan Target Raise\nPositive Sentiment:",
+      "context": "al to $48.00 from $47.00, implying ~12.6% upside.\nJPMorgan Target Raise\nPositive Sentiment:\n1PointFive, a ca",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "1PointFive,",
+      "label": "ORG",
+      "start": 568,
+      "end": 579,
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "context": "upside.\nJPMorgan Target Raise\nPositive Sentiment:\n1PointFive, a carbon-capture JV involving Oxy, agreed to sell",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Oxy",
+      "label": "ORG",
+      "start": 610,
+      "end": 613,
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "context": "timent:\n1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "10,000 tons",
+      "label": "QUANTITY",
+      "start": 630,
+      "end": 641,
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "context": "a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over fiv",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Palo Alto Networks",
+      "label": "ORG",
+      "start": 664,
+      "end": 682,
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "context": "agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.\nCarbon Credit Deal\nPositive Sent",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "five years",
+      "label": "DATE",
+      "start": 688,
+      "end": 698,
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "context": "ons of removal credits to Palo Alto Networks over five years.\nCarbon Credit Deal\nPositive Sentiment:\nADNOC and",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "ADNOC",
+      "label": "ORG",
+      "start": 739,
+      "end": 744,
+      "sentence": "ADNOC and Oxy deal in Abu Dhabi edges closer to completion, potentially boosting Oxy’s upstream portfolio.",
+      "context": "ive years.\nCarbon Credit Deal\nPositive Sentiment:\nADNOC and Oxy deal in Abu Dhabi edges closer to complet",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Oxy",
+      "label": "ORG",
+      "start": 749,
+      "end": 752,
+      "sentence": "ADNOC and Oxy deal in Abu Dhabi edges closer to completion, potentially boosting Oxy’s upstream portfolio.",
+      "context": "Carbon Credit Deal\nPositive Sentiment:\nADNOC and Oxy deal in Abu Dhabi edges closer to completion, pot",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Abu Dhabi",
+      "label": "GPE",
+      "start": 761,
+      "end": 770,
+      "sentence": "ADNOC and Oxy deal in Abu Dhabi edges closer to completion, potentially boosting Oxy’s upstream portfolio.",
+      "context": "it Deal\nPositive Sentiment:\nADNOC and Oxy deal in Abu Dhabi edges closer to completion, potentially boosting",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "Oxy",
+      "label": "ORG",
+      "start": 820,
+      "end": 823,
+      "sentence": "ADNOC and Oxy deal in Abu Dhabi edges closer to completion, potentially boosting Oxy’s upstream portfolio.",
+      "context": "edges closer to completion, potentially boosting Oxy’s upstream portfolio.\nADNOC Deal Progress\nPositiv",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "ADNOC",
+      "label": "ORG",
+      "start": 846,
+      "end": 851,
+      "sentence": "ADNOC Deal Progress\nPositive Sentiment:",
+      "context": "n, potentially boosting Oxy’s upstream portfolio.\nADNOC Deal Progress\nPositive Sentiment:\nAnalyst note pr",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Oxy",
+      "label": "ORG",
+      "start": 907,
+      "end": 910,
+      "sentence": "Analyst note praises Oxy’s integrated oil, gas & chemicals model for steady cash flow, recent earnings beat and a ~19.2% YTD stock gain.",
+      "context": "Progress\nPositive Sentiment:\nAnalyst note praises Oxy’s integrated oil, gas & chemicals model for stead",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "~19.2%",
+      "label": "PERCENT",
+      "start": 1000,
+      "end": 1006,
+      "sentence": "Analyst note praises Oxy’s integrated oil, gas & chemicals model for steady cash flow, recent earnings beat and a ~19.2% YTD stock gain.",
+      "context": "for steady cash flow, recent earnings beat and a ~19.2% YTD stock gain.\nIntegrated Portfolio Report\nNeutr",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "MarketBeat",
+      "label": "ORG",
+      "start": 1085,
+      "end": 1095,
+      "sentence": "Featured among MarketBeat’s “Best Oil Stocks To Watch Now.”",
+      "context": "ortfolio Report\nNeutral Sentiment:\nFeatured among MarketBeat’s “Best Oil Stocks To Watch Now.”\nBest Oil Stocks",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Motley Fool’s",
+      "label": "ORG",
+      "start": 1182,
+      "end": 1195,
+      "sentence": "Included in Motley Fool’s “10 No-Brainer Warren Buffett Stocks to Buy Right Now.”",
+      "context": "st Oil Stocks List\nNeutral Sentiment:\nIncluded in Motley Fool’s “10 No-Brainer Warren Buffett Stocks to Buy Right",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "10",
+      "label": "CARDINAL",
+      "start": 1197,
+      "end": 1199,
+      "sentence": "Included in Motley Fool’s “10 No-Brainer Warren Buffett Stocks to Buy Right Now.”",
+      "context": "ist\nNeutral Sentiment:\nIncluded in Motley Fool’s “10 No-Brainer Warren Buffett Stocks to Buy Right Now",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Warren Buffett",
+      "label": "PERSON",
+      "start": 1211,
+      "end": 1225,
+      "sentence": "Included in Motley Fool’s “10 No-Brainer Warren Buffett Stocks to Buy Right Now.”",
+      "context": "ntiment:\nIncluded in Motley Fool’s “10 No-Brainer Warren Buffett Stocks to Buy Right Now.”\nFool Buffett Picks\nNeut",
+      "is_company": false,
+      "is_person": true,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "one",
+      "label": "CARDINAL",
+      "start": 1304,
+      "end": 1307,
+      "sentence": "Fool Buffett Picks\nNeutral Sentiment:\nAlso cited as one of “3 Warren Buffett Stocks to Hold Forever.”",
+      "context": "ol Buffett Picks\nNeutral Sentiment:\nAlso cited as one of “3 Warren Buffett Stocks to Hold Forever.”\nBuf",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "3",
+      "label": "CARDINAL",
+      "start": 1312,
+      "end": 1313,
+      "sentence": "Fool Buffett Picks\nNeutral Sentiment:\nAlso cited as one of “3 Warren Buffett Stocks to Hold Forever.”",
+      "context": "tt Picks\nNeutral Sentiment:\nAlso cited as one of “3 Warren Buffett Stocks to Hold Forever.”\nBuffett F",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Warren Buffett",
+      "label": "PERSON",
+      "start": 1314,
+      "end": 1328,
+      "sentence": "Fool Buffett Picks\nNeutral Sentiment:\nAlso cited as one of “3 Warren Buffett Stocks to Hold Forever.”",
+      "context": "Picks\nNeutral Sentiment:\nAlso cited as one of “3 Warren Buffett Stocks to Hold Forever.”\nBuffett Forever Stocks\nN",
+      "is_company": false,
+      "is_person": true,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Forever",
+      "label": "DATE",
+      "start": 1344,
+      "end": 1351,
+      "sentence": "Fool Buffett Picks\nNeutral Sentiment:\nAlso cited as one of “3 Warren Buffett Stocks to Hold Forever.”",
+      "context": "cited as one of “3 Warren Buffett Stocks to Hold Forever.”\nBuffett Forever Stocks\nNegative Sentiment:\nShar",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Buffett Forever",
+      "label": "ORG",
+      "start": 1354,
+      "end": 1369,
+      "sentence": "Buffett Forever Stocks\nNegative Sentiment:",
+      "context": "one of “3 Warren Buffett Stocks to Hold Forever.”\nBuffett Forever Stocks\nNegative Sentiment:\nShares slid ~2.6% afte",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "~2.6%",
+      "label": "PERCENT",
+      "start": 1409,
+      "end": 1414,
+      "sentence": "Shares slid ~2.6% after an analyst downgrade.",
+      "context": "tt Forever Stocks\nNegative Sentiment:\nShares slid ~2.6% after an analyst downgrade.\nAnalyst Downgrade\nNeg",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Wells Fargo",
+      "label": "ORG",
+      "start": 1481,
+      "end": 1492,
+      "sentence": "Analyst Downgrade\nNegative Sentiment:\nWells Fargo cut its price target to $46.00 from $47.00, with an “equal weight” rating.",
+      "context": "downgrade.\nAnalyst Downgrade\nNegative Sentiment:\nWells Fargo cut its price target to $46.00 from $47.00, with",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "46.00",
+      "label": "MONEY",
+      "start": 1518,
+      "end": 1523,
+      "sentence": "Analyst Downgrade\nNegative Sentiment:\nWells Fargo cut its price target to $46.00 from $47.00, with an “equal weight” rating.",
+      "context": "e Sentiment:\nWells Fargo cut its price target to $46.00 from $47.00, with an “equal weight” rating.\nWells",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "47.00",
+      "label": "MONEY",
+      "start": 1530,
+      "end": 1535,
+      "sentence": "Analyst Downgrade\nNegative Sentiment:\nWells Fargo cut its price target to $46.00 from $47.00, with an “equal weight” rating.",
+      "context": "Wells Fargo cut its price target to $46.00 from $47.00, with an “equal weight” rating.\nWells Fargo Cut\nN",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Wells Fargo",
+      "label": "ORG",
+      "start": 1568,
+      "end": 1579,
+      "sentence": "Wells Fargo Cut\nNegative Sentiment:\nOccidental flagged lower US Gulf production and oil‐price headwinds, pressuring Q2 output and earnings.\nProduction & Price Headwinds\nNegative Sentiment:",
+      "context": "46.00 from $47.00, with an “equal weight” rating.\nWells Fargo Cut\nNegative Sentiment:\nOccidental flagged lower",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Occidental",
+      "label": "ORG",
+      "start": 1604,
+      "end": 1614,
+      "sentence": "Wells Fargo Cut\nNegative Sentiment:\nOccidental flagged lower US Gulf production and oil‐price headwinds, pressuring Q2 output and earnings.\nProduction & Price Headwinds\nNegative Sentiment:",
+      "context": "ight” rating.\nWells Fargo Cut\nNegative Sentiment:\nOccidental flagged lower US Gulf production and oil‐price he",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "US",
+      "label": "GPE",
+      "start": 1629,
+      "end": 1631,
+      "sentence": "Wells Fargo Cut\nNegative Sentiment:\nOccidental flagged lower US Gulf production and oil‐price headwinds, pressuring Q2 output and earnings.\nProduction & Price Headwinds\nNegative Sentiment:",
+      "context": "Cut\nNegative Sentiment:\nOccidental flagged lower US Gulf production and oil‐price headwinds, pressuri",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "Gulf",
+      "label": "LOC",
+      "start": 1632,
+      "end": 1636,
+      "sentence": "Wells Fargo Cut\nNegative Sentiment:\nOccidental flagged lower US Gulf production and oil‐price headwinds, pressuring Q2 output and earnings.\nProduction & Price Headwinds\nNegative Sentiment:",
+      "context": "t\nNegative Sentiment:\nOccidental flagged lower US Gulf production and oil‐price headwinds, pressuring Q2",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "Q2",
+      "label": "DATE",
+      "start": 1684,
+      "end": 1686,
+      "sentence": "Wells Fargo Cut\nNegative Sentiment:\nOccidental flagged lower US Gulf production and oil‐price headwinds, pressuring Q2 output and earnings.\nProduction & Price Headwinds\nNegative Sentiment:",
+      "context": "lf production and oil‐price headwinds, pressuring Q2 output and earnings.\nProduction & Price Headwinds",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "~15%",
+      "label": "PERCENT",
+      "start": 1777,
+      "end": 1781,
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "context": "Headwinds\nNegative Sentiment:\nShares have slumped ~15% in the first half of 2025 after a 17% drop in 202",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "the first half of 2025",
+      "label": "DATE",
+      "start": 1785,
+      "end": 1807,
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "context": "s\nNegative Sentiment:\nShares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.\nFirst Half Slump\nPosted",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "17%",
+      "label": "PERCENT",
+      "start": 1816,
+      "end": 1819,
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "context": "ve slumped ~15% in the first half of 2025 after a 17% drop in 2024.\nFirst Half Slump\nPosted 16m ago\nAI",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "2024",
+      "label": "DATE",
+      "start": 1828,
+      "end": 1832,
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "context": "15% in the first half of 2025 after a 17% drop in 2024.\nFirst Half Slump\nPosted 16m ago\nAI Generated. Ma",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "First",
+      "label": "ORDINAL",
+      "start": 1834,
+      "end": 1839,
+      "sentence": "First Half Slump\nPosted 16m ago\nAI Generated.",
+      "context": "the first half of 2025 after a 17% drop in 2024.\nFirst Half Slump\nPosted 16m ago\nAI Generated. May Conta",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "16m ago",
+      "label": "DATE",
+      "start": 1858,
+      "end": 1865,
+      "sentence": "First Half Slump\nPosted 16m ago\nAI Generated.",
+      "context": "after a 17% drop in 2024.\nFirst Half Slump\nPosted 16m ago\nAI Generated. May Contain Errors.",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AI",
+      "label": "ORG",
+      "start": 1866,
+      "end": 1868,
+      "sentence": "First Half Slump\nPosted 16m ago\nAI Generated.",
+      "context": "17% drop in 2024.\nFirst Half Slump\nPosted 16m ago\nAI Generated. May Contain Errors.",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    }
+  ],
+  "relationships": [
+    {
+      "type": "SVO",
+      "subject": "movements",
+      "verb": "reflect",
+      "object": "views",
+      "sentence": "Occidental Petroleum Corporation (NYSE:OXY) movements today reflect mixed analyst views, deal progress and operational challenges.",
+      "importance": 5
+    },
+    {
+      "type": "SVO",
+      "subject": "brokers",
+      "verb": "lifted",
+      "object": "targets",
+      "sentence": "While several brokers lifted targets and carbon-capture initiatives advance, production headwinds and downgrades are keeping investors cautious.",
+      "importance": 2
+    },
+    {
+      "type": "SVO",
+      "subject": "headwinds",
+      "verb": "keeping",
+      "object": "investors",
+      "sentence": "While several brokers lifted targets and carbon-capture initiatives advance, production headwinds and downgrades are keeping investors cautious.",
+      "importance": 2
+    },
+    {
+      "type": "SVO",
+      "subject": "Research",
+      "verb": "lifted",
+      "object": "estimates",
+      "sentence": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "importance": 10
+    },
+    {
+      "type": "SVO",
+      "subject": "Chase",
+      "verb": "raised",
+      "object": "target",
+      "sentence": "JPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.",
+      "importance": 10
+    },
+    {
+      "type": "SVO",
+      "subject": "note",
+      "verb": "praises",
+      "object": "model",
+      "sentence": "Analyst note praises Oxy’s integrated oil, gas & chemicals model for steady cash flow, recent earnings beat and a ~19.2% YTD stock gain.",
+      "importance": 6
+    },
+    {
+      "type": "SVO",
+      "subject": "Fargo",
+      "verb": "cut",
+      "object": "target",
+      "sentence": "Analyst Downgrade\nNegative Sentiment:\nWells Fargo cut its price target to $46.00 from $47.00, with an “equal weight” rating.",
+      "importance": 8
+    },
+    {
+      "type": "SVO",
+      "subject": "Sentiment",
+      "verb": "flagged",
+      "object": "Headwinds",
+      "sentence": "Wells Fargo Cut\nNegative Sentiment:\nOccidental flagged lower US Gulf production and oil‐price headwinds, pressuring Q2 output and earnings.\nProduction & Price Headwinds\nNegative Sentiment:",
+      "importance": 9
+    },
+    {
+      "type": "SVO",
+      "subject": "Occidental",
+      "verb": "flagged",
+      "object": "Headwinds",
+      "sentence": "Wells Fargo Cut\nNegative Sentiment:\nOccidental flagged lower US Gulf production and oil‐price headwinds, pressuring Q2 output and earnings.\nProduction & Price Headwinds\nNegative Sentiment:",
+      "importance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Occidental",
+      "entity1_type": "ORG",
+      "entity2": "Petroleum",
+      "entity2_type": "ORG",
+      "sentence": "Occidental Petroleum Corporation (NYSE:OXY) movements today reflect mixed analyst views, deal progress and operational challenges.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Occidental",
+      "entity1_type": "ORG",
+      "entity2": "Corporation",
+      "entity2_type": "ORG",
+      "sentence": "Occidental Petroleum Corporation (NYSE:OXY) movements today reflect mixed analyst views, deal progress and operational challenges.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Occidental",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "Occidental Petroleum Corporation (NYSE:OXY) movements today reflect mixed analyst views, deal progress and operational challenges.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Petroleum",
+      "entity1_type": "ORG",
+      "entity2": "Corporation",
+      "entity2_type": "ORG",
+      "sentence": "Occidental Petroleum Corporation (NYSE:OXY) movements today reflect mixed analyst views, deal progress and operational challenges.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Petroleum",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "Occidental Petroleum Corporation (NYSE:OXY) movements today reflect mixed analyst views, deal progress and operational challenges.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Corporation",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "Occidental Petroleum Corporation (NYSE:OXY) movements today reflect mixed analyst views, deal progress and operational challenges.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "Research",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "OXY",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "0.49",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "0.50",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "Zacks",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "EPS",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "Q3",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "OXY",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "0.49",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "0.50",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "Zacks",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Research",
+      "entity1_type": "ORG",
+      "entity2": "EPS",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "OXY",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "0.49",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "0.50",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "Zacks",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q3",
+      "entity1_type": "DATE",
+      "entity2": "EPS",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "OXY",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "0.49",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "0.50",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "Zacks",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "EPS",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "OXY",
+      "entity1_type": "ORG",
+      "entity2": "0.49",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "OXY",
+      "entity1_type": "ORG",
+      "entity2": "0.50",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "OXY",
+      "entity1_type": "ORG",
+      "entity2": "Zacks",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "OXY",
+      "entity1_type": "ORG",
+      "entity2": "EPS",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "0.49",
+      "entity1_type": "MONEY",
+      "entity2": "0.50",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "0.49",
+      "entity1_type": "MONEY",
+      "entity2": "Zacks",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "0.49",
+      "entity1_type": "MONEY",
+      "entity2": "EPS",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "0.50",
+      "entity1_type": "MONEY",
+      "entity2": "Zacks",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "0.50",
+      "entity1_type": "MONEY",
+      "entity2": "EPS",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "EPS",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "Chase",
+      "entity2_type": "ORG",
+      "sentence": "JPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "JPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "Co.",
+      "entity2_type": "ORG",
+      "sentence": "JPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "Occidental",
+      "entity2_type": "ORG",
+      "sentence": "JPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "48.00",
+      "entity2_type": "MONEY",
+      "sentence": "JPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "47.00",
+      "entity2_type": "MONEY",
+      "sentence": "JPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "~12.6",
+      "entity2_type": "PERCENT",
+      "sentence": "JPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "JPMorgan",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "JPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Chase",
+      "entity1_type": "ORG",
+      "entity2": "&",
+      "entity2_type": "ORG",
+      "sentence": "JPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Chase",
+      "entity1_type": "ORG",
+      "entity2": "Co.",
+      "entity2_type": "ORG",
+      "sentence": "JPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Chase",
+      "entity1_type": "ORG",
+      "entity2": "Occidental",
+      "entity2_type": "ORG",
+      "sentence": "JPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Chase",
+      "entity1_type": "ORG",
+      "entity2": "48.00",
+      "entity2_type": "MONEY",
+      "sentence": "JPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Chase",
+      "entity1_type": "ORG",
+      "entity2": "47.00",
+      "entity2_type": "MONEY",
+      "sentence": "JPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Chase",
+      "entity1_type": "ORG",
+      "entity2": "~12.6",
+      "entity2_type": "PERCENT",
+      "sentence": "JPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Chase",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "JPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Co.",
+      "entity2_type": "ORG",
+      "sentence": "JPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "Occidental",
+      "entity2_type": "ORG",
+      "sentence": "JPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "48.00",
+      "entity2_type": "MONEY",
+      "sentence": "JPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "47.00",
+      "entity2_type": "MONEY",
+      "sentence": "JPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "~12.6",
+      "entity2_type": "PERCENT",
+      "sentence": "JPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "&",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "JPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Co.",
+      "entity1_type": "ORG",
+      "entity2": "Occidental",
+      "entity2_type": "ORG",
+      "sentence": "JPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Co.",
+      "entity1_type": "ORG",
+      "entity2": "48.00",
+      "entity2_type": "MONEY",
+      "sentence": "JPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Co.",
+      "entity1_type": "ORG",
+      "entity2": "47.00",
+      "entity2_type": "MONEY",
+      "sentence": "JPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Co.",
+      "entity1_type": "ORG",
+      "entity2": "~12.6",
+      "entity2_type": "PERCENT",
+      "sentence": "JPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Co.",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "JPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Occidental",
+      "entity1_type": "ORG",
+      "entity2": "48.00",
+      "entity2_type": "MONEY",
+      "sentence": "JPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Occidental",
+      "entity1_type": "ORG",
+      "entity2": "47.00",
+      "entity2_type": "MONEY",
+      "sentence": "JPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Occidental",
+      "entity1_type": "ORG",
+      "entity2": "~12.6",
+      "entity2_type": "PERCENT",
+      "sentence": "JPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Occidental",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "JPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "48.00",
+      "entity1_type": "MONEY",
+      "entity2": "47.00",
+      "entity2_type": "MONEY",
+      "sentence": "JPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "48.00",
+      "entity1_type": "MONEY",
+      "entity2": "~12.6",
+      "entity2_type": "PERCENT",
+      "sentence": "JPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "48.00",
+      "entity1_type": "MONEY",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "JPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "47.00",
+      "entity1_type": "MONEY",
+      "entity2": "~12.6",
+      "entity2_type": "PERCENT",
+      "sentence": "JPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "47.00",
+      "entity1_type": "MONEY",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "JPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "~12.6",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "JPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1PointFive",
+      "entity1_type": "ORG",
+      "entity2": ",",
+      "entity2_type": "ORG",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1PointFive",
+      "entity1_type": "ORG",
+      "entity2": "Oxy",
+      "entity2_type": "ORG",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1PointFive",
+      "entity1_type": "ORG",
+      "entity2": "10,000",
+      "entity2_type": "QUANTITY",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1PointFive",
+      "entity1_type": "ORG",
+      "entity2": "tons",
+      "entity2_type": "QUANTITY",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1PointFive",
+      "entity1_type": "ORG",
+      "entity2": "Palo",
+      "entity2_type": "ORG",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1PointFive",
+      "entity1_type": "ORG",
+      "entity2": "Alto",
+      "entity2_type": "ORG",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1PointFive",
+      "entity1_type": "ORG",
+      "entity2": "Networks",
+      "entity2_type": "ORG",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1PointFive",
+      "entity1_type": "ORG",
+      "entity2": "five",
+      "entity2_type": "DATE",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1PointFive",
+      "entity1_type": "ORG",
+      "entity2": "years",
+      "entity2_type": "DATE",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "Oxy",
+      "entity2_type": "ORG",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "10,000",
+      "entity2_type": "QUANTITY",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "tons",
+      "entity2_type": "QUANTITY",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "Palo",
+      "entity2_type": "ORG",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "Alto",
+      "entity2_type": "ORG",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "Networks",
+      "entity2_type": "ORG",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "five",
+      "entity2_type": "DATE",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "years",
+      "entity2_type": "DATE",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Oxy",
+      "entity1_type": "ORG",
+      "entity2": "10,000",
+      "entity2_type": "QUANTITY",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Oxy",
+      "entity1_type": "ORG",
+      "entity2": "tons",
+      "entity2_type": "QUANTITY",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Oxy",
+      "entity1_type": "ORG",
+      "entity2": "Palo",
+      "entity2_type": "ORG",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Oxy",
+      "entity1_type": "ORG",
+      "entity2": "Alto",
+      "entity2_type": "ORG",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Oxy",
+      "entity1_type": "ORG",
+      "entity2": "Networks",
+      "entity2_type": "ORG",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Oxy",
+      "entity1_type": "ORG",
+      "entity2": "five",
+      "entity2_type": "DATE",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Oxy",
+      "entity1_type": "ORG",
+      "entity2": "years",
+      "entity2_type": "DATE",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "10,000",
+      "entity1_type": "QUANTITY",
+      "entity2": "tons",
+      "entity2_type": "QUANTITY",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "10,000",
+      "entity1_type": "QUANTITY",
+      "entity2": "Palo",
+      "entity2_type": "ORG",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "10,000",
+      "entity1_type": "QUANTITY",
+      "entity2": "Alto",
+      "entity2_type": "ORG",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "10,000",
+      "entity1_type": "QUANTITY",
+      "entity2": "Networks",
+      "entity2_type": "ORG",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "10,000",
+      "entity1_type": "QUANTITY",
+      "entity2": "five",
+      "entity2_type": "DATE",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "10,000",
+      "entity1_type": "QUANTITY",
+      "entity2": "years",
+      "entity2_type": "DATE",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "tons",
+      "entity1_type": "QUANTITY",
+      "entity2": "Palo",
+      "entity2_type": "ORG",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "tons",
+      "entity1_type": "QUANTITY",
+      "entity2": "Alto",
+      "entity2_type": "ORG",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "tons",
+      "entity1_type": "QUANTITY",
+      "entity2": "Networks",
+      "entity2_type": "ORG",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "tons",
+      "entity1_type": "QUANTITY",
+      "entity2": "five",
+      "entity2_type": "DATE",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "tons",
+      "entity1_type": "QUANTITY",
+      "entity2": "years",
+      "entity2_type": "DATE",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Palo",
+      "entity1_type": "ORG",
+      "entity2": "Alto",
+      "entity2_type": "ORG",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Palo",
+      "entity1_type": "ORG",
+      "entity2": "Networks",
+      "entity2_type": "ORG",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Palo",
+      "entity1_type": "ORG",
+      "entity2": "five",
+      "entity2_type": "DATE",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Palo",
+      "entity1_type": "ORG",
+      "entity2": "years",
+      "entity2_type": "DATE",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Alto",
+      "entity1_type": "ORG",
+      "entity2": "Networks",
+      "entity2_type": "ORG",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Alto",
+      "entity1_type": "ORG",
+      "entity2": "five",
+      "entity2_type": "DATE",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Alto",
+      "entity1_type": "ORG",
+      "entity2": "years",
+      "entity2_type": "DATE",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Networks",
+      "entity1_type": "ORG",
+      "entity2": "five",
+      "entity2_type": "DATE",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Networks",
+      "entity1_type": "ORG",
+      "entity2": "years",
+      "entity2_type": "DATE",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "five",
+      "entity1_type": "DATE",
+      "entity2": "years",
+      "entity2_type": "DATE",
+      "sentence": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ADNOC",
+      "entity1_type": "ORG",
+      "entity2": "Oxy",
+      "entity2_type": "ORG",
+      "sentence": "ADNOC and Oxy deal in Abu Dhabi edges closer to completion, potentially boosting Oxy’s upstream portfolio.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ADNOC",
+      "entity1_type": "ORG",
+      "entity2": "Abu",
+      "entity2_type": "GPE",
+      "sentence": "ADNOC and Oxy deal in Abu Dhabi edges closer to completion, potentially boosting Oxy’s upstream portfolio.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ADNOC",
+      "entity1_type": "ORG",
+      "entity2": "Dhabi",
+      "entity2_type": "GPE",
+      "sentence": "ADNOC and Oxy deal in Abu Dhabi edges closer to completion, potentially boosting Oxy’s upstream portfolio.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ADNOC",
+      "entity1_type": "ORG",
+      "entity2": "Oxy",
+      "entity2_type": "ORG",
+      "sentence": "ADNOC and Oxy deal in Abu Dhabi edges closer to completion, potentially boosting Oxy’s upstream portfolio.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Oxy",
+      "entity1_type": "ORG",
+      "entity2": "Abu",
+      "entity2_type": "GPE",
+      "sentence": "ADNOC and Oxy deal in Abu Dhabi edges closer to completion, potentially boosting Oxy’s upstream portfolio.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Oxy",
+      "entity1_type": "ORG",
+      "entity2": "Dhabi",
+      "entity2_type": "GPE",
+      "sentence": "ADNOC and Oxy deal in Abu Dhabi edges closer to completion, potentially boosting Oxy’s upstream portfolio.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Oxy",
+      "entity1_type": "ORG",
+      "entity2": "Oxy",
+      "entity2_type": "ORG",
+      "sentence": "ADNOC and Oxy deal in Abu Dhabi edges closer to completion, potentially boosting Oxy’s upstream portfolio.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Abu",
+      "entity1_type": "GPE",
+      "entity2": "Dhabi",
+      "entity2_type": "GPE",
+      "sentence": "ADNOC and Oxy deal in Abu Dhabi edges closer to completion, potentially boosting Oxy’s upstream portfolio.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Abu",
+      "entity1_type": "GPE",
+      "entity2": "Oxy",
+      "entity2_type": "ORG",
+      "sentence": "ADNOC and Oxy deal in Abu Dhabi edges closer to completion, potentially boosting Oxy’s upstream portfolio.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Dhabi",
+      "entity1_type": "GPE",
+      "entity2": "Oxy",
+      "entity2_type": "ORG",
+      "sentence": "ADNOC and Oxy deal in Abu Dhabi edges closer to completion, potentially boosting Oxy’s upstream portfolio.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Oxy",
+      "entity1_type": "ORG",
+      "entity2": "~19.2",
+      "entity2_type": "PERCENT",
+      "sentence": "Analyst note praises Oxy’s integrated oil, gas & chemicals model for steady cash flow, recent earnings beat and a ~19.2% YTD stock gain.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Oxy",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Analyst note praises Oxy’s integrated oil, gas & chemicals model for steady cash flow, recent earnings beat and a ~19.2% YTD stock gain.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "~19.2",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Analyst note praises Oxy’s integrated oil, gas & chemicals model for steady cash flow, recent earnings beat and a ~19.2% YTD stock gain.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Motley",
+      "entity1_type": "ORG",
+      "entity2": "Fool",
+      "entity2_type": "ORG",
+      "sentence": "Included in Motley Fool’s “10 No-Brainer Warren Buffett Stocks to Buy Right Now.”",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Motley",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "Included in Motley Fool’s “10 No-Brainer Warren Buffett Stocks to Buy Right Now.”",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Motley",
+      "entity1_type": "ORG",
+      "entity2": "10",
+      "entity2_type": "CARDINAL",
+      "sentence": "Included in Motley Fool’s “10 No-Brainer Warren Buffett Stocks to Buy Right Now.”",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Motley",
+      "entity1_type": "ORG",
+      "entity2": "Warren",
+      "entity2_type": "PERSON",
+      "sentence": "Included in Motley Fool’s “10 No-Brainer Warren Buffett Stocks to Buy Right Now.”",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Motley",
+      "entity1_type": "ORG",
+      "entity2": "Buffett",
+      "entity2_type": "PERSON",
+      "sentence": "Included in Motley Fool’s “10 No-Brainer Warren Buffett Stocks to Buy Right Now.”",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fool",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "Included in Motley Fool’s “10 No-Brainer Warren Buffett Stocks to Buy Right Now.”",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fool",
+      "entity1_type": "ORG",
+      "entity2": "10",
+      "entity2_type": "CARDINAL",
+      "sentence": "Included in Motley Fool’s “10 No-Brainer Warren Buffett Stocks to Buy Right Now.”",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fool",
+      "entity1_type": "ORG",
+      "entity2": "Warren",
+      "entity2_type": "PERSON",
+      "sentence": "Included in Motley Fool’s “10 No-Brainer Warren Buffett Stocks to Buy Right Now.”",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fool",
+      "entity1_type": "ORG",
+      "entity2": "Buffett",
+      "entity2_type": "PERSON",
+      "sentence": "Included in Motley Fool’s “10 No-Brainer Warren Buffett Stocks to Buy Right Now.”",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "ORG",
+      "entity2": "10",
+      "entity2_type": "CARDINAL",
+      "sentence": "Included in Motley Fool’s “10 No-Brainer Warren Buffett Stocks to Buy Right Now.”",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "ORG",
+      "entity2": "Warren",
+      "entity2_type": "PERSON",
+      "sentence": "Included in Motley Fool’s “10 No-Brainer Warren Buffett Stocks to Buy Right Now.”",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "ORG",
+      "entity2": "Buffett",
+      "entity2_type": "PERSON",
+      "sentence": "Included in Motley Fool’s “10 No-Brainer Warren Buffett Stocks to Buy Right Now.”",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "10",
+      "entity1_type": "CARDINAL",
+      "entity2": "Warren",
+      "entity2_type": "PERSON",
+      "sentence": "Included in Motley Fool’s “10 No-Brainer Warren Buffett Stocks to Buy Right Now.”",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "10",
+      "entity1_type": "CARDINAL",
+      "entity2": "Buffett",
+      "entity2_type": "PERSON",
+      "sentence": "Included in Motley Fool’s “10 No-Brainer Warren Buffett Stocks to Buy Right Now.”",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Warren",
+      "entity1_type": "PERSON",
+      "entity2": "Buffett",
+      "entity2_type": "PERSON",
+      "sentence": "Included in Motley Fool’s “10 No-Brainer Warren Buffett Stocks to Buy Right Now.”",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "one",
+      "entity1_type": "CARDINAL",
+      "entity2": "3",
+      "entity2_type": "CARDINAL",
+      "sentence": "Fool Buffett Picks\nNeutral Sentiment:\nAlso cited as one of “3 Warren Buffett Stocks to Hold Forever.”",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "one",
+      "entity1_type": "CARDINAL",
+      "entity2": "Warren",
+      "entity2_type": "PERSON",
+      "sentence": "Fool Buffett Picks\nNeutral Sentiment:\nAlso cited as one of “3 Warren Buffett Stocks to Hold Forever.”",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "one",
+      "entity1_type": "CARDINAL",
+      "entity2": "Buffett",
+      "entity2_type": "PERSON",
+      "sentence": "Fool Buffett Picks\nNeutral Sentiment:\nAlso cited as one of “3 Warren Buffett Stocks to Hold Forever.”",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "one",
+      "entity1_type": "CARDINAL",
+      "entity2": "Forever",
+      "entity2_type": "DATE",
+      "sentence": "Fool Buffett Picks\nNeutral Sentiment:\nAlso cited as one of “3 Warren Buffett Stocks to Hold Forever.”",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3",
+      "entity1_type": "CARDINAL",
+      "entity2": "Warren",
+      "entity2_type": "PERSON",
+      "sentence": "Fool Buffett Picks\nNeutral Sentiment:\nAlso cited as one of “3 Warren Buffett Stocks to Hold Forever.”",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3",
+      "entity1_type": "CARDINAL",
+      "entity2": "Buffett",
+      "entity2_type": "PERSON",
+      "sentence": "Fool Buffett Picks\nNeutral Sentiment:\nAlso cited as one of “3 Warren Buffett Stocks to Hold Forever.”",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "3",
+      "entity1_type": "CARDINAL",
+      "entity2": "Forever",
+      "entity2_type": "DATE",
+      "sentence": "Fool Buffett Picks\nNeutral Sentiment:\nAlso cited as one of “3 Warren Buffett Stocks to Hold Forever.”",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Warren",
+      "entity1_type": "PERSON",
+      "entity2": "Buffett",
+      "entity2_type": "PERSON",
+      "sentence": "Fool Buffett Picks\nNeutral Sentiment:\nAlso cited as one of “3 Warren Buffett Stocks to Hold Forever.”",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Warren",
+      "entity1_type": "PERSON",
+      "entity2": "Forever",
+      "entity2_type": "DATE",
+      "sentence": "Fool Buffett Picks\nNeutral Sentiment:\nAlso cited as one of “3 Warren Buffett Stocks to Hold Forever.”",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Buffett",
+      "entity1_type": "PERSON",
+      "entity2": "Forever",
+      "entity2_type": "DATE",
+      "sentence": "Fool Buffett Picks\nNeutral Sentiment:\nAlso cited as one of “3 Warren Buffett Stocks to Hold Forever.”",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Buffett",
+      "entity1_type": "ORG",
+      "entity2": "Forever",
+      "entity2_type": "ORG",
+      "sentence": "Buffett Forever Stocks\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "~2.6",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Shares slid ~2.6% after an analyst downgrade.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Fargo",
+      "entity2_type": "ORG",
+      "sentence": "Analyst Downgrade\nNegative Sentiment:\nWells Fargo cut its price target to $46.00 from $47.00, with an “equal weight” rating.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "46.00",
+      "entity2_type": "MONEY",
+      "sentence": "Analyst Downgrade\nNegative Sentiment:\nWells Fargo cut its price target to $46.00 from $47.00, with an “equal weight” rating.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "47.00",
+      "entity2_type": "MONEY",
+      "sentence": "Analyst Downgrade\nNegative Sentiment:\nWells Fargo cut its price target to $46.00 from $47.00, with an “equal weight” rating.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "46.00",
+      "entity2_type": "MONEY",
+      "sentence": "Analyst Downgrade\nNegative Sentiment:\nWells Fargo cut its price target to $46.00 from $47.00, with an “equal weight” rating.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "47.00",
+      "entity2_type": "MONEY",
+      "sentence": "Analyst Downgrade\nNegative Sentiment:\nWells Fargo cut its price target to $46.00 from $47.00, with an “equal weight” rating.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "46.00",
+      "entity1_type": "MONEY",
+      "entity2": "47.00",
+      "entity2_type": "MONEY",
+      "sentence": "Analyst Downgrade\nNegative Sentiment:\nWells Fargo cut its price target to $46.00 from $47.00, with an “equal weight” rating.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Fargo",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo Cut\nNegative Sentiment:\nOccidental flagged lower US Gulf production and oil‐price headwinds, pressuring Q2 output and earnings.\nProduction & Price Headwinds\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Occidental",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo Cut\nNegative Sentiment:\nOccidental flagged lower US Gulf production and oil‐price headwinds, pressuring Q2 output and earnings.\nProduction & Price Headwinds\nNegative Sentiment:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "US",
+      "entity2_type": "GPE",
+      "sentence": "Wells Fargo Cut\nNegative Sentiment:\nOccidental flagged lower US Gulf production and oil‐price headwinds, pressuring Q2 output and earnings.\nProduction & Price Headwinds\nNegative Sentiment:",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Gulf",
+      "entity2_type": "LOC",
+      "sentence": "Wells Fargo Cut\nNegative Sentiment:\nOccidental flagged lower US Gulf production and oil‐price headwinds, pressuring Q2 output and earnings.\nProduction & Price Headwinds\nNegative Sentiment:",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "Wells Fargo Cut\nNegative Sentiment:\nOccidental flagged lower US Gulf production and oil‐price headwinds, pressuring Q2 output and earnings.\nProduction & Price Headwinds\nNegative Sentiment:",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "Occidental",
+      "entity2_type": "ORG",
+      "sentence": "Wells Fargo Cut\nNegative Sentiment:\nOccidental flagged lower US Gulf production and oil‐price headwinds, pressuring Q2 output and earnings.\nProduction & Price Headwinds\nNegative Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "US",
+      "entity2_type": "GPE",
+      "sentence": "Wells Fargo Cut\nNegative Sentiment:\nOccidental flagged lower US Gulf production and oil‐price headwinds, pressuring Q2 output and earnings.\nProduction & Price Headwinds\nNegative Sentiment:",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "Gulf",
+      "entity2_type": "LOC",
+      "sentence": "Wells Fargo Cut\nNegative Sentiment:\nOccidental flagged lower US Gulf production and oil‐price headwinds, pressuring Q2 output and earnings.\nProduction & Price Headwinds\nNegative Sentiment:",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "Wells Fargo Cut\nNegative Sentiment:\nOccidental flagged lower US Gulf production and oil‐price headwinds, pressuring Q2 output and earnings.\nProduction & Price Headwinds\nNegative Sentiment:",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Occidental",
+      "entity1_type": "ORG",
+      "entity2": "US",
+      "entity2_type": "GPE",
+      "sentence": "Wells Fargo Cut\nNegative Sentiment:\nOccidental flagged lower US Gulf production and oil‐price headwinds, pressuring Q2 output and earnings.\nProduction & Price Headwinds\nNegative Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Occidental",
+      "entity1_type": "ORG",
+      "entity2": "Gulf",
+      "entity2_type": "LOC",
+      "sentence": "Wells Fargo Cut\nNegative Sentiment:\nOccidental flagged lower US Gulf production and oil‐price headwinds, pressuring Q2 output and earnings.\nProduction & Price Headwinds\nNegative Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Occidental",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "Wells Fargo Cut\nNegative Sentiment:\nOccidental flagged lower US Gulf production and oil‐price headwinds, pressuring Q2 output and earnings.\nProduction & Price Headwinds\nNegative Sentiment:",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "US",
+      "entity1_type": "GPE",
+      "entity2": "Gulf",
+      "entity2_type": "LOC",
+      "sentence": "Wells Fargo Cut\nNegative Sentiment:\nOccidental flagged lower US Gulf production and oil‐price headwinds, pressuring Q2 output and earnings.\nProduction & Price Headwinds\nNegative Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "US",
+      "entity1_type": "GPE",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "Wells Fargo Cut\nNegative Sentiment:\nOccidental flagged lower US Gulf production and oil‐price headwinds, pressuring Q2 output and earnings.\nProduction & Price Headwinds\nNegative Sentiment:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Gulf",
+      "entity1_type": "LOC",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "Wells Fargo Cut\nNegative Sentiment:\nOccidental flagged lower US Gulf production and oil‐price headwinds, pressuring Q2 output and earnings.\nProduction & Price Headwinds\nNegative Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "~15",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "~15",
+      "entity1_type": "PERCENT",
+      "entity2": "the",
+      "entity2_type": "DATE",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "~15",
+      "entity1_type": "PERCENT",
+      "entity2": "first",
+      "entity2_type": "DATE",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "~15",
+      "entity1_type": "PERCENT",
+      "entity2": "half",
+      "entity2_type": "DATE",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "~15",
+      "entity1_type": "PERCENT",
+      "entity2": "of",
+      "entity2_type": "DATE",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "~15",
+      "entity1_type": "PERCENT",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "~15",
+      "entity1_type": "PERCENT",
+      "entity2": "17",
+      "entity2_type": "PERCENT",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "~15",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "~15",
+      "entity1_type": "PERCENT",
+      "entity2": "2024",
+      "entity2_type": "DATE",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "the",
+      "entity2_type": "DATE",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "first",
+      "entity2_type": "DATE",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "half",
+      "entity2_type": "DATE",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "of",
+      "entity2_type": "DATE",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "17",
+      "entity2_type": "PERCENT",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "2024",
+      "entity2_type": "DATE",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "first",
+      "entity2_type": "DATE",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "half",
+      "entity2_type": "DATE",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "of",
+      "entity2_type": "DATE",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "17",
+      "entity2_type": "PERCENT",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "the",
+      "entity1_type": "DATE",
+      "entity2": "2024",
+      "entity2_type": "DATE",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "first",
+      "entity1_type": "DATE",
+      "entity2": "half",
+      "entity2_type": "DATE",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "first",
+      "entity1_type": "DATE",
+      "entity2": "of",
+      "entity2_type": "DATE",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "first",
+      "entity1_type": "DATE",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "first",
+      "entity1_type": "DATE",
+      "entity2": "17",
+      "entity2_type": "PERCENT",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "first",
+      "entity1_type": "DATE",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "first",
+      "entity1_type": "DATE",
+      "entity2": "2024",
+      "entity2_type": "DATE",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "half",
+      "entity1_type": "DATE",
+      "entity2": "of",
+      "entity2_type": "DATE",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "half",
+      "entity1_type": "DATE",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "half",
+      "entity1_type": "DATE",
+      "entity2": "17",
+      "entity2_type": "PERCENT",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "half",
+      "entity1_type": "DATE",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "half",
+      "entity1_type": "DATE",
+      "entity2": "2024",
+      "entity2_type": "DATE",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "of",
+      "entity1_type": "DATE",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "of",
+      "entity1_type": "DATE",
+      "entity2": "17",
+      "entity2_type": "PERCENT",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "of",
+      "entity1_type": "DATE",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "of",
+      "entity1_type": "DATE",
+      "entity2": "2024",
+      "entity2_type": "DATE",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "17",
+      "entity2_type": "PERCENT",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2025",
+      "entity1_type": "DATE",
+      "entity2": "2024",
+      "entity2_type": "DATE",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "17",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "17",
+      "entity1_type": "PERCENT",
+      "entity2": "2024",
+      "entity2_type": "DATE",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "2024",
+      "entity2_type": "DATE",
+      "sentence": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "First",
+      "entity1_type": "ORDINAL",
+      "entity2": "16",
+      "entity2_type": "DATE",
+      "sentence": "First Half Slump\nPosted 16m ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "First",
+      "entity1_type": "ORDINAL",
+      "entity2": "m",
+      "entity2_type": "DATE",
+      "sentence": "First Half Slump\nPosted 16m ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "First",
+      "entity1_type": "ORDINAL",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "First Half Slump\nPosted 16m ago\nAI Generated.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "First",
+      "entity1_type": "ORDINAL",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "First Half Slump\nPosted 16m ago\nAI Generated.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "16",
+      "entity1_type": "DATE",
+      "entity2": "m",
+      "entity2_type": "DATE",
+      "sentence": "First Half Slump\nPosted 16m ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "16",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "First Half Slump\nPosted 16m ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "16",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "First Half Slump\nPosted 16m ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "m",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "First Half Slump\nPosted 16m ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "m",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "First Half Slump\nPosted 16m ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ago",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "First Half Slump\nPosted 16m ago\nAI Generated.",
+      "distance": 2
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "mixed analyst views",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "deal progress",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "operational challenges",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "several brokers",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "carbon-capture initiatives",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "production headwinds",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Key drivers",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Zacks Research",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Q3 2025 EPS estimates",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Zacks EPS Upgrade",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "JPMorgan Chase",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its price target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "~12.6% upside",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "JPMorgan Target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a carbon-capture JV",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "10,000 tons",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "removal credits",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Palo Alto Networks",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "five years",
+      "type": "noun_chunk",
+      "category": "temporal"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "ADNOC and Oxy deal",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Abu Dhabi",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Oxy’s upstream portfolio",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Analyst note",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Oxy’s integrated oil, gas & chemicals model",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "steady cash flow",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "recent earnings beat",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "a ~19.2% YTD stock gain",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Integrated Portfolio Report",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "MarketBeat’s “Best Oil Stocks",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Best Oil Stocks",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Motley Fool’s “10 No-Brainer Warren Buffett Stocks",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "3 Warren Buffett Stocks",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "an analyst downgrade",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Analyst Downgrade\nNegative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Wells Fargo",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its price target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "an “equal weight” rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Q2 output",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Production & Price Headwinds",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the first half",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a 17% drop",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "$0.49",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$0.50",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$48.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$47.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$46.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$47.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "12.6%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "19.2%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "2.6%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "15%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "17%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "Q3 2025",
+      "type": "pattern",
+      "category": "quarter"
+    },
+    {
+      "text": "earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "stock",
+      "type": "pattern",
+      "category": "market_term"
+    }
+  ],
+  "important_sentences": [
+    {
+      "text": "Positive Sentiment:\nZacks Research lifted Q3 2025 EPS estimates for OXY from $0.49 to $0.50.\nZacks EPS Upgrade\nPositive Sentiment:",
+      "importance_score": 43,
+      "entity_count": 9,
+      "financial_keyword_count": 1,
+      "money_count": 2,
+      "company_count": 3,
+      "sentiment": "positive"
+    },
+    {
+      "text": "JPMorgan Chase & Co. raised its price target on Occidental to $48.00 from $47.00, implying ~12.6% upside.",
+      "importance_score": 39,
+      "entity_count": 9,
+      "financial_keyword_count": 1,
+      "money_count": 2,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "1PointFive, a carbon-capture JV involving Oxy, agreed to sell 10,000 tons of removal credits to Palo Alto Networks over five years.",
+      "importance_score": 38,
+      "entity_count": 10,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Analyst Downgrade\nNegative Sentiment:\nWells Fargo cut its price target to $46.00 from $47.00, with an “equal weight” rating.",
+      "importance_score": 34,
+      "entity_count": 4,
+      "financial_keyword_count": 4,
+      "money_count": 2,
+      "company_count": 1,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Wells Fargo Cut\nNegative Sentiment:\nOccidental flagged lower US Gulf production and oil‐price headwinds, pressuring Q2 output and earnings.\nProduction & Price Headwinds\nNegative Sentiment:",
+      "importance_score": 29,
+      "entity_count": 6,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "negative"
+    },
+    {
+      "text": "ADNOC and Oxy deal in Abu Dhabi edges closer to completion, potentially boosting Oxy’s upstream portfolio.",
+      "importance_score": 25,
+      "entity_count": 5,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Shares have slumped ~15% in the first half of 2025 after a 17% drop in 2024.",
+      "importance_score": 20,
+      "entity_count": 10,
+      "financial_keyword_count": 0,
+      "money_count": 0,
+      "company_count": 0,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Analyst note praises Oxy’s integrated oil, gas & chemicals model for steady cash flow, recent earnings beat and a ~19.2% YTD stock gain.",
+      "importance_score": 19,
+      "entity_count": 3,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Included in Motley Fool’s “10 No-Brainer Warren Buffett Stocks to Buy Right Now.”",
+      "importance_score": 19,
+      "entity_count": 6,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "First Half Slump\nPosted 16m ago\nAI Generated.",
+      "importance_score": 17,
+      "entity_count": 5,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "neutral"
+    }
+  ],
+  "entity_statistics": {
+    "total_entities": 51,
+    "unique_entities": 43,
+    "type_counts": {
+      "ORG": 22,
+      "DATE": 8,
+      "MONEY": 6,
+      "PERCENT": 5,
+      "QUANTITY": 1,
+      "GPE": 2,
+      "CARDINAL": 3,
+      "PERSON": 2,
+      "LOC": 1,
+      "ORDINAL": 1
+    },
+    "type_distribution": {
+      "ORG": 0.43137254901960786,
+      "DATE": 0.1568627450980392,
+      "MONEY": 0.11764705882352941,
+      "PERCENT": 0.09803921568627451,
+      "QUANTITY": 0.0196078431372549,
+      "GPE": 0.0392156862745098,
+      "CARDINAL": 0.058823529411764705,
+      "PERSON": 0.0392156862745098,
+      "LOC": 0.0196078431372549,
+      "ORDINAL": 0.0196078431372549
+    },
+    "most_common_entities": [
+      [
+        "Oxy",
+        4
+      ],
+      [
+        "Occidental",
+        2
+      ],
+      [
+        "47.00",
+        2
+      ],
+      [
+        "ADNOC",
+        2
+      ],
+      [
+        "Warren Buffett",
+        2
+      ],
+      [
+        "Wells Fargo",
+        2
+      ],
+      [
+        "Occidental Petroleum Corporation",
+        1
+      ],
+      [
+        "today",
+        1
+      ],
+      [
+        "Zacks Research",
+        1
+      ],
+      [
+        "Q3 2025",
+        1
+      ]
+    ],
+    "entity_types_found": [
+      "ORG",
+      "DATE",
+      "MONEY",
+      "PERCENT",
+      "QUANTITY",
+      "GPE",
+      "CARDINAL",
+      "PERSON",
+      "LOC",
+      "ORDINAL"
+    ],
+    "company_entities": 22,
+    "person_entities": 2,
+    "financial_entities": 11,
+    "entity_density": 0.19767441860465115
+  },
+  "financial_analysis": {
+    "money_amounts": [
+      "0.49",
+      "0.50",
+      "48.00",
+      "47.00",
+      "46.00",
+      "47.00"
+    ],
+    "percentages": [
+      "~12.6%",
+      "~19.2%",
+      "~2.6%",
+      "~15%",
+      "17%"
+    ],
+    "companies": [
+      "Occidental Petroleum Corporation",
+      "Zacks Research",
+      "OXY",
+      "Zacks EPS",
+      "JPMorgan Chase & Co.",
+      "Occidental",
+      "JPMorgan",
+      "1PointFive,",
+      "Oxy",
+      "Palo Alto Networks",
+      "ADNOC",
+      "Oxy",
+      "Oxy",
+      "ADNOC",
+      "Oxy",
+      "MarketBeat",
+      "Motley Fool’s",
+      "Buffett Forever",
+      "Wells Fargo",
+      "Wells Fargo",
+      "Occidental",
+      "AI"
+    ],
+    "people": [
+      "Warren Buffett",
+      "Warren Buffett"
+    ],
+    "dates": [
+      "today",
+      "Q3 2025",
+      "five years",
+      "Forever",
+      "Q2",
+      "the first half of 2025",
+      "2024",
+      "16m ago"
+    ],
+    "financial_terms": [
+      "earnings",
+      "stock"
+    ],
+    "financial_metrics": [],
+    "market_indicators": [
+      "target",
+      "Downgrade",
+      "Upgrade",
+      "rating",
+      "downgrade",
+      "Price",
+      "price",
+      "Target"
+    ]
+  },
+  "temporal_analysis": {
+    "dates": [
+      "today",
+      "Q3 2025",
+      "five years",
+      "Forever",
+      "Q2",
+      "the first half of 2025",
+      "2024",
+      "16m ago"
+    ],
+    "time_expressions": [],
+    "temporal_relationships": [
+      "today",
+      "recent"
+    ],
+    "quarters": [
+      "Q3 2025",
+      "Q2"
+    ],
+    "years": [
+      "Q3 2025",
+      "the first half of 2025",
+      "2024"
+    ],
+    "time_periods": []
+  },
+  "sentiment_analysis": {
+    "positive_words": 6,
+    "negative_words": 5,
+    "positive_ratio": 0.023255813953488372,
+    "negative_ratio": 0.01937984496124031,
+    "sentiment_score": 0.003875968992248062,
+    "sentiment_label": "neutral",
+    "sentiment_strength": 0.003875968992248062,
+    "confidence": 0.03875968992248062
+  },
+  "industry_analysis": {
+    "dominant_industry": "energy",
+    "industry_scores": {
+      "tech": 1,
+      "finance": 1,
+      "healthcare": 0,
+      "energy": 5,
+      "retail": 0,
+      "automotive": 0,
+      "media": 0,
+      "industrial": 1,
+      "real_estate": 0,
+      "telecom": 0,
+      "food_beverage": 0,
+      "travel": 0,
+      "education": 0,
+      "professional": 0,
+      "mining": 0,
+      "aerospace": 0,
+      "environmental": 0,
+      "cannabis": 0
+    },
+    "confidence": 0.625
+  },
+  "market_analysis": {
+    "market_sentiment": "neutral",
+    "bullish_indicators": 1,
+    "bearish_indicators": 1,
+    "market_conditions": {
+      "volatility": "normal",
+      "volume": "normal",
+      "trend": "neutral"
+    },
+    "trading_activity": "normal"
+  },
+  "competitor_analysis": {
+    "companies_mentioned": [
+      "Occidental Petroleum Corporation",
+      "Zacks Research",
+      "OXY",
+      "Zacks EPS",
+      "JPMorgan Chase & Co.",
+      "Occidental",
+      "JPMorgan",
+      "1PointFive,",
+      "Oxy",
+      "Palo Alto Networks",
+      "ADNOC",
+      "Oxy",
+      "Oxy",
+      "ADNOC",
+      "Oxy",
+      "MarketBeat",
+      "Motley Fool’s",
+      "Buffett Forever",
+      "Wells Fargo",
+      "Wells Fargo",
+      "Occidental",
+      "AI"
+    ],
+    "competitive_context": [],
+    "competitor_count": 22,
+    "has_competitive_language": false
+  },
+  "risk_analysis": {
+    "risk_sentences": [],
+    "risk_count": 0,
+    "risk_level": "low"
+  },
+  "opportunity_analysis": {
+    "opportunity_sentences": [
+      "ADNOC and Oxy deal in Abu Dhabi edges closer to completion, potentially boosting Oxy’s upstream portfolio."
+    ],
+    "opportunity_count": 1,
+    "opportunity_level": "low"
+  },
+  "processing_metadata": {
+    "timestamp": "2025-07-17T04:14:09.459783",
+    "model_used": "en_core_web_trf",
+    "text_length": 1899
+  }
+}
