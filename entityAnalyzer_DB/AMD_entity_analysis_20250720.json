@@ -1,0 +1,2632 @@
+{
+  "ticker": "AMD",
+  "entities": [
+    {
+      "text": "Advanced Micro Devices, Inc.",
+      "label": "ORG",
+      "start": 0,
+      "end": 28,
+      "sentence": "Advanced Micro Devices, Inc. (NASDAQ:AMD) shares are moving on a mix of analyst updates, institutional activity, and insider transactions.",
+      "context": "Advanced Micro Devices, Inc. (NASDAQ:AMD) shares are moving on a mix of analys",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AMD",
+      "label": "ORG",
+      "start": 37,
+      "end": 40,
+      "sentence": "Advanced Micro Devices, Inc. (NASDAQ:AMD) shares are moving on a mix of analyst updates, institutional activity, and insider transactions.",
+      "context": "Advanced Micro Devices, Inc. (NASDAQ:AMD) shares are moving on a mix of analyst updates, i",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Citigroup",
+      "label": "ORG",
+      "start": 195,
+      "end": 204,
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "context": "what investors need to know:\nPositive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AMD",
+      "label": "ORG",
+      "start": 234,
+      "end": 237,
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "context": "Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confi",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "165.00",
+      "label": "MONEY",
+      "start": 242,
+      "end": 248,
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "context": "t:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in th",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "145.00",
+      "label": "MONEY",
+      "start": 255,
+      "end": 261,
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "context": "boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s o",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Advanced Micro Devices",
+      "label": "ORG",
+      "start": 319,
+      "end": 341,
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "context": "ting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Far",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Wells Fargo",
+      "label": "ORG",
+      "start": 382,
+      "end": 393,
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "context": "o Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased i",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AMD",
+      "label": "ORG",
+      "start": 462,
+      "end": 465,
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "context": "rweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center G",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "185",
+      "label": "MONEY",
+      "start": 477,
+      "end": 480,
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "context": "and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.\nAMD",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "AMD",
+      "label": "ORG",
+      "start": 526,
+      "end": 529,
+      "sentence": "AMD Price Target Hike\nPositive Sentiment:\nCathie Wood’s ARK Invest made significant new allocations to AMD stock as part of its AI and robotics bets, signaling strong institutional interest.",
+      "context": "$185, citing accelerating data-center GPU growth.\nAMD Price Target Hike\nPositive Sentiment:\nCathie Wood",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Cathie Wood’s",
+      "label": "PERSON",
+      "start": 568,
+      "end": 581,
+      "sentence": "AMD Price Target Hike\nPositive Sentiment:\nCathie Wood’s ARK Invest made significant new allocations to AMD stock as part of its AI and robotics bets, signaling strong institutional interest.",
+      "context": "growth.\nAMD Price Target Hike\nPositive Sentiment:\nCathie Wood’s ARK Invest made significant new allocations to AM",
+      "is_company": false,
+      "is_person": true,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "ARK Invest",
+      "label": "ORG",
+      "start": 582,
+      "end": 592,
+      "sentence": "AMD Price Target Hike\nPositive Sentiment:\nCathie Wood’s ARK Invest made significant new allocations to AMD stock as part of its AI and robotics bets, signaling strong institutional interest.",
+      "context": "ice Target Hike\nPositive Sentiment:\nCathie Wood’s ARK Invest made significant new allocations to AMD stock as",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AMD",
+      "label": "ORG",
+      "start": 629,
+      "end": 632,
+      "sentence": "AMD Price Target Hike\nPositive Sentiment:\nCathie Wood’s ARK Invest made significant new allocations to AMD stock as part of its AI and robotics bets, signaling strong institutional interest.",
+      "context": "’s ARK Invest made significant new allocations to AMD stock as part of its AI and robotics bets, signal",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Cathie Wood’s",
+      "label": "PERSON",
+      "start": 717,
+      "end": 730,
+      "sentence": "Cathie Wood’s AI & Robotics Bets\nPositive Sentiment:\nEvercore noted that AMD’s MI308X chip is set to resume sales in China, which could drive revenue upside in 2025.",
+      "context": "cs bets, signaling strong institutional interest.\nCathie Wood’s AI & Robotics Bets\nPositive Sentiment:\nEvercore n",
+      "is_company": false,
+      "is_person": true,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Evercore",
+      "label": "ORG",
+      "start": 770,
+      "end": 778,
+      "sentence": "Cathie Wood’s AI & Robotics Bets\nPositive Sentiment:\nEvercore noted that AMD’s MI308X chip is set to resume sales in China, which could drive revenue upside in 2025.",
+      "context": "hie Wood’s AI & Robotics Bets\nPositive Sentiment:\nEvercore noted that AMD’s MI308X chip is set to resume sal",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AMD",
+      "label": "ORG",
+      "start": 790,
+      "end": 793,
+      "sentence": "Cathie Wood’s AI & Robotics Bets\nPositive Sentiment:\nEvercore noted that AMD’s MI308X chip is set to resume sales in China, which could drive revenue upside in 2025.",
+      "context": "tics Bets\nPositive Sentiment:\nEvercore noted that AMD’s MI308X chip is set to resume sales in China, wh",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "MI308X",
+      "label": "PRODUCT",
+      "start": 796,
+      "end": 802,
+      "sentence": "Cathie Wood’s AI & Robotics Bets\nPositive Sentiment:\nEvercore noted that AMD’s MI308X chip is set to resume sales in China, which could drive revenue upside in 2025.",
+      "context": "ets\nPositive Sentiment:\nEvercore noted that AMD’s MI308X chip is set to resume sales in China, which could",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "China",
+      "label": "GPE",
+      "start": 834,
+      "end": 839,
+      "sentence": "Cathie Wood’s AI & Robotics Bets\nPositive Sentiment:\nEvercore noted that AMD’s MI308X chip is set to resume sales in China, which could drive revenue upside in 2025.",
+      "context": "that AMD’s MI308X chip is set to resume sales in China, which could drive revenue upside in 2025.\nAMD Re",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "2025",
+      "label": "DATE",
+      "start": 877,
+      "end": 881,
+      "sentence": "Cathie Wood’s AI & Robotics Bets\nPositive Sentiment:\nEvercore noted that AMD’s MI308X chip is set to resume sales in China, which could drive revenue upside in 2025.",
+      "context": "les in China, which could drive revenue upside in 2025.\nAMD Revenue Upside from China Sales\nPositive Sen",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AMD",
+      "label": "ORG",
+      "start": 883,
+      "end": 886,
+      "sentence": "AMD Revenue Upside from China Sales\nPositive Sentiment:",
+      "context": "China, which could drive revenue upside in 2025.\nAMD Revenue Upside from China Sales\nPositive Sentimen",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "China",
+      "label": "GPE",
+      "start": 907,
+      "end": 912,
+      "sentence": "AMD Revenue Upside from China Sales\nPositive Sentiment:",
+      "context": "e revenue upside in 2025.\nAMD Revenue Upside from China Sales\nPositive Sentiment:\nJefferies forecast stro",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "Jefferies",
+      "label": "ORG",
+      "start": 939,
+      "end": 948,
+      "sentence": "Jefferies forecast strong price appreciation for AMD shares, reinforcing a bullish outlook on the chipmaker.",
+      "context": "venue Upside from China Sales\nPositive Sentiment:\nJefferies forecast strong price appreciation for AMD shares",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AMD",
+      "label": "ORG",
+      "start": 988,
+      "end": 991,
+      "sentence": "Jefferies forecast strong price appreciation for AMD shares, reinforcing a bullish outlook on the chipmaker.",
+      "context": "Jefferies forecast strong price appreciation for AMD shares, reinforcing a bullish outlook on the chip",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Jefferies",
+      "label": "ORG",
+      "start": 1048,
+      "end": 1057,
+      "sentence": "Jefferies Forecast on AMD\nPositive Sentiment:",
+      "context": ", reinforcing a bullish outlook on the chipmaker.\nJefferies Forecast on AMD\nPositive Sentiment:\nMarketBeat’s",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Week in Review",
+      "label": "EVENT",
+      "start": 1107,
+      "end": 1121,
+      "sentence": "MarketBeat’s Week in Review highlighted a technical indicator suggesting AMD stock is poised for a breakout, fueling momentum-driven buying.",
+      "context": "Forecast on AMD\nPositive Sentiment:\nMarketBeat’s Week in Review highlighted a technical indicator suggesting AMD",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AMD",
+      "label": "ORG",
+      "start": 1167,
+      "end": 1170,
+      "sentence": "MarketBeat’s Week in Review highlighted a technical indicator suggesting AMD stock is poised for a breakout, fueling momentum-driven buying.",
+      "context": "view highlighted a technical indicator suggesting AMD stock is poised for a breakout, fueling momentum-",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AMD",
+      "label": "ORG",
+      "start": 1235,
+      "end": 1238,
+      "sentence": "AMD Technical Breakout Signal\nNeutral Sentiment:",
+      "context": "d for a breakout, fueling momentum-driven buying.\nAMD Technical Breakout Signal\nNeutral Sentiment:\nCiti",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Citigroup",
+      "label": "ORG",
+      "start": 1284,
+      "end": 1293,
+      "sentence": "Citigroup maintained a “neutral” rating on AMD despite raising its target price, indicating balanced risk-reward expectations.\nBenzinga:",
+      "context": "AMD Technical Breakout Signal\nNeutral Sentiment:\nCitigroup maintained a “neutral” rating on AMD despite rais",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AMD",
+      "label": "ORG",
+      "start": 1327,
+      "end": 1330,
+      "sentence": "Citigroup maintained a “neutral” rating on AMD despite raising its target price, indicating balanced risk-reward expectations.\nBenzinga:",
+      "context": "iment:\nCitigroup maintained a “neutral” rating on AMD despite raising its target price, indicating bala",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Citi",
+      "label": "ORG",
+      "start": 1421,
+      "end": 1425,
+      "sentence": "Citi",
+      "context": "ting balanced risk-reward expectations.\nBenzinga: Citi Neutral Rating\nNegative Sentiment:\nShares dipped",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AMD",
+      "label": "ORG",
+      "start": 1494,
+      "end": 1497,
+      "sentence": "Shares dipped after reports that AMD insiders, including EVP Mark Papermaster, sold shares worth $2.8 million, suggesting profit-taking at the executive level.",
+      "context": "ative Sentiment:\nShares dipped after reports that AMD insiders, including EVP Mark Papermaster, sold sh",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Mark Papermaster",
+      "label": "PERSON",
+      "start": 1522,
+      "end": 1538,
+      "sentence": "Shares dipped after reports that AMD insiders, including EVP Mark Papermaster, sold shares worth $2.8 million, suggesting profit-taking at the executive level.",
+      "context": "ed after reports that AMD insiders, including EVP Mark Papermaster, sold shares worth $2.8 million, suggesting profi",
+      "is_company": false,
+      "is_person": true,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "$2.8 million",
+      "label": "MONEY",
+      "start": 1558,
+      "end": 1570,
+      "sentence": "Shares dipped after reports that AMD insiders, including EVP Mark Papermaster, sold shares worth $2.8 million, suggesting profit-taking at the executive level.",
+      "context": "including EVP Mark Papermaster, sold shares worth $2.8 million, suggesting profit-taking at the executive level.",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "AMD",
+      "label": "ORG",
+      "start": 1664,
+      "end": 1667,
+      "sentence": "AMD shares traded down following the disclosure of insider selling, with a 2.4% drop attributed to market reaction to the executives’ stock sales.",
+      "context": "level.\nInsider Selling Report\nNegative Sentiment:\nAMD shares traded down following the disclosure of in",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "2.4%",
+      "label": "PERCENT",
+      "start": 1739,
+      "end": 1743,
+      "sentence": "AMD shares traded down following the disclosure of insider selling, with a 2.4% drop attributed to market reaction to the executives’ stock sales.",
+      "context": "llowing the disclosure of insider selling, with a 2.4% drop attributed to market reaction to the executi",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "1+ days ago",
+      "label": "DATE",
+      "start": 1853,
+      "end": 1864,
+      "sentence": "Trading Down After Insider Selling\nPosted 1+ days ago\nAI Generated.",
+      "context": "sales.\nTrading Down After Insider Selling\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AI",
+      "label": "ORG",
+      "start": 1865,
+      "end": 1867,
+      "sentence": "Trading Down After Insider Selling\nPosted 1+ days ago\nAI Generated.",
+      "context": "ing Down After Insider Selling\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    }
+  ],
+  "relationships": [
+    {
+      "type": "SVO",
+      "subject": "Citigroup",
+      "verb": "boosted",
+      "object": "target",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "importance": 19
+    },
+    {
+      "type": "SVO",
+      "subject": "Fargo",
+      "verb": "reiterated",
+      "object": "rating",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "importance": 19
+    },
+    {
+      "type": "SVO",
+      "subject": "Invest",
+      "verb": "made",
+      "object": "allocations",
+      "sentence": "AMD Price Target Hike\nPositive Sentiment:\nCathie Wood’s ARK Invest made significant new allocations to AMD stock as part of its AI and robotics bets, signaling strong institutional interest.",
+      "importance": 11
+    },
+    {
+      "type": "SVO",
+      "subject": "which",
+      "verb": "drive",
+      "object": "upside",
+      "sentence": "Cathie Wood’s AI & Robotics Bets\nPositive Sentiment:\nEvercore noted that AMD’s MI308X chip is set to resume sales in China, which could drive revenue upside in 2025.",
+      "importance": 11
+    },
+    {
+      "type": "SVO",
+      "subject": "Jefferies",
+      "verb": "forecast",
+      "object": "appreciation",
+      "sentence": "Jefferies forecast strong price appreciation for AMD shares, reinforcing a bullish outlook on the chipmaker.",
+      "importance": 4
+    },
+    {
+      "type": "SVO",
+      "subject": "Week",
+      "verb": "highlighted",
+      "object": "indicator",
+      "sentence": "MarketBeat’s Week in Review highlighted a technical indicator suggesting AMD stock is poised for a breakout, fueling momentum-driven buying.",
+      "importance": 6
+    },
+    {
+      "type": "SVO",
+      "subject": "Citigroup",
+      "verb": "maintained",
+      "object": "rating",
+      "sentence": "Citigroup maintained a “neutral” rating on AMD despite raising its target price, indicating balanced risk-reward expectations.\nBenzinga:",
+      "importance": 5
+    },
+    {
+      "type": "SVO",
+      "subject": "insiders",
+      "verb": "sold",
+      "object": "shares",
+      "sentence": "Shares dipped after reports that AMD insiders, including EVP Mark Papermaster, sold shares worth $2.8 million, suggesting profit-taking at the executive level.",
+      "importance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Advanced",
+      "entity1_type": "ORG",
+      "entity2": "Micro",
+      "entity2_type": "ORG",
+      "sentence": "Advanced Micro Devices, Inc. (NASDAQ:AMD) shares are moving on a mix of analyst updates, institutional activity, and insider transactions.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Advanced",
+      "entity1_type": "ORG",
+      "entity2": "Devices",
+      "entity2_type": "ORG",
+      "sentence": "Advanced Micro Devices, Inc. (NASDAQ:AMD) shares are moving on a mix of analyst updates, institutional activity, and insider transactions.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Advanced",
+      "entity1_type": "ORG",
+      "entity2": ",",
+      "entity2_type": "ORG",
+      "sentence": "Advanced Micro Devices, Inc. (NASDAQ:AMD) shares are moving on a mix of analyst updates, institutional activity, and insider transactions.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Advanced",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Advanced Micro Devices, Inc. (NASDAQ:AMD) shares are moving on a mix of analyst updates, institutional activity, and insider transactions.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Advanced",
+      "entity1_type": "ORG",
+      "entity2": "AMD",
+      "entity2_type": "ORG",
+      "sentence": "Advanced Micro Devices, Inc. (NASDAQ:AMD) shares are moving on a mix of analyst updates, institutional activity, and insider transactions.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Micro",
+      "entity1_type": "ORG",
+      "entity2": "Devices",
+      "entity2_type": "ORG",
+      "sentence": "Advanced Micro Devices, Inc. (NASDAQ:AMD) shares are moving on a mix of analyst updates, institutional activity, and insider transactions.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Micro",
+      "entity1_type": "ORG",
+      "entity2": ",",
+      "entity2_type": "ORG",
+      "sentence": "Advanced Micro Devices, Inc. (NASDAQ:AMD) shares are moving on a mix of analyst updates, institutional activity, and insider transactions.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Micro",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Advanced Micro Devices, Inc. (NASDAQ:AMD) shares are moving on a mix of analyst updates, institutional activity, and insider transactions.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Micro",
+      "entity1_type": "ORG",
+      "entity2": "AMD",
+      "entity2_type": "ORG",
+      "sentence": "Advanced Micro Devices, Inc. (NASDAQ:AMD) shares are moving on a mix of analyst updates, institutional activity, and insider transactions.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Devices",
+      "entity1_type": "ORG",
+      "entity2": ",",
+      "entity2_type": "ORG",
+      "sentence": "Advanced Micro Devices, Inc. (NASDAQ:AMD) shares are moving on a mix of analyst updates, institutional activity, and insider transactions.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Devices",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Advanced Micro Devices, Inc. (NASDAQ:AMD) shares are moving on a mix of analyst updates, institutional activity, and insider transactions.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Devices",
+      "entity1_type": "ORG",
+      "entity2": "AMD",
+      "entity2_type": "ORG",
+      "sentence": "Advanced Micro Devices, Inc. (NASDAQ:AMD) shares are moving on a mix of analyst updates, institutional activity, and insider transactions.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Advanced Micro Devices, Inc. (NASDAQ:AMD) shares are moving on a mix of analyst updates, institutional activity, and insider transactions.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": ",",
+      "entity1_type": "ORG",
+      "entity2": "AMD",
+      "entity2_type": "ORG",
+      "sentence": "Advanced Micro Devices, Inc. (NASDAQ:AMD) shares are moving on a mix of analyst updates, institutional activity, and insider transactions.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "AMD",
+      "entity2_type": "ORG",
+      "sentence": "Advanced Micro Devices, Inc. (NASDAQ:AMD) shares are moving on a mix of analyst updates, institutional activity, and insider transactions.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Citigroup",
+      "entity1_type": "ORG",
+      "entity2": "AMD",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Citigroup",
+      "entity1_type": "ORG",
+      "entity2": "165.00",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Citigroup",
+      "entity1_type": "ORG",
+      "entity2": "145.00",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Citigroup",
+      "entity1_type": "ORG",
+      "entity2": "Advanced",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Citigroup",
+      "entity1_type": "ORG",
+      "entity2": "Micro",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Citigroup",
+      "entity1_type": "ORG",
+      "entity2": "Devices",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Citigroup",
+      "entity1_type": "ORG",
+      "entity2": "Wells",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 35
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Citigroup",
+      "entity1_type": "ORG",
+      "entity2": "Fargo",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 36
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Citigroup",
+      "entity1_type": "ORG",
+      "entity2": "AMD",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 49
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Citigroup",
+      "entity1_type": "ORG",
+      "entity2": "185",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 53
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMD",
+      "entity1_type": "ORG",
+      "entity2": "165.00",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMD",
+      "entity1_type": "ORG",
+      "entity2": "145.00",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMD",
+      "entity1_type": "ORG",
+      "entity2": "Advanced",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMD",
+      "entity1_type": "ORG",
+      "entity2": "Micro",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMD",
+      "entity1_type": "ORG",
+      "entity2": "Devices",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMD",
+      "entity1_type": "ORG",
+      "entity2": "Wells",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMD",
+      "entity1_type": "ORG",
+      "entity2": "Fargo",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMD",
+      "entity1_type": "ORG",
+      "entity2": "AMD",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 43
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMD",
+      "entity1_type": "ORG",
+      "entity2": "185",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 47
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "165.00",
+      "entity1_type": "MONEY",
+      "entity2": "145.00",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "165.00",
+      "entity1_type": "MONEY",
+      "entity2": "Advanced",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "165.00",
+      "entity1_type": "MONEY",
+      "entity2": "Micro",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "165.00",
+      "entity1_type": "MONEY",
+      "entity2": "Devices",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "165.00",
+      "entity1_type": "MONEY",
+      "entity2": "Wells",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "165.00",
+      "entity1_type": "MONEY",
+      "entity2": "Fargo",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "165.00",
+      "entity1_type": "MONEY",
+      "entity2": "AMD",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 40
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "165.00",
+      "entity1_type": "MONEY",
+      "entity2": "185",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 44
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "145.00",
+      "entity1_type": "MONEY",
+      "entity2": "Advanced",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "145.00",
+      "entity1_type": "MONEY",
+      "entity2": "Micro",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "145.00",
+      "entity1_type": "MONEY",
+      "entity2": "Devices",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "145.00",
+      "entity1_type": "MONEY",
+      "entity2": "Wells",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "145.00",
+      "entity1_type": "MONEY",
+      "entity2": "Fargo",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "145.00",
+      "entity1_type": "MONEY",
+      "entity2": "AMD",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 37
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "145.00",
+      "entity1_type": "MONEY",
+      "entity2": "185",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 41
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Advanced",
+      "entity1_type": "ORG",
+      "entity2": "Micro",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Advanced",
+      "entity1_type": "ORG",
+      "entity2": "Devices",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Advanced",
+      "entity1_type": "ORG",
+      "entity2": "Wells",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Advanced",
+      "entity1_type": "ORG",
+      "entity2": "Fargo",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Advanced",
+      "entity1_type": "ORG",
+      "entity2": "AMD",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Advanced",
+      "entity1_type": "ORG",
+      "entity2": "185",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Micro",
+      "entity1_type": "ORG",
+      "entity2": "Devices",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Micro",
+      "entity1_type": "ORG",
+      "entity2": "Wells",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Micro",
+      "entity1_type": "ORG",
+      "entity2": "Fargo",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Micro",
+      "entity1_type": "ORG",
+      "entity2": "AMD",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Micro",
+      "entity1_type": "ORG",
+      "entity2": "185",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Devices",
+      "entity1_type": "ORG",
+      "entity2": "Wells",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Devices",
+      "entity1_type": "ORG",
+      "entity2": "Fargo",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Devices",
+      "entity1_type": "ORG",
+      "entity2": "AMD",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Devices",
+      "entity1_type": "ORG",
+      "entity2": "185",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "Fargo",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "AMD",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wells",
+      "entity1_type": "ORG",
+      "entity2": "185",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "AMD",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Fargo",
+      "entity1_type": "ORG",
+      "entity2": "185",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMD",
+      "entity1_type": "ORG",
+      "entity2": "185",
+      "entity2_type": "MONEY",
+      "sentence": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMD",
+      "entity1_type": "ORG",
+      "entity2": "Cathie",
+      "entity2_type": "PERSON",
+      "sentence": "AMD Price Target Hike\nPositive Sentiment:\nCathie Wood’s ARK Invest made significant new allocations to AMD stock as part of its AI and robotics bets, signaling strong institutional interest.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMD",
+      "entity1_type": "ORG",
+      "entity2": "Wood",
+      "entity2_type": "PERSON",
+      "sentence": "AMD Price Target Hike\nPositive Sentiment:\nCathie Wood’s ARK Invest made significant new allocations to AMD stock as part of its AI and robotics bets, signaling strong institutional interest.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMD",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "PERSON",
+      "sentence": "AMD Price Target Hike\nPositive Sentiment:\nCathie Wood’s ARK Invest made significant new allocations to AMD stock as part of its AI and robotics bets, signaling strong institutional interest.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMD",
+      "entity1_type": "ORG",
+      "entity2": "ARK",
+      "entity2_type": "ORG",
+      "sentence": "AMD Price Target Hike\nPositive Sentiment:\nCathie Wood’s ARK Invest made significant new allocations to AMD stock as part of its AI and robotics bets, signaling strong institutional interest.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMD",
+      "entity1_type": "ORG",
+      "entity2": "Invest",
+      "entity2_type": "ORG",
+      "sentence": "AMD Price Target Hike\nPositive Sentiment:\nCathie Wood’s ARK Invest made significant new allocations to AMD stock as part of its AI and robotics bets, signaling strong institutional interest.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMD",
+      "entity1_type": "ORG",
+      "entity2": "AMD",
+      "entity2_type": "ORG",
+      "sentence": "AMD Price Target Hike\nPositive Sentiment:\nCathie Wood’s ARK Invest made significant new allocations to AMD stock as part of its AI and robotics bets, signaling strong institutional interest.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cathie",
+      "entity1_type": "PERSON",
+      "entity2": "Wood",
+      "entity2_type": "PERSON",
+      "sentence": "AMD Price Target Hike\nPositive Sentiment:\nCathie Wood’s ARK Invest made significant new allocations to AMD stock as part of its AI and robotics bets, signaling strong institutional interest.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cathie",
+      "entity1_type": "PERSON",
+      "entity2": "’s",
+      "entity2_type": "PERSON",
+      "sentence": "AMD Price Target Hike\nPositive Sentiment:\nCathie Wood’s ARK Invest made significant new allocations to AMD stock as part of its AI and robotics bets, signaling strong institutional interest.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cathie",
+      "entity1_type": "PERSON",
+      "entity2": "ARK",
+      "entity2_type": "ORG",
+      "sentence": "AMD Price Target Hike\nPositive Sentiment:\nCathie Wood’s ARK Invest made significant new allocations to AMD stock as part of its AI and robotics bets, signaling strong institutional interest.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cathie",
+      "entity1_type": "PERSON",
+      "entity2": "Invest",
+      "entity2_type": "ORG",
+      "sentence": "AMD Price Target Hike\nPositive Sentiment:\nCathie Wood’s ARK Invest made significant new allocations to AMD stock as part of its AI and robotics bets, signaling strong institutional interest.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cathie",
+      "entity1_type": "PERSON",
+      "entity2": "AMD",
+      "entity2_type": "ORG",
+      "sentence": "AMD Price Target Hike\nPositive Sentiment:\nCathie Wood’s ARK Invest made significant new allocations to AMD stock as part of its AI and robotics bets, signaling strong institutional interest.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wood",
+      "entity1_type": "PERSON",
+      "entity2": "’s",
+      "entity2_type": "PERSON",
+      "sentence": "AMD Price Target Hike\nPositive Sentiment:\nCathie Wood’s ARK Invest made significant new allocations to AMD stock as part of its AI and robotics bets, signaling strong institutional interest.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wood",
+      "entity1_type": "PERSON",
+      "entity2": "ARK",
+      "entity2_type": "ORG",
+      "sentence": "AMD Price Target Hike\nPositive Sentiment:\nCathie Wood’s ARK Invest made significant new allocations to AMD stock as part of its AI and robotics bets, signaling strong institutional interest.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wood",
+      "entity1_type": "PERSON",
+      "entity2": "Invest",
+      "entity2_type": "ORG",
+      "sentence": "AMD Price Target Hike\nPositive Sentiment:\nCathie Wood’s ARK Invest made significant new allocations to AMD stock as part of its AI and robotics bets, signaling strong institutional interest.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wood",
+      "entity1_type": "PERSON",
+      "entity2": "AMD",
+      "entity2_type": "ORG",
+      "sentence": "AMD Price Target Hike\nPositive Sentiment:\nCathie Wood’s ARK Invest made significant new allocations to AMD stock as part of its AI and robotics bets, signaling strong institutional interest.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "PERSON",
+      "entity2": "ARK",
+      "entity2_type": "ORG",
+      "sentence": "AMD Price Target Hike\nPositive Sentiment:\nCathie Wood’s ARK Invest made significant new allocations to AMD stock as part of its AI and robotics bets, signaling strong institutional interest.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "PERSON",
+      "entity2": "Invest",
+      "entity2_type": "ORG",
+      "sentence": "AMD Price Target Hike\nPositive Sentiment:\nCathie Wood’s ARK Invest made significant new allocations to AMD stock as part of its AI and robotics bets, signaling strong institutional interest.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "PERSON",
+      "entity2": "AMD",
+      "entity2_type": "ORG",
+      "sentence": "AMD Price Target Hike\nPositive Sentiment:\nCathie Wood’s ARK Invest made significant new allocations to AMD stock as part of its AI and robotics bets, signaling strong institutional interest.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ARK",
+      "entity1_type": "ORG",
+      "entity2": "Invest",
+      "entity2_type": "ORG",
+      "sentence": "AMD Price Target Hike\nPositive Sentiment:\nCathie Wood’s ARK Invest made significant new allocations to AMD stock as part of its AI and robotics bets, signaling strong institutional interest.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ARK",
+      "entity1_type": "ORG",
+      "entity2": "AMD",
+      "entity2_type": "ORG",
+      "sentence": "AMD Price Target Hike\nPositive Sentiment:\nCathie Wood’s ARK Invest made significant new allocations to AMD stock as part of its AI and robotics bets, signaling strong institutional interest.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Invest",
+      "entity1_type": "ORG",
+      "entity2": "AMD",
+      "entity2_type": "ORG",
+      "sentence": "AMD Price Target Hike\nPositive Sentiment:\nCathie Wood’s ARK Invest made significant new allocations to AMD stock as part of its AI and robotics bets, signaling strong institutional interest.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cathie",
+      "entity1_type": "PERSON",
+      "entity2": "Wood",
+      "entity2_type": "PERSON",
+      "sentence": "Cathie Wood’s AI & Robotics Bets\nPositive Sentiment:\nEvercore noted that AMD’s MI308X chip is set to resume sales in China, which could drive revenue upside in 2025.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cathie",
+      "entity1_type": "PERSON",
+      "entity2": "’s",
+      "entity2_type": "PERSON",
+      "sentence": "Cathie Wood’s AI & Robotics Bets\nPositive Sentiment:\nEvercore noted that AMD’s MI308X chip is set to resume sales in China, which could drive revenue upside in 2025.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cathie",
+      "entity1_type": "PERSON",
+      "entity2": "Evercore",
+      "entity2_type": "ORG",
+      "sentence": "Cathie Wood’s AI & Robotics Bets\nPositive Sentiment:\nEvercore noted that AMD’s MI308X chip is set to resume sales in China, which could drive revenue upside in 2025.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cathie",
+      "entity1_type": "PERSON",
+      "entity2": "AMD",
+      "entity2_type": "ORG",
+      "sentence": "Cathie Wood’s AI & Robotics Bets\nPositive Sentiment:\nEvercore noted that AMD’s MI308X chip is set to resume sales in China, which could drive revenue upside in 2025.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cathie",
+      "entity1_type": "PERSON",
+      "entity2": "MI308X",
+      "entity2_type": "PRODUCT",
+      "sentence": "Cathie Wood’s AI & Robotics Bets\nPositive Sentiment:\nEvercore noted that AMD’s MI308X chip is set to resume sales in China, which could drive revenue upside in 2025.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cathie",
+      "entity1_type": "PERSON",
+      "entity2": "China",
+      "entity2_type": "GPE",
+      "sentence": "Cathie Wood’s AI & Robotics Bets\nPositive Sentiment:\nEvercore noted that AMD’s MI308X chip is set to resume sales in China, which could drive revenue upside in 2025.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cathie",
+      "entity1_type": "PERSON",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Cathie Wood’s AI & Robotics Bets\nPositive Sentiment:\nEvercore noted that AMD’s MI308X chip is set to resume sales in China, which could drive revenue upside in 2025.",
+      "distance": 33
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wood",
+      "entity1_type": "PERSON",
+      "entity2": "’s",
+      "entity2_type": "PERSON",
+      "sentence": "Cathie Wood’s AI & Robotics Bets\nPositive Sentiment:\nEvercore noted that AMD’s MI308X chip is set to resume sales in China, which could drive revenue upside in 2025.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wood",
+      "entity1_type": "PERSON",
+      "entity2": "Evercore",
+      "entity2_type": "ORG",
+      "sentence": "Cathie Wood’s AI & Robotics Bets\nPositive Sentiment:\nEvercore noted that AMD’s MI308X chip is set to resume sales in China, which could drive revenue upside in 2025.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wood",
+      "entity1_type": "PERSON",
+      "entity2": "AMD",
+      "entity2_type": "ORG",
+      "sentence": "Cathie Wood’s AI & Robotics Bets\nPositive Sentiment:\nEvercore noted that AMD’s MI308X chip is set to resume sales in China, which could drive revenue upside in 2025.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wood",
+      "entity1_type": "PERSON",
+      "entity2": "MI308X",
+      "entity2_type": "PRODUCT",
+      "sentence": "Cathie Wood’s AI & Robotics Bets\nPositive Sentiment:\nEvercore noted that AMD’s MI308X chip is set to resume sales in China, which could drive revenue upside in 2025.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wood",
+      "entity1_type": "PERSON",
+      "entity2": "China",
+      "entity2_type": "GPE",
+      "sentence": "Cathie Wood’s AI & Robotics Bets\nPositive Sentiment:\nEvercore noted that AMD’s MI308X chip is set to resume sales in China, which could drive revenue upside in 2025.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Wood",
+      "entity1_type": "PERSON",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Cathie Wood’s AI & Robotics Bets\nPositive Sentiment:\nEvercore noted that AMD’s MI308X chip is set to resume sales in China, which could drive revenue upside in 2025.",
+      "distance": 32
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "PERSON",
+      "entity2": "Evercore",
+      "entity2_type": "ORG",
+      "sentence": "Cathie Wood’s AI & Robotics Bets\nPositive Sentiment:\nEvercore noted that AMD’s MI308X chip is set to resume sales in China, which could drive revenue upside in 2025.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "PERSON",
+      "entity2": "AMD",
+      "entity2_type": "ORG",
+      "sentence": "Cathie Wood’s AI & Robotics Bets\nPositive Sentiment:\nEvercore noted that AMD’s MI308X chip is set to resume sales in China, which could drive revenue upside in 2025.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "PERSON",
+      "entity2": "MI308X",
+      "entity2_type": "PRODUCT",
+      "sentence": "Cathie Wood’s AI & Robotics Bets\nPositive Sentiment:\nEvercore noted that AMD’s MI308X chip is set to resume sales in China, which could drive revenue upside in 2025.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "PERSON",
+      "entity2": "China",
+      "entity2_type": "GPE",
+      "sentence": "Cathie Wood’s AI & Robotics Bets\nPositive Sentiment:\nEvercore noted that AMD’s MI308X chip is set to resume sales in China, which could drive revenue upside in 2025.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "PERSON",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Cathie Wood’s AI & Robotics Bets\nPositive Sentiment:\nEvercore noted that AMD’s MI308X chip is set to resume sales in China, which could drive revenue upside in 2025.",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Evercore",
+      "entity1_type": "ORG",
+      "entity2": "AMD",
+      "entity2_type": "ORG",
+      "sentence": "Cathie Wood’s AI & Robotics Bets\nPositive Sentiment:\nEvercore noted that AMD’s MI308X chip is set to resume sales in China, which could drive revenue upside in 2025.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Evercore",
+      "entity1_type": "ORG",
+      "entity2": "MI308X",
+      "entity2_type": "PRODUCT",
+      "sentence": "Cathie Wood’s AI & Robotics Bets\nPositive Sentiment:\nEvercore noted that AMD’s MI308X chip is set to resume sales in China, which could drive revenue upside in 2025.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Evercore",
+      "entity1_type": "ORG",
+      "entity2": "China",
+      "entity2_type": "GPE",
+      "sentence": "Cathie Wood’s AI & Robotics Bets\nPositive Sentiment:\nEvercore noted that AMD’s MI308X chip is set to resume sales in China, which could drive revenue upside in 2025.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Evercore",
+      "entity1_type": "ORG",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Cathie Wood’s AI & Robotics Bets\nPositive Sentiment:\nEvercore noted that AMD’s MI308X chip is set to resume sales in China, which could drive revenue upside in 2025.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMD",
+      "entity1_type": "ORG",
+      "entity2": "MI308X",
+      "entity2_type": "PRODUCT",
+      "sentence": "Cathie Wood’s AI & Robotics Bets\nPositive Sentiment:\nEvercore noted that AMD’s MI308X chip is set to resume sales in China, which could drive revenue upside in 2025.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMD",
+      "entity1_type": "ORG",
+      "entity2": "China",
+      "entity2_type": "GPE",
+      "sentence": "Cathie Wood’s AI & Robotics Bets\nPositive Sentiment:\nEvercore noted that AMD’s MI308X chip is set to resume sales in China, which could drive revenue upside in 2025.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMD",
+      "entity1_type": "ORG",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Cathie Wood’s AI & Robotics Bets\nPositive Sentiment:\nEvercore noted that AMD’s MI308X chip is set to resume sales in China, which could drive revenue upside in 2025.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MI308X",
+      "entity1_type": "PRODUCT",
+      "entity2": "China",
+      "entity2_type": "GPE",
+      "sentence": "Cathie Wood’s AI & Robotics Bets\nPositive Sentiment:\nEvercore noted that AMD’s MI308X chip is set to resume sales in China, which could drive revenue upside in 2025.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "MI308X",
+      "entity1_type": "PRODUCT",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Cathie Wood’s AI & Robotics Bets\nPositive Sentiment:\nEvercore noted that AMD’s MI308X chip is set to resume sales in China, which could drive revenue upside in 2025.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "China",
+      "entity1_type": "GPE",
+      "entity2": "2025",
+      "entity2_type": "DATE",
+      "sentence": "Cathie Wood’s AI & Robotics Bets\nPositive Sentiment:\nEvercore noted that AMD’s MI308X chip is set to resume sales in China, which could drive revenue upside in 2025.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMD",
+      "entity1_type": "ORG",
+      "entity2": "China",
+      "entity2_type": "GPE",
+      "sentence": "AMD Revenue Upside from China Sales\nPositive Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jefferies",
+      "entity1_type": "ORG",
+      "entity2": "AMD",
+      "entity2_type": "ORG",
+      "sentence": "Jefferies forecast strong price appreciation for AMD shares, reinforcing a bullish outlook on the chipmaker.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Week",
+      "entity1_type": "EVENT",
+      "entity2": "in",
+      "entity2_type": "EVENT",
+      "sentence": "MarketBeat’s Week in Review highlighted a technical indicator suggesting AMD stock is poised for a breakout, fueling momentum-driven buying.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Week",
+      "entity1_type": "EVENT",
+      "entity2": "Review",
+      "entity2_type": "EVENT",
+      "sentence": "MarketBeat’s Week in Review highlighted a technical indicator suggesting AMD stock is poised for a breakout, fueling momentum-driven buying.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Week",
+      "entity1_type": "EVENT",
+      "entity2": "AMD",
+      "entity2_type": "ORG",
+      "sentence": "MarketBeat’s Week in Review highlighted a technical indicator suggesting AMD stock is poised for a breakout, fueling momentum-driven buying.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "in",
+      "entity1_type": "EVENT",
+      "entity2": "Review",
+      "entity2_type": "EVENT",
+      "sentence": "MarketBeat’s Week in Review highlighted a technical indicator suggesting AMD stock is poised for a breakout, fueling momentum-driven buying.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "in",
+      "entity1_type": "EVENT",
+      "entity2": "AMD",
+      "entity2_type": "ORG",
+      "sentence": "MarketBeat’s Week in Review highlighted a technical indicator suggesting AMD stock is poised for a breakout, fueling momentum-driven buying.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Review",
+      "entity1_type": "EVENT",
+      "entity2": "AMD",
+      "entity2_type": "ORG",
+      "sentence": "MarketBeat’s Week in Review highlighted a technical indicator suggesting AMD stock is poised for a breakout, fueling momentum-driven buying.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Citigroup",
+      "entity1_type": "ORG",
+      "entity2": "AMD",
+      "entity2_type": "ORG",
+      "sentence": "Citigroup maintained a “neutral” rating on AMD despite raising its target price, indicating balanced risk-reward expectations.\nBenzinga:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMD",
+      "entity1_type": "ORG",
+      "entity2": "Mark",
+      "entity2_type": "PERSON",
+      "sentence": "Shares dipped after reports that AMD insiders, including EVP Mark Papermaster, sold shares worth $2.8 million, suggesting profit-taking at the executive level.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMD",
+      "entity1_type": "ORG",
+      "entity2": "Papermaster",
+      "entity2_type": "PERSON",
+      "sentence": "Shares dipped after reports that AMD insiders, including EVP Mark Papermaster, sold shares worth $2.8 million, suggesting profit-taking at the executive level.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMD",
+      "entity1_type": "ORG",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Shares dipped after reports that AMD insiders, including EVP Mark Papermaster, sold shares worth $2.8 million, suggesting profit-taking at the executive level.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMD",
+      "entity1_type": "ORG",
+      "entity2": "2.8",
+      "entity2_type": "MONEY",
+      "sentence": "Shares dipped after reports that AMD insiders, including EVP Mark Papermaster, sold shares worth $2.8 million, suggesting profit-taking at the executive level.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMD",
+      "entity1_type": "ORG",
+      "entity2": "million",
+      "entity2_type": "MONEY",
+      "sentence": "Shares dipped after reports that AMD insiders, including EVP Mark Papermaster, sold shares worth $2.8 million, suggesting profit-taking at the executive level.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mark",
+      "entity1_type": "PERSON",
+      "entity2": "Papermaster",
+      "entity2_type": "PERSON",
+      "sentence": "Shares dipped after reports that AMD insiders, including EVP Mark Papermaster, sold shares worth $2.8 million, suggesting profit-taking at the executive level.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mark",
+      "entity1_type": "PERSON",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Shares dipped after reports that AMD insiders, including EVP Mark Papermaster, sold shares worth $2.8 million, suggesting profit-taking at the executive level.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mark",
+      "entity1_type": "PERSON",
+      "entity2": "2.8",
+      "entity2_type": "MONEY",
+      "sentence": "Shares dipped after reports that AMD insiders, including EVP Mark Papermaster, sold shares worth $2.8 million, suggesting profit-taking at the executive level.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Mark",
+      "entity1_type": "PERSON",
+      "entity2": "million",
+      "entity2_type": "MONEY",
+      "sentence": "Shares dipped after reports that AMD insiders, including EVP Mark Papermaster, sold shares worth $2.8 million, suggesting profit-taking at the executive level.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Papermaster",
+      "entity1_type": "PERSON",
+      "entity2": "$",
+      "entity2_type": "MONEY",
+      "sentence": "Shares dipped after reports that AMD insiders, including EVP Mark Papermaster, sold shares worth $2.8 million, suggesting profit-taking at the executive level.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Papermaster",
+      "entity1_type": "PERSON",
+      "entity2": "2.8",
+      "entity2_type": "MONEY",
+      "sentence": "Shares dipped after reports that AMD insiders, including EVP Mark Papermaster, sold shares worth $2.8 million, suggesting profit-taking at the executive level.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Papermaster",
+      "entity1_type": "PERSON",
+      "entity2": "million",
+      "entity2_type": "MONEY",
+      "sentence": "Shares dipped after reports that AMD insiders, including EVP Mark Papermaster, sold shares worth $2.8 million, suggesting profit-taking at the executive level.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "2.8",
+      "entity2_type": "MONEY",
+      "sentence": "Shares dipped after reports that AMD insiders, including EVP Mark Papermaster, sold shares worth $2.8 million, suggesting profit-taking at the executive level.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "$",
+      "entity1_type": "MONEY",
+      "entity2": "million",
+      "entity2_type": "MONEY",
+      "sentence": "Shares dipped after reports that AMD insiders, including EVP Mark Papermaster, sold shares worth $2.8 million, suggesting profit-taking at the executive level.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2.8",
+      "entity1_type": "MONEY",
+      "entity2": "million",
+      "entity2_type": "MONEY",
+      "sentence": "Shares dipped after reports that AMD insiders, including EVP Mark Papermaster, sold shares worth $2.8 million, suggesting profit-taking at the executive level.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMD",
+      "entity1_type": "ORG",
+      "entity2": "2.4",
+      "entity2_type": "PERCENT",
+      "sentence": "AMD shares traded down following the disclosure of insider selling, with a 2.4% drop attributed to market reaction to the executives’ stock sales.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AMD",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "AMD shares traded down following the disclosure of insider selling, with a 2.4% drop attributed to market reaction to the executives’ stock sales.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "2.4",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "AMD shares traded down following the disclosure of insider selling, with a 2.4% drop attributed to market reaction to the executives’ stock sales.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Trading Down After Insider Selling\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Trading Down After Insider Selling\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Trading Down After Insider Selling\nPosted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Trading Down After Insider Selling\nPosted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Trading Down After Insider Selling\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Trading Down After Insider Selling\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Trading Down After Insider Selling\nPosted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Trading Down After Insider Selling\nPosted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Trading Down After Insider Selling\nPosted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ago",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Trading Down After Insider Selling\nPosted 1+ days ago\nAI Generated.",
+      "distance": 2
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "a mix",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "analyst updates",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "institutional activity",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "insider transactions",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its price target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "analyst confidence",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the company’s outlook",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Advanced Micro Devices Price Target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Wells Fargo",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "an “Overweight” rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its price target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "AMD shares",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "accelerating data-center GPU growth",
+      "type": "noun_chunk",
+      "category": "trend"
+    },
+    {
+      "text": "AMD Price Target Hike",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Cathie Wood’s ARK Invest",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "significant new allocations",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "AMD stock",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "its AI and robotics bets",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "strong institutional interest",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Cathie Wood’s AI & Robotics Bets",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "AMD’s MI308X chip",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "revenue upside",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "AMD Revenue Upside",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "China Sales",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "strong price appreciation",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "AMD shares",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "a bullish outlook",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the chipmaker",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Jefferies Forecast",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "MarketBeat’s Week",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "a technical indicator",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "AMD stock",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "a breakout",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "momentum-driven buying",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "AMD Technical Breakout Signal\nNeutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a “neutral” rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its target price",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "balanced risk-reward expectations",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "AMD insiders",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "EVP Mark Papermaster",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the executive level",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Insider Selling",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Negative Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "AMD shares",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "the disclosure",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "insider selling",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a 2.4% drop",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "market reaction",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "the executives’ stock sales",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Insider Selling",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "$165.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$145.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$185,",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$2",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "2.4%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "growth",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "revenue",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Revenue",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "profit",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "market",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Trading",
+      "type": "pattern",
+      "category": "market_term"
+    }
+  ],
+  "important_sentences": [
+    {
+      "text": "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth.",
+      "importance_score": 81,
+      "entity_count": 11,
+      "financial_keyword_count": 8,
+      "money_count": 3,
+      "company_count": 5,
+      "sentiment": "positive"
+    },
+    {
+      "text": "AMD Price Target Hike\nPositive Sentiment:\nCathie Wood’s ARK Invest made significant new allocations to AMD stock as part of its AI and robotics bets, signaling strong institutional interest.",
+      "importance_score": 38,
+      "entity_count": 7,
+      "financial_keyword_count": 4,
+      "money_count": 0,
+      "company_count": 3,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Cathie Wood’s AI & Robotics Bets\nPositive Sentiment:\nEvercore noted that AMD’s MI308X chip is set to resume sales in China, which could drive revenue upside in 2025.",
+      "importance_score": 33,
+      "entity_count": 8,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Shares dipped after reports that AMD insiders, including EVP Mark Papermaster, sold shares worth $2.8 million, suggesting profit-taking at the executive level.",
+      "importance_score": 24,
+      "entity_count": 6,
+      "financial_keyword_count": 1,
+      "money_count": 1,
+      "company_count": 1,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Advanced Micro Devices, Inc. (NASDAQ:AMD) shares are moving on a mix of analyst updates, institutional activity, and insider transactions.",
+      "importance_score": 23,
+      "entity_count": 6,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Citigroup maintained a “neutral” rating on AMD despite raising its target price, indicating balanced risk-reward expectations.\nBenzinga:",
+      "importance_score": 21,
+      "entity_count": 2,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Trading Down After Insider Selling\nPosted 1+ days ago\nAI Generated.",
+      "importance_score": 20,
+      "entity_count": 5,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "AMD shares traded down following the disclosure of insider selling, with a 2.4% drop attributed to market reaction to the executives’ stock sales.",
+      "importance_score": 19,
+      "entity_count": 3,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Jefferies forecast strong price appreciation for AMD shares, reinforcing a bullish outlook on the chipmaker.",
+      "importance_score": 18,
+      "entity_count": 2,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "positive"
+    },
+    {
+      "text": "MarketBeat’s Week in Review highlighted a technical indicator suggesting AMD stock is poised for a breakout, fueling momentum-driven buying.",
+      "importance_score": 18,
+      "entity_count": 4,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "neutral"
+    }
+  ],
+  "entity_statistics": {
+    "total_entities": 38,
+    "unique_entities": 22,
+    "type_counts": {
+      "ORG": 24,
+      "MONEY": 4,
+      "PERSON": 3,
+      "PRODUCT": 1,
+      "GPE": 2,
+      "DATE": 2,
+      "EVENT": 1,
+      "PERCENT": 1
+    },
+    "type_distribution": {
+      "ORG": 0.631578947368421,
+      "MONEY": 0.10526315789473684,
+      "PERSON": 0.07894736842105263,
+      "PRODUCT": 0.02631578947368421,
+      "GPE": 0.05263157894736842,
+      "DATE": 0.05263157894736842,
+      "EVENT": 0.02631578947368421,
+      "PERCENT": 0.02631578947368421
+    },
+    "most_common_entities": [
+      [
+        "AMD",
+        13
+      ],
+      [
+        "Citigroup",
+        2
+      ],
+      [
+        "Cathie Wood’s",
+        2
+      ],
+      [
+        "China",
+        2
+      ],
+      [
+        "Jefferies",
+        2
+      ],
+      [
+        "Advanced Micro Devices, Inc.",
+        1
+      ],
+      [
+        "165.00",
+        1
+      ],
+      [
+        "145.00",
+        1
+      ],
+      [
+        "Advanced Micro Devices",
+        1
+      ],
+      [
+        "Wells Fargo",
+        1
+      ]
+    ],
+    "entity_types_found": [
+      "ORG",
+      "MONEY",
+      "PERSON",
+      "PRODUCT",
+      "GPE",
+      "DATE",
+      "EVENT",
+      "PERCENT"
+    ],
+    "company_entities": 24,
+    "person_entities": 3,
+    "financial_entities": 5,
+    "entity_density": 0.14285714285714285
+  },
+  "financial_analysis": {
+    "money_amounts": [
+      "165.00",
+      "145.00",
+      "185",
+      "$2.8 million"
+    ],
+    "percentages": [
+      "2.4%"
+    ],
+    "companies": [
+      "Advanced Micro Devices, Inc.",
+      "AMD",
+      "Citigroup",
+      "AMD",
+      "Advanced Micro Devices",
+      "Wells Fargo",
+      "AMD",
+      "AMD",
+      "ARK Invest",
+      "AMD",
+      "Evercore",
+      "AMD",
+      "AMD",
+      "Jefferies",
+      "AMD",
+      "Jefferies",
+      "AMD",
+      "AMD",
+      "Citigroup",
+      "AMD",
+      "Citi",
+      "AMD",
+      "AMD",
+      "AI"
+    ],
+    "people": [
+      "Cathie Wood’s",
+      "Cathie Wood’s",
+      "Mark Papermaster"
+    ],
+    "dates": [
+      "2025",
+      "1+ days ago"
+    ],
+    "financial_terms": [
+      "revenue",
+      "Revenue",
+      "stock",
+      "profit",
+      "growth",
+      "market",
+      "Trading"
+    ],
+    "financial_metrics": [],
+    "market_indicators": [
+      "Target",
+      "Price",
+      "price",
+      "target",
+      "rating",
+      "Rating"
+    ]
+  },
+  "temporal_analysis": {
+    "dates": [
+      "2025",
+      "1+ days ago"
+    ],
+    "time_expressions": [],
+    "temporal_relationships": [],
+    "quarters": [],
+    "years": [
+      "2025"
+    ],
+    "time_periods": []
+  },
+  "sentiment_analysis": {
+    "positive_words": 11,
+    "negative_words": 5,
+    "positive_ratio": 0.041353383458646614,
+    "negative_ratio": 0.018796992481203006,
+    "sentiment_score": 0.022556390977443608,
+    "sentiment_label": "positive",
+    "sentiment_strength": 0.022556390977443608,
+    "confidence": 0.22556390977443608
+  },
+  "industry_analysis": {
+    "dominant_industry": "tech",
+    "industry_scores": {
+      "tech": 4,
+      "finance": 1,
+      "healthcare": 0,
+      "energy": 0,
+      "retail": 0,
+      "automotive": 0,
+      "media": 0,
+      "industrial": 2,
+      "real_estate": 0,
+      "telecom": 0,
+      "food_beverage": 0,
+      "travel": 0,
+      "education": 0,
+      "professional": 0,
+      "mining": 0,
+      "aerospace": 0,
+      "environmental": 0,
+      "cannabis": 0
+    },
+    "confidence": 0.5714285714285714
+  },
+  "market_analysis": {
+    "market_sentiment": "neutral",
+    "bullish_indicators": 1,
+    "bearish_indicators": 1,
+    "market_conditions": {
+      "volatility": "normal",
+      "volume": "normal",
+      "trend": "neutral"
+    },
+    "trading_activity": "normal"
+  },
+  "competitor_analysis": {
+    "companies_mentioned": [
+      "Advanced Micro Devices, Inc.",
+      "AMD",
+      "Citigroup",
+      "AMD",
+      "Advanced Micro Devices",
+      "Wells Fargo",
+      "AMD",
+      "AMD",
+      "ARK Invest",
+      "AMD",
+      "Evercore",
+      "AMD",
+      "AMD",
+      "Jefferies",
+      "AMD",
+      "Jefferies",
+      "AMD",
+      "AMD",
+      "Citigroup",
+      "AMD",
+      "Citi",
+      "AMD",
+      "AMD",
+      "AI"
+    ],
+    "competitive_context": [],
+    "competitor_count": 24,
+    "has_competitive_language": false
+  },
+  "risk_analysis": {
+    "risk_sentences": [
+      "Citigroup maintained a “neutral” rating on AMD despite raising its target price, indicating balanced risk-reward expectations.\nBenzinga:"
+    ],
+    "risk_count": 1,
+    "risk_level": "low"
+  },
+  "opportunity_analysis": {
+    "opportunity_sentences": [
+      "Positive Sentiment:\nCitigroup boosted its price target for AMD to $165.00 from $145.00, reflecting analyst confidence in the company’s outlook.\nAdvanced Micro Devices Price Target Raised\nPositive Sentiment:\nWells Fargo reiterated an “Overweight” rating and increased its price target on AMD shares to $185, citing accelerating data-center GPU growth."
+    ],
+    "opportunity_count": 1,
+    "opportunity_level": "low"
+  },
+  "processing_metadata": {
+    "timestamp": "2025-07-20T23:00:20.902185",
+    "model_used": "en_core_web_trf",
+    "text_length": 1898
+  }
+}
