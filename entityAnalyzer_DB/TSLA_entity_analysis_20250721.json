@@ -5051,11 +5051,11 @@
       "1+ days ago"
     ],
     "financial_terms": [
-      "growth",
-      "Earnings",
-      "Stock",
-      "market",
       "earnings",
+      "Earnings",
+      "market",
+      "growth",
+      "Stock",
       "stock"
     ],
     "financial_metrics": [],
@@ -5078,9 +5078,9 @@
     ],
     "time_expressions": [],
     "temporal_relationships": [
-      "upcoming",
       "next",
-      "today"
+      "today",
+      "upcoming"
     ],
     "quarters": [
       "Q2",
@@ -5192,7 +5192,7 @@
     "opportunity_level": "medium"
   },
   "processing_metadata": {
-    "timestamp": "2025-07-21T01:10:59.490484",
+    "timestamp": "2025-07-21T01:21:29.205368",
     "model_used": "en_core_web_trf",
     "text_length": 2708
   }
