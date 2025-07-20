@@ -2088,17 +2088,17 @@
       "1+ days ago"
     ],
     "financial_terms": [
-      "Earnings",
+      "earnings",
       "stock",
       "Stock",
-      "Market",
-      "earnings"
+      "Earnings",
+      "Market"
     ],
     "financial_metrics": [],
     "market_indicators": [
-      "price",
       "volatility",
-      "Price"
+      "Price",
+      "price"
     ]
   },
   "temporal_analysis": {
@@ -2113,9 +2113,9 @@
     ],
     "time_expressions": [],
     "temporal_relationships": [
-      "monthly",
       "Future",
-      "Monthly"
+      "Monthly",
+      "monthly"
     ],
     "quarters": [
       "Q2",
@@ -2209,7 +2209,7 @@
     "opportunity_level": "medium"
   },
   "processing_metadata": {
-    "timestamp": "2025-07-20T22:43:52.097228",
+    "timestamp": "2025-07-20T22:55:51.918641",
     "model_used": "en_core_web_trf",
     "text_length": 1773
   }
