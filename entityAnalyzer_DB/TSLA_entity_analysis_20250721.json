@@ -5052,10 +5052,10 @@
     ],
     "financial_terms": [
       "earnings",
-      "Earnings",
-      "market",
-      "growth",
       "Stock",
+      "market",
+      "Earnings",
+      "growth",
       "stock"
     ],
     "financial_metrics": [],
@@ -5192,7 +5192,7 @@
     "opportunity_level": "medium"
   },
   "processing_metadata": {
-    "timestamp": "2025-07-21T01:21:29.205368",
+    "timestamp": "2025-07-21T02:07:52.239936",
     "model_used": "en_core_web_trf",
     "text_length": 2708
   }

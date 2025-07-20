@@ -1,10 +1,12 @@
-<!DOCTYPE html>
+html
 <html dir="rtl" lang="he">
  <head>
   <meta charset="utf-8"/>
   <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
   <title>
-   Tesla, Inc. (TSLA) - מחקר כלכלי מתקדם | Hippopotamus Research
+   Tesla, Inc.
+   <br/>
+   (TSLA) - מחקר כלכלי מתקדם | Hippopotamus Research
   </title>
   <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
@@ -585,6 +587,116 @@
       100% { opacity: 0; transform: translateX(-50%) scale(0.95); }
     }
   </style>
+  <style>
+   .x-share-btn-custom {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #14171a 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(29,161,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .x-share-btn-custom:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #14171a 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(29,161,242,0.18);
+    }
+    .x-share-btn-custom .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .x-share-btn-custom:hover .x-icon {
+      background: #1da1f2;
+    }
+    .x-share-btn-custom .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    .follow-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 22px;
+      background: linear-gradient(90deg, #7b2ff2 0%, #1da1f2 100%);
+      color: #fff;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 1em;
+      box-shadow: 0 4px 16px rgba(123,47,242,0.10);
+      transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+    }
+    .follow-btn:hover {
+      background: linear-gradient(90deg, #1da1f2 0%, #7b2ff2 100%);
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 8px 24px rgba(123,47,242,0.18);
+    }
+    .follow-btn .x-icon {
+      width: 24px;
+      height: 24px;
+      background: #fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.3s;
+    }
+    .follow-btn:hover .x-icon {
+      background: #7b2ff2;
+    }
+    .follow-btn .x-icon img {
+      width: 16px;
+      height: 16px;
+      display: block;
+    }
+    .share-popup-message {
+      position: fixed;
+      top: 30px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: #1da1f2;
+      color: #fff;
+      padding: 18px 32px;
+      border-radius: 30px;
+      font-size: 1.2em;
+      font-weight: 700;
+      box-shadow: 0 4px 24px rgba(29,161,242,0.18);
+      z-index: 9999;
+      opacity: 0.97;
+      text-align: center;
+      letter-spacing: 0.02em;
+      animation: fadeInOut 3s;
+    }
+    @keyframes fadeInOut {
+      0% { opacity: 0; transform: translateX(-50%) scale(0.95); }
+      10% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
+      90% { opacity: 0.97; transform: translateX(-50%) scale(1.05); }
+      100% { opacity: 0; transform: translateX(-50%) scale(0.95); }
+    }
+  </style>
  </head>
  <body>
   <div class="container">
@@ -623,78 +735,94 @@
     </div>
    </div>
    <div class="content">
-    <div class="article-content">
-     <div class="article-content-text">
-      <h3>
-       ניתוח מצב Tesla: מגמות שוק עדכניות והשפעתן על המניה (TSLA)
-      </h3>
-      <p>
-       מניות Tesla, Inc. (NASDAQ: TSLA) חוו תנודתיות בשוק במהלך הימים האחרונים, כאשר משקיעים מנסים להעריך את ההשפעה של מספר גורמים כלכליים, עדכוני מוצרים וסיכונים הקשורים לדוחות הרבעוניים הקרובים. מאמר זה יבחן את המגמות המשפיעות על החברה ואת ההשלכות הפוטנציאליות שלהן.
-      </p>
-      <h3>
+    <div>
+     ניתוח מצב Tesla: מגמות שוק עדכניות והשפעתן על המניה (TSLA)
+      
+
+       מניות Tesla, Inc.
+     <br/>
+     (NASDAQ: TSLA) חוו תנודתיות בשוק במהלך הימים האחרונים, כאשר משקיעים מנסים להעריך את ההשפעה של מספר גורמים כלכליים, עדכוני מוצרים וסיכונים הקשורים לדוחות הרבעוניים הקרובים.
+     <br/>
+     מאמר זה יבחן את המגמות המשפיעות על החברה ואת ההשלכות הפוטנציאליות שלהן.
+      
+
        סנטימנט חיובי בשוק
-      </h3>
-      <p>
-       - **ביצועים חזקים בשוק:** מדד NASDAQ ומדד S&amp;P 500 רשמו שיאים חדשים, מה שמגביר את הציפיות לביצועים חיוביים של Tesla ברבעון השני. נתוני כלכלה חזקים צפויים לתרום להערכה אופטימית של דוחות החברה.
-      </p>
-      <p>
-       - **מכס גרפיט סיני:** ארצות הברית הטילה מכס גבוה על גרפיט סיני, מה שמחזק את המניה בשל הקלה פוטנציאלית בלחצי שרשרת האספקה של Tesla.
-      </p>
-      <p>
-       - **הרחבה בהודו:** הצלחת שירות Starlink של Elon Musk לקבל אישור רגולטורי בהודו, יחד עם פתיחת חנות תצוגה של Tesla במומבאי, מצביעה על פוטנציאל צמיחה בשוק ההודי העצום.
-      </p>
-      <p>
-       - **הערכות אנליסטים:** חברת Barclays הביעה אופטימיות לגבי TSLA, והדגישה גורמי צמיחה והערכה אפשריים לפני פרסום הדוחות הרבעוניים.
-      </p>
-      <h3>
+      
+
+       - ביצועים חזקים בשוק: מדד NASDAQ ומדד S&amp;P 500 רשמו שיאים חדשים, מה שמגביר את הציפיות לביצועים חיוביים של Tesla ברבעון השני.
+     <br/>
+     נתוני כלכלה חזקים צפויים לתרום להערכה אופטימית של דוחות החברה.
+      
+
+       - מכס גרפיט סיני: ארצות הברית הטילה מכס גבוה על גרפיט סיני, מה שמחזק את המניה בשל הקלה פוטנציאלית בלחצי שרשרת האספקה של Tesla.
+      
+
+       - הרחבה בהודו: הצלחת שירות Starlink של Elon Musk לקבל אישור רגולטורי בהודו, יחד עם פתיחת חנות תצוגה של Tesla במומבאי, מצביעה על פוטנציאל צמיחה בשוק ההודי העצום.
+      
+
+       - הערכות אנליסטים: חברת Barclays הביעה אופטימיות לגבי TSLA, והדגישה גורמי צמיחה והערכה אפשריים לפני פרסום הדוחות הרבעוניים.
+      
+
        עדכוני מוצר ואסטרטגיה
-      </h3>
-      <p>
-       Tesla מתכננת להציג וריאנט ארוך של דגם Model Y בסין, תחרות ישירה עם יצרני רכב מקומיים. אסטרטגיה זו מדגישה את מחויבותה של החברה להרחבת נוכחותה בשוק הסיני המתפתח.
-      </p>
-      <h3>
+      
+
+       Tesla מתכננת להציג וריאנט ארוך של דגם Model Y בסין, תחרות ישירה עם יצרני רכב מקומיים.
+     <br/>
+     אסטרטגיה זו מדגישה את מחויבותה של החברה להרחבת נוכחותה בשוק הסיני המתפתח.
+      
+
        פרספקטיבה אנליסטית וסיכונים
-      </h3>
-      <p>
-       אנליסטים מציגים גישות שונות לגבי תחזיות Tesla לרבעון השני, עם דירוגים מעורבים של "החזקה" ו"נייטרלית". רבים מהם מחכים לפרטים נוספים בדוח של 23 ביולי, במיוחד בנוגע לנפח המכירות והיעילות התפעולית.
-      </p>
-      <p>
-       מניות Tesla מופיעות במסנני מסחר הקשורים לתעשיות הרכב החשמלי, התעשייה והחשמל, מה שמעיד על עניין גבוה מצד המשקיעים. עם זאת, אין גורמים מיידיים לדחיפת המניה קמה.
-      </p>
-      <h3>
+      
+
+       אנליסטים מציגים גישות שונות לגבי תחזיות Tesla לרבעון השני, עם דירוגים מעורבים של "החזקה" ו"נייטרלית".
+     <br/>
+     רבים מהם מחכים לפרטים נוספים בדוח של 23 ביולי, במיוחד בנוגע לנפח המכירות והיעילות התפעולית.
+      
+
+       מניות Tesla מופיעות במסנני מסחר הקשורים לתעשיות הרכב החשמלי, התעשייה והחשמל, מה שמעיד על עניין גבוה מצד המשקיעים.
+     <br/>
+     עם זאת, אין גורמים מיידיים לדחיפת המניה קמה.
+      
+
        אתגרים פוטנציאליים לפני פרסום הדוחות
-      </h3>
-      <p>
-       - **דוחות רבעוניים:** הדוח הקרוב עשוי להיות קריטי עבור Tesla, במיוחד לאור חששות ממגמת האטה במכירות והגברת התחרות בשוק הרכב החשמלי הסיני.
-      </p>
-      <p>
-       - **אסטרטגיית מכירות:** מינוי מנהל מכירות IT ללא רקע מסורתי במכירות רכב מעורר ספקות לגבי אסטרטגיית המכירות של החברה.
-      </p>
-      <p>
-       - **ביקוש למוצרים:** ביקוש נמוך ל-Cybertruck, עם הערכות של כ-4,300 הזמנות, מעלה שאלות לגבי קשיחות המוצר בשוק.
-      </p>
-      <p>
-       - **חקירה משפטית:** חקירה משפטית שנפתחה על ידי חברת Pomerantz יוצרת לחץ נוסף לפני פרסום הדוחות.
-      </p>
-      <h3>
+      
+
+       - דוחות רבעוניים: הדוח הקרוב עשוי להיות קריטי עבור Tesla, במיוחד לאור חששות ממגמת האטה במכירות והגברת התחרות בשוק הרכב החשמלי הסיני.
+      
+
+       - אסטרטגיית מכירות: מינוי מנהל מכירות IT ללא רקע מסורתי במכירות רכב מעורר ספקות לגבי אסטרטגיית המכירות של החברה.
+      
+
+       - ביקוש למוצרים: ביקוש נמוך ל-Cybertruck, עם הערכות של כ-4,300 הזמנות, מעלה שאלות לגבי קשיחות המוצר בשוק.
+      
+
+       - חקירה משפטית: חקירה משפטית שנפתחה על ידי חברת Pomerantz יוצרת לחץ נוסף לפני פרסום הדוחות.
+      
+
        סיכום
-      </h3>
-      <p>
-       מצב Tesla (TSLA) הוא תמונה מורכבת של הזדמנויות ואתגרים. בעוד שגורמים חיוביים בשוק תומכים במניה בטווח הקצר, הסיכונים הקשורים לביצועים הרבעוניים, אסטרטגיית המכירות והתחרות הגוברת בשוק הרכב החשמלי עלולים להשפיע על המסלול העתידי של החברה. משקיעים צריכים להישאר מעודכנים בעדכוני שוק ובניתוחים של אנליסטים כדי לקבל החלטות השקעה מושכלות.
-      </p>
-     </div>
+      
+
+       מצב Tesla (TSLA) הוא תמונה מורכבת של הזדמנויות ואתגרים.
+     <br/>
+     בעוד שגורמים חיוביים בשוק תומכים במניה בטווח הקצר, הסיכונים הקשורים לביצועים הרבעוניים, אסטרטגיית המכירות והתחרות הגוברת בשוק הרכב החשמלי עלולים להשפיע על המסלול העתידי של החברה.
+     <br/>
+     משקיעים צריכים להישאר מעודכנים בעדכוני שוק ובניתוחים של אנליסטים כדי לקבל החלטות השקעה מושכלות.
     </div>
     <div class="disclaimer">
      <strong>
       הסתייגות משפטית:
      </strong>
-     המידע הנ״ל מבוסס על מקורות מידע שונים ועלול להשתנות בכל עת. המידע המוזכר בכתבה זו מוגבל לצורך מחקר והנאה ואין לראות בכתוב המלצה להשקעה.
+     המידע הנ״ל מבוסס על מקורות מידע שונים ועלול להשתנות בכל עת.
+     <br/>
+     המידע המוזכר בכתבה זו מוגבל לצורך מחקר והנאה ואין לראות בכתוב המלצה להשקעה.
      <br/>
      <br/>
      <strong>
       הערה:
      </strong>
-     הניתוח נוצר באמצעות מודל בינה מלאכותית ועלול לכלול שגיאות כתיב או ניסוח. אנו מתנצלים מראש על אי-הדיוקים האפשריים.
+     הניתוח נוצר באמצעות מודל בינה מלאכותית ועלול לכלול שגיאות כתיב או ניסוח.
+     <br/>
+     אנו מתנצלים מראש על אי-הדיוקים האפשריים.
      <br/>
      <br/>
      <strong>
