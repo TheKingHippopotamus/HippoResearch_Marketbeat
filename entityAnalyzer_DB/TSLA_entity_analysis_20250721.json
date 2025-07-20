@@ -5051,11 +5051,11 @@
       "1+ days ago"
     ],
     "financial_terms": [
-      "earnings",
-      "Stock",
       "market",
-      "Earnings",
       "growth",
+      "Stock",
+      "Earnings",
+      "earnings",
       "stock"
     ],
     "financial_metrics": [],
@@ -5192,7 +5192,7 @@
     "opportunity_level": "medium"
   },
   "processing_metadata": {
-    "timestamp": "2025-07-21T02:07:52.239936",
+    "timestamp": "2025-07-21T02:15:22.385216",
     "model_used": "en_core_web_trf",
     "text_length": 2708
   }
