@@ -2503,22 +2503,22 @@
       "1+ days ago"
     ],
     "financial_terms": [
+      "growth",
       "revenue",
-      "Revenue",
+      "market",
       "stock",
       "profit",
-      "growth",
-      "market",
-      "Trading"
+      "Trading",
+      "Revenue"
     ],
     "financial_metrics": [],
     "market_indicators": [
       "Target",
       "Price",
       "price",
-      "target",
       "rating",
-      "Rating"
+      "Rating",
+      "target"
     ]
   },
   "temporal_analysis": {
@@ -2625,7 +2625,7 @@
     "opportunity_level": "low"
   },
   "processing_metadata": {
-    "timestamp": "2025-07-20T23:00:20.902185",
+    "timestamp": "2025-07-20T23:06:27.064724",
     "model_used": "en_core_web_trf",
     "text_length": 1898
   }
