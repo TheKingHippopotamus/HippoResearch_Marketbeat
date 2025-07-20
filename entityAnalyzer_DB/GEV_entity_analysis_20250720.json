@@ -1,0 +1,4391 @@
+{
+  "ticker": "GEV",
+  "entities": [
+    {
+      "text": "GE Vernova Inc.",
+      "label": "ORG",
+      "start": 0,
+      "end": 15,
+      "sentence": "GE Vernova Inc. (NYSE:GEV) shares have risen amid a string of bullish analyst actions, strong operational momentum and strategic expansion news.",
+      "context": "GE Vernova Inc. (NYSE:GEV) shares have risen amid a string of bul",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "GEV",
+      "label": "ORG",
+      "start": 22,
+      "end": 25,
+      "sentence": "GE Vernova Inc. (NYSE:GEV) shares have risen amid a string of bullish analyst actions, strong operational momentum and strategic expansion news.",
+      "context": "GE Vernova Inc. (NYSE:GEV) shares have risen amid a string of bullish analy",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q2",
+      "label": "DATE",
+      "start": 238,
+      "end": 240,
+      "sentence": "Investors are weighing these positives against high valuation concerns ahead of the upcoming Q2 earnings report.",
+      "context": "nst high valuation concerns ahead of the upcoming Q2 earnings report.\nPositive Sentiment:\nRBC Capital",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "RBC Capital",
+      "label": "ORG",
+      "start": 278,
+      "end": 289,
+      "sentence": "Positive Sentiment:\nRBC Capital initiated coverage with a “buy” rating on GEV, citing improving power order flow and margin expansion potential.",
+      "context": "upcoming Q2 earnings report.\nPositive Sentiment:\nRBC Capital initiated coverage with a “buy” rating on GEV, ci",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "GEV",
+      "label": "ORG",
+      "start": 332,
+      "end": 335,
+      "sentence": "Positive Sentiment:\nRBC Capital initiated coverage with a “buy” rating on GEV, citing improving power order flow and margin expansion potential.",
+      "context": "Capital initiated coverage with a “buy” rating on GEV, citing improving power order flow and margin exp",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "GE Vernova Inc.",
+      "label": "ORG",
+      "start": 403,
+      "end": 418,
+      "sentence": "GE Vernova Inc. (GEV) Receives a Buy from RBC Capital\nPositive Sentiment:",
+      "context": "power order flow and margin expansion potential.\nGE Vernova Inc. (GEV) Receives a Buy from RBC Capital\nPositive Se",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "GEV",
+      "label": "ORG",
+      "start": 420,
+      "end": 423,
+      "sentence": "GE Vernova Inc. (GEV) Receives a Buy from RBC Capital\nPositive Sentiment:",
+      "context": "and margin expansion potential.\nGE Vernova Inc. (GEV) Receives a Buy from RBC Capital\nPositive Sentime",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "RBC Capital",
+      "label": "ORG",
+      "start": 445,
+      "end": 456,
+      "sentence": "GE Vernova Inc. (GEV) Receives a Buy from RBC Capital\nPositive Sentiment:",
+      "context": "ential.\nGE Vernova Inc. (GEV) Receives a Buy from RBC Capital\nPositive Sentiment:\nBank of America lifted its pr",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Bank of America",
+      "label": "ORG",
+      "start": 477,
+      "end": 492,
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "context": "ceives a Buy from RBC Capital\nPositive Sentiment:\nBank of America lifted its price target on GEV from $550.00 to $6",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "GEV",
+      "label": "ORG",
+      "start": 520,
+      "end": 523,
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "context": "iment:\nBank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” ra",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "550.00",
+      "label": "MONEY",
+      "start": 530,
+      "end": 536,
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "context": "k of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlig",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "620.00",
+      "label": "MONEY",
+      "start": 541,
+      "end": 547,
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "context": "a lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "7.8%",
+      "label": "PERCENT",
+      "start": 594,
+      "end": 598,
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "context": ".00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increa",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "Bank of America",
+      "label": "ORG",
+      "start": 626,
+      "end": 641,
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "context": "g, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "GE Vernova",
+      "label": "ORG",
+      "start": 652,
+      "end": 662,
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "context": "ide from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Senti",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "GEV",
+      "label": "ORG",
+      "start": 669,
+      "end": 672,
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "context": "evels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:\nTipR",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "620.00",
+      "label": "MONEY",
+      "start": 691,
+      "end": 697,
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "context": "Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:\nTipRanks highlighted a “stron",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "GE Vernova Inc.",
+      "label": "ORG",
+      "start": 863,
+      "end": 878,
+      "sentence": "Strong Buy Recommendation for GE Vernova Inc. Driven by Robust Orders and Superior Growth Potential\nPositive Sentiment:",
+      "context": "and grid solutions.\nStrong Buy Recommendation for GE Vernova Inc. Driven by Robust Orders and Superior Growth Poten",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "GEV",
+      "label": "ORG",
+      "start": 953,
+      "end": 956,
+      "sentence": "GEV outperformed the broader market with a 1.6% gain in its latest session, reflecting investor appetite for its pivot to renewable energy equipment.\nGE Vernova (GEV) Beats Stock Market Upswing:",
+      "context": "and Superior Growth Potential\nPositive Sentiment:\nGEV outperformed the broader market with a 1.6% gain",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "1.6%",
+      "label": "PERCENT",
+      "start": 996,
+      "end": 1000,
+      "sentence": "GEV outperformed the broader market with a 1.6% gain in its latest session, reflecting investor appetite for its pivot to renewable energy equipment.\nGE Vernova (GEV) Beats Stock Market Upswing:",
+      "context": "iment:\nGEV outperformed the broader market with a 1.6% gain in its latest session, reflecting investor a",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": true
+    },
+    {
+      "text": "GE Vernova",
+      "label": "ORG",
+      "start": 1103,
+      "end": 1113,
+      "sentence": "GEV outperformed the broader market with a 1.6% gain in its latest session, reflecting investor appetite for its pivot to renewable energy equipment.\nGE Vernova (GEV) Beats Stock Market Upswing:",
+      "context": "tite for its pivot to renewable energy equipment.\nGE Vernova (GEV) Beats Stock Market Upswing: What Investors",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "GEV",
+      "label": "ORG",
+      "start": 1115,
+      "end": 1118,
+      "sentence": "GEV outperformed the broader market with a 1.6% gain in its latest session, reflecting investor appetite for its pivot to renewable energy equipment.\nGE Vernova (GEV) Beats Stock Market Upswing:",
+      "context": "pivot to renewable energy equipment.\nGE Vernova (GEV) Beats Stock Market Upswing: What Investors Need",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "BWRX-300 platform",
+      "label": "PRODUCT",
+      "start": 1258,
+      "end": 1275,
+      "sentence": "Positive Sentiment:\nManagement’s push into nuclear small modular reactors via the BWRX-300 platform is expanding GEV’s long-term growth runway.",
+      "context": "push into nuclear small modular reactors via the BWRX-300 platform is expanding GEV’s long-term growth runway.\nIs GE",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "GEV",
+      "label": "ORG",
+      "start": 1289,
+      "end": 1292,
+      "sentence": "Positive Sentiment:\nManagement’s push into nuclear small modular reactors via the BWRX-300 platform is expanding GEV’s long-term growth runway.",
+      "context": "r reactors via the BWRX-300 platform is expanding GEV’s long-term growth runway.\nIs GE Vernova Thriving",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "GE Vernova",
+      "label": "ORG",
+      "start": 1323,
+      "end": 1333,
+      "sentence": "Is GE Vernova Thriving on Growing Nuclear SMR Opportunities?",
+      "context": "rm is expanding GEV’s long-term growth runway.\nIs GE Vernova Thriving on Growing Nuclear SMR Opportunities?\nPo",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "GEV",
+      "label": "ORG",
+      "start": 1401,
+      "end": 1404,
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "context": "ng Nuclear SMR Opportunities?\nPositive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant,",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Pennsylvania",
+      "label": "GPE",
+      "start": 1423,
+      "end": 1435,
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "context": "nities?\nPositive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid mode",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "GE Vernova",
+      "label": "ORG",
+      "start": 1503,
+      "end": 1513,
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "context": "boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPosit",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Pennsylvania",
+      "label": "GPE",
+      "start": 1522,
+      "end": 1534,
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "context": "for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro",
+      "is_company": false,
+      "is_person": false,
+      "is_location": true,
+      "is_financial": false
+    },
+    {
+      "text": "Macro",
+      "label": "ORG",
+      "start": 1578,
+      "end": 1583,
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "context": "lvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bul",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "James Demmert",
+      "label": "PERSON",
+      "start": 1595,
+      "end": 1608,
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "context": "Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology an",
+      "is_company": false,
+      "is_person": true,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "GEV",
+      "label": "ORG",
+      "start": 1618,
+      "end": 1621,
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "context": "entiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastruct",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Goldilocks",
+      "label": "WORK_OF_ART",
+      "start": 1691,
+      "end": 1701,
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "context": "for technology and infrastructure stocks under a “Goldilocks” economic outlook.\nBull Case for GEV, PLTR & NVDA",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "GEV",
+      "label": "ORG",
+      "start": 1735,
+      "end": 1738,
+      "sentence": "Bull Case for GEV, PLTR & NVDA Powering A.I., \"Goldilocks\" Economy Good for Tech",
+      "context": "er a “Goldilocks” economic outlook.\nBull Case for GEV, PLTR & NVDA Powering A.I., \"Goldilocks\" Economy",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Goldilocks",
+      "label": "WORK_OF_ART",
+      "start": 1768,
+      "end": 1778,
+      "sentence": "Bull Case for GEV, PLTR & NVDA Powering A.I., \"Goldilocks\" Economy Good for Tech",
+      "context": "k.\nBull Case for GEV, PLTR & NVDA Powering A.I., \"Goldilocks\" Economy Good for Tech\nNeutral Sentiment:\nJim Cra",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Jim Cramer",
+      "label": "PERSON",
+      "start": 1821,
+      "end": 1831,
+      "sentence": "Jim Cramer urged viewers to listen to GEV’s management update before forming a view, hinting at possible volatility around the next earnings call.\nJim Cramer on GE Vernova: “Let’s Hear What They Have to Say”",
+      "context": "dilocks\" Economy Good for Tech\nNeutral Sentiment:\nJim Cramer urged viewers to listen to GEV’s management updat",
+      "is_company": false,
+      "is_person": true,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "GEV",
+      "label": "ORG",
+      "start": 1859,
+      "end": 1862,
+      "sentence": "Jim Cramer urged viewers to listen to GEV’s management update before forming a view, hinting at possible volatility around the next earnings call.\nJim Cramer on GE Vernova: “Let’s Hear What They Have to Say”",
+      "context": "Sentiment:\nJim Cramer urged viewers to listen to GEV’s management update before forming a view, hintin",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Jim Cramer",
+      "label": "PERSON",
+      "start": 1968,
+      "end": 1978,
+      "sentence": "Jim Cramer urged viewers to listen to GEV’s management update before forming a view, hinting at possible volatility around the next earnings call.\nJim Cramer on GE Vernova: “Let’s Hear What They Have to Say”",
+      "context": "ossible volatility around the next earnings call.\nJim Cramer on GE Vernova: “Let’s Hear What They Have to Say”",
+      "is_company": false,
+      "is_person": true,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "GE Vernova",
+      "label": "ORG",
+      "start": 1982,
+      "end": 1992,
+      "sentence": "Jim Cramer urged viewers to listen to GEV’s management update before forming a view, hinting at possible volatility around the next earnings call.\nJim Cramer on GE Vernova: “Let’s Hear What They Have to Say”",
+      "context": "lity around the next earnings call.\nJim Cramer on GE Vernova: “Let’s Hear What They Have to Say”\nNeutral Senti",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Zacks",
+      "label": "ORG",
+      "start": 2048,
+      "end": 2053,
+      "sentence": "Zacks noted that while Q2 estimates are rising and momentum is strong, GEV’s premium valuation could cap further gains until earnings are out.",
+      "context": "’s Hear What They Have to Say”\nNeutral Sentiment:\nZacks noted that while Q2 estimates are rising and mome",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q2",
+      "label": "DATE",
+      "start": 2071,
+      "end": 2073,
+      "sentence": "Zacks noted that while Q2 estimates are rising and momentum is strong, GEV’s premium valuation could cap further gains until earnings are out.",
+      "context": "to Say”\nNeutral Sentiment:\nZacks noted that while Q2 estimates are rising and momentum is strong, GEV’",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "GEV",
+      "label": "ORG",
+      "start": 2119,
+      "end": 2122,
+      "sentence": "Zacks noted that while Q2 estimates are rising and momentum is strong, GEV’s premium valuation could cap further gains until earnings are out.",
+      "context": "e Q2 estimates are rising and momentum is strong, GEV’s premium valuation could cap further gains until",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "GE Vernova",
+      "label": "ORG",
+      "start": 2220,
+      "end": 2230,
+      "sentence": "Should You Buy, Hold or Sell GE Vernova Stock Ahead of Q2 Earnings?",
+      "context": "il earnings are out.\nShould You Buy, Hold or Sell GE Vernova Stock Ahead of Q2 Earnings?\nNeutral Sentiment:\nAm",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q2",
+      "label": "DATE",
+      "start": 2246,
+      "end": 2248,
+      "sentence": "Should You Buy, Hold or Sell GE Vernova Stock Ahead of Q2 Earnings?",
+      "context": "d You Buy, Hold or Sell GE Vernova Stock Ahead of Q2 Earnings?\nNeutral Sentiment:\nAmerican Banking New",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "American Banking News",
+      "label": "ORG",
+      "start": 2278,
+      "end": 2299,
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "context": "va Stock Ahead of Q2 Earnings?\nNeutral Sentiment:\nAmerican Banking News published a sector‐wide review, comparing GEV’s f",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "GEV",
+      "label": "ORG",
+      "start": 2342,
+      "end": 2345,
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "context": "ng News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catal",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "GE Vernova",
+      "label": "ORG",
+      "start": 2400,
+      "end": 2410,
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "context": "nancials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE V",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "GEV",
+      "label": "ORG",
+      "start": 2412,
+      "end": 2415,
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "context": "h peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernov",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "GE Vernova’s",
+      "label": "ORG",
+      "start": 2456,
+      "end": 2468,
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "context": "nova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optim",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "today",
+      "label": "DATE",
+      "start": 2484,
+      "end": 2489,
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "context": "ncial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational a",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "Q2",
+      "label": "DATE",
+      "start": 2617,
+      "end": 2619,
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "context": "ain cautious around valuation levels and upcoming Q2 results.\nPosted 1+ days ago\nAI Generated. May Con",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "1+ days ago",
+      "label": "DATE",
+      "start": 2636,
+      "end": 2647,
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "context": "valuation levels and upcoming Q2 results.\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "is_company": false,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    },
+    {
+      "text": "AI Generated",
+      "label": "ORG",
+      "start": 2648,
+      "end": 2660,
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "context": "evels and upcoming Q2 results.\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "is_company": true,
+      "is_person": false,
+      "is_location": false,
+      "is_financial": false
+    }
+  ],
+  "relationships": [
+    {
+      "type": "SVO",
+      "subject": "Investors",
+      "verb": "weighing",
+      "object": "positives",
+      "sentence": "Investors are weighing these positives against high valuation concerns ahead of the upcoming Q2 earnings report.",
+      "importance": 3
+    },
+    {
+      "type": "SVO",
+      "subject": "Capital",
+      "verb": "initiated",
+      "object": "coverage",
+      "sentence": "Positive Sentiment:\nRBC Capital initiated coverage with a “buy” rating on GEV, citing improving power order flow and margin expansion potential.",
+      "importance": 7
+    },
+    {
+      "type": "SVO",
+      "subject": "Inc.",
+      "verb": "Receives",
+      "object": "Buy",
+      "sentence": "GE Vernova Inc. (GEV) Receives a Buy from RBC Capital\nPositive Sentiment:",
+      "importance": 7
+    },
+    {
+      "type": "SVO",
+      "subject": "Bank",
+      "verb": "lifted",
+      "object": "target",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "importance": 19
+    },
+    {
+      "type": "SVO",
+      "subject": "Bank",
+      "verb": "Increases",
+      "object": "Target",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "importance": 19
+    },
+    {
+      "type": "SVO",
+      "subject": "TipRanks",
+      "verb": "highlighted",
+      "object": "recommendation",
+      "sentence": "TipRanks highlighted a “strong buy” recommendation, driven by robust order growth in renewable and grid solutions.",
+      "importance": 4
+    },
+    {
+      "type": "SVO",
+      "subject": "GEV",
+      "verb": "outperformed",
+      "object": "market",
+      "sentence": "GEV outperformed the broader market with a 1.6% gain in its latest session, reflecting investor appetite for its pivot to renewable energy equipment.\nGE Vernova (GEV) Beats Stock Market Upswing:",
+      "importance": 10
+    },
+    {
+      "type": "SVO",
+      "subject": "Vernova",
+      "verb": "Beats",
+      "object": "Upswing",
+      "sentence": "GEV outperformed the broader market with a 1.6% gain in its latest session, reflecting investor appetite for its pivot to renewable energy equipment.\nGE Vernova (GEV) Beats Stock Market Upswing:",
+      "importance": 10
+    },
+    {
+      "type": "SVO",
+      "subject": "push",
+      "verb": "expanding",
+      "object": "runway",
+      "sentence": "Positive Sentiment:\nManagement’s push into nuclear small modular reactors via the BWRX-300 platform is expanding GEV’s long-term growth runway.",
+      "importance": 6
+    },
+    {
+      "type": "SVO",
+      "subject": "GEV",
+      "verb": "scaling",
+      "object": "plant",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "importance": 15
+    },
+    {
+      "type": "SVO",
+      "subject": "Demmert",
+      "verb": "included",
+      "object": "GEV",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "importance": 15
+    },
+    {
+      "type": "SVO",
+      "subject": "Cramer",
+      "verb": "urged",
+      "object": "viewers",
+      "sentence": "Jim Cramer urged viewers to listen to GEV’s management update before forming a view, hinting at possible volatility around the next earnings call.\nJim Cramer on GE Vernova: “Let’s Hear What They Have to Say”",
+      "importance": 9
+    },
+    {
+      "type": "SVO",
+      "subject": "valuation",
+      "verb": "cap",
+      "object": "gains",
+      "sentence": "Zacks noted that while Q2 estimates are rising and momentum is strong, GEV’s premium valuation could cap further gains until earnings are out.",
+      "importance": 6
+    },
+    {
+      "type": "SVO",
+      "subject": "News",
+      "verb": "published",
+      "object": "review",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "importance": 16
+    },
+    {
+      "type": "SVO",
+      "subject": "strength",
+      "verb": "reflects",
+      "object": "optimism",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "importance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GE",
+      "entity1_type": "ORG",
+      "entity2": "Vernova",
+      "entity2_type": "ORG",
+      "sentence": "GE Vernova Inc. (NYSE:GEV) shares have risen amid a string of bullish analyst actions, strong operational momentum and strategic expansion news.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GE",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "GE Vernova Inc. (NYSE:GEV) shares have risen amid a string of bullish analyst actions, strong operational momentum and strategic expansion news.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GE",
+      "entity1_type": "ORG",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "GE Vernova Inc. (NYSE:GEV) shares have risen amid a string of bullish analyst actions, strong operational momentum and strategic expansion news.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Vernova",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "GE Vernova Inc. (NYSE:GEV) shares have risen amid a string of bullish analyst actions, strong operational momentum and strategic expansion news.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Vernova",
+      "entity1_type": "ORG",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "GE Vernova Inc. (NYSE:GEV) shares have risen amid a string of bullish analyst actions, strong operational momentum and strategic expansion news.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "GE Vernova Inc. (NYSE:GEV) shares have risen amid a string of bullish analyst actions, strong operational momentum and strategic expansion news.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "RBC",
+      "entity1_type": "ORG",
+      "entity2": "Capital",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nRBC Capital initiated coverage with a “buy” rating on GEV, citing improving power order flow and margin expansion potential.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "RBC",
+      "entity1_type": "ORG",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nRBC Capital initiated coverage with a “buy” rating on GEV, citing improving power order flow and margin expansion potential.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Capital",
+      "entity1_type": "ORG",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nRBC Capital initiated coverage with a “buy” rating on GEV, citing improving power order flow and margin expansion potential.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GE",
+      "entity1_type": "ORG",
+      "entity2": "Vernova",
+      "entity2_type": "ORG",
+      "sentence": "GE Vernova Inc. (GEV) Receives a Buy from RBC Capital\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GE",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "GE Vernova Inc. (GEV) Receives a Buy from RBC Capital\nPositive Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GE",
+      "entity1_type": "ORG",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "GE Vernova Inc. (GEV) Receives a Buy from RBC Capital\nPositive Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GE",
+      "entity1_type": "ORG",
+      "entity2": "RBC",
+      "entity2_type": "ORG",
+      "sentence": "GE Vernova Inc. (GEV) Receives a Buy from RBC Capital\nPositive Sentiment:",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GE",
+      "entity1_type": "ORG",
+      "entity2": "Capital",
+      "entity2_type": "ORG",
+      "sentence": "GE Vernova Inc. (GEV) Receives a Buy from RBC Capital\nPositive Sentiment:",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Vernova",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "GE Vernova Inc. (GEV) Receives a Buy from RBC Capital\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Vernova",
+      "entity1_type": "ORG",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "GE Vernova Inc. (GEV) Receives a Buy from RBC Capital\nPositive Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Vernova",
+      "entity1_type": "ORG",
+      "entity2": "RBC",
+      "entity2_type": "ORG",
+      "sentence": "GE Vernova Inc. (GEV) Receives a Buy from RBC Capital\nPositive Sentiment:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Vernova",
+      "entity1_type": "ORG",
+      "entity2": "Capital",
+      "entity2_type": "ORG",
+      "sentence": "GE Vernova Inc. (GEV) Receives a Buy from RBC Capital\nPositive Sentiment:",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "GE Vernova Inc. (GEV) Receives a Buy from RBC Capital\nPositive Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "RBC",
+      "entity2_type": "ORG",
+      "sentence": "GE Vernova Inc. (GEV) Receives a Buy from RBC Capital\nPositive Sentiment:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Inc.",
+      "entity1_type": "ORG",
+      "entity2": "Capital",
+      "entity2_type": "ORG",
+      "sentence": "GE Vernova Inc. (GEV) Receives a Buy from RBC Capital\nPositive Sentiment:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "RBC",
+      "entity2_type": "ORG",
+      "sentence": "GE Vernova Inc. (GEV) Receives a Buy from RBC Capital\nPositive Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "Capital",
+      "entity2_type": "ORG",
+      "sentence": "GE Vernova Inc. (GEV) Receives a Buy from RBC Capital\nPositive Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "RBC",
+      "entity1_type": "ORG",
+      "entity2": "Capital",
+      "entity2_type": "ORG",
+      "sentence": "GE Vernova Inc. (GEV) Receives a Buy from RBC Capital\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bank",
+      "entity1_type": "ORG",
+      "entity2": "of",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bank",
+      "entity1_type": "ORG",
+      "entity2": "America",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bank",
+      "entity1_type": "ORG",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bank",
+      "entity1_type": "ORG",
+      "entity2": "550.00",
+      "entity2_type": "MONEY",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bank",
+      "entity1_type": "ORG",
+      "entity2": "620.00",
+      "entity2_type": "MONEY",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bank",
+      "entity1_type": "ORG",
+      "entity2": "7.8",
+      "entity2_type": "PERCENT",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bank",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bank",
+      "entity1_type": "ORG",
+      "entity2": "Bank",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 33
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bank",
+      "entity1_type": "ORG",
+      "entity2": "of",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 34
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bank",
+      "entity1_type": "ORG",
+      "entity2": "America",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 35
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bank",
+      "entity1_type": "ORG",
+      "entity2": "GE",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 37
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bank",
+      "entity1_type": "ORG",
+      "entity2": "Vernova",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 38
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bank",
+      "entity1_type": "ORG",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 42
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bank",
+      "entity1_type": "ORG",
+      "entity2": "620.00",
+      "entity2_type": "MONEY",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 48
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "of",
+      "entity1_type": "ORG",
+      "entity2": "America",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "of",
+      "entity1_type": "ORG",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "of",
+      "entity1_type": "ORG",
+      "entity2": "550.00",
+      "entity2_type": "MONEY",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "of",
+      "entity1_type": "ORG",
+      "entity2": "620.00",
+      "entity2_type": "MONEY",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "of",
+      "entity1_type": "ORG",
+      "entity2": "7.8",
+      "entity2_type": "PERCENT",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "of",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "of",
+      "entity1_type": "ORG",
+      "entity2": "Bank",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 32
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "of",
+      "entity1_type": "ORG",
+      "entity2": "of",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 33
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "of",
+      "entity1_type": "ORG",
+      "entity2": "America",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 34
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "of",
+      "entity1_type": "ORG",
+      "entity2": "GE",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 36
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "of",
+      "entity1_type": "ORG",
+      "entity2": "Vernova",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 37
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "of",
+      "entity1_type": "ORG",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 41
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "of",
+      "entity1_type": "ORG",
+      "entity2": "620.00",
+      "entity2_type": "MONEY",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 47
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "America",
+      "entity1_type": "ORG",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "America",
+      "entity1_type": "ORG",
+      "entity2": "550.00",
+      "entity2_type": "MONEY",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "America",
+      "entity1_type": "ORG",
+      "entity2": "620.00",
+      "entity2_type": "MONEY",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "America",
+      "entity1_type": "ORG",
+      "entity2": "7.8",
+      "entity2_type": "PERCENT",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "America",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "America",
+      "entity1_type": "ORG",
+      "entity2": "Bank",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "America",
+      "entity1_type": "ORG",
+      "entity2": "of",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 32
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "America",
+      "entity1_type": "ORG",
+      "entity2": "America",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 33
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "America",
+      "entity1_type": "ORG",
+      "entity2": "GE",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 35
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "America",
+      "entity1_type": "ORG",
+      "entity2": "Vernova",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 36
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "America",
+      "entity1_type": "ORG",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 40
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "America",
+      "entity1_type": "ORG",
+      "entity2": "620.00",
+      "entity2_type": "MONEY",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 46
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "550.00",
+      "entity2_type": "MONEY",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "620.00",
+      "entity2_type": "MONEY",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "7.8",
+      "entity2_type": "PERCENT",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "Bank",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "of",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "America",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "GE",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "Vernova",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 34
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "620.00",
+      "entity2_type": "MONEY",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 40
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "550.00",
+      "entity1_type": "MONEY",
+      "entity2": "620.00",
+      "entity2_type": "MONEY",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "550.00",
+      "entity1_type": "MONEY",
+      "entity2": "7.8",
+      "entity2_type": "PERCENT",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "550.00",
+      "entity1_type": "MONEY",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "550.00",
+      "entity1_type": "MONEY",
+      "entity2": "Bank",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "550.00",
+      "entity1_type": "MONEY",
+      "entity2": "of",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "550.00",
+      "entity1_type": "MONEY",
+      "entity2": "America",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "550.00",
+      "entity1_type": "MONEY",
+      "entity2": "GE",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "550.00",
+      "entity1_type": "MONEY",
+      "entity2": "Vernova",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "550.00",
+      "entity1_type": "MONEY",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "550.00",
+      "entity1_type": "MONEY",
+      "entity2": "620.00",
+      "entity2_type": "MONEY",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 37
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "620.00",
+      "entity1_type": "MONEY",
+      "entity2": "7.8",
+      "entity2_type": "PERCENT",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "620.00",
+      "entity1_type": "MONEY",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "620.00",
+      "entity1_type": "MONEY",
+      "entity2": "Bank",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "620.00",
+      "entity1_type": "MONEY",
+      "entity2": "of",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "620.00",
+      "entity1_type": "MONEY",
+      "entity2": "America",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "620.00",
+      "entity1_type": "MONEY",
+      "entity2": "GE",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "620.00",
+      "entity1_type": "MONEY",
+      "entity2": "Vernova",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "620.00",
+      "entity1_type": "MONEY",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "620.00",
+      "entity1_type": "MONEY",
+      "entity2": "620.00",
+      "entity2_type": "MONEY",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 34
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "7.8",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "7.8",
+      "entity1_type": "PERCENT",
+      "entity2": "Bank",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "7.8",
+      "entity1_type": "PERCENT",
+      "entity2": "of",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "7.8",
+      "entity1_type": "PERCENT",
+      "entity2": "America",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "7.8",
+      "entity1_type": "PERCENT",
+      "entity2": "GE",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "7.8",
+      "entity1_type": "PERCENT",
+      "entity2": "Vernova",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "7.8",
+      "entity1_type": "PERCENT",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "7.8",
+      "entity1_type": "PERCENT",
+      "entity2": "620.00",
+      "entity2_type": "MONEY",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "Bank",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "of",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "America",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "GE",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "Vernova",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "620.00",
+      "entity2_type": "MONEY",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bank",
+      "entity1_type": "ORG",
+      "entity2": "of",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bank",
+      "entity1_type": "ORG",
+      "entity2": "America",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bank",
+      "entity1_type": "ORG",
+      "entity2": "GE",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bank",
+      "entity1_type": "ORG",
+      "entity2": "Vernova",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bank",
+      "entity1_type": "ORG",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Bank",
+      "entity1_type": "ORG",
+      "entity2": "620.00",
+      "entity2_type": "MONEY",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "of",
+      "entity1_type": "ORG",
+      "entity2": "America",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "of",
+      "entity1_type": "ORG",
+      "entity2": "GE",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "of",
+      "entity1_type": "ORG",
+      "entity2": "Vernova",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "of",
+      "entity1_type": "ORG",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "of",
+      "entity1_type": "ORG",
+      "entity2": "620.00",
+      "entity2_type": "MONEY",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "America",
+      "entity1_type": "ORG",
+      "entity2": "GE",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "America",
+      "entity1_type": "ORG",
+      "entity2": "Vernova",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "America",
+      "entity1_type": "ORG",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "America",
+      "entity1_type": "ORG",
+      "entity2": "620.00",
+      "entity2_type": "MONEY",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GE",
+      "entity1_type": "ORG",
+      "entity2": "Vernova",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GE",
+      "entity1_type": "ORG",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GE",
+      "entity1_type": "ORG",
+      "entity2": "620.00",
+      "entity2_type": "MONEY",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Vernova",
+      "entity1_type": "ORG",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Vernova",
+      "entity1_type": "ORG",
+      "entity2": "620.00",
+      "entity2_type": "MONEY",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "620.00",
+      "entity2_type": "MONEY",
+      "sentence": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GE",
+      "entity1_type": "ORG",
+      "entity2": "Vernova",
+      "entity2_type": "ORG",
+      "sentence": "Strong Buy Recommendation for GE Vernova Inc. Driven by Robust Orders and Superior Growth Potential\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GE",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Strong Buy Recommendation for GE Vernova Inc. Driven by Robust Orders and Superior Growth Potential\nPositive Sentiment:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Vernova",
+      "entity1_type": "ORG",
+      "entity2": "Inc.",
+      "entity2_type": "ORG",
+      "sentence": "Strong Buy Recommendation for GE Vernova Inc. Driven by Robust Orders and Superior Growth Potential\nPositive Sentiment:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "1.6",
+      "entity2_type": "PERCENT",
+      "sentence": "GEV outperformed the broader market with a 1.6% gain in its latest session, reflecting investor appetite for its pivot to renewable energy equipment.\nGE Vernova (GEV) Beats Stock Market Upswing:",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "GEV outperformed the broader market with a 1.6% gain in its latest session, reflecting investor appetite for its pivot to renewable energy equipment.\nGE Vernova (GEV) Beats Stock Market Upswing:",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "GE",
+      "entity2_type": "ORG",
+      "sentence": "GEV outperformed the broader market with a 1.6% gain in its latest session, reflecting investor appetite for its pivot to renewable energy equipment.\nGE Vernova (GEV) Beats Stock Market Upswing:",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "Vernova",
+      "entity2_type": "ORG",
+      "sentence": "GEV outperformed the broader market with a 1.6% gain in its latest session, reflecting investor appetite for its pivot to renewable energy equipment.\nGE Vernova (GEV) Beats Stock Market Upswing:",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "GEV outperformed the broader market with a 1.6% gain in its latest session, reflecting investor appetite for its pivot to renewable energy equipment.\nGE Vernova (GEV) Beats Stock Market Upswing:",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.6",
+      "entity1_type": "PERCENT",
+      "entity2": "%",
+      "entity2_type": "PERCENT",
+      "sentence": "GEV outperformed the broader market with a 1.6% gain in its latest session, reflecting investor appetite for its pivot to renewable energy equipment.\nGE Vernova (GEV) Beats Stock Market Upswing:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.6",
+      "entity1_type": "PERCENT",
+      "entity2": "GE",
+      "entity2_type": "ORG",
+      "sentence": "GEV outperformed the broader market with a 1.6% gain in its latest session, reflecting investor appetite for its pivot to renewable energy equipment.\nGE Vernova (GEV) Beats Stock Market Upswing:",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.6",
+      "entity1_type": "PERCENT",
+      "entity2": "Vernova",
+      "entity2_type": "ORG",
+      "sentence": "GEV outperformed the broader market with a 1.6% gain in its latest session, reflecting investor appetite for its pivot to renewable energy equipment.\nGE Vernova (GEV) Beats Stock Market Upswing:",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1.6",
+      "entity1_type": "PERCENT",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "GEV outperformed the broader market with a 1.6% gain in its latest session, reflecting investor appetite for its pivot to renewable energy equipment.\nGE Vernova (GEV) Beats Stock Market Upswing:",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "GE",
+      "entity2_type": "ORG",
+      "sentence": "GEV outperformed the broader market with a 1.6% gain in its latest session, reflecting investor appetite for its pivot to renewable energy equipment.\nGE Vernova (GEV) Beats Stock Market Upswing:",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "Vernova",
+      "entity2_type": "ORG",
+      "sentence": "GEV outperformed the broader market with a 1.6% gain in its latest session, reflecting investor appetite for its pivot to renewable energy equipment.\nGE Vernova (GEV) Beats Stock Market Upswing:",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "%",
+      "entity1_type": "PERCENT",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "GEV outperformed the broader market with a 1.6% gain in its latest session, reflecting investor appetite for its pivot to renewable energy equipment.\nGE Vernova (GEV) Beats Stock Market Upswing:",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GE",
+      "entity1_type": "ORG",
+      "entity2": "Vernova",
+      "entity2_type": "ORG",
+      "sentence": "GEV outperformed the broader market with a 1.6% gain in its latest session, reflecting investor appetite for its pivot to renewable energy equipment.\nGE Vernova (GEV) Beats Stock Market Upswing:",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GE",
+      "entity1_type": "ORG",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "GEV outperformed the broader market with a 1.6% gain in its latest session, reflecting investor appetite for its pivot to renewable energy equipment.\nGE Vernova (GEV) Beats Stock Market Upswing:",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Vernova",
+      "entity1_type": "ORG",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "GEV outperformed the broader market with a 1.6% gain in its latest session, reflecting investor appetite for its pivot to renewable energy equipment.\nGE Vernova (GEV) Beats Stock Market Upswing:",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "BWRX-300",
+      "entity1_type": "PRODUCT",
+      "entity2": "platform",
+      "entity2_type": "PRODUCT",
+      "sentence": "Positive Sentiment:\nManagement’s push into nuclear small modular reactors via the BWRX-300 platform is expanding GEV’s long-term growth runway.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "BWRX-300",
+      "entity1_type": "PRODUCT",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nManagement’s push into nuclear small modular reactors via the BWRX-300 platform is expanding GEV’s long-term growth runway.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "platform",
+      "entity1_type": "PRODUCT",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nManagement’s push into nuclear small modular reactors via the BWRX-300 platform is expanding GEV’s long-term growth runway.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GE",
+      "entity1_type": "ORG",
+      "entity2": "Vernova",
+      "entity2_type": "ORG",
+      "sentence": "Is GE Vernova Thriving on Growing Nuclear SMR Opportunities?",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "Pennsylvania",
+      "entity2_type": "GPE",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "GE",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "Vernova",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "Pennsylvania",
+      "entity2_type": "GPE",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "Macro",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "James",
+      "entity2_type": "PERSON",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 32
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "Demmert",
+      "entity2_type": "PERSON",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 33
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 35
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "Goldilocks",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 50
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pennsylvania",
+      "entity1_type": "GPE",
+      "entity2": "GE",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pennsylvania",
+      "entity1_type": "GPE",
+      "entity2": "Vernova",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pennsylvania",
+      "entity1_type": "GPE",
+      "entity2": "Pennsylvania",
+      "entity2_type": "GPE",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pennsylvania",
+      "entity1_type": "GPE",
+      "entity2": "Macro",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pennsylvania",
+      "entity1_type": "GPE",
+      "entity2": "James",
+      "entity2_type": "PERSON",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pennsylvania",
+      "entity1_type": "GPE",
+      "entity2": "Demmert",
+      "entity2_type": "PERSON",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pennsylvania",
+      "entity1_type": "GPE",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pennsylvania",
+      "entity1_type": "GPE",
+      "entity2": "Goldilocks",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 45
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GE",
+      "entity1_type": "ORG",
+      "entity2": "Vernova",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GE",
+      "entity1_type": "ORG",
+      "entity2": "Pennsylvania",
+      "entity2_type": "GPE",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GE",
+      "entity1_type": "ORG",
+      "entity2": "Macro",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GE",
+      "entity1_type": "ORG",
+      "entity2": "James",
+      "entity2_type": "PERSON",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GE",
+      "entity1_type": "ORG",
+      "entity2": "Demmert",
+      "entity2_type": "PERSON",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 16
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GE",
+      "entity1_type": "ORG",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GE",
+      "entity1_type": "ORG",
+      "entity2": "Goldilocks",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 33
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Vernova",
+      "entity1_type": "ORG",
+      "entity2": "Pennsylvania",
+      "entity2_type": "GPE",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Vernova",
+      "entity1_type": "ORG",
+      "entity2": "Macro",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Vernova",
+      "entity1_type": "ORG",
+      "entity2": "James",
+      "entity2_type": "PERSON",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Vernova",
+      "entity1_type": "ORG",
+      "entity2": "Demmert",
+      "entity2_type": "PERSON",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Vernova",
+      "entity1_type": "ORG",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Vernova",
+      "entity1_type": "ORG",
+      "entity2": "Goldilocks",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 32
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pennsylvania",
+      "entity1_type": "GPE",
+      "entity2": "Macro",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pennsylvania",
+      "entity1_type": "GPE",
+      "entity2": "James",
+      "entity2_type": "PERSON",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pennsylvania",
+      "entity1_type": "GPE",
+      "entity2": "Demmert",
+      "entity2_type": "PERSON",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pennsylvania",
+      "entity1_type": "GPE",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Pennsylvania",
+      "entity1_type": "GPE",
+      "entity2": "Goldilocks",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Macro",
+      "entity1_type": "ORG",
+      "entity2": "James",
+      "entity2_type": "PERSON",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Macro",
+      "entity1_type": "ORG",
+      "entity2": "Demmert",
+      "entity2_type": "PERSON",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Macro",
+      "entity1_type": "ORG",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Macro",
+      "entity1_type": "ORG",
+      "entity2": "Goldilocks",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "James",
+      "entity1_type": "PERSON",
+      "entity2": "Demmert",
+      "entity2_type": "PERSON",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "James",
+      "entity1_type": "PERSON",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "James",
+      "entity1_type": "PERSON",
+      "entity2": "Goldilocks",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Demmert",
+      "entity1_type": "PERSON",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Demmert",
+      "entity1_type": "PERSON",
+      "entity2": "Goldilocks",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "Goldilocks",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "Goldilocks",
+      "entity2_type": "WORK_OF_ART",
+      "sentence": "Bull Case for GEV, PLTR & NVDA Powering A.I., \"Goldilocks\" Economy Good for Tech",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jim",
+      "entity1_type": "PERSON",
+      "entity2": "Cramer",
+      "entity2_type": "PERSON",
+      "sentence": "Jim Cramer urged viewers to listen to GEV’s management update before forming a view, hinting at possible volatility around the next earnings call.\nJim Cramer on GE Vernova: “Let’s Hear What They Have to Say”",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jim",
+      "entity1_type": "PERSON",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "Jim Cramer urged viewers to listen to GEV’s management update before forming a view, hinting at possible volatility around the next earnings call.\nJim Cramer on GE Vernova: “Let’s Hear What They Have to Say”",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jim",
+      "entity1_type": "PERSON",
+      "entity2": "Jim",
+      "entity2_type": "PERSON",
+      "sentence": "Jim Cramer urged viewers to listen to GEV’s management update before forming a view, hinting at possible volatility around the next earnings call.\nJim Cramer on GE Vernova: “Let’s Hear What They Have to Say”",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jim",
+      "entity1_type": "PERSON",
+      "entity2": "Cramer",
+      "entity2_type": "PERSON",
+      "sentence": "Jim Cramer urged viewers to listen to GEV’s management update before forming a view, hinting at possible volatility around the next earnings call.\nJim Cramer on GE Vernova: “Let’s Hear What They Have to Say”",
+      "distance": 28
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jim",
+      "entity1_type": "PERSON",
+      "entity2": "GE",
+      "entity2_type": "ORG",
+      "sentence": "Jim Cramer urged viewers to listen to GEV’s management update before forming a view, hinting at possible volatility around the next earnings call.\nJim Cramer on GE Vernova: “Let’s Hear What They Have to Say”",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jim",
+      "entity1_type": "PERSON",
+      "entity2": "Vernova",
+      "entity2_type": "ORG",
+      "sentence": "Jim Cramer urged viewers to listen to GEV’s management update before forming a view, hinting at possible volatility around the next earnings call.\nJim Cramer on GE Vernova: “Let’s Hear What They Have to Say”",
+      "distance": 31
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cramer",
+      "entity1_type": "PERSON",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "Jim Cramer urged viewers to listen to GEV’s management update before forming a view, hinting at possible volatility around the next earnings call.\nJim Cramer on GE Vernova: “Let’s Hear What They Have to Say”",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cramer",
+      "entity1_type": "PERSON",
+      "entity2": "Jim",
+      "entity2_type": "PERSON",
+      "sentence": "Jim Cramer urged viewers to listen to GEV’s management update before forming a view, hinting at possible volatility around the next earnings call.\nJim Cramer on GE Vernova: “Let’s Hear What They Have to Say”",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cramer",
+      "entity1_type": "PERSON",
+      "entity2": "Cramer",
+      "entity2_type": "PERSON",
+      "sentence": "Jim Cramer urged viewers to listen to GEV’s management update before forming a view, hinting at possible volatility around the next earnings call.\nJim Cramer on GE Vernova: “Let’s Hear What They Have to Say”",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cramer",
+      "entity1_type": "PERSON",
+      "entity2": "GE",
+      "entity2_type": "ORG",
+      "sentence": "Jim Cramer urged viewers to listen to GEV’s management update before forming a view, hinting at possible volatility around the next earnings call.\nJim Cramer on GE Vernova: “Let’s Hear What They Have to Say”",
+      "distance": 29
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cramer",
+      "entity1_type": "PERSON",
+      "entity2": "Vernova",
+      "entity2_type": "ORG",
+      "sentence": "Jim Cramer urged viewers to listen to GEV’s management update before forming a view, hinting at possible volatility around the next earnings call.\nJim Cramer on GE Vernova: “Let’s Hear What They Have to Say”",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "Jim",
+      "entity2_type": "PERSON",
+      "sentence": "Jim Cramer urged viewers to listen to GEV’s management update before forming a view, hinting at possible volatility around the next earnings call.\nJim Cramer on GE Vernova: “Let’s Hear What They Have to Say”",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "Cramer",
+      "entity2_type": "PERSON",
+      "sentence": "Jim Cramer urged viewers to listen to GEV’s management update before forming a view, hinting at possible volatility around the next earnings call.\nJim Cramer on GE Vernova: “Let’s Hear What They Have to Say”",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "GE",
+      "entity2_type": "ORG",
+      "sentence": "Jim Cramer urged viewers to listen to GEV’s management update before forming a view, hinting at possible volatility around the next earnings call.\nJim Cramer on GE Vernova: “Let’s Hear What They Have to Say”",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "Vernova",
+      "entity2_type": "ORG",
+      "sentence": "Jim Cramer urged viewers to listen to GEV’s management update before forming a view, hinting at possible volatility around the next earnings call.\nJim Cramer on GE Vernova: “Let’s Hear What They Have to Say”",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jim",
+      "entity1_type": "PERSON",
+      "entity2": "Cramer",
+      "entity2_type": "PERSON",
+      "sentence": "Jim Cramer urged viewers to listen to GEV’s management update before forming a view, hinting at possible volatility around the next earnings call.\nJim Cramer on GE Vernova: “Let’s Hear What They Have to Say”",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jim",
+      "entity1_type": "PERSON",
+      "entity2": "GE",
+      "entity2_type": "ORG",
+      "sentence": "Jim Cramer urged viewers to listen to GEV’s management update before forming a view, hinting at possible volatility around the next earnings call.\nJim Cramer on GE Vernova: “Let’s Hear What They Have to Say”",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Jim",
+      "entity1_type": "PERSON",
+      "entity2": "Vernova",
+      "entity2_type": "ORG",
+      "sentence": "Jim Cramer urged viewers to listen to GEV’s management update before forming a view, hinting at possible volatility around the next earnings call.\nJim Cramer on GE Vernova: “Let’s Hear What They Have to Say”",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cramer",
+      "entity1_type": "PERSON",
+      "entity2": "GE",
+      "entity2_type": "ORG",
+      "sentence": "Jim Cramer urged viewers to listen to GEV’s management update before forming a view, hinting at possible volatility around the next earnings call.\nJim Cramer on GE Vernova: “Let’s Hear What They Have to Say”",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Cramer",
+      "entity1_type": "PERSON",
+      "entity2": "Vernova",
+      "entity2_type": "ORG",
+      "sentence": "Jim Cramer urged viewers to listen to GEV’s management update before forming a view, hinting at possible volatility around the next earnings call.\nJim Cramer on GE Vernova: “Let’s Hear What They Have to Say”",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GE",
+      "entity1_type": "ORG",
+      "entity2": "Vernova",
+      "entity2_type": "ORG",
+      "sentence": "Jim Cramer urged viewers to listen to GEV’s management update before forming a view, hinting at possible volatility around the next earnings call.\nJim Cramer on GE Vernova: “Let’s Hear What They Have to Say”",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "Zacks noted that while Q2 estimates are rising and momentum is strong, GEV’s premium valuation could cap further gains until earnings are out.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Zacks",
+      "entity1_type": "ORG",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "Zacks noted that while Q2 estimates are rising and momentum is strong, GEV’s premium valuation could cap further gains until earnings are out.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Q2",
+      "entity1_type": "DATE",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "Zacks noted that while Q2 estimates are rising and momentum is strong, GEV’s premium valuation could cap further gains until earnings are out.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GE",
+      "entity1_type": "ORG",
+      "entity2": "Vernova",
+      "entity2_type": "ORG",
+      "sentence": "Should You Buy, Hold or Sell GE Vernova Stock Ahead of Q2 Earnings?",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GE",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "Should You Buy, Hold or Sell GE Vernova Stock Ahead of Q2 Earnings?",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Vernova",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "Should You Buy, Hold or Sell GE Vernova Stock Ahead of Q2 Earnings?",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "American",
+      "entity1_type": "ORG",
+      "entity2": "Banking",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "American",
+      "entity1_type": "ORG",
+      "entity2": "News",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "American",
+      "entity1_type": "ORG",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 9
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "American",
+      "entity1_type": "ORG",
+      "entity2": "GE",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "American",
+      "entity1_type": "ORG",
+      "entity2": "Vernova",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "American",
+      "entity1_type": "ORG",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 24
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "American",
+      "entity1_type": "ORG",
+      "entity2": "GE",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 34
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "American",
+      "entity1_type": "ORG",
+      "entity2": "Vernova",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 35
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "American",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 36
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "American",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 39
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "American",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 57
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Banking",
+      "entity1_type": "ORG",
+      "entity2": "News",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Banking",
+      "entity1_type": "ORG",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 8
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Banking",
+      "entity1_type": "ORG",
+      "entity2": "GE",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Banking",
+      "entity1_type": "ORG",
+      "entity2": "Vernova",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Banking",
+      "entity1_type": "ORG",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Banking",
+      "entity1_type": "ORG",
+      "entity2": "GE",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 33
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Banking",
+      "entity1_type": "ORG",
+      "entity2": "Vernova",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 34
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Banking",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 35
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Banking",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 38
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Banking",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 56
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "News",
+      "entity1_type": "ORG",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 7
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "News",
+      "entity1_type": "ORG",
+      "entity2": "GE",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 19
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "News",
+      "entity1_type": "ORG",
+      "entity2": "Vernova",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 20
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "News",
+      "entity1_type": "ORG",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "News",
+      "entity1_type": "ORG",
+      "entity2": "GE",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 32
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "News",
+      "entity1_type": "ORG",
+      "entity2": "Vernova",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 33
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "News",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 34
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "News",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 37
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "News",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 55
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "GE",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "Vernova",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "GE",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 25
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "Vernova",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 26
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 27
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 30
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 48
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GE",
+      "entity1_type": "ORG",
+      "entity2": "Vernova",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GE",
+      "entity1_type": "ORG",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GE",
+      "entity1_type": "ORG",
+      "entity2": "GE",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GE",
+      "entity1_type": "ORG",
+      "entity2": "Vernova",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GE",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GE",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GE",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 36
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Vernova",
+      "entity1_type": "ORG",
+      "entity2": "GEV",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Vernova",
+      "entity1_type": "ORG",
+      "entity2": "GE",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Vernova",
+      "entity1_type": "ORG",
+      "entity2": "Vernova",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 13
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Vernova",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 14
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Vernova",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 17
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Vernova",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 35
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "GE",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 10
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "Vernova",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 11
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 12
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 15
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GEV",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 33
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GE",
+      "entity1_type": "ORG",
+      "entity2": "Vernova",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GE",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GE",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "GE",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 23
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Vernova",
+      "entity1_type": "ORG",
+      "entity2": "’s",
+      "entity2_type": "ORG",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Vernova",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "Vernova",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 22
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "ORG",
+      "entity2": "today",
+      "entity2_type": "DATE",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "’s",
+      "entity1_type": "ORG",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 21
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "today",
+      "entity1_type": "DATE",
+      "entity2": "Q2",
+      "entity2_type": "DATE",
+      "sentence": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "distance": 18
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "+",
+      "entity2_type": "DATE",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "1",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 6
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "days",
+      "entity2_type": "DATE",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "+",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 5
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "ago",
+      "entity2_type": "DATE",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 1
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "days",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 4
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ago",
+      "entity1_type": "DATE",
+      "entity2": "AI",
+      "entity2_type": "ORG",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 2
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "ago",
+      "entity1_type": "DATE",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 3
+    },
+    {
+      "type": "co-occurrence",
+      "entity1": "AI",
+      "entity1_type": "ORG",
+      "entity2": "Generated",
+      "entity2_type": "ORG",
+      "sentence": "Posted 1+ days ago\nAI Generated.",
+      "distance": 1
+    }
+  ],
+  "key_phrases": [
+    {
+      "text": "a string",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "bullish analyst actions",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "strong operational momentum",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "strategic expansion news",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "these positives",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "high valuation concerns",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the upcoming Q2 earnings report",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "RBC Capital",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a “buy” rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "improving power order flow",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "margin expansion potential",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "GE Vernova Inc.",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a Buy",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "RBC Capital",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its price target",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a “buy” rating",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a 7.8% upside",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "recent levels",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a “strong buy” recommendation",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "robust order growth",
+      "type": "noun_chunk",
+      "category": "trend"
+    },
+    {
+      "text": "renewable and grid solutions",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Strong Buy Recommendation",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "GE Vernova Inc.",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Robust Orders",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Superior Growth Potential",
+      "type": "noun_chunk",
+      "category": "trend"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the broader market",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "a 1.6% gain",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its latest session",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "investor appetite",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its pivot",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "renewable energy equipment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "GE Vernova",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Stock Market Upswing",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Management’s push",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "nuclear small modular reactors",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the BWRX-300 platform",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "GEV’s long-term growth runway",
+      "type": "noun_chunk",
+      "category": "trend"
+    },
+    {
+      "text": "GE Vernova",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Nuclear SMR Opportunities",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "its Pennsylvania switchgear plant",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "grid modernization orders",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "GE Vernova",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Pennsylvania Switchgear Plant Plans",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Positive Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Macro strategist James Demmert",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "his “bull case",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "technology and infrastructure stocks",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "a “Goldilocks” economic outlook",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Bull Case",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": ", \"Goldilocks\" Economy",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Jim Cramer",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "GEV’s management update",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a view",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "possible volatility",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "the next earnings call",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "GE Vernova",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Q2 estimates",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "GEV’s premium valuation",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "further gains",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "GE Vernova Stock",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "Q2 Earnings",
+      "type": "noun_chunk",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Neutral Sentiment",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "American Banking News",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "a sector‐wide review",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "GEV’s financials",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "no new catalyst",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "GE Vernova",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "Its Rivals Financial Review",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "GE Vernova’s stock strength",
+      "type": "noun_chunk",
+      "category": "market_term"
+    },
+    {
+      "text": "broad analyst optimism",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "operational advances",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "valuation levels",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "upcoming Q2 results",
+      "type": "noun_chunk",
+      "category": "general"
+    },
+    {
+      "text": "$550.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$620.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "$620.00",
+      "type": "pattern",
+      "category": "money"
+    },
+    {
+      "text": "7.8%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "1.6%",
+      "type": "pattern",
+      "category": "percentage"
+    },
+    {
+      "text": "earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "growth",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Growth",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "growth",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "Earnings",
+      "type": "pattern",
+      "category": "financial_metric"
+    },
+    {
+      "text": "market",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Market",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "Stock",
+      "type": "pattern",
+      "category": "market_term"
+    },
+    {
+      "text": "stock",
+      "type": "pattern",
+      "category": "market_term"
+    }
+  ],
+  "important_sentences": [
+    {
+      "text": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "importance_score": 77,
+      "entity_count": 15,
+      "financial_keyword_count": 4,
+      "money_count": 3,
+      "company_count": 5,
+      "sentiment": "positive"
+    },
+    {
+      "text": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results.",
+      "importance_score": 56,
+      "entity_count": 12,
+      "financial_keyword_count": 4,
+      "money_count": 0,
+      "company_count": 5,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks under a “Goldilocks” economic outlook.",
+      "importance_score": 51,
+      "entity_count": 10,
+      "financial_keyword_count": 5,
+      "money_count": 0,
+      "company_count": 4,
+      "sentiment": "positive"
+    },
+    {
+      "text": "GEV outperformed the broader market with a 1.6% gain in its latest session, reflecting investor appetite for its pivot to renewable energy equipment.\nGE Vernova (GEV) Beats Stock Market Upswing:",
+      "importance_score": 36,
+      "entity_count": 6,
+      "financial_keyword_count": 4,
+      "money_count": 0,
+      "company_count": 3,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Jim Cramer urged viewers to listen to GEV’s management update before forming a view, hinting at possible volatility around the next earnings call.\nJim Cramer on GE Vernova: “Let’s Hear What They Have to Say”",
+      "importance_score": 28,
+      "entity_count": 7,
+      "financial_keyword_count": 2,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "GE Vernova Inc. (GEV) Receives a Buy from RBC Capital\nPositive Sentiment:",
+      "importance_score": 27,
+      "entity_count": 6,
+      "financial_keyword_count": 1,
+      "money_count": 0,
+      "company_count": 3,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Positive Sentiment:\nRBC Capital initiated coverage with a “buy” rating on GEV, citing improving power order flow and margin expansion potential.",
+      "importance_score": 26,
+      "entity_count": 3,
+      "financial_keyword_count": 4,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "positive"
+    },
+    {
+      "text": "GE Vernova Inc. (NYSE:GEV) shares have risen amid a string of bullish analyst actions, strong operational momentum and strategic expansion news.",
+      "importance_score": 25,
+      "entity_count": 4,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Should You Buy, Hold or Sell GE Vernova Stock Ahead of Q2 Earnings?",
+      "importance_score": 25,
+      "entity_count": 3,
+      "financial_keyword_count": 5,
+      "money_count": 0,
+      "company_count": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Zacks noted that while Q2 estimates are rising and momentum is strong, GEV’s premium valuation could cap further gains until earnings are out.",
+      "importance_score": 23,
+      "entity_count": 3,
+      "financial_keyword_count": 3,
+      "money_count": 0,
+      "company_count": 2,
+      "sentiment": "positive"
+    }
+  ],
+  "entity_statistics": {
+    "total_entities": 53,
+    "unique_entities": 22,
+    "type_counts": {
+      "ORG": 34,
+      "DATE": 6,
+      "MONEY": 3,
+      "PERCENT": 2,
+      "PRODUCT": 1,
+      "GPE": 2,
+      "PERSON": 3,
+      "WORK_OF_ART": 2
+    },
+    "type_distribution": {
+      "ORG": 0.6415094339622641,
+      "DATE": 0.11320754716981132,
+      "MONEY": 0.05660377358490566,
+      "PERCENT": 0.03773584905660377,
+      "PRODUCT": 0.018867924528301886,
+      "GPE": 0.03773584905660377,
+      "PERSON": 0.05660377358490566,
+      "WORK_OF_ART": 0.03773584905660377
+    },
+    "most_common_entities": [
+      [
+        "GEV",
+        15
+      ],
+      [
+        "GE Vernova",
+        7
+      ],
+      [
+        "Q2",
+        4
+      ],
+      [
+        "GE Vernova Inc.",
+        3
+      ],
+      [
+        "RBC Capital",
+        2
+      ],
+      [
+        "Bank of America",
+        2
+      ],
+      [
+        "620.00",
+        2
+      ],
+      [
+        "Pennsylvania",
+        2
+      ],
+      [
+        "Goldilocks",
+        2
+      ],
+      [
+        "Jim Cramer",
+        2
+      ]
+    ],
+    "entity_types_found": [
+      "ORG",
+      "DATE",
+      "MONEY",
+      "PERCENT",
+      "PRODUCT",
+      "GPE",
+      "PERSON",
+      "WORK_OF_ART"
+    ],
+    "company_entities": 34,
+    "person_entities": 3,
+    "financial_entities": 5,
+    "entity_density": 0.13802083333333334
+  },
+  "financial_analysis": {
+    "money_amounts": [
+      "550.00",
+      "620.00",
+      "620.00"
+    ],
+    "percentages": [
+      "7.8%",
+      "1.6%"
+    ],
+    "companies": [
+      "GE Vernova Inc.",
+      "GEV",
+      "RBC Capital",
+      "GEV",
+      "GE Vernova Inc.",
+      "GEV",
+      "RBC Capital",
+      "Bank of America",
+      "GEV",
+      "Bank of America",
+      "GE Vernova",
+      "GEV",
+      "GE Vernova Inc.",
+      "GEV",
+      "GE Vernova",
+      "GEV",
+      "GEV",
+      "GE Vernova",
+      "GEV",
+      "GE Vernova",
+      "Macro",
+      "GEV",
+      "GEV",
+      "GEV",
+      "GE Vernova",
+      "Zacks",
+      "GEV",
+      "GE Vernova",
+      "American Banking News",
+      "GEV",
+      "GE Vernova",
+      "GEV",
+      "GE Vernova’s",
+      "AI Generated"
+    ],
+    "people": [
+      "James Demmert",
+      "Jim Cramer",
+      "Jim Cramer"
+    ],
+    "dates": [
+      "Q2",
+      "Q2",
+      "Q2",
+      "today",
+      "Q2",
+      "1+ days ago"
+    ],
+    "financial_terms": [
+      "stock",
+      "Market",
+      "growth",
+      "earnings",
+      "Growth",
+      "Stock",
+      "Earnings",
+      "market"
+    ],
+    "financial_metrics": [],
+    "market_indicators": [
+      "target",
+      "Price",
+      "rating",
+      "price",
+      "Bull",
+      "bull",
+      "Target",
+      "volatility"
+    ]
+  },
+  "temporal_analysis": {
+    "dates": [
+      "Q2",
+      "Q2",
+      "Q2",
+      "today",
+      "Q2",
+      "1+ days ago"
+    ],
+    "time_expressions": [],
+    "temporal_relationships": [
+      "recent",
+      "upcoming",
+      "today",
+      "next"
+    ],
+    "quarters": [
+      "Q2",
+      "Q2",
+      "Q2",
+      "Q2"
+    ],
+    "years": [],
+    "time_periods": []
+  },
+  "sentiment_analysis": {
+    "positive_words": 18,
+    "negative_words": 0,
+    "positive_ratio": 0.046875,
+    "negative_ratio": 0.0,
+    "sentiment_score": 0.046875,
+    "sentiment_label": "positive",
+    "sentiment_strength": 0.046875,
+    "confidence": 0.46875
+  },
+  "industry_analysis": {
+    "dominant_industry": "energy",
+    "industry_scores": {
+      "tech": 1,
+      "finance": 1,
+      "healthcare": 0,
+      "energy": 6,
+      "retail": 0,
+      "automotive": 0,
+      "media": 2,
+      "industrial": 1,
+      "real_estate": 0,
+      "telecom": 0,
+      "food_beverage": 0,
+      "travel": 0,
+      "education": 0,
+      "professional": 0,
+      "mining": 0,
+      "aerospace": 0,
+      "environmental": 0,
+      "cannabis": 0
+    },
+    "confidence": 0.5454545454545454
+  },
+  "market_analysis": {
+    "market_sentiment": "bullish",
+    "bullish_indicators": 2,
+    "bearish_indicators": 0,
+    "market_conditions": {
+      "volatility": "high",
+      "volume": "normal",
+      "trend": "bullish"
+    },
+    "trading_activity": "normal"
+  },
+  "competitor_analysis": {
+    "companies_mentioned": [
+      "GE Vernova Inc.",
+      "GEV",
+      "RBC Capital",
+      "GEV",
+      "GE Vernova Inc.",
+      "GEV",
+      "RBC Capital",
+      "Bank of America",
+      "GEV",
+      "Bank of America",
+      "GE Vernova",
+      "GEV",
+      "GE Vernova Inc.",
+      "GEV",
+      "GE Vernova",
+      "GEV",
+      "GEV",
+      "GE Vernova",
+      "GEV",
+      "GE Vernova",
+      "Macro",
+      "GEV",
+      "GEV",
+      "GEV",
+      "GE Vernova",
+      "Zacks",
+      "GEV",
+      "GE Vernova",
+      "American Banking News",
+      "GEV",
+      "GE Vernova",
+      "GEV",
+      "GE Vernova’s",
+      "AI Generated"
+    ],
+    "competitive_context": [
+      "GEV outperformed the broader market with a 1.6% gain in its latest session, reflecting investor appetite for its pivot to renewable energy equipment.\nGE Vernova (GEV) Beats Stock Market Upswing:",
+      "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautious around valuation levels and upcoming Q2 results."
+    ],
+    "competitor_count": 34,
+    "has_competitive_language": true
+  },
+  "risk_analysis": {
+    "risk_sentences": [
+      "Investors are weighing these positives against high valuation concerns ahead of the upcoming Q2 earnings report.",
+      "Jim Cramer urged viewers to listen to GEV’s management update before forming a view, hinting at possible volatility around the next earnings call.\nJim Cramer on GE Vernova: “Let’s Hear What They Have to Say”"
+    ],
+    "risk_count": 2,
+    "risk_level": "medium"
+  },
+  "opportunity_analysis": {
+    "opportunity_sentences": [
+      "GE Vernova Inc. (NYSE:GEV) shares have risen amid a string of bullish analyst actions, strong operational momentum and strategic expansion news.",
+      "Positive Sentiment:\nRBC Capital initiated coverage with a “buy” rating on GEV, citing improving power order flow and margin expansion potential.",
+      "TipRanks highlighted a “strong buy” recommendation, driven by robust order growth in renewable and grid solutions.",
+      "Strong Buy Recommendation for GE Vernova Inc. Driven by Robust Orders and Superior Growth Potential\nPositive Sentiment:",
+      "Positive Sentiment:\nManagement’s push into nuclear small modular reactors via the BWRX-300 platform is expanding GEV’s long-term growth runway."
+    ],
+    "opportunity_count": 5,
+    "opportunity_level": "high"
+  },
+  "processing_metadata": {
+    "timestamp": "2025-07-20T20:44:07.163226",
+    "model_used": "en_core_web_trf",
+    "text_length": 2681
+  }
+}
