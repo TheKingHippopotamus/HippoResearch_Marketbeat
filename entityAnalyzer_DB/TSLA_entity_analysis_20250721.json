@@ -5052,11 +5052,11 @@
     ],
     "financial_terms": [
       "market",
-      "growth",
       "Stock",
       "Earnings",
       "earnings",
-      "stock"
+      "stock",
+      "growth"
     ],
     "financial_metrics": [],
     "market_indicators": [
@@ -5078,9 +5078,9 @@
     ],
     "time_expressions": [],
     "temporal_relationships": [
-      "next",
       "today",
-      "upcoming"
+      "upcoming",
+      "next"
     ],
     "quarters": [
       "Q2",
@@ -5192,7 +5192,7 @@
     "opportunity_level": "medium"
   },
   "processing_metadata": {
-    "timestamp": "2025-07-21T02:15:22.385216",
+    "timestamp": "2025-07-21T02:18:05.602978",
     "model_used": "en_core_web_trf",
     "text_length": 2708
   }
