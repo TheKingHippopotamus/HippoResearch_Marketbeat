@@ -1,5 +1,4 @@
 [
-  
   {
     "ticker": "TSLA",
     "title": "TSLA: Tesla, Inc. | Consumer Discretionary | Automobile Manufacturers",
@@ -29,5 +28,20 @@
     "Date added": "2015-09-03",
     "CIK": "100517",
     "Founded": "1967"
+  },
+  {
+    "ticker": "COP",
+    "title": "COP: ConocoPhillips | Energy | Oil & Gas Exploration & Production",
+    "filename": "COP_20250721.html",
+    "timestamp": "21/07/2025 03:17",
+    "summary": "מצב מניות ConocoPhillips (NYSE: COP): ניתוח תנועות השוק\nמניות ConocoPhillips חוות תנודות בשוק, כאשר המשקיעים מתחשבים בגורמים חיוביים, נייטרליים ושליליים משפיעים על הביצועים.\nגורמים חיוביים:\n- עליית מח...",
+    "tags": [],
+    "Security": "ConocoPhillips",
+    "GICS Sector": "Energy",
+    "GICS Sub-Industry": "Oil & Gas Exploration & Production",
+    "Headquarters Location": "Houston, Texas",
+    "Date added": "1957-03-04",
+    "CIK": "1163165",
+    "Founded": "2002"
   }
 ]
