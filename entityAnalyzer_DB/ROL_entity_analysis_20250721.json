@@ -1,0 +1,50 @@
+{
+  "ticker": "ROL",
+  "timestamp": "2025-07-21T06:24:44.283008",
+  "companies": [
+    "Rollins, Inc.",
+    "ROL",
+    "WWE",
+    "AI Generated"
+  ],
+  "people": [
+    "Seth Rollins"
+  ],
+  "sentiment": {
+    "overall": "neutral",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "Posted 1+ days ago\nAI Generated.",
+      "importance_score": 19,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "No material corporate or operational developments for Rollins, Inc. surfaced in the last 24–36 hours.",
+      "importance_score": 18,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Rollins, Inc. (ROL)",
+      "importance_score": 16,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Recent media coverage centers on WWE performer Seth Rollins—entirely unrelated to the pest‐control business.",
+      "importance_score": 10,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [],
+  "important_dates": [
+    "1+ days ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [],
+  "business_context": [],
+  "compact_analysis": "{\"ticker\": \"ROL\", \"companies\": [\"Rollins, Inc.\", \"ROL\", \"WWE\", \"AI Generated\"], \"people\": [\"Seth Rollins\"], \"sentiment\": {\"overall\": \"neutral\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"Posted 1+ days ago\\nAI Generated.\", \"importance_score\": 19, \"sentiment\": \"neutral\"}, {\"text\": \"No material corporate or operational developments for Rollins, Inc. surfaced in the last 24–36 hours.\", \"importance_score\": 18, \"sentiment\": \"neutral\"}, {\"text\": \"Rollins, Inc. (ROL)\", \"importance_score\": 16, \"sentiment\": \"neutral\"}, {\"text\": \"Recent media coverage centers on WWE performer Seth Rollins—entirely unrelated to the pest‐control business.\", \"importance_score\": 10, \"sentiment\": \"neutral\"}], \"money_amounts\": [], \"important_dates\": [\"1+ days ago\"], \"financial_keywords\": [], \"key_relationships\": [], \"business_context\": []}"
+}
