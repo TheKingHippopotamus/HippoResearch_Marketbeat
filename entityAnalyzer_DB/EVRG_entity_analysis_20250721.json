@@ -1,0 +1,94 @@
+{
+  "ticker": "EVRG",
+  "timestamp": "2025-07-21T04:09:23.447816",
+  "companies": [
+    "Evergy Inc.",
+    "EVRG",
+    "Mizuho",
+    "Evergy",
+    "BMO Capital’s",
+    "second-quarter",
+    "AI Generated"
+  ],
+  "people": [
+    "James Thalacker"
+  ],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "Positive Sentiment:\nMizuho raised its price objective on Evergy from $70.00 to $74.00 and maintained an “outperform” rating, implying roughly 7.4% upside.\nMizuho Forecasts Strong Price Appreciation for Evergy Stock\nPositive Sentiment:",
+      "importance_score": 53,
+      "sentiment": "positive"
+    },
+    {
+      "text": "BMO Capital’s James Thalacker reiterated a Buy rating on Evergy with a $75.00 price target, citing favorable regulatory developments and solid economic prospects.",
+      "importance_score": 39,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Evergy Schedules Conference Call to Discuss 2nd Quarter Results\nOverall, the recent analyst upgrades and upcoming earnings discussion are key factors influencing EVRG’s trading activity.",
+      "importance_score": 28,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Evergy Inc. (NASDAQ: EVRG) shares have reacted to a series of analyst upgrades and the announcement of an upcoming earnings call.",
+      "importance_score": 20,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Posted 1+ days ago\nAI Generated.",
+      "importance_score": 19,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "70.00",
+    "74.00",
+    "75.00"
+  ],
+  "important_dates": [
+    "2nd Quarter",
+    "1+ days ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Mizuho",
+      "verb": "raised",
+      "object": "objective",
+      "importance": 12
+    },
+    {
+      "subject": "Mizuho",
+      "verb": "Forecasts",
+      "object": "Appreciation",
+      "importance": 12
+    },
+    {
+      "subject": "Thalacker",
+      "verb": "reiterated",
+      "object": "rating",
+      "importance": 11
+    },
+    {
+      "subject": "Developments",
+      "verb": "Drive",
+      "object": "Rating",
+      "importance": 4
+    },
+    {
+      "subject": "Evergy",
+      "verb": "scheduled",
+      "object": "call",
+      "importance": 6
+    }
+  ],
+  "business_context": [],
+  "compact_analysis": "{\"ticker\": \"EVRG\", \"companies\": [\"Evergy Inc.\", \"EVRG\", \"Mizuho\", \"Evergy\", \"BMO Capital’s\", \"second-quarter\", \"AI Generated\"], \"people\": [\"James Thalacker\"], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"Positive Sentiment:\\nMizuho raised its price objective on Evergy from $70.00 to $74.00 and maintained an “outperform” rating, implying roughly 7.4% upside.\\nMizuho Forecasts Strong Price Appreciation for Evergy Stock\\nPositive Sentiment:\", \"importance_score\": 53, \"sentiment\": \"positive\"}, {\"text\": \"BMO Capital’s James Thalacker reiterated a Buy rating on Evergy with a $75.00 price target, citing favorable regulatory developments and solid economic prospects.\", \"importance_score\": 39, \"sentiment\": \"neutral\"}, {\"text\": \"Evergy Schedules Conference Call to Discuss 2nd Quarter Results\\nOverall, the recent analyst upgrades and upcoming earnings discussion are key factors influencing EVRG’s trading activity.\", \"importance_score\": 28, \"sentiment\": \"neutral\"}, {\"text\": \"Evergy Inc. (NASDAQ: EVRG) shares have reacted to a series of analyst upgrades and the announcement of an upcoming earnings call.\", \"importance_score\": 20, \"sentiment\": \"neutral\"}, {\"text\": \"Posted 1+ days ago\\nAI Generated.\", \"importance_score\": 19, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"70.00\", \"74.00\", \"75.00\"], \"important_dates\": [\"2nd Quarter\", \"1+ days ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Mizuho\", \"verb\": \"raised\", \"object\": \"objective\", \"importance\": 12}, {\"subject\": \"Mizuho\", \"verb\": \"Forecasts\", \"object\": \"Appreciation\", \"importance\": 12}, {\"subject\": \"Thalacker\", \"verb\": \"reiterated\", \"object\": \"rating\", \"importance\": 11}, {\"subject\": \"Developments\", \"verb\": \"Drive\", \"object\": \"Rating\", \"importance\": 4}, {\"subject\": \"Evergy\", \"verb\": \"scheduled\", \"object\": \"call\", \"importance\": 6}], \"business_context\": []}"
+}
