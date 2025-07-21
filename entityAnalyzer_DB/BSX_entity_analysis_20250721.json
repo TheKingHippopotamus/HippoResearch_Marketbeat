@@ -1,0 +1,92 @@
+{
+  "ticker": "BSX",
+  "timestamp": "2025-07-21T09:29:50.214259",
+  "companies": [
+    "Boston Scientific Corporation",
+    "BSX",
+    "Boston Scientific",
+    "Abbott",
+    "Boston Scientific’s",
+    "AI Generated."
+  ],
+  "people": [
+    "Gilbert Ray Cisneros, Jr."
+  ],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "Rep. Gilbert Ray Cisneros, Jr. Sells Boston Scientific Corporation (NYSE:BSX) Stock\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "importance_score": 44,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Rep. Gilbert Ray Cisneros, Jr. disclosed a sale of $1,001–$15,000 in BSX shares in late June, reflecting insider share reduction.",
+      "importance_score": 32,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Key developments over the past 24 hours include:\nPositive Sentiment:\nThe stock has been consolidating, but strong Q2 earnings could reignite upside momentum.\nBoston Scientific Stock Is on Pause.",
+      "importance_score": 30,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Boston Scientific Corporation (NYSE:BSX) investors are weighing a mix of analyst commentary, competitive shifts, and insider activity.",
+      "importance_score": 22,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Competitor Abbott is poised to gain in structural heart devices after BSX’s exit from the TAVR market, heightening competitive pressure.",
+      "importance_score": 20,
+      "sentiment": "positive"
+    }
+  ],
+  "money_amounts": [
+    "$1,001–$15,000"
+  ],
+  "important_dates": [
+    "Q2",
+    "late June",
+    "1+ days ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "investors",
+      "verb": "weighing",
+      "object": "mix",
+      "importance": 6
+    },
+    {
+      "subject": "earnings",
+      "verb": "reignite",
+      "object": "momentum",
+      "importance": 11
+    },
+    {
+      "subject": "Analysts",
+      "verb": "updating",
+      "object": "estimates",
+      "importance": 3
+    },
+    {
+      "subject": "Abbott",
+      "verb": "eyes",
+      "object": "gains",
+      "importance": 4
+    },
+    {
+      "subject": "Jr.",
+      "verb": "disclosed",
+      "object": "sale",
+      "importance": 11
+    }
+  ],
+  "business_context": [],
+  "compact_analysis": "{\"ticker\": \"BSX\", \"companies\": [\"Boston Scientific Corporation\", \"BSX\", \"Boston Scientific\", \"Abbott\", \"Boston Scientific’s\", \"AI Generated.\"], \"people\": [\"Gilbert Ray Cisneros, Jr.\"], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"Rep. Gilbert Ray Cisneros, Jr. Sells Boston Scientific Corporation (NYSE:BSX) Stock\\nPosted 1+ days ago\\nAI Generated. May Contain Errors.\", \"importance_score\": 44, \"sentiment\": \"neutral\"}, {\"text\": \"Rep. Gilbert Ray Cisneros, Jr. disclosed a sale of $1,001–$15,000 in BSX shares in late June, reflecting insider share reduction.\", \"importance_score\": 32, \"sentiment\": \"neutral\"}, {\"text\": \"Key developments over the past 24 hours include:\\nPositive Sentiment:\\nThe stock has been consolidating, but strong Q2 earnings could reignite upside momentum.\\nBoston Scientific Stock Is on Pause.\", \"importance_score\": 30, \"sentiment\": \"positive\"}, {\"text\": \"Boston Scientific Corporation (NYSE:BSX) investors are weighing a mix of analyst commentary, competitive shifts, and insider activity.\", \"importance_score\": 22, \"sentiment\": \"neutral\"}, {\"text\": \"Competitor Abbott is poised to gain in structural heart devices after BSX’s exit from the TAVR market, heightening competitive pressure.\", \"importance_score\": 20, \"sentiment\": \"positive\"}], \"money_amounts\": [\"$1,001–$15,000\"], \"important_dates\": [\"Q2\", \"late June\", \"1+ days ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"investors\", \"verb\": \"weighing\", \"object\": \"mix\", \"importance\": 6}, {\"subject\": \"earnings\", \"verb\": \"reignite\", \"object\": \"momentum\", \"importance\": 11}, {\"subject\": \"Analysts\", \"verb\": \"updating\", \"object\": \"estimates\", \"importance\": 3}, {\"subject\": \"Abbott\", \"verb\": \"eyes\", \"object\": \"gains\", \"importance\": 4}, {\"subject\": \"Jr.\", \"verb\": \"disclosed\", \"object\": \"sale\", \"importance\": 11}], \"business_context\": []}"
+}
