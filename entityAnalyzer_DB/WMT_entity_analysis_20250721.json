@@ -1,0 +1,99 @@
+{
+  "ticker": "WMT",
+  "timestamp": "2025-07-21T05:11:34.993601",
+  "companies": [
+    "Walmart Inc.",
+    "WMT",
+    "Analyst",
+    "Walmart",
+    "Nvidia",
+    "MarketBeat",
+    "The Motley Fool",
+    "Benzinga",
+    "Zacks",
+    "Dollar General",
+    "Walmart vs. Dollar General",
+    "Chick-fil-A",
+    "AI Generated"
+  ],
+  "people": [
+    "Daniel J. Bartlett"
+  ],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "retail",
+  "key_points": [
+    {
+      "text": "Positive Sentiment:\nAnalyst calls Walmart the “Nvidia of Retail,” highlighting its leading position in retail tech and e-commerce acceleration.\nAnalyst Calls Walmart the Nvidia of Retail\nPositive Sentiment:\nMarketBeat reports a consensus “Moderate Buy” rating from 32 brokerages, reinforcing analyst ",
+      "importance_score": 62,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Neutral Sentiment:\nBenzinga details an options strategy to exploit allegedly mispriced Walmart derivatives—useful for traders but with execution risk.\nOptions Corner: Use Science to Take Advantage of Walmart's Mispriced Derivatives\nNeutral Sentiment:",
+      "importance_score": 36,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "The Motley Fool explores Walmart’s strong multi-year growth trajectory, underscoring resilience in a volatile economy.",
+      "importance_score": 25,
+      "sentiment": "positive"
+    },
+    {
+      "text": "EVP Daniel J. Bartlett Sells Shares\nPosted 1+ days ago\nAI Generated.",
+      "importance_score": 25,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Proposed Chick-fil-A at Milford Crossing could boost foot traffic near Walmart but requires zoning approval.",
+      "importance_score": 24,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [],
+  "important_dates": [
+    "Today",
+    "multi-year",
+    "5 Years",
+    "2025",
+    "1+ days ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Analyst",
+      "verb": "calls",
+      "object": "Walmart",
+      "importance": 14
+    },
+    {
+      "subject": "Analyst",
+      "verb": "Calls",
+      "object": "Walmart",
+      "importance": 14
+    },
+    {
+      "subject": "MarketBeat",
+      "verb": "reports",
+      "object": "rating",
+      "importance": 14
+    },
+    {
+      "subject": "Walmart",
+      "verb": "Extends",
+      "object": "Changes",
+      "importance": 5
+    },
+    {
+      "subject": "Walmart",
+      "verb": "Introduces",
+      "object": "Melts",
+      "importance": 2
+    }
+  ],
+  "business_context": [],
+  "compact_analysis": "{\"ticker\": \"WMT\", \"companies\": [\"Walmart Inc.\", \"WMT\", \"Analyst\", \"Walmart\", \"Nvidia\", \"MarketBeat\", \"The Motley Fool\", \"Benzinga\", \"Zacks\", \"Dollar General\", \"Walmart vs. Dollar General\", \"Chick-fil-A\", \"AI Generated\"], \"people\": [\"Daniel J. Bartlett\"], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"retail\", \"key_points\": [{\"text\": \"Positive Sentiment:\\nAnalyst calls Walmart the “Nvidia of Retail,” highlighting its leading position in retail tech and e-commerce acceleration.\\nAnalyst Calls Walmart the Nvidia of Retail\\nPositive Sentiment:\\nMarketBeat reports a consensus “Moderate Buy” rating from 32 brokerages, reinforcing analyst \", \"importance_score\": 62, \"sentiment\": \"positive\"}, {\"text\": \"Neutral Sentiment:\\nBenzinga details an options strategy to exploit allegedly mispriced Walmart derivatives—useful for traders but with execution risk.\\nOptions Corner: Use Science to Take Advantage of Walmart's Mispriced Derivatives\\nNeutral Sentiment:\", \"importance_score\": 36, \"sentiment\": \"neutral\"}, {\"text\": \"The Motley Fool explores Walmart’s strong multi-year growth trajectory, underscoring resilience in a volatile economy.\", \"importance_score\": 25, \"sentiment\": \"positive\"}, {\"text\": \"EVP Daniel J. Bartlett Sells Shares\\nPosted 1+ days ago\\nAI Generated.\", \"importance_score\": 25, \"sentiment\": \"neutral\"}, {\"text\": \"Proposed Chick-fil-A at Milford Crossing could boost foot traffic near Walmart but requires zoning approval.\", \"importance_score\": 24, \"sentiment\": \"neutral\"}], \"money_amounts\": [], \"important_dates\": [\"Today\", \"multi-year\", \"5 Years\", \"2025\", \"1+ days ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Analyst\", \"verb\": \"calls\", \"object\": \"Walmart\", \"importance\": 14}, {\"subject\": \"Analyst\", \"verb\": \"Calls\", \"object\": \"Walmart\", \"importance\": 14}, {\"subject\": \"MarketBeat\", \"verb\": \"reports\", \"object\": \"rating\", \"importance\": 14}, {\"subject\": \"Walmart\", \"verb\": \"Extends\", \"object\": \"Changes\", \"importance\": 5}, {\"subject\": \"Walmart\", \"verb\": \"Introduces\", \"object\": \"Melts\", \"importance\": 2}], \"business_context\": []}"
+}
