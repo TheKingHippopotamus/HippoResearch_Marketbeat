@@ -1,0 +1,121 @@
+{
+  "ticker": "PLTR",
+  "timestamp": "2025-07-21T06:04:54.583671",
+  "companies": [
+    "Palantir Technologies Inc.",
+    "PLTR",
+    "Wedbush",
+    "Palantir",
+    "FXEmpire",
+    "TSLA",
+    "SMCI Forecast",
+    "Mizuho",
+    "Pentagon",
+    "CNBC",
+    "The Motley Fool",
+    "Nvidia",
+    "Palantir Technologies",
+    "AI",
+    "Seeking Alpha",
+    "SentinelOne",
+    "Zacks",
+    "Hadrian",
+    "MarketBeat",
+    "AI Generated"
+  ],
+  "people": [
+    "Jim Cramer",
+    "Cramer",
+    "Peter Thiel",
+    "Ryan D. Taylor",
+    "Stanley Druckenmiller"
+  ],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "SentinelOne Looks Like Palantir Before The Breakout (Double Rating Upgrade)\nNeutral Sentiment:\nZacks noted heightened user interest in PLTR shares and reviewed the factors investors should monitor heading into Q2 earnings.\nPalantir Technologies Inc. (PLTR) is Attracting Investor Attention: Here is W",
+      "importance_score": 80,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Positive Sentiment:\nWedbush raised its price target on PLTR to $160, citing “stunning” growth momentum and high AI-driven demand.\nPalantir Gets Price Hike From Wedbush Amid High Valuation\nPositive Sentiment:\nFXEmpire’s technical outlook sees PLTR among tech names likely to attract continued buying p",
+      "importance_score": 64,
+      "sentiment": "positive"
+    },
+    {
+      "text": "The Motley Fool debated whether Palantir will hit a $1 trillion valuation before Nvidia reaches $5 trillion, underscoring bullish long-term potential.",
+      "importance_score": 50,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Palantir Technologies Inc. (NASDAQ:PLTR) Insider Ryan D. Taylor Sells 33,335 Shares\nNegative Sentiment:\nBillionaire Stanley Druckenmiller exited his entire PLTR position per Q2 13F filings, signaling some well-known investors are trimming exposure.\nBillionaire Stanley Druckenmiller Sold His Entire S",
+      "importance_score": 47,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Peter Thiel-Backed Hadrian Raises $260 Million To Build AI-Powered Mega Factory In Arizona\nNeutral Sentiment:\nMarketBeat reported a consensus “Hold” rating from 23 analysts, reflecting mixed views on valuation versus growth prospects.",
+      "importance_score": 46,
+      "sentiment": "positive"
+    }
+  ],
+  "money_amounts": [
+    "160",
+    "135",
+    "$1 trillion",
+    "$5 trillion",
+    "$1 Trillion",
+    "$5 Trillion",
+    "$260 million",
+    "$260 Million",
+    "150"
+  ],
+  "important_dates": [
+    "a Fifth Quarter",
+    "annual",
+    "2030",
+    "Q2",
+    "Q2 13F",
+    "1+ days ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Inc.",
+      "verb": "saw",
+      "object": "move",
+      "importance": 5
+    },
+    {
+      "subject": "investors",
+      "verb": "weighed",
+      "object": "mix",
+      "importance": 5
+    },
+    {
+      "subject": "Wedbush",
+      "verb": "raised",
+      "object": "target",
+      "importance": 14
+    },
+    {
+      "subject": "Palantir",
+      "verb": "Gets",
+      "object": "Hike",
+      "importance": 14
+    },
+    {
+      "subject": "outlook",
+      "verb": "sees",
+      "object": "PLTR",
+      "importance": 14
+    }
+  ],
+  "business_context": [],
+  "compact_analysis": "{\"ticker\": \"PLTR\", \"companies\": [\"Palantir Technologies Inc.\", \"PLTR\", \"Wedbush\", \"Palantir\", \"FXEmpire\", \"TSLA\", \"SMCI Forecast\", \"Mizuho\", \"Pentagon\", \"CNBC\", \"The Motley Fool\", \"Nvidia\", \"Palantir Technologies\", \"AI\", \"Seeking Alpha\", \"SentinelOne\", \"Zacks\", \"Hadrian\", \"MarketBeat\", \"AI Generated\"], \"people\": [\"Jim Cramer\", \"Cramer\", \"Peter Thiel\", \"Ryan D. Taylor\", \"Stanley Druckenmiller\"], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"SentinelOne Looks Like Palantir Before The Breakout (Double Rating Upgrade)\\nNeutral Sentiment:\\nZacks noted heightened user interest in PLTR shares and reviewed the factors investors should monitor heading into Q2 earnings.\\nPalantir Technologies Inc. (PLTR) is Attracting Investor Attention: Here is W\", \"importance_score\": 80, \"sentiment\": \"neutral\"}, {\"text\": \"Positive Sentiment:\\nWedbush raised its price target on PLTR to $160, citing “stunning” growth momentum and high AI-driven demand.\\nPalantir Gets Price Hike From Wedbush Amid High Valuation\\nPositive Sentiment:\\nFXEmpire’s technical outlook sees PLTR among tech names likely to attract continued buying p\", \"importance_score\": 64, \"sentiment\": \"positive\"}, {\"text\": \"The Motley Fool debated whether Palantir will hit a $1 trillion valuation before Nvidia reaches $5 trillion, underscoring bullish long-term potential.\", \"importance_score\": 50, \"sentiment\": \"neutral\"}, {\"text\": \"Palantir Technologies Inc. (NASDAQ:PLTR) Insider Ryan D. Taylor Sells 33,335 Shares\\nNegative Sentiment:\\nBillionaire Stanley Druckenmiller exited his entire PLTR position per Q2 13F filings, signaling some well-known investors are trimming exposure.\\nBillionaire Stanley Druckenmiller Sold His Entire S\", \"importance_score\": 47, \"sentiment\": \"negative\"}, {\"text\": \"Peter Thiel-Backed Hadrian Raises $260 Million To Build AI-Powered Mega Factory In Arizona\\nNeutral Sentiment:\\nMarketBeat reported a consensus “Hold” rating from 23 analysts, reflecting mixed views on valuation versus growth prospects.\", \"importance_score\": 46, \"sentiment\": \"positive\"}], \"money_amounts\": [\"160\", \"135\", \"$1 trillion\", \"$5 trillion\", \"$1 Trillion\", \"$5 Trillion\", \"$260 million\", \"$260 Million\", \"150\"], \"important_dates\": [\"a Fifth Quarter\", \"annual\", \"2030\", \"Q2\", \"Q2 13F\", \"1+ days ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Inc.\", \"verb\": \"saw\", \"object\": \"move\", \"importance\": 5}, {\"subject\": \"investors\", \"verb\": \"weighed\", \"object\": \"mix\", \"importance\": 5}, {\"subject\": \"Wedbush\", \"verb\": \"raised\", \"object\": \"target\", \"importance\": 14}, {\"subject\": \"Palantir\", \"verb\": \"Gets\", \"object\": \"Hike\", \"importance\": 14}, {\"subject\": \"outlook\", \"verb\": \"sees\", \"object\": \"PLTR\", \"importance\": 14}], \"business_context\": []}"
+}
