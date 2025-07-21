@@ -1,0 +1,97 @@
+{
+  "ticker": "FITB",
+  "timestamp": "2025-07-21T10:06:55.039662",
+  "companies": [
+    "Fifth Third Bancorp",
+    "FITB",
+    "Euromoney",
+    "the second consecutive year",
+    "Fifth Third",
+    "Second-quarter",
+    "ROE",
+    "Fifth Third Bancorp's",
+    "Second Quarter 2025",
+    "Fifth Third:"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "finance",
+  "key_points": [
+    {
+      "text": "Key developments include:\nPositive Sentiment:\nNamed “U.S. Best Super-Regional Bank” by Euromoney for the second consecutive year\nFifth Third Named ‘U.S. Best Super-Regional Bank'\nPositive Sentiment:\nQ2 earnings beat estimates on higher net interest income and fee revenue, driven by loan growth despi",
+      "importance_score": 257,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Published Q2 earnings-call presentation slides and transcript\nFifth Third Bancorp 2025 Q2 - Results - Earnings Call Presentation\nNeutral Sentiment:\nReviewed key Q2 metrics versus Wall Street estimates and year-ago figures\nQ2 Earnings: How Key Metrics Compare to Wall Street Estimates\nNegative Sentime",
+      "importance_score": 36,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Deposit declines and reliance on low-cost, non-sticky funding may pressure net interest margin if rates don’t fall as expected\nFifth Third: Q2 Report Shows Net Interest Income Growth Sacrifices Deposits\nPosted 1+ days ago\nAI Generated.",
+      "importance_score": 32,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Fifth Third Bancorp (NASDAQ: FITB) shares are trading higher after the company delivered stronger-than-expected Q2 results, received industry accolades and highlighted growth drivers.",
+      "importance_score": 30,
+      "sentiment": "positive"
+    }
+  ],
+  "money_amounts": [
+    "0.90",
+    "0.88",
+    "0.01",
+    "$2.25 billion",
+    "0.01",
+    "0.88"
+  ],
+  "important_dates": [
+    "Q2",
+    "Quarterly",
+    "Second-quarter",
+    "year-ago",
+    "Fifth Third",
+    "1+ days ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "company",
+      "verb": "delivered",
+      "object": "results",
+      "importance": 9
+    },
+    {
+      "subject": "developments",
+      "verb": "include",
+      "object": "Sentiment",
+      "importance": 81
+    },
+    {
+      "subject": "earnings",
+      "verb": "beat",
+      "object": "estimates",
+      "importance": 81
+    },
+    {
+      "subject": "Earnings",
+      "verb": "Top",
+      "object": "Estimates",
+      "importance": 81
+    },
+    {
+      "subject": "earnings",
+      "verb": "topped",
+      "object": "forecasts",
+      "importance": 81
+    }
+  ],
+  "business_context": [],
+  "compact_analysis": "{\"ticker\": \"FITB\", \"companies\": [\"Fifth Third Bancorp\", \"FITB\", \"Euromoney\", \"the second consecutive year\", \"Fifth Third\", \"Second-quarter\", \"ROE\", \"Fifth Third Bancorp's\", \"Second Quarter 2025\", \"Fifth Third:\"], \"people\": [], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"finance\", \"key_points\": [{\"text\": \"Key developments include:\\nPositive Sentiment:\\nNamed “U.S. Best Super-Regional Bank” by Euromoney for the second consecutive year\\nFifth Third Named ‘U.S. Best Super-Regional Bank'\\nPositive Sentiment:\\nQ2 earnings beat estimates on higher net interest income and fee revenue, driven by loan growth despi\", \"importance_score\": 257, \"sentiment\": \"positive\"}, {\"text\": \"Published Q2 earnings-call presentation slides and transcript\\nFifth Third Bancorp 2025 Q2 - Results - Earnings Call Presentation\\nNeutral Sentiment:\\nReviewed key Q2 metrics versus Wall Street estimates and year-ago figures\\nQ2 Earnings: How Key Metrics Compare to Wall Street Estimates\\nNegative Sentime\", \"importance_score\": 36, \"sentiment\": \"negative\"}, {\"text\": \"Deposit declines and reliance on low-cost, non-sticky funding may pressure net interest margin if rates don’t fall as expected\\nFifth Third: Q2 Report Shows Net Interest Income Growth Sacrifices Deposits\\nPosted 1+ days ago\\nAI Generated.\", \"importance_score\": 32, \"sentiment\": \"neutral\"}, {\"text\": \"Fifth Third Bancorp (NASDAQ: FITB) shares are trading higher after the company delivered stronger-than-expected Q2 results, received industry accolades and highlighted growth drivers.\", \"importance_score\": 30, \"sentiment\": \"positive\"}], \"money_amounts\": [\"0.90\", \"0.88\", \"0.01\", \"$2.25 billion\", \"0.01\", \"0.88\"], \"important_dates\": [\"Q2\", \"Quarterly\", \"Second-quarter\", \"year-ago\", \"Fifth Third\", \"1+ days ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"company\", \"verb\": \"delivered\", \"object\": \"results\", \"importance\": 9}, {\"subject\": \"developments\", \"verb\": \"include\", \"object\": \"Sentiment\", \"importance\": 81}, {\"subject\": \"earnings\", \"verb\": \"beat\", \"object\": \"estimates\", \"importance\": 81}, {\"subject\": \"Earnings\", \"verb\": \"Top\", \"object\": \"Estimates\", \"importance\": 81}, {\"subject\": \"earnings\", \"verb\": \"topped\", \"object\": \"forecasts\", \"importance\": 81}], \"business_context\": []}"
+}
