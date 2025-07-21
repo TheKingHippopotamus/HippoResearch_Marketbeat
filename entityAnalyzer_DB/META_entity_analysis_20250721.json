@@ -1,0 +1,114 @@
+{
+  "ticker": "META",
+  "timestamp": "2025-07-21T03:30:40.525238",
+  "companies": [
+    "Meta Platforms, Inc.",
+    "META",
+    "Wedbush",
+    "Meta Platforms",
+    "KeyBanc",
+    "Meta",
+    "Apple",
+    "Superintelligence Labs",
+    "Ex-Apple Researchers",
+    "EU",
+    "Microsoft",
+    "AppSecure",
+    "AI Generated"
+  ],
+  "people": [
+    "Mark Lee",
+    "Tom Gunter",
+    "John McGuire",
+    "Cleo Fields",
+    "Mark Zuckerberg",
+    "Zuckerberg",
+    "Jim Cramer",
+    "Javier Olivan",
+    "Robert Kimmitt"
+  ],
+  "sentiment": {
+    "overall": "neutral",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "META Needs To Market Its AI Better, Says Jim Cramer\nNegative Sentiment:\nMeta rebuffed the EU’s voluntary AI code of practice—unlike Microsoft—labeling it an “overreach” that would stunt growth, raising regulatory tension.\nMicrosoft likely to sign EU AI code of practice, Meta rebuffs guidelines\nNegat",
+      "importance_score": 178,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Meta Continues AI Focus by Adding 2 Ex-Apple Researchers\nPositive Sentiment:\nRepresentative John McGuire disclosed a purchase of META shares (between $1,001 and $15,000), a bullish signal from a government insider.\nRep. John McGuire Buys Meta Platforms, Inc.",
+      "importance_score": 66,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Wedbush Analysts Boost Earnings Estimates for Meta Platforms\nPositive Sentiment:\nKeyBanc reiterated an Overweight rating and raised its price target on META from $655 to $800, citing robust ad revenues, stable macro conditions and AI investments.",
+      "importance_score": 52,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Positive Sentiment:\nWedbush boosted its Q2 2025 EPS forecast for META to $5.57 (from $5.44), affirmed an “Outperform” rating and $750 target, signaling stronger-than-expected profitability.",
+      "importance_score": 49,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Meta Flexes Ad Strength, Analyst Cites Travel Trends And Weak US Dollar\nPositive Sentiment:\nMeta added two former Apple AI researchers—Mark Lee and Tom Gunter—to its Superintelligence Labs team, reinforcing its talent pipeline.",
+      "importance_score": 47,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "5.57",
+    "5.44",
+    "750",
+    "655",
+    "800",
+    "between $1,001 and $15,000",
+    "$50K–$100K",
+    "$8 billion",
+    "$8 Billion"
+  ],
+  "important_dates": [
+    "Q2 2025",
+    "1+ days ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Shares",
+      "verb": "seen",
+      "object": "moves",
+      "importance": 8
+    },
+    {
+      "subject": "Wedbush",
+      "verb": "boosted",
+      "object": "forecast",
+      "importance": 11
+    },
+    {
+      "subject": "Analysts",
+      "verb": "Boost",
+      "object": "Estimates",
+      "importance": 11
+    },
+    {
+      "subject": "KeyBanc",
+      "verb": "reiterated",
+      "object": "rating",
+      "importance": 11
+    },
+    {
+      "subject": "Meta",
+      "verb": "Flexes",
+      "object": "Strength",
+      "importance": 14
+    }
+  ],
+  "business_context": [],
+  "compact_analysis": "{\"ticker\": \"META\", \"companies\": [\"Meta Platforms, Inc.\", \"META\", \"Wedbush\", \"Meta Platforms\", \"KeyBanc\", \"Meta\", \"Apple\", \"Superintelligence Labs\", \"Ex-Apple Researchers\", \"EU\", \"Microsoft\", \"AppSecure\", \"AI Generated\"], \"people\": [\"Mark Lee\", \"Tom Gunter\", \"John McGuire\", \"Cleo Fields\", \"Mark Zuckerberg\", \"Zuckerberg\", \"Jim Cramer\", \"Javier Olivan\", \"Robert Kimmitt\"], \"sentiment\": {\"overall\": \"neutral\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"META Needs To Market Its AI Better, Says Jim Cramer\\nNegative Sentiment:\\nMeta rebuffed the EU’s voluntary AI code of practice—unlike Microsoft—labeling it an “overreach” that would stunt growth, raising regulatory tension.\\nMicrosoft likely to sign EU AI code of practice, Meta rebuffs guidelines\\nNegat\", \"importance_score\": 178, \"sentiment\": \"negative\"}, {\"text\": \"Meta Continues AI Focus by Adding 2 Ex-Apple Researchers\\nPositive Sentiment:\\nRepresentative John McGuire disclosed a purchase of META shares (between $1,001 and $15,000), a bullish signal from a government insider.\\nRep. John McGuire Buys Meta Platforms, Inc.\", \"importance_score\": 66, \"sentiment\": \"positive\"}, {\"text\": \"Wedbush Analysts Boost Earnings Estimates for Meta Platforms\\nPositive Sentiment:\\nKeyBanc reiterated an Overweight rating and raised its price target on META from $655 to $800, citing robust ad revenues, stable macro conditions and AI investments.\", \"importance_score\": 52, \"sentiment\": \"positive\"}, {\"text\": \"Positive Sentiment:\\nWedbush boosted its Q2 2025 EPS forecast for META to $5.57 (from $5.44), affirmed an “Outperform” rating and $750 target, signaling stronger-than-expected profitability.\", \"importance_score\": 49, \"sentiment\": \"positive\"}, {\"text\": \"Meta Flexes Ad Strength, Analyst Cites Travel Trends And Weak US Dollar\\nPositive Sentiment:\\nMeta added two former Apple AI researchers—Mark Lee and Tom Gunter—to its Superintelligence Labs team, reinforcing its talent pipeline.\", \"importance_score\": 47, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"5.57\", \"5.44\", \"750\", \"655\", \"800\", \"between $1,001 and $15,000\", \"$50K–$100K\", \"$8 billion\", \"$8 Billion\"], \"important_dates\": [\"Q2 2025\", \"1+ days ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Shares\", \"verb\": \"seen\", \"object\": \"moves\", \"importance\": 8}, {\"subject\": \"Wedbush\", \"verb\": \"boosted\", \"object\": \"forecast\", \"importance\": 11}, {\"subject\": \"Analysts\", \"verb\": \"Boost\", \"object\": \"Estimates\", \"importance\": 11}, {\"subject\": \"KeyBanc\", \"verb\": \"reiterated\", \"object\": \"rating\", \"importance\": 11}, {\"subject\": \"Meta\", \"verb\": \"Flexes\", \"object\": \"Strength\", \"importance\": 14}], \"business_context\": []}"
+}
