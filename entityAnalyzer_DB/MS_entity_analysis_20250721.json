@@ -1,0 +1,97 @@
+{
+  "ticker": "MS",
+  "timestamp": "2025-07-21T08:55:40.358579",
+  "companies": [
+    "Morgan Stanley",
+    "MS",
+    "Morgan Stanley's",
+    "Goldman",
+    "BofA",
+    "Morgan Stanley’s",
+    "Morgan Stanley Wealth Management's",
+    "AI Generated"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "finance",
+  "key_points": [
+    {
+      "text": "Morgan Stanley Wealth Management's Q3 2025 Investor Pulse Survey Reveals Increased Bullish Sentiment\nNeutral Sentiment:\nShares initially dipped nearly 4% on the Q2 release but quickly recovered, suggesting mixed short-term reactions.\nGoldman, Morgan Stanley, & BofA: Diverging Paths After Earnings\nNe",
+      "importance_score": 62,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Better-Than-Expected Trading Drives Morgan Stanley's Q2 Earnings\nPositive Sentiment:\nAnalysts lifted MS’s price target after the strong Q2 print, reflecting growing Street confidence in its trading and wealth management franchises.\nMorgan Stanley (MS) Target Price Raised After Strong Earnings\nPositi",
+      "importance_score": 52,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Positive Sentiment:\nBetter-than-expected trading revenues drove Q2 results, with EPS of $2.13 and revenue up 12% year-over-year, topping consensus estimates.",
+      "importance_score": 32,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Analysts Set Morgan Stanley Price Target at $136.69\nNeutral Sentiment:\nMorgan Stanley research forecasts further euro strength, a call that could influence its FX-related trading and advisory revenues.",
+      "importance_score": 29,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Morgan Stanley (MS) shares are responding to a blend of better-than-expected trading results, shareholder-friendly actions and uneven investment banking trends following the firm’s Q2 report and related research notes.",
+      "importance_score": 25,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "2.13",
+    "136.69",
+    "136.69"
+  ],
+  "important_dates": [
+    "Q2",
+    "year-over-year",
+    "Q3",
+    "Q3 2025",
+    "Quarter",
+    "1+ days ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "revenues",
+      "verb": "drove",
+      "object": "Sentiment",
+      "importance": 12
+    },
+    {
+      "subject": "Trading",
+      "verb": "Drives",
+      "object": "Earnings",
+      "importance": 15
+    },
+    {
+      "subject": "Analysts",
+      "verb": "lifted",
+      "object": "target",
+      "importance": 15
+    },
+    {
+      "subject": "Management",
+      "verb": "announced",
+      "object": "increase",
+      "importance": 4
+    },
+    {
+      "subject": "Goldman",
+      "verb": "Diverging",
+      "object": "Paths",
+      "importance": 5
+    }
+  ],
+  "business_context": [],
+  "compact_analysis": "{\"ticker\": \"MS\", \"companies\": [\"Morgan Stanley\", \"MS\", \"Morgan Stanley's\", \"Goldman\", \"BofA\", \"Morgan Stanley’s\", \"Morgan Stanley Wealth Management's\", \"AI Generated\"], \"people\": [], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"finance\", \"key_points\": [{\"text\": \"Morgan Stanley Wealth Management's Q3 2025 Investor Pulse Survey Reveals Increased Bullish Sentiment\\nNeutral Sentiment:\\nShares initially dipped nearly 4% on the Q2 release but quickly recovered, suggesting mixed short-term reactions.\\nGoldman, Morgan Stanley, & BofA: Diverging Paths After Earnings\\nNe\", \"importance_score\": 62, \"sentiment\": \"neutral\"}, {\"text\": \"Better-Than-Expected Trading Drives Morgan Stanley's Q2 Earnings\\nPositive Sentiment:\\nAnalysts lifted MS’s price target after the strong Q2 print, reflecting growing Street confidence in its trading and wealth management franchises.\\nMorgan Stanley (MS) Target Price Raised After Strong Earnings\\nPositi\", \"importance_score\": 52, \"sentiment\": \"positive\"}, {\"text\": \"Positive Sentiment:\\nBetter-than-expected trading revenues drove Q2 results, with EPS of $2.13 and revenue up 12% year-over-year, topping consensus estimates.\", \"importance_score\": 32, \"sentiment\": \"positive\"}, {\"text\": \"Analysts Set Morgan Stanley Price Target at $136.69\\nNeutral Sentiment:\\nMorgan Stanley research forecasts further euro strength, a call that could influence its FX-related trading and advisory revenues.\", \"importance_score\": 29, \"sentiment\": \"neutral\"}, {\"text\": \"Morgan Stanley (MS) shares are responding to a blend of better-than-expected trading results, shareholder-friendly actions and uneven investment banking trends following the firm’s Q2 report and related research notes.\", \"importance_score\": 25, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"2.13\", \"136.69\", \"136.69\"], \"important_dates\": [\"Q2\", \"year-over-year\", \"Q3\", \"Q3 2025\", \"Quarter\", \"1+ days ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"revenues\", \"verb\": \"drove\", \"object\": \"Sentiment\", \"importance\": 12}, {\"subject\": \"Trading\", \"verb\": \"Drives\", \"object\": \"Earnings\", \"importance\": 15}, {\"subject\": \"Analysts\", \"verb\": \"lifted\", \"object\": \"target\", \"importance\": 15}, {\"subject\": \"Management\", \"verb\": \"announced\", \"object\": \"increase\", \"importance\": 4}, {\"subject\": \"Goldman\", \"verb\": \"Diverging\", \"object\": \"Paths\", \"importance\": 5}], \"business_context\": []}"
+}
