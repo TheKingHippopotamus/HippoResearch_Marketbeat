@@ -1,0 +1,100 @@
+{
+  "ticker": "NEM",
+  "timestamp": "2025-07-21T07:52:06.541056",
+  "companies": [
+    "Newmont Corporation",
+    "NEM",
+    "Zacks",
+    "National Bank Financial",
+    "Newmont"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "finance",
+  "key_points": [
+    {
+      "text": "Here is What to Know Beyond Why Newmont Corporation (NEM) is a Trending Stock\nNeutral Sentiment:\nInvestors are debating whether to buy after a 39% rally in six months, driven by higher gold prices amid trade and geopolitical uncertainties.\nShould You Buy Newmont Stock After a 39% Rally in 6 Months?\n",
+      "importance_score": 212,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "National Bank Financial lifted its FY2025 EPS estimate to $5.20 (from $4.56) and raised FY2026 to $6.49, reflecting a stronger earnings outlook.",
+      "importance_score": 44,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Newmont FY2025 EPS Increased by National Bank Financial\nPositive Sentiment:\nNEM unlocked value from its 2025 divestitures, netting $3 billion to fund growth initiatives and boost shareholder returns.",
+      "importance_score": 40,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Newmont Corporation (NYSE:NEM) has seen its shares rise on the back of upgraded earnings forecasts, strategic asset sales and continued analyst support.",
+      "importance_score": 26,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Zacks notes NEM as a trending stock, reflecting high investor interest but cautioning that popularity alone isn’t a buy signal.",
+      "importance_score": 21,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "5.20",
+    "4.56",
+    "6.49",
+    "$3 billion",
+    "1.15"
+  ],
+  "important_dates": [
+    "FY2025",
+    "FY2026",
+    "2025",
+    "six months",
+    "6 Months",
+    "Q2 2025",
+    "Q2",
+    "July 24",
+    "Thursday",
+    "1+ days ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Zacks",
+      "verb": "highlights",
+      "object": "NEM",
+      "importance": 4
+    },
+    {
+      "subject": "Financial",
+      "verb": "lifted",
+      "object": "estimate",
+      "importance": 11
+    },
+    {
+      "subject": "EPS",
+      "verb": "unlocked",
+      "object": "value",
+      "importance": 11
+    },
+    {
+      "subject": "NEM",
+      "verb": "unlocked",
+      "object": "value",
+      "importance": 11
+    },
+    {
+      "subject": "NEM",
+      "verb": "Unlocks",
+      "object": "Value",
+      "importance": 3
+    }
+  ],
+  "business_context": [],
+  "compact_analysis": "{\"ticker\": \"NEM\", \"companies\": [\"Newmont Corporation\", \"NEM\", \"Zacks\", \"National Bank Financial\", \"Newmont\"], \"people\": [], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"finance\", \"key_points\": [{\"text\": \"Here is What to Know Beyond Why Newmont Corporation (NEM) is a Trending Stock\\nNeutral Sentiment:\\nInvestors are debating whether to buy after a 39% rally in six months, driven by higher gold prices amid trade and geopolitical uncertainties.\\nShould You Buy Newmont Stock After a 39% Rally in 6 Months?\\n\", \"importance_score\": 212, \"sentiment\": \"neutral\"}, {\"text\": \"National Bank Financial lifted its FY2025 EPS estimate to $5.20 (from $4.56) and raised FY2026 to $6.49, reflecting a stronger earnings outlook.\", \"importance_score\": 44, \"sentiment\": \"neutral\"}, {\"text\": \"Newmont FY2025 EPS Increased by National Bank Financial\\nPositive Sentiment:\\nNEM unlocked value from its 2025 divestitures, netting $3 billion to fund growth initiatives and boost shareholder returns.\", \"importance_score\": 40, \"sentiment\": \"positive\"}, {\"text\": \"Newmont Corporation (NYSE:NEM) has seen its shares rise on the back of upgraded earnings forecasts, strategic asset sales and continued analyst support.\", \"importance_score\": 26, \"sentiment\": \"positive\"}, {\"text\": \"Zacks notes NEM as a trending stock, reflecting high investor interest but cautioning that popularity alone isn’t a buy signal.\", \"importance_score\": 21, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"5.20\", \"4.56\", \"6.49\", \"$3 billion\", \"1.15\"], \"important_dates\": [\"FY2025\", \"FY2026\", \"2025\", \"six months\", \"6 Months\", \"Q2 2025\", \"Q2\", \"July 24\", \"Thursday\", \"1+ days ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Zacks\", \"verb\": \"highlights\", \"object\": \"NEM\", \"importance\": 4}, {\"subject\": \"Financial\", \"verb\": \"lifted\", \"object\": \"estimate\", \"importance\": 11}, {\"subject\": \"EPS\", \"verb\": \"unlocked\", \"object\": \"value\", \"importance\": 11}, {\"subject\": \"NEM\", \"verb\": \"unlocked\", \"object\": \"value\", \"importance\": 11}, {\"subject\": \"NEM\", \"verb\": \"Unlocks\", \"object\": \"Value\", \"importance\": 3}], \"business_context\": []}"
+}
