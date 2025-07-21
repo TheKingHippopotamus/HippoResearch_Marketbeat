@@ -1,0 +1,99 @@
+{
+  "ticker": "GEN",
+  "timestamp": "2025-07-21T05:53:36.148689",
+  "companies": [
+    "Gen Digital Inc.",
+    "GEN",
+    "Zacks",
+    "Gen Digital",
+    "Gen Digital’s",
+    "B. Riley",
+    "B. Riley's",
+    "Duolingo",
+    "DUOL",
+    "AI Generated"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "Here's Why Gen Digital (GEN) is a Strong Momentum Stock\nPositive Sentiment:\nAnalysts at B. Riley forecast Q1 2026 EPS of $0.56, maintain a “Buy” rating and set a $46 price target, while raising full-year 2026 and 2027 earnings estimates.\nWhat is B. Riley's Estimate for Gen Digital Q1 Earnings?\nPosit",
+      "importance_score": 168,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Positive Sentiment:\nZacks names Gen Digital a strong growth stock based on its Style Scores, citing solid fundamentals and above-average growth potential.\nHere's Why Gen Digital (GEN) is a Strong Growth Stock\nPositive Sentiment:",
+      "importance_score": 43,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Gen Digital Inc. (NASDAQ:GEN) shares have seen upward momentum as multiple analysts and research reports highlighted the company’s growth prospects, solid earnings outlook and favorable momentum scores:",
+      "importance_score": 34,
+      "sentiment": "positive"
+    },
+    {
+      "text": "A separate Zacks report highlights Gen Digital’s strong momentum profile, pointing to robust recent performance and favorable technical indicators.",
+      "importance_score": 25,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Posted 1+ days ago\nAI Generated.",
+      "importance_score": 19,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "0.56",
+    "46"
+  ],
+  "important_dates": [
+    "Q1 2026",
+    "full-year",
+    "2026",
+    "2027",
+    "Q1",
+    "quarterly",
+    "1+ days ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "shares",
+      "verb": "seen",
+      "object": "momentum",
+      "importance": 10
+    },
+    {
+      "subject": "analysts",
+      "verb": "highlighted",
+      "object": "prospects",
+      "importance": 10
+    },
+    {
+      "subject": "Zacks",
+      "verb": "names",
+      "object": "Digital",
+      "importance": 12
+    },
+    {
+      "subject": "report",
+      "verb": "highlights",
+      "object": "profile",
+      "importance": 7
+    },
+    {
+      "subject": "Analysts",
+      "verb": "forecast",
+      "object": "EPS",
+      "importance": 49
+    }
+  ],
+  "business_context": [],
+  "compact_analysis": "{\"ticker\": \"GEN\", \"companies\": [\"Gen Digital Inc.\", \"GEN\", \"Zacks\", \"Gen Digital\", \"Gen Digital’s\", \"B. Riley\", \"B. Riley's\", \"Duolingo\", \"DUOL\", \"AI Generated\"], \"people\": [], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"Here's Why Gen Digital (GEN) is a Strong Momentum Stock\\nPositive Sentiment:\\nAnalysts at B. Riley forecast Q1 2026 EPS of $0.56, maintain a “Buy” rating and set a $46 price target, while raising full-year 2026 and 2027 earnings estimates.\\nWhat is B. Riley's Estimate for Gen Digital Q1 Earnings?\\nPosit\", \"importance_score\": 168, \"sentiment\": \"positive\"}, {\"text\": \"Positive Sentiment:\\nZacks names Gen Digital a strong growth stock based on its Style Scores, citing solid fundamentals and above-average growth potential.\\nHere's Why Gen Digital (GEN) is a Strong Growth Stock\\nPositive Sentiment:\", \"importance_score\": 43, \"sentiment\": \"positive\"}, {\"text\": \"Gen Digital Inc. (NASDAQ:GEN) shares have seen upward momentum as multiple analysts and research reports highlighted the company’s growth prospects, solid earnings outlook and favorable momentum scores:\", \"importance_score\": 34, \"sentiment\": \"positive\"}, {\"text\": \"A separate Zacks report highlights Gen Digital’s strong momentum profile, pointing to robust recent performance and favorable technical indicators.\", \"importance_score\": 25, \"sentiment\": \"positive\"}, {\"text\": \"Posted 1+ days ago\\nAI Generated.\", \"importance_score\": 19, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"0.56\", \"46\"], \"important_dates\": [\"Q1 2026\", \"full-year\", \"2026\", \"2027\", \"Q1\", \"quarterly\", \"1+ days ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"shares\", \"verb\": \"seen\", \"object\": \"momentum\", \"importance\": 10}, {\"subject\": \"analysts\", \"verb\": \"highlighted\", \"object\": \"prospects\", \"importance\": 10}, {\"subject\": \"Zacks\", \"verb\": \"names\", \"object\": \"Digital\", \"importance\": 12}, {\"subject\": \"report\", \"verb\": \"highlights\", \"object\": \"profile\", \"importance\": 7}, {\"subject\": \"Analysts\", \"verb\": \"forecast\", \"object\": \"EPS\", \"importance\": 49}], \"business_context\": []}"
+}
