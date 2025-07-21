@@ -1,0 +1,100 @@
+{
+  "ticker": "GD",
+  "timestamp": "2025-07-21T08:44:15.973006",
+  "companies": [
+    "General Dynamics Corporation",
+    "GD",
+    "Seaport Res Ptn",
+    "RBC Capital",
+    "General Dynamics",
+    "Pentagon",
+    "Zacks",
+    "Howmet",
+    "HWM"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "neutral",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "aerospace",
+  "key_points": [
+    {
+      "text": "Seaport Res Ptn raised its Q2 2025 EPS estimate for GD to $3.60 from $3.44, reflecting stronger expected near-term profitability.\nSeaport Res Ptn Issues Optimistic Outlook for GD Earnings\nNeutral Sentiment:\nRBC Capital maintained a “Hold” rating on GD, signaling a wait-and-see stance rather than an ",
+      "importance_score": 85,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Ahead of General Dynamics (GD) Q2 Earnings: Get Ready With Wall Street Estimates for Key Metrics\nNeutral Sentiment:\nBroader defense-sector optimism—fueled by a $150 billion boost to U.S. defense spending—positions GD alongside peers in the Pentagon’s drone-centric modernization push.",
+      "importance_score": 47,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Negative Sentiment:\nSeaport Res Ptn cut its Q4 2025 EPS forecast for GD to $4.09 from $4.22, indicating concerns about late-year margin pressure.",
+      "importance_score": 46,
+      "sentiment": "negative"
+    },
+    {
+      "text": "General Dynamics Corporation (NYSE: GD) has seen its stock react to a mix of analyst estimate revisions, peer comparisons and sector developments in the past 24–36 hours.",
+      "importance_score": 36,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "A Zacks analysis shows peer Howmet (HWM) outpacing GD with a 142% gain and stronger EPS growth forecasts, underscoring competitive headwinds in the aerospace & defense space.",
+      "importance_score": 34,
+      "sentiment": "positive"
+    }
+  ],
+  "money_amounts": [
+    "3.60",
+    "3.44",
+    "$150 billion",
+    "4.09",
+    "4.22"
+  ],
+  "important_dates": [
+    "the past 24–36 hours",
+    "Q2 2025",
+    "Q2",
+    "Q4 2025",
+    "late-year",
+    "1+ days ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Ptn",
+      "verb": "raised",
+      "object": "estimate",
+      "importance": 22
+    },
+    {
+      "subject": "Ptn",
+      "verb": "Issues",
+      "object": "Outlook",
+      "importance": 22
+    },
+    {
+      "subject": "Capital",
+      "verb": "maintained",
+      "object": "rating",
+      "importance": 22
+    },
+    {
+      "subject": "Dynamics",
+      "verb": "Gets",
+      "object": "Hold",
+      "importance": 7
+    },
+    {
+      "subject": "analysts",
+      "verb": "publishing",
+      "object": "forecasts",
+      "importance": 5
+    }
+  ],
+  "business_context": [],
+  "compact_analysis": "{\"ticker\": \"GD\", \"companies\": [\"General Dynamics Corporation\", \"GD\", \"Seaport Res Ptn\", \"RBC Capital\", \"General Dynamics\", \"Pentagon\", \"Zacks\", \"Howmet\", \"HWM\"], \"people\": [], \"sentiment\": {\"overall\": \"neutral\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"aerospace\", \"key_points\": [{\"text\": \"Seaport Res Ptn raised its Q2 2025 EPS estimate for GD to $3.60 from $3.44, reflecting stronger expected near-term profitability.\\nSeaport Res Ptn Issues Optimistic Outlook for GD Earnings\\nNeutral Sentiment:\\nRBC Capital maintained a “Hold” rating on GD, signaling a wait-and-see stance rather than an \", \"importance_score\": 85, \"sentiment\": \"neutral\"}, {\"text\": \"Ahead of General Dynamics (GD) Q2 Earnings: Get Ready With Wall Street Estimates for Key Metrics\\nNeutral Sentiment:\\nBroader defense-sector optimism—fueled by a $150 billion boost to U.S. defense spending—positions GD alongside peers in the Pentagon’s drone-centric modernization push.\", \"importance_score\": 47, \"sentiment\": \"neutral\"}, {\"text\": \"Negative Sentiment:\\nSeaport Res Ptn cut its Q4 2025 EPS forecast for GD to $4.09 from $4.22, indicating concerns about late-year margin pressure.\", \"importance_score\": 46, \"sentiment\": \"negative\"}, {\"text\": \"General Dynamics Corporation (NYSE: GD) has seen its stock react to a mix of analyst estimate revisions, peer comparisons and sector developments in the past 24–36 hours.\", \"importance_score\": 36, \"sentiment\": \"neutral\"}, {\"text\": \"A Zacks analysis shows peer Howmet (HWM) outpacing GD with a 142% gain and stronger EPS growth forecasts, underscoring competitive headwinds in the aerospace & defense space.\", \"importance_score\": 34, \"sentiment\": \"positive\"}], \"money_amounts\": [\"3.60\", \"3.44\", \"$150 billion\", \"4.09\", \"4.22\"], \"important_dates\": [\"the past 24–36 hours\", \"Q2 2025\", \"Q2\", \"Q4 2025\", \"late-year\", \"1+ days ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Ptn\", \"verb\": \"raised\", \"object\": \"estimate\", \"importance\": 22}, {\"subject\": \"Ptn\", \"verb\": \"Issues\", \"object\": \"Outlook\", \"importance\": 22}, {\"subject\": \"Capital\", \"verb\": \"maintained\", \"object\": \"rating\", \"importance\": 22}, {\"subject\": \"Dynamics\", \"verb\": \"Gets\", \"object\": \"Hold\", \"importance\": 7}, {\"subject\": \"analysts\", \"verb\": \"publishing\", \"object\": \"forecasts\", \"importance\": 5}], \"business_context\": []}"
+}
