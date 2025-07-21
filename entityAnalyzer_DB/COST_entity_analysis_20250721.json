@@ -1,0 +1,104 @@
+{
+  "ticker": "COST",
+  "timestamp": "2025-07-21T09:39:01.854427",
+  "companies": [
+    "Costco Wholesale Corporation",
+    "COST",
+    "Costco",
+    "Oconomowoc",
+    "MarketBeat",
+    "Kohl’s",
+    "Fool.com",
+    "Kohl's",
+    "Home Depot",
+    "Grandmacore",
+    "Edna",
+    "INFRA",
+    "Patient Capital Opportunity Equity Strategy",
+    "AI"
+  ],
+  "people": [
+    "Yoram Rubanenko"
+  ],
+  "sentiment": {
+    "overall": "neutral",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "professional",
+  "key_points": [
+    {
+      "text": "Neutral Sentiment:\nHighlighted by MarketBeat as a toy-sector stock to watch\nPromising Toy Stocks To Watch Today - July 18th\nNeutral Sentiment:\nAlso featured in MarketBeat’s apparel stocks screener\nApparel Stocks Worth Watching - July 18th\nNeutral Sentiment:\nCompared against Kohl’s in a Fool.com reta",
+      "importance_score": 93,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Patient Capital Opportunity Equity Strategy bought COST puts, signaling a bearish hedge\nHere’s Why Patient Capital Opportunity Equity Strategy Purchased Costco Wholesale Corporation (COST) Puts in Q2\nNegative Sentiment:\nTechnical analysis warns stock may have peaked per Adhishthana Principles\nIs Cos",
+      "importance_score": 70,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Positive Sentiment:\nNew store on the Allen-McKinney border set to open Aug. 15\nCostco store on Allen-McKinney border to open doors Aug. 15\nPositive Sentiment:\nMansfield residents will get a new Costco, expanding the retailer’s Texas footprint\nHey Mansfield, you’re getting a Costco.",
+      "importance_score": 44,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Yoram Rubanenko Sells 4,000 Shares of Costco Wholesale Corporation (NASDAQ:COST) Stock\nPosted 1+ days ago\nAI Generated.",
+      "importance_score": 36,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Featured in lifestyle piece on its “Grandmacore” outdoor couch trend\nCostco's \"Grandmacore\" Outdoor Couch\nNeutral Sentiment:\nPartner Edna’s to exhibit at INFRA tabletop show after successful Costco rollout",
+      "importance_score": 33,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [],
+  "important_dates": [
+    "today",
+    "Aug. 15",
+    "August",
+    "June",
+    "Today",
+    "July 18th",
+    "2025",
+    "Q2",
+    "1+ days ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "store",
+      "verb": "open",
+      "object": "doors",
+      "importance": 16
+    },
+    {
+      "subject": "residents",
+      "verb": "get",
+      "object": "Costco",
+      "importance": 16
+    },
+    {
+      "subject": "you",
+      "verb": "getting",
+      "object": "Costco",
+      "importance": 16
+    },
+    {
+      "subject": "Costco",
+      "verb": "opening",
+      "object": "location",
+      "importance": 6
+    },
+    {
+      "subject": "plans",
+      "verb": "get",
+      "object": "approval",
+      "importance": 6
+    }
+  ],
+  "business_context": [],
+  "compact_analysis": "{\"ticker\": \"COST\", \"companies\": [\"Costco Wholesale Corporation\", \"COST\", \"Costco\", \"Oconomowoc\", \"MarketBeat\", \"Kohl’s\", \"Fool.com\", \"Kohl's\", \"Home Depot\", \"Grandmacore\", \"Edna\", \"INFRA\", \"Patient Capital Opportunity Equity Strategy\", \"AI\"], \"people\": [\"Yoram Rubanenko\"], \"sentiment\": {\"overall\": \"neutral\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"professional\", \"key_points\": [{\"text\": \"Neutral Sentiment:\\nHighlighted by MarketBeat as a toy-sector stock to watch\\nPromising Toy Stocks To Watch Today - July 18th\\nNeutral Sentiment:\\nAlso featured in MarketBeat’s apparel stocks screener\\nApparel Stocks Worth Watching - July 18th\\nNeutral Sentiment:\\nCompared against Kohl’s in a Fool.com reta\", \"importance_score\": 93, \"sentiment\": \"neutral\"}, {\"text\": \"Patient Capital Opportunity Equity Strategy bought COST puts, signaling a bearish hedge\\nHere’s Why Patient Capital Opportunity Equity Strategy Purchased Costco Wholesale Corporation (COST) Puts in Q2\\nNegative Sentiment:\\nTechnical analysis warns stock may have peaked per Adhishthana Principles\\nIs Cos\", \"importance_score\": 70, \"sentiment\": \"negative\"}, {\"text\": \"Positive Sentiment:\\nNew store on the Allen-McKinney border set to open Aug. 15\\nCostco store on Allen-McKinney border to open doors Aug. 15\\nPositive Sentiment:\\nMansfield residents will get a new Costco, expanding the retailer’s Texas footprint\\nHey Mansfield, you’re getting a Costco.\", \"importance_score\": 44, \"sentiment\": \"positive\"}, {\"text\": \"Yoram Rubanenko Sells 4,000 Shares of Costco Wholesale Corporation (NASDAQ:COST) Stock\\nPosted 1+ days ago\\nAI Generated.\", \"importance_score\": 36, \"sentiment\": \"neutral\"}, {\"text\": \"Featured in lifestyle piece on its “Grandmacore” outdoor couch trend\\nCostco's \\\"Grandmacore\\\" Outdoor Couch\\nNeutral Sentiment:\\nPartner Edna’s to exhibit at INFRA tabletop show after successful Costco rollout\", \"importance_score\": 33, \"sentiment\": \"neutral\"}], \"money_amounts\": [], \"important_dates\": [\"today\", \"Aug. 15\", \"August\", \"June\", \"Today\", \"July 18th\", \"2025\", \"Q2\", \"1+ days ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"store\", \"verb\": \"open\", \"object\": \"doors\", \"importance\": 16}, {\"subject\": \"residents\", \"verb\": \"get\", \"object\": \"Costco\", \"importance\": 16}, {\"subject\": \"you\", \"verb\": \"getting\", \"object\": \"Costco\", \"importance\": 16}, {\"subject\": \"Costco\", \"verb\": \"opening\", \"object\": \"location\", \"importance\": 6}, {\"subject\": \"plans\", \"verb\": \"get\", \"object\": \"approval\", \"importance\": 6}], \"business_context\": []}"
+}
