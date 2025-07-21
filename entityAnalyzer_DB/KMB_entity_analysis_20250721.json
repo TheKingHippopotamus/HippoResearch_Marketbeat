@@ -1,0 +1,103 @@
+{
+  "ticker": "KMB",
+  "timestamp": "2025-07-21T05:23:32.807121",
+  "companies": [
+    "Kimberly-Clark Co.",
+    "KMB",
+    "Mexico",
+    "Kimberly-Clark de México",
+    "Piper Sandler",
+    "Kimberly-Clark (",
+    "UBS Group",
+    "Kimberly-Clark",
+    "Benzinga",
+    "Kimberly-Clark’s",
+    "CNBC",
+    "Amazon",
+    "Kimberly-Clark Corporation"
+  ],
+  "people": [
+    "Jim Cramer"
+  ],
+  "sentiment": {
+    "overall": "neutral",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "Kimberly-Clark’s Investors Will Be Pleased With Their 5.4% Return Over the Last Five Years\nNegative Sentiment:\nCNBC’s Jim Cramer warned of an “Amazon problem” for KMB’s personal-care segment, noting competitive pressure and a 2.8% year-to-date share decline.\nKimberly-Clark Corporation (KMB) Has “An ",
+      "importance_score": 108,
+      "sentiment": "negative"
+    },
+    {
+      "text": "UBS Group trimmed its price target on KMB from $146 to $139 and kept a “Neutral” rating, reflecting modest upside expectations.\nUBS Group Has Lowered Expectations for Kimberly-Clark Stock Price\nNeutral Sentiment:\nA Benzinga survey of six analysts finds mixed views on KMB’s outlook, with ratings rang",
+      "importance_score": 81,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Kimberly-Clark de México Reports Record Sales Amid Peso Challenges\nPositive Sentiment:\nPiper Sandler reiterated an “Overweight” rating on KMB and raised its price target to $144, suggesting roughly 13% upside from current levels.",
+      "importance_score": 50,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Kimberly-Clark Co. (NYSE: KMB) shares are reacting to a mix of earnings updates from its Mexico unit, analyst rating changes and commentary on its competitive challenges.",
+      "importance_score": 32,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Kimberly-Clark (NYSE:KMB) Given Overweight Rating at Piper Sandler\nNeutral Sentiment:",
+      "importance_score": 29,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "144",
+    "146",
+    "139"
+  ],
+  "important_dates": [
+    "Q2",
+    "the past five years",
+    "the Last Five Years",
+    "year-to-date",
+    "1+ days ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "what",
+      "verb": "driving",
+      "object": "activity",
+      "importance": 1
+    },
+    {
+      "subject": "México",
+      "verb": "posted",
+      "object": "sales",
+      "importance": 7
+    },
+    {
+      "subject": "México",
+      "verb": "Reports",
+      "object": "Sales",
+      "importance": 15
+    },
+    {
+      "subject": "Sandler",
+      "verb": "reiterated",
+      "object": "rating",
+      "importance": 15
+    },
+    {
+      "subject": "Clark",
+      "verb": "Given",
+      "object": "Rating",
+      "importance": 8
+    }
+  ],
+  "business_context": [],
+  "compact_analysis": "{\"ticker\": \"KMB\", \"companies\": [\"Kimberly-Clark Co.\", \"KMB\", \"Mexico\", \"Kimberly-Clark de México\", \"Piper Sandler\", \"Kimberly-Clark (\", \"UBS Group\", \"Kimberly-Clark\", \"Benzinga\", \"Kimberly-Clark’s\", \"CNBC\", \"Amazon\", \"Kimberly-Clark Corporation\"], \"people\": [\"Jim Cramer\"], \"sentiment\": {\"overall\": \"neutral\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"Kimberly-Clark’s Investors Will Be Pleased With Their 5.4% Return Over the Last Five Years\\nNegative Sentiment:\\nCNBC’s Jim Cramer warned of an “Amazon problem” for KMB’s personal-care segment, noting competitive pressure and a 2.8% year-to-date share decline.\\nKimberly-Clark Corporation (KMB) Has “An \", \"importance_score\": 108, \"sentiment\": \"negative\"}, {\"text\": \"UBS Group trimmed its price target on KMB from $146 to $139 and kept a “Neutral” rating, reflecting modest upside expectations.\\nUBS Group Has Lowered Expectations for Kimberly-Clark Stock Price\\nNeutral Sentiment:\\nA Benzinga survey of six analysts finds mixed views on KMB’s outlook, with ratings rang\", \"importance_score\": 81, \"sentiment\": \"neutral\"}, {\"text\": \"Kimberly-Clark de México Reports Record Sales Amid Peso Challenges\\nPositive Sentiment:\\nPiper Sandler reiterated an “Overweight” rating on KMB and raised its price target to $144, suggesting roughly 13% upside from current levels.\", \"importance_score\": 50, \"sentiment\": \"positive\"}, {\"text\": \"Kimberly-Clark Co. (NYSE: KMB) shares are reacting to a mix of earnings updates from its Mexico unit, analyst rating changes and commentary on its competitive challenges.\", \"importance_score\": 32, \"sentiment\": \"neutral\"}, {\"text\": \"Kimberly-Clark (NYSE:KMB) Given Overweight Rating at Piper Sandler\\nNeutral Sentiment:\", \"importance_score\": 29, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"144\", \"146\", \"139\"], \"important_dates\": [\"Q2\", \"the past five years\", \"the Last Five Years\", \"year-to-date\", \"1+ days ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"what\", \"verb\": \"driving\", \"object\": \"activity\", \"importance\": 1}, {\"subject\": \"México\", \"verb\": \"posted\", \"object\": \"sales\", \"importance\": 7}, {\"subject\": \"México\", \"verb\": \"Reports\", \"object\": \"Sales\", \"importance\": 15}, {\"subject\": \"Sandler\", \"verb\": \"reiterated\", \"object\": \"rating\", \"importance\": 15}, {\"subject\": \"Clark\", \"verb\": \"Given\", \"object\": \"Rating\", \"importance\": 8}], \"business_context\": []}"
+}
