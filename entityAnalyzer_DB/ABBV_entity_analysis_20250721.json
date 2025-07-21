@@ -1,0 +1,103 @@
+{
+  "ticker": "ABBV",
+  "timestamp": "2025-07-21T07:43:01.438725",
+  "companies": [
+    "AbbVie Inc.",
+    "ABBV",
+    "Rothschild",
+    "AbbVie",
+    "Glenmark Pharmaceuticals’",
+    "Glenmark",
+    "Glenmark Pharma",
+    "FXEmpire",
+    "Zacks Research",
+    "William Blair"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "healthcare",
+  "key_points": [
+    {
+      "text": "July’s 5 Dividend Growth Stocks With Yields Up To 7.96%\nPositive Sentiment:\nGlenmark Pharmaceuticals’ licensing deal with AbbVie is expected to make Glenmark cash-positive, reflecting strong licensing revenue prospects for AbbVie.\nGlenmark Pharma to be Cash Positive with AbbVie Deal\nPositive Sentime",
+      "importance_score": 113,
+      "sentiment": "positive"
+    },
+    {
+      "text": "William Blair Comments on Q2 Earnings\nNegative Sentiment:\nWilliam Blair also lowered its FY2025 EPS estimate to $11.82 from $12.21, suggesting a more cautious full-year outlook.\nWilliam Blair FY2025 EPS Revision\nPosted 1+ days ago\nAI Generated.",
+      "importance_score": 70,
+      "sentiment": "negative"
+    },
+    {
+      "text": "AbbVie Attracts Attention\nNegative Sentiment:\nWilliam Blair cut its Q2 earnings per share forecast for AbbVie to $2.88 from $3.27, applying pressure to near-term EPS expectations.",
+      "importance_score": 45,
+      "sentiment": "negative"
+    },
+    {
+      "text": "AbbVie Inc. (NYSE:ABBV) shares are trading higher today following a series of bullish analyst actions, licensing deals and recognition of its dividend strength, although some minor EPS revisions and ongoing clinical updates temper the gains.",
+      "importance_score": 25,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Positive Sentiment:\nRothschild raised its price target on AbbVie and maintained a Buy rating, signaling firm conviction in the stock’s upside potential.",
+      "importance_score": 24,
+      "sentiment": "positive"
+    }
+  ],
+  "money_amounts": [
+    "2.88",
+    "3.27",
+    "11.82",
+    "12.21"
+  ],
+  "important_dates": [
+    "today",
+    "July",
+    "2025",
+    "Q2 2025",
+    "July 24",
+    "Q2",
+    "FY2025",
+    "full-year",
+    "1+ days ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "revisions",
+      "verb": "temper",
+      "object": "gains",
+      "importance": 7
+    },
+    {
+      "subject": "Investors",
+      "verb": "weighing",
+      "object": "catalysts",
+      "importance": 0
+    },
+    {
+      "subject": "Rothschild",
+      "verb": "raised",
+      "object": "target",
+      "importance": 6
+    },
+    {
+      "subject": "Rothschild",
+      "verb": "Raises",
+      "object": "Target",
+      "importance": 3
+    },
+    {
+      "subject": "Stocks",
+      "verb": "highlighted",
+      "object": "AbbVie",
+      "importance": 32
+    }
+  ],
+  "business_context": [],
+  "compact_analysis": "{\"ticker\": \"ABBV\", \"companies\": [\"AbbVie Inc.\", \"ABBV\", \"Rothschild\", \"AbbVie\", \"Glenmark Pharmaceuticals’\", \"Glenmark\", \"Glenmark Pharma\", \"FXEmpire\", \"Zacks Research\", \"William Blair\"], \"people\": [], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"healthcare\", \"key_points\": [{\"text\": \"July’s 5 Dividend Growth Stocks With Yields Up To 7.96%\\nPositive Sentiment:\\nGlenmark Pharmaceuticals’ licensing deal with AbbVie is expected to make Glenmark cash-positive, reflecting strong licensing revenue prospects for AbbVie.\\nGlenmark Pharma to be Cash Positive with AbbVie Deal\\nPositive Sentime\", \"importance_score\": 113, \"sentiment\": \"positive\"}, {\"text\": \"William Blair Comments on Q2 Earnings\\nNegative Sentiment:\\nWilliam Blair also lowered its FY2025 EPS estimate to $11.82 from $12.21, suggesting a more cautious full-year outlook.\\nWilliam Blair FY2025 EPS Revision\\nPosted 1+ days ago\\nAI Generated.\", \"importance_score\": 70, \"sentiment\": \"negative\"}, {\"text\": \"AbbVie Attracts Attention\\nNegative Sentiment:\\nWilliam Blair cut its Q2 earnings per share forecast for AbbVie to $2.88 from $3.27, applying pressure to near-term EPS expectations.\", \"importance_score\": 45, \"sentiment\": \"negative\"}, {\"text\": \"AbbVie Inc. (NYSE:ABBV) shares are trading higher today following a series of bullish analyst actions, licensing deals and recognition of its dividend strength, although some minor EPS revisions and ongoing clinical updates temper the gains.\", \"importance_score\": 25, \"sentiment\": \"neutral\"}, {\"text\": \"Positive Sentiment:\\nRothschild raised its price target on AbbVie and maintained a Buy rating, signaling firm conviction in the stock’s upside potential.\", \"importance_score\": 24, \"sentiment\": \"positive\"}], \"money_amounts\": [\"2.88\", \"3.27\", \"11.82\", \"12.21\"], \"important_dates\": [\"today\", \"July\", \"2025\", \"Q2 2025\", \"July 24\", \"Q2\", \"FY2025\", \"full-year\", \"1+ days ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"revisions\", \"verb\": \"temper\", \"object\": \"gains\", \"importance\": 7}, {\"subject\": \"Investors\", \"verb\": \"weighing\", \"object\": \"catalysts\", \"importance\": 0}, {\"subject\": \"Rothschild\", \"verb\": \"raised\", \"object\": \"target\", \"importance\": 6}, {\"subject\": \"Rothschild\", \"verb\": \"Raises\", \"object\": \"Target\", \"importance\": 3}, {\"subject\": \"Stocks\", \"verb\": \"highlighted\", \"object\": \"AbbVie\", \"importance\": 32}], \"business_context\": []}"
+}
