@@ -1,0 +1,105 @@
+{
+  "ticker": "IVZ",
+  "timestamp": "2025-07-21T07:06:45.234679",
+  "companies": [
+    "Invesco Ltd.",
+    "IVZ",
+    "Invesco",
+    "Netflix",
+    "GARP",
+    "Zacks",
+    "MarketBeat",
+    "QQQ",
+    "Invesco QQQ Trust",
+    "Talen Energy",
+    "Norfolk Southern",
+    "More",
+    "MarketWatch",
+    "INVESCO Ltd.",
+    "J.P. Morgan"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "finance",
+  "key_points": [
+    {
+      "text": "Positive Sentiment:\nMarketBeat notes a surge in trading volume for IVZ, underpinning continued buy-side interest\nInvesco (NYSE:IVZ) Sees Strong Trading Volume - Still a Buy?\nPositive Sentiment:\nUnusual options activity saw traders buy over 36,000 IVZ call options—more than 2,600% above average—signa",
+      "importance_score": 152,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Invesco appeared among midday’s top stock movers, reflecting higher-than-average intraday volatility\nTop Stock Movers Now: Invesco, Talen Energy, Norfolk Southern, and More\nNeutral Sentiment:",
+      "importance_score": 49,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Shares hit a two-year high after Invesco filed to reclassify its $360 billion QQQ ETF, potentially granting greater operational flexibility\nInvesco shares reach 2-year high after filing to reclassify $360 billion ETF\nPositive Sentiment:",
+      "importance_score": 46,
+      "sentiment": "positive"
+    },
+    {
+      "text": "J.P. Morgan initiated coverage with a “Hold,” offering a more cautious view compared to recent bullish signals\nInvesco (IVZ) Receives a Hold from J.P. Morgan\nPosted 1+ days ago\nAI Generated.",
+      "importance_score": 45,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Analysts at Zacks highlight Invesco’s impressive earnings surprise history and project another likely beat in its next quarterly report\nWill Invesco (IVZ) Beat Estimates Again in Its Next Earnings Report?",
+      "importance_score": 35,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "$360 billion",
+    "$360 billion"
+  ],
+  "important_dates": [
+    "today",
+    "Today",
+    "two-year",
+    "2-year",
+    "quarterly",
+    "July 18th",
+    "annual",
+    "1+ days ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "news",
+      "verb": "highlights",
+      "object": "catalysts",
+      "importance": 1
+    },
+    {
+      "subject": "report",
+      "verb": "showed",
+      "object": "sentiment",
+      "importance": 4
+    },
+    {
+      "subject": "Shares",
+      "verb": "hit",
+      "object": "high",
+      "importance": 14
+    },
+    {
+      "subject": "shares",
+      "verb": "reach",
+      "object": "high",
+      "importance": 14
+    },
+    {
+      "subject": "Analysts",
+      "verb": "highlight",
+      "object": "history",
+      "importance": 8
+    }
+  ],
+  "business_context": [],
+  "compact_analysis": "{\"ticker\": \"IVZ\", \"companies\": [\"Invesco Ltd.\", \"IVZ\", \"Invesco\", \"Netflix\", \"GARP\", \"Zacks\", \"MarketBeat\", \"QQQ\", \"Invesco QQQ Trust\", \"Talen Energy\", \"Norfolk Southern\", \"More\", \"MarketWatch\", \"INVESCO Ltd.\", \"J.P. Morgan\"], \"people\": [], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"finance\", \"key_points\": [{\"text\": \"Positive Sentiment:\\nMarketBeat notes a surge in trading volume for IVZ, underpinning continued buy-side interest\\nInvesco (NYSE:IVZ) Sees Strong Trading Volume - Still a Buy?\\nPositive Sentiment:\\nUnusual options activity saw traders buy over 36,000 IVZ call options—more than 2,600% above average—signa\", \"importance_score\": 152, \"sentiment\": \"positive\"}, {\"text\": \"Invesco appeared among midday’s top stock movers, reflecting higher-than-average intraday volatility\\nTop Stock Movers Now: Invesco, Talen Energy, Norfolk Southern, and More\\nNeutral Sentiment:\", \"importance_score\": 49, \"sentiment\": \"neutral\"}, {\"text\": \"Shares hit a two-year high after Invesco filed to reclassify its $360 billion QQQ ETF, potentially granting greater operational flexibility\\nInvesco shares reach 2-year high after filing to reclassify $360 billion ETF\\nPositive Sentiment:\", \"importance_score\": 46, \"sentiment\": \"positive\"}, {\"text\": \"J.P. Morgan initiated coverage with a “Hold,” offering a more cautious view compared to recent bullish signals\\nInvesco (IVZ) Receives a Hold from J.P. Morgan\\nPosted 1+ days ago\\nAI Generated.\", \"importance_score\": 45, \"sentiment\": \"neutral\"}, {\"text\": \"Analysts at Zacks highlight Invesco’s impressive earnings surprise history and project another likely beat in its next quarterly report\\nWill Invesco (IVZ) Beat Estimates Again in Its Next Earnings Report?\", \"importance_score\": 35, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"$360 billion\", \"$360 billion\"], \"important_dates\": [\"today\", \"Today\", \"two-year\", \"2-year\", \"quarterly\", \"July 18th\", \"annual\", \"1+ days ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"news\", \"verb\": \"highlights\", \"object\": \"catalysts\", \"importance\": 1}, {\"subject\": \"report\", \"verb\": \"showed\", \"object\": \"sentiment\", \"importance\": 4}, {\"subject\": \"Shares\", \"verb\": \"hit\", \"object\": \"high\", \"importance\": 14}, {\"subject\": \"shares\", \"verb\": \"reach\", \"object\": \"high\", \"importance\": 14}, {\"subject\": \"Analysts\", \"verb\": \"highlight\", \"object\": \"history\", \"importance\": 8}], \"business_context\": []}"
+}
