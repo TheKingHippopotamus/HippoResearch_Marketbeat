@@ -1,0 +1,100 @@
+{
+  "ticker": "HES",
+  "timestamp": "2025-07-21T05:29:27.491391",
+  "companies": [
+    "Hess Corporation",
+    "HES",
+    "Chevron",
+    "Scotiabank",
+    "Hess",
+    "MarketBeat",
+    "FTC",
+    "Chevron Board",
+    "Hess Midstream LP",
+    "HESM"
+  ],
+  "people": [
+    "John Hess",
+    "Paul Sankey"
+  ],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "FTC Reverses Order Barring John Hess from Chevron Board\nNeutral Sentiment:\nTrading in HES was halted at 08:07 AM ahead of the merger becoming effective, pausing volume until deal close.\nNeutral Sentiment:\nPaul Sankey provided his insights on Chevron’s acquisition of Hess, offering context on potenti",
+      "importance_score": 149,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Scotiabank Has Optimistic Outlook of Hess FY2026 Earnings\nPositive Sentiment:\nMarketBeat reports Hess shares gapped up on July 18, attributing the move to acquisition developments and positive analyst commentary.\nHess Shares Gap Up—Here's Why\nPositive Sentiment:",
+      "importance_score": 48,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Hess Corporation (NYSE:HES) shares are reacting to multiple developments around Chevron’s $53 billion acquisition and fresh analyst commentary.",
+      "importance_score": 37,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Analysts at Scotiabank upped their FY2026 EPS estimate for Hess to $5.85 from $5.40, boosting the near-term earnings outlook.",
+      "importance_score": 37,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Chevron Completes Acquisition of Hess Corporation\nPosted 1+ days ago\nAI Generated.",
+      "importance_score": 28,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "$53 billion",
+    "5.85",
+    "5.40",
+    "$53 billion"
+  ],
+  "important_dates": [
+    "FY2026",
+    "July 18",
+    "1+ days ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Analysts",
+      "verb": "upped",
+      "object": "estimate",
+      "importance": 8
+    },
+    {
+      "subject": "Scotiabank",
+      "verb": "Has",
+      "object": "Outlook",
+      "importance": 12
+    },
+    {
+      "subject": "Hess",
+      "verb": "received",
+      "object": "rating",
+      "importance": 4
+    },
+    {
+      "subject": "Hess",
+      "verb": "Receives",
+      "object": "Rating",
+      "importance": 3
+    },
+    {
+      "subject": "FTC",
+      "verb": "reversed",
+      "object": "order",
+      "importance": 6
+    }
+  ],
+  "business_context": [],
+  "compact_analysis": "{\"ticker\": \"HES\", \"companies\": [\"Hess Corporation\", \"HES\", \"Chevron\", \"Scotiabank\", \"Hess\", \"MarketBeat\", \"FTC\", \"Chevron Board\", \"Hess Midstream LP\", \"HESM\"], \"people\": [\"John Hess\", \"Paul Sankey\"], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"FTC Reverses Order Barring John Hess from Chevron Board\\nNeutral Sentiment:\\nTrading in HES was halted at 08:07 AM ahead of the merger becoming effective, pausing volume until deal close.\\nNeutral Sentiment:\\nPaul Sankey provided his insights on Chevron’s acquisition of Hess, offering context on potenti\", \"importance_score\": 149, \"sentiment\": \"negative\"}, {\"text\": \"Scotiabank Has Optimistic Outlook of Hess FY2026 Earnings\\nPositive Sentiment:\\nMarketBeat reports Hess shares gapped up on July 18, attributing the move to acquisition developments and positive analyst commentary.\\nHess Shares Gap Up—Here's Why\\nPositive Sentiment:\", \"importance_score\": 48, \"sentiment\": \"positive\"}, {\"text\": \"Hess Corporation (NYSE:HES) shares are reacting to multiple developments around Chevron’s $53 billion acquisition and fresh analyst commentary.\", \"importance_score\": 37, \"sentiment\": \"neutral\"}, {\"text\": \"Analysts at Scotiabank upped their FY2026 EPS estimate for Hess to $5.85 from $5.40, boosting the near-term earnings outlook.\", \"importance_score\": 37, \"sentiment\": \"neutral\"}, {\"text\": \"Chevron Completes Acquisition of Hess Corporation\\nPosted 1+ days ago\\nAI Generated.\", \"importance_score\": 28, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"$53 billion\", \"5.85\", \"5.40\", \"$53 billion\"], \"important_dates\": [\"FY2026\", \"July 18\", \"1+ days ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Analysts\", \"verb\": \"upped\", \"object\": \"estimate\", \"importance\": 8}, {\"subject\": \"Scotiabank\", \"verb\": \"Has\", \"object\": \"Outlook\", \"importance\": 12}, {\"subject\": \"Hess\", \"verb\": \"received\", \"object\": \"rating\", \"importance\": 4}, {\"subject\": \"Hess\", \"verb\": \"Receives\", \"object\": \"Rating\", \"importance\": 3}, {\"subject\": \"FTC\", \"verb\": \"reversed\", \"object\": \"order\", \"importance\": 6}], \"business_context\": []}"
+}
