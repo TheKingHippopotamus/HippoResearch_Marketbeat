@@ -1,0 +1,106 @@
+{
+  "ticker": "GILD",
+  "timestamp": "2025-07-21T04:32:05.610373",
+  "companies": [
+    "Gilead Sciences, Inc.",
+    "GILD",
+    "Gilead",
+    "Gilead Sciences",
+    "Gilead Sciences’",
+    "Leerink Partnrs",
+    "Zacks.com",
+    "Zacks",
+    "Pomerantz LLP",
+    "Pomerantz Law Firm",
+    "AI"
+  ],
+  "people": [
+    "Tamar Braxton",
+    "Andrew Dickinson"
+  ],
+  "sentiment": {
+    "overall": "neutral",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "healthcare",
+  "key_points": [
+    {
+      "text": "Leerink Partnrs raised its Q3 2025 EPS estimate for Gilead to $2.37 from $2.26, reflecting improved near-term earnings expectations.\nLeerink Partnrs Raises Q3 2025 EPS Estimate for Gilead Sciences\nNeutral Sentiment:\nA new HIV 7MM drug forecast report projects the market to reach $32.1 billion by 203",
+      "importance_score": 89,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Leerink Partnrs cut its Q2 2025 EPS forecast for Gilead to $1.91 from $2.25, signaling softer near-term earnings expectations.\nGilead Sciences Q2 EPS Estimate Lowered by Leerink Partnrs\nNegative Sentiment:\nPomerantz LLP launched an investor investigation into Gilead over undisclosed claims, introduc",
+      "importance_score": 81,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Gilead’s CFO, Andrew Dickinson, sold 2,500 shares for about $277,575, reducing his stake by 1.5%, which may raise governance or insider-confidence concerns.\nGilead Sciences, Inc. (NASDAQ:GILD) CFO Sells $277,575.00 in Stock\nPosted 1+ days ago\nAI Generated. May Contain Errors.",
+      "importance_score": 75,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Gilead Sciences, Inc. (GILD) is Attracting Investor Attention\nNeutral Sentiment:\nAnother Zacks article on medical stocks mentioned Gilead in a broader earnings-beat screen, but without company-specific forecasts or drivers.",
+      "importance_score": 33,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Tamar Braxton Is Raising Awareness About The Power Of PrEP Under Her New Partnership With Gilead Sciences\nPositive Sentiment:\nAn updated study on sacituzumab govitecan highlighted new data and market implications for Gilead’s cancer‐targeting antibody-drug conjugate, underlining potential revenue up",
+      "importance_score": 30,
+      "sentiment": "positive"
+    }
+  ],
+  "money_amounts": [
+    "2.37",
+    "2.26",
+    "$32.1 billion",
+    "1.91",
+    "2.25",
+    "about $277,575",
+    "277,575.00"
+  ],
+  "important_dates": [
+    "Q3 2025",
+    "2033",
+    "Q2 2025",
+    "Q2",
+    "1+ days ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Braxton",
+      "verb": "Raising",
+      "object": "Awareness",
+      "importance": 9
+    },
+    {
+      "subject": "study",
+      "verb": "highlighted",
+      "object": "data",
+      "importance": 9
+    },
+    {
+      "subject": "Partnrs",
+      "verb": "raised",
+      "object": "estimate",
+      "importance": 24
+    },
+    {
+      "subject": "Partnrs",
+      "verb": "Raises",
+      "object": "Estimate",
+      "importance": 24
+    },
+    {
+      "subject": "market",
+      "verb": "reach",
+      "object": "billion",
+      "importance": 24
+    }
+  ],
+  "business_context": [],
+  "compact_analysis": "{\"ticker\": \"GILD\", \"companies\": [\"Gilead Sciences, Inc.\", \"GILD\", \"Gilead\", \"Gilead Sciences\", \"Gilead Sciences’\", \"Leerink Partnrs\", \"Zacks.com\", \"Zacks\", \"Pomerantz LLP\", \"Pomerantz Law Firm\", \"AI\"], \"people\": [\"Tamar Braxton\", \"Andrew Dickinson\"], \"sentiment\": {\"overall\": \"neutral\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"healthcare\", \"key_points\": [{\"text\": \"Leerink Partnrs raised its Q3 2025 EPS estimate for Gilead to $2.37 from $2.26, reflecting improved near-term earnings expectations.\\nLeerink Partnrs Raises Q3 2025 EPS Estimate for Gilead Sciences\\nNeutral Sentiment:\\nA new HIV 7MM drug forecast report projects the market to reach $32.1 billion by 203\", \"importance_score\": 89, \"sentiment\": \"neutral\"}, {\"text\": \"Leerink Partnrs cut its Q2 2025 EPS forecast for Gilead to $1.91 from $2.25, signaling softer near-term earnings expectations.\\nGilead Sciences Q2 EPS Estimate Lowered by Leerink Partnrs\\nNegative Sentiment:\\nPomerantz LLP launched an investor investigation into Gilead over undisclosed claims, introduc\", \"importance_score\": 81, \"sentiment\": \"negative\"}, {\"text\": \"Gilead’s CFO, Andrew Dickinson, sold 2,500 shares for about $277,575, reducing his stake by 1.5%, which may raise governance or insider-confidence concerns.\\nGilead Sciences, Inc. (NASDAQ:GILD) CFO Sells $277,575.00 in Stock\\nPosted 1+ days ago\\nAI Generated. May Contain Errors.\", \"importance_score\": 75, \"sentiment\": \"neutral\"}, {\"text\": \"Gilead Sciences, Inc. (GILD) is Attracting Investor Attention\\nNeutral Sentiment:\\nAnother Zacks article on medical stocks mentioned Gilead in a broader earnings-beat screen, but without company-specific forecasts or drivers.\", \"importance_score\": 33, \"sentiment\": \"neutral\"}, {\"text\": \"Tamar Braxton Is Raising Awareness About The Power Of PrEP Under Her New Partnership With Gilead Sciences\\nPositive Sentiment:\\nAn updated study on sacituzumab govitecan highlighted new data and market implications for Gilead’s cancer‐targeting antibody-drug conjugate, underlining potential revenue up\", \"importance_score\": 30, \"sentiment\": \"positive\"}], \"money_amounts\": [\"2.37\", \"2.26\", \"$32.1 billion\", \"1.91\", \"2.25\", \"about $277,575\", \"277,575.00\"], \"important_dates\": [\"Q3 2025\", \"2033\", \"Q2 2025\", \"Q2\", \"1+ days ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Braxton\", \"verb\": \"Raising\", \"object\": \"Awareness\", \"importance\": 9}, {\"subject\": \"study\", \"verb\": \"highlighted\", \"object\": \"data\", \"importance\": 9}, {\"subject\": \"Partnrs\", \"verb\": \"raised\", \"object\": \"estimate\", \"importance\": 24}, {\"subject\": \"Partnrs\", \"verb\": \"Raises\", \"object\": \"Estimate\", \"importance\": 24}, {\"subject\": \"market\", \"verb\": \"reach\", \"object\": \"billion\", \"importance\": 24}], \"business_context\": []}"
+}
