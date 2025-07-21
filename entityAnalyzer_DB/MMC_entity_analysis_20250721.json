@@ -1,0 +1,107 @@
+{
+  "ticker": "MMC",
+  "timestamp": "2025-07-21T04:03:23.786180",
+  "companies": [
+    "Marsh & McLennan Companies, Inc.",
+    "MMC",
+    "Risk & Insurance Services",
+    "Zacks",
+    "BusinessWire",
+    "Reuters",
+    "Seeking Alpha",
+    "SA",
+    "BMO Capital",
+    "GuruFocus",
+    "Seeking Alpha’s",
+    "MSN Growth Outlook",
+    "SA Call",
+    "Wells Fargo",
+    "L1 Capital",
+    "AI Generated"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "finance",
+  "key_points": [
+    {
+      "text": "Positive Sentiment:\nAnalysts note strong Q2 performance with EPS up 11% and revenue up 12%, led by Risk & Insurance Services.\nZacks Q2 Earnings Beat\nPositive Sentiment:",
+      "importance_score": 45,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Marsh & McLennan Companies, Inc. (NYSE:MMC) saw its shares rise today as investors digested stronger-than-expected Q2 results, upbeat organic growth and acquisition momentum, partially offset by a price target cut and industry-cycle concerns.",
+      "importance_score": 44,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Positive Sentiment:\nMMC reported Q2 EPS of $2.72, beating consensus by $0.06 while revenue rose 12.1% year-over-year.",
+      "importance_score": 39,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Wells Fargo cut its price target on MMC from $229 to $226 and kept an Equal Weight rating.",
+      "importance_score": 34,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "BusinessWire highlights 12% revenue growth, 14% adjusted operating income increase and acquisition contributions in Q2.",
+      "importance_score": 31,
+      "sentiment": "positive"
+    }
+  ],
+  "money_amounts": [
+    "2.72",
+    "0.06",
+    "224",
+    "229",
+    "226"
+  ],
+  "important_dates": [
+    "today",
+    "Q2",
+    "year-over-year",
+    "quarterly",
+    "The Day",
+    "1+ days ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "investors",
+      "verb": "digested",
+      "object": "results",
+      "importance": 15
+    },
+    {
+      "subject": "Sentiment",
+      "verb": "reported",
+      "object": "EPS",
+      "importance": 12
+    },
+    {
+      "subject": "MMC",
+      "verb": "reported",
+      "object": "EPS",
+      "importance": 12
+    },
+    {
+      "subject": "MMC",
+      "verb": "Releases",
+      "object": "Results",
+      "importance": 3
+    },
+    {
+      "subject": "Analysts",
+      "verb": "note",
+      "object": "performance",
+      "importance": 16
+    }
+  ],
+  "business_context": [],
+  "compact_analysis": "{\"ticker\": \"MMC\", \"companies\": [\"Marsh & McLennan Companies, Inc.\", \"MMC\", \"Risk & Insurance Services\", \"Zacks\", \"BusinessWire\", \"Reuters\", \"Seeking Alpha\", \"SA\", \"BMO Capital\", \"GuruFocus\", \"Seeking Alpha’s\", \"MSN Growth Outlook\", \"SA Call\", \"Wells Fargo\", \"L1 Capital\", \"AI Generated\"], \"people\": [], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"finance\", \"key_points\": [{\"text\": \"Positive Sentiment:\\nAnalysts note strong Q2 performance with EPS up 11% and revenue up 12%, led by Risk & Insurance Services.\\nZacks Q2 Earnings Beat\\nPositive Sentiment:\", \"importance_score\": 45, \"sentiment\": \"positive\"}, {\"text\": \"Marsh & McLennan Companies, Inc. (NYSE:MMC) saw its shares rise today as investors digested stronger-than-expected Q2 results, upbeat organic growth and acquisition momentum, partially offset by a price target cut and industry-cycle concerns.\", \"importance_score\": 44, \"sentiment\": \"positive\"}, {\"text\": \"Positive Sentiment:\\nMMC reported Q2 EPS of $2.72, beating consensus by $0.06 while revenue rose 12.1% year-over-year.\", \"importance_score\": 39, \"sentiment\": \"positive\"}, {\"text\": \"Wells Fargo cut its price target on MMC from $229 to $226 and kept an Equal Weight rating.\", \"importance_score\": 34, \"sentiment\": \"neutral\"}, {\"text\": \"BusinessWire highlights 12% revenue growth, 14% adjusted operating income increase and acquisition contributions in Q2.\", \"importance_score\": 31, \"sentiment\": \"positive\"}], \"money_amounts\": [\"2.72\", \"0.06\", \"224\", \"229\", \"226\"], \"important_dates\": [\"today\", \"Q2\", \"year-over-year\", \"quarterly\", \"The Day\", \"1+ days ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"investors\", \"verb\": \"digested\", \"object\": \"results\", \"importance\": 15}, {\"subject\": \"Sentiment\", \"verb\": \"reported\", \"object\": \"EPS\", \"importance\": 12}, {\"subject\": \"MMC\", \"verb\": \"reported\", \"object\": \"EPS\", \"importance\": 12}, {\"subject\": \"MMC\", \"verb\": \"Releases\", \"object\": \"Results\", \"importance\": 3}, {\"subject\": \"Analysts\", \"verb\": \"note\", \"object\": \"performance\", \"importance\": 16}], \"business_context\": []}"
+}
