@@ -1,0 +1,88 @@
+{
+  "ticker": "GS",
+  "timestamp": "2025-07-21T07:37:59.400767",
+  "companies": [
+    "Goldman Sachs Group, Inc.",
+    "GS",
+    "Goldman Sachs",
+    "Goldman, Morgan Stanley,",
+    "Goldman, Morgan Stanley, & BofA",
+    "AI"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "neutral",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "“Goldman, Morgan Stanley, & BofA: Diverging Paths After Earnings” notes that although GS beat Q2 expectations with 15% revenue growth and trades near all-time highs, the muted stock reaction and predominance of Hold/Market Perform ratings suggest limited near-term upside.",
+      "importance_score": 52,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Neutral Sentiment:\n“How Goldman Sachs Earnings Help You Strategize Your Portfolio” highlights two key takeaways from GS’s Q2 report: merger & acquisition fees jumped 71% year-over-year—pointing to small/mid-cap deal opportunities—while record equity issuance (up 36%) may signal overstretched large-c",
+      "importance_score": 48,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Goldman, Morgan Stanley, & BofA: Diverging Paths After Earnings\nPosted 1+ days ago\nAI Generated.",
+      "importance_score": 38,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "The Goldman Sachs Group, Inc. (NYSE:GS) stock has increased as investors digest robust Q2 signals and broader market insights, though some caution on near-term upside remains.",
+      "importance_score": 28,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "How Goldman Sachs Earnings Help You Strategize Your Portfolio",
+      "importance_score": 14,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [],
+  "important_dates": [
+    "Q2",
+    "year-over-year",
+    "1+ days ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "investors",
+      "verb": "digest",
+      "object": "signals",
+      "importance": 9
+    },
+    {
+      "subject": "Sentiment",
+      "verb": "highlights",
+      "object": "takeaways",
+      "importance": 18
+    },
+    {
+      "subject": "You",
+      "verb": "Strategize",
+      "object": "How",
+      "importance": 18
+    },
+    {
+      "subject": "issuance",
+      "verb": "signal",
+      "object": "valuations",
+      "importance": 18
+    },
+    {
+      "subject": "You",
+      "verb": "Strategize",
+      "object": "Portfolio",
+      "importance": 4
+    }
+  ],
+  "business_context": [],
+  "compact_analysis": "{\"ticker\": \"GS\", \"companies\": [\"Goldman Sachs Group, Inc.\", \"GS\", \"Goldman Sachs\", \"Goldman, Morgan Stanley,\", \"Goldman, Morgan Stanley, & BofA\", \"AI\"], \"people\": [], \"sentiment\": {\"overall\": \"neutral\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"“Goldman, Morgan Stanley, & BofA: Diverging Paths After Earnings” notes that although GS beat Q2 expectations with 15% revenue growth and trades near all-time highs, the muted stock reaction and predominance of Hold/Market Perform ratings suggest limited near-term upside.\", \"importance_score\": 52, \"sentiment\": \"positive\"}, {\"text\": \"Neutral Sentiment:\\n“How Goldman Sachs Earnings Help You Strategize Your Portfolio” highlights two key takeaways from GS’s Q2 report: merger & acquisition fees jumped 71% year-over-year—pointing to small/mid-cap deal opportunities—while record equity issuance (up 36%) may signal overstretched large-c\", \"importance_score\": 48, \"sentiment\": \"neutral\"}, {\"text\": \"Goldman, Morgan Stanley, & BofA: Diverging Paths After Earnings\\nPosted 1+ days ago\\nAI Generated.\", \"importance_score\": 38, \"sentiment\": \"neutral\"}, {\"text\": \"The Goldman Sachs Group, Inc. (NYSE:GS) stock has increased as investors digest robust Q2 signals and broader market insights, though some caution on near-term upside remains.\", \"importance_score\": 28, \"sentiment\": \"neutral\"}, {\"text\": \"How Goldman Sachs Earnings Help You Strategize Your Portfolio\", \"importance_score\": 14, \"sentiment\": \"neutral\"}], \"money_amounts\": [], \"important_dates\": [\"Q2\", \"year-over-year\", \"1+ days ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"investors\", \"verb\": \"digest\", \"object\": \"signals\", \"importance\": 9}, {\"subject\": \"Sentiment\", \"verb\": \"highlights\", \"object\": \"takeaways\", \"importance\": 18}, {\"subject\": \"You\", \"verb\": \"Strategize\", \"object\": \"How\", \"importance\": 18}, {\"subject\": \"issuance\", \"verb\": \"signal\", \"object\": \"valuations\", \"importance\": 18}, {\"subject\": \"You\", \"verb\": \"Strategize\", \"object\": \"Portfolio\", \"importance\": 4}], \"business_context\": []}"
+}
