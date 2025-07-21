@@ -1,0 +1,107 @@
+{
+  "ticker": "QCOM",
+  "timestamp": "2025-07-21T09:48:29.316351",
+  "companies": [
+    "QUALCOMM Incorporated",
+    "QCOM",
+    "MarketBeat",
+    "Qualcomm",
+    "NASDAQ",
+    "QUALCOMM",
+    "Samsung",
+    "JPMorgan Chase & Co.",
+    "WSJ",
+    "Zacks Research",
+    "Zacks Research's"
+  ],
+  "people": [
+    "Cristiano Amon"
+  ],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "Positive Sentiment:\nQUALCOMM confirmed a $0.89 quarterly dividend for the September 2025 payout, representing a 2.30% yield.\nQUALCOMM (QCOM) Confirms US$0.89 Dividend for September 2025 Payout\nPositive Sentiment:\nThe Snapdragon 8 Elite mobile platform will power Samsung’s new Galaxy Z Fold7, reinfor",
+      "importance_score": 87,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Qualcomm CEO Shares the Company's Disruption Strategy\nNegative Sentiment:\nZacks Research trimmed its Q3 2025 EPS estimate for Qualcomm from $2.12 to $2.11, signaling slightly lower growth expectations.\nWhat is Zacks Research's Estimate for QUALCOMM Q3 Earnings?\nPosted 1+ days ago\nAI Generated.",
+      "importance_score": 82,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "QUALCOMM (NASDAQ:QCOM) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says\nNeutral Sentiment:\nQualcomm will host its Snapdragon XR Day on July 21 to showcase the latest in extended-reality and 5G innovation.\nQualcomm set to host Snapdragon XR Day on July 21:",
+      "importance_score": 65,
+      "sentiment": "positive"
+    },
+    {
+      "text": "JPMorgan Chase & Co. raised its price target on QCOM from $185 to $190 and kept an overweight rating, implying roughly 23% upside.",
+      "importance_score": 44,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "QUALCOMM Incorporated (NASDAQ:QCOM) is trading higher today on a mix of positive catalysts, including a dividend boost, product wins, and analyst upgrades, partly offset by a minor earnings estimate cut.",
+      "importance_score": 31,
+      "sentiment": "positive"
+    }
+  ],
+  "money_amounts": [
+    "0.89",
+    "US$0.89",
+    "185",
+    "190",
+    "2.12",
+    "2.11"
+  ],
+  "important_dates": [
+    "today",
+    "07/14 - 07/18",
+    "quarterly",
+    "September 2025",
+    "July 21",
+    "Q3 2025",
+    "Q3",
+    "1+ days ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Sentiment",
+      "verb": "highlighted",
+      "object": "Qualcomm",
+      "importance": 5
+    },
+    {
+      "subject": "MarketBeat",
+      "verb": "highlighted",
+      "object": "Qualcomm",
+      "importance": 5
+    },
+    {
+      "subject": "QUALCOMM",
+      "verb": "confirmed",
+      "object": "dividend",
+      "importance": 26
+    },
+    {
+      "subject": "QUALCOMM",
+      "verb": "Confirms",
+      "object": "Dividend",
+      "importance": 26
+    },
+    {
+      "subject": "platform",
+      "verb": "power",
+      "object": "Fold7",
+      "importance": 26
+    }
+  ],
+  "business_context": [],
+  "compact_analysis": "{\"ticker\": \"QCOM\", \"companies\": [\"QUALCOMM Incorporated\", \"QCOM\", \"MarketBeat\", \"Qualcomm\", \"NASDAQ\", \"QUALCOMM\", \"Samsung\", \"JPMorgan Chase & Co.\", \"WSJ\", \"Zacks Research\", \"Zacks Research's\"], \"people\": [\"Cristiano Amon\"], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"Positive Sentiment:\\nQUALCOMM confirmed a $0.89 quarterly dividend for the September 2025 payout, representing a 2.30% yield.\\nQUALCOMM (QCOM) Confirms US$0.89 Dividend for September 2025 Payout\\nPositive Sentiment:\\nThe Snapdragon 8 Elite mobile platform will power Samsung’s new Galaxy Z Fold7, reinfor\", \"importance_score\": 87, \"sentiment\": \"positive\"}, {\"text\": \"Qualcomm CEO Shares the Company's Disruption Strategy\\nNegative Sentiment:\\nZacks Research trimmed its Q3 2025 EPS estimate for Qualcomm from $2.12 to $2.11, signaling slightly lower growth expectations.\\nWhat is Zacks Research's Estimate for QUALCOMM Q3 Earnings?\\nPosted 1+ days ago\\nAI Generated.\", \"importance_score\": 82, \"sentiment\": \"neutral\"}, {\"text\": \"QUALCOMM (NASDAQ:QCOM) Stock Price Expected to Rise, JPMorgan Chase & Co. Analyst Says\\nNeutral Sentiment:\\nQualcomm will host its Snapdragon XR Day on July 21 to showcase the latest in extended-reality and 5G innovation.\\nQualcomm set to host Snapdragon XR Day on July 21:\", \"importance_score\": 65, \"sentiment\": \"positive\"}, {\"text\": \"JPMorgan Chase & Co. raised its price target on QCOM from $185 to $190 and kept an overweight rating, implying roughly 23% upside.\", \"importance_score\": 44, \"sentiment\": \"neutral\"}, {\"text\": \"QUALCOMM Incorporated (NASDAQ:QCOM) is trading higher today on a mix of positive catalysts, including a dividend boost, product wins, and analyst upgrades, partly offset by a minor earnings estimate cut.\", \"importance_score\": 31, \"sentiment\": \"positive\"}], \"money_amounts\": [\"0.89\", \"US$0.89\", \"185\", \"190\", \"2.12\", \"2.11\"], \"important_dates\": [\"today\", \"07/14 - 07/18\", \"quarterly\", \"September 2025\", \"July 21\", \"Q3 2025\", \"Q3\", \"1+ days ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Sentiment\", \"verb\": \"highlighted\", \"object\": \"Qualcomm\", \"importance\": 5}, {\"subject\": \"MarketBeat\", \"verb\": \"highlighted\", \"object\": \"Qualcomm\", \"importance\": 5}, {\"subject\": \"QUALCOMM\", \"verb\": \"confirmed\", \"object\": \"dividend\", \"importance\": 26}, {\"subject\": \"QUALCOMM\", \"verb\": \"Confirms\", \"object\": \"Dividend\", \"importance\": 26}, {\"subject\": \"platform\", \"verb\": \"power\", \"object\": \"Fold7\", \"importance\": 26}], \"business_context\": []}"
+}
