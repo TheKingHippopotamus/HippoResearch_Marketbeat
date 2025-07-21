@@ -1,0 +1,103 @@
+{
+  "ticker": "MTB",
+  "timestamp": "2025-07-21T04:37:44.386152",
+  "companies": [
+    "M&T Bank Corporation",
+    "MTB",
+    "DA Davidson",
+    "M&T Bank",
+    "M&T Bank's",
+    "Wells Fargo",
+    "Wells Fargo & Company"
+  ],
+  "people": [
+    "Tracy S. Woodrow",
+    "Tracy Woodrow"
+  ],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "M&T Bank Corporation Receives Consensus Recommendation of \"Moderate Buy\" from Analysts\nPositive Sentiment:\nA Zacks report spotlights MTB as an attractive dividend stock, highlighting its yield and payout consistency.\nWhy M&T Bank Corporation (MTB) is a Great Dividend Stock Right Now\nPositive Sentime",
+      "importance_score": 134,
+      "sentiment": "positive"
+    },
+    {
+      "text": "DA Davidson Weighs in on M&T Bank's Q3 Earnings\nNeutral Sentiment:\nMTB named Tracy S. Woodrow as Regional President for Western New York, reinforcing leadership continuity in a key market.\nM&T Bank Names Tracy Woodrow Regional President for Western New York\nNegative Sentiment:",
+      "importance_score": 62,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Wells Fargo & Company Increases M&T Bank Price Target to $185.00\nPosted 1+ days ago\nAI Generated.",
+      "importance_score": 41,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Positive Sentiment:\nDA Davidson raised its price target on MTB from $189.00 to $207.00, reflecting increased confidence in the bank's valuation.",
+      "importance_score": 34,
+      "sentiment": "positive"
+    },
+    {
+      "text": "M&T Bank (NYSE:MTB) Price Target Raised to $207.00 at DA Davidson\nPositive Sentiment:",
+      "importance_score": 32,
+      "sentiment": "positive"
+    }
+  ],
+  "money_amounts": [
+    "189.00",
+    "207.00",
+    "207.00",
+    "4.24",
+    "3.99",
+    "4.44",
+    "207.00",
+    "185.00",
+    "185.00"
+  ],
+  "important_dates": [
+    "Q2",
+    "Q2 2025",
+    "Q3",
+    "1+ days ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "that",
+      "verb": "influence",
+      "object": "sentiment",
+      "importance": 6
+    },
+    {
+      "subject": "Davidson",
+      "verb": "raised",
+      "object": "target",
+      "importance": 7
+    },
+    {
+      "subject": "Analysts",
+      "verb": "issued",
+      "object": "recommendation",
+      "importance": 3
+    },
+    {
+      "subject": "Corporation",
+      "verb": "Receives",
+      "object": "Recommendation",
+      "importance": 35
+    },
+    {
+      "subject": "report",
+      "verb": "spotlights",
+      "object": "MTB",
+      "importance": 35
+    }
+  ],
+  "business_context": [],
+  "compact_analysis": "{\"ticker\": \"MTB\", \"companies\": [\"M&T Bank Corporation\", \"MTB\", \"DA Davidson\", \"M&T Bank\", \"M&T Bank's\", \"Wells Fargo\", \"Wells Fargo & Company\"], \"people\": [\"Tracy S. Woodrow\", \"Tracy Woodrow\"], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"M&T Bank Corporation Receives Consensus Recommendation of \\\"Moderate Buy\\\" from Analysts\\nPositive Sentiment:\\nA Zacks report spotlights MTB as an attractive dividend stock, highlighting its yield and payout consistency.\\nWhy M&T Bank Corporation (MTB) is a Great Dividend Stock Right Now\\nPositive Sentime\", \"importance_score\": 134, \"sentiment\": \"positive\"}, {\"text\": \"DA Davidson Weighs in on M&T Bank's Q3 Earnings\\nNeutral Sentiment:\\nMTB named Tracy S. Woodrow as Regional President for Western New York, reinforcing leadership continuity in a key market.\\nM&T Bank Names Tracy Woodrow Regional President for Western New York\\nNegative Sentiment:\", \"importance_score\": 62, \"sentiment\": \"negative\"}, {\"text\": \"Wells Fargo & Company Increases M&T Bank Price Target to $185.00\\nPosted 1+ days ago\\nAI Generated.\", \"importance_score\": 41, \"sentiment\": \"neutral\"}, {\"text\": \"Positive Sentiment:\\nDA Davidson raised its price target on MTB from $189.00 to $207.00, reflecting increased confidence in the bank's valuation.\", \"importance_score\": 34, \"sentiment\": \"positive\"}, {\"text\": \"M&T Bank (NYSE:MTB) Price Target Raised to $207.00 at DA Davidson\\nPositive Sentiment:\", \"importance_score\": 32, \"sentiment\": \"positive\"}], \"money_amounts\": [\"189.00\", \"207.00\", \"207.00\", \"4.24\", \"3.99\", \"4.44\", \"207.00\", \"185.00\", \"185.00\"], \"important_dates\": [\"Q2\", \"Q2 2025\", \"Q3\", \"1+ days ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"that\", \"verb\": \"influence\", \"object\": \"sentiment\", \"importance\": 6}, {\"subject\": \"Davidson\", \"verb\": \"raised\", \"object\": \"target\", \"importance\": 7}, {\"subject\": \"Analysts\", \"verb\": \"issued\", \"object\": \"recommendation\", \"importance\": 3}, {\"subject\": \"Corporation\", \"verb\": \"Receives\", \"object\": \"Recommendation\", \"importance\": 35}, {\"subject\": \"report\", \"verb\": \"spotlights\", \"object\": \"MTB\", \"importance\": 35}], \"business_context\": []}"
+}
