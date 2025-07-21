@@ -1,0 +1,106 @@
+{
+  "ticker": "JPM",
+  "timestamp": "2025-07-21T08:04:07.873633",
+  "companies": [
+    "JPMorgan Chase & Co.",
+    "JPM",
+    "JPMorgan",
+    "OpenAI",
+    "Zacks",
+    "JPMorgan Chase",
+    "JPMorgan Asset Management",
+    "Cairn Homes",
+    "JPMorgan\nNeutral Sentiment",
+    "Disco",
+    "Trafigura",
+    "Ex-JPMorgan Metals",
+    "Phillip Securities",
+    "High Court",
+    "Viva Wallet",
+    "JP Morgan",
+    "Viva",
+    "AI Generated"
+  ],
+  "people": [
+    "Jim Cramer",
+    "Cleo Fields",
+    "Daniel Amsbury"
+  ],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "finance",
+  "key_points": [
+    {
+      "text": "JPMorgan Chase & Co. (JPM) Upgraded to Strong Buy: Here's Why\nPositive Sentiment:\nRepresentative Cleo Fields purchased between $15,001 and $50,000 of JPM stock, signaling insider confidence.",
+      "importance_score": 51,
+      "sentiment": "positive"
+    },
+    {
+      "text": "JPMorgan Chase & Co. (JPM): It’s The Best Of The Bunch Right Now, Says Jim Cramer\nPositive Sentiment:\nZacks upgraded JPMorgan to a “Strong Buy” (Rank #1), citing improving earnings prospects.",
+      "importance_score": 42,
+      "sentiment": "positive"
+    },
+    {
+      "text": "JP Morgan must stop Greek lawsuit against Viva directors, UK court rules\nPosted 1+ days ago\nAI Generated.",
+      "importance_score": 40,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "JPMorgan Chase & Co. (NYSE:JPM) Downgraded by Phillip Securities to \"Hold\"\nNegative Sentiment:",
+      "importance_score": 29,
+      "sentiment": "negative"
+    },
+    {
+      "text": "London’s High Court ruled that JPMorgan must halt its lawsuit against directors of Greek fintech Viva Wallet, marking a legal setback.",
+      "importance_score": 29,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "between $15,001 and $50,000"
+  ],
+  "important_dates": [
+    "today",
+    "Q2",
+    "1+ days ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "drivers",
+      "verb": "include",
+      "object": "expansions",
+      "importance": 2
+    },
+    {
+      "subject": "JPMorgan",
+      "verb": "eyes",
+      "object": "frontier",
+      "importance": 4
+    },
+    {
+      "subject": "Cramer",
+      "verb": "singled",
+      "object": "JPMorgan",
+      "importance": 4
+    },
+    {
+      "subject": "Zacks",
+      "verb": "upgraded",
+      "object": "JPMorgan",
+      "importance": 12
+    },
+    {
+      "subject": "Chase",
+      "verb": "purchased",
+      "object": "15,001",
+      "importance": 16
+    }
+  ],
+  "business_context": [],
+  "compact_analysis": "{\"ticker\": \"JPM\", \"companies\": [\"JPMorgan Chase & Co.\", \"JPM\", \"JPMorgan\", \"OpenAI\", \"Zacks\", \"JPMorgan Chase\", \"JPMorgan Asset Management\", \"Cairn Homes\", \"JPMorgan\\nNeutral Sentiment\", \"Disco\", \"Trafigura\", \"Ex-JPMorgan Metals\", \"Phillip Securities\", \"High Court\", \"Viva Wallet\", \"JP Morgan\", \"Viva\", \"AI Generated\"], \"people\": [\"Jim Cramer\", \"Cleo Fields\", \"Daniel Amsbury\"], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"finance\", \"key_points\": [{\"text\": \"JPMorgan Chase & Co. (JPM) Upgraded to Strong Buy: Here's Why\\nPositive Sentiment:\\nRepresentative Cleo Fields purchased between $15,001 and $50,000 of JPM stock, signaling insider confidence.\", \"importance_score\": 51, \"sentiment\": \"positive\"}, {\"text\": \"JPMorgan Chase & Co. (JPM): It’s The Best Of The Bunch Right Now, Says Jim Cramer\\nPositive Sentiment:\\nZacks upgraded JPMorgan to a “Strong Buy” (Rank #1), citing improving earnings prospects.\", \"importance_score\": 42, \"sentiment\": \"positive\"}, {\"text\": \"JP Morgan must stop Greek lawsuit against Viva directors, UK court rules\\nPosted 1+ days ago\\nAI Generated.\", \"importance_score\": 40, \"sentiment\": \"neutral\"}, {\"text\": \"JPMorgan Chase & Co. (NYSE:JPM) Downgraded by Phillip Securities to \\\"Hold\\\"\\nNegative Sentiment:\", \"importance_score\": 29, \"sentiment\": \"negative\"}, {\"text\": \"London’s High Court ruled that JPMorgan must halt its lawsuit against directors of Greek fintech Viva Wallet, marking a legal setback.\", \"importance_score\": 29, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"between $15,001 and $50,000\"], \"important_dates\": [\"today\", \"Q2\", \"1+ days ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"drivers\", \"verb\": \"include\", \"object\": \"expansions\", \"importance\": 2}, {\"subject\": \"JPMorgan\", \"verb\": \"eyes\", \"object\": \"frontier\", \"importance\": 4}, {\"subject\": \"Cramer\", \"verb\": \"singled\", \"object\": \"JPMorgan\", \"importance\": 4}, {\"subject\": \"Zacks\", \"verb\": \"upgraded\", \"object\": \"JPMorgan\", \"importance\": 12}, {\"subject\": \"Chase\", \"verb\": \"purchased\", \"object\": \"15,001\", \"importance\": 16}], \"business_context\": []}"
+}
