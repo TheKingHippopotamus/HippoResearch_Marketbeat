@@ -1,0 +1,108 @@
+{
+  "ticker": "MA",
+  "timestamp": "2025-07-21T09:57:30.178490",
+  "companies": [
+    "Mastercard Incorporated",
+    "MA",
+    "Seaport Res Ptn",
+    "Mastercard",
+    "Deutsche Bank",
+    "Royal Bank of Canada",
+    "Fiserv",
+    "PhotonPay",
+    "Zacks",
+    "PayPal",
+    "PYPL",
+    "MA Attracting Investor Attention",
+    "Visa",
+    "Türkiye",
+    "Turkiye",
+    "Truist Financial"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "finance",
+  "key_points": [
+    {
+      "text": "Seaport Res Ptn Raises Earnings Estimates for Mastercard\nPositive Sentiment:\nDeutsche Bank initiated coverage with a “Buy” rating and $650 price target on MA, implying roughly 17.6% upside.",
+      "importance_score": 55,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Positive Sentiment:\nSeaport Res Ptn raised its FY2025 EPS estimate to $15.94 (from $15.86) and boosted Q2 EPS to $4.10, maintaining a “Strong-Buy” rating on MA.",
+      "importance_score": 50,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Turkiye Probes Mastercard\nNegative Sentiment:\nTruist Financial trimmed its price target on MA from $640 to $612, reflecting more cautious near-term expectations.",
+      "importance_score": 37,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Royal Bank of Canada assigned an “Outperform” rating on MA, reinforcing bullish analyst sentiment.",
+      "importance_score": 27,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Mastercard Redefines Experience-Driven Benefits\nNeutral Sentiment:\nZacks compared MA’s valuation to PayPal’s to gauge relative appeal for value investors.",
+      "importance_score": 27,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "15.94",
+    "15.86",
+    "4.10",
+    "650",
+    "640",
+    "612",
+    "612"
+  ],
+  "important_dates": [
+    "today",
+    "FY2025",
+    "Q2",
+    "year-to-date",
+    "1+ days ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Ptn",
+      "verb": "raised",
+      "object": "estimate",
+      "importance": 12
+    },
+    {
+      "subject": "Ptn",
+      "verb": "Raises",
+      "object": "Estimates",
+      "importance": 15
+    },
+    {
+      "subject": "Bank",
+      "verb": "initiated",
+      "object": "coverage",
+      "importance": 15
+    },
+    {
+      "subject": "MA",
+      "verb": "Earns",
+      "object": "Rating",
+      "importance": 6
+    },
+    {
+      "subject": "Bank",
+      "verb": "assigned",
+      "object": "rating",
+      "importance": 8
+    }
+  ],
+  "business_context": [],
+  "compact_analysis": "{\"ticker\": \"MA\", \"companies\": [\"Mastercard Incorporated\", \"MA\", \"Seaport Res Ptn\", \"Mastercard\", \"Deutsche Bank\", \"Royal Bank of Canada\", \"Fiserv\", \"PhotonPay\", \"Zacks\", \"PayPal\", \"PYPL\", \"MA Attracting Investor Attention\", \"Visa\", \"Türkiye\", \"Turkiye\", \"Truist Financial\"], \"people\": [], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"finance\", \"key_points\": [{\"text\": \"Seaport Res Ptn Raises Earnings Estimates for Mastercard\\nPositive Sentiment:\\nDeutsche Bank initiated coverage with a “Buy” rating and $650 price target on MA, implying roughly 17.6% upside.\", \"importance_score\": 55, \"sentiment\": \"positive\"}, {\"text\": \"Positive Sentiment:\\nSeaport Res Ptn raised its FY2025 EPS estimate to $15.94 (from $15.86) and boosted Q2 EPS to $4.10, maintaining a “Strong-Buy” rating on MA.\", \"importance_score\": 50, \"sentiment\": \"positive\"}, {\"text\": \"Turkiye Probes Mastercard\\nNegative Sentiment:\\nTruist Financial trimmed its price target on MA from $640 to $612, reflecting more cautious near-term expectations.\", \"importance_score\": 37, \"sentiment\": \"negative\"}, {\"text\": \"Royal Bank of Canada assigned an “Outperform” rating on MA, reinforcing bullish analyst sentiment.\", \"importance_score\": 27, \"sentiment\": \"neutral\"}, {\"text\": \"Mastercard Redefines Experience-Driven Benefits\\nNeutral Sentiment:\\nZacks compared MA’s valuation to PayPal’s to gauge relative appeal for value investors.\", \"importance_score\": 27, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"15.94\", \"15.86\", \"4.10\", \"650\", \"640\", \"612\", \"612\"], \"important_dates\": [\"today\", \"FY2025\", \"Q2\", \"year-to-date\", \"1+ days ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Ptn\", \"verb\": \"raised\", \"object\": \"estimate\", \"importance\": 12}, {\"subject\": \"Ptn\", \"verb\": \"Raises\", \"object\": \"Estimates\", \"importance\": 15}, {\"subject\": \"Bank\", \"verb\": \"initiated\", \"object\": \"coverage\", \"importance\": 15}, {\"subject\": \"MA\", \"verb\": \"Earns\", \"object\": \"Rating\", \"importance\": 6}, {\"subject\": \"Bank\", \"verb\": \"assigned\", \"object\": \"rating\", \"importance\": 8}], \"business_context\": []}"
+}
