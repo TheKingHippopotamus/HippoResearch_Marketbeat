@@ -1,0 +1,126 @@
+{
+  "ticker": "BLK",
+  "timestamp": "2025-07-21T04:17:00.583017",
+  "companies": [
+    "BlackRock",
+    "BLK",
+    "Saudi Aramco’s",
+    "Aramco Jafurah",
+    "iShares Ethereum Trust",
+    "SEC",
+    "Eni",
+    "GIP",
+    "Wells Fargo & Company",
+    "Arkham",
+    "Ethereum",
+    "James Hardie Industries",
+    "Johnson Matthey",
+    "BlackRock, Inc.",
+    "Iron Mountain",
+    "Nvidia",
+    "AMD",
+    "Newmont",
+    "More",
+    "Circle",
+    "Second Quarter 2025",
+    "Panama Ports"
+  ],
+  "people": [
+    "Jim Cramer"
+  ],
+  "sentiment": {
+    "overall": "neutral",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "BlackRock Seeks Staking Option for iShares Ethereum Trust in New Filing\nPositive Sentiment:\nEni deal with BlackRock’s GIP values the carbon unit at €1 billion, underscoring growth in sustainable infrastructure.\nEni deal with BlackRock’s GIP to value carbon unit at €1B\nPositive Sentiment:",
+      "importance_score": 82,
+      "sentiment": "positive"
+    },
+    {
+      "text": "James Hardie Industries Sees BlackRock’s Stake Rise Above 6% in July 2025\nNeutral Sentiment:\nBlackRock raises its holding in Johnson Matthey to just over 5%, reflecting portfolio adjustments.\nBlackRock Increases Stake in Johnson Matthey to 5%\nNeutral Sentiment:",
+      "importance_score": 69,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Positive Sentiment:\nBlackRock hits a record $12.5 trillion in assets under management as crypto ETFs see explosive inflows.\nBlackRock Hits Record $12.5 Trillion AUM as Crypto ETFs Explode\nPositive Sentiment:\nBlackRock moves to add staking to its iShares Ethereum Trust, aiming to boost returns amid a",
+      "importance_score": 56,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Jim Cramer notes BLK “had been the hottest” stock coming into the quarter, highlighting market enthusiasm.\nBlackRock, Inc. (BLK) “Had Been The Hottest Coming Into The Quarter,” Says Jim Cramer\nNeutral Sentiment:",
+      "importance_score": 44,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Positive Sentiment:\nBlackRock-led consortium to invest $10 billion in Saudi Aramco’s Jafurah gas project supports expansion in energy infrastructure.\nExclusive:",
+      "importance_score": 35,
+      "sentiment": "positive"
+    }
+  ],
+  "money_amounts": [
+    "$10 billion",
+    "$12.5 trillion",
+    "$12.5 Trillion",
+    "€1 billion",
+    "1B",
+    "1,170",
+    "1,170.00",
+    "$22.8 billion",
+    "$22.8B Panama"
+  ],
+  "important_dates": [
+    "quarterly",
+    "July 2025",
+    "the quarter",
+    "The Quarter",
+    "one-year",
+    "1-Year",
+    "today",
+    "Q2",
+    "quarter",
+    "Quarter",
+    "Today",
+    "07/17/2025",
+    "1+ days ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Investors",
+      "verb": "note",
+      "object": "developments",
+      "importance": 2
+    },
+    {
+      "subject": "catalysts",
+      "verb": "include",
+      "object": "deals",
+      "importance": 5
+    },
+    {
+      "subject": "consortium",
+      "verb": "supports",
+      "object": "expansion",
+      "importance": 10
+    },
+    {
+      "subject": "BlackRock",
+      "verb": "hits",
+      "object": "record",
+      "importance": 13
+    },
+    {
+      "subject": "ETFs",
+      "verb": "see",
+      "object": "inflows",
+      "importance": 13
+    }
+  ],
+  "business_context": [],
+  "compact_analysis": "{\"ticker\": \"BLK\", \"companies\": [\"BlackRock\", \"BLK\", \"Saudi Aramco’s\", \"Aramco Jafurah\", \"iShares Ethereum Trust\", \"SEC\", \"Eni\", \"GIP\", \"Wells Fargo & Company\", \"Arkham\", \"Ethereum\", \"James Hardie Industries\", \"Johnson Matthey\", \"BlackRock, Inc.\", \"Iron Mountain\", \"Nvidia\", \"AMD\", \"Newmont\", \"More\", \"Circle\", \"Second Quarter 2025\", \"Panama Ports\"], \"people\": [\"Jim Cramer\"], \"sentiment\": {\"overall\": \"neutral\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"BlackRock Seeks Staking Option for iShares Ethereum Trust in New Filing\\nPositive Sentiment:\\nEni deal with BlackRock’s GIP values the carbon unit at €1 billion, underscoring growth in sustainable infrastructure.\\nEni deal with BlackRock’s GIP to value carbon unit at €1B\\nPositive Sentiment:\", \"importance_score\": 82, \"sentiment\": \"positive\"}, {\"text\": \"James Hardie Industries Sees BlackRock’s Stake Rise Above 6% in July 2025\\nNeutral Sentiment:\\nBlackRock raises its holding in Johnson Matthey to just over 5%, reflecting portfolio adjustments.\\nBlackRock Increases Stake in Johnson Matthey to 5%\\nNeutral Sentiment:\", \"importance_score\": 69, \"sentiment\": \"positive\"}, {\"text\": \"Positive Sentiment:\\nBlackRock hits a record $12.5 trillion in assets under management as crypto ETFs see explosive inflows.\\nBlackRock Hits Record $12.5 Trillion AUM as Crypto ETFs Explode\\nPositive Sentiment:\\nBlackRock moves to add staking to its iShares Ethereum Trust, aiming to boost returns amid a\", \"importance_score\": 56, \"sentiment\": \"positive\"}, {\"text\": \"Jim Cramer notes BLK “had been the hottest” stock coming into the quarter, highlighting market enthusiasm.\\nBlackRock, Inc. (BLK) “Had Been The Hottest Coming Into The Quarter,” Says Jim Cramer\\nNeutral Sentiment:\", \"importance_score\": 44, \"sentiment\": \"neutral\"}, {\"text\": \"Positive Sentiment:\\nBlackRock-led consortium to invest $10 billion in Saudi Aramco’s Jafurah gas project supports expansion in energy infrastructure.\\nExclusive:\", \"importance_score\": 35, \"sentiment\": \"positive\"}], \"money_amounts\": [\"$10 billion\", \"$12.5 trillion\", \"$12.5 Trillion\", \"€1 billion\", \"1B\", \"1,170\", \"1,170.00\", \"$22.8 billion\", \"$22.8B Panama\"], \"important_dates\": [\"quarterly\", \"July 2025\", \"the quarter\", \"The Quarter\", \"one-year\", \"1-Year\", \"today\", \"Q2\", \"quarter\", \"Quarter\", \"Today\", \"07/17/2025\", \"1+ days ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Investors\", \"verb\": \"note\", \"object\": \"developments\", \"importance\": 2}, {\"subject\": \"catalysts\", \"verb\": \"include\", \"object\": \"deals\", \"importance\": 5}, {\"subject\": \"consortium\", \"verb\": \"supports\", \"object\": \"expansion\", \"importance\": 10}, {\"subject\": \"BlackRock\", \"verb\": \"hits\", \"object\": \"record\", \"importance\": 13}, {\"subject\": \"ETFs\", \"verb\": \"see\", \"object\": \"inflows\", \"importance\": 13}], \"business_context\": []}"
+}
