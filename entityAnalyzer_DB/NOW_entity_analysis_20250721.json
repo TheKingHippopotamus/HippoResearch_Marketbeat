@@ -1,0 +1,111 @@
+{
+  "ticker": "NOW",
+  "timestamp": "2025-07-21T03:36:37.563303",
+  "companies": [
+    "ServiceNow, Inc.",
+    "NOW",
+    "ServiceNow India’s",
+    "ServiceNow India",
+    "Bank of America",
+    "ServiceNow",
+    "BofA Securities",
+    "BofA",
+    "Cantor Fitzgerald",
+    "B of A Securities",
+    "MarketBeat",
+    "Zacks",
+    "Guggenheim",
+    "Moveworks",
+    "AI Generated"
+  ],
+  "people": [
+    "Bradley Sills",
+    "John McGuire"
+  ],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "ServiceNow stock price target raised to $1,100 by BofA on AI growth\nPositive Sentiment:\nCantor Fitzgerald boosted its ServiceNow price target to $1,200, citing a strong Q2 setup and sustained momentum in enterprise AI spending.",
+      "importance_score": 63,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Bank of America raised its ServiceNow price target from $1,085 to $1,110 and reiterated a “buy” rating, citing strong AI-driven growth prospects.",
+      "importance_score": 45,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Guggenheim Reaffirms \"Sell\" Rating for ServiceNow (NYSE:NOW)\nPosted 1+ days ago\nAI Generated.",
+      "importance_score": 43,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "BofA Securities analyst Bradley Sills reiterated a Buy rating and raised his ServiceNow price objective, highlighting the company’s strong market position and AI initiatives.",
+      "importance_score": 36,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Analysts at Bank of America lifted their ServiceNow target to $1,100, reinforcing optimism around the company’s AI-driven revenue expansion.",
+      "importance_score": 35,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "1,085",
+    "1,110",
+    "1,100",
+    "1,100",
+    "1,200",
+    "1,200",
+    "between $1K and $15",
+    "724"
+  ],
+  "important_dates": [
+    "today",
+    "Q2",
+    "Today",
+    "July 17th",
+    "1+ days ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Inc.",
+      "verb": "seen",
+      "object": "flurry",
+      "importance": 7
+    },
+    {
+      "subject": "upgrades",
+      "verb": "influencing",
+      "object": "sentiment",
+      "importance": 4
+    },
+    {
+      "subject": "India",
+      "verb": "hopes",
+      "object": "Sentiment",
+      "importance": 4
+    },
+    {
+      "subject": "Bank",
+      "verb": "raised",
+      "object": "target",
+      "importance": 11
+    },
+    {
+      "subject": "Bank",
+      "verb": "Issues",
+      "object": "Forecast",
+      "importance": 7
+    }
+  ],
+  "business_context": [],
+  "compact_analysis": "{\"ticker\": \"NOW\", \"companies\": [\"ServiceNow, Inc.\", \"NOW\", \"ServiceNow India’s\", \"ServiceNow India\", \"Bank of America\", \"ServiceNow\", \"BofA Securities\", \"BofA\", \"Cantor Fitzgerald\", \"B of A Securities\", \"MarketBeat\", \"Zacks\", \"Guggenheim\", \"Moveworks\", \"AI Generated\"], \"people\": [\"Bradley Sills\", \"John McGuire\"], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"ServiceNow stock price target raised to $1,100 by BofA on AI growth\\nPositive Sentiment:\\nCantor Fitzgerald boosted its ServiceNow price target to $1,200, citing a strong Q2 setup and sustained momentum in enterprise AI spending.\", \"importance_score\": 63, \"sentiment\": \"positive\"}, {\"text\": \"Bank of America raised its ServiceNow price target from $1,085 to $1,110 and reiterated a “buy” rating, citing strong AI-driven growth prospects.\", \"importance_score\": 45, \"sentiment\": \"positive\"}, {\"text\": \"Guggenheim Reaffirms \\\"Sell\\\" Rating for ServiceNow (NYSE:NOW)\\nPosted 1+ days ago\\nAI Generated.\", \"importance_score\": 43, \"sentiment\": \"neutral\"}, {\"text\": \"BofA Securities analyst Bradley Sills reiterated a Buy rating and raised his ServiceNow price objective, highlighting the company’s strong market position and AI initiatives.\", \"importance_score\": 36, \"sentiment\": \"positive\"}, {\"text\": \"Analysts at Bank of America lifted their ServiceNow target to $1,100, reinforcing optimism around the company’s AI-driven revenue expansion.\", \"importance_score\": 35, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"1,085\", \"1,110\", \"1,100\", \"1,100\", \"1,200\", \"1,200\", \"between $1K and $15\", \"724\"], \"important_dates\": [\"today\", \"Q2\", \"Today\", \"July 17th\", \"1+ days ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Inc.\", \"verb\": \"seen\", \"object\": \"flurry\", \"importance\": 7}, {\"subject\": \"upgrades\", \"verb\": \"influencing\", \"object\": \"sentiment\", \"importance\": 4}, {\"subject\": \"India\", \"verb\": \"hopes\", \"object\": \"Sentiment\", \"importance\": 4}, {\"subject\": \"Bank\", \"verb\": \"raised\", \"object\": \"target\", \"importance\": 11}, {\"subject\": \"Bank\", \"verb\": \"Issues\", \"object\": \"Forecast\", \"importance\": 7}], \"business_context\": []}"
+}
