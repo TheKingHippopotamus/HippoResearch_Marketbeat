@@ -1,0 +1,102 @@
+{
+  "ticker": "FDX",
+  "timestamp": "2025-07-21T07:13:50.196398",
+  "companies": [
+    "FedEx Corporation",
+    "FDX",
+    "Zacks Research",
+    "FedEx",
+    "Direct Relief",
+    "FedEx Tech",
+    "FedEx Technology",
+    "AI"
+  ],
+  "people": [
+    "Sriram Krishnasamy"
+  ],
+  "sentiment": {
+    "overall": "neutral",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "FedEx Delivers Critical Aid to Texas Flood Victims\nDirect Relief and FedEx Respond to Texas Flooding\nNeutral Sentiment:\nBrokers have issued forecasts ahead of FedEx’s Q1 results, providing varied outlooks that keep investor focus on upcoming earnings.\nBrokers Offer Predictions for FedEx's Q1 Earning",
+      "importance_score": 49,
+      "sentiment": "negative"
+    },
+    {
+      "text": "FedEx Tech, Transformation Chief Abruptly Exits\nFedEx Executive Steps Down, Moves into Advisory Role\nFedEx Technology Chief Departs After Internal Probe\nPosted 1+ days ago\nAI Generated.",
+      "importance_score": 42,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Positive Sentiment:\nZacks Research raised its FY2026 EPS forecast for FDX to $16.75 from $16.04, signaling stronger expected earnings growth.",
+      "importance_score": 39,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Zacks Research lowered its Q1 FY2026 EPS estimate for FDX to $3.70 from $3.86, reflecting softer near-term profitability expectations.",
+      "importance_score": 35,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "FedEx narrowed its full-year forecast, prompting concerns about revenue growth and sinking the stock.",
+      "importance_score": 24,
+      "sentiment": "positive"
+    }
+  ],
+  "money_amounts": [
+    "16.75",
+    "16.04",
+    "3.70",
+    "3.86"
+  ],
+  "important_dates": [
+    "today",
+    "FY2026",
+    "Q1",
+    "Q1 FY2026",
+    "Q1 Earnings",
+    "full-year",
+    "Full-Year",
+    "1+ days ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Corporation",
+      "verb": "experiencing",
+      "object": "sentiment",
+      "importance": 4
+    },
+    {
+      "subject": "analysts",
+      "verb": "lifted",
+      "object": "forecasts",
+      "importance": 1
+    },
+    {
+      "subject": "efforts",
+      "verb": "highlighting",
+      "object": "strengths",
+      "importance": 1
+    },
+    {
+      "subject": "Research",
+      "verb": "raised",
+      "object": "forecast",
+      "importance": 9
+    },
+    {
+      "subject": "Research",
+      "verb": "Has",
+      "object": "Estimate",
+      "importance": 6
+    }
+  ],
+  "business_context": [],
+  "compact_analysis": "{\"ticker\": \"FDX\", \"companies\": [\"FedEx Corporation\", \"FDX\", \"Zacks Research\", \"FedEx\", \"Direct Relief\", \"FedEx Tech\", \"FedEx Technology\", \"AI\"], \"people\": [\"Sriram Krishnasamy\"], \"sentiment\": {\"overall\": \"neutral\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"FedEx Delivers Critical Aid to Texas Flood Victims\\nDirect Relief and FedEx Respond to Texas Flooding\\nNeutral Sentiment:\\nBrokers have issued forecasts ahead of FedEx’s Q1 results, providing varied outlooks that keep investor focus on upcoming earnings.\\nBrokers Offer Predictions for FedEx's Q1 Earning\", \"importance_score\": 49, \"sentiment\": \"negative\"}, {\"text\": \"FedEx Tech, Transformation Chief Abruptly Exits\\nFedEx Executive Steps Down, Moves into Advisory Role\\nFedEx Technology Chief Departs After Internal Probe\\nPosted 1+ days ago\\nAI Generated.\", \"importance_score\": 42, \"sentiment\": \"neutral\"}, {\"text\": \"Positive Sentiment:\\nZacks Research raised its FY2026 EPS forecast for FDX to $16.75 from $16.04, signaling stronger expected earnings growth.\", \"importance_score\": 39, \"sentiment\": \"positive\"}, {\"text\": \"Zacks Research lowered its Q1 FY2026 EPS estimate for FDX to $3.70 from $3.86, reflecting softer near-term profitability expectations.\", \"importance_score\": 35, \"sentiment\": \"neutral\"}, {\"text\": \"FedEx narrowed its full-year forecast, prompting concerns about revenue growth and sinking the stock.\", \"importance_score\": 24, \"sentiment\": \"positive\"}], \"money_amounts\": [\"16.75\", \"16.04\", \"3.70\", \"3.86\"], \"important_dates\": [\"today\", \"FY2026\", \"Q1\", \"Q1 FY2026\", \"Q1 Earnings\", \"full-year\", \"Full-Year\", \"1+ days ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Corporation\", \"verb\": \"experiencing\", \"object\": \"sentiment\", \"importance\": 4}, {\"subject\": \"analysts\", \"verb\": \"lifted\", \"object\": \"forecasts\", \"importance\": 1}, {\"subject\": \"efforts\", \"verb\": \"highlighting\", \"object\": \"strengths\", \"importance\": 1}, {\"subject\": \"Research\", \"verb\": \"raised\", \"object\": \"forecast\", \"importance\": 9}, {\"subject\": \"Research\", \"verb\": \"Has\", \"object\": \"Estimate\", \"importance\": 6}], \"business_context\": []}"
+}
