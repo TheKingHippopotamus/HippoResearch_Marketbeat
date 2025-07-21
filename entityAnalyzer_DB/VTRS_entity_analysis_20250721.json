@@ -1,0 +1,91 @@
+{
+  "ticker": "VTRS",
+  "timestamp": "2025-07-21T03:54:07.370599",
+  "companies": [
+    "Viatris Inc.",
+    "VTRS",
+    "Viatris",
+    "Benzinga",
+    "MSN",
+    "Reuters",
+    "Barron’s",
+    "PR Newswire"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "negative",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "healthcare",
+  "key_points": [
+    {
+      "text": "Earlier Reuters coverage also detailed the failure of the ophthalmic ointment to meet its late-stage trial goal, pressuring shares.\nViatris eye therapy fails to meet late-stage trial goal\nNegative Sentiment:\nThe PR Newswire release reiterated that the MR-139 Phase 3 study did not achieve its primary",
+      "importance_score": 46,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Positive Sentiment:\nViatris announced positive top-line results from its VEGA-3 Phase 3 trial, showing strong efficacy data for its cardiovascular therapy.\nViatris (VTRS) Announces Positive Top-line Results from VEGA-3\nNegative Sentiment:\nViatris provided an update on its Phase 3 MR-139 study for bl",
+      "importance_score": 37,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Why Viatris (VTRS) Stock Is Falling Today\nPosted 1+ days ago\nAI Generated.",
+      "importance_score": 28,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Viatris eye ointment fails late-stage study, shares fall\nNegative Sentiment:\nMSN notes shares dipped after the blepharitis treatment failed to hit its main study goal, weighing on the stock.\nViatris Shares Dip After Blepharitis Treatment Fails to Hit Main Study Goal\nNegative Sentiment:",
+      "importance_score": 21,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Viatris Provides Update on Phase 3 Study of MR-139 for Blepharitis\nNegative Sentiment:\nBenzinga reports Viatris has hit a snag in its eye drug study, putting its Phase 3 plans for MR-139 under review amid efficacy shortfalls.",
+      "importance_score": 20,
+      "sentiment": "negative"
+    }
+  ],
+  "money_amounts": [],
+  "important_dates": [
+    "today",
+    "six weeks",
+    "Today",
+    "1+ days ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "results",
+      "verb": "driving",
+      "object": "movement",
+      "importance": 3
+    },
+    {
+      "subject": "Sentiment",
+      "verb": "provided",
+      "object": "update",
+      "importance": 9
+    },
+    {
+      "subject": "Viatris",
+      "verb": "announced",
+      "object": "results",
+      "importance": 9
+    },
+    {
+      "subject": "Viatris",
+      "verb": "Announces",
+      "object": "Results",
+      "importance": 9
+    },
+    {
+      "subject": "Viatris",
+      "verb": "provided",
+      "object": "update",
+      "importance": 9
+    }
+  ],
+  "business_context": [],
+  "compact_analysis": "{\"ticker\": \"VTRS\", \"companies\": [\"Viatris Inc.\", \"VTRS\", \"Viatris\", \"Benzinga\", \"MSN\", \"Reuters\", \"Barron’s\", \"PR Newswire\"], \"people\": [], \"sentiment\": {\"overall\": \"negative\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"healthcare\", \"key_points\": [{\"text\": \"Earlier Reuters coverage also detailed the failure of the ophthalmic ointment to meet its late-stage trial goal, pressuring shares.\\nViatris eye therapy fails to meet late-stage trial goal\\nNegative Sentiment:\\nThe PR Newswire release reiterated that the MR-139 Phase 3 study did not achieve its primary\", \"importance_score\": 46, \"sentiment\": \"negative\"}, {\"text\": \"Positive Sentiment:\\nViatris announced positive top-line results from its VEGA-3 Phase 3 trial, showing strong efficacy data for its cardiovascular therapy.\\nViatris (VTRS) Announces Positive Top-line Results from VEGA-3\\nNegative Sentiment:\\nViatris provided an update on its Phase 3 MR-139 study for bl\", \"importance_score\": 37, \"sentiment\": \"positive\"}, {\"text\": \"Why Viatris (VTRS) Stock Is Falling Today\\nPosted 1+ days ago\\nAI Generated.\", \"importance_score\": 28, \"sentiment\": \"neutral\"}, {\"text\": \"Viatris eye ointment fails late-stage study, shares fall\\nNegative Sentiment:\\nMSN notes shares dipped after the blepharitis treatment failed to hit its main study goal, weighing on the stock.\\nViatris Shares Dip After Blepharitis Treatment Fails to Hit Main Study Goal\\nNegative Sentiment:\", \"importance_score\": 21, \"sentiment\": \"negative\"}, {\"text\": \"Viatris Provides Update on Phase 3 Study of MR-139 for Blepharitis\\nNegative Sentiment:\\nBenzinga reports Viatris has hit a snag in its eye drug study, putting its Phase 3 plans for MR-139 under review amid efficacy shortfalls.\", \"importance_score\": 20, \"sentiment\": \"negative\"}], \"money_amounts\": [], \"important_dates\": [\"today\", \"six weeks\", \"Today\", \"1+ days ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"results\", \"verb\": \"driving\", \"object\": \"movement\", \"importance\": 3}, {\"subject\": \"Sentiment\", \"verb\": \"provided\", \"object\": \"update\", \"importance\": 9}, {\"subject\": \"Viatris\", \"verb\": \"announced\", \"object\": \"results\", \"importance\": 9}, {\"subject\": \"Viatris\", \"verb\": \"Announces\", \"object\": \"Results\", \"importance\": 9}, {\"subject\": \"Viatris\", \"verb\": \"provided\", \"object\": \"update\", \"importance\": 9}], \"business_context\": []}"
+}
