@@ -1,0 +1,105 @@
+{
+  "ticker": "CNP",
+  "timestamp": "2025-07-21T10:18:05.207929",
+  "companies": [
+    "CenterPoint Energy, Inc.",
+    "CNP",
+    "Zacks Research",
+    "CenterPoint Energy",
+    "Zacks",
+    "CenterPoint",
+    "Bank of America",
+    "BofA",
+    "Yahoo Finance"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "neutral",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "Zacks Research Issues Pessimistic Estimate for CNP Earnings\nNeutral Sentiment:\nCNP is set to report Q2 2025 earnings before the market opens on July 24, providing the next major catalyst.\nCenterPoint Energy (CNP) Expected to Announce Quarterly Earnings on Thursday\nNeutral Sentiment:\nZacks preview ar",
+      "importance_score": 161,
+      "sentiment": "positive"
+    },
+    {
+      "text": "CenterPoint Energy, Inc. Declares Quarterly Dividend of $0.22 (NYSE:CNP)\nPositive Sentiment:\nZacks Research raised its Q2 2025 EPS estimate to $0.44 from $0.43, signaling slightly stronger expected near-term earnings.\nQ2 EPS Forecast for CenterPoint Energy Lifted by Analyst\nNegative Sentiment:\nZacks",
+      "importance_score": 119,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Neutral Sentiment:\nBank of America adjusted its price target for CNP, reflecting updated valuation expectations.\nCenterPoint Energy (CNP) Sees Price Target Adjustment by BofA\nNeutral Sentiment:\nYahoo Finance assessed CNP’s intrinsic value, questioning whether the current price fully reflects its fun",
+      "importance_score": 59,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "CenterPoint Energy, Inc. (NYSE:CNP) shares are reacting to a steady dividend policy and mixed analyst updates on its earnings outlook.",
+      "importance_score": 30,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Positive Sentiment:\nDeclared a quarterly dividend of $0.22 per share, representing a 2.41% annualized yield.",
+      "importance_score": 25,
+      "sentiment": "positive"
+    }
+  ],
+  "money_amounts": [
+    "0.22",
+    "0.22",
+    "0.44",
+    "0.43",
+    "0.45",
+    "0.46"
+  ],
+  "important_dates": [
+    "quarterly",
+    "Quarterly",
+    "Q2 2025",
+    "Q2",
+    "Q2 2027",
+    "July 24",
+    "Thursday",
+    "next week’s",
+    "Next Week's",
+    "1+ days ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Inc.",
+      "verb": "Declares",
+      "object": "Dividend",
+      "importance": 32
+    },
+    {
+      "subject": "Research",
+      "verb": "raised",
+      "object": "estimate",
+      "importance": 32
+    },
+    {
+      "subject": "Research",
+      "verb": "cut",
+      "object": "forecast",
+      "importance": 32
+    },
+    {
+      "subject": "Research",
+      "verb": "Issues",
+      "object": "Estimate",
+      "importance": 46
+    },
+    {
+      "subject": "CNP",
+      "verb": "lacks",
+      "object": "factors",
+      "importance": 46
+    }
+  ],
+  "business_context": [],
+  "compact_analysis": "{\"ticker\": \"CNP\", \"companies\": [\"CenterPoint Energy, Inc.\", \"CNP\", \"Zacks Research\", \"CenterPoint Energy\", \"Zacks\", \"CenterPoint\", \"Bank of America\", \"BofA\", \"Yahoo Finance\"], \"people\": [], \"sentiment\": {\"overall\": \"neutral\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"Zacks Research Issues Pessimistic Estimate for CNP Earnings\\nNeutral Sentiment:\\nCNP is set to report Q2 2025 earnings before the market opens on July 24, providing the next major catalyst.\\nCenterPoint Energy (CNP) Expected to Announce Quarterly Earnings on Thursday\\nNeutral Sentiment:\\nZacks preview ar\", \"importance_score\": 161, \"sentiment\": \"positive\"}, {\"text\": \"CenterPoint Energy, Inc. Declares Quarterly Dividend of $0.22 (NYSE:CNP)\\nPositive Sentiment:\\nZacks Research raised its Q2 2025 EPS estimate to $0.44 from $0.43, signaling slightly stronger expected near-term earnings.\\nQ2 EPS Forecast for CenterPoint Energy Lifted by Analyst\\nNegative Sentiment:\\nZacks\", \"importance_score\": 119, \"sentiment\": \"neutral\"}, {\"text\": \"Neutral Sentiment:\\nBank of America adjusted its price target for CNP, reflecting updated valuation expectations.\\nCenterPoint Energy (CNP) Sees Price Target Adjustment by BofA\\nNeutral Sentiment:\\nYahoo Finance assessed CNP’s intrinsic value, questioning whether the current price fully reflects its fun\", \"importance_score\": 59, \"sentiment\": \"neutral\"}, {\"text\": \"CenterPoint Energy, Inc. (NYSE:CNP) shares are reacting to a steady dividend policy and mixed analyst updates on its earnings outlook.\", \"importance_score\": 30, \"sentiment\": \"neutral\"}, {\"text\": \"Positive Sentiment:\\nDeclared a quarterly dividend of $0.22 per share, representing a 2.41% annualized yield.\", \"importance_score\": 25, \"sentiment\": \"positive\"}], \"money_amounts\": [\"0.22\", \"0.22\", \"0.44\", \"0.43\", \"0.45\", \"0.46\"], \"important_dates\": [\"quarterly\", \"Quarterly\", \"Q2 2025\", \"Q2\", \"Q2 2027\", \"July 24\", \"Thursday\", \"next week’s\", \"Next Week's\", \"1+ days ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Inc.\", \"verb\": \"Declares\", \"object\": \"Dividend\", \"importance\": 32}, {\"subject\": \"Research\", \"verb\": \"raised\", \"object\": \"estimate\", \"importance\": 32}, {\"subject\": \"Research\", \"verb\": \"cut\", \"object\": \"forecast\", \"importance\": 32}, {\"subject\": \"Research\", \"verb\": \"Issues\", \"object\": \"Estimate\", \"importance\": 46}, {\"subject\": \"CNP\", \"verb\": \"lacks\", \"object\": \"factors\", \"importance\": 46}], \"business_context\": []}"
+}
