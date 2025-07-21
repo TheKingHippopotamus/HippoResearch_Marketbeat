@@ -1,0 +1,101 @@
+{
+  "ticker": "ZTS",
+  "timestamp": "2025-07-21T06:56:39.217318",
+  "companies": [
+    "Zoetis Inc.",
+    "ZTS",
+    "Zoetis",
+    "Zacks",
+    "Leerink Partnrs",
+    "Seeking Alpha",
+    "Argus",
+    "Leerink Partners",
+    "Leerink",
+    "Elanco",
+    "AI Generated"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "Argus Trims Zoetis (ZTS) Price Target to $190, Keeps Constructive View\nNeutral Sentiment:\nZacks highlights ZTS as a top-rated growth stock within its Style Scores framework, affirming its long-term growth potential despite mixed near-term signals.\nHere's Why Zoetis (ZTS) is a Strong Growth Stock\nNeg",
+      "importance_score": 64,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Zoetis: Poised For Growth Yet Priced For Decline (Rating Upgrade To Strong Buy)\nNeutral Sentiment:\nArgus lowered its price target on ZTS to $190 from $200 but maintained a constructive outlook on the animal health leader.",
+      "importance_score": 53,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Zoetis (NYSE:ZTS) Downgraded by Leerink Partners to Market Perform\nNegative Sentiment:\nLeerink Partnrs also moved ZTS to a hold rating from strong buy, reflecting increased caution on growth drivers.",
+      "importance_score": 49,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Leerink Partners downgraded ZTS from outperform to market perform and cut its price target to $155 from $180, signaling concerns over valuation.",
+      "importance_score": 40,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Leerink upgrades Elanco on pet health momentum, downgrades Zoetis\nPosted 1+ days ago\nAI Generated.",
+      "importance_score": 40,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "one cent",
+    "1.69",
+    "190",
+    "200",
+    "190",
+    "155",
+    "180"
+  ],
+  "important_dates": [
+    "today",
+    "Q3",
+    "1+ days ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Inc.",
+      "verb": "saw",
+      "object": "flurry",
+      "importance": 7
+    },
+    {
+      "subject": "Zoetis",
+      "verb": "outpace",
+      "object": "estimates",
+      "importance": 4
+    },
+    {
+      "subject": "Zoetis",
+      "verb": "Beat",
+      "object": "Estimates",
+      "importance": 3
+    },
+    {
+      "subject": "Partnrs",
+      "verb": "lifted",
+      "object": "estimate",
+      "importance": 8
+    },
+    {
+      "subject": "Analysts",
+      "verb": "Issue",
+      "object": "Forecasts",
+      "importance": 3
+    }
+  ],
+  "business_context": [],
+  "compact_analysis": "{\"ticker\": \"ZTS\", \"companies\": [\"Zoetis Inc.\", \"ZTS\", \"Zoetis\", \"Zacks\", \"Leerink Partnrs\", \"Seeking Alpha\", \"Argus\", \"Leerink Partners\", \"Leerink\", \"Elanco\", \"AI Generated\"], \"people\": [], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"Argus Trims Zoetis (ZTS) Price Target to $190, Keeps Constructive View\\nNeutral Sentiment:\\nZacks highlights ZTS as a top-rated growth stock within its Style Scores framework, affirming its long-term growth potential despite mixed near-term signals.\\nHere's Why Zoetis (ZTS) is a Strong Growth Stock\\nNeg\", \"importance_score\": 64, \"sentiment\": \"positive\"}, {\"text\": \"Zoetis: Poised For Growth Yet Priced For Decline (Rating Upgrade To Strong Buy)\\nNeutral Sentiment:\\nArgus lowered its price target on ZTS to $190 from $200 but maintained a constructive outlook on the animal health leader.\", \"importance_score\": 53, \"sentiment\": \"positive\"}, {\"text\": \"Zoetis (NYSE:ZTS) Downgraded by Leerink Partners to Market Perform\\nNegative Sentiment:\\nLeerink Partnrs also moved ZTS to a hold rating from strong buy, reflecting increased caution on growth drivers.\", \"importance_score\": 49, \"sentiment\": \"positive\"}, {\"text\": \"Leerink Partners downgraded ZTS from outperform to market perform and cut its price target to $155 from $180, signaling concerns over valuation.\", \"importance_score\": 40, \"sentiment\": \"neutral\"}, {\"text\": \"Leerink upgrades Elanco on pet health momentum, downgrades Zoetis\\nPosted 1+ days ago\\nAI Generated.\", \"importance_score\": 40, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"one cent\", \"1.69\", \"190\", \"200\", \"190\", \"155\", \"180\"], \"important_dates\": [\"today\", \"Q3\", \"1+ days ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Inc.\", \"verb\": \"saw\", \"object\": \"flurry\", \"importance\": 7}, {\"subject\": \"Zoetis\", \"verb\": \"outpace\", \"object\": \"estimates\", \"importance\": 4}, {\"subject\": \"Zoetis\", \"verb\": \"Beat\", \"object\": \"Estimates\", \"importance\": 3}, {\"subject\": \"Partnrs\", \"verb\": \"lifted\", \"object\": \"estimate\", \"importance\": 8}, {\"subject\": \"Analysts\", \"verb\": \"Issue\", \"object\": \"Forecasts\", \"importance\": 3}], \"business_context\": []}"
+}
