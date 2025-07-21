@@ -1,0 +1,103 @@
+{
+  "ticker": "T",
+  "timestamp": "2025-07-21T07:58:15.041305",
+  "companies": [
+    "AT&T Inc.",
+    "T",
+    "AT&T",
+    "AT&T Inc. (",
+    "T-Mobile",
+    "Zacks",
+    "USA Today",
+    "DMV",
+    "NCDMV",
+    "CNET",
+    "Android Authority",
+    "Verizon"
+  ],
+  "people": [
+    "Cleo Fields",
+    "Jim Cramer"
+  ],
+  "sentiment": {
+    "overall": "neutral",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "AT&T offers $20K reward to combat copper theft in California\nNegative Sentiment:\nSeveral North Carolina DMV offices reported AT&T internet outages, highlighting reliability concerns that could harm customer retention.\nSeveral NCDMV offices experiencing AT&T internet outages in central and western NC",
+      "importance_score": 70,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Neutral Sentiment:\nUSA Today compared AT&T and T-Mobile internet plans, pricing and performance, providing a consumer-focused overview without direct financial guidance.\nAT&T vs. T-Mobile:",
+      "importance_score": 46,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "What Analyst Projections for Key Metrics Reveal About AT&T (T) Q2 Earnings\nNeutral Sentiment:\nZacks analysts weighed AT&T’s ambitious fiber-network expansion against intensifying competition ahead of its Q2 earnings release.",
+      "importance_score": 37,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Positive Sentiment:\nJim Cramer noted that AT&T shares have gained 18.5% year-to-date and outperformed some peers, reflecting bullish sentiment from a high-profile commentator.\nAT&T Inc. (T):",
+      "importance_score": 34,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Don’t be duped: Verizon, AT&T, and T-Mobile's cheapest plans aren’t worth it\nPosted 1+ days ago\nAI Generated.",
+      "importance_score": 33,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "between $15,001 and $50,000",
+    "20,000",
+    "$20K"
+  ],
+  "important_dates": [
+    "the past day",
+    "Q2",
+    "year-to-date",
+    "2025",
+    "1+ days ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Inc.",
+      "verb": "seen",
+      "object": "flow",
+      "importance": 6
+    },
+    {
+      "subject": "Investors",
+      "verb": "find",
+      "object": "upside",
+      "importance": 1
+    },
+    {
+      "subject": "AT&T",
+      "verb": "expanded",
+      "object": "coverage",
+      "importance": 4
+    },
+    {
+      "subject": "AT&T",
+      "verb": "Expands",
+      "object": "Coverage",
+      "importance": 4
+    },
+    {
+      "subject": "it",
+      "verb": "Drive",
+      "object": "Growth",
+      "importance": 4
+    }
+  ],
+  "business_context": [],
+  "compact_analysis": "{\"ticker\": \"T\", \"companies\": [\"AT&T Inc.\", \"T\", \"AT&T\", \"AT&T Inc. (\", \"T-Mobile\", \"Zacks\", \"USA Today\", \"DMV\", \"NCDMV\", \"CNET\", \"Android Authority\", \"Verizon\"], \"people\": [\"Cleo Fields\", \"Jim Cramer\"], \"sentiment\": {\"overall\": \"neutral\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"AT&T offers $20K reward to combat copper theft in California\\nNegative Sentiment:\\nSeveral North Carolina DMV offices reported AT&T internet outages, highlighting reliability concerns that could harm customer retention.\\nSeveral NCDMV offices experiencing AT&T internet outages in central and western NC\", \"importance_score\": 70, \"sentiment\": \"negative\"}, {\"text\": \"Neutral Sentiment:\\nUSA Today compared AT&T and T-Mobile internet plans, pricing and performance, providing a consumer-focused overview without direct financial guidance.\\nAT&T vs. T-Mobile:\", \"importance_score\": 46, \"sentiment\": \"neutral\"}, {\"text\": \"What Analyst Projections for Key Metrics Reveal About AT&T (T) Q2 Earnings\\nNeutral Sentiment:\\nZacks analysts weighed AT&T’s ambitious fiber-network expansion against intensifying competition ahead of its Q2 earnings release.\", \"importance_score\": 37, \"sentiment\": \"neutral\"}, {\"text\": \"Positive Sentiment:\\nJim Cramer noted that AT&T shares have gained 18.5% year-to-date and outperformed some peers, reflecting bullish sentiment from a high-profile commentator.\\nAT&T Inc. (T):\", \"importance_score\": 34, \"sentiment\": \"positive\"}, {\"text\": \"Don’t be duped: Verizon, AT&T, and T-Mobile's cheapest plans aren’t worth it\\nPosted 1+ days ago\\nAI Generated.\", \"importance_score\": 33, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"between $15,001 and $50,000\", \"20,000\", \"$20K\"], \"important_dates\": [\"the past day\", \"Q2\", \"year-to-date\", \"2025\", \"1+ days ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Inc.\", \"verb\": \"seen\", \"object\": \"flow\", \"importance\": 6}, {\"subject\": \"Investors\", \"verb\": \"find\", \"object\": \"upside\", \"importance\": 1}, {\"subject\": \"AT&T\", \"verb\": \"expanded\", \"object\": \"coverage\", \"importance\": 4}, {\"subject\": \"AT&T\", \"verb\": \"Expands\", \"object\": \"Coverage\", \"importance\": 4}, {\"subject\": \"it\", \"verb\": \"Drive\", \"object\": \"Growth\", \"importance\": 4}], \"business_context\": []}"
+}
