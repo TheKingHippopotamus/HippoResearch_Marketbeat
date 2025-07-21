@@ -1,0 +1,94 @@
+{
+  "ticker": "AXP",
+  "timestamp": "2025-07-21T09:12:07.501621",
+  "companies": [
+    "American Express Company",
+    "AXP",
+    "second-quarter",
+    "Second-quarter",
+    "American Express",
+    "Monness Crespi & Hardt"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "finance",
+  "key_points": [
+    {
+      "text": "Positive Sentiment:\nSecond-quarter EPS of $4.08 topped forecasts by $0.22, while revenue of $17.86 billion beat estimates and marked 9.3% year-over-year growth.",
+      "importance_score": 43,
+      "sentiment": "positive"
+    },
+    {
+      "text": "American Express surpasses profit expectations on robust spending\nPositive Sentiment:\nQ2 earnings climbed 17% year-over-year, driven by premium cardholders and higher fees, underscoring resilient revenue streams despite rising costs.\nAmerican Express Q2 Earnings Beat Estimates on Premium Customers\nP",
+      "importance_score": 38,
+      "sentiment": "positive"
+    },
+    {
+      "text": "American Express Company (AXP) shares are trading higher following stronger-than-expected second-quarter results and upbeat management commentary, although travel-spending headwinds and a neutral analyst downgrade have capped gains.",
+      "importance_score": 34,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Markets Await Consumer Sentiment Reading\nNegative Sentiment:\nShares dipped 3.3% amid profit-taking and a “Time to Sell?” narrative questioning further upside.\nAmerican Express (NYSE:AXP) Stock Price Down 3.3% - Time to Sell?\nNegative Sentiment:",
+      "importance_score": 34,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Monness Crespi & Hardt downgraded AXP shares to “Neutral,” pointing to valuation concerns and broader industry uncertainty.",
+      "importance_score": 24,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "4.08",
+    "0.22",
+    "$17.86 billion"
+  ],
+  "important_dates": [
+    "year",
+    "Q2",
+    "the quarter",
+    "Q2 2025",
+    "1+ days ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "headwinds",
+      "verb": "capped",
+      "object": "gains",
+      "importance": 11
+    },
+    {
+      "subject": "EPS",
+      "verb": "topped",
+      "object": "forecasts",
+      "importance": 13
+    },
+    {
+      "subject": "revenue",
+      "verb": "beat",
+      "object": "estimates",
+      "importance": 13
+    },
+    {
+      "subject": "Express",
+      "verb": "surpasses",
+      "object": "expectations",
+      "importance": 13
+    },
+    {
+      "subject": "Earnings",
+      "verb": "Beat",
+      "object": "Estimates",
+      "importance": 13
+    }
+  ],
+  "business_context": [],
+  "compact_analysis": "{\"ticker\": \"AXP\", \"companies\": [\"American Express Company\", \"AXP\", \"second-quarter\", \"Second-quarter\", \"American Express\", \"Monness Crespi & Hardt\"], \"people\": [], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"finance\", \"key_points\": [{\"text\": \"Positive Sentiment:\\nSecond-quarter EPS of $4.08 topped forecasts by $0.22, while revenue of $17.86 billion beat estimates and marked 9.3% year-over-year growth.\", \"importance_score\": 43, \"sentiment\": \"positive\"}, {\"text\": \"American Express surpasses profit expectations on robust spending\\nPositive Sentiment:\\nQ2 earnings climbed 17% year-over-year, driven by premium cardholders and higher fees, underscoring resilient revenue streams despite rising costs.\\nAmerican Express Q2 Earnings Beat Estimates on Premium Customers\\nP\", \"importance_score\": 38, \"sentiment\": \"positive\"}, {\"text\": \"American Express Company (AXP) shares are trading higher following stronger-than-expected second-quarter results and upbeat management commentary, although travel-spending headwinds and a neutral analyst downgrade have capped gains.\", \"importance_score\": 34, \"sentiment\": \"neutral\"}, {\"text\": \"Markets Await Consumer Sentiment Reading\\nNegative Sentiment:\\nShares dipped 3.3% amid profit-taking and a “Time to Sell?” narrative questioning further upside.\\nAmerican Express (NYSE:AXP) Stock Price Down 3.3% - Time to Sell?\\nNegative Sentiment:\", \"importance_score\": 34, \"sentiment\": \"negative\"}, {\"text\": \"Monness Crespi & Hardt downgraded AXP shares to “Neutral,” pointing to valuation concerns and broader industry uncertainty.\", \"importance_score\": 24, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"4.08\", \"0.22\", \"$17.86 billion\"], \"important_dates\": [\"year\", \"Q2\", \"the quarter\", \"Q2 2025\", \"1+ days ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"headwinds\", \"verb\": \"capped\", \"object\": \"gains\", \"importance\": 11}, {\"subject\": \"EPS\", \"verb\": \"topped\", \"object\": \"forecasts\", \"importance\": 13}, {\"subject\": \"revenue\", \"verb\": \"beat\", \"object\": \"estimates\", \"importance\": 13}, {\"subject\": \"Express\", \"verb\": \"surpasses\", \"object\": \"expectations\", \"importance\": 13}, {\"subject\": \"Earnings\", \"verb\": \"Beat\", \"object\": \"Estimates\", \"importance\": 13}], \"business_context\": []}"
+}
