@@ -1,0 +1,99 @@
+{
+  "ticker": "KMI",
+  "timestamp": "2025-07-21T09:20:17.053050",
+  "companies": [
+    "Kinder Morgan, Inc.",
+    "KMI",
+    "Wells Fargo",
+    "Wells Fargo Target",
+    "Scotiabank",
+    "Scotiabank Target",
+    "Bank of America",
+    "Flyscan",
+    "MarketBeat",
+    "AI"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "energy",
+  "key_points": [
+    {
+      "text": "Kinder Morgan, Inc. (NYSE: KMI) shares have trended higher, underpinned by robust Q2 results, an uplifted 2025 outlook, dividend boosts, and multiple analyst price‐target increases.",
+      "importance_score": 34,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Scotiabank lifted its price objective to $28.00 while maintaining a “sector perform” rating, reflecting moderate upside potential.\nScotiabank Target\nPositive Sentiment:",
+      "importance_score": 32,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Raises Outlook\nPositive Sentiment:\nQuarterly dividend declared at $0.2925 per share (4.26% yield), reinforcing confidence in distributable cash flow and long‐term payout sustainability.",
+      "importance_score": 31,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Dividend Declaration\nPositive Sentiment:\nWells Fargo raised its price target to $34.00 with an “overweight” rating, implying roughly 22% upside.",
+      "importance_score": 30,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Positive Sentiment:\nQ2 2025 earnings beat consensus with a 6% rise in adjusted EBITDA and 12% growth in adjusted EPS, driven by strong natural‐gas volumes and LNG export performance.",
+      "importance_score": 27,
+      "sentiment": "positive"
+    }
+  ],
+  "money_amounts": [
+    "$9.3 billion",
+    "0.2925",
+    "34.00",
+    "28.00"
+  ],
+  "important_dates": [
+    "Q2",
+    "2025",
+    "Q2 2025",
+    "Quarterly",
+    "1+ days ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "earnings",
+      "verb": "beat",
+      "object": "consensus",
+      "importance": 11
+    },
+    {
+      "subject": "Earnings",
+      "verb": "Meet",
+      "object": "Estimates",
+      "importance": 1
+    },
+    {
+      "subject": "Management",
+      "verb": "raised",
+      "object": "guidance",
+      "importance": 7
+    },
+    {
+      "subject": "Fargo",
+      "verb": "raised",
+      "object": "target",
+      "importance": 9
+    },
+    {
+      "subject": "Scotiabank",
+      "verb": "lifted",
+      "object": "objective",
+      "importance": 8
+    }
+  ],
+  "business_context": [],
+  "compact_analysis": "{\"ticker\": \"KMI\", \"companies\": [\"Kinder Morgan, Inc.\", \"KMI\", \"Wells Fargo\", \"Wells Fargo Target\", \"Scotiabank\", \"Scotiabank Target\", \"Bank of America\", \"Flyscan\", \"MarketBeat\", \"AI\"], \"people\": [], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"energy\", \"key_points\": [{\"text\": \"Kinder Morgan, Inc. (NYSE: KMI) shares have trended higher, underpinned by robust Q2 results, an uplifted 2025 outlook, dividend boosts, and multiple analyst price‐target increases.\", \"importance_score\": 34, \"sentiment\": \"neutral\"}, {\"text\": \"Scotiabank lifted its price objective to $28.00 while maintaining a “sector perform” rating, reflecting moderate upside potential.\\nScotiabank Target\\nPositive Sentiment:\", \"importance_score\": 32, \"sentiment\": \"positive\"}, {\"text\": \"Raises Outlook\\nPositive Sentiment:\\nQuarterly dividend declared at $0.2925 per share (4.26% yield), reinforcing confidence in distributable cash flow and long‐term payout sustainability.\", \"importance_score\": 31, \"sentiment\": \"positive\"}, {\"text\": \"Dividend Declaration\\nPositive Sentiment:\\nWells Fargo raised its price target to $34.00 with an “overweight” rating, implying roughly 22% upside.\", \"importance_score\": 30, \"sentiment\": \"positive\"}, {\"text\": \"Positive Sentiment:\\nQ2 2025 earnings beat consensus with a 6% rise in adjusted EBITDA and 12% growth in adjusted EPS, driven by strong natural‐gas volumes and LNG export performance.\", \"importance_score\": 27, \"sentiment\": \"positive\"}], \"money_amounts\": [\"$9.3 billion\", \"0.2925\", \"34.00\", \"28.00\"], \"important_dates\": [\"Q2\", \"2025\", \"Q2 2025\", \"Quarterly\", \"1+ days ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"earnings\", \"verb\": \"beat\", \"object\": \"consensus\", \"importance\": 11}, {\"subject\": \"Earnings\", \"verb\": \"Meet\", \"object\": \"Estimates\", \"importance\": 1}, {\"subject\": \"Management\", \"verb\": \"raised\", \"object\": \"guidance\", \"importance\": 7}, {\"subject\": \"Fargo\", \"verb\": \"raised\", \"object\": \"target\", \"importance\": 9}, {\"subject\": \"Scotiabank\", \"verb\": \"lifted\", \"object\": \"objective\", \"importance\": 8}], \"business_context\": []}"
+}
