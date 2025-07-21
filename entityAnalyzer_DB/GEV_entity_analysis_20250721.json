@@ -1,0 +1,99 @@
+{
+  "ticker": "GEV",
+  "timestamp": "2025-07-21T06:38:40.708218",
+  "companies": [
+    "GE Vernova Inc.",
+    "GEV",
+    "RBC Capital",
+    "Bank of America",
+    "GE Vernova",
+    "Macro",
+    "Zacks",
+    "American Banking News",
+    "GE Vernova’s",
+    "AI Generated"
+  ],
+  "people": [
+    "James Demmert",
+    "Jim Cramer"
+  ],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "energy",
+  "key_points": [
+    {
+      "text": "Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\nPositive Sentiment:",
+      "importance_score": 77,
+      "sentiment": "positive"
+    },
+    {
+      "text": "American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\nGE Vernova (GEV) & Its Rivals Financial Review\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautiou",
+      "importance_score": 56,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Positive Sentiment:\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\nPositive Sentiment:\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks",
+      "importance_score": 51,
+      "sentiment": "positive"
+    },
+    {
+      "text": "GEV outperformed the broader market with a 1.6% gain in its latest session, reflecting investor appetite for its pivot to renewable energy equipment.\nGE Vernova (GEV) Beats Stock Market Upswing:",
+      "importance_score": 36,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Jim Cramer urged viewers to listen to GEV’s management update before forming a view, hinting at possible volatility around the next earnings call.\nJim Cramer on GE Vernova: “Let’s Hear What They Have to Say”",
+      "importance_score": 28,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "550.00",
+    "620.00",
+    "620.00"
+  ],
+  "important_dates": [
+    "Q2",
+    "today",
+    "1+ days ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Investors",
+      "verb": "weighing",
+      "object": "positives",
+      "importance": 3
+    },
+    {
+      "subject": "Capital",
+      "verb": "initiated",
+      "object": "coverage",
+      "importance": 7
+    },
+    {
+      "subject": "Inc.",
+      "verb": "Receives",
+      "object": "Buy",
+      "importance": 7
+    },
+    {
+      "subject": "Bank",
+      "verb": "lifted",
+      "object": "target",
+      "importance": 19
+    },
+    {
+      "subject": "Bank",
+      "verb": "Increases",
+      "object": "Target",
+      "importance": 19
+    }
+  ],
+  "business_context": [],
+  "compact_analysis": "{\"ticker\": \"GEV\", \"companies\": [\"GE Vernova Inc.\", \"GEV\", \"RBC Capital\", \"Bank of America\", \"GE Vernova\", \"Macro\", \"Zacks\", \"American Banking News\", \"GE Vernova’s\", \"AI Generated\"], \"people\": [\"James Demmert\", \"Jim Cramer\"], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"energy\", \"key_points\": [{\"text\": \"Bank of America lifted its price target on GEV from $550.00 to $620.00 and reiterated a “buy” rating, highlighting a 7.8% upside from recent levels.\\nBank of America Increases GE Vernova (NYSE:GEV) Price Target to $620.00\\nPositive Sentiment:\", \"importance_score\": 77, \"sentiment\": \"positive\"}, {\"text\": \"American Banking News published a sector‐wide review, comparing GEV’s financials with peers but offering no new catalyst.\\nGE Vernova (GEV) & Its Rivals Financial Review\\nOverall, GE Vernova’s stock strength today reflects broad analyst optimism and operational advances, while investors remain cautiou\", \"importance_score\": 56, \"sentiment\": \"neutral\"}, {\"text\": \"Positive Sentiment:\\nGEV is scaling up its Pennsylvania switchgear plant, boosting capacity for grid modernization orders.\\nGE Vernova Adds to Pennsylvania Switchgear Plant Plans\\nPositive Sentiment:\\nMacro strategist James Demmert included GEV in his “bull case” for technology and infrastructure stocks\", \"importance_score\": 51, \"sentiment\": \"positive\"}, {\"text\": \"GEV outperformed the broader market with a 1.6% gain in its latest session, reflecting investor appetite for its pivot to renewable energy equipment.\\nGE Vernova (GEV) Beats Stock Market Upswing:\", \"importance_score\": 36, \"sentiment\": \"positive\"}, {\"text\": \"Jim Cramer urged viewers to listen to GEV’s management update before forming a view, hinting at possible volatility around the next earnings call.\\nJim Cramer on GE Vernova: “Let’s Hear What They Have to Say”\", \"importance_score\": 28, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"550.00\", \"620.00\", \"620.00\"], \"important_dates\": [\"Q2\", \"today\", \"1+ days ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Investors\", \"verb\": \"weighing\", \"object\": \"positives\", \"importance\": 3}, {\"subject\": \"Capital\", \"verb\": \"initiated\", \"object\": \"coverage\", \"importance\": 7}, {\"subject\": \"Inc.\", \"verb\": \"Receives\", \"object\": \"Buy\", \"importance\": 7}, {\"subject\": \"Bank\", \"verb\": \"lifted\", \"object\": \"target\", \"importance\": 19}, {\"subject\": \"Bank\", \"verb\": \"Increases\", \"object\": \"Target\", \"importance\": 19}], \"business_context\": []}"
+}
