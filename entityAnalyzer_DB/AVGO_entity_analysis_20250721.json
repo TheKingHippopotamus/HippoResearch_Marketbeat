@@ -1,0 +1,108 @@
+{
+  "ticker": "AVGO",
+  "timestamp": "2025-07-21T04:22:21.846136",
+  "companies": [
+    "Broadcom Inc.",
+    "AVGO",
+    "Oppenheimer",
+    "Broadcom",
+    "247WallSt",
+    "Tesla",
+    "Zacks",
+    "MSN",
+    "MarketBeat",
+    "NVIDIA",
+    "Finbold",
+    "Microsoft",
+    "the coming months",
+    "NASDAQ",
+    "Telecom",
+    "AI"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "Broadcom (NASDAQ:AVGO) Stock Price Expected to Rise, Oppenheimer Analyst Says\nPositive Sentiment:\nAnother analyst upgrade drove AVGO shares up about 2%, underlining continued bullishness from the brokerage community.\nBroadcom (NASDAQ:AVGO) Stock Price Up 2% on Analyst Upgrade\nNeutral Sentiment:",
+      "importance_score": 67,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Broadcom also appeared on MarketBeat’s list of promising telecom names to watch on July 17, reflecting steady interest from screeners.\nNegative Sentiment:\nAVGO briefly traded down 1.5%, prompting MarketBeat to question whether shareholders should reduce exposure amid short‐term volatility.",
+      "importance_score": 38,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Forget Tesla: This AI Stock Deserves a Spot in the Magnificent 7\nPositive Sentiment:\nZacks noted that growing adoption of the Tomahawk Ultra switch chip among hyperscalers and OEMs could significantly lift Broadcom’s AI revenues.",
+      "importance_score": 31,
+      "sentiment": "positive"
+    },
+    {
+      "text": "MarketBeat reported AVGO trading 2.4% higher after an analyst upgrade, reflecting renewed confidence in its growth outlook.",
+      "importance_score": 31,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Broadcom Inc. (NASDAQ: AVGO) shares have been driven by a wave of analyst upgrades, AI‐related product news, and broader market momentum in recent sessions.",
+      "importance_score": 27,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "$1 billion",
+    "$1B Microchip"
+  ],
+  "important_dates": [
+    "recent sessions",
+    "52-week",
+    "52-Week",
+    "12-month",
+    "Next 12 Months",
+    "07/14 - 07/18",
+    "July 18",
+    "July 18th",
+    "July 17",
+    "1+ days ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Oppenheimer",
+      "verb": "raised",
+      "object": "target",
+      "importance": 3
+    },
+    {
+      "subject": "Oppenheimer",
+      "verb": "Boosts",
+      "object": "Target",
+      "importance": 6
+    },
+    {
+      "subject": "247WallSt",
+      "verb": "highlighted",
+      "object": "Broadcom",
+      "importance": 4
+    },
+    {
+      "subject": ".",
+      "verb": "highlighted",
+      "object": "Broadcom",
+      "importance": 4
+    },
+    {
+      "subject": "Stock",
+      "verb": "Deserves",
+      "object": "Spot",
+      "importance": 8
+    }
+  ],
+  "business_context": [],
+  "compact_analysis": "{\"ticker\": \"AVGO\", \"companies\": [\"Broadcom Inc.\", \"AVGO\", \"Oppenheimer\", \"Broadcom\", \"247WallSt\", \"Tesla\", \"Zacks\", \"MSN\", \"MarketBeat\", \"NVIDIA\", \"Finbold\", \"Microsoft\", \"the coming months\", \"NASDAQ\", \"Telecom\", \"AI\"], \"people\": [], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"Broadcom (NASDAQ:AVGO) Stock Price Expected to Rise, Oppenheimer Analyst Says\\nPositive Sentiment:\\nAnother analyst upgrade drove AVGO shares up about 2%, underlining continued bullishness from the brokerage community.\\nBroadcom (NASDAQ:AVGO) Stock Price Up 2% on Analyst Upgrade\\nNeutral Sentiment:\", \"importance_score\": 67, \"sentiment\": \"positive\"}, {\"text\": \"Broadcom also appeared on MarketBeat’s list of promising telecom names to watch on July 17, reflecting steady interest from screeners.\\nNegative Sentiment:\\nAVGO briefly traded down 1.5%, prompting MarketBeat to question whether shareholders should reduce exposure amid short‐term volatility.\", \"importance_score\": 38, \"sentiment\": \"negative\"}, {\"text\": \"Forget Tesla: This AI Stock Deserves a Spot in the Magnificent 7\\nPositive Sentiment:\\nZacks noted that growing adoption of the Tomahawk Ultra switch chip among hyperscalers and OEMs could significantly lift Broadcom’s AI revenues.\", \"importance_score\": 31, \"sentiment\": \"positive\"}, {\"text\": \"MarketBeat reported AVGO trading 2.4% higher after an analyst upgrade, reflecting renewed confidence in its growth outlook.\", \"importance_score\": 31, \"sentiment\": \"positive\"}, {\"text\": \"Broadcom Inc. (NASDAQ: AVGO) shares have been driven by a wave of analyst upgrades, AI‐related product news, and broader market momentum in recent sessions.\", \"importance_score\": 27, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"$1 billion\", \"$1B Microchip\"], \"important_dates\": [\"recent sessions\", \"52-week\", \"52-Week\", \"12-month\", \"Next 12 Months\", \"07/14 - 07/18\", \"July 18\", \"July 18th\", \"July 17\", \"1+ days ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Oppenheimer\", \"verb\": \"raised\", \"object\": \"target\", \"importance\": 3}, {\"subject\": \"Oppenheimer\", \"verb\": \"Boosts\", \"object\": \"Target\", \"importance\": 6}, {\"subject\": \"247WallSt\", \"verb\": \"highlighted\", \"object\": \"Broadcom\", \"importance\": 4}, {\"subject\": \".\", \"verb\": \"highlighted\", \"object\": \"Broadcom\", \"importance\": 4}, {\"subject\": \"Stock\", \"verb\": \"Deserves\", \"object\": \"Spot\", \"importance\": 8}], \"business_context\": []}"
+}
