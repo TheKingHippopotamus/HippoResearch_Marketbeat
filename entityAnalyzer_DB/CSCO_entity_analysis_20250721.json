@@ -1,0 +1,99 @@
+{
+  "ticker": "CSCO",
+  "timestamp": "2025-07-21T05:34:43.410771",
+  "companies": [
+    "Cisco Systems, Inc.",
+    "CSCO",
+    "JPMorgan Chase",
+    "Cisco Systems",
+    "Morgan Stanley",
+    "Cisco",
+    "Zain KSA",
+    "INE"
+  ],
+  "people": [
+    "Cleo Fields"
+  ],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "Key factors include:\nPositive Sentiment:\nJPMorgan Chase boosts its price target on CSCO from $73 to $78 and maintains an “overweight” rating—implying roughly 14.6% upside.\nCisco Systems (NASDAQ:CSCO) Price Target Raised to $78.00\nPositive Sentiment:\nMorgan Stanley raises its CSCO price target from $",
+      "importance_score": 129,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Cisco warns of another critical RCE flaw in ISE, urges immediate patching\nNegative Sentiment:\nINE issues an alert on three maximum-severity ISE vulnerabilities that allow unauthenticated attackers to gain full system control, heightening security concerns.\nINE Security Alert: Critical Cisco ISE Vuln",
+      "importance_score": 37,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Cisco partners with Zain KSA to advance AI infrastructure in Saudi Arabia, strengthening its presence in the Middle East.",
+      "importance_score": 30,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Cisco Systems, Inc. (NASDAQ:CSCO) stock is moving today on multiple analyst upgrades, strategic partnerships, insider activity and security developments.",
+      "importance_score": 29,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Representative Cleo Fields acquired $50K–$100K in CSCO shares in late June, signaling insider confidence.",
+      "importance_score": 25,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "73",
+    "78",
+    "78.00",
+    "67",
+    "70",
+    "$50K–$100K"
+  ],
+  "important_dates": [
+    "today",
+    "late June",
+    "1+ days ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "factors",
+      "verb": "include",
+      "object": "Target",
+      "importance": 31
+    },
+    {
+      "subject": "Chase",
+      "verb": "boosts",
+      "object": "target",
+      "importance": 31
+    },
+    {
+      "subject": "Stanley",
+      "verb": "raises",
+      "object": "target",
+      "importance": 31
+    },
+    {
+      "subject": "Stanley",
+      "verb": "Forecasts",
+      "object": "Appreciation",
+      "importance": 31
+    },
+    {
+      "subject": "Fields",
+      "verb": "acquired",
+      "object": "K",
+      "importance": 8
+    }
+  ],
+  "business_context": [],
+  "compact_analysis": "{\"ticker\": \"CSCO\", \"companies\": [\"Cisco Systems, Inc.\", \"CSCO\", \"JPMorgan Chase\", \"Cisco Systems\", \"Morgan Stanley\", \"Cisco\", \"Zain KSA\", \"INE\"], \"people\": [\"Cleo Fields\"], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"Key factors include:\\nPositive Sentiment:\\nJPMorgan Chase boosts its price target on CSCO from $73 to $78 and maintains an “overweight” rating—implying roughly 14.6% upside.\\nCisco Systems (NASDAQ:CSCO) Price Target Raised to $78.00\\nPositive Sentiment:\\nMorgan Stanley raises its CSCO price target from $\", \"importance_score\": 129, \"sentiment\": \"positive\"}, {\"text\": \"Cisco warns of another critical RCE flaw in ISE, urges immediate patching\\nNegative Sentiment:\\nINE issues an alert on three maximum-severity ISE vulnerabilities that allow unauthenticated attackers to gain full system control, heightening security concerns.\\nINE Security Alert: Critical Cisco ISE Vuln\", \"importance_score\": 37, \"sentiment\": \"neutral\"}, {\"text\": \"Cisco partners with Zain KSA to advance AI infrastructure in Saudi Arabia, strengthening its presence in the Middle East.\", \"importance_score\": 30, \"sentiment\": \"neutral\"}, {\"text\": \"Cisco Systems, Inc. (NASDAQ:CSCO) stock is moving today on multiple analyst upgrades, strategic partnerships, insider activity and security developments.\", \"importance_score\": 29, \"sentiment\": \"neutral\"}, {\"text\": \"Representative Cleo Fields acquired $50K–$100K in CSCO shares in late June, signaling insider confidence.\", \"importance_score\": 25, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"73\", \"78\", \"78.00\", \"67\", \"70\", \"$50K–$100K\"], \"important_dates\": [\"today\", \"late June\", \"1+ days ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"factors\", \"verb\": \"include\", \"object\": \"Target\", \"importance\": 31}, {\"subject\": \"Chase\", \"verb\": \"boosts\", \"object\": \"target\", \"importance\": 31}, {\"subject\": \"Stanley\", \"verb\": \"raises\", \"object\": \"target\", \"importance\": 31}, {\"subject\": \"Stanley\", \"verb\": \"Forecasts\", \"object\": \"Appreciation\", \"importance\": 31}, {\"subject\": \"Fields\", \"verb\": \"acquired\", \"object\": \"K\", \"importance\": 8}], \"business_context\": []}"
+}
