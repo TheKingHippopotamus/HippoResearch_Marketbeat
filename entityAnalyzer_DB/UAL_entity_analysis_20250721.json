@@ -1,0 +1,110 @@
+{
+  "ticker": "UAL",
+  "timestamp": "2025-07-21T03:02:40.166309",
+  "companies": [
+    "United Airlines Holdings Inc",
+    "UAL",
+    "United",
+    "United Airlines",
+    "Susquehanna",
+    "Bank of America",
+    "Seaport Res Ptn",
+    "Benzinga",
+    "United Airlines'",
+    "United Airlines Holdings",
+    "MarketBeat",
+    "MSN"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "travel",
+  "key_points": [
+    {
+      "text": "Positive Sentiment:\nSusquehanna raised its UAL price target from $81 to $109, citing improved yield management and demand stability.",
+      "importance_score": 32,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Seaport Res Ptn upped its FY2025 EPS estimate to $10.50 from $9.89, reflecting stronger cost controls and revenue trends.",
+      "importance_score": 32,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "United Airlines Holdings Inc (NASDAQ: UAL) shares are moving as investors digest a string of upbeat analyst actions, stronger‐than‐expected Q2 results and strategic updates, alongside lingering concerns over revenue misses and operational challenges at Newark.",
+      "importance_score": 31,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "United Airlines price target raised to $109 from $81 at Susquehanna",
+      "importance_score": 31,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Positive Sentiment:\nBank of America bumped its target to $108 and reiterated a “Buy” rating, pointing to cost discipline and network optimization.\nMarketBeat:",
+      "importance_score": 29,
+      "sentiment": "positive"
+    }
+  ],
+  "money_amounts": [
+    "3.87",
+    "3.81",
+    "81",
+    "109",
+    "109",
+    "81",
+    "108",
+    "108.00",
+    "10.50",
+    "9.89"
+  ],
+  "important_dates": [
+    "Q2",
+    "July",
+    "FY2025",
+    "Q4",
+    "1-Month",
+    "Q3 2025",
+    "July 17th",
+    "2025",
+    "1+ days ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "investors",
+      "verb": "digest",
+      "object": "string",
+      "importance": 10
+    },
+    {
+      "subject": "Susquehanna",
+      "verb": "raised",
+      "object": "target",
+      "importance": 6
+    },
+    {
+      "subject": "Bank",
+      "verb": "bumped",
+      "object": "target",
+      "importance": 8
+    },
+    {
+      "subject": "Ptn",
+      "verb": "upped",
+      "object": "estimate",
+      "importance": 8
+    },
+    {
+      "subject": "Benzinga",
+      "verb": "highlights",
+      "object": "focus",
+      "importance": 5
+    }
+  ],
+  "business_context": []
+}
