@@ -1,0 +1,100 @@
+{
+  "ticker": "CCL",
+  "timestamp": "2025-07-21T07:02:13.140012",
+  "companies": [
+    "Carnival Corporation",
+    "CCL",
+    "MarketBeat",
+    "Carnival",
+    "Zacks",
+    "PEG",
+    "GARP",
+    "Citi",
+    "Goldman Sachs",
+    "MSN",
+    "AI Generated"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "travel",
+  "key_points": [
+    {
+      "text": "Promising Leisure Stocks To Follow Now\nPositive Sentiment:\nZacks featured CCL among its four top PEG-rated GARP picks, spotlighting its attractive valuation and growth prospects.\n4 Finest PEG-Rated GARP Stocks to Boost Your Portfolio Now\nPositive Sentiment:",
+      "importance_score": 49,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Carnival Closes $3 Billion Senior Notes Offering\nPositive Sentiment:\nCiti and Goldman Sachs both reiterated buy ratings on CCL, underscoring sustained analyst confidence.",
+      "importance_score": 43,
+      "sentiment": "positive"
+    },
+    {
+      "text": "A Zacks sector analysis compared Carnival’s year-to-date performance to the broader consumer discretionary group, showing mixed results.\nAre Consumer Discretionary Stocks Lagging Carnival (CCL) This Year?",
+      "importance_score": 41,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Carnival (CCL) Gets a Buy from Goldman Sachs\nPositive Sentiment:\nWall Street brokers maintain bullish recommendation trends on Carnival, potentially driving further buying interest.",
+      "importance_score": 38,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Carnival closed a $3 billion 5.75% senior unsecured notes offering, using proceeds to refinance higher‐cost debt and lower annual interest expense.",
+      "importance_score": 35,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "37",
+    "$3 billion",
+    "$3 Billion"
+  ],
+  "important_dates": [
+    "today",
+    "Q2",
+    "annual",
+    "year-to-date",
+    "This Year",
+    "1+ days ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "reports",
+      "verb": "had",
+      "object": "effect",
+      "importance": 1
+    },
+    {
+      "subject": "Zacks",
+      "verb": "featured",
+      "object": "CCL",
+      "importance": 11
+    },
+    {
+      "subject": "Stocks",
+      "verb": "Boost",
+      "object": "Portfolio",
+      "importance": 11
+    },
+    {
+      "subject": "case",
+      "verb": "highlighted",
+      "object": "revenue",
+      "importance": 8
+    },
+    {
+      "subject": "Carnival",
+      "verb": "closed",
+      "object": "offering",
+      "importance": 11
+    }
+  ],
+  "business_context": [],
+  "compact_analysis": "{\"ticker\": \"CCL\", \"companies\": [\"Carnival Corporation\", \"CCL\", \"MarketBeat\", \"Carnival\", \"Zacks\", \"PEG\", \"GARP\", \"Citi\", \"Goldman Sachs\", \"MSN\", \"AI Generated\"], \"people\": [], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"travel\", \"key_points\": [{\"text\": \"Promising Leisure Stocks To Follow Now\\nPositive Sentiment:\\nZacks featured CCL among its four top PEG-rated GARP picks, spotlighting its attractive valuation and growth prospects.\\n4 Finest PEG-Rated GARP Stocks to Boost Your Portfolio Now\\nPositive Sentiment:\", \"importance_score\": 49, \"sentiment\": \"positive\"}, {\"text\": \"Carnival Closes $3 Billion Senior Notes Offering\\nPositive Sentiment:\\nCiti and Goldman Sachs both reiterated buy ratings on CCL, underscoring sustained analyst confidence.\", \"importance_score\": 43, \"sentiment\": \"positive\"}, {\"text\": \"A Zacks sector analysis compared Carnival’s year-to-date performance to the broader consumer discretionary group, showing mixed results.\\nAre Consumer Discretionary Stocks Lagging Carnival (CCL) This Year?\", \"importance_score\": 41, \"sentiment\": \"neutral\"}, {\"text\": \"Carnival (CCL) Gets a Buy from Goldman Sachs\\nPositive Sentiment:\\nWall Street brokers maintain bullish recommendation trends on Carnival, potentially driving further buying interest.\", \"importance_score\": 38, \"sentiment\": \"positive\"}, {\"text\": \"Carnival closed a $3 billion 5.75% senior unsecured notes offering, using proceeds to refinance higher‐cost debt and lower annual interest expense.\", \"importance_score\": 35, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"37\", \"$3 billion\", \"$3 Billion\"], \"important_dates\": [\"today\", \"Q2\", \"annual\", \"year-to-date\", \"This Year\", \"1+ days ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"reports\", \"verb\": \"had\", \"object\": \"effect\", \"importance\": 1}, {\"subject\": \"Zacks\", \"verb\": \"featured\", \"object\": \"CCL\", \"importance\": 11}, {\"subject\": \"Stocks\", \"verb\": \"Boost\", \"object\": \"Portfolio\", \"importance\": 11}, {\"subject\": \"case\", \"verb\": \"highlighted\", \"object\": \"revenue\", \"importance\": 8}, {\"subject\": \"Carnival\", \"verb\": \"closed\", \"object\": \"offering\", \"importance\": 11}], \"business_context\": []}"
+}
