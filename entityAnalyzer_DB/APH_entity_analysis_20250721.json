@@ -1,0 +1,102 @@
+{
+  "ticker": "APH",
+  "timestamp": "2025-07-21T03:17:57.226224",
+  "companies": [
+    "Amphenol Corporation",
+    "APH",
+    "second-quarter",
+    "JPMorgan Chase & Co.",
+    "JPMorgan Forecast",
+    "Evercore ISI",
+    "Amphenol",
+    "Evercore ISI Forecast",
+    "Zacks",
+    "Zacks 52",
+    "Zacks Metrics",
+    "Amphenol Aerospace",
+    "Yahoo Finance",
+    "AI"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "JPMorgan Forecast\nPositive Sentiment:\nEvercore ISI boosted its target price on Amphenol from $105 to $110 and maintained an “outperform” rating, pointing to additional upside potential.",
+      "importance_score": 50,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Positive Sentiment:\nJPMorgan Chase & Co. raised its price target on APH from $91 to $120 and reiterated an “overweight” rating, indicating strong confidence in the company’s growth trajectory.",
+      "importance_score": 41,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Zacks Buy Recommendation\nPositive Sentiment:\nZacks reports that APH is trading near its 52-week high, driven by end-market expansion and targeted acquisitions, and asks whether investors should still buy on strength.",
+      "importance_score": 36,
+      "sentiment": "positive"
+    },
+    {
+      "text": "A Zacks analyst preview highlighted strong AI-related demand, defense end-market gains, and the full-quarter impact of recent acquisitions as reasons to “buy” APH ahead of Q2 earnings.",
+      "importance_score": 35,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Amphenol Corporation (NYSE:APH) shares are trading higher following a string of bullish analyst reports and optimistic previews ahead of second-quarter results, though some investors remain cautious about current valuation levels.",
+      "importance_score": 32,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "91",
+    "120",
+    "105",
+    "110"
+  ],
+  "important_dates": [
+    "full-quarter",
+    "Q2",
+    "this quarter",
+    "100 years",
+    "1+ days ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Chase",
+      "verb": "raised",
+      "object": "target",
+      "importance": 10
+    },
+    {
+      "subject": "ISI",
+      "verb": "boosted",
+      "object": "price",
+      "importance": 12
+    },
+    {
+      "subject": "preview",
+      "verb": "highlighted",
+      "object": "demand",
+      "importance": 11
+    },
+    {
+      "subject": "preview",
+      "verb": "examines",
+      "object": "projections",
+      "importance": 6
+    },
+    {
+      "subject": "article",
+      "verb": "mentions",
+      "object": "names",
+      "importance": 6
+    }
+  ],
+  "business_context": []
+}
