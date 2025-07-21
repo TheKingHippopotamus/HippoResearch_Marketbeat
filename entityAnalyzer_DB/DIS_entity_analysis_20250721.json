@@ -1,0 +1,99 @@
+{
+  "ticker": "DIS",
+  "timestamp": "2025-07-21T03:49:09.452877",
+  "companies": [
+    "The Walt Disney Company",
+    "DIS",
+    "Disney",
+    "CNBC",
+    "Walt Disney's",
+    "NYSE",
+    "AI Generated"
+  ],
+  "people": [
+    "Jim Cramer"
+  ],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "media",
+  "key_points": [
+    {
+      "text": "Disney’s ‘Lilo & Stitch’ becomes Hollywood’s first $1 billion movie of 2025\nPositive Sentiment:\nJim Cramer endorsement—CNBC’s Jim Cramer labeled DIS a “very good long-term holding,” citing its strong movie slate and recent rally.",
+      "importance_score": 55,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Jim Cramer Thinks Disney is a “Very Good Long-Term Holding”\nNeutral Sentiment:\nEarnings preview ahead—Analysts are setting expectations for Disney’s Q3 results on August 5, with emphasis on subscriber growth, ad revenue trends and park performance.\nEarnings Preview: What To Expect From Walt Disney's",
+      "importance_score": 55,
+      "sentiment": "positive"
+    },
+    {
+      "text": "‘Lilo & Stitch’ crosses $1B—Disney’s live‐action blockbuster became the first Hollywood film of 2025 to exceed $1 billion at the global box office, underscoring the company’s content strength.",
+      "importance_score": 41,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "The Walt Disney Company (NYSE: DIS) shares have climbed recently, underpinned by profitable streaming results, strong box‐office performance and bullish analyst commentary.",
+      "importance_score": 27,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Positive Sentiment:\nStreaming turnaround bolsters recovery—DIS’s streaming segment turned profitable for the first time, fueling a 43% rally over the past three months and spurring multiple analyst price‐target raises.",
+      "importance_score": 26,
+      "sentiment": "positive"
+    }
+  ],
+  "money_amounts": [
+    "$1B",
+    "$1 billion",
+    "$1 billion"
+  ],
+  "important_dates": [
+    "August 5",
+    "the past three months",
+    "2025",
+    "Q3 results",
+    "70th-anniversary",
+    "70th anniversary",
+    "1+ days ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Investors",
+      "verb": "awaiting",
+      "object": "report",
+      "importance": 3
+    },
+    {
+      "subject": "turnaround",
+      "verb": "bolsters",
+      "object": "recovery",
+      "importance": 10
+    },
+    {
+      "subject": "Subscribers",
+      "verb": "Drive",
+      "object": "Growth",
+      "importance": 2
+    },
+    {
+      "subject": "Lilo",
+      "verb": "crosses",
+      "object": "1B",
+      "importance": 13
+    },
+    {
+      "subject": "Cramer",
+      "verb": "labeled",
+      "object": "DIS",
+      "importance": 18
+    }
+  ],
+  "business_context": [],
+  "compact_analysis": "{\"ticker\": \"DIS\", \"companies\": [\"The Walt Disney Company\", \"DIS\", \"Disney\", \"CNBC\", \"Walt Disney's\", \"NYSE\", \"AI Generated\"], \"people\": [\"Jim Cramer\"], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"media\", \"key_points\": [{\"text\": \"Disney’s ‘Lilo & Stitch’ becomes Hollywood’s first $1 billion movie of 2025\\nPositive Sentiment:\\nJim Cramer endorsement—CNBC’s Jim Cramer labeled DIS a “very good long-term holding,” citing its strong movie slate and recent rally.\", \"importance_score\": 55, \"sentiment\": \"positive\"}, {\"text\": \"Jim Cramer Thinks Disney is a “Very Good Long-Term Holding”\\nNeutral Sentiment:\\nEarnings preview ahead—Analysts are setting expectations for Disney’s Q3 results on August 5, with emphasis on subscriber growth, ad revenue trends and park performance.\\nEarnings Preview: What To Expect From Walt Disney's\", \"importance_score\": 55, \"sentiment\": \"positive\"}, {\"text\": \"‘Lilo & Stitch’ crosses $1B—Disney’s live‐action blockbuster became the first Hollywood film of 2025 to exceed $1 billion at the global box office, underscoring the company’s content strength.\", \"importance_score\": 41, \"sentiment\": \"neutral\"}, {\"text\": \"The Walt Disney Company (NYSE: DIS) shares have climbed recently, underpinned by profitable streaming results, strong box‐office performance and bullish analyst commentary.\", \"importance_score\": 27, \"sentiment\": \"positive\"}, {\"text\": \"Positive Sentiment:\\nStreaming turnaround bolsters recovery—DIS’s streaming segment turned profitable for the first time, fueling a 43% rally over the past three months and spurring multiple analyst price‐target raises.\", \"importance_score\": 26, \"sentiment\": \"positive\"}], \"money_amounts\": [\"$1B\", \"$1 billion\", \"$1 billion\"], \"important_dates\": [\"August 5\", \"the past three months\", \"2025\", \"Q3 results\", \"70th-anniversary\", \"70th anniversary\", \"1+ days ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Investors\", \"verb\": \"awaiting\", \"object\": \"report\", \"importance\": 3}, {\"subject\": \"turnaround\", \"verb\": \"bolsters\", \"object\": \"recovery\", \"importance\": 10}, {\"subject\": \"Subscribers\", \"verb\": \"Drive\", \"object\": \"Growth\", \"importance\": 2}, {\"subject\": \"Lilo\", \"verb\": \"crosses\", \"object\": \"1B\", \"importance\": 13}, {\"subject\": \"Cramer\", \"verb\": \"labeled\", \"object\": \"DIS\", \"importance\": 18}], \"business_context\": []}"
+}
