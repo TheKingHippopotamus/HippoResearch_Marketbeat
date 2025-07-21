@@ -1,0 +1,95 @@
+{
+  "ticker": "BMY",
+  "timestamp": "2025-07-21T06:33:50.712566",
+  "companies": [
+    "Bristol Myers Squibb Company",
+    "BMY",
+    "Alzheimer’s Study",
+    "Pfizer",
+    "William Blair",
+    "AI Generated"
+  ],
+  "people": [
+    "Virginia Foxx"
+  ],
+  "sentiment": {
+    "overall": "neutral",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "healthcare",
+  "key_points": [
+    {
+      "text": "Reblozyl Trial Failure\nNegative Sentiment:\nWilliam Blair lowered its Q2 EPS forecast to $1.03 (from $1.52) and cut FY2025 to $6.22, signaling potential near-term earnings pressure.",
+      "importance_score": 39,
+      "sentiment": "negative"
+    },
+    {
+      "text": "KarXT Bipolar I Study\nNeutral Sentiment:\nBMY has become a trending stock on Zacks.com, reflecting elevated investor interest but unspecified impact on fundamentals.\nTrending Stock\nNeutral Sentiment:\nBMY and Pfizer launched a program to sell Eliquis directly to patients at a roughly 40% discount, whi",
+      "importance_score": 38,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Rep. Virginia Foxx disclosed the sale of $1,001 to $15,000 of BMY shares, which may be viewed as a bearish insider signal.",
+      "importance_score": 25,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Bristol Myers Squibb Company (NYSE: BMY) shares have moved on a mix of clinical trial updates, analyst estimate revisions, insider activity, and new program launches.",
+      "importance_score": 24,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Insider Sale\nPosted 1+ days ago\nAI Generated.",
+      "importance_score": 19,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "1.03",
+    "1.52",
+    "6.22",
+    "$1,001 to $15,000"
+  ],
+  "important_dates": [
+    "Q2",
+    "FY2025",
+    "1+ days ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Investors",
+      "verb": "assessing",
+      "object": "breakthroughs",
+      "importance": 1
+    },
+    {
+      "subject": "data",
+      "verb": "suggests",
+      "object": "changer",
+      "importance": 3
+    },
+    {
+      "subject": "Initiation",
+      "verb": "indicates",
+      "object": "expansion",
+      "importance": 3
+    },
+    {
+      "subject": "results",
+      "verb": "hint",
+      "object": "Sentiment",
+      "importance": 5
+    },
+    {
+      "subject": "study",
+      "verb": "shows",
+      "object": "Sentiment",
+      "importance": 3
+    }
+  ],
+  "business_context": [],
+  "compact_analysis": "{\"ticker\": \"BMY\", \"companies\": [\"Bristol Myers Squibb Company\", \"BMY\", \"Alzheimer’s Study\", \"Pfizer\", \"William Blair\", \"AI Generated\"], \"people\": [\"Virginia Foxx\"], \"sentiment\": {\"overall\": \"neutral\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"healthcare\", \"key_points\": [{\"text\": \"Reblozyl Trial Failure\\nNegative Sentiment:\\nWilliam Blair lowered its Q2 EPS forecast to $1.03 (from $1.52) and cut FY2025 to $6.22, signaling potential near-term earnings pressure.\", \"importance_score\": 39, \"sentiment\": \"negative\"}, {\"text\": \"KarXT Bipolar I Study\\nNeutral Sentiment:\\nBMY has become a trending stock on Zacks.com, reflecting elevated investor interest but unspecified impact on fundamentals.\\nTrending Stock\\nNeutral Sentiment:\\nBMY and Pfizer launched a program to sell Eliquis directly to patients at a roughly 40% discount, whi\", \"importance_score\": 38, \"sentiment\": \"negative\"}, {\"text\": \"Rep. Virginia Foxx disclosed the sale of $1,001 to $15,000 of BMY shares, which may be viewed as a bearish insider signal.\", \"importance_score\": 25, \"sentiment\": \"neutral\"}, {\"text\": \"Bristol Myers Squibb Company (NYSE: BMY) shares have moved on a mix of clinical trial updates, analyst estimate revisions, insider activity, and new program launches.\", \"importance_score\": 24, \"sentiment\": \"neutral\"}, {\"text\": \"Insider Sale\\nPosted 1+ days ago\\nAI Generated.\", \"importance_score\": 19, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"1.03\", \"1.52\", \"6.22\", \"$1,001 to $15,000\"], \"important_dates\": [\"Q2\", \"FY2025\", \"1+ days ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Investors\", \"verb\": \"assessing\", \"object\": \"breakthroughs\", \"importance\": 1}, {\"subject\": \"data\", \"verb\": \"suggests\", \"object\": \"changer\", \"importance\": 3}, {\"subject\": \"Initiation\", \"verb\": \"indicates\", \"object\": \"expansion\", \"importance\": 3}, {\"subject\": \"results\", \"verb\": \"hint\", \"object\": \"Sentiment\", \"importance\": 5}, {\"subject\": \"study\", \"verb\": \"shows\", \"object\": \"Sentiment\", \"importance\": 3}], \"business_context\": []}"
+}
