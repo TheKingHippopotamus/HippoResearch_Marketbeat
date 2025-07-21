@@ -1,0 +1,91 @@
+{
+  "ticker": "COP",
+  "timestamp": "2025-07-21T03:12:24.926173",
+  "companies": [
+    "ConocoPhillips",
+    "COP",
+    "SCHD",
+    "Capital One Financial"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "energy",
+  "key_points": [
+    {
+      "text": "COP's Valuation Looks Attractive: Should You Bet on the Stock or Wait?\nNegative Sentiment:\nCapital One Financial cut Q2 EPS estimates for COP from $1.48 to $1.32, reflecting near-term earnings pressure.",
+      "importance_score": 47,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Positive Sentiment:\nThe company plans significant oil exploration this winter in the National Petroleum Reserve-Alaska, aiming to boost its resource base.\nConocoPhillips says it plans significant oil exploration this winter in National Petroleum Reserve-Alaska",
+      "importance_score": 26,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Positive Sentiment:\nRising oil prices—with WTI nearing $70 per barrel—provide a favorable backdrop for ConocoPhillips' U.S. shale operations and global assets.\nWTI Oil Price Nearing USD70 Per Barrel Mark: Boon for ConocoPhillips?",
+      "importance_score": 24,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Despite headwinds, analysts note COP’s valuation at less than half the industry EV/EBITDA average, though output and price volatility remain uncertainties.",
+      "importance_score": 24,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Capital One Financial Estimates ConocoPhillips Q2 Earnings\nNegative Sentiment:",
+      "importance_score": 21,
+      "sentiment": "negative"
+    }
+  ],
+  "money_amounts": [
+    "70",
+    "1.48",
+    "1.32"
+  ],
+  "important_dates": [
+    "this winter",
+    "monthly",
+    "Monthly",
+    "Q2",
+    "1+ days ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "shares",
+      "verb": "seeing",
+      "object": "movement",
+      "importance": 3
+    },
+    {
+      "subject": "investors",
+      "verb": "weigh",
+      "object": "tailwinds",
+      "importance": 3
+    },
+    {
+      "subject": "prices",
+      "verb": "provide",
+      "object": "backdrop",
+      "importance": 5
+    },
+    {
+      "subject": "WTI",
+      "verb": "nearing",
+      "object": "70",
+      "importance": 5
+    },
+    {
+      "subject": "Price",
+      "verb": "Nearing",
+      "object": "USD70",
+      "importance": 5
+    }
+  ],
+  "business_context": []
+}
