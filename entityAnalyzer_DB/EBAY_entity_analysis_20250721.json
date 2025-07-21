@@ -1,0 +1,102 @@
+{
+  "ticker": "EBAY",
+  "timestamp": "2025-07-21T05:16:39.980895",
+  "companies": [
+    "eBay Inc.",
+    "EBAY",
+    "eBay",
+    "eBay Live",
+    "Zacks",
+    "Lexar",
+    "COVID",
+    "Ebay"
+  ],
+  "people": [
+    "Jordan Douglas Bradle Sweetnam"
+  ],
+  "sentiment": {
+    "overall": "neutral",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "From a $27 eBay watch to a $2M auction and a life-changing gift in Green Bay\nNegative Sentiment:\nInsider selling: SVP Jordan Douglas Bradle Sweetnam offloaded 22,206 shares at an average $77.90 (totaling $1.73 million), potentially signaling caution among management.",
+      "importance_score": 59,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Fyre Festival brand sells for $245,000 on eBay\nNeutral Sentiment:\nA limited-time code cuts the price of a 2 TB Lexar NQ790 SSD to £87 via eBay, showcasing promotional activity on the platform.",
+      "importance_score": 47,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "This snappy 2TB Lexar NQ790 SSD is just £87 with an eBay code\nNeutral Sentiment:",
+      "importance_score": 31,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Heartwarming seller story: a $27 watch flipped for $2 million and turned into a life-changing gift in Green Bay, illustrating eBay’s reach.",
+      "importance_score": 31,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "eBay Live Offers Buyers a Wide Selection of Collecting Options\nPositive Sentiment:\nAnalyst note from Zacks suggests eBay’s history of earnings surprises and favorable metrics point toward another potential beat in its upcoming report.",
+      "importance_score": 27,
+      "sentiment": "positive"
+    }
+  ],
+  "money_amounts": [
+    "250,000",
+    "250,000",
+    "245,000",
+    "245,000",
+    "87",
+    "just £87",
+    "27",
+    "$2 million",
+    "27",
+    "$2M"
+  ],
+  "important_dates": [
+    "today",
+    "1+ days ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "that",
+      "verb": "driving",
+      "object": "movement",
+      "importance": 2
+    },
+    {
+      "subject": "eBay",
+      "verb": "announces",
+      "object": "reduction",
+      "importance": 2
+    },
+    {
+      "subject": "eBay",
+      "verb": "announces",
+      "object": "change",
+      "importance": 1
+    },
+    {
+      "subject": "Live",
+      "verb": "expands",
+      "object": "marketplace",
+      "importance": 2
+    },
+    {
+      "subject": "eBay",
+      "verb": "Offers",
+      "object": "Selection",
+      "importance": 6
+    }
+  ],
+  "business_context": [],
+  "compact_analysis": "{\"ticker\": \"EBAY\", \"companies\": [\"eBay Inc.\", \"EBAY\", \"eBay\", \"eBay Live\", \"Zacks\", \"Lexar\", \"COVID\", \"Ebay\"], \"people\": [\"Jordan Douglas Bradle Sweetnam\"], \"sentiment\": {\"overall\": \"neutral\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"From a $27 eBay watch to a $2M auction and a life-changing gift in Green Bay\\nNegative Sentiment:\\nInsider selling: SVP Jordan Douglas Bradle Sweetnam offloaded 22,206 shares at an average $77.90 (totaling $1.73 million), potentially signaling caution among management.\", \"importance_score\": 59, \"sentiment\": \"negative\"}, {\"text\": \"Fyre Festival brand sells for $245,000 on eBay\\nNeutral Sentiment:\\nA limited-time code cuts the price of a 2 TB Lexar NQ790 SSD to £87 via eBay, showcasing promotional activity on the platform.\", \"importance_score\": 47, \"sentiment\": \"neutral\"}, {\"text\": \"This snappy 2TB Lexar NQ790 SSD is just £87 with an eBay code\\nNeutral Sentiment:\", \"importance_score\": 31, \"sentiment\": \"neutral\"}, {\"text\": \"Heartwarming seller story: a $27 watch flipped for $2 million and turned into a life-changing gift in Green Bay, illustrating eBay’s reach.\", \"importance_score\": 31, \"sentiment\": \"neutral\"}, {\"text\": \"eBay Live Offers Buyers a Wide Selection of Collecting Options\\nPositive Sentiment:\\nAnalyst note from Zacks suggests eBay’s history of earnings surprises and favorable metrics point toward another potential beat in its upcoming report.\", \"importance_score\": 27, \"sentiment\": \"positive\"}], \"money_amounts\": [\"250,000\", \"250,000\", \"245,000\", \"245,000\", \"87\", \"just £87\", \"27\", \"$2 million\", \"27\", \"$2M\"], \"important_dates\": [\"today\", \"1+ days ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"that\", \"verb\": \"driving\", \"object\": \"movement\", \"importance\": 2}, {\"subject\": \"eBay\", \"verb\": \"announces\", \"object\": \"reduction\", \"importance\": 2}, {\"subject\": \"eBay\", \"verb\": \"announces\", \"object\": \"change\", \"importance\": 1}, {\"subject\": \"Live\", \"verb\": \"expands\", \"object\": \"marketplace\", \"importance\": 2}, {\"subject\": \"eBay\", \"verb\": \"Offers\", \"object\": \"Selection\", \"importance\": 6}], \"business_context\": []}"
+}
