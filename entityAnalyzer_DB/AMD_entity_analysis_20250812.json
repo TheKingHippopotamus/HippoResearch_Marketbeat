@@ -1,0 +1,101 @@
+{
+  "ticker": "AMD",
+  "timestamp": "2025-08-12T04:59:32.732599",
+  "companies": [
+    "Advanced Micro Devices, Inc.",
+    "AMD",
+    "Nvidia",
+    "MarketBeat",
+    "Advanced Micro Devices",
+    "FT",
+    "Bernstein"
+  ],
+  "people": [
+    "Trump"
+  ],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "MarketBeat reports a 2.4% gain in AMD shares, reflecting broad tech sector strength and trading momentum.\nAdvanced Micro Devices (NASDAQ:AMD) Stock Price Up 2.4% - Here's What Happened\nNeutral Sentiment:",
+      "importance_score": 48,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Advanced Micro Devices, Inc. (NASDAQ: AMD) shares rose today, driven by strong quarterly results, renewed China export access and upcoming investor events.",
+      "importance_score": 35,
+      "sentiment": "positive"
+    },
+    {
+      "text": "AMD: Way Too Early To Take Profits Now\nNegative Sentiment:\nReports warn the U.S. will take a 15% share of AMD’s China AI-chip revenues, which could pressure profit margins on high-end products.",
+      "importance_score": 29,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "AMD will host its 2025 Financial Analyst Day on November 11 in New York City, showcasing strategy, growth opportunities and product roadmaps, which may bolster investor confidence.",
+      "importance_score": 27,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Analysis highlights that the U.S. export deal allowing AMD to pay a 15% cut to resume China AI-chip sales opens a large revenue stream previously barred by restrictions.",
+      "importance_score": 26,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [],
+  "important_dates": [
+    "today",
+    "quarterly",
+    "Q2",
+    "2025",
+    "November 11",
+    "0.0-day"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "acceleration",
+      "verb": "supports",
+      "object": "opportunities",
+      "importance": 5
+    },
+    {
+      "subject": "AMD",
+      "verb": "reported",
+      "object": "sales",
+      "importance": 5
+    },
+    {
+      "subject": "Acceleration",
+      "verb": "Supports",
+      "object": "Rerating",
+      "importance": 3
+    },
+    {
+      "subject": "AMD",
+      "verb": "host",
+      "object": "Day",
+      "importance": 10
+    },
+    {
+      "subject": "which",
+      "verb": "bolster",
+      "object": "confidence",
+      "importance": 10
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dc9fa0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dc54f0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dc50a0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dd1730>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147d84c70>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"AMD\", \"companies\": [\"Advanced Micro Devices, Inc.\", \"AMD\", \"Nvidia\", \"MarketBeat\", \"Advanced Micro Devices\", \"FT\", \"Bernstein\"], \"people\": [\"Trump\"], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"MarketBeat reports a 2.4% gain in AMD shares, reflecting broad tech sector strength and trading momentum.\\nAdvanced Micro Devices (NASDAQ:AMD) Stock Price Up 2.4% - Here's What Happened\\nNeutral Sentiment:\", \"importance_score\": 48, \"sentiment\": \"positive\"}, {\"text\": \"Advanced Micro Devices, Inc. (NASDAQ: AMD) shares rose today, driven by strong quarterly results, renewed China export access and upcoming investor events.\", \"importance_score\": 35, \"sentiment\": \"positive\"}, {\"text\": \"AMD: Way Too Early To Take Profits Now\\nNegative Sentiment:\\nReports warn the U.S. will take a 15% share of AMD’s China AI-chip revenues, which could pressure profit margins on high-end products.\", \"importance_score\": 29, \"sentiment\": \"neutral\"}, {\"text\": \"AMD will host its 2025 Financial Analyst Day on November 11 in New York City, showcasing strategy, growth opportunities and product roadmaps, which may bolster investor confidence.\", \"importance_score\": 27, \"sentiment\": \"positive\"}, {\"text\": \"Analysis highlights that the U.S. export deal allowing AMD to pay a 15% cut to resume China AI-chip sales opens a large revenue stream previously barred by restrictions.\", \"importance_score\": 26, \"sentiment\": \"neutral\"}], \"money_amounts\": [], \"important_dates\": [\"today\", \"quarterly\", \"Q2\", \"2025\", \"November 11\", \"0.0-day\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"acceleration\", \"verb\": \"supports\", \"object\": \"opportunities\", \"importance\": 5}, {\"subject\": \"AMD\", \"verb\": \"reported\", \"object\": \"sales\", \"importance\": 5}, {\"subject\": \"Acceleration\", \"verb\": \"Supports\", \"object\": \"Rerating\", \"importance\": 3}, {\"subject\": \"AMD\", \"verb\": \"host\", \"object\": \"Day\", \"importance\": 10}, {\"subject\": \"which\", \"verb\": \"bolster\", \"object\": \"confidence\", \"importance\": 10}], \"business_context\": []}"
+}
