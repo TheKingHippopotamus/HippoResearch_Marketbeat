@@ -1,0 +1,94 @@
+{
+  "ticker": "GS",
+  "timestamp": "2025-08-12T07:19:34.808570",
+  "companies": [
+    "Goldman Sachs Group, Inc.",
+    "GS",
+    "Goldman Sachs",
+    "Toubani Resources",
+    "Goldman",
+    "Bloomberg"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "neutral",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "finance",
+  "key_points": [
+    {
+      "text": "Goldman Sachs Ceases Substantial Shareholding in Toubani Resources\nNeutral Sentiment:\nThe firm is reallocating more capital into Asian investment-grade bonds amid concerns over U.S. economic growth prospects.\nGoldman Sachs Shifts Focus to Asian Investment-Grade Bonds Amid US Economic Concerns\nNeutra",
+      "importance_score": 52,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Goldman Says Consumers Will Soon Feel More Tariff Pain\nNegative Sentiment:\nGoldman Sachs predicts that shifting tariff costs will drive up U.S. inflation, adding to price-pressure risks.\nGoldman Sachs Predicts Rising Inflation Due to Tariff Cost Shifts",
+      "importance_score": 39,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Goldman Sachs says a dash for trash could develop — if the U.S. economy continues to thrive\nNegative Sentiment:\nGoldman economists warn that U.S. consumers will ultimately bear the brunt of new tariffs as companies pass along higher import costs.\nUS Consumers to Bear Brunt of Tariff Hit, Goldman Eco",
+      "importance_score": 38,
+      "sentiment": "negative"
+    },
+    {
+      "text": "The Goldman Sachs Group, Inc. (GS) shares have been influenced by a string of macroeconomic insights and strategic portfolio moves issued by the firm over the past day.",
+      "importance_score": 29,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Tariff effects have spared consumers, says Goldman Sachs\nNeutral Sentiment:\nGoldman Sachs has ceased being a substantial shareholder in Toubani Resources, trimming its exposure to that mining name.",
+      "importance_score": 29,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [],
+  "important_dates": [
+    "the past day",
+    "everyday"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Investors",
+      "verb": "weighing",
+      "object": "relief",
+      "importance": 2
+    },
+    {
+      "subject": "effects",
+      "verb": "spared",
+      "object": "consumers",
+      "importance": 2
+    },
+    {
+      "subject": "that",
+      "verb": "support",
+      "object": "spending",
+      "importance": 2
+    },
+    {
+      "subject": "effects",
+      "verb": "spared",
+      "object": "consumers",
+      "importance": 8
+    },
+    {
+      "subject": "Sachs",
+      "verb": "Ceases",
+      "object": "Shareholding",
+      "importance": 16
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148e90f70>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147d82ca0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d02d30>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148e90b50>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148e448b0>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"GS\", \"companies\": [\"Goldman Sachs Group, Inc.\", \"GS\", \"Goldman Sachs\", \"Toubani Resources\", \"Goldman\", \"Bloomberg\"], \"people\": [], \"sentiment\": {\"overall\": \"neutral\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"finance\", \"key_points\": [{\"text\": \"Goldman Sachs Ceases Substantial Shareholding in Toubani Resources\\nNeutral Sentiment:\\nThe firm is reallocating more capital into Asian investment-grade bonds amid concerns over U.S. economic growth prospects.\\nGoldman Sachs Shifts Focus to Asian Investment-Grade Bonds Amid US Economic Concerns\\nNeutra\", \"importance_score\": 52, \"sentiment\": \"positive\"}, {\"text\": \"Goldman Says Consumers Will Soon Feel More Tariff Pain\\nNegative Sentiment:\\nGoldman Sachs predicts that shifting tariff costs will drive up U.S. inflation, adding to price-pressure risks.\\nGoldman Sachs Predicts Rising Inflation Due to Tariff Cost Shifts\", \"importance_score\": 39, \"sentiment\": \"negative\"}, {\"text\": \"Goldman Sachs says a dash for trash could develop — if the U.S. economy continues to thrive\\nNegative Sentiment:\\nGoldman economists warn that U.S. consumers will ultimately bear the brunt of new tariffs as companies pass along higher import costs.\\nUS Consumers to Bear Brunt of Tariff Hit, Goldman Eco\", \"importance_score\": 38, \"sentiment\": \"negative\"}, {\"text\": \"The Goldman Sachs Group, Inc. (GS) shares have been influenced by a string of macroeconomic insights and strategic portfolio moves issued by the firm over the past day.\", \"importance_score\": 29, \"sentiment\": \"neutral\"}, {\"text\": \"Tariff effects have spared consumers, says Goldman Sachs\\nNeutral Sentiment:\\nGoldman Sachs has ceased being a substantial shareholder in Toubani Resources, trimming its exposure to that mining name.\", \"importance_score\": 29, \"sentiment\": \"neutral\"}], \"money_amounts\": [], \"important_dates\": [\"the past day\", \"everyday\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Investors\", \"verb\": \"weighing\", \"object\": \"relief\", \"importance\": 2}, {\"subject\": \"effects\", \"verb\": \"spared\", \"object\": \"consumers\", \"importance\": 2}, {\"subject\": \"that\", \"verb\": \"support\", \"object\": \"spending\", \"importance\": 2}, {\"subject\": \"effects\", \"verb\": \"spared\", \"object\": \"consumers\", \"importance\": 8}, {\"subject\": \"Sachs\", \"verb\": \"Ceases\", \"object\": \"Shareholding\", \"importance\": 16}], \"business_context\": []}"
+}
