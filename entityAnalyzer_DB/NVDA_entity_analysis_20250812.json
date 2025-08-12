@@ -1,0 +1,104 @@
+{
+  "ticker": "NVDA",
+  "timestamp": "2025-08-12T05:39:58.929974",
+  "companies": [
+    "NVIDIA Corporation",
+    "NVDA",
+    "NVIDIA",
+    "Cisco",
+    "Dell",
+    "HPE",
+    "Lenovo",
+    "Supermicro",
+    "Omniverse",
+    "Cosmos",
+    "Nvidia",
+    "Trump",
+    "Blackwell",
+    "AI Generated"
+  ],
+  "people": [
+    "Trump"
+  ],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "Trump suggests he may not allow sales of advanced Nvidia chip\nOverall, NVDA’s cutting-edge product pipeline and broad analyst support underpin positive momentum, but investors should watch for legal and geopolitical risks tied to its China export arrangements.\nPosted 2h ago\nAI Generated.",
+      "importance_score": 49,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Positive Sentiment:\nThe company unveiled the NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs for enterprise AI, driving partner integrations with Cisco, Dell, HPE, Lenovo, and Supermicro.",
+      "importance_score": 45,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Why Nvidia Stock Popped 13% in July\nPositive Sentiment:\nPresident Trump’s deal with NVIDIA to resume exporting AI chips to China includes a 15% revenue-sharing agreement, restoring a key growth market despite the financial concession.",
+      "importance_score": 41,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Chinese state media says Nvidia H20 chips not safe\nNegative Sentiment:\nPresident Trump hinted he might block next-generation Blackwell chip sales to China, creating uncertainty around future market access.",
+      "importance_score": 26,
+      "sentiment": "negative"
+    },
+    {
+      "text": "NVIDIA introduced new Omniverse libraries and Cosmos world foundation models at SIGGRAPH 2025 to advance AI and robotics simulation, highlighting strong R&D momentum.",
+      "importance_score": 24,
+      "sentiment": "positive"
+    }
+  ],
+  "money_amounts": [],
+  "important_dates": [
+    "July",
+    "2h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Investors",
+      "verb": "weighing",
+      "object": "impact",
+      "importance": 4
+    },
+    {
+      "subject": "company",
+      "verb": "unveiled",
+      "object": "Sentiment",
+      "importance": 10
+    },
+    {
+      "subject": "NVIDIA",
+      "verb": "Unveils",
+      "object": "Sentiment",
+      "importance": 4
+    },
+    {
+      "subject": "NVIDIA",
+      "verb": "introduced",
+      "object": "libraries",
+      "importance": 7
+    },
+    {
+      "subject": "NVIDIA",
+      "verb": "Unveils",
+      "object": "Solutions",
+      "importance": 2
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d343a0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148de4d90>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dd6f40>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148eecbe0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dc96a0>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"NVDA\", \"companies\": [\"NVIDIA Corporation\", \"NVDA\", \"NVIDIA\", \"Cisco\", \"Dell\", \"HPE\", \"Lenovo\", \"Supermicro\", \"Omniverse\", \"Cosmos\", \"Nvidia\", \"Trump\", \"Blackwell\", \"AI Generated\"], \"people\": [\"Trump\"], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"Trump suggests he may not allow sales of advanced Nvidia chip\\nOverall, NVDA’s cutting-edge product pipeline and broad analyst support underpin positive momentum, but investors should watch for legal and geopolitical risks tied to its China export arrangements.\\nPosted 2h ago\\nAI Generated.\", \"importance_score\": 49, \"sentiment\": \"positive\"}, {\"text\": \"Positive Sentiment:\\nThe company unveiled the NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs for enterprise AI, driving partner integrations with Cisco, Dell, HPE, Lenovo, and Supermicro.\", \"importance_score\": 45, \"sentiment\": \"positive\"}, {\"text\": \"Why Nvidia Stock Popped 13% in July\\nPositive Sentiment:\\nPresident Trump’s deal with NVIDIA to resume exporting AI chips to China includes a 15% revenue-sharing agreement, restoring a key growth market despite the financial concession.\", \"importance_score\": 41, \"sentiment\": \"positive\"}, {\"text\": \"Chinese state media says Nvidia H20 chips not safe\\nNegative Sentiment:\\nPresident Trump hinted he might block next-generation Blackwell chip sales to China, creating uncertainty around future market access.\", \"importance_score\": 26, \"sentiment\": \"negative\"}, {\"text\": \"NVIDIA introduced new Omniverse libraries and Cosmos world foundation models at SIGGRAPH 2025 to advance AI and robotics simulation, highlighting strong R&D momentum.\", \"importance_score\": 24, \"sentiment\": \"positive\"}], \"money_amounts\": [], \"important_dates\": [\"July\", \"2h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Investors\", \"verb\": \"weighing\", \"object\": \"impact\", \"importance\": 4}, {\"subject\": \"company\", \"verb\": \"unveiled\", \"object\": \"Sentiment\", \"importance\": 10}, {\"subject\": \"NVIDIA\", \"verb\": \"Unveils\", \"object\": \"Sentiment\", \"importance\": 4}, {\"subject\": \"NVIDIA\", \"verb\": \"introduced\", \"object\": \"libraries\", \"importance\": 7}, {\"subject\": \"NVIDIA\", \"verb\": \"Unveils\", \"object\": \"Solutions\", \"importance\": 2}], \"business_context\": []}"
+}
