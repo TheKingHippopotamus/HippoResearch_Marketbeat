@@ -1,0 +1,105 @@
+{
+  "ticker": "MSFT",
+  "timestamp": "2025-08-12T03:54:38.921458",
+  "companies": [
+    "Microsoft Corporation",
+    "MSFT",
+    "GitHub",
+    "Microsoft",
+    "OpenAI",
+    "Azure",
+    "Zacks",
+    "Alibaba",
+    "Nasdaq",
+    "MarketBeat",
+    "CoreAI",
+    "Seeking Alpha",
+    "CoreWeave",
+    "Axios"
+  ],
+  "people": [
+    "Thomas Dohmke",
+    "Axios"
+  ],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "Alibaba vs. Microsoft Analysis\nPositive Sentiment:\nMSFT is featured among four top Nasdaq picks in a Zacks roundup, driven by continued AI momentum and big-tech spending.",
+      "importance_score": 38,
+      "sentiment": "positive"
+    },
+    {
+      "text": "A Seeking Alpha write-up on CoreWeave notes Microsoft as a major AI infrastructure partner, underscoring Azure’s role in fueling high-growth AI workloads.",
+      "importance_score": 38,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Microsoft Corporation (MSFT) shares moved today on a mix of strategic AI integrations, analyst endorsements and leadership changes at GitHub, the Microsoft-owned developer platform.",
+      "importance_score": 37,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Positive Sentiment:\nMicrosoft will integrate OpenAI’s GPT-5 into its Azure-powered products and services, enhancing its AI capabilities and strengthening its competitive moat.\nMicrosoft Integrating GPT-5\nPositive Sentiment:",
+      "importance_score": 36,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Analysts at Zacks recommend buying MSFT over Alibaba, citing Azure’s 39% growth and superior AI monetization prospects.",
+      "importance_score": 30,
+      "sentiment": "positive"
+    }
+  ],
+  "money_amounts": [],
+  "important_dates": [
+    "today",
+    "50m ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Investors",
+      "verb": "weighing",
+      "object": "boost",
+      "importance": 1
+    },
+    {
+      "subject": "Microsoft",
+      "verb": "integrate",
+      "object": "GPT-5",
+      "importance": 8
+    },
+    {
+      "subject": "Microsoft",
+      "verb": "Integrating",
+      "object": "GPT-5",
+      "importance": 8
+    },
+    {
+      "subject": "MarketBeat",
+      "verb": "highlights",
+      "object": "MSFT",
+      "importance": 7
+    },
+    {
+      "subject": "GitHub",
+      "verb": "join",
+      "object": "group",
+      "importance": 5
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148de4760>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d05d60>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d05880>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148de46d0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147d9b430>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"MSFT\", \"companies\": [\"Microsoft Corporation\", \"MSFT\", \"GitHub\", \"Microsoft\", \"OpenAI\", \"Azure\", \"Zacks\", \"Alibaba\", \"Nasdaq\", \"MarketBeat\", \"CoreAI\", \"Seeking Alpha\", \"CoreWeave\", \"Axios\"], \"people\": [\"Thomas Dohmke\", \"Axios\"], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"Alibaba vs. Microsoft Analysis\\nPositive Sentiment:\\nMSFT is featured among four top Nasdaq picks in a Zacks roundup, driven by continued AI momentum and big-tech spending.\", \"importance_score\": 38, \"sentiment\": \"positive\"}, {\"text\": \"A Seeking Alpha write-up on CoreWeave notes Microsoft as a major AI infrastructure partner, underscoring Azure’s role in fueling high-growth AI workloads.\", \"importance_score\": 38, \"sentiment\": \"positive\"}, {\"text\": \"Microsoft Corporation (MSFT) shares moved today on a mix of strategic AI integrations, analyst endorsements and leadership changes at GitHub, the Microsoft-owned developer platform.\", \"importance_score\": 37, \"sentiment\": \"neutral\"}, {\"text\": \"Positive Sentiment:\\nMicrosoft will integrate OpenAI’s GPT-5 into its Azure-powered products and services, enhancing its AI capabilities and strengthening its competitive moat.\\nMicrosoft Integrating GPT-5\\nPositive Sentiment:\", \"importance_score\": 36, \"sentiment\": \"positive\"}, {\"text\": \"Analysts at Zacks recommend buying MSFT over Alibaba, citing Azure’s 39% growth and superior AI monetization prospects.\", \"importance_score\": 30, \"sentiment\": \"positive\"}], \"money_amounts\": [], \"important_dates\": [\"today\", \"50m ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Investors\", \"verb\": \"weighing\", \"object\": \"boost\", \"importance\": 1}, {\"subject\": \"Microsoft\", \"verb\": \"integrate\", \"object\": \"GPT-5\", \"importance\": 8}, {\"subject\": \"Microsoft\", \"verb\": \"Integrating\", \"object\": \"GPT-5\", \"importance\": 8}, {\"subject\": \"MarketBeat\", \"verb\": \"highlights\", \"object\": \"MSFT\", \"importance\": 7}, {\"subject\": \"GitHub\", \"verb\": \"join\", \"object\": \"group\", \"importance\": 5}], \"business_context\": []}"
+}
