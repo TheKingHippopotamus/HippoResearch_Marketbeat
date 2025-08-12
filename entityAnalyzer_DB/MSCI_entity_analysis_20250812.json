@@ -1,0 +1,99 @@
+{
+  "ticker": "MSCI",
+  "timestamp": "2025-08-12T07:16:32.539498",
+  "companies": [
+    "MSCI Inc.",
+    "MSCI",
+    "Boyaa Interactive International",
+    "Boyaa Interactive",
+    "MSCI Global Small Cap Indexes",
+    "Yatharth Hospitals",
+    "MSCI India Small Cap Index",
+    "The Qatar Stock Exchange",
+    "QSE"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "neutral",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "The Qatar Stock Exchange disclosed its results from MSCI’s quarterly review, with modest adjustments that maintain the overall stability of the index.",
+      "importance_score": 32,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Positive Sentiment:\nBoyaa Interactive International has been added to MSCI’s Global Small Cap Indexes, underscoring continued demand for MSCI’s index products.",
+      "importance_score": 28,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Boyaa Interactive Joins MSCI Global Small Cap Indexes",
+      "importance_score": 25,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Yatharth Hospitals stock to Join MSCI India Small Cap Index",
+      "importance_score": 25,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "MSCI Inc. (MSCI) is moving on mixed signals today as analysts weigh in on valuation, while index inclusions and broader market headwinds add nuance to investor sentiment.",
+      "importance_score": 22,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [],
+  "important_dates": [
+    "today",
+    "quarterly",
+    "August 2025",
+    "4h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "inclusions",
+      "verb": "add",
+      "object": "nuance",
+      "importance": 6
+    },
+    {
+      "subject": "Interactive",
+      "verb": "Joins",
+      "object": "Indexes",
+      "importance": 8
+    },
+    {
+      "subject": "stock",
+      "verb": "Join",
+      "object": "Index",
+      "importance": 8
+    },
+    {
+      "subject": "Exchange",
+      "verb": "disclosed",
+      "object": "results",
+      "importance": 10
+    },
+    {
+      "subject": "that",
+      "verb": "maintain",
+      "object": "stability",
+      "importance": 10
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148e90730>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148ddd0d0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148e54d00>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148e44430>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148ddb700>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"MSCI\", \"companies\": [\"MSCI Inc.\", \"MSCI\", \"Boyaa Interactive International\", \"Boyaa Interactive\", \"MSCI Global Small Cap Indexes\", \"Yatharth Hospitals\", \"MSCI India Small Cap Index\", \"The Qatar Stock Exchange\", \"QSE\"], \"people\": [], \"sentiment\": {\"overall\": \"neutral\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"The Qatar Stock Exchange disclosed its results from MSCI’s quarterly review, with modest adjustments that maintain the overall stability of the index.\", \"importance_score\": 32, \"sentiment\": \"neutral\"}, {\"text\": \"Positive Sentiment:\\nBoyaa Interactive International has been added to MSCI’s Global Small Cap Indexes, underscoring continued demand for MSCI’s index products.\", \"importance_score\": 28, \"sentiment\": \"positive\"}, {\"text\": \"Boyaa Interactive Joins MSCI Global Small Cap Indexes\", \"importance_score\": 25, \"sentiment\": \"neutral\"}, {\"text\": \"Yatharth Hospitals stock to Join MSCI India Small Cap Index\", \"importance_score\": 25, \"sentiment\": \"neutral\"}, {\"text\": \"MSCI Inc. (MSCI) is moving on mixed signals today as analysts weigh in on valuation, while index inclusions and broader market headwinds add nuance to investor sentiment.\", \"importance_score\": 22, \"sentiment\": \"neutral\"}], \"money_amounts\": [], \"important_dates\": [\"today\", \"quarterly\", \"August 2025\", \"4h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"inclusions\", \"verb\": \"add\", \"object\": \"nuance\", \"importance\": 6}, {\"subject\": \"Interactive\", \"verb\": \"Joins\", \"object\": \"Indexes\", \"importance\": 8}, {\"subject\": \"stock\", \"verb\": \"Join\", \"object\": \"Index\", \"importance\": 8}, {\"subject\": \"Exchange\", \"verb\": \"disclosed\", \"object\": \"results\", \"importance\": 10}, {\"subject\": \"that\", \"verb\": \"maintain\", \"object\": \"stability\", \"importance\": 10}], \"business_context\": []}"
+}
