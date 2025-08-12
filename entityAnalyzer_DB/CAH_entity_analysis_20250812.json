@@ -1,0 +1,95 @@
+{
+  "ticker": "CAH",
+  "timestamp": "2025-08-12T06:19:44.768893",
+  "companies": [
+    "Cardinal Health, Inc.",
+    "CAH",
+    "Cardinal Health"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "healthcare",
+  "key_points": [
+    {
+      "text": "Key developments include:\nPositive Sentiment:\nInitiation of coverage with a Buy rating and $239 fair value, driven by accelerating specialty distribution growth in autoimmune, urology and oncology segments.\nCardinal Health Q4 Preview: Accelerating Autoimmune, Urology And Oncology\nPositive Sentiment:",
+      "importance_score": 74,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Cardinal Health FQ4 2025 Earnings Preview\nQ2 Earnings Report Preview\nNegative Sentiment:\nNear-term revenue headwinds cited from a customer contract expiration, which could pressure upcoming results.\nCardinal Health Q4 Preview\nPosted 16m ago\nAI Generated.",
+      "importance_score": 48,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Cardinal Health, Inc. (NYSE:CAH) shares have risen today amid a flurry of analyst previews and positive ratings ahead of its fiscal Q4 earnings release on Aug. 12.",
+      "importance_score": 36,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Outlined an options-based strategy to generate $500/month from CAH shares ahead of Q4 earnings.",
+      "importance_score": 24,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "How To Earn $500 A Month From Cardinal Health Stock Ahead Of Q4 Earnings\nNeutral Sentiment:",
+      "importance_score": 23,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "239",
+    "500",
+    "500"
+  ],
+  "important_dates": [
+    "today",
+    "fiscal Q4 earnings",
+    "Aug. 12",
+    "Q4",
+    "FQ4",
+    "Q2",
+    "FQ4 2025",
+    "16m ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "developments",
+      "verb": "include",
+      "object": "Sentiment",
+      "importance": 25
+    },
+    {
+      "subject": "Analysts",
+      "verb": "adjusting",
+      "object": "forecasts",
+      "importance": 25
+    },
+    {
+      "subject": "Previews",
+      "verb": "outline",
+      "object": "metrics",
+      "importance": 6
+    },
+    {
+      "subject": "which",
+      "verb": "pressure",
+      "object": "results",
+      "importance": 17
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147dcc340>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148e44580>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148e540a0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148e44c70>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147d82f70>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"CAH\", \"companies\": [\"Cardinal Health, Inc.\", \"CAH\", \"Cardinal Health\"], \"people\": [], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"healthcare\", \"key_points\": [{\"text\": \"Key developments include:\\nPositive Sentiment:\\nInitiation of coverage with a Buy rating and $239 fair value, driven by accelerating specialty distribution growth in autoimmune, urology and oncology segments.\\nCardinal Health Q4 Preview: Accelerating Autoimmune, Urology And Oncology\\nPositive Sentiment:\", \"importance_score\": 74, \"sentiment\": \"positive\"}, {\"text\": \"Cardinal Health FQ4 2025 Earnings Preview\\nQ2 Earnings Report Preview\\nNegative Sentiment:\\nNear-term revenue headwinds cited from a customer contract expiration, which could pressure upcoming results.\\nCardinal Health Q4 Preview\\nPosted 16m ago\\nAI Generated.\", \"importance_score\": 48, \"sentiment\": \"negative\"}, {\"text\": \"Cardinal Health, Inc. (NYSE:CAH) shares have risen today amid a flurry of analyst previews and positive ratings ahead of its fiscal Q4 earnings release on Aug. 12.\", \"importance_score\": 36, \"sentiment\": \"positive\"}, {\"text\": \"Outlined an options-based strategy to generate $500/month from CAH shares ahead of Q4 earnings.\", \"importance_score\": 24, \"sentiment\": \"neutral\"}, {\"text\": \"How To Earn $500 A Month From Cardinal Health Stock Ahead Of Q4 Earnings\\nNeutral Sentiment:\", \"importance_score\": 23, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"239\", \"500\", \"500\"], \"important_dates\": [\"today\", \"fiscal Q4 earnings\", \"Aug. 12\", \"Q4\", \"FQ4\", \"Q2\", \"FQ4 2025\", \"16m ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"developments\", \"verb\": \"include\", \"object\": \"Sentiment\", \"importance\": 25}, {\"subject\": \"Analysts\", \"verb\": \"adjusting\", \"object\": \"forecasts\", \"importance\": 25}, {\"subject\": \"Previews\", \"verb\": \"outline\", \"object\": \"metrics\", \"importance\": 6}, {\"subject\": \"which\", \"verb\": \"pressure\", \"object\": \"results\", \"importance\": 17}], \"business_context\": []}"
+}
