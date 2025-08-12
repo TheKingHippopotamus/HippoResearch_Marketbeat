@@ -1,0 +1,112 @@
+{
+  "ticker": "FTNT",
+  "timestamp": "2025-08-12T04:18:49.327483",
+  "companies": [
+    "Fortinet, Inc.",
+    "FTNT",
+    "Fortinet",
+    "DZ Bank",
+    "Cantor Fitzgerald",
+    "Barclays",
+    "Rosenblatt Securities",
+    "Mizuho",
+    "BMO Capital Markets",
+    "AI Generated"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "Fortinet (NASDAQ:FTNT) Stock Rating Upgraded by DZ Bank\nPositive Sentiment:\nCantor Fitzgerald raised its FY2025 EPS estimate to $2.19 from $2.14 and maintained a Neutral rating with a $110 target.",
+      "importance_score": 66,
+      "sentiment": "positive"
+    },
+    {
+      "text": "BMO Capital Markets Cuts Fortinet (NASDAQ:FTNT) Price Target to $90.00\nPosted 2h ago\nAI Generated.",
+      "importance_score": 47,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Fortinet (FTNT) International Revenue Performance Explored\nNeutral Sentiment:\nBarclays set a new $90.00 price target on Fortinet.",
+      "importance_score": 43,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Fortinet (NASDAQ:FTNT) Given New $90.00 Price Target at Barclays\nNeutral Sentiment:",
+      "importance_score": 30,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Fortinet, Inc. (FTNT) stock moved today on a mix of analyst actions and company performance updates.",
+      "importance_score": 27,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "2.19",
+    "2.14",
+    "110",
+    "90.00",
+    "90.00",
+    "75.00",
+    "75.00",
+    "90.00",
+    "90.00"
+  ],
+  "important_dates": [
+    "today",
+    "FY25",
+    "FY2025",
+    "0-day",
+    "daily",
+    "2h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "ARR",
+      "verb": "support",
+      "object": "narrative",
+      "importance": 3
+    },
+    {
+      "subject": "ARR",
+      "verb": "Support",
+      "object": "Story",
+      "importance": 2
+    },
+    {
+      "subject": "Bank",
+      "verb": "upgraded",
+      "object": "rating",
+      "importance": 5
+    },
+    {
+      "subject": "Rating",
+      "verb": "raised",
+      "object": "estimate",
+      "importance": 15
+    },
+    {
+      "subject": "Fitzgerald",
+      "verb": "raised",
+      "object": "estimate",
+      "importance": 15
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148de4f10>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d5c0a0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dbe2e0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148db4970>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148db66a0>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"FTNT\", \"companies\": [\"Fortinet, Inc.\", \"FTNT\", \"Fortinet\", \"DZ Bank\", \"Cantor Fitzgerald\", \"Barclays\", \"Rosenblatt Securities\", \"Mizuho\", \"BMO Capital Markets\", \"AI Generated\"], \"people\": [], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"Fortinet (NASDAQ:FTNT) Stock Rating Upgraded by DZ Bank\\nPositive Sentiment:\\nCantor Fitzgerald raised its FY2025 EPS estimate to $2.19 from $2.14 and maintained a Neutral rating with a $110 target.\", \"importance_score\": 66, \"sentiment\": \"positive\"}, {\"text\": \"BMO Capital Markets Cuts Fortinet (NASDAQ:FTNT) Price Target to $90.00\\nPosted 2h ago\\nAI Generated.\", \"importance_score\": 47, \"sentiment\": \"neutral\"}, {\"text\": \"Fortinet (FTNT) International Revenue Performance Explored\\nNeutral Sentiment:\\nBarclays set a new $90.00 price target on Fortinet.\", \"importance_score\": 43, \"sentiment\": \"neutral\"}, {\"text\": \"Fortinet (NASDAQ:FTNT) Given New $90.00 Price Target at Barclays\\nNeutral Sentiment:\", \"importance_score\": 30, \"sentiment\": \"neutral\"}, {\"text\": \"Fortinet, Inc. (FTNT) stock moved today on a mix of analyst actions and company performance updates.\", \"importance_score\": 27, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"2.19\", \"2.14\", \"110\", \"90.00\", \"90.00\", \"75.00\", \"75.00\", \"90.00\", \"90.00\"], \"important_dates\": [\"today\", \"FY25\", \"FY2025\", \"0-day\", \"daily\", \"2h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"ARR\", \"verb\": \"support\", \"object\": \"narrative\", \"importance\": 3}, {\"subject\": \"ARR\", \"verb\": \"Support\", \"object\": \"Story\", \"importance\": 2}, {\"subject\": \"Bank\", \"verb\": \"upgraded\", \"object\": \"rating\", \"importance\": 5}, {\"subject\": \"Rating\", \"verb\": \"raised\", \"object\": \"estimate\", \"importance\": 15}, {\"subject\": \"Fitzgerald\", \"verb\": \"raised\", \"object\": \"estimate\", \"importance\": 15}], \"business_context\": []}"
+}
