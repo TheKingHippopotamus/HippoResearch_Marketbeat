@@ -1,0 +1,103 @@
+{
+  "ticker": "ADBE",
+  "timestamp": "2025-08-12T06:54:08.344314",
+  "companies": [
+    "Adobe Inc.",
+    "ADBE",
+    "SeekingAlpha",
+    "Adobe",
+    "Melius Research",
+    "Melius",
+    "MarketWatch",
+    "YouTube",
+    "MSN"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "neutral",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "Negative Sentiment:\nMelius Research downgraded Adobe from “hold” to “sell” with a $310 price target, signaling potential downside.\nAdobe (NASDAQ:ADBE) Cut to \"Sell\" at Melius\nNegative Sentiment:\nTop Wall Street analyst warns it’s “time to step back,” citing more pressure ahead after a 23% YTD drop.\n",
+      "importance_score": 78,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Adobe's A.I. Contradiction, Measuring ADBE Outlook & Options\nNegative Sentiment:\nAdditional downgrade noted on MSN as Adobe stock hit by AI competition narrative.\nAdobe Stock Downgraded As 'AI Is Eating Software'\nNegative Sentiment:\nMSN reports on Adobe urging users to adopt AI to improve Photoshop ",
+      "importance_score": 68,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Adobe's Creative Canvas Maps Massive Share Price Appreciation\nNeutral Sentiment:\nMixed analysis noting Adobe’s AI risks alongside large upside potential, reflecting balanced long-term views.\nWhy I Fear Adobe's AI Risks, Yet Still See Large Upside\nNeutral Sentiment:\nAdobe featured as one of five digi",
+      "importance_score": 53,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Positive Sentiment:\nSeekingAlpha highlights Adobe’s record-high profitability and triple-digit Firefly growth, suggesting a strong earnings moat and favorable valuation.\nAdobe's Record-High Profitability Outshines Digital Media Deceleration\nPositive Sentiment:",
+      "importance_score": 33,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Adobe Inc. (ADBE) saw mixed analyst signals today, with upbeat coverage on its profitability and AI-driven subscriber growth offset by multiple downgrades centered on intensifying AI competition.",
+      "importance_score": 31,
+      "sentiment": "positive"
+    }
+  ],
+  "money_amounts": [
+    "310",
+    "310"
+  ],
+  "important_dates": [
+    "today",
+    "August 10th",
+    "zero days",
+    "YTD",
+    "3h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Inc.",
+      "verb": "saw",
+      "object": "signals",
+      "importance": 9
+    },
+    {
+      "subject": "SeekingAlpha",
+      "verb": "highlights",
+      "object": "profitability",
+      "importance": 8
+    },
+    {
+      "subject": "Profitability",
+      "verb": "Outshines",
+      "object": "Deceleration",
+      "importance": 8
+    },
+    {
+      "subject": "Adobe",
+      "verb": "received",
+      "object": "upgrade",
+      "importance": 9
+    },
+    {
+      "subject": "Adobe",
+      "verb": "Initiating",
+      "object": "coverage",
+      "importance": 7
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148e54d60>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148ddbf70>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148ddb550>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148ddd070>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d02670>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"ADBE\", \"companies\": [\"Adobe Inc.\", \"ADBE\", \"SeekingAlpha\", \"Adobe\", \"Melius Research\", \"Melius\", \"MarketWatch\", \"YouTube\", \"MSN\"], \"people\": [], \"sentiment\": {\"overall\": \"neutral\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"Negative Sentiment:\\nMelius Research downgraded Adobe from “hold” to “sell” with a $310 price target, signaling potential downside.\\nAdobe (NASDAQ:ADBE) Cut to \\\"Sell\\\" at Melius\\nNegative Sentiment:\\nTop Wall Street analyst warns it’s “time to step back,” citing more pressure ahead after a 23% YTD drop.\\n\", \"importance_score\": 78, \"sentiment\": \"negative\"}, {\"text\": \"Adobe's A.I. Contradiction, Measuring ADBE Outlook & Options\\nNegative Sentiment:\\nAdditional downgrade noted on MSN as Adobe stock hit by AI competition narrative.\\nAdobe Stock Downgraded As 'AI Is Eating Software'\\nNegative Sentiment:\\nMSN reports on Adobe urging users to adopt AI to improve Photoshop \", \"importance_score\": 68, \"sentiment\": \"negative\"}, {\"text\": \"Adobe's Creative Canvas Maps Massive Share Price Appreciation\\nNeutral Sentiment:\\nMixed analysis noting Adobe’s AI risks alongside large upside potential, reflecting balanced long-term views.\\nWhy I Fear Adobe's AI Risks, Yet Still See Large Upside\\nNeutral Sentiment:\\nAdobe featured as one of five digi\", \"importance_score\": 53, \"sentiment\": \"neutral\"}, {\"text\": \"Positive Sentiment:\\nSeekingAlpha highlights Adobe’s record-high profitability and triple-digit Firefly growth, suggesting a strong earnings moat and favorable valuation.\\nAdobe's Record-High Profitability Outshines Digital Media Deceleration\\nPositive Sentiment:\", \"importance_score\": 33, \"sentiment\": \"positive\"}, {\"text\": \"Adobe Inc. (ADBE) saw mixed analyst signals today, with upbeat coverage on its profitability and AI-driven subscriber growth offset by multiple downgrades centered on intensifying AI competition.\", \"importance_score\": 31, \"sentiment\": \"positive\"}], \"money_amounts\": [\"310\", \"310\"], \"important_dates\": [\"today\", \"August 10th\", \"zero days\", \"YTD\", \"3h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Inc.\", \"verb\": \"saw\", \"object\": \"signals\", \"importance\": 9}, {\"subject\": \"SeekingAlpha\", \"verb\": \"highlights\", \"object\": \"profitability\", \"importance\": 8}, {\"subject\": \"Profitability\", \"verb\": \"Outshines\", \"object\": \"Deceleration\", \"importance\": 8}, {\"subject\": \"Adobe\", \"verb\": \"received\", \"object\": \"upgrade\", \"importance\": 9}, {\"subject\": \"Adobe\", \"verb\": \"Initiating\", \"object\": \"coverage\", \"importance\": 7}], \"business_context\": []}"
+}
