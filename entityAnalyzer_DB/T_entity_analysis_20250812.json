@@ -1,48 +1,49 @@
 {
   "ticker": "T",
-  "timestamp": "2025-08-12T04:00:10.890624",
+  "timestamp": "2025-08-12T08:40:05.012600",
   "companies": [
     "AT&T Inc.",
-    "AT&T",
-    "RingCentral",
     "T",
-    "KeyBanc Capital Markets Technology Leadership Forum",
-    "Business Insider"
+    "RingCentral",
+    "AT&T",
+    "AT and T",
+    "AT&T Inc. (",
+    "Business Insider",
+    "KeyBanc Technology Leadership Forum",
+    "AI Generated"
   ],
-  "people": [
-    "John Stankey"
-  ],
+  "people": [],
   "sentiment": {
     "overall": "positive",
     "positive_count": 0,
     "negative_count": 0,
     "neutral_count": 0
   },
-  "industry": "tech",
+  "industry": "professional",
   "key_points": [
     {
-      "text": "AT&T massive privacy settlement: Customers could receive up to $7,500\nYou can claim up to $7,500 from AT&T's 177M data breach payouts - how to check your eligibility ASAP\nWere you an AT&T customer in 2024?",
-      "importance_score": 60,
+      "text": "Top Wall Street analysts recommend these dividend stocks for steady income\nNeutral Sentiment:\nAT&T presented its technology roadmap and 5G strategy at the KeyBanc Capital Markets Technology Leadership Forum.\nAT&T Inc. (T) Presents at KeyBanc Capital Markets Technology Leadership Forum\nNeutral Sentim",
+      "importance_score": 72,
       "sentiment": "neutral"
     },
     {
-      "text": "Top Wall Street analysts recommend these dividend stocks for steady income\nNeutral Sentiment:\nAT&T presented at the KeyBanc Capital Markets Technology Leadership Forum, underscoring ongoing engagement with institutional investors.\nAT&T Inc. (T) Presents at KeyBanc Capital Markets Technology Leadersh",
-      "importance_score": 48,
-      "sentiment": "neutral"
-    },
-    {
-      "text": "AT&T is facing a massive privacy settlement over its 2024 data breach, potentially owing up to $7,500 per customer and exposing the company to significant payout liabilities.",
-      "importance_score": 33,
-      "sentiment": "neutral"
-    },
-    {
-      "text": "Positive Sentiment:\nRingCentral’s strong Q2 results highlight an expanding partnership with AT&T, suggesting potential revenue upside from joint cloud communications offerings.",
-      "importance_score": 28,
+      "text": "Positive Sentiment:\nRingCentral expands its partnership with AT&T in Q2, earning a “buy” rating for the combined growth potential.\nRingCentral Q2: Expanding Partnership With AT and T, Initiate With Buy\nPositive Sentiment:\nTop Wall Street analysts include AT&T among favored dividend stocks for steady",
+      "importance_score": 68,
       "sentiment": "positive"
     },
     {
-      "text": "RingCentral Q2: Expanding Partnership With AT&T, Initiate With Buy",
-      "importance_score": 23,
+      "text": "AT&T massive privacy settlement: Customers could receive up to $7,500\nNegative Sentiment:\nCustomers can claim up to $7,500 from AT&T’s $177 million data breach payouts, highlighting ongoing legal costs.",
+      "importance_score": 58,
+      "sentiment": "negative"
+    },
+    {
+      "text": "You can claim up to $7,500 from AT&T's 177M data breach payouts - how to check your eligibility ASAP\nNegative Sentiment:\nAnother payout notice warns 2024 AT&T customers they may be owed up to $5,000 for past data breaches.",
+      "importance_score": 51,
+      "sentiment": "negative"
+    },
+    {
+      "text": "AT&T Inc. (T) shares have moved today as investors digest a mix of partnership news and operational challenges alongside legal settlements and analyst commentary.",
+      "importance_score": 22,
       "sentiment": "neutral"
     }
   ],
@@ -50,53 +51,58 @@
     "up to $7,500",
     "up to $7,500",
     "up to $7,500",
+    "$177 million",
+    "up to $7,500",
+    "up to $5,000",
     "up to $5,000"
   ],
   "important_dates": [
-    "Q2 results",
+    "today",
     "Q2",
-    "2024"
+    "2025",
+    "2024",
+    "4h ago"
   ],
   "financial_keywords": [],
   "key_relationships": [
     {
-      "subject": "Shares",
-      "verb": "seen",
-      "object": "pressure",
-      "importance": 3
-    },
-    {
-      "subject": "results",
-      "verb": "highlight",
-      "object": "Sentiment",
-      "importance": 8
+      "subject": "investors",
+      "verb": "digest",
+      "object": "mix",
+      "importance": 6
     },
     {
       "subject": "RingCentral",
-      "verb": "Expanding",
-      "object": "Partnership",
-      "importance": 6
+      "verb": "expands",
+      "object": "partnership",
+      "importance": 19
+    },
+    {
+      "subject": "analysts",
+      "verb": "include",
+      "object": "AT&T",
+      "importance": 19
     },
     {
       "subject": "analysts",
       "verb": "recommend",
       "object": "stocks",
-      "importance": 14
+      "importance": 22
     },
     {
-      "subject": "Inc.",
-      "verb": "Presents",
-      "object": "Sentiment",
-      "importance": 14
+      "subject": "AT&T",
+      "verb": "presented",
+      "object": "roadmap",
+      "importance": 22
     }
   ],
   "business_context": [],
   "key_points_he": [
-    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d29cd0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
-    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148de4fa0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
-    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148db6310>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
-    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d29670>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
-    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d5c3d0>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x17ff33fd0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x17ff334c0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x17ff593d0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x17ff59eb0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x17ff53850>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
   ],
-  "compact_analysis": "{\"ticker\": \"T\", \"companies\": [\"AT&T Inc.\", \"AT&T\", \"RingCentral\", \"T\", \"KeyBanc Capital Markets Technology Leadership Forum\", \"Business Insider\"], \"people\": [\"John Stankey\"], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"AT&T massive privacy settlement: Customers could receive up to $7,500\\nYou can claim up to $7,500 from AT&T's 177M data breach payouts - how to check your eligibility ASAP\\nWere you an AT&T customer in 2024?\", \"importance_score\": 60, \"sentiment\": \"neutral\"}, {\"text\": \"Top Wall Street analysts recommend these dividend stocks for steady income\\nNeutral Sentiment:\\nAT&T presented at the KeyBanc Capital Markets Technology Leadership Forum, underscoring ongoing engagement with institutional investors.\\nAT&T Inc. (T) Presents at KeyBanc Capital Markets Technology Leadersh\", \"importance_score\": 48, \"sentiment\": \"neutral\"}, {\"text\": \"AT&T is facing a massive privacy settlement over its 2024 data breach, potentially owing up to $7,500 per customer and exposing the company to significant payout liabilities.\", \"importance_score\": 33, \"sentiment\": \"neutral\"}, {\"text\": \"Positive Sentiment:\\nRingCentral’s strong Q2 results highlight an expanding partnership with AT&T, suggesting potential revenue upside from joint cloud communications offerings.\", \"importance_score\": 28, \"sentiment\": \"positive\"}, {\"text\": \"RingCentral Q2: Expanding Partnership With AT&T, Initiate With Buy\", \"importance_score\": 23, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"up to $7,500\", \"up to $7,500\", \"up to $7,500\", \"up to $5,000\"], \"important_dates\": [\"Q2 results\", \"Q2\", \"2024\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Shares\", \"verb\": \"seen\", \"object\": \"pressure\", \"importance\": 3}, {\"subject\": \"results\", \"verb\": \"highlight\", \"object\": \"Sentiment\", \"importance\": 8}, {\"subject\": \"RingCentral\", \"verb\": \"Expanding\", \"object\": \"Partnership\", \"importance\": 6}, {\"subject\": \"analysts\", \"verb\": \"recommend\", \"object\": \"stocks\", \"importance\": 14}, {\"subject\": \"Inc.\", \"verb\": \"Presents\", \"object\": \"Sentiment\", \"importance\": 14}], \"business_context\": []}"
+  "compact_analysis": "{\"ticker\": \"T\", \"companies\": [\"AT&T Inc.\", \"T\", \"RingCentral\", \"AT&T\", \"AT and T\", \"AT&T Inc. (\", \"Business Insider\", \"KeyBanc Technology Leadership Forum\", \"AI Generated\"], \"people\": [], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"professional\", \"key_points\": [{\"text\": \"Top Wall Street analysts recommend these dividend stocks for steady income\\nNeutral Sentiment:\\nAT&T presented its technology roadmap and 5G strategy at the KeyBanc Capital Markets Technology Leadership Forum.\\nAT&T Inc. (T) Presents at KeyBanc Capital Markets Technology Leadership Forum\\nNeutral Sentim\", \"importance_score\": 72, \"sentiment\": \"neutral\"}, {\"text\": \"Positive Sentiment:\\nRingCentral expands its partnership with AT&T in Q2, earning a “buy” rating for the combined growth potential.\\nRingCentral Q2: Expanding Partnership With AT and T, Initiate With Buy\\nPositive Sentiment:\\nTop Wall Street analysts include AT&T among favored dividend stocks for steady\", \"importance_score\": 68, \"sentiment\": \"positive\"}, {\"text\": \"AT&T massive privacy settlement: Customers could receive up to $7,500\\nNegative Sentiment:\\nCustomers can claim up to $7,500 from AT&T’s $177 million data breach payouts, highlighting ongoing legal costs.\", \"importance_score\": 58, \"sentiment\": \"negative\"}, {\"text\": \"You can claim up to $7,500 from AT&T's 177M data breach payouts - how to check your eligibility ASAP\\nNegative Sentiment:\\nAnother payout notice warns 2024 AT&T customers they may be owed up to $5,000 for past data breaches.\", \"importance_score\": 51, \"sentiment\": \"negative\"}, {\"text\": \"AT&T Inc. (T) shares have moved today as investors digest a mix of partnership news and operational challenges alongside legal settlements and analyst commentary.\", \"importance_score\": 22, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"up to $7,500\", \"up to $7,500\", \"up to $7,500\", \"$177 million\", \"up to $7,500\", \"up to $5,000\", \"up to $5,000\"], \"important_dates\": [\"today\", \"Q2\", \"2025\", \"2024\", \"4h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"investors\", \"verb\": \"digest\", \"object\": \"mix\", \"importance\": 6}, {\"subject\": \"RingCentral\", \"verb\": \"expands\", \"object\": \"partnership\", \"importance\": 19}, {\"subject\": \"analysts\", \"verb\": \"include\", \"object\": \"AT&T\", \"importance\": 19}, {\"subject\": \"analysts\", \"verb\": \"recommend\", \"object\": \"stocks\", \"importance\": 22}, {\"subject\": \"AT&T\", \"verb\": \"presented\", \"object\": \"roadmap\", \"importance\": 22}], \"business_context\": []}"
 }
