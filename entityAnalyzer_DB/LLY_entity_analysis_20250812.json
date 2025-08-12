@@ -1,0 +1,115 @@
+{
+  "ticker": "LLY",
+  "timestamp": "2025-08-12T05:48:00.949579",
+  "companies": [
+    "Eli Lilly & Company",
+    "LLY",
+    "Eli Lilly",
+    "Bristol",
+    "Bristol Tax District",
+    "MarketBeat",
+    "Pfizer",
+    "UnitedHealth",
+    "Zacks",
+    "Lilly",
+    "Deutsche Bank",
+    "UBS",
+    "Leerink",
+    "Novo Nordisk",
+    "Novo",
+    "AI Generated"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "neutral",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "healthcare",
+  "key_points": [
+    {
+      "text": "Negative Sentiment:\nFormer president lists Wyoming ranch for $40 million amid a broader sell-off in Lilly stock.\nRanch Sale as Stocks Plummet\nPosted 2h ago\nAI Generated.",
+      "importance_score": 40,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Zacks questions if Lilly can keep pace as Novo Nordisk nears approval for its oral obesity pill, noting underwhelming orforglipron results.\nCan Lilly Keep Up vs. Novo’s Oral Obesity Pill?",
+      "importance_score": 37,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Deutsche Bank lowers its price target from $1,010 to $900 despite maintaining a buy rating.",
+      "importance_score": 31,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Eli Lilly & Company (NYSE:LLY) is trading higher today, driven by a mix of positive clinical and operational developments alongside key analyst actions.",
+      "importance_score": 26,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Weekly healthcare roundup includes Pfizer, Eli Lilly and UnitedHealth, offering broad sector context.",
+      "importance_score": 25,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "1,010",
+    "900",
+    "895",
+    "895",
+    "$40 million"
+  ],
+  "important_dates": [
+    "today",
+    "daily",
+    "August 10–11.",
+    "Now",
+    "Weekly",
+    "the Week",
+    "2h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "purchases",
+      "verb": "lifted",
+      "object": "shares",
+      "importance": 0
+    },
+    {
+      "subject": "results",
+      "verb": "bolster",
+      "object": "prospects",
+      "importance": 3
+    },
+    {
+      "subject": "pill",
+      "verb": "delivers",
+      "object": "loss",
+      "importance": 3
+    },
+    {
+      "subject": "roundup",
+      "verb": "includes",
+      "object": "Pfizer",
+      "importance": 6
+    },
+    {
+      "subject": "Zacks",
+      "verb": "analyzes",
+      "object": "trends",
+      "importance": 4
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dd68e0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dc95b0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148eec460>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d348b0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147d82280>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"LLY\", \"companies\": [\"Eli Lilly & Company\", \"LLY\", \"Eli Lilly\", \"Bristol\", \"Bristol Tax District\", \"MarketBeat\", \"Pfizer\", \"UnitedHealth\", \"Zacks\", \"Lilly\", \"Deutsche Bank\", \"UBS\", \"Leerink\", \"Novo Nordisk\", \"Novo\", \"AI Generated\"], \"people\": [], \"sentiment\": {\"overall\": \"neutral\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"healthcare\", \"key_points\": [{\"text\": \"Negative Sentiment:\\nFormer president lists Wyoming ranch for $40 million amid a broader sell-off in Lilly stock.\\nRanch Sale as Stocks Plummet\\nPosted 2h ago\\nAI Generated.\", \"importance_score\": 40, \"sentiment\": \"negative\"}, {\"text\": \"Zacks questions if Lilly can keep pace as Novo Nordisk nears approval for its oral obesity pill, noting underwhelming orforglipron results.\\nCan Lilly Keep Up vs. Novo’s Oral Obesity Pill?\", \"importance_score\": 37, \"sentiment\": \"neutral\"}, {\"text\": \"Deutsche Bank lowers its price target from $1,010 to $900 despite maintaining a buy rating.\", \"importance_score\": 31, \"sentiment\": \"neutral\"}, {\"text\": \"Eli Lilly & Company (NYSE:LLY) is trading higher today, driven by a mix of positive clinical and operational developments alongside key analyst actions.\", \"importance_score\": 26, \"sentiment\": \"positive\"}, {\"text\": \"Weekly healthcare roundup includes Pfizer, Eli Lilly and UnitedHealth, offering broad sector context.\", \"importance_score\": 25, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"1,010\", \"900\", \"895\", \"895\", \"$40 million\"], \"important_dates\": [\"today\", \"daily\", \"August 10–11.\", \"Now\", \"Weekly\", \"the Week\", \"2h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"purchases\", \"verb\": \"lifted\", \"object\": \"shares\", \"importance\": 0}, {\"subject\": \"results\", \"verb\": \"bolster\", \"object\": \"prospects\", \"importance\": 3}, {\"subject\": \"pill\", \"verb\": \"delivers\", \"object\": \"loss\", \"importance\": 3}, {\"subject\": \"roundup\", \"verb\": \"includes\", \"object\": \"Pfizer\", \"importance\": 6}, {\"subject\": \"Zacks\", \"verb\": \"analyzes\", \"object\": \"trends\", \"importance\": 4}], \"business_context\": []}"
+}
