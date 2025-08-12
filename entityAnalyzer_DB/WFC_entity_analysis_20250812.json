@@ -1,0 +1,84 @@
+{
+  "ticker": "WFC",
+  "timestamp": "2025-08-12T03:52:08.445426",
+  "companies": [
+    "Wells Fargo & Company",
+    "WFC",
+    "second-quarter 2026",
+    "AI Generated"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "Analysts forecast second-quarter 2026 EPS of $1.73 (up 12% year-over-year), which underpins the dividend increase but suggests earnings growth is tracking closely with expectations.",
+      "importance_score": 44,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Positive Sentiment:\nQuarterly dividend raised to $1.80 per share (annualized yield of 2.3%), signaling management’s confidence in cash flow and capital strength.\n3 Dividend Stocks Raising Payouts—and Backing It Up With Results\nNeutral Sentiment:",
+      "importance_score": 33,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Wells Fargo & Company (WFC) shares are trading higher today following a dividend boost and encouraging analyst forecasts that underscore the bank’s stable fundamentals and income appeal.",
+      "importance_score": 32,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Posted 29m ago\nAI Generated.",
+      "importance_score": 13,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "1.80",
+    "1.73"
+  ],
+  "important_dates": [
+    "today",
+    "Quarterly",
+    "year-over-year"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "that",
+      "verb": "underscore",
+      "object": "fundamentals",
+      "importance": 10
+    },
+    {
+      "subject": "Stocks",
+      "verb": "Raising",
+      "object": "Payouts",
+      "importance": 11
+    },
+    {
+      "subject": "Analysts",
+      "verb": "forecast",
+      "object": "EPS",
+      "importance": 17
+    },
+    {
+      "subject": "which",
+      "verb": "underpins",
+      "object": "increase",
+      "importance": 17
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147d9b1c0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147d9ba90>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147d9baf0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147d99ee0>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"WFC\", \"companies\": [\"Wells Fargo & Company\", \"WFC\", \"second-quarter 2026\", \"AI Generated\"], \"people\": [], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"Analysts forecast second-quarter 2026 EPS of $1.73 (up 12% year-over-year), which underpins the dividend increase but suggests earnings growth is tracking closely with expectations.\", \"importance_score\": 44, \"sentiment\": \"positive\"}, {\"text\": \"Positive Sentiment:\\nQuarterly dividend raised to $1.80 per share (annualized yield of 2.3%), signaling management’s confidence in cash flow and capital strength.\\n3 Dividend Stocks Raising Payouts—and Backing It Up With Results\\nNeutral Sentiment:\", \"importance_score\": 33, \"sentiment\": \"positive\"}, {\"text\": \"Wells Fargo & Company (WFC) shares are trading higher today following a dividend boost and encouraging analyst forecasts that underscore the bank’s stable fundamentals and income appeal.\", \"importance_score\": 32, \"sentiment\": \"neutral\"}, {\"text\": \"Posted 29m ago\\nAI Generated.\", \"importance_score\": 13, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"1.80\", \"1.73\"], \"important_dates\": [\"today\", \"Quarterly\", \"year-over-year\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"that\", \"verb\": \"underscore\", \"object\": \"fundamentals\", \"importance\": 10}, {\"subject\": \"Stocks\", \"verb\": \"Raising\", \"object\": \"Payouts\", \"importance\": 11}, {\"subject\": \"Analysts\", \"verb\": \"forecast\", \"object\": \"EPS\", \"importance\": 17}, {\"subject\": \"which\", \"verb\": \"underpins\", \"object\": \"increase\", \"importance\": 17}], \"business_context\": []}"
+}
