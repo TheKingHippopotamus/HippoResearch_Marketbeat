@@ -1,0 +1,99 @@
+{
+  "ticker": "PFE",
+  "timestamp": "2025-08-12T04:28:12.026255",
+  "companies": [
+    "Pfizer Inc.",
+    "PFE",
+    "Pfizer",
+    "FDA",
+    "Moderna",
+    "Leerink Partners",
+    "Leerink",
+    "AI Generated"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "neutral",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "healthcare",
+  "key_points": [
+    {
+      "text": "Market commentators highlight Pfizer’s 7.3% dividend yield as a potential catalyst for upside into 2026.\n7.3% Yield Dividend Stock Could Soar\nPositive Sentiment:",
+      "importance_score": 38,
+      "sentiment": "positive"
+    },
+    {
+      "text": "FDA May Not Renew Authorization for Under-5 Covid Shots\nNegative Sentiment:\nLeerink Partners issues a weak outlook for Pfizer’s FY2027 earnings, citing potential headwinds to future growth.",
+      "importance_score": 31,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Pfizer Inc. (PFE) shares are trading with mixed momentum as investors balance upbeat clinical and earnings updates against regulatory and analyst headwinds.",
+      "importance_score": 29,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Pfizer’s stock is touted as an ultra-high yield dividend play at a roughly 19% discount to its 52-week high.",
+      "importance_score": 27,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Ultra-High Yield Dividend Stock at 19% Discount\nNeutral Sentiment:\nPfizer is attracting heightened investor attention, with analysts outlining key factors that could shape its near-term outlook.",
+      "importance_score": 22,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [],
+  "important_dates": [
+    "Q2",
+    "52-week",
+    "under five",
+    "FY2027",
+    "2h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "investors",
+      "verb": "balance",
+      "object": "updates",
+      "importance": 8
+    },
+    {
+      "subject": "study",
+      "verb": "shows",
+      "object": "promise",
+      "importance": 2
+    },
+    {
+      "subject": "results",
+      "verb": "underpin",
+      "object": "confidence",
+      "importance": 4
+    },
+    {
+      "subject": "Pfizer",
+      "verb": "saw",
+      "object": "uptick",
+      "importance": 5
+    },
+    {
+      "subject": "commentators",
+      "verb": "highlight",
+      "object": "yield",
+      "importance": 14
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d05040>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dedc70>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dbe250>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dbe4f0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148db4cd0>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"PFE\", \"companies\": [\"Pfizer Inc.\", \"PFE\", \"Pfizer\", \"FDA\", \"Moderna\", \"Leerink Partners\", \"Leerink\", \"AI Generated\"], \"people\": [], \"sentiment\": {\"overall\": \"neutral\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"healthcare\", \"key_points\": [{\"text\": \"Market commentators highlight Pfizer’s 7.3% dividend yield as a potential catalyst for upside into 2026.\\n7.3% Yield Dividend Stock Could Soar\\nPositive Sentiment:\", \"importance_score\": 38, \"sentiment\": \"positive\"}, {\"text\": \"FDA May Not Renew Authorization for Under-5 Covid Shots\\nNegative Sentiment:\\nLeerink Partners issues a weak outlook for Pfizer’s FY2027 earnings, citing potential headwinds to future growth.\", \"importance_score\": 31, \"sentiment\": \"negative\"}, {\"text\": \"Pfizer Inc. (PFE) shares are trading with mixed momentum as investors balance upbeat clinical and earnings updates against regulatory and analyst headwinds.\", \"importance_score\": 29, \"sentiment\": \"neutral\"}, {\"text\": \"Pfizer’s stock is touted as an ultra-high yield dividend play at a roughly 19% discount to its 52-week high.\", \"importance_score\": 27, \"sentiment\": \"neutral\"}, {\"text\": \"Ultra-High Yield Dividend Stock at 19% Discount\\nNeutral Sentiment:\\nPfizer is attracting heightened investor attention, with analysts outlining key factors that could shape its near-term outlook.\", \"importance_score\": 22, \"sentiment\": \"neutral\"}], \"money_amounts\": [], \"important_dates\": [\"Q2\", \"52-week\", \"under five\", \"FY2027\", \"2h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"investors\", \"verb\": \"balance\", \"object\": \"updates\", \"importance\": 8}, {\"subject\": \"study\", \"verb\": \"shows\", \"object\": \"promise\", \"importance\": 2}, {\"subject\": \"results\", \"verb\": \"underpin\", \"object\": \"confidence\", \"importance\": 4}, {\"subject\": \"Pfizer\", \"verb\": \"saw\", \"object\": \"uptick\", \"importance\": 5}, {\"subject\": \"commentators\", \"verb\": \"highlight\", \"object\": \"yield\", \"importance\": 14}], \"business_context\": []}"
+}
