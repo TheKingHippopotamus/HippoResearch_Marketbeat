@@ -1,0 +1,107 @@
+{
+  "ticker": "INTC",
+  "timestamp": "2025-08-12T05:21:04.027367",
+  "companies": [
+    "Intel Corporation",
+    "INTC",
+    "the White House",
+    "Cabinet",
+    "White House",
+    "Intel",
+    "UFC",
+    "Sequoia Capital’s",
+    "Sequoia",
+    "The White House"
+  ],
+  "people": [
+    "Lip-Bu Tan",
+    "Trump",
+    "Tan",
+    "Michael Moritz",
+    "Moritz",
+    "Lip-Bu Tan's",
+    "AI Generated"
+  ],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "Positive Sentiment:\nPresident Trump softened his stance on CEO Lip-Bu Tan after their White House meeting, praising his “amazing story” and convening Cabinet talks to explore collaboration on U.S. chip manufacturing.\nTrump softens stance on Intel boss after demanding resignation\nPositive Sentiment:\n",
+      "importance_score": 129,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Intel Corporation (INTC) shares have risen today amid a wave of headlines around CEO Lip-Bu Tan’s visit to the White House.",
+      "importance_score": 34,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Sequoia's Moritz backs Intel CEO Lip-Bu Tan after Trump's 'artless bullying'\nNeutral Sentiment:",
+      "importance_score": 24,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Intel Corporation (NASDAQ:INTC) Given Consensus Recommendation of \"Reduce\" by Analysts\nNegative Sentiment:\nSome analysts argue Intel’s challenges stem more from overbuilding and structural missteps than normal semiconductor cyclicality, raising concerns about capacity utilization and profitability.",
+      "importance_score": 23,
+      "sentiment": "negative"
+    },
+    {
+      "text": "MarketBeat reports a consensus analyst recommendation of “Reduce” on INTC, with five sell ratings and 23 holds, signaling lingering skepticism over valuation and turnaround prospects.",
+      "importance_score": 22,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [],
+  "important_dates": [
+    "today",
+    "Monday",
+    "2h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Trump",
+      "verb": "praised",
+      "object": "leadership",
+      "importance": 7
+    },
+    {
+      "subject": "who",
+      "verb": "demanded",
+      "object": "resignation",
+      "importance": 7
+    },
+    {
+      "subject": "engagement",
+      "verb": "driven",
+      "object": "momentum",
+      "importance": 2
+    },
+    {
+      "subject": "Trump",
+      "verb": "softened",
+      "object": "stance",
+      "importance": 40
+    },
+    {
+      "subject": "Trump",
+      "verb": "softens",
+      "object": "stance",
+      "importance": 40
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148eec520>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148df1670>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148df1d30>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148eecc70>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dc9c40>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"INTC\", \"companies\": [\"Intel Corporation\", \"INTC\", \"the White House\", \"Cabinet\", \"White House\", \"Intel\", \"UFC\", \"Sequoia Capital’s\", \"Sequoia\", \"The White House\"], \"people\": [\"Lip-Bu Tan\", \"Trump\", \"Tan\", \"Michael Moritz\", \"Moritz\", \"Lip-Bu Tan's\", \"AI Generated\"], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"Positive Sentiment:\\nPresident Trump softened his stance on CEO Lip-Bu Tan after their White House meeting, praising his “amazing story” and convening Cabinet talks to explore collaboration on U.S. chip manufacturing.\\nTrump softens stance on Intel boss after demanding resignation\\nPositive Sentiment:\\n\", \"importance_score\": 129, \"sentiment\": \"positive\"}, {\"text\": \"Intel Corporation (INTC) shares have risen today amid a wave of headlines around CEO Lip-Bu Tan’s visit to the White House.\", \"importance_score\": 34, \"sentiment\": \"neutral\"}, {\"text\": \"Sequoia's Moritz backs Intel CEO Lip-Bu Tan after Trump's 'artless bullying'\\nNeutral Sentiment:\", \"importance_score\": 24, \"sentiment\": \"neutral\"}, {\"text\": \"Intel Corporation (NASDAQ:INTC) Given Consensus Recommendation of \\\"Reduce\\\" by Analysts\\nNegative Sentiment:\\nSome analysts argue Intel’s challenges stem more from overbuilding and structural missteps than normal semiconductor cyclicality, raising concerns about capacity utilization and profitability.\", \"importance_score\": 23, \"sentiment\": \"negative\"}, {\"text\": \"MarketBeat reports a consensus analyst recommendation of “Reduce” on INTC, with five sell ratings and 23 holds, signaling lingering skepticism over valuation and turnaround prospects.\", \"importance_score\": 22, \"sentiment\": \"neutral\"}], \"money_amounts\": [], \"important_dates\": [\"today\", \"Monday\", \"2h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Trump\", \"verb\": \"praised\", \"object\": \"leadership\", \"importance\": 7}, {\"subject\": \"who\", \"verb\": \"demanded\", \"object\": \"resignation\", \"importance\": 7}, {\"subject\": \"engagement\", \"verb\": \"driven\", \"object\": \"momentum\", \"importance\": 2}, {\"subject\": \"Trump\", \"verb\": \"softened\", \"object\": \"stance\", \"importance\": 40}, {\"subject\": \"Trump\", \"verb\": \"softens\", \"object\": \"stance\", \"importance\": 40}], \"business_context\": []}"
+}
