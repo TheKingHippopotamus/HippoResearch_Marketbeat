@@ -1,0 +1,126 @@
+{
+  "ticker": "BAC",
+  "timestamp": "2025-08-12T05:46:55.233295",
+  "companies": [
+    "Bank of America Corporation",
+    "BAC",
+    "J.P. Morgan",
+    "Bank of America",
+    "Zacks Research",
+    "Seeking Alpha",
+    "MarketBeat",
+    "BofA",
+    "Treasury",
+    "Fed",
+    "BofA Securities",
+    "Avnet",
+    "AVT",
+    "Under Armour",
+    "UAA",
+    "B of A Securities",
+    "Bank of America Securities",
+    "Warner Music Group",
+    "Essent Group",
+    "Essent Group’s",
+    "AI Generated"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "media",
+  "key_points": [
+    {
+      "text": "Under Armour (UAA) Analyst Rating: B of A Securities Lowers Price Target\nNeutral Sentiment:\nBank of America Securities maintained a Hold on Warner Music Group and reiterated a Buy on Essent Group, reflecting ongoing sector coverage.",
+      "importance_score": 68,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "J.P. Morgan Maintains a Buy Rating on Bank of America (BAC), Sets a $51 PT\nPositive Sentiment:\nBAC announced a larger annual dividend of $0.28 per share—up from last year—reflecting strong capital returns to shareholders.",
+      "importance_score": 65,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Bank of America (NYSE:BAC) Will Pay A Larger Dividend Than Last Year At $0.28\nPositive Sentiment:\nZacks Research raised its Q4 2025 EPS forecast to $0.96 (from $0.92), signaling an improved near-term earnings outlook.",
+      "importance_score": 65,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Warner Music Group: Hold Rating Amid Strong Financial Performance and Strategic Restructuring\nEssent Group’s Strong Financial Performance and Operational Efficiency Drive Buy Rating\nNeutral Sentiment:",
+      "importance_score": 44,
+      "sentiment": "positive"
+    },
+    {
+      "text": "BofA Securities raised Avnet’s (AVT) price target to $50 on strong revenue trends, showcasing the firm’s broader sector research.",
+      "importance_score": 36,
+      "sentiment": "positive"
+    }
+  ],
+  "money_amounts": [
+    "51",
+    "51",
+    "0.28",
+    "0.28",
+    "0.96",
+    "0.92",
+    "50",
+    "50"
+  ],
+  "important_dates": [
+    "today",
+    "annual",
+    "last year",
+    "Last Year",
+    "Q4 2025",
+    "Q4 EPS",
+    "August 11th",
+    "year-end",
+    "FY2025",
+    "2h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Morgan",
+      "verb": "reiterated",
+      "object": "rating",
+      "importance": 8
+    },
+    {
+      "subject": "Morgan",
+      "verb": "Maintains",
+      "object": "Rating",
+      "importance": 17
+    },
+    {
+      "subject": "BAC",
+      "verb": "announced",
+      "object": "dividend",
+      "importance": 17
+    },
+    {
+      "subject": "Bank",
+      "verb": "Pay",
+      "object": "Dividend",
+      "importance": 17
+    },
+    {
+      "subject": "Research",
+      "verb": "raised",
+      "object": "forecast",
+      "importance": 17
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148df11f0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dd65e0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dc5d60>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dc96d0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148eecb80>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"BAC\", \"companies\": [\"Bank of America Corporation\", \"BAC\", \"J.P. Morgan\", \"Bank of America\", \"Zacks Research\", \"Seeking Alpha\", \"MarketBeat\", \"BofA\", \"Treasury\", \"Fed\", \"BofA Securities\", \"Avnet\", \"AVT\", \"Under Armour\", \"UAA\", \"B of A Securities\", \"Bank of America Securities\", \"Warner Music Group\", \"Essent Group\", \"Essent Group’s\", \"AI Generated\"], \"people\": [], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"media\", \"key_points\": [{\"text\": \"Under Armour (UAA) Analyst Rating: B of A Securities Lowers Price Target\\nNeutral Sentiment:\\nBank of America Securities maintained a Hold on Warner Music Group and reiterated a Buy on Essent Group, reflecting ongoing sector coverage.\", \"importance_score\": 68, \"sentiment\": \"neutral\"}, {\"text\": \"J.P. Morgan Maintains a Buy Rating on Bank of America (BAC), Sets a $51 PT\\nPositive Sentiment:\\nBAC announced a larger annual dividend of $0.28 per share—up from last year—reflecting strong capital returns to shareholders.\", \"importance_score\": 65, \"sentiment\": \"positive\"}, {\"text\": \"Bank of America (NYSE:BAC) Will Pay A Larger Dividend Than Last Year At $0.28\\nPositive Sentiment:\\nZacks Research raised its Q4 2025 EPS forecast to $0.96 (from $0.92), signaling an improved near-term earnings outlook.\", \"importance_score\": 65, \"sentiment\": \"positive\"}, {\"text\": \"Warner Music Group: Hold Rating Amid Strong Financial Performance and Strategic Restructuring\\nEssent Group’s Strong Financial Performance and Operational Efficiency Drive Buy Rating\\nNeutral Sentiment:\", \"importance_score\": 44, \"sentiment\": \"positive\"}, {\"text\": \"BofA Securities raised Avnet’s (AVT) price target to $50 on strong revenue trends, showcasing the firm’s broader sector research.\", \"importance_score\": 36, \"sentiment\": \"positive\"}], \"money_amounts\": [\"51\", \"51\", \"0.28\", \"0.28\", \"0.96\", \"0.92\", \"50\", \"50\"], \"important_dates\": [\"today\", \"annual\", \"last year\", \"Last Year\", \"Q4 2025\", \"Q4 EPS\", \"August 11th\", \"year-end\", \"FY2025\", \"2h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Morgan\", \"verb\": \"reiterated\", \"object\": \"rating\", \"importance\": 8}, {\"subject\": \"Morgan\", \"verb\": \"Maintains\", \"object\": \"Rating\", \"importance\": 17}, {\"subject\": \"BAC\", \"verb\": \"announced\", \"object\": \"dividend\", \"importance\": 17}, {\"subject\": \"Bank\", \"verb\": \"Pay\", \"object\": \"Dividend\", \"importance\": 17}, {\"subject\": \"Research\", \"verb\": \"raised\", \"object\": \"forecast\", \"importance\": 17}], \"business_context\": []}"
+}
