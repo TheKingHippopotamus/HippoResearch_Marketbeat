@@ -1,0 +1,59 @@
+{
+  "ticker": "ROL",
+  "timestamp": "2025-08-12T05:30:28.143372",
+  "companies": [
+    "Rollins, Inc.",
+    "ROL",
+    "American Banking News",
+    "AI Generated"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "Positive Sentiment:\nAnalysts from American Banking News set a $61.40 target price on ROL, signaling confidence in the pest‐control services company's growth outlook.\nAnalysts Set Rollins, Inc. (NYSE:ROL) Target Price at $61.40\nPosted 1h ago\nAI Generated.",
+      "importance_score": 76,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Rollins, Inc. (NYSE:ROL) saw its shares tick higher today, driven by fresh analyst coverage.",
+      "importance_score": 21,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "61.40",
+    "61.40"
+  ],
+  "important_dates": [
+    "today",
+    "1h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Analysts",
+      "verb": "set",
+      "object": "price",
+      "importance": 20
+    },
+    {
+      "subject": "Analysts",
+      "verb": "Set",
+      "object": "Price",
+      "importance": 20
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148eec340>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148df1df0>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"ROL\", \"companies\": [\"Rollins, Inc.\", \"ROL\", \"American Banking News\", \"AI Generated\"], \"people\": [], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"Positive Sentiment:\\nAnalysts from American Banking News set a $61.40 target price on ROL, signaling confidence in the pest‐control services company's growth outlook.\\nAnalysts Set Rollins, Inc. (NYSE:ROL) Target Price at $61.40\\nPosted 1h ago\\nAI Generated.\", \"importance_score\": 76, \"sentiment\": \"positive\"}, {\"text\": \"Rollins, Inc. (NYSE:ROL) saw its shares tick higher today, driven by fresh analyst coverage.\", \"importance_score\": 21, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"61.40\", \"61.40\"], \"important_dates\": [\"today\", \"1h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Analysts\", \"verb\": \"set\", \"object\": \"price\", \"importance\": 20}, {\"subject\": \"Analysts\", \"verb\": \"Set\", \"object\": \"Price\", \"importance\": 20}], \"business_context\": []}"
+}
