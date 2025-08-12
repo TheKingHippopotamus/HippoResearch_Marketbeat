@@ -1,0 +1,103 @@
+{
+  "ticker": "FOX",
+  "timestamp": "2025-08-12T06:13:09.389884",
+  "companies": [
+    "Fox Corporation",
+    "FOXA",
+    "FOX",
+    "Fox",
+    "ESPN",
+    "PR Newswire",
+    "Fox One",
+    "ESPN DTC",
+    "FOX ONE",
+    "AI Generated"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "media",
+  "key_points": [
+    {
+      "text": "ESPN, Fox to bundle upcoming streaming services in new sports-heavy deal\nPositive Sentiment:\nA joint PR Newswire release confirmed that ESPN’s DTC Unlimited service and Fox One will be available together at the same $39.99 price point, reinforcing Fox’s push into the growing sports-streaming market.",
+      "importance_score": 53,
+      "sentiment": "positive"
+    },
+    {
+      "text": "ESPN DTC AND FOX ONE TO LAUNCH COMBINED BUNDLE OFFER\nNeutral Sentiment:\nLatest short-interest data reported zero shares on loan as of August 11, implying minimal bearish bets against the stock, though the figures may reflect reporting quirks rather than true investor sentiment.",
+      "importance_score": 37,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "ESPN and Fox will offer their new direct-to-consumer apps as a single sports bundle for $39.99 per month starting October 2, aiming to boost subscriber growth and accelerate streaming revenue.",
+      "importance_score": 29,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Fox Corporation (Nasdaq: FOXA, FOX)",
+      "importance_score": 20,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Posted 3h ago\nAI Generated.",
+      "importance_score": 15,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "39.99",
+    "39.99"
+  ],
+  "important_dates": [
+    "today",
+    "October 2",
+    "August 11",
+    "3h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "that",
+      "verb": "driving",
+      "object": "movement",
+      "importance": 3
+    },
+    {
+      "subject": "ESPN",
+      "verb": "offer",
+      "object": "apps",
+      "importance": 7
+    },
+    {
+      "subject": "ESPN",
+      "verb": "bundle",
+      "object": "services",
+      "importance": 11
+    },
+    {
+      "subject": "data",
+      "verb": "reported",
+      "object": "shares",
+      "importance": 12
+    },
+    {
+      "subject": "figures",
+      "verb": "reflect",
+      "object": "quirks",
+      "importance": 12
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147dcc310>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148e76550>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148e76d60>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147d82a90>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148e76a30>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"FOX\", \"companies\": [\"Fox Corporation\", \"FOXA\", \"FOX\", \"Fox\", \"ESPN\", \"PR Newswire\", \"Fox One\", \"ESPN DTC\", \"FOX ONE\", \"AI Generated\"], \"people\": [], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"media\", \"key_points\": [{\"text\": \"ESPN, Fox to bundle upcoming streaming services in new sports-heavy deal\\nPositive Sentiment:\\nA joint PR Newswire release confirmed that ESPN’s DTC Unlimited service and Fox One will be available together at the same $39.99 price point, reinforcing Fox’s push into the growing sports-streaming market.\", \"importance_score\": 53, \"sentiment\": \"positive\"}, {\"text\": \"ESPN DTC AND FOX ONE TO LAUNCH COMBINED BUNDLE OFFER\\nNeutral Sentiment:\\nLatest short-interest data reported zero shares on loan as of August 11, implying minimal bearish bets against the stock, though the figures may reflect reporting quirks rather than true investor sentiment.\", \"importance_score\": 37, \"sentiment\": \"neutral\"}, {\"text\": \"ESPN and Fox will offer their new direct-to-consumer apps as a single sports bundle for $39.99 per month starting October 2, aiming to boost subscriber growth and accelerate streaming revenue.\", \"importance_score\": 29, \"sentiment\": \"positive\"}, {\"text\": \"Fox Corporation (Nasdaq: FOXA, FOX)\", \"importance_score\": 20, \"sentiment\": \"neutral\"}, {\"text\": \"Posted 3h ago\\nAI Generated.\", \"importance_score\": 15, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"39.99\", \"39.99\"], \"important_dates\": [\"today\", \"October 2\", \"August 11\", \"3h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"that\", \"verb\": \"driving\", \"object\": \"movement\", \"importance\": 3}, {\"subject\": \"ESPN\", \"verb\": \"offer\", \"object\": \"apps\", \"importance\": 7}, {\"subject\": \"ESPN\", \"verb\": \"bundle\", \"object\": \"services\", \"importance\": 11}, {\"subject\": \"data\", \"verb\": \"reported\", \"object\": \"shares\", \"importance\": 12}, {\"subject\": \"figures\", \"verb\": \"reflect\", \"object\": \"quirks\", \"importance\": 12}], \"business_context\": []}"
+}
