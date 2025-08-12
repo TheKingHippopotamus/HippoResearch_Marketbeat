@@ -1,0 +1,111 @@
+{
+  "ticker": "TSLA",
+  "timestamp": "2025-08-12T07:05:00.899146",
+  "companies": [
+    "Tesla, Inc.",
+    "TSLA",
+    "Tesla",
+    "LG Energy Solution",
+    "Ofgem",
+    "Department of Transportation",
+    "MarketBeat",
+    "Negative Sentiment:",
+    "Levi & Korsinsky",
+    "CATL"
+  ],
+  "people": [
+    "Elon Musk",
+    "Musk",
+    "Elon Musk's",
+    "Kalshi",
+    "Piero Landolfi"
+  ],
+  "sentiment": {
+    "overall": "neutral",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "automotive",
+  "key_points": [
+    {
+      "text": "Tesla’s Musk Says ‘All Effort Is Focused on AI5/AI6 Chips’ After Ending Dojo Project\nPositive Sentiment:\nLG Energy Solution agreed to supply lithium iron phosphate batteries to Tesla, reducing reliance on Chinese imports and strengthening the supply chain.\nLG Energy Solution To Supply Lithium Iron P",
+      "importance_score": 142,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Markets bet on whether Tesla robotaxi will be released to public before Jan 1, 2026\nNeutral Sentiment:\nTSLA appears on multiple MarketBeat sector watchlists today—from electric vehicles to large-cap and insurance—reflecting broad investor interest.\nElectric Vehicle Stocks To Add to Your Watchlist - ",
+      "importance_score": 38,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Contact Levi & Korsinsky by October 3, 2025 Deadline to Join Class Action Against Tesla, Inc. (TSLA)",
+      "importance_score": 34,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Tesla's North American director of service leaves EV maker\nNegative Sentiment:\nA class action lawsuit was filed by Levi & Korsinsky alleging securities law violations, adding legal overhang.",
+      "importance_score": 33,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Chinese sales of the Model Y and Model 3 continue to decline, contributing to the global downward sales trend.",
+      "importance_score": 25,
+      "sentiment": "negative"
+    }
+  ],
+  "money_amounts": [],
+  "important_dates": [
+    "today",
+    "month-end",
+    "January 1, 2026",
+    "yesterday",
+    "Jan 1, 2026",
+    "August 11th",
+    "nearly nine years",
+    "October 3, 2025",
+    "3h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "stock",
+      "verb": "flashed",
+      "object": "alert",
+      "importance": 3
+    },
+    {
+      "subject": "Tesla",
+      "verb": "launches",
+      "object": "bid",
+      "importance": 43
+    },
+    {
+      "subject": "Department",
+      "verb": "reviewing",
+      "object": "application",
+      "importance": 43
+    },
+    {
+      "subject": "market",
+      "verb": "implies",
+      "object": "chance",
+      "importance": 43
+    },
+    {
+      "subject": "Tesla",
+      "verb": "launch",
+      "object": "service",
+      "importance": 43
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147d828b0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147d82e20>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d026d0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148ddd9d0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148de6ac0>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"TSLA\", \"companies\": [\"Tesla, Inc.\", \"TSLA\", \"Tesla\", \"LG Energy Solution\", \"Ofgem\", \"Department of Transportation\", \"MarketBeat\", \"Negative Sentiment:\", \"Levi & Korsinsky\", \"CATL\"], \"people\": [\"Elon Musk\", \"Musk\", \"Elon Musk's\", \"Kalshi\", \"Piero Landolfi\"], \"sentiment\": {\"overall\": \"neutral\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"automotive\", \"key_points\": [{\"text\": \"Tesla’s Musk Says ‘All Effort Is Focused on AI5/AI6 Chips’ After Ending Dojo Project\\nPositive Sentiment:\\nLG Energy Solution agreed to supply lithium iron phosphate batteries to Tesla, reducing reliance on Chinese imports and strengthening the supply chain.\\nLG Energy Solution To Supply Lithium Iron P\", \"importance_score\": 142, \"sentiment\": \"positive\"}, {\"text\": \"Markets bet on whether Tesla robotaxi will be released to public before Jan 1, 2026\\nNeutral Sentiment:\\nTSLA appears on multiple MarketBeat sector watchlists today—from electric vehicles to large-cap and insurance—reflecting broad investor interest.\\nElectric Vehicle Stocks To Add to Your Watchlist - \", \"importance_score\": 38, \"sentiment\": \"negative\"}, {\"text\": \"Contact Levi & Korsinsky by October 3, 2025 Deadline to Join Class Action Against Tesla, Inc. (TSLA)\", \"importance_score\": 34, \"sentiment\": \"neutral\"}, {\"text\": \"Tesla's North American director of service leaves EV maker\\nNegative Sentiment:\\nA class action lawsuit was filed by Levi & Korsinsky alleging securities law violations, adding legal overhang.\", \"importance_score\": 33, \"sentiment\": \"negative\"}, {\"text\": \"Chinese sales of the Model Y and Model 3 continue to decline, contributing to the global downward sales trend.\", \"importance_score\": 25, \"sentiment\": \"negative\"}], \"money_amounts\": [], \"important_dates\": [\"today\", \"month-end\", \"January 1, 2026\", \"yesterday\", \"Jan 1, 2026\", \"August 11th\", \"nearly nine years\", \"October 3, 2025\", \"3h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"stock\", \"verb\": \"flashed\", \"object\": \"alert\", \"importance\": 3}, {\"subject\": \"Tesla\", \"verb\": \"launches\", \"object\": \"bid\", \"importance\": 43}, {\"subject\": \"Department\", \"verb\": \"reviewing\", \"object\": \"application\", \"importance\": 43}, {\"subject\": \"market\", \"verb\": \"implies\", \"object\": \"chance\", \"importance\": 43}, {\"subject\": \"Tesla\", \"verb\": \"launch\", \"object\": \"service\", \"importance\": 43}], \"business_context\": []}"
+}
