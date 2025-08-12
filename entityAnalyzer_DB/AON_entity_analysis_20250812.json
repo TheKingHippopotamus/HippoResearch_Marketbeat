@@ -1,0 +1,96 @@
+{
+  "ticker": "AON",
+  "timestamp": "2025-08-12T03:33:27.263011",
+  "companies": [
+    "AON plc",
+    "AON",
+    "Aon plc",
+    "TD Cowen",
+    "Aon",
+    "1B Insurance"
+  ],
+  "people": [
+    "Morley"
+  ],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "finance",
+  "key_points": [
+    {
+      "text": "Positive Sentiment:\nAnalysts raised AON’s price target to $409.21, signaling increased confidence in the firm’s growth prospects.\nAnalysts Set Aon plc (NYSE:AON) PT at $409.21\nPositive Sentiment:\nTD Cowen initiated a Buy rating on AON, highlighting the company’s strong positioning in risk solutions.",
+      "importance_score": 63,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Aon’s cat risk management survey reveals industry shortfalls and strategic priorities\nNeutral Sentiment:\nAON drew media coverage for imposing an indefinite lifetime no-fly ban on an unruly Ibom Air passenger, demonstrating a zero-tolerance policy on air travel incidents.\nAON Imposes No-Fly Life Ban ",
+      "importance_score": 48,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Aon (AON) Receives a Buy from TD Cowen\nPositive Sentiment:\nAON expanded its board with a new director appointment, strengthening corporate governance.",
+      "importance_score": 32,
+      "sentiment": "positive"
+    },
+    {
+      "text": "1B Insurance Appoints Aon's Morley as CEO\nNeutral Sentiment:\nAON published survey findings highlighting critical gaps in catastrophe model usage among (re)insurers, outlining strategic priorities for risk management.\nAon survey highlights critical gaps in cat model use among re/insurers\nNeutral Sent",
+      "importance_score": 31,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Aon Expands Board with New Director Appointment\nPositive Sentiment:\n1B Insurance named AON veteran Morley as its CEO, underscoring AON’s leadership strength in the broader insurance ecosystem.",
+      "importance_score": 28,
+      "sentiment": "positive"
+    }
+  ],
+  "money_amounts": [
+    "409.21",
+    "409.21"
+  ],
+  "important_dates": [],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "reforms",
+      "verb": "pose",
+      "object": "concern",
+      "importance": 4
+    },
+    {
+      "subject": "Analysts",
+      "verb": "raised",
+      "object": "target",
+      "importance": 14
+    },
+    {
+      "subject": "Analysts",
+      "verb": "Set",
+      "object": "AON",
+      "importance": 14
+    },
+    {
+      "subject": "Cowen",
+      "verb": "initiated",
+      "object": "rating",
+      "importance": 14
+    },
+    {
+      "subject": "Aon",
+      "verb": "Receives",
+      "object": "Buy",
+      "importance": 7
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d05a30>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d11a60>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d18280>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d57310>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147d9ba30>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"AON\", \"companies\": [\"AON plc\", \"AON\", \"Aon plc\", \"TD Cowen\", \"Aon\", \"1B Insurance\"], \"people\": [\"Morley\"], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"finance\", \"key_points\": [{\"text\": \"Positive Sentiment:\\nAnalysts raised AON’s price target to $409.21, signaling increased confidence in the firm’s growth prospects.\\nAnalysts Set Aon plc (NYSE:AON) PT at $409.21\\nPositive Sentiment:\\nTD Cowen initiated a Buy rating on AON, highlighting the company’s strong positioning in risk solutions.\", \"importance_score\": 63, \"sentiment\": \"positive\"}, {\"text\": \"Aon’s cat risk management survey reveals industry shortfalls and strategic priorities\\nNeutral Sentiment:\\nAON drew media coverage for imposing an indefinite lifetime no-fly ban on an unruly Ibom Air passenger, demonstrating a zero-tolerance policy on air travel incidents.\\nAON Imposes No-Fly Life Ban \", \"importance_score\": 48, \"sentiment\": \"negative\"}, {\"text\": \"Aon (AON) Receives a Buy from TD Cowen\\nPositive Sentiment:\\nAON expanded its board with a new director appointment, strengthening corporate governance.\", \"importance_score\": 32, \"sentiment\": \"positive\"}, {\"text\": \"1B Insurance Appoints Aon's Morley as CEO\\nNeutral Sentiment:\\nAON published survey findings highlighting critical gaps in catastrophe model usage among (re)insurers, outlining strategic priorities for risk management.\\nAon survey highlights critical gaps in cat model use among re/insurers\\nNeutral Sent\", \"importance_score\": 31, \"sentiment\": \"neutral\"}, {\"text\": \"Aon Expands Board with New Director Appointment\\nPositive Sentiment:\\n1B Insurance named AON veteran Morley as its CEO, underscoring AON’s leadership strength in the broader insurance ecosystem.\", \"importance_score\": 28, \"sentiment\": \"positive\"}], \"money_amounts\": [\"409.21\", \"409.21\"], \"important_dates\": [], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"reforms\", \"verb\": \"pose\", \"object\": \"concern\", \"importance\": 4}, {\"subject\": \"Analysts\", \"verb\": \"raised\", \"object\": \"target\", \"importance\": 14}, {\"subject\": \"Analysts\", \"verb\": \"Set\", \"object\": \"AON\", \"importance\": 14}, {\"subject\": \"Cowen\", \"verb\": \"initiated\", \"object\": \"rating\", \"importance\": 14}, {\"subject\": \"Aon\", \"verb\": \"Receives\", \"object\": \"Buy\", \"importance\": 7}], \"business_context\": []}"
+}
