@@ -1,0 +1,101 @@
+{
+  "ticker": "MCD",
+  "timestamp": "2025-08-12T06:11:40.182616",
+  "companies": [
+    "McDonald's Corporation",
+    "MCD",
+    "McDonald",
+    "Hello Kitty",
+    "McDonald’s",
+    "BMO Capital Markets",
+    "McDonald's",
+    "Seeking Alpha"
+  ],
+  "people": [
+    "Chris Kempczinski"
+  ],
+  "sentiment": {
+    "overall": "neutral",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "food_beverage",
+  "key_points": [
+    {
+      "text": "Positive Sentiment:\nCEO Chris Kempczinski promises expanded value offerings beyond recent menu tweaks, aiming to recapture budget-conscious diners.\nMcDonald's CEO promises more value, changes beyond 'Snack Wraps'\nPositive Sentiment:\nBMO Capital Markets reiterates an Outperform rating on MCD, citing ",
+      "importance_score": 42,
+      "sentiment": "positive"
+    },
+    {
+      "text": "McDonald's' (MCD) Outperform Rating Reiterated at BMO Capital Markets\nNeutral Sentiment:",
+      "importance_score": 28,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "McDonald’s Japan ends Pokemon card Happy Meal promotion amid reports of food wastage, scalping\nNegative Sentiment:\nA Seeking Alpha report warns of margin compression and a weakened value proposition, signaling potential earnings pressure.",
+      "importance_score": 28,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Key developments influencing the stock include:\nPositive Sentiment:\nMcDonald’s Hello Kitty x Ninja Turtles toy collaboration taps into ’90s nostalgia and aims to boost Happy Meal traffic.",
+      "importance_score": 25,
+      "sentiment": "positive"
+    },
+    {
+      "text": "McDonald's Corporation (MCD) shares have decreased today amidst mixed news flow.",
+      "importance_score": 18,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [],
+  "important_dates": [
+    "today",
+    "’",
+    "90s",
+    "’90s",
+    "3h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Toys",
+      "verb": "Have",
+      "object": "Sentiment",
+      "importance": 6
+    },
+    {
+      "subject": "Kid",
+      "verb": "Losing",
+      "object": "It",
+      "importance": 6
+    },
+    {
+      "subject": "McDonald",
+      "verb": "debuts",
+      "object": "collab",
+      "importance": 4
+    },
+    {
+      "subject": "Kempczinski",
+      "verb": "promises",
+      "object": "offerings",
+      "importance": 13
+    },
+    {
+      "subject": "CEO",
+      "verb": "promises",
+      "object": "value",
+      "importance": 13
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148e54790>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148de42b0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148e44940>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148e54790>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dd6130>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"MCD\", \"companies\": [\"McDonald's Corporation\", \"MCD\", \"McDonald\", \"Hello Kitty\", \"McDonald’s\", \"BMO Capital Markets\", \"McDonald's\", \"Seeking Alpha\"], \"people\": [\"Chris Kempczinski\"], \"sentiment\": {\"overall\": \"neutral\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"food_beverage\", \"key_points\": [{\"text\": \"Positive Sentiment:\\nCEO Chris Kempczinski promises expanded value offerings beyond recent menu tweaks, aiming to recapture budget-conscious diners.\\nMcDonald's CEO promises more value, changes beyond 'Snack Wraps'\\nPositive Sentiment:\\nBMO Capital Markets reiterates an Outperform rating on MCD, citing \", \"importance_score\": 42, \"sentiment\": \"positive\"}, {\"text\": \"McDonald's' (MCD) Outperform Rating Reiterated at BMO Capital Markets\\nNeutral Sentiment:\", \"importance_score\": 28, \"sentiment\": \"neutral\"}, {\"text\": \"McDonald’s Japan ends Pokemon card Happy Meal promotion amid reports of food wastage, scalping\\nNegative Sentiment:\\nA Seeking Alpha report warns of margin compression and a weakened value proposition, signaling potential earnings pressure.\", \"importance_score\": 28, \"sentiment\": \"negative\"}, {\"text\": \"Key developments influencing the stock include:\\nPositive Sentiment:\\nMcDonald’s Hello Kitty x Ninja Turtles toy collaboration taps into ’90s nostalgia and aims to boost Happy Meal traffic.\", \"importance_score\": 25, \"sentiment\": \"positive\"}, {\"text\": \"McDonald's Corporation (MCD) shares have decreased today amidst mixed news flow.\", \"importance_score\": 18, \"sentiment\": \"neutral\"}], \"money_amounts\": [], \"important_dates\": [\"today\", \"’\", \"90s\", \"’90s\", \"3h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Toys\", \"verb\": \"Have\", \"object\": \"Sentiment\", \"importance\": 6}, {\"subject\": \"Kid\", \"verb\": \"Losing\", \"object\": \"It\", \"importance\": 6}, {\"subject\": \"McDonald\", \"verb\": \"debuts\", \"object\": \"collab\", \"importance\": 4}, {\"subject\": \"Kempczinski\", \"verb\": \"promises\", \"object\": \"offerings\", \"importance\": 13}, {\"subject\": \"CEO\", \"verb\": \"promises\", \"object\": \"value\", \"importance\": 13}], \"business_context\": []}"
+}
