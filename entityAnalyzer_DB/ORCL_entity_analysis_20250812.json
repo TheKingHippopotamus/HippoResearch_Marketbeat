@@ -1,0 +1,100 @@
+{
+  "ticker": "ORCL",
+  "timestamp": "2025-08-12T04:49:26.197343",
+  "companies": [
+    "Oracle Corporation",
+    "ORCL",
+    "Zacks",
+    "Oracle",
+    "TD Cowen",
+    "Cowen",
+    "KPMG",
+    "MarketBeat",
+    "Benzinga",
+    "AI Generated"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "Positive Sentiment:\nZacks reports Oracle outperformed the broader market, closing up 1.05% at $252.68 despite a general market dip\nWhy the Market Dipped But Oracle (ORCL) Gained Today\nPositive Sentiment:\nMarketBeat outlines five reasons why Oracle’s 2025 rally is only halfway through, citing strong ",
+      "importance_score": 310,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Oracle is also featured among “Top Blockchain Stocks Worth Watching,” reflecting its blockchain initiatives\nTop Blockchain Stocks Worth Watching – August 11th\nNeutral Sentiment:\nBenzinga highlights that $1,000 invested in Oracle 20 years ago would be worth a substantial sum today, underscoring long-",
+      "importance_score": 126,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Oracle Corporation (ORCL) shares advanced today, buoyed by analyst upgrades, strategic partnerships, and bullish market outlooks.",
+      "importance_score": 22,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "252.68",
+    "325",
+    "275",
+    "325",
+    "275",
+    "1,000",
+    "1000"
+  ],
+  "important_dates": [
+    "today",
+    "Today",
+    "2025",
+    "August 11th",
+    "20 years ago",
+    "20 Years Ago",
+    "year-end",
+    "57m ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Zacks",
+      "verb": "reports",
+      "object": "Sentiment",
+      "importance": 81
+    },
+    {
+      "subject": "Oracle",
+      "verb": "outperformed",
+      "object": "market",
+      "importance": 81
+    },
+    {
+      "subject": "MarketBeat",
+      "verb": "outlines",
+      "object": "reasons",
+      "importance": 81
+    },
+    {
+      "subject": "Cowen",
+      "verb": "raises",
+      "object": "target",
+      "importance": 81
+    },
+    {
+      "subject": "Cowen",
+      "verb": "Lifts",
+      "object": "PT",
+      "importance": 81
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dbe1c0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dd1820>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147dbc9d0>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"ORCL\", \"companies\": [\"Oracle Corporation\", \"ORCL\", \"Zacks\", \"Oracle\", \"TD Cowen\", \"Cowen\", \"KPMG\", \"MarketBeat\", \"Benzinga\", \"AI Generated\"], \"people\": [], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"Positive Sentiment:\\nZacks reports Oracle outperformed the broader market, closing up 1.05% at $252.68 despite a general market dip\\nWhy the Market Dipped But Oracle (ORCL) Gained Today\\nPositive Sentiment:\\nMarketBeat outlines five reasons why Oracle’s 2025 rally is only halfway through, citing strong \", \"importance_score\": 310, \"sentiment\": \"positive\"}, {\"text\": \"Oracle is also featured among “Top Blockchain Stocks Worth Watching,” reflecting its blockchain initiatives\\nTop Blockchain Stocks Worth Watching – August 11th\\nNeutral Sentiment:\\nBenzinga highlights that $1,000 invested in Oracle 20 years ago would be worth a substantial sum today, underscoring long-\", \"importance_score\": 126, \"sentiment\": \"positive\"}, {\"text\": \"Oracle Corporation (ORCL) shares advanced today, buoyed by analyst upgrades, strategic partnerships, and bullish market outlooks.\", \"importance_score\": 22, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"252.68\", \"325\", \"275\", \"325\", \"275\", \"1,000\", \"1000\"], \"important_dates\": [\"today\", \"Today\", \"2025\", \"August 11th\", \"20 years ago\", \"20 Years Ago\", \"year-end\", \"57m ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Zacks\", \"verb\": \"reports\", \"object\": \"Sentiment\", \"importance\": 81}, {\"subject\": \"Oracle\", \"verb\": \"outperformed\", \"object\": \"market\", \"importance\": 81}, {\"subject\": \"MarketBeat\", \"verb\": \"outlines\", \"object\": \"reasons\", \"importance\": 81}, {\"subject\": \"Cowen\", \"verb\": \"raises\", \"object\": \"target\", \"importance\": 81}, {\"subject\": \"Cowen\", \"verb\": \"Lifts\", \"object\": \"PT\", \"importance\": 81}], \"business_context\": []}"
+}
