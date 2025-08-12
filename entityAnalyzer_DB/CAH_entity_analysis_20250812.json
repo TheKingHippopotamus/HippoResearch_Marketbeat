@@ -1,6 +1,6 @@
 {
   "ticker": "CAH",
-  "timestamp": "2025-08-12T06:19:44.768893",
+  "timestamp": "2025-08-12T09:11:22.514517",
   "companies": [
     "Cardinal Health, Inc.",
     "CAH",
@@ -21,8 +21,8 @@
       "sentiment": "positive"
     },
     {
-      "text": "Cardinal Health FQ4 2025 Earnings Preview\nQ2 Earnings Report Preview\nNegative Sentiment:\nNear-term revenue headwinds cited from a customer contract expiration, which could pressure upcoming results.\nCardinal Health Q4 Preview\nPosted 16m ago\nAI Generated.",
-      "importance_score": 48,
+      "text": "Cardinal Health FQ4 2025 Earnings Preview\nQ2 Earnings Report Preview\nNegative Sentiment:\nNear-term revenue headwinds cited from a customer contract expiration, which could pressure upcoming results.\nCardinal Health Q4 Preview\nPosted 3h ago\nAI Generated.",
+      "importance_score": 46,
       "sentiment": "negative"
     },
     {
@@ -54,7 +54,7 @@
     "FQ4",
     "Q2",
     "FQ4 2025",
-    "16m ago"
+    "3h ago"
   ],
   "financial_keywords": [],
   "key_relationships": [
@@ -80,16 +80,16 @@
       "subject": "which",
       "verb": "pressure",
       "object": "results",
-      "importance": 17
+      "importance": 16
     }
   ],
   "business_context": [],
   "key_points_he": [
-    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147dcc340>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
-    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148e44580>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
-    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148e540a0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
-    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148e44c70>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
-    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147d82f70>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+    "הפיתוחים המרכזיים כוללים:\n\nחיוביות:\nפתיחת כיסוי עם דירוג קנייה וערך הוגן של 239 דולר, הנגרם על ידי צמיחה מואצת בחלוקת מוצרים מיוחדים בתחומי האוטואימון, האורולוגיה והאונקולוגיה.\nCardinal Health תחזית רבעונית: מואצת באוטואימון, אורולוגיה ואונקולוגיה",
+    "תחזית רווחי Cardinal Health לרבעון הרביעי, 2025\nתקציר דוח הרווחים הרבעוני השני\nגישה שלילית:\nרוחות שליליות על הכנסות לטווח הקצר נזכרות מסיום חוזה לקוח, אשר עשוי להפעיל לחץ על התוצאות הקרובות.\nתקציר רבעון הרביעי של Cardinal Health\nפורסם לפני 3 שעות\nמבוסס AI.",
+    "מניות של חברת Cardinal Health, Inc. (NYSE: CAH) עלו היום בעקבות סערת תחזיות אנליסטים ודירוגים חיוביים לפני פרסום הדוחות הכספיים הרבעוניים שלה לתקופה הפיסקלית הרביעית ב-12 באוגוסט.",
+    "פיתח אסטרטגיה מבוססת אפשרויות ליצירת הכנסה של 500 דולר לחודש ממניות CAH לפני דוחות הרבעון הרביעי.",
+    "איך להרוויח 500 דולר לחודש ממניות חברת Cardinal Health לפני פרסום דוחות הרבעון הרביעי (Q4)\n\n(המשפט נשאר נייטרלי מבחינה רגשית, כפי שצוין בבקשה.)"
   ],
-  "compact_analysis": "{\"ticker\": \"CAH\", \"companies\": [\"Cardinal Health, Inc.\", \"CAH\", \"Cardinal Health\"], \"people\": [], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"healthcare\", \"key_points\": [{\"text\": \"Key developments include:\\nPositive Sentiment:\\nInitiation of coverage with a Buy rating and $239 fair value, driven by accelerating specialty distribution growth in autoimmune, urology and oncology segments.\\nCardinal Health Q4 Preview: Accelerating Autoimmune, Urology And Oncology\\nPositive Sentiment:\", \"importance_score\": 74, \"sentiment\": \"positive\"}, {\"text\": \"Cardinal Health FQ4 2025 Earnings Preview\\nQ2 Earnings Report Preview\\nNegative Sentiment:\\nNear-term revenue headwinds cited from a customer contract expiration, which could pressure upcoming results.\\nCardinal Health Q4 Preview\\nPosted 16m ago\\nAI Generated.\", \"importance_score\": 48, \"sentiment\": \"negative\"}, {\"text\": \"Cardinal Health, Inc. (NYSE:CAH) shares have risen today amid a flurry of analyst previews and positive ratings ahead of its fiscal Q4 earnings release on Aug. 12.\", \"importance_score\": 36, \"sentiment\": \"positive\"}, {\"text\": \"Outlined an options-based strategy to generate $500/month from CAH shares ahead of Q4 earnings.\", \"importance_score\": 24, \"sentiment\": \"neutral\"}, {\"text\": \"How To Earn $500 A Month From Cardinal Health Stock Ahead Of Q4 Earnings\\nNeutral Sentiment:\", \"importance_score\": 23, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"239\", \"500\", \"500\"], \"important_dates\": [\"today\", \"fiscal Q4 earnings\", \"Aug. 12\", \"Q4\", \"FQ4\", \"Q2\", \"FQ4 2025\", \"16m ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"developments\", \"verb\": \"include\", \"object\": \"Sentiment\", \"importance\": 25}, {\"subject\": \"Analysts\", \"verb\": \"adjusting\", \"object\": \"forecasts\", \"importance\": 25}, {\"subject\": \"Previews\", \"verb\": \"outline\", \"object\": \"metrics\", \"importance\": 6}, {\"subject\": \"which\", \"verb\": \"pressure\", \"object\": \"results\", \"importance\": 17}], \"business_context\": []}"
+  "compact_analysis": "{\"ticker\": \"CAH\", \"companies\": [\"Cardinal Health, Inc.\", \"CAH\", \"Cardinal Health\"], \"people\": [], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"healthcare\", \"key_points\": [{\"text\": \"Key developments include:\\nPositive Sentiment:\\nInitiation of coverage with a Buy rating and $239 fair value, driven by accelerating specialty distribution growth in autoimmune, urology and oncology segments.\\nCardinal Health Q4 Preview: Accelerating Autoimmune, Urology And Oncology\\nPositive Sentiment:\", \"importance_score\": 74, \"sentiment\": \"positive\"}, {\"text\": \"Cardinal Health FQ4 2025 Earnings Preview\\nQ2 Earnings Report Preview\\nNegative Sentiment:\\nNear-term revenue headwinds cited from a customer contract expiration, which could pressure upcoming results.\\nCardinal Health Q4 Preview\\nPosted 3h ago\\nAI Generated.\", \"importance_score\": 46, \"sentiment\": \"negative\"}, {\"text\": \"Cardinal Health, Inc. (NYSE:CAH) shares have risen today amid a flurry of analyst previews and positive ratings ahead of its fiscal Q4 earnings release on Aug. 12.\", \"importance_score\": 36, \"sentiment\": \"positive\"}, {\"text\": \"Outlined an options-based strategy to generate $500/month from CAH shares ahead of Q4 earnings.\", \"importance_score\": 24, \"sentiment\": \"neutral\"}, {\"text\": \"How To Earn $500 A Month From Cardinal Health Stock Ahead Of Q4 Earnings\\nNeutral Sentiment:\", \"importance_score\": 23, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"239\", \"500\", \"500\"], \"important_dates\": [\"today\", \"fiscal Q4 earnings\", \"Aug. 12\", \"Q4\", \"FQ4\", \"Q2\", \"FQ4 2025\", \"3h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"developments\", \"verb\": \"include\", \"object\": \"Sentiment\", \"importance\": 25}, {\"subject\": \"Analysts\", \"verb\": \"adjusting\", \"object\": \"forecasts\", \"importance\": 25}, {\"subject\": \"Previews\", \"verb\": \"outline\", \"object\": \"metrics\", \"importance\": 6}, {\"subject\": \"which\", \"verb\": \"pressure\", \"object\": \"results\", \"importance\": 16}], \"business_context\": []}"
 }
