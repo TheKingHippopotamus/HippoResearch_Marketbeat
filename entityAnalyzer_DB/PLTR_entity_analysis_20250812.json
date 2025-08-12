@@ -1,0 +1,123 @@
+{
+  "ticker": "PLTR",
+  "timestamp": "2025-08-12T05:35:00.261580",
+  "companies": [
+    "Palantir Technologies Inc.",
+    "PLTR",
+    "UBS",
+    "AMD",
+    "Palantir",
+    "Palantir Technologies",
+    "OKLO",
+    "A.I. Energy",
+    "Zacks",
+    "Benzinga",
+    "Shopify",
+    "Applovin",
+    "ARK",
+    "Seeking Alpha",
+    "GuruFocus",
+    "Palantir Technologies Inc"
+  ],
+  "people": [
+    "Hilary Kramer",
+    "Kramer",
+    "PLTR",
+    "Cathie Wood"
+  ],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "Market On Close interview praises PLTR’s government foothold but notes the stock may need a valuation cooldown before further gains\nPLTR Path to $1T: \"Deeply Embedded\" Government Business, Needs Valuation Cooldown\nNeutral Sentiment:\nZacks highlights heavy investor interest and volume spikes, recomme",
+      "importance_score": 119,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Analysts warn PLTR’s sky-high valuation—trading at over 240× forward earnings—may be hard to defend, even as revenue momentum remains strong\nPalantir’s 2,500% run has bulls scrambling to justify value\nNegative Sentiment:\nTop investor advice urges a “fast exit” after ARK’s Cathie Wood sold $28 millio",
+      "importance_score": 88,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Shares hit fresh all-time highs after a 16% July rally outpacing the S&P 500, driven by strong Q2 results and large contract wins\nWhy Palantir Technologies Stock Surged 16% to a New All-Time High in July\nPositive Sentiment:\nHilary Kramer projects a path to $200, citing PLTR’s “deeply embedded” gover",
+      "importance_score": 56,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Positive Sentiment:\nAn analyst dubs Palantir the “Messi of AI,” forecasting a potential $1 trillion valuation as adoption accelerates across defense and commercial sectors\nPalantir stock dubbed ‘Messi of AI' as analyst predicts $1 trillion valuation\nPositive Sentiment:",
+      "importance_score": 55,
+      "sentiment": "positive"
+    },
+    {
+      "text": "When The Market Offers You This Much, Say Thank You And Sell (Downgrade)\nNegative Sentiment:\nGuruFocus cautions that intensifying competition and spending pressures could hamper PLTR’s ability to outperform peers going forward\nWhy Palantir Technologies Inc (PLTR) May Struggle to Outperform: A Look a",
+      "importance_score": 53,
+      "sentiment": "negative"
+    }
+  ],
+  "money_amounts": [
+    "$1 trillion",
+    "$1 trillion",
+    "200",
+    "200",
+    "1",
+    "T",
+    "$28 million",
+    "$28 Million"
+  ],
+  "important_dates": [
+    "today",
+    "July",
+    "Q2",
+    "last week",
+    "Last Week",
+    "August 4-August 8)",
+    "2h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "UBS",
+      "verb": "favors",
+      "object": "PLTR",
+      "importance": 8
+    },
+    {
+      "subject": "UBS",
+      "verb": "Picks",
+      "object": "Winner",
+      "importance": 4
+    },
+    {
+      "subject": "analyst",
+      "verb": "dubs",
+      "object": "Palantir",
+      "importance": 15
+    },
+    {
+      "subject": "analyst",
+      "verb": "predicts",
+      "object": "valuation",
+      "importance": 15
+    },
+    {
+      "subject": "Shares",
+      "verb": "hit",
+      "object": "highs",
+      "importance": 19
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148eec970>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148df1c40>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d34070>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148ded9a0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dedf40>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"PLTR\", \"companies\": [\"Palantir Technologies Inc.\", \"PLTR\", \"UBS\", \"AMD\", \"Palantir\", \"Palantir Technologies\", \"OKLO\", \"A.I. Energy\", \"Zacks\", \"Benzinga\", \"Shopify\", \"Applovin\", \"ARK\", \"Seeking Alpha\", \"GuruFocus\", \"Palantir Technologies Inc\"], \"people\": [\"Hilary Kramer\", \"Kramer\", \"PLTR\", \"Cathie Wood\"], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"Market On Close interview praises PLTR’s government foothold but notes the stock may need a valuation cooldown before further gains\\nPLTR Path to $1T: \\\"Deeply Embedded\\\" Government Business, Needs Valuation Cooldown\\nNeutral Sentiment:\\nZacks highlights heavy investor interest and volume spikes, recomme\", \"importance_score\": 119, \"sentiment\": \"negative\"}, {\"text\": \"Analysts warn PLTR’s sky-high valuation—trading at over 240× forward earnings—may be hard to defend, even as revenue momentum remains strong\\nPalantir’s 2,500% run has bulls scrambling to justify value\\nNegative Sentiment:\\nTop investor advice urges a “fast exit” after ARK’s Cathie Wood sold $28 millio\", \"importance_score\": 88, \"sentiment\": \"neutral\"}, {\"text\": \"Shares hit fresh all-time highs after a 16% July rally outpacing the S&P 500, driven by strong Q2 results and large contract wins\\nWhy Palantir Technologies Stock Surged 16% to a New All-Time High in July\\nPositive Sentiment:\\nHilary Kramer projects a path to $200, citing PLTR’s “deeply embedded” gover\", \"importance_score\": 56, \"sentiment\": \"positive\"}, {\"text\": \"Positive Sentiment:\\nAn analyst dubs Palantir the “Messi of AI,” forecasting a potential $1 trillion valuation as adoption accelerates across defense and commercial sectors\\nPalantir stock dubbed ‘Messi of AI' as analyst predicts $1 trillion valuation\\nPositive Sentiment:\", \"importance_score\": 55, \"sentiment\": \"positive\"}, {\"text\": \"When The Market Offers You This Much, Say Thank You And Sell (Downgrade)\\nNegative Sentiment:\\nGuruFocus cautions that intensifying competition and spending pressures could hamper PLTR’s ability to outperform peers going forward\\nWhy Palantir Technologies Inc (PLTR) May Struggle to Outperform: A Look a\", \"importance_score\": 53, \"sentiment\": \"negative\"}], \"money_amounts\": [\"$1 trillion\", \"$1 trillion\", \"200\", \"200\", \"1\", \"T\", \"$28 million\", \"$28 Million\"], \"important_dates\": [\"today\", \"July\", \"Q2\", \"last week\", \"Last Week\", \"August 4-August 8)\", \"2h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"UBS\", \"verb\": \"favors\", \"object\": \"PLTR\", \"importance\": 8}, {\"subject\": \"UBS\", \"verb\": \"Picks\", \"object\": \"Winner\", \"importance\": 4}, {\"subject\": \"analyst\", \"verb\": \"dubs\", \"object\": \"Palantir\", \"importance\": 15}, {\"subject\": \"analyst\", \"verb\": \"predicts\", \"object\": \"valuation\", \"importance\": 15}, {\"subject\": \"Shares\", \"verb\": \"hit\", \"object\": \"highs\", \"importance\": 19}], \"business_context\": []}"
+}
