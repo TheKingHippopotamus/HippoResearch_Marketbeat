@@ -1,0 +1,108 @@
+{
+  "ticker": "FI",
+  "timestamp": "2025-08-12T06:35:18.510030",
+  "companies": [
+    "Fiserv, Inc.",
+    "FI",
+    "Fiserv",
+    "Berger Montague PC",
+    "Berger Montague",
+    "Levi & Korsinsky",
+    "Pomerantz LLP",
+    "Pomerantz Law Firm",
+    "The Gross Law Firm",
+    "Bernstein Liebhard LLP",
+    "Rosen Law Firm",
+    "GuruFocus",
+    "AI"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "neutral",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "professional",
+  "key_points": [
+    {
+      "text": "Bernstein Liebhard LLP Announces A Securities Fraud Class Action Lawsuit Has Been Filed Against Fiserv, Inc.\nNegative Sentiment:\nRosen Law Firm reminds purchasers of FI common stock of the important September 22 lead plaintiff deadline in a securities fraud action.",
+      "importance_score": 49,
+      "sentiment": "negative"
+    },
+    {
+      "text": "FI Stock forecasts\nNegative Sentiment:\nBerger Montague PC notifies investors of a class action lawsuit against Fiserv, setting a lead plaintiff deadline of September 22, 2025.",
+      "importance_score": 39,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Fiserv, Inc. Receives $207.08 Consensus PT from Analysts\nNeutral Sentiment:\nA new analyst report publishes updated forecasts for Fiserv’s revenue and earnings, outlining valuation metrics and long-term projections.",
+      "importance_score": 38,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Bernstein Liebhard LLP announces a securities fraud class action has been filed against Fiserv on behalf of shareholders who bought stock between July 24, 2024 and July 22, 2025.",
+      "importance_score": 37,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "FI Investors Have Opportunity to Lead Fiserv, Inc. Securities Fraud Lawsuit\nPosted 44m ago\nAI Generated.",
+      "importance_score": 37,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "207.08",
+    "207.08"
+  ],
+  "important_dates": [
+    "the past year",
+    "September 22, 2025",
+    "between July 24, 2024",
+    "July 22, 2025",
+    "September 22",
+    "44m ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Firms",
+      "verb": "set",
+      "object": "Sentiment",
+      "importance": 3
+    },
+    {
+      "subject": "Inc.",
+      "verb": "Receives",
+      "object": "PT",
+      "importance": 10
+    },
+    {
+      "subject": "report",
+      "verb": "publishes",
+      "object": "forecasts",
+      "importance": 10
+    },
+    {
+      "subject": "PC",
+      "verb": "notifies",
+      "object": "investors",
+      "importance": 12
+    },
+    {
+      "subject": "Montague",
+      "verb": "Notifies",
+      "object": "Investors",
+      "importance": 4
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148de6670>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147d82e80>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147d82160>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148e76b50>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148e769a0>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"FI\", \"companies\": [\"Fiserv, Inc.\", \"FI\", \"Fiserv\", \"Berger Montague PC\", \"Berger Montague\", \"Levi & Korsinsky\", \"Pomerantz LLP\", \"Pomerantz Law Firm\", \"The Gross Law Firm\", \"Bernstein Liebhard LLP\", \"Rosen Law Firm\", \"GuruFocus\", \"AI\"], \"people\": [], \"sentiment\": {\"overall\": \"neutral\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"professional\", \"key_points\": [{\"text\": \"Bernstein Liebhard LLP Announces A Securities Fraud Class Action Lawsuit Has Been Filed Against Fiserv, Inc.\\nNegative Sentiment:\\nRosen Law Firm reminds purchasers of FI common stock of the important September 22 lead plaintiff deadline in a securities fraud action.\", \"importance_score\": 49, \"sentiment\": \"negative\"}, {\"text\": \"FI Stock forecasts\\nNegative Sentiment:\\nBerger Montague PC notifies investors of a class action lawsuit against Fiserv, setting a lead plaintiff deadline of September 22, 2025.\", \"importance_score\": 39, \"sentiment\": \"negative\"}, {\"text\": \"Fiserv, Inc. Receives $207.08 Consensus PT from Analysts\\nNeutral Sentiment:\\nA new analyst report publishes updated forecasts for Fiserv’s revenue and earnings, outlining valuation metrics and long-term projections.\", \"importance_score\": 38, \"sentiment\": \"neutral\"}, {\"text\": \"Bernstein Liebhard LLP announces a securities fraud class action has been filed against Fiserv on behalf of shareholders who bought stock between July 24, 2024 and July 22, 2025.\", \"importance_score\": 37, \"sentiment\": \"neutral\"}, {\"text\": \"FI Investors Have Opportunity to Lead Fiserv, Inc. Securities Fraud Lawsuit\\nPosted 44m ago\\nAI Generated.\", \"importance_score\": 37, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"207.08\", \"207.08\"], \"important_dates\": [\"the past year\", \"September 22, 2025\", \"between July 24, 2024\", \"July 22, 2025\", \"September 22\", \"44m ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Firms\", \"verb\": \"set\", \"object\": \"Sentiment\", \"importance\": 3}, {\"subject\": \"Inc.\", \"verb\": \"Receives\", \"object\": \"PT\", \"importance\": 10}, {\"subject\": \"report\", \"verb\": \"publishes\", \"object\": \"forecasts\", \"importance\": 10}, {\"subject\": \"PC\", \"verb\": \"notifies\", \"object\": \"investors\", \"importance\": 12}, {\"subject\": \"Montague\", \"verb\": \"Notifies\", \"object\": \"Investors\", \"importance\": 4}], \"business_context\": []}"
+}
