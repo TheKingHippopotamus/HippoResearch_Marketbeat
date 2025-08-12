@@ -1,0 +1,102 @@
+{
+  "ticker": "WMT",
+  "timestamp": "2025-08-12T07:06:36.039409",
+  "companies": [
+    "Walmart Inc.",
+    "WMT",
+    "MarketBeat",
+    "Walmart",
+    "Zacks",
+    "Seeking Alpha",
+    "Motley Fool Scoreboard",
+    "Symbiotic",
+    "Green Dot",
+    "Motley Fool",
+    "Target",
+    "AI Generated"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "retail",
+  "key_points": [
+    {
+      "text": "A recent Motley Fool comparison with Target underscores Walmart’s resilience during downturns but stops short of naming a clear winner, underscoring execution and valuation as key differentiators.\nTarget vs. Walmart Stock: Which Big-Box Company Is Worth Investing In?\nPosted 3h ago\nAI Generated.",
+      "importance_score": 62,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Walmart Inc. (NYSE:WMT) Receives Consensus Rating of \"Buy\"\nPositive Sentiment:\nA Zacks analysis highlights Walmart’s near-95% U.S. coverage for three-hour deliveries, a differentiator that could drive further e-commerce growth and margin expansion.\nWhy Digital and Delivery Speed Could Be Walmart's S",
+      "importance_score": 58,
+      "sentiment": "positive"
+    },
+    {
+      "text": "A Motley Fool Scoreboard episode debates whether Walmart is a standout retail contender, emphasizing its scale, omnichannel execution, and long-term growth prospects.\nWalmart Stock: A Strong Contender",
+      "importance_score": 31,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Walmart maintained its equity stakes in fintech partners Symbiotic and Green Dot through Q2, indicating a steady portfolio approach without major shifts.",
+      "importance_score": 28,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Seeking Alpha calls Walmart a “Strong Buy” as its fiscal Q2 earnings approach, citing resilient consumer spending and strategic investments.",
+      "importance_score": 26,
+      "sentiment": "positive"
+    }
+  ],
+  "money_amounts": [],
+  "important_dates": [
+    "today",
+    "fiscal Q2 earnings",
+    "Q2",
+    "3h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "analysts",
+      "verb": "issued",
+      "object": "ratings",
+      "importance": 6
+    },
+    {
+      "subject": "Inc.",
+      "verb": "Receives",
+      "object": "Sentiment",
+      "importance": 16
+    },
+    {
+      "subject": "analysis",
+      "verb": "highlights",
+      "object": "coverage",
+      "importance": 16
+    },
+    {
+      "subject": "that",
+      "verb": "drive",
+      "object": "growth",
+      "importance": 16
+    },
+    {
+      "subject": "Alpha",
+      "verb": "calls",
+      "object": "Walmart",
+      "importance": 8
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148ddb5e0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148ddb310>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d025e0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148ddbeb0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148ddb160>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"WMT\", \"companies\": [\"Walmart Inc.\", \"WMT\", \"MarketBeat\", \"Walmart\", \"Zacks\", \"Seeking Alpha\", \"Motley Fool Scoreboard\", \"Symbiotic\", \"Green Dot\", \"Motley Fool\", \"Target\", \"AI Generated\"], \"people\": [], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"retail\", \"key_points\": [{\"text\": \"A recent Motley Fool comparison with Target underscores Walmart’s resilience during downturns but stops short of naming a clear winner, underscoring execution and valuation as key differentiators.\\nTarget vs. Walmart Stock: Which Big-Box Company Is Worth Investing In?\\nPosted 3h ago\\nAI Generated.\", \"importance_score\": 62, \"sentiment\": \"neutral\"}, {\"text\": \"Walmart Inc. (NYSE:WMT) Receives Consensus Rating of \\\"Buy\\\"\\nPositive Sentiment:\\nA Zacks analysis highlights Walmart’s near-95% U.S. coverage for three-hour deliveries, a differentiator that could drive further e-commerce growth and margin expansion.\\nWhy Digital and Delivery Speed Could Be Walmart's S\", \"importance_score\": 58, \"sentiment\": \"positive\"}, {\"text\": \"A Motley Fool Scoreboard episode debates whether Walmart is a standout retail contender, emphasizing its scale, omnichannel execution, and long-term growth prospects.\\nWalmart Stock: A Strong Contender\", \"importance_score\": 31, \"sentiment\": \"positive\"}, {\"text\": \"Walmart maintained its equity stakes in fintech partners Symbiotic and Green Dot through Q2, indicating a steady portfolio approach without major shifts.\", \"importance_score\": 28, \"sentiment\": \"neutral\"}, {\"text\": \"Seeking Alpha calls Walmart a “Strong Buy” as its fiscal Q2 earnings approach, citing resilient consumer spending and strategic investments.\", \"importance_score\": 26, \"sentiment\": \"positive\"}], \"money_amounts\": [], \"important_dates\": [\"today\", \"fiscal Q2 earnings\", \"Q2\", \"3h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"analysts\", \"verb\": \"issued\", \"object\": \"ratings\", \"importance\": 6}, {\"subject\": \"Inc.\", \"verb\": \"Receives\", \"object\": \"Sentiment\", \"importance\": 16}, {\"subject\": \"analysis\", \"verb\": \"highlights\", \"object\": \"coverage\", \"importance\": 16}, {\"subject\": \"that\", \"verb\": \"drive\", \"object\": \"growth\", \"importance\": 16}, {\"subject\": \"Alpha\", \"verb\": \"calls\", \"object\": \"Walmart\", \"importance\": 8}], \"business_context\": []}"
+}
