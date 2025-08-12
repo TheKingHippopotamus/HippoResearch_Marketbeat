@@ -1,0 +1,87 @@
+{
+  "ticker": "POOL",
+  "timestamp": "2025-08-12T07:14:21.153483",
+  "companies": [
+    "Pool Corporation",
+    "NASDAQ",
+    "POOL",
+    "AI Generated"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "negative",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "Pool Corporation (NASDAQ: POOL) shares have held steady as investors digest recent market-interest data.",
+      "importance_score": 29,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Neutral Sentiment:\nLatest reporting shows short interest at zero shares, with a short-interest ratio of 0.0 days based on average daily volume of 649,453 shares.",
+      "importance_score": 25,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Posted 24m ago\nAI Generated.",
+      "importance_score": 17,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Below are the key developments that may influence the stock’s near-term performance:",
+      "importance_score": 6,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "This indicates minimal bearish positioning against POOL.",
+      "importance_score": 6,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [],
+  "important_dates": [
+    "0.0 days",
+    "daily",
+    "24m ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "investors",
+      "verb": "digest",
+      "object": "data",
+      "importance": 7
+    },
+    {
+      "subject": "that",
+      "verb": "influence",
+      "object": "performance",
+      "importance": 2
+    },
+    {
+      "subject": "reporting",
+      "verb": "shows",
+      "object": "Sentiment",
+      "importance": 10
+    },
+    {
+      "subject": "This",
+      "verb": "indicates",
+      "object": "positioning",
+      "importance": 1
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148ddbb80>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148e90910>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147d82d90>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148e44cd0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148ddbd60>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"POOL\", \"companies\": [\"Pool Corporation\", \"NASDAQ\", \"POOL\", \"AI Generated\"], \"people\": [], \"sentiment\": {\"overall\": \"negative\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"Pool Corporation (NASDAQ: POOL) shares have held steady as investors digest recent market-interest data.\", \"importance_score\": 29, \"sentiment\": \"neutral\"}, {\"text\": \"Neutral Sentiment:\\nLatest reporting shows short interest at zero shares, with a short-interest ratio of 0.0 days based on average daily volume of 649,453 shares.\", \"importance_score\": 25, \"sentiment\": \"neutral\"}, {\"text\": \"Posted 24m ago\\nAI Generated.\", \"importance_score\": 17, \"sentiment\": \"neutral\"}, {\"text\": \"Below are the key developments that may influence the stock’s near-term performance:\", \"importance_score\": 6, \"sentiment\": \"neutral\"}, {\"text\": \"This indicates minimal bearish positioning against POOL.\", \"importance_score\": 6, \"sentiment\": \"neutral\"}], \"money_amounts\": [], \"important_dates\": [\"0.0 days\", \"daily\", \"24m ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"investors\", \"verb\": \"digest\", \"object\": \"data\", \"importance\": 7}, {\"subject\": \"that\", \"verb\": \"influence\", \"object\": \"performance\", \"importance\": 2}, {\"subject\": \"reporting\", \"verb\": \"shows\", \"object\": \"Sentiment\", \"importance\": 10}, {\"subject\": \"This\", \"verb\": \"indicates\", \"object\": \"positioning\", \"importance\": 1}], \"business_context\": []}"
+}
