@@ -1,0 +1,113 @@
+{
+  "ticker": "CMG",
+  "timestamp": "2025-08-12T06:03:44.679089",
+  "companies": [
+    "Chipotle Mexican Grill, Inc.",
+    "CMG",
+    "Zacks Research",
+    "Chipotle Mexican Grill",
+    "Chipotle",
+    "CHIPOTLE IQ",
+    "Piper Sandler",
+    "Chipotle Mexican Grill's",
+    "Truist Securities"
+  ],
+  "people": [
+    "Bill Ackman",
+    "Piper Sandler"
+  ],
+  "sentiment": {
+    "overall": "neutral",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "Negative Sentiment:\nAfter reporting Q2 results, Truist Securities cut its price target on CMG, citing tighter near-term margin visibility.\nChipotle Mexican Grill, Inc. (CMG) Announces Q2 Results\nPosted 37m ago\nAI Generated.",
+      "importance_score": 59,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Positive Sentiment:\nZacks Research raised its Q3 2025 earnings estimate for CMG to $0.30 per share (from $0.29) and also boosted its Q2 2026 forecast to $0.38, reflecting growing confidence in the chain’s profitability.",
+      "importance_score": 55,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Q3 EPS Estimate for Chipotle Mexican Grill Raised by Analyst\nPositive Sentiment:\nChipotle relaunched its fan-favorite “Chipotle IQ” trivia game running August 12–14 and 19–21, offering over $1 million in free burritos and points to drive app engagement and loyalty.",
+      "importance_score": 41,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Piper Sandler warned that much of Chipotle’s recent “bad news” appears already priced in, suggesting limited near-term upside and continued reservation about traffic trends.\nChipotle Mexican Grill's bad news already priced in - Piper Sandler\nNegative Sentiment:",
+      "importance_score": 30,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Chipotle Mexican Grill, Inc. (NYSE: CMG) has seen mixed investor sentiment following recent analyst updates, marketing initiatives and technical headwinds.",
+      "importance_score": 23,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "0.30",
+    "0.29",
+    "0.38",
+    "$1 million"
+  ],
+  "important_dates": [
+    "today",
+    "Q3 2025",
+    "Q2 2026",
+    "Q3",
+    "August 12–14 and",
+    "Q2",
+    "July 23",
+    "12-month",
+    "12-Month",
+    "37m ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Grill",
+      "verb": "seen",
+      "object": "sentiment",
+      "importance": 7
+    },
+    {
+      "subject": "that",
+      "verb": "influencing",
+      "object": "movement",
+      "importance": 2
+    },
+    {
+      "subject": "Research",
+      "verb": "raised",
+      "object": "estimate",
+      "importance": 14
+    },
+    {
+      "subject": "Chipotle",
+      "verb": "relaunched",
+      "object": "game",
+      "importance": 13
+    },
+    {
+      "subject": "Ackman",
+      "verb": "included",
+      "object": "CMG",
+      "importance": 7
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147dcc3a0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148e54e20>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dd6280>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148eec9d0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148de6430>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"CMG\", \"companies\": [\"Chipotle Mexican Grill, Inc.\", \"CMG\", \"Zacks Research\", \"Chipotle Mexican Grill\", \"Chipotle\", \"CHIPOTLE IQ\", \"Piper Sandler\", \"Chipotle Mexican Grill's\", \"Truist Securities\"], \"people\": [\"Bill Ackman\", \"Piper Sandler\"], \"sentiment\": {\"overall\": \"neutral\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"Negative Sentiment:\\nAfter reporting Q2 results, Truist Securities cut its price target on CMG, citing tighter near-term margin visibility.\\nChipotle Mexican Grill, Inc. (CMG) Announces Q2 Results\\nPosted 37m ago\\nAI Generated.\", \"importance_score\": 59, \"sentiment\": \"negative\"}, {\"text\": \"Positive Sentiment:\\nZacks Research raised its Q3 2025 earnings estimate for CMG to $0.30 per share (from $0.29) and also boosted its Q2 2026 forecast to $0.38, reflecting growing confidence in the chain’s profitability.\", \"importance_score\": 55, \"sentiment\": \"positive\"}, {\"text\": \"Q3 EPS Estimate for Chipotle Mexican Grill Raised by Analyst\\nPositive Sentiment:\\nChipotle relaunched its fan-favorite “Chipotle IQ” trivia game running August 12–14 and 19–21, offering over $1 million in free burritos and points to drive app engagement and loyalty.\", \"importance_score\": 41, \"sentiment\": \"positive\"}, {\"text\": \"Piper Sandler warned that much of Chipotle’s recent “bad news” appears already priced in, suggesting limited near-term upside and continued reservation about traffic trends.\\nChipotle Mexican Grill's bad news already priced in - Piper Sandler\\nNegative Sentiment:\", \"importance_score\": 30, \"sentiment\": \"negative\"}, {\"text\": \"Chipotle Mexican Grill, Inc. (NYSE: CMG) has seen mixed investor sentiment following recent analyst updates, marketing initiatives and technical headwinds.\", \"importance_score\": 23, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"0.30\", \"0.29\", \"0.38\", \"$1 million\"], \"important_dates\": [\"today\", \"Q3 2025\", \"Q2 2026\", \"Q3\", \"August 12–14 and\", \"Q2\", \"July 23\", \"12-month\", \"12-Month\", \"37m ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Grill\", \"verb\": \"seen\", \"object\": \"sentiment\", \"importance\": 7}, {\"subject\": \"that\", \"verb\": \"influencing\", \"object\": \"movement\", \"importance\": 2}, {\"subject\": \"Research\", \"verb\": \"raised\", \"object\": \"estimate\", \"importance\": 14}, {\"subject\": \"Chipotle\", \"verb\": \"relaunched\", \"object\": \"game\", \"importance\": 13}, {\"subject\": \"Ackman\", \"verb\": \"included\", \"object\": \"CMG\", \"importance\": 7}], \"business_context\": []}"
+}
