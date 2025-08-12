@@ -1,0 +1,115 @@
+{
+  "ticker": "GOOGL",
+  "timestamp": "2025-08-12T03:16:31.834837",
+  "companies": [
+    "Alphabet Inc.",
+    "GOOGL",
+    "Alphabet",
+    "LivePerson",
+    "Google Cloud",
+    "These Are the 3 Most Profitable Companies in the World",
+    "Waymo",
+    "MarketBeat",
+    "Zacks",
+    "GOOG",
+    "WSJ",
+    "Google",
+    "The Motley Fool’s",
+    "AAPL",
+    "AMZN",
+    "AI"
+  ],
+  "people": [
+    "Jim Cramer",
+    "Google",
+    "Schmoogle"
+  ],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "Zacks highlights Alphabet as a trending stock among retail investors, prompting deeper analysis\nIs Trending Stock Alphabet Inc. (GOOG) a Buy Now?\nand further context\nHere is What to Know Beyond Why Alphabet Inc. (GOOGL) is a Trending Stock\nNeutral Sentiment:\nSold an AI stake to fund a $32 billion st",
+      "importance_score": 85,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Positive Sentiment:\nOptions bulls are gravitating toward GOOGL after its upbeat Q2 earnings report fueled a steady rebound\nAlphabet Stock Rebound Attracting Options Bulls\nPositive Sentiment:\nAnalysts highlight a shifting AI narrative at Alphabet as a major competitive advantage\nAlphabet: Changing Th",
+      "importance_score": 84,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Management’s portfolio reshuffle to a “moonshot” stock underscores high-conviction investments\nAlphabet's New No. 1 Holding Is a Bona Fide Moonshot Stock ...\nPositive Sentiment:\nJim Cramer endorses the Waymo deal as a strong catalyst for future growth\nAlphabet Inc. (GOOGL): “The Waymo Deal’s Good,’ ",
+      "importance_score": 54,
+      "sentiment": "positive"
+    },
+    {
+      "text": "WSJ examines Google’s AI-powered search tools versus traditional search, underscoring R&D focus\nGoogle, Schmoogle: When to Ditch Web Search for Deep Research\nNeutral Sentiment:\nIncluded in The Motley Fool’s long-term picks, highlighting its appeal for buy-and-hold strategies\n2 Surefire Stocks to Inv",
+      "importance_score": 52,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Technical forecasts warn of a modest pullback among major tech names, including GOOGL, before any further upside\nAAPL, AMZN and GOOGL Forecast – Major Tech Stocks Pull Back\nPosted 2h ago\nAI Generated.",
+      "importance_score": 36,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "$32 billion",
+    "$85 billion",
+    "1,000"
+  ],
+  "important_dates": [
+    "today",
+    "Q2",
+    "Today",
+    "August 11th",
+    "2025"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "report",
+      "verb": "fueled",
+      "object": "rebound",
+      "importance": 22
+    },
+    {
+      "subject": "Analysts",
+      "verb": "highlight",
+      "object": "narrative",
+      "importance": 22
+    },
+    {
+      "subject": "LivePerson",
+      "verb": "expands",
+      "object": "partnership",
+      "importance": 22
+    },
+    {
+      "subject": "LivePerson",
+      "verb": "Announces",
+      "object": "Expansion",
+      "importance": 22
+    },
+    {
+      "subject": "You",
+      "verb": "Own",
+      "object": "Each",
+      "importance": 12
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d11ac0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d11280>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147d9ea60>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d1f730>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d1f310>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"GOOGL\", \"companies\": [\"Alphabet Inc.\", \"GOOGL\", \"Alphabet\", \"LivePerson\", \"Google Cloud\", \"These Are the 3 Most Profitable Companies in the World\", \"Waymo\", \"MarketBeat\", \"Zacks\", \"GOOG\", \"WSJ\", \"Google\", \"The Motley Fool’s\", \"AAPL\", \"AMZN\", \"AI\"], \"people\": [\"Jim Cramer\", \"Google\", \"Schmoogle\"], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"Zacks highlights Alphabet as a trending stock among retail investors, prompting deeper analysis\\nIs Trending Stock Alphabet Inc. (GOOG) a Buy Now?\\nand further context\\nHere is What to Know Beyond Why Alphabet Inc. (GOOGL) is a Trending Stock\\nNeutral Sentiment:\\nSold an AI stake to fund a $32 billion st\", \"importance_score\": 85, \"sentiment\": \"neutral\"}, {\"text\": \"Positive Sentiment:\\nOptions bulls are gravitating toward GOOGL after its upbeat Q2 earnings report fueled a steady rebound\\nAlphabet Stock Rebound Attracting Options Bulls\\nPositive Sentiment:\\nAnalysts highlight a shifting AI narrative at Alphabet as a major competitive advantage\\nAlphabet: Changing Th\", \"importance_score\": 84, \"sentiment\": \"positive\"}, {\"text\": \"Management’s portfolio reshuffle to a “moonshot” stock underscores high-conviction investments\\nAlphabet's New No. 1 Holding Is a Bona Fide Moonshot Stock ...\\nPositive Sentiment:\\nJim Cramer endorses the Waymo deal as a strong catalyst for future growth\\nAlphabet Inc. (GOOGL): “The Waymo Deal’s Good,’ \", \"importance_score\": 54, \"sentiment\": \"positive\"}, {\"text\": \"WSJ examines Google’s AI-powered search tools versus traditional search, underscoring R&D focus\\nGoogle, Schmoogle: When to Ditch Web Search for Deep Research\\nNeutral Sentiment:\\nIncluded in The Motley Fool’s long-term picks, highlighting its appeal for buy-and-hold strategies\\n2 Surefire Stocks to Inv\", \"importance_score\": 52, \"sentiment\": \"neutral\"}, {\"text\": \"Technical forecasts warn of a modest pullback among major tech names, including GOOGL, before any further upside\\nAAPL, AMZN and GOOGL Forecast – Major Tech Stocks Pull Back\\nPosted 2h ago\\nAI Generated.\", \"importance_score\": 36, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"$32 billion\", \"$85 billion\", \"1,000\"], \"important_dates\": [\"today\", \"Q2\", \"Today\", \"August 11th\", \"2025\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"report\", \"verb\": \"fueled\", \"object\": \"rebound\", \"importance\": 22}, {\"subject\": \"Analysts\", \"verb\": \"highlight\", \"object\": \"narrative\", \"importance\": 22}, {\"subject\": \"LivePerson\", \"verb\": \"expands\", \"object\": \"partnership\", \"importance\": 22}, {\"subject\": \"LivePerson\", \"verb\": \"Announces\", \"object\": \"Expansion\", \"importance\": 22}, {\"subject\": \"You\", \"verb\": \"Own\", \"object\": \"Each\", \"importance\": 12}], \"business_context\": []}"
+}
