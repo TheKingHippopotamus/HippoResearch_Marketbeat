@@ -1,0 +1,102 @@
+{
+  "ticker": "XOM",
+  "timestamp": "2025-08-12T04:31:05.011329",
+  "companies": [
+    "Exxon Mobil Corporation",
+    "XOM",
+    "ExxonMobil",
+    "Chevron",
+    "Exxon Mobil",
+    "Goldman Sachs",
+    "MarketBeat"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "energy",
+  "key_points": [
+    {
+      "text": "ExxonMobil Brings Fourth FPSO Online\nPositive Sentiment:\nOperates a large-scale CO₂ transport and storage network, positioning XOM to capture growth in a carbon-capture and storage market projected to reach $4 trillion by 2050.\nPositive Sentiment:\nHighlighted for outperforming Chevron in 2025—driven",
+      "importance_score": 63,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Exxon Mobil Corporation (XOM) is trading with mixed momentum after operational milestones and market mentions.",
+      "importance_score": 25,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Goldman Sachs retains a Hold rating on XOM, citing balanced valuation and stable free cash flow.",
+      "importance_score": 23,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Positive Sentiment:\nBrought its fourth FPSO, One Guyana, online at the Yellowtail field—lifting Stabroek Block production capacity above 900,000 barrels per day.",
+      "importance_score": 22,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Goldman Sachs Hold Rating on Exxon Mobil\nNeutral Sentiment:",
+      "importance_score": 22,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "$4 trillion"
+  ],
+  "important_dates": [
+    "today",
+    "2050",
+    "2025",
+    "quarterly",
+    "August 9th",
+    "August 10th",
+    "1h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "output",
+      "verb": "driving",
+      "object": "optimism",
+      "importance": 3
+    },
+    {
+      "subject": "timing",
+      "verb": "offer",
+      "object": "upside",
+      "importance": 3
+    },
+    {
+      "subject": "ExxonMobil",
+      "verb": "Brings",
+      "object": "FPSO",
+      "importance": 17
+    },
+    {
+      "subject": "Sentiment",
+      "verb": "Operates",
+      "object": "network",
+      "importance": 17
+    },
+    {
+      "subject": "Mobil",
+      "verb": "Crushes",
+      "object": "Chevron",
+      "importance": 17
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148ded880>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148db4df0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dbe7c0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dc0520>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dc0f10>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"XOM\", \"companies\": [\"Exxon Mobil Corporation\", \"XOM\", \"ExxonMobil\", \"Chevron\", \"Exxon Mobil\", \"Goldman Sachs\", \"MarketBeat\"], \"people\": [], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"energy\", \"key_points\": [{\"text\": \"ExxonMobil Brings Fourth FPSO Online\\nPositive Sentiment:\\nOperates a large-scale CO₂ transport and storage network, positioning XOM to capture growth in a carbon-capture and storage market projected to reach $4 trillion by 2050.\\nPositive Sentiment:\\nHighlighted for outperforming Chevron in 2025—driven\", \"importance_score\": 63, \"sentiment\": \"positive\"}, {\"text\": \"Exxon Mobil Corporation (XOM) is trading with mixed momentum after operational milestones and market mentions.\", \"importance_score\": 25, \"sentiment\": \"neutral\"}, {\"text\": \"Goldman Sachs retains a Hold rating on XOM, citing balanced valuation and stable free cash flow.\", \"importance_score\": 23, \"sentiment\": \"neutral\"}, {\"text\": \"Positive Sentiment:\\nBrought its fourth FPSO, One Guyana, online at the Yellowtail field—lifting Stabroek Block production capacity above 900,000 barrels per day.\", \"importance_score\": 22, \"sentiment\": \"positive\"}, {\"text\": \"Goldman Sachs Hold Rating on Exxon Mobil\\nNeutral Sentiment:\", \"importance_score\": 22, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"$4 trillion\"], \"important_dates\": [\"today\", \"2050\", \"2025\", \"quarterly\", \"August 9th\", \"August 10th\", \"1h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"output\", \"verb\": \"driving\", \"object\": \"optimism\", \"importance\": 3}, {\"subject\": \"timing\", \"verb\": \"offer\", \"object\": \"upside\", \"importance\": 3}, {\"subject\": \"ExxonMobil\", \"verb\": \"Brings\", \"object\": \"FPSO\", \"importance\": 17}, {\"subject\": \"Sentiment\", \"verb\": \"Operates\", \"object\": \"network\", \"importance\": 17}, {\"subject\": \"Mobil\", \"verb\": \"Crushes\", \"object\": \"Chevron\", \"importance\": 17}], \"business_context\": []}"
+}
