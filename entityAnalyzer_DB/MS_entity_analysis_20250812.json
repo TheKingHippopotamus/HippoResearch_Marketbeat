@@ -1,0 +1,111 @@
+{
+  "ticker": "MS",
+  "timestamp": "2025-08-12T03:36:44.856067",
+  "companies": [
+    "Morgan Stanley",
+    "MS",
+    "Zacks Research",
+    "Goldman Sachs",
+    "JPMorgan",
+    "SoftBank",
+    "PayPay US",
+    "Western Union",
+    "NYSE",
+    "WU",
+    "Freeport-McMoRan",
+    "Direct Lending BDC",
+    "MS Direct Lending BDC",
+    "AI Generated"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "neutral",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "finance",
+  "key_points": [
+    {
+      "text": "Positive Sentiment:\nMS was named a lead underwriter, alongside Goldman Sachs and JPMorgan, for SoftBank’s proposed PayPay US IPO in Q4, which could generate significant banking fees.\nSoftBank selects banks for US IPO of payments app PayPay:",
+      "importance_score": 55,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Positive Sentiment:\nZacks Research lifted its Q3 EPS estimate for Morgan Stanley to $1.95 (from $1.94) and boosted its full-year consensus to $8.56, pointing to stronger fee-based revenue in wealth and investment management.",
+      "importance_score": 54,
+      "sentiment": "positive"
+    },
+    {
+      "text": "MS upgrades Freeport-McMoRan on copper tariffs\nNeutral Sentiment:\nIn its “gig economy” earnings review, MS noted steady margin performance among delivery and ride-share companies despite mixed top-line results, suggesting stable advisory demand.\nMS key takeaways from gig economy earnings\nNegative Se",
+      "importance_score": 46,
+      "sentiment": "negative"
+    },
+    {
+      "text": "MS economists flagged that U.S. tariffs are likely to dominate July’s CPI report, underscoring ongoing inflation risks that may bolster trading volumes in fixed income and currency markets.\nU.S. tariffs likely to be \"the main topic\" of July CPI report - Morgan Stanley\nNeutral Sentiment:",
+      "importance_score": 36,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "MS Direct Lending BDC Rating Downgrade\nPosted 2h ago\nAI Generated.",
+      "importance_score": 33,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "1.95",
+    "1.94",
+    "8.56"
+  ],
+  "important_dates": [
+    "today",
+    "Q3",
+    "full-year",
+    "Q4",
+    "July",
+    "Q2",
+    "2h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "stock",
+      "verb": "saw",
+      "object": "trading",
+      "importance": 8
+    },
+    {
+      "subject": "investors",
+      "verb": "weighed",
+      "object": "revisions",
+      "importance": 8
+    },
+    {
+      "subject": "Research",
+      "verb": "lifted",
+      "object": "estimate",
+      "importance": 14
+    },
+    {
+      "subject": "Research",
+      "verb": "Raises",
+      "object": "Forecast",
+      "importance": 4
+    },
+    {
+      "subject": "which",
+      "verb": "generate",
+      "object": "fees",
+      "importance": 14
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d297c0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d5cc40>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d05d90>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147d9bc70>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147d9b220>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"MS\", \"companies\": [\"Morgan Stanley\", \"MS\", \"Zacks Research\", \"Goldman Sachs\", \"JPMorgan\", \"SoftBank\", \"PayPay US\", \"Western Union\", \"NYSE\", \"WU\", \"Freeport-McMoRan\", \"Direct Lending BDC\", \"MS Direct Lending BDC\", \"AI Generated\"], \"people\": [], \"sentiment\": {\"overall\": \"neutral\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"finance\", \"key_points\": [{\"text\": \"Positive Sentiment:\\nMS was named a lead underwriter, alongside Goldman Sachs and JPMorgan, for SoftBank’s proposed PayPay US IPO in Q4, which could generate significant banking fees.\\nSoftBank selects banks for US IPO of payments app PayPay:\", \"importance_score\": 55, \"sentiment\": \"positive\"}, {\"text\": \"Positive Sentiment:\\nZacks Research lifted its Q3 EPS estimate for Morgan Stanley to $1.95 (from $1.94) and boosted its full-year consensus to $8.56, pointing to stronger fee-based revenue in wealth and investment management.\", \"importance_score\": 54, \"sentiment\": \"positive\"}, {\"text\": \"MS upgrades Freeport-McMoRan on copper tariffs\\nNeutral Sentiment:\\nIn its “gig economy” earnings review, MS noted steady margin performance among delivery and ride-share companies despite mixed top-line results, suggesting stable advisory demand.\\nMS key takeaways from gig economy earnings\\nNegative Se\", \"importance_score\": 46, \"sentiment\": \"negative\"}, {\"text\": \"MS economists flagged that U.S. tariffs are likely to dominate July’s CPI report, underscoring ongoing inflation risks that may bolster trading volumes in fixed income and currency markets.\\nU.S. tariffs likely to be \\\"the main topic\\\" of July CPI report - Morgan Stanley\\nNeutral Sentiment:\", \"importance_score\": 36, \"sentiment\": \"neutral\"}, {\"text\": \"MS Direct Lending BDC Rating Downgrade\\nPosted 2h ago\\nAI Generated.\", \"importance_score\": 33, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"1.95\", \"1.94\", \"8.56\"], \"important_dates\": [\"today\", \"Q3\", \"full-year\", \"Q4\", \"July\", \"Q2\", \"2h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"stock\", \"verb\": \"saw\", \"object\": \"trading\", \"importance\": 8}, {\"subject\": \"investors\", \"verb\": \"weighed\", \"object\": \"revisions\", \"importance\": 8}, {\"subject\": \"Research\", \"verb\": \"lifted\", \"object\": \"estimate\", \"importance\": 14}, {\"subject\": \"Research\", \"verb\": \"Raises\", \"object\": \"Forecast\", \"importance\": 4}, {\"subject\": \"which\", \"verb\": \"generate\", \"object\": \"fees\", \"importance\": 14}], \"business_context\": []}"
+}
