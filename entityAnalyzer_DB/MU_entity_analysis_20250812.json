@@ -1,0 +1,103 @@
+{
+  "ticker": "MU",
+  "timestamp": "2025-08-12T04:11:14.606502",
+  "companies": [
+    "Micron Technology, Inc.",
+    "MU",
+    "Company",
+    "Micron",
+    "Needham & Company LLC",
+    "Needham",
+    "the KeyBanc Technology Leadership Forum",
+    "AI Generated"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "Positive Sentiment:\nShares are trading about 3.5% higher after the guidance update, as investors weigh continued strength in DRAM prices and data-center spending.\nShares Up 3.5%\nPositive Sentiment:\nNeedham & Company LLC reiterated its “Buy” rating and $150 price target—implying roughly 21% upside—ba",
+      "importance_score": 59,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Positive Sentiment:\nCompany raised its fiscal Q4 2025 revenue guidance to $11.2 billion ± $100 million (from $10.7 billion ± $300 million) and boosted non-GAAP EPS outlook on stronger DRAM pricing and execution, driving optimism about AI memory demand.",
+      "importance_score": 57,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Needham reiterates Buy\nPositive Sentiment:\nAnalysts highlight Micron as a key AI chip play, with robust demand for memory chips outshining some peers in the semiconductor sector.\nBest AI stock to buy\nNeutral Sentiment:\nManagement discussed execution priorities and market outlook at the KeyBanc Techn",
+      "importance_score": 53,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Micron Technology, Inc. (NASDAQ: MU) shares have risen on upbeat guidance, AI-driven demand and fresh analyst support.",
+      "importance_score": 30,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Short interest showed an anomalous report of zero shares as of August 11, suggesting no material bearish positioning—but data may require confirmation.",
+      "importance_score": 15,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "$11.2 billion",
+    "$10.7 billion",
+    "$300 million",
+    "150"
+  ],
+  "important_dates": [
+    "fiscal Q4 2025",
+    "Q4",
+    "August 11",
+    "1h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Company",
+      "verb": "raised",
+      "object": "guidance",
+      "importance": 17
+    },
+    {
+      "subject": "Micron",
+      "verb": "raises",
+      "object": "forecast",
+      "importance": 3
+    },
+    {
+      "subject": "investors",
+      "verb": "weigh",
+      "object": "strength",
+      "importance": 21
+    },
+    {
+      "subject": "Needham",
+      "verb": "reiterated",
+      "object": "rating",
+      "importance": 21
+    },
+    {
+      "subject": "Needham",
+      "verb": "reiterates",
+      "object": "stock",
+      "importance": 16
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d5cb80>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dc05b0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dd14c0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dc0880>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d5cf70>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"MU\", \"companies\": [\"Micron Technology, Inc.\", \"MU\", \"Company\", \"Micron\", \"Needham & Company LLC\", \"Needham\", \"the KeyBanc Technology Leadership Forum\", \"AI Generated\"], \"people\": [], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"Positive Sentiment:\\nShares are trading about 3.5% higher after the guidance update, as investors weigh continued strength in DRAM prices and data-center spending.\\nShares Up 3.5%\\nPositive Sentiment:\\nNeedham & Company LLC reiterated its “Buy” rating and $150 price target—implying roughly 21% upside—ba\", \"importance_score\": 59, \"sentiment\": \"positive\"}, {\"text\": \"Positive Sentiment:\\nCompany raised its fiscal Q4 2025 revenue guidance to $11.2 billion ± $100 million (from $10.7 billion ± $300 million) and boosted non-GAAP EPS outlook on stronger DRAM pricing and execution, driving optimism about AI memory demand.\", \"importance_score\": 57, \"sentiment\": \"positive\"}, {\"text\": \"Needham reiterates Buy\\nPositive Sentiment:\\nAnalysts highlight Micron as a key AI chip play, with robust demand for memory chips outshining some peers in the semiconductor sector.\\nBest AI stock to buy\\nNeutral Sentiment:\\nManagement discussed execution priorities and market outlook at the KeyBanc Techn\", \"importance_score\": 53, \"sentiment\": \"positive\"}, {\"text\": \"Micron Technology, Inc. (NASDAQ: MU) shares have risen on upbeat guidance, AI-driven demand and fresh analyst support.\", \"importance_score\": 30, \"sentiment\": \"neutral\"}, {\"text\": \"Short interest showed an anomalous report of zero shares as of August 11, suggesting no material bearish positioning—but data may require confirmation.\", \"importance_score\": 15, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"$11.2 billion\", \"$10.7 billion\", \"$300 million\", \"150\"], \"important_dates\": [\"fiscal Q4 2025\", \"Q4\", \"August 11\", \"1h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Company\", \"verb\": \"raised\", \"object\": \"guidance\", \"importance\": 17}, {\"subject\": \"Micron\", \"verb\": \"raises\", \"object\": \"forecast\", \"importance\": 3}, {\"subject\": \"investors\", \"verb\": \"weigh\", \"object\": \"strength\", \"importance\": 21}, {\"subject\": \"Needham\", \"verb\": \"reiterated\", \"object\": \"rating\", \"importance\": 21}, {\"subject\": \"Needham\", \"verb\": \"reiterates\", \"object\": \"stock\", \"importance\": 16}], \"business_context\": []}"
+}
