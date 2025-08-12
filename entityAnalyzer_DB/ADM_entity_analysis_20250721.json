@@ -1,0 +1,92 @@
+{
+  "ticker": "ADM",
+  "timestamp": "2025-07-21T10:28:17.120850",
+  "companies": [
+    "Archer Daniels Midland Company",
+    "ADM",
+    "7th U.S. Circuit Court of Appeals",
+    "7th Cir.",
+    "Zacks",
+    "Archer Daniels Midland",
+    "MarketBeat",
+    "Silicon Valley",
+    "Coca-Cola",
+    "Archer-Daniels-Midland"
+  ],
+  "people": [
+    "Trump"
+  ],
+  "sentiment": {
+    "overall": "neutral",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "Archer Daniels Midland (ADM) Advances While Market Declines\nNeutral Sentiment:\nADM was featured among “five stocks brokers adore” in a Zacks roundup, highlighting its appeal amid ongoing economic uncertainty.\n5 Stocks Brokers Adore Even as Economic Uncertainty Lingers\nNeutral Sentiment:\nAs part of c",
+      "importance_score": 71,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Negative Sentiment:\nShares dipped after President Trump said Coca-Cola will switch to cane sugar in the U.S., potentially reducing demand for ADM’s high-fructose corn syrup.\nArcher-Daniels-Midland stock drops after Trump’s Coca-Cola sugar claim\nPosted 1+ days ago\nAI Generated.",
+      "importance_score": 60,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Positive Sentiment:\n7th U.S. Circuit Court of Appeals affirmed dismissal of ethanol-monopoly claims against ADM, removing a significant legal overhang.\nADM Beats Ethanol Monopoly Claims as 7th Cir. Affirms Dismissal\nPositive Sentiment:\nA Zacks report noted ADM outperformed the broader market, advanc",
+      "importance_score": 59,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Archer Daniels Midland Company (NYSE: ADM) shares have been influenced by a mix of legal, operational and market-driven news over the past 24–36 hours.",
+      "importance_score": 29,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "The Next AI Boom Will Hit in … Kansas!?",
+      "importance_score": 5,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [],
+  "important_dates": [
+    "1+ days ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Court",
+      "verb": "affirmed",
+      "object": "dismissal",
+      "importance": 16
+    },
+    {
+      "subject": "ADM",
+      "verb": "Beats",
+      "object": "Claims",
+      "importance": 16
+    },
+    {
+      "subject": "ADM",
+      "verb": "outperformed",
+      "object": "market",
+      "importance": 16
+    },
+    {
+      "subject": "Midland",
+      "verb": "Advances",
+      "object": "Sentiment",
+      "importance": 20
+    },
+    {
+      "subject": "ADM",
+      "verb": "closing",
+      "object": "plant",
+      "importance": 20
+    }
+  ],
+  "business_context": [],
+  "compact_analysis": "{\"ticker\": \"ADM\", \"companies\": [\"Archer Daniels Midland Company\", \"ADM\", \"7th U.S. Circuit Court of Appeals\", \"7th Cir.\", \"Zacks\", \"Archer Daniels Midland\", \"MarketBeat\", \"Silicon Valley\", \"Coca-Cola\", \"Archer-Daniels-Midland\"], \"people\": [\"Trump\"], \"sentiment\": {\"overall\": \"neutral\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"Archer Daniels Midland (ADM) Advances While Market Declines\\nNeutral Sentiment:\\nADM was featured among “five stocks brokers adore” in a Zacks roundup, highlighting its appeal amid ongoing economic uncertainty.\\n5 Stocks Brokers Adore Even as Economic Uncertainty Lingers\\nNeutral Sentiment:\\nAs part of c\", \"importance_score\": 71, \"sentiment\": \"neutral\"}, {\"text\": \"Negative Sentiment:\\nShares dipped after President Trump said Coca-Cola will switch to cane sugar in the U.S., potentially reducing demand for ADM’s high-fructose corn syrup.\\nArcher-Daniels-Midland stock drops after Trump’s Coca-Cola sugar claim\\nPosted 1+ days ago\\nAI Generated.\", \"importance_score\": 60, \"sentiment\": \"negative\"}, {\"text\": \"Positive Sentiment:\\n7th U.S. Circuit Court of Appeals affirmed dismissal of ethanol-monopoly claims against ADM, removing a significant legal overhang.\\nADM Beats Ethanol Monopoly Claims as 7th Cir. Affirms Dismissal\\nPositive Sentiment:\\nA Zacks report noted ADM outperformed the broader market, advanc\", \"importance_score\": 59, \"sentiment\": \"positive\"}, {\"text\": \"Archer Daniels Midland Company (NYSE: ADM) shares have been influenced by a mix of legal, operational and market-driven news over the past 24–36 hours.\", \"importance_score\": 29, \"sentiment\": \"neutral\"}, {\"text\": \"The Next AI Boom Will Hit in … Kansas!?\", \"importance_score\": 5, \"sentiment\": \"neutral\"}], \"money_amounts\": [], \"important_dates\": [\"1+ days ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Court\", \"verb\": \"affirmed\", \"object\": \"dismissal\", \"importance\": 16}, {\"subject\": \"ADM\", \"verb\": \"Beats\", \"object\": \"Claims\", \"importance\": 16}, {\"subject\": \"ADM\", \"verb\": \"outperformed\", \"object\": \"market\", \"importance\": 16}, {\"subject\": \"Midland\", \"verb\": \"Advances\", \"object\": \"Sentiment\", \"importance\": 20}, {\"subject\": \"ADM\", \"verb\": \"closing\", \"object\": \"plant\", \"importance\": 20}], \"business_context\": []}"
+}

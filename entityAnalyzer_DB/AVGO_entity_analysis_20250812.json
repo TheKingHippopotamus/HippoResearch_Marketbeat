@@ -1,0 +1,112 @@
+{
+  "ticker": "AVGO",
+  "timestamp": "2025-08-12T03:12:27.633791",
+  "companies": [
+    "Broadcom Inc.",
+    "AVGO",
+    "Morgan Stanley",
+    "Zacks",
+    "Broadcom",
+    "Nasdaq",
+    "MarketBeat",
+    "Telecom",
+    "VMware",
+    "Yahoo Finance",
+    "MSN",
+    "Nvidia",
+    "AI Generated"
+  ],
+  "people": [
+    "Trump",
+    "Cleo Fields"
+  ],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "Yahoo Finance revisited AVGO’s decade-long performance, showing how a $1,000 investment would have grown.",
+      "importance_score": 36,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Breakout Watch: Nvidia, Broadcom In Focus\nNeutral Sentiment:\nMarketBeat included AVGO in its “Worth Watching” telecom stocks list for August 10th.",
+      "importance_score": 34,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Short interest in Broadcom ticked higher in early August, although the days-to-cover ratio remains negligible, suggesting some bearish positioning.\nPosted 28m ago\nAI Generated.",
+      "importance_score": 33,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Positive Sentiment:\nZacks includes AVGO among four Nasdaq names to bet on as AI momentum drives the market higher.",
+      "importance_score": 29,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Zacks names Broadcom as one of two top semiconductor stocks to buy from an otherwise challenging industry outlook.",
+      "importance_score": 25,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "1,000",
+    "1000"
+  ],
+  "important_dates": [
+    "Q2",
+    "Q3",
+    "today",
+    "decade-long",
+    "August 10th",
+    "early August",
+    "28m ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Stanley",
+      "verb": "raised",
+      "object": "target",
+      "importance": 5
+    },
+    {
+      "subject": "Stanley",
+      "verb": "Raises",
+      "object": "PT",
+      "importance": 2
+    },
+    {
+      "subject": "Zacks",
+      "verb": "names",
+      "object": "Broadcom",
+      "importance": 7
+    },
+    {
+      "subject": "Stocks",
+      "verb": "highlights",
+      "object": "reasons",
+      "importance": 7
+    },
+    {
+      "subject": "Zacks",
+      "verb": "highlights",
+      "object": "reasons",
+      "importance": 7
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d07490>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147dfff10>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147dff670>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147d7ca00>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147d7cb50>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"AVGO\", \"companies\": [\"Broadcom Inc.\", \"AVGO\", \"Morgan Stanley\", \"Zacks\", \"Broadcom\", \"Nasdaq\", \"MarketBeat\", \"Telecom\", \"VMware\", \"Yahoo Finance\", \"MSN\", \"Nvidia\", \"AI Generated\"], \"people\": [\"Trump\", \"Cleo Fields\"], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"Yahoo Finance revisited AVGO’s decade-long performance, showing how a $1,000 investment would have grown.\", \"importance_score\": 36, \"sentiment\": \"neutral\"}, {\"text\": \"Breakout Watch: Nvidia, Broadcom In Focus\\nNeutral Sentiment:\\nMarketBeat included AVGO in its “Worth Watching” telecom stocks list for August 10th.\", \"importance_score\": 34, \"sentiment\": \"neutral\"}, {\"text\": \"Short interest in Broadcom ticked higher in early August, although the days-to-cover ratio remains negligible, suggesting some bearish positioning.\\nPosted 28m ago\\nAI Generated.\", \"importance_score\": 33, \"sentiment\": \"neutral\"}, {\"text\": \"Positive Sentiment:\\nZacks includes AVGO among four Nasdaq names to bet on as AI momentum drives the market higher.\", \"importance_score\": 29, \"sentiment\": \"positive\"}, {\"text\": \"Zacks names Broadcom as one of two top semiconductor stocks to buy from an otherwise challenging industry outlook.\", \"importance_score\": 25, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"1,000\", \"1000\"], \"important_dates\": [\"Q2\", \"Q3\", \"today\", \"decade-long\", \"August 10th\", \"early August\", \"28m ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Stanley\", \"verb\": \"raised\", \"object\": \"target\", \"importance\": 5}, {\"subject\": \"Stanley\", \"verb\": \"Raises\", \"object\": \"PT\", \"importance\": 2}, {\"subject\": \"Zacks\", \"verb\": \"names\", \"object\": \"Broadcom\", \"importance\": 7}, {\"subject\": \"Stocks\", \"verb\": \"highlights\", \"object\": \"reasons\", \"importance\": 7}, {\"subject\": \"Zacks\", \"verb\": \"highlights\", \"object\": \"reasons\", \"importance\": 7}], \"business_context\": []}"
+}
