@@ -1,0 +1,107 @@
+{
+  "ticker": "C",
+  "timestamp": "2025-08-12T04:50:17.503081",
+  "companies": [
+    "Citigroup Inc.",
+    "C",
+    "Citigroup",
+    "second-quarter 2025",
+    "Second Quarter 2025",
+    "Neutral Sentiment",
+    "Mexico",
+    "Banamex",
+    "Bloomberg News",
+    "Neutral Sentiment:",
+    "Citigroup Global Markets Mauritius",
+    "Kotak Mahindra MF",
+    "Home First Finance",
+    "AI Generated"
+  ],
+  "people": [
+    "Jane Fraser"
+  ],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "Kotak Mahindra MF, Citigroup, others buy 10.64% stake in Home First Finance for Rs 1,307 crore\nPosted 1h ago\nAI Generated.",
+      "importance_score": 59,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Citigroup Global Markets Mauritius, along with Kotak Mahindra MF and others, acquired a 10.64% stake in Home First Finance for ₹1,307 crore, expanding its investment footprint in India.",
+      "importance_score": 55,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Citigroup Second Quarter 2025 Earnings: Beats Expectations\nPositive Sentiment:\nCitigroup raised its year-end S&P 500 target to 6,600 (up from 6,300), citing robust corporate earnings fueled by recent tax and spending legislation.",
+      "importance_score": 40,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Positive Sentiment:\nCitigroup’s second-quarter 2025 earnings beat both EPS and revenue expectations, reflecting stronger-than-anticipated performance across its segments.",
+      "importance_score": 23,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Citigroup raises S&P 500 year-end target to 6,600\nNeutral Sentiment:",
+      "importance_score": 22,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "₹1,307 crore",
+    "Rs 1,307 crore"
+  ],
+  "important_dates": [
+    "year-end",
+    "1h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "earnings",
+      "verb": "beat",
+      "object": "expectations",
+      "importance": 8
+    },
+    {
+      "subject": "Earnings",
+      "verb": "raised",
+      "object": "target",
+      "importance": 14
+    },
+    {
+      "subject": "Citigroup",
+      "verb": "raised",
+      "object": "target",
+      "importance": 14
+    },
+    {
+      "subject": "Citigroup",
+      "verb": "raises",
+      "object": "target",
+      "importance": 6
+    },
+    {
+      "subject": "Fraser",
+      "verb": "visited",
+      "object": "Mexico",
+      "importance": 5
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147dbcf10>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147dbcfd0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147d842e0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147d84850>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148ded760>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"C\", \"companies\": [\"Citigroup Inc.\", \"C\", \"Citigroup\", \"second-quarter 2025\", \"Second Quarter 2025\", \"Neutral Sentiment\", \"Mexico\", \"Banamex\", \"Bloomberg News\", \"Neutral Sentiment:\", \"Citigroup Global Markets Mauritius\", \"Kotak Mahindra MF\", \"Home First Finance\", \"AI Generated\"], \"people\": [\"Jane Fraser\"], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"Kotak Mahindra MF, Citigroup, others buy 10.64% stake in Home First Finance for Rs 1,307 crore\\nPosted 1h ago\\nAI Generated.\", \"importance_score\": 59, \"sentiment\": \"neutral\"}, {\"text\": \"Citigroup Global Markets Mauritius, along with Kotak Mahindra MF and others, acquired a 10.64% stake in Home First Finance for ₹1,307 crore, expanding its investment footprint in India.\", \"importance_score\": 55, \"sentiment\": \"neutral\"}, {\"text\": \"Citigroup Second Quarter 2025 Earnings: Beats Expectations\\nPositive Sentiment:\\nCitigroup raised its year-end S&P 500 target to 6,600 (up from 6,300), citing robust corporate earnings fueled by recent tax and spending legislation.\", \"importance_score\": 40, \"sentiment\": \"positive\"}, {\"text\": \"Positive Sentiment:\\nCitigroup’s second-quarter 2025 earnings beat both EPS and revenue expectations, reflecting stronger-than-anticipated performance across its segments.\", \"importance_score\": 23, \"sentiment\": \"positive\"}, {\"text\": \"Citigroup raises S&P 500 year-end target to 6,600\\nNeutral Sentiment:\", \"importance_score\": 22, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"₹1,307 crore\", \"Rs 1,307 crore\"], \"important_dates\": [\"year-end\", \"1h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"earnings\", \"verb\": \"beat\", \"object\": \"expectations\", \"importance\": 8}, {\"subject\": \"Earnings\", \"verb\": \"raised\", \"object\": \"target\", \"importance\": 14}, {\"subject\": \"Citigroup\", \"verb\": \"raised\", \"object\": \"target\", \"importance\": 14}, {\"subject\": \"Citigroup\", \"verb\": \"raises\", \"object\": \"target\", \"importance\": 6}, {\"subject\": \"Fraser\", \"verb\": \"visited\", \"object\": \"Mexico\", \"importance\": 5}], \"business_context\": []}"
+}
