@@ -1,0 +1,113 @@
+{
+  "ticker": "LMT",
+  "timestamp": "2025-08-12T06:24:16.418666",
+  "companies": [
+    "Lockheed Martin Corporation",
+    "LMT",
+    "Aeronautics",
+    "RMS",
+    "Zacks",
+    "Lockheed Martin",
+    "Zacks.com",
+    "Hagens Berman",
+    "Levi & Korsinsky",
+    "Bronstein, Gewirtz & Grossman",
+    "Pomerantz LLP",
+    "LMT INVESTOR ALERT",
+    "Bronstein, Gewirtz & Grossman LLC",
+    "Robbins Geller Rudman & Dowd",
+    "The Gross Law Firm",
+    "Robbins Geller",
+    "Bernstein Liebhard LLP",
+    "SHAREHOLDER ALERT Bernstein Liebhard LLP",
+    "The Schall Law Firm",
+    "The DJS Law Group",
+    "AI Generated"
+  ],
+  "people": [
+    "Khan"
+  ],
+  "sentiment": {
+    "overall": "negative",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "professional",
+  "key_points": [
+    {
+      "text": "LMT INVESTOR DEADLINE: Robbins Geller…\nNegative Sentiment:\nBernstein Liebhard LLP has filed a securities fraud class action against Lockheed Martin, alleging the company misled investors about its financial performance.\nSHAREHOLDER ALERT Bernstein Liebhard LLP…\nNegative Sentiment:\nThe Schall Law Fir",
+      "importance_score": 90,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Neutral Sentiment:\nLockheed Martin has become one of the most-watched stocks on Zacks.com, with the firm highlighting key facts investors should know before placing new bets.\nLockheed Martin Corporation (LMT) Is a Trending Stock: Facts to Know Before Betting on It\nNegative Sentiment:\nHagens Berman h",
+      "importance_score": 70,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Lockheed Martin (LMT) Faces Investor Scrutiny…\nNegative Sentiment:\nLevi & Korsinsky has notified Lockheed Martin investors of a class action alleging similar disclosure issues, setting a deadline for participation.\nLMT LAWSUIT ALERT: Levi & Korsinsky…\nNegative Sentiment:",
+      "importance_score": 51,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Robbins Geller Rudman & Dowd and The Gross Law Firm have set lead-plaintiff deadlines for plaintiffs in Khan v. Lockheed Martin, covering purchases from January 2024 to July 2025.",
+      "importance_score": 51,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Lockheed Martin Corporation (LMT) shares have eased as a flurry of securities class action lawsuits allege misleading disclosures in its Aeronautics and RMS segments, overshadowing neutral analyst interest despite growing attention from Zacks.",
+      "importance_score": 40,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [],
+  "important_dates": [
+    "January 2024 to July 2025",
+    "from January 2024 to July 2025",
+    "September 26, 2025",
+    "2h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "flurry",
+      "verb": "allege",
+      "object": "disclosures",
+      "importance": 9
+    },
+    {
+      "subject": "firm",
+      "verb": "highlighting",
+      "object": "facts",
+      "importance": 20
+    },
+    {
+      "subject": "Berman",
+      "verb": "filed",
+      "object": "Khan",
+      "importance": 20
+    },
+    {
+      "subject": "Martin",
+      "verb": "Faces",
+      "object": "Scrutiny",
+      "importance": 13
+    },
+    {
+      "subject": "Levi",
+      "verb": "notified",
+      "object": "investors",
+      "importance": 13
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148de6040>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148de6e50>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148de6880>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dd6f40>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148e76280>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"LMT\", \"companies\": [\"Lockheed Martin Corporation\", \"LMT\", \"Aeronautics\", \"RMS\", \"Zacks\", \"Lockheed Martin\", \"Zacks.com\", \"Hagens Berman\", \"Levi & Korsinsky\", \"Bronstein, Gewirtz & Grossman\", \"Pomerantz LLP\", \"LMT INVESTOR ALERT\", \"Bronstein, Gewirtz & Grossman LLC\", \"Robbins Geller Rudman & Dowd\", \"The Gross Law Firm\", \"Robbins Geller\", \"Bernstein Liebhard LLP\", \"SHAREHOLDER ALERT Bernstein Liebhard LLP\", \"The Schall Law Firm\", \"The DJS Law Group\", \"AI Generated\"], \"people\": [\"Khan\"], \"sentiment\": {\"overall\": \"negative\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"professional\", \"key_points\": [{\"text\": \"LMT INVESTOR DEADLINE: Robbins Geller…\\nNegative Sentiment:\\nBernstein Liebhard LLP has filed a securities fraud class action against Lockheed Martin, alleging the company misled investors about its financial performance.\\nSHAREHOLDER ALERT Bernstein Liebhard LLP…\\nNegative Sentiment:\\nThe Schall Law Fir\", \"importance_score\": 90, \"sentiment\": \"negative\"}, {\"text\": \"Neutral Sentiment:\\nLockheed Martin has become one of the most-watched stocks on Zacks.com, with the firm highlighting key facts investors should know before placing new bets.\\nLockheed Martin Corporation (LMT) Is a Trending Stock: Facts to Know Before Betting on It\\nNegative Sentiment:\\nHagens Berman h\", \"importance_score\": 70, \"sentiment\": \"negative\"}, {\"text\": \"Lockheed Martin (LMT) Faces Investor Scrutiny…\\nNegative Sentiment:\\nLevi & Korsinsky has notified Lockheed Martin investors of a class action alleging similar disclosure issues, setting a deadline for participation.\\nLMT LAWSUIT ALERT: Levi & Korsinsky…\\nNegative Sentiment:\", \"importance_score\": 51, \"sentiment\": \"negative\"}, {\"text\": \"Robbins Geller Rudman & Dowd and The Gross Law Firm have set lead-plaintiff deadlines for plaintiffs in Khan v. Lockheed Martin, covering purchases from January 2024 to July 2025.\", \"importance_score\": 51, \"sentiment\": \"neutral\"}, {\"text\": \"Lockheed Martin Corporation (LMT) shares have eased as a flurry of securities class action lawsuits allege misleading disclosures in its Aeronautics and RMS segments, overshadowing neutral analyst interest despite growing attention from Zacks.\", \"importance_score\": 40, \"sentiment\": \"neutral\"}], \"money_amounts\": [], \"important_dates\": [\"January 2024 to July 2025\", \"from January 2024 to July 2025\", \"September 26, 2025\", \"2h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"flurry\", \"verb\": \"allege\", \"object\": \"disclosures\", \"importance\": 9}, {\"subject\": \"firm\", \"verb\": \"highlighting\", \"object\": \"facts\", \"importance\": 20}, {\"subject\": \"Berman\", \"verb\": \"filed\", \"object\": \"Khan\", \"importance\": 20}, {\"subject\": \"Martin\", \"verb\": \"Faces\", \"object\": \"Scrutiny\", \"importance\": 13}, {\"subject\": \"Levi\", \"verb\": \"notified\", \"object\": \"investors\", \"importance\": 13}], \"business_context\": []}"
+}
