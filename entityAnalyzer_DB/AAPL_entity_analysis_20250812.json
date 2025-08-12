@@ -1,0 +1,123 @@
+{
+  "ticker": "AAPL",
+  "timestamp": "2025-08-12T07:06:19.584029",
+  "companies": [
+    "Apple Inc.",
+    "NASDAQ",
+    "AAPL",
+    "Apple",
+    "Laffer Tengler",
+    "@brownreport",
+    "Tim Cook’s",
+    "Tim Cook",
+    "Google",
+    "Wedbush",
+    "Pomerantz LLP",
+    "Bernstein Liebhard LLP",
+    "BFA Law",
+    "Pomerantz Law Firm",
+    "Richard Bernstein Advisors",
+    "the Second Quarter"
+  ],
+  "people": [
+    "Trump",
+    "Nancy Tengler",
+    "Jason Brown",
+    "Joe Terranova",
+    "Terranova",
+    "Richard Bernstein"
+  ],
+  "sentiment": {
+    "overall": "neutral",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "Apple urged to avoid 'BlackBerry moment' in AI: analysts\nNegative Sentiment:\nThree separate class-action lawsuits filed by Pomerantz LLP, Bernstein Liebhard LLP, and BFA Law allege securities law violations during the June 2024–June 2025 period, creating legal overhang.\nPomerantz Law Firm Announces ",
+      "importance_score": 97,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Leading strategists and fund managers—Nancy Tengler of Laffer Tengler, @brownreport’s Jason Brown, and Joe Terranova—have voiced strong confidence in Tim Cook’s leadership, Apple’s upcoming iPhone cycle and AI roadmap, with Terranova adding to his AAPL position.",
+      "importance_score": 57,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Apple and Google Drive Stock Buybacks to Record-Breaking Trillion Dollar Highs\nNeutral Sentiment:\nShort interest in Apple remains effectively zero, indicating minimal bearish positioning against the nearly 49 million shares traded on average each day.",
+      "importance_score": 48,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Positive Sentiment:\nApple boosted its US manufacturing investment by an additional $100 billion—raising its total commitment to $600 billion—garnering presidential support and securing tariff exemptions under the Trump administration, which has underpinned a surge in bullish sentiment.",
+      "importance_score": 45,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Trade Tracker: Joe Terranova buys more Apple\nDo not underestimate Tim Cook\nPositive Sentiment:\nApple is on track with a record-breaking share buyback program—alongside Google—to hit a total of $1 trillion in repurchases for 2025, reaffirming its commitment to returning capital to shareholders.",
+      "importance_score": 45,
+      "sentiment": "positive"
+    }
+  ],
+  "money_amounts": [
+    "an additional $100 billion",
+    "$600 billion",
+    "$100B",
+    "$1 trillion",
+    "Trillion Dollar",
+    "$5.3 million"
+  ],
+  "important_dates": [
+    "today",
+    "2025",
+    "each day",
+    "2026",
+    "June 2024–June 2025",
+    "Q2",
+    "3h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "what",
+      "verb": "shaping",
+      "object": "trading",
+      "importance": 2
+    },
+    {
+      "subject": "Apple",
+      "verb": "boosted",
+      "object": "investment",
+      "importance": 14
+    },
+    {
+      "subject": "which",
+      "verb": "underpinned",
+      "object": "surge",
+      "importance": 14
+    },
+    {
+      "subject": "Investment",
+      "verb": "Push",
+      "object": "Shares",
+      "importance": 7
+    },
+    {
+      "subject": "strategists",
+      "verb": "voiced",
+      "object": "confidence",
+      "importance": 19
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148ddd190>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148e44490>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148e545b0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147d828b0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148e54a90>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"AAPL\", \"companies\": [\"Apple Inc.\", \"NASDAQ\", \"AAPL\", \"Apple\", \"Laffer Tengler\", \"@brownreport\", \"Tim Cook’s\", \"Tim Cook\", \"Google\", \"Wedbush\", \"Pomerantz LLP\", \"Bernstein Liebhard LLP\", \"BFA Law\", \"Pomerantz Law Firm\", \"Richard Bernstein Advisors\", \"the Second Quarter\"], \"people\": [\"Trump\", \"Nancy Tengler\", \"Jason Brown\", \"Joe Terranova\", \"Terranova\", \"Richard Bernstein\"], \"sentiment\": {\"overall\": \"neutral\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"Apple urged to avoid 'BlackBerry moment' in AI: analysts\\nNegative Sentiment:\\nThree separate class-action lawsuits filed by Pomerantz LLP, Bernstein Liebhard LLP, and BFA Law allege securities law violations during the June 2024–June 2025 period, creating legal overhang.\\nPomerantz Law Firm Announces \", \"importance_score\": 97, \"sentiment\": \"negative\"}, {\"text\": \"Leading strategists and fund managers—Nancy Tengler of Laffer Tengler, @brownreport’s Jason Brown, and Joe Terranova—have voiced strong confidence in Tim Cook’s leadership, Apple’s upcoming iPhone cycle and AI roadmap, with Terranova adding to his AAPL position.\", \"importance_score\": 57, \"sentiment\": \"positive\"}, {\"text\": \"Apple and Google Drive Stock Buybacks to Record-Breaking Trillion Dollar Highs\\nNeutral Sentiment:\\nShort interest in Apple remains effectively zero, indicating minimal bearish positioning against the nearly 49 million shares traded on average each day.\", \"importance_score\": 48, \"sentiment\": \"neutral\"}, {\"text\": \"Positive Sentiment:\\nApple boosted its US manufacturing investment by an additional $100 billion—raising its total commitment to $600 billion—garnering presidential support and securing tariff exemptions under the Trump administration, which has underpinned a surge in bullish sentiment.\", \"importance_score\": 45, \"sentiment\": \"positive\"}, {\"text\": \"Trade Tracker: Joe Terranova buys more Apple\\nDo not underestimate Tim Cook\\nPositive Sentiment:\\nApple is on track with a record-breaking share buyback program—alongside Google—to hit a total of $1 trillion in repurchases for 2025, reaffirming its commitment to returning capital to shareholders.\", \"importance_score\": 45, \"sentiment\": \"positive\"}], \"money_amounts\": [\"an additional $100 billion\", \"$600 billion\", \"$100B\", \"$1 trillion\", \"Trillion Dollar\", \"$5.3 million\"], \"important_dates\": [\"today\", \"2025\", \"each day\", \"2026\", \"June 2024–June 2025\", \"Q2\", \"3h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"what\", \"verb\": \"shaping\", \"object\": \"trading\", \"importance\": 2}, {\"subject\": \"Apple\", \"verb\": \"boosted\", \"object\": \"investment\", \"importance\": 14}, {\"subject\": \"which\", \"verb\": \"underpinned\", \"object\": \"surge\", \"importance\": 14}, {\"subject\": \"Investment\", \"verb\": \"Push\", \"object\": \"Shares\", \"importance\": 7}, {\"subject\": \"strategists\", \"verb\": \"voiced\", \"object\": \"confidence\", \"importance\": 19}], \"business_context\": []}"
+}
