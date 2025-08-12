@@ -1,0 +1,119 @@
+{
+  "ticker": "WYNN",
+  "timestamp": "2025-08-12T06:57:28.992591",
+  "companies": [
+    "Wynn Resorts, Limited",
+    "WYNN",
+    "Jefferies",
+    "Mizuho",
+    "Macquarie",
+    "American Banking News",
+    "Target",
+    "Seeking Alpha",
+    "CNBC",
+    "Goldman Sachs",
+    "Wynn Resorts",
+    "The Globe and Mail",
+    "Globe and Mail",
+    "Wynn",
+    "GuruFocus\nNeutral Sentiment:",
+    "Wynn Macau, Limited",
+    "AI Generated"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "finance",
+  "key_points": [
+    {
+      "text": "TipRanks\nNeutral Sentiment:\nShort interest in WYNN remained effectively zero as of August 11, indicating limited bearish positioning.\nNegative Sentiment:\nQ2 earnings missed expectations, with EPS of $1.09 vs. $1.20 consensus, though revenue matched forecasts at $1.74 billion.",
+      "importance_score": 51,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Wynn Resorts, Limited (WYNN) stock is moving today amid a flurry of analyst rating changes, debt offerings and unusual trading activity that point to both bullish and bearish factors.",
+      "importance_score": 35,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "GuruFocus\nPositive Sentiment:\nMacquarie lifted its price target from $110.00 to $124.00 and kept an \"outperform\" rating on WYNN.\nMarketBeat\nPositive Sentiment:",
+      "importance_score": 35,
+      "sentiment": "positive"
+    },
+    {
+      "text": "The Globe and Mail\nNeutral Sentiment:\nMacquarie reaffirmed its \"buy\" rating on WYNN, signaling confidence but no further detail on target adjustments.",
+      "importance_score": 35,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Positive Sentiment:\nJefferies raised its price target from $130.00 to $133.00 with a \"buy\" rating, implying a 22.4% upside from recent levels.\nTickerreport.com\nPositive Sentiment:",
+      "importance_score": 33,
+      "sentiment": "positive"
+    }
+  ],
+  "money_amounts": [
+    "130.00",
+    "133.00",
+    "126.00",
+    "110.00",
+    "124.00",
+    "124.00",
+    "130.00",
+    "124",
+    "130",
+    "1.09"
+  ],
+  "important_dates": [
+    "today",
+    "the next five years",
+    "August 11",
+    "Q2",
+    "3h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Jefferies",
+      "verb": "raised",
+      "object": "target",
+      "importance": 8
+    },
+    {
+      "subject": "Mizuho",
+      "verb": "boosted",
+      "object": "target",
+      "importance": 7
+    },
+    {
+      "subject": "Macquarie",
+      "verb": "lifted",
+      "object": "target",
+      "importance": 7
+    },
+    {
+      "subject": "News",
+      "verb": "published",
+      "object": "targets",
+      "importance": 7
+    },
+    {
+      "subject": "investors",
+      "verb": "buy",
+      "object": "options",
+      "importance": 6
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148e44eb0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148e84b20>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148e54f70>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d021c0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148ddd190>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"WYNN\", \"companies\": [\"Wynn Resorts, Limited\", \"WYNN\", \"Jefferies\", \"Mizuho\", \"Macquarie\", \"American Banking News\", \"Target\", \"Seeking Alpha\", \"CNBC\", \"Goldman Sachs\", \"Wynn Resorts\", \"The Globe and Mail\", \"Globe and Mail\", \"Wynn\", \"GuruFocus\\nNeutral Sentiment:\", \"Wynn Macau, Limited\", \"AI Generated\"], \"people\": [], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"finance\", \"key_points\": [{\"text\": \"TipRanks\\nNeutral Sentiment:\\nShort interest in WYNN remained effectively zero as of August 11, indicating limited bearish positioning.\\nNegative Sentiment:\\nQ2 earnings missed expectations, with EPS of $1.09 vs. $1.20 consensus, though revenue matched forecasts at $1.74 billion.\", \"importance_score\": 51, \"sentiment\": \"negative\"}, {\"text\": \"Wynn Resorts, Limited (WYNN) stock is moving today amid a flurry of analyst rating changes, debt offerings and unusual trading activity that point to both bullish and bearish factors.\", \"importance_score\": 35, \"sentiment\": \"neutral\"}, {\"text\": \"GuruFocus\\nPositive Sentiment:\\nMacquarie lifted its price target from $110.00 to $124.00 and kept an \\\"outperform\\\" rating on WYNN.\\nMarketBeat\\nPositive Sentiment:\", \"importance_score\": 35, \"sentiment\": \"positive\"}, {\"text\": \"The Globe and Mail\\nNeutral Sentiment:\\nMacquarie reaffirmed its \\\"buy\\\" rating on WYNN, signaling confidence but no further detail on target adjustments.\", \"importance_score\": 35, \"sentiment\": \"neutral\"}, {\"text\": \"Positive Sentiment:\\nJefferies raised its price target from $130.00 to $133.00 with a \\\"buy\\\" rating, implying a 22.4% upside from recent levels.\\nTickerreport.com\\nPositive Sentiment:\", \"importance_score\": 33, \"sentiment\": \"positive\"}], \"money_amounts\": [\"130.00\", \"133.00\", \"126.00\", \"110.00\", \"124.00\", \"124.00\", \"130.00\", \"124\", \"130\", \"1.09\"], \"important_dates\": [\"today\", \"the next five years\", \"August 11\", \"Q2\", \"3h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Jefferies\", \"verb\": \"raised\", \"object\": \"target\", \"importance\": 8}, {\"subject\": \"Mizuho\", \"verb\": \"boosted\", \"object\": \"target\", \"importance\": 7}, {\"subject\": \"Macquarie\", \"verb\": \"lifted\", \"object\": \"target\", \"importance\": 7}, {\"subject\": \"News\", \"verb\": \"published\", \"object\": \"targets\", \"importance\": 7}, {\"subject\": \"investors\", \"verb\": \"buy\", \"object\": \"options\", \"importance\": 6}], \"business_context\": []}"
+}
