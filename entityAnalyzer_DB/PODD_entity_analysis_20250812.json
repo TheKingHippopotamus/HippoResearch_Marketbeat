@@ -1,0 +1,111 @@
+{
+  "ticker": "PODD",
+  "timestamp": "2025-08-12T03:22:36.227481",
+  "companies": [
+    "Insulet Corporation",
+    "PODD",
+    "Leerink Partners",
+    "Leerink Partnrs",
+    "Insulet",
+    "Wall Street Zen",
+    "Wells Fargo & Company",
+    "Canaccord Genuity",
+    "Canaccord Genuity Group",
+    "Royal Bank of Canada",
+    "GuruFocus",
+    "Insulet Corp (",
+    "Zacks",
+    "AI Generated"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "Insulet (NASDAQ:PODD) Price Target Raised to $350.00\nPositive Sentiment:\nGuruFocus highlighted Insulet’s strong financial metrics and competitive strengths in “Insulet Corp (PODD)’s Winning Formula.”",
+      "importance_score": 53,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Canaccord Genuity Group Issues Positive Forecast for Insulet (NASDAQ:PODD) Stock Price\nPositive Sentiment:\nRoyal Bank of Canada raised its target to $350.00 and reiterated an “Outperform” rating.",
+      "importance_score": 50,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Canaccord Genuity lifted its target from $331.00 to $353.00 and maintained a “Buy” rating.",
+      "importance_score": 31,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Positive Sentiment:\nLeerink Partners raised its Q3 2025 EPS estimate to $1.12 (from $1.08), reflecting stronger-than-expected profitability.",
+      "importance_score": 29,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Insulet (NASDAQ:PODD) Given New $350.00 Price Target at Wells Fargo & Company\nPositive Sentiment:",
+      "importance_score": 28,
+      "sentiment": "positive"
+    }
+  ],
+  "money_amounts": [
+    "1.12",
+    "1.08",
+    "350.00",
+    "350.00",
+    "331.00",
+    "353.00",
+    "350.00",
+    "350.00"
+  ],
+  "important_dates": [
+    "Q3 2025",
+    "1h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Partners",
+      "verb": "raised",
+      "object": "estimate",
+      "importance": 7
+    },
+    {
+      "subject": "Brokers",
+      "verb": "Raise",
+      "object": "Estimates",
+      "importance": 4
+    },
+    {
+      "subject": "Zen",
+      "verb": "upgraded",
+      "object": "stock",
+      "importance": 7
+    },
+    {
+      "subject": "Zen",
+      "verb": "Upgrades",
+      "object": "Insulet",
+      "importance": 5
+    },
+    {
+      "subject": "Fargo",
+      "verb": "set",
+      "object": "target",
+      "importance": 6
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d1fdc0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d5c460>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d18d90>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d056d0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d05130>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"PODD\", \"companies\": [\"Insulet Corporation\", \"PODD\", \"Leerink Partners\", \"Leerink Partnrs\", \"Insulet\", \"Wall Street Zen\", \"Wells Fargo & Company\", \"Canaccord Genuity\", \"Canaccord Genuity Group\", \"Royal Bank of Canada\", \"GuruFocus\", \"Insulet Corp (\", \"Zacks\", \"AI Generated\"], \"people\": [], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"Insulet (NASDAQ:PODD) Price Target Raised to $350.00\\nPositive Sentiment:\\nGuruFocus highlighted Insulet’s strong financial metrics and competitive strengths in “Insulet Corp (PODD)’s Winning Formula.”\", \"importance_score\": 53, \"sentiment\": \"positive\"}, {\"text\": \"Canaccord Genuity Group Issues Positive Forecast for Insulet (NASDAQ:PODD) Stock Price\\nPositive Sentiment:\\nRoyal Bank of Canada raised its target to $350.00 and reiterated an “Outperform” rating.\", \"importance_score\": 50, \"sentiment\": \"positive\"}, {\"text\": \"Canaccord Genuity lifted its target from $331.00 to $353.00 and maintained a “Buy” rating.\", \"importance_score\": 31, \"sentiment\": \"neutral\"}, {\"text\": \"Positive Sentiment:\\nLeerink Partners raised its Q3 2025 EPS estimate to $1.12 (from $1.08), reflecting stronger-than-expected profitability.\", \"importance_score\": 29, \"sentiment\": \"positive\"}, {\"text\": \"Insulet (NASDAQ:PODD) Given New $350.00 Price Target at Wells Fargo & Company\\nPositive Sentiment:\", \"importance_score\": 28, \"sentiment\": \"positive\"}], \"money_amounts\": [\"1.12\", \"1.08\", \"350.00\", \"350.00\", \"331.00\", \"353.00\", \"350.00\", \"350.00\"], \"important_dates\": [\"Q3 2025\", \"1h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Partners\", \"verb\": \"raised\", \"object\": \"estimate\", \"importance\": 7}, {\"subject\": \"Brokers\", \"verb\": \"Raise\", \"object\": \"Estimates\", \"importance\": 4}, {\"subject\": \"Zen\", \"verb\": \"upgraded\", \"object\": \"stock\", \"importance\": 7}, {\"subject\": \"Zen\", \"verb\": \"Upgrades\", \"object\": \"Insulet\", \"importance\": 5}, {\"subject\": \"Fargo\", \"verb\": \"set\", \"object\": \"target\", \"importance\": 6}], \"business_context\": []}"
+}
