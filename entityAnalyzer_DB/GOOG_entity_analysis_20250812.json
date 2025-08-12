@@ -1,0 +1,110 @@
+{
+  "ticker": "GOOG",
+  "timestamp": "2025-08-12T05:15:59.614509",
+  "companies": [
+    "Alphabet Inc.",
+    "GOOG",
+    "Alphabet",
+    "Tredje AP-fonden",
+    "GOOGL",
+    "Great Lakes Advisors",
+    "GREAT LAKES ADVISORS, LLC",
+    "Seeking Alpha",
+    "Schaeffer’s Research",
+    "Google",
+    "FXEmpire",
+    "AAPL",
+    "AMZN",
+    "AI"
+  ],
+  "people": [
+    "John L. Hennessy"
+  ],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "Positive Sentiment:\nUnusually large call option activity—286,617 contracts traded, 24% above average—signals bullish investor bets.\nStock Traders Buy Large Volume of Call Options on Alphabet\nPositive Sentiment:\nSweden’s Tredje AP-fonden added 1.2 million Alphabet (GOOGL) shares in Q2—an $196 million",
+      "importance_score": 65,
+      "sentiment": "positive"
+    },
+    {
+      "text": "AAPL, AMZN and GOOGL Forecast – Major Tech Stocks Pull Back\nPosted 1h ago\nAI Generated.",
+      "importance_score": 34,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "A Seeking Alpha contributor raises Alphabet’s fair value to $210.94 (7% above current levels) after strong Q2 results and AI initiatives, and says they are buying more shares.",
+      "importance_score": 33,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Alphabet: Why I'm Buying More Shares\nPositive Sentiment:\nSchaeffer’s Research notes that Alphabet’s stock rebound post-earnings is attracting options bulls, underscoring renewed optimism.",
+      "importance_score": 31,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Tredje AP-fonden Loads Up On 1.2M Alphabet (GOOGL) Shares\nPositive Sentiment:",
+      "importance_score": 28,
+      "sentiment": "positive"
+    }
+  ],
+  "money_amounts": [
+    "$196 million",
+    "210.94",
+    "$1 billion",
+    "$1B",
+    "200"
+  ],
+  "important_dates": [
+    "Q2",
+    "1h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "investors",
+      "verb": "watching",
+      "object": "what",
+      "importance": 0
+    },
+    {
+      "subject": "contracts",
+      "verb": "signals",
+      "object": "bets",
+      "importance": 20
+    },
+    {
+      "subject": "Traders",
+      "verb": "Buy",
+      "object": "Volume",
+      "importance": 20
+    },
+    {
+      "subject": "fonden",
+      "verb": "added",
+      "object": "shares",
+      "importance": 20
+    },
+    {
+      "subject": "that",
+      "verb": "highlights",
+      "object": "confidence",
+      "importance": 20
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dd1910>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dd6070>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148df15b0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dc9dc0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dc9970>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"GOOG\", \"companies\": [\"Alphabet Inc.\", \"GOOG\", \"Alphabet\", \"Tredje AP-fonden\", \"GOOGL\", \"Great Lakes Advisors\", \"GREAT LAKES ADVISORS, LLC\", \"Seeking Alpha\", \"Schaeffer’s Research\", \"Google\", \"FXEmpire\", \"AAPL\", \"AMZN\", \"AI\"], \"people\": [\"John L. Hennessy\"], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"Positive Sentiment:\\nUnusually large call option activity—286,617 contracts traded, 24% above average—signals bullish investor bets.\\nStock Traders Buy Large Volume of Call Options on Alphabet\\nPositive Sentiment:\\nSweden’s Tredje AP-fonden added 1.2 million Alphabet (GOOGL) shares in Q2—an $196 million\", \"importance_score\": 65, \"sentiment\": \"positive\"}, {\"text\": \"AAPL, AMZN and GOOGL Forecast – Major Tech Stocks Pull Back\\nPosted 1h ago\\nAI Generated.\", \"importance_score\": 34, \"sentiment\": \"neutral\"}, {\"text\": \"A Seeking Alpha contributor raises Alphabet’s fair value to $210.94 (7% above current levels) after strong Q2 results and AI initiatives, and says they are buying more shares.\", \"importance_score\": 33, \"sentiment\": \"positive\"}, {\"text\": \"Alphabet: Why I'm Buying More Shares\\nPositive Sentiment:\\nSchaeffer’s Research notes that Alphabet’s stock rebound post-earnings is attracting options bulls, underscoring renewed optimism.\", \"importance_score\": 31, \"sentiment\": \"positive\"}, {\"text\": \"Tredje AP-fonden Loads Up On 1.2M Alphabet (GOOGL) Shares\\nPositive Sentiment:\", \"importance_score\": 28, \"sentiment\": \"positive\"}], \"money_amounts\": [\"$196 million\", \"210.94\", \"$1 billion\", \"$1B\", \"200\"], \"important_dates\": [\"Q2\", \"1h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"investors\", \"verb\": \"watching\", \"object\": \"what\", \"importance\": 0}, {\"subject\": \"contracts\", \"verb\": \"signals\", \"object\": \"bets\", \"importance\": 20}, {\"subject\": \"Traders\", \"verb\": \"Buy\", \"object\": \"Volume\", \"importance\": 20}, {\"subject\": \"fonden\", \"verb\": \"added\", \"object\": \"shares\", \"importance\": 20}, {\"subject\": \"that\", \"verb\": \"highlights\", \"object\": \"confidence\", \"importance\": 20}], \"business_context\": []}"
+}
