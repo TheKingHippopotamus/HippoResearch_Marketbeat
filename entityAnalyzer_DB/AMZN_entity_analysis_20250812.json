@@ -1,0 +1,107 @@
+{
+  "ticker": "AMZN",
+  "timestamp": "2025-08-12T06:36:37.759602",
+  "companies": [
+    "Amazon.com, Inc.",
+    "AMZN",
+    "AWS",
+    "Amazon",
+    "GitLab",
+    "Seeking Alpha",
+    "SpaceX",
+    "Falcon 9",
+    "AAPL",
+    "GOOGL",
+    "AI"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "Bad weather for Falcon 9 booster recovery prevents launch of Amazon’s Project Kuiper satellites\nNegative Sentiment:\nThe stock dipped following Q2 earnings, reflecting investor concerns over slowed profit growth and heavy capital expenditures.\nAmazon Stock Slips 10%: Here's Why It Can Still Finish 20",
+      "importance_score": 93,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Wall Street Missed The Real Story In Amazon's Q2\nNegative Sentiment:\nAmazon is discussing the shutdown of its Quebec operations, which could lead to 1,700 layoffs and potential reputational and operational costs.\nAmazon Willing to Discuss Quebec Shutdown With Canadian Officials\nNegative Sentiment:\nA",
+      "importance_score": 45,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Positive Sentiment:\nAWS growth remains the company's primary profit engine, with robust AI integrations, advertising revenue and international expansion supporting long-term margin improvement.\nAmazon:",
+      "importance_score": 36,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Neutral Sentiment:\nAmazon is highlighted among four stocks that could see an earnings-driven move this week, underscoring potential volatility around its upcoming results.\n4 Stocks That May Get a Big Earnings Bump This Week (AMZN)\nNeutral Sentiment:",
+      "importance_score": 34,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Amazon.com, Inc. (AMZN) shares are higher today as positive catalysts around AWS growth, satellite deployments and strong analyst outlooks offset concerns over operational setbacks and broader tech pullbacks.",
+      "importance_score": 30,
+      "sentiment": "positive"
+    }
+  ],
+  "money_amounts": [
+    "$3 Trillion"
+  ],
+  "important_dates": [
+    "today",
+    "three-year",
+    "3-year",
+    "this week",
+    "This Week",
+    "Q2",
+    "2025",
+    "4h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "catalysts",
+      "verb": "offset",
+      "object": "concerns",
+      "importance": 8
+    },
+    {
+      "subject": "integrations",
+      "verb": "supporting",
+      "object": "improvement",
+      "importance": 10
+    },
+    {
+      "subject": "constellation",
+      "verb": "reached",
+      "object": "satellites",
+      "importance": 5
+    },
+    {
+      "subject": "Amazon",
+      "verb": "Launched",
+      "object": "Satellites",
+      "importance": 4
+    },
+    {
+      "subject": "GitLab",
+      "verb": "signed",
+      "object": "Agreement",
+      "importance": 8
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148e76490>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148de6eb0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148de4160>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148e44a00>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148e54460>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"AMZN\", \"companies\": [\"Amazon.com, Inc.\", \"AMZN\", \"AWS\", \"Amazon\", \"GitLab\", \"Seeking Alpha\", \"SpaceX\", \"Falcon 9\", \"AAPL\", \"GOOGL\", \"AI\"], \"people\": [], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"Bad weather for Falcon 9 booster recovery prevents launch of Amazon’s Project Kuiper satellites\\nNegative Sentiment:\\nThe stock dipped following Q2 earnings, reflecting investor concerns over slowed profit growth and heavy capital expenditures.\\nAmazon Stock Slips 10%: Here's Why It Can Still Finish 20\", \"importance_score\": 93, \"sentiment\": \"positive\"}, {\"text\": \"Wall Street Missed The Real Story In Amazon's Q2\\nNegative Sentiment:\\nAmazon is discussing the shutdown of its Quebec operations, which could lead to 1,700 layoffs and potential reputational and operational costs.\\nAmazon Willing to Discuss Quebec Shutdown With Canadian Officials\\nNegative Sentiment:\\nA\", \"importance_score\": 45, \"sentiment\": \"negative\"}, {\"text\": \"Positive Sentiment:\\nAWS growth remains the company's primary profit engine, with robust AI integrations, advertising revenue and international expansion supporting long-term margin improvement.\\nAmazon:\", \"importance_score\": 36, \"sentiment\": \"positive\"}, {\"text\": \"Neutral Sentiment:\\nAmazon is highlighted among four stocks that could see an earnings-driven move this week, underscoring potential volatility around its upcoming results.\\n4 Stocks That May Get a Big Earnings Bump This Week (AMZN)\\nNeutral Sentiment:\", \"importance_score\": 34, \"sentiment\": \"neutral\"}, {\"text\": \"Amazon.com, Inc. (AMZN) shares are higher today as positive catalysts around AWS growth, satellite deployments and strong analyst outlooks offset concerns over operational setbacks and broader tech pullbacks.\", \"importance_score\": 30, \"sentiment\": \"positive\"}], \"money_amounts\": [\"$3 Trillion\"], \"important_dates\": [\"today\", \"three-year\", \"3-year\", \"this week\", \"This Week\", \"Q2\", \"2025\", \"4h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"catalysts\", \"verb\": \"offset\", \"object\": \"concerns\", \"importance\": 8}, {\"subject\": \"integrations\", \"verb\": \"supporting\", \"object\": \"improvement\", \"importance\": 10}, {\"subject\": \"constellation\", \"verb\": \"reached\", \"object\": \"satellites\", \"importance\": 5}, {\"subject\": \"Amazon\", \"verb\": \"Launched\", \"object\": \"Satellites\", \"importance\": 4}, {\"subject\": \"GitLab\", \"verb\": \"signed\", \"object\": \"Agreement\", \"importance\": 8}], \"business_context\": []}"
+}
