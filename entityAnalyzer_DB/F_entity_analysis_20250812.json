@@ -1,0 +1,119 @@
+{
+  "ticker": "F",
+  "timestamp": "2025-08-12T03:57:56.679112",
+  "companies": [
+    "Ford Motor Company",
+    "Ford",
+    "BYD",
+    "Tesla",
+    "CNBC",
+    "Reuters",
+    "Business Wire",
+    "The New York Times",
+    "Zacks",
+    "The Wall Street Journal",
+    "Jefferies",
+    "Ford Motor",
+    "Jefferies Financial Group",
+    "Benzinga",
+    "Jefferies Financial Group Inc.",
+    "AI Generated"
+  ],
+  "people": [
+    "Jim Farley",
+    "Trump"
+  ],
+  "sentiment": {
+    "overall": "neutral",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "automotive",
+  "key_points": [
+    {
+      "text": "Ford announces new $2B EV investment\nPositive Sentiment:\nFord will build an electric pickup with a starting price of $30,000 to better compete with Chinese rivals on affordability.\nFord to build EV pickup with a starting price of $30K in bid to catch China rivals\nPositive Sentiment:\nFord is investin",
+      "importance_score": 139,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Ford's $5 Billion Model T Moment Aims To Turn EV Operation Profitable\nPositive Sentiment:\nFord CEO Jim Farley unveiled a midsize EV truck starting at $30,000 and announced an additional $2 billion investment to challenge BYD and Tesla on price.",
+      "importance_score": 66,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Ford's CEO just threw down the gauntlet at BYD and Tesla with its own $30K EV truck\nPositive Sentiment:\nCNBC reports Ford’s fresh $2 billion EV investment to boost U.S. production capacity.",
+      "importance_score": 66,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Ford Motor had its price target raised by analysts at Jefferies Financial Group Inc. from $8.00 to $9.00\nPosted 14m ago\nAI Generated. May Contain Errors.",
+      "importance_score": 54,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Business Wire details Ford’s $5 billion bet on a new Universal EV Platform, production system and midsize truck to drive U.S. innovation and efficiency.",
+      "importance_score": 45,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "$5 billion",
+    "30,000",
+    "$2 billion",
+    "near $2 billion",
+    "near $2B electric vehicle",
+    "$5 billion",
+    "$5 Billion",
+    "30,000",
+    "$2 billion",
+    "30"
+  ],
+  "important_dates": [
+    "2027",
+    "2028",
+    "14m ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Investors",
+      "verb": "weighing",
+      "object": "commitments",
+      "importance": 2
+    },
+    {
+      "subject": "Ford",
+      "verb": "announced",
+      "object": "investment",
+      "importance": 7
+    },
+    {
+      "subject": "Ford",
+      "verb": "invest",
+      "object": "billion",
+      "importance": 10
+    },
+    {
+      "subject": "CEO",
+      "verb": "highlighted",
+      "object": "investment",
+      "importance": 12
+    },
+    {
+      "subject": "Farley",
+      "verb": "highlighted",
+      "object": "investment",
+      "importance": 12
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148de42e0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148db4a60>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147d99220>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148ee57c0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148eee160>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"F\", \"companies\": [\"Ford Motor Company\", \"Ford\", \"BYD\", \"Tesla\", \"CNBC\", \"Reuters\", \"Business Wire\", \"The New York Times\", \"Zacks\", \"The Wall Street Journal\", \"Jefferies\", \"Ford Motor\", \"Jefferies Financial Group\", \"Benzinga\", \"Jefferies Financial Group Inc.\", \"AI Generated\"], \"people\": [\"Jim Farley\", \"Trump\"], \"sentiment\": {\"overall\": \"neutral\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"automotive\", \"key_points\": [{\"text\": \"Ford announces new $2B EV investment\\nPositive Sentiment:\\nFord will build an electric pickup with a starting price of $30,000 to better compete with Chinese rivals on affordability.\\nFord to build EV pickup with a starting price of $30K in bid to catch China rivals\\nPositive Sentiment:\\nFord is investin\", \"importance_score\": 139, \"sentiment\": \"positive\"}, {\"text\": \"Ford's $5 Billion Model T Moment Aims To Turn EV Operation Profitable\\nPositive Sentiment:\\nFord CEO Jim Farley unveiled a midsize EV truck starting at $30,000 and announced an additional $2 billion investment to challenge BYD and Tesla on price.\", \"importance_score\": 66, \"sentiment\": \"positive\"}, {\"text\": \"Ford's CEO just threw down the gauntlet at BYD and Tesla with its own $30K EV truck\\nPositive Sentiment:\\nCNBC reports Ford’s fresh $2 billion EV investment to boost U.S. production capacity.\", \"importance_score\": 66, \"sentiment\": \"positive\"}, {\"text\": \"Ford Motor had its price target raised by analysts at Jefferies Financial Group Inc. from $8.00 to $9.00\\nPosted 14m ago\\nAI Generated. May Contain Errors.\", \"importance_score\": 54, \"sentiment\": \"neutral\"}, {\"text\": \"Business Wire details Ford’s $5 billion bet on a new Universal EV Platform, production system and midsize truck to drive U.S. innovation and efficiency.\", \"importance_score\": 45, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"$5 billion\", \"30,000\", \"$2 billion\", \"near $2 billion\", \"near $2B electric vehicle\", \"$5 billion\", \"$5 Billion\", \"30,000\", \"$2 billion\", \"30\"], \"important_dates\": [\"2027\", \"2028\", \"14m ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Investors\", \"verb\": \"weighing\", \"object\": \"commitments\", \"importance\": 2}, {\"subject\": \"Ford\", \"verb\": \"announced\", \"object\": \"investment\", \"importance\": 7}, {\"subject\": \"Ford\", \"verb\": \"invest\", \"object\": \"billion\", \"importance\": 10}, {\"subject\": \"CEO\", \"verb\": \"highlighted\", \"object\": \"investment\", \"importance\": 12}, {\"subject\": \"Farley\", \"verb\": \"highlighted\", \"object\": \"investment\", \"importance\": 12}], \"business_context\": []}"
+}
