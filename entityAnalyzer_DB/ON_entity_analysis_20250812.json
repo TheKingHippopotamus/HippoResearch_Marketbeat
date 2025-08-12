@@ -1,0 +1,88 @@
+{
+  "ticker": "ON",
+  "timestamp": "2025-08-12T04:39:29.732761",
+  "companies": [
+    "ON Semiconductor Corporation",
+    "ON",
+    "ON Semiconductor Corp.",
+    "Zacks",
+    "AI Generated"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "neutral",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "Positive Sentiment:\nInternational diversification could position ON to capture growth in automotive and industrial end markets abroad.\nON Semiconductor Corp. (ON) Reliance on International Sales:",
+      "importance_score": 37,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Zacks highlights ON’s heavy reliance on international sales, underlining currency and geopolitical risks that could lead analysts to revise forecasts.",
+      "importance_score": 27,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "ON Semiconductor Corp. (ON) Reliance on International Sales:",
+      "importance_score": 22,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Shares of ON Semiconductor Corporation (ON) dipped today as investors weighed growing bearish bets and fresh analysis of its overseas revenue mix.",
+      "importance_score": 21,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Posted 1h ago\nAI Generated. May Contain Errors.",
+      "importance_score": 15,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [],
+  "important_dates": [
+    "today",
+    "August",
+    "1h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "investors",
+      "verb": "weighed",
+      "object": "bets",
+      "importance": 6
+    },
+    {
+      "subject": "diversification",
+      "verb": "position",
+      "object": "ON",
+      "importance": 10
+    },
+    {
+      "subject": "Zacks",
+      "verb": "highlights",
+      "object": "reliance",
+      "importance": 7
+    },
+    {
+      "subject": "that",
+      "verb": "lead",
+      "object": "analysts",
+      "importance": 7
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148ded4c0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147d84e80>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147d84d90>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dbe070>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dbe070>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"ON\", \"companies\": [\"ON Semiconductor Corporation\", \"ON\", \"ON Semiconductor Corp.\", \"Zacks\", \"AI Generated\"], \"people\": [], \"sentiment\": {\"overall\": \"neutral\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"Positive Sentiment:\\nInternational diversification could position ON to capture growth in automotive and industrial end markets abroad.\\nON Semiconductor Corp. (ON) Reliance on International Sales:\", \"importance_score\": 37, \"sentiment\": \"positive\"}, {\"text\": \"Zacks highlights ON’s heavy reliance on international sales, underlining currency and geopolitical risks that could lead analysts to revise forecasts.\", \"importance_score\": 27, \"sentiment\": \"neutral\"}, {\"text\": \"ON Semiconductor Corp. (ON) Reliance on International Sales:\", \"importance_score\": 22, \"sentiment\": \"neutral\"}, {\"text\": \"Shares of ON Semiconductor Corporation (ON) dipped today as investors weighed growing bearish bets and fresh analysis of its overseas revenue mix.\", \"importance_score\": 21, \"sentiment\": \"neutral\"}, {\"text\": \"Posted 1h ago\\nAI Generated. May Contain Errors.\", \"importance_score\": 15, \"sentiment\": \"neutral\"}], \"money_amounts\": [], \"important_dates\": [\"today\", \"August\", \"1h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"investors\", \"verb\": \"weighed\", \"object\": \"bets\", \"importance\": 6}, {\"subject\": \"diversification\", \"verb\": \"position\", \"object\": \"ON\", \"importance\": 10}, {\"subject\": \"Zacks\", \"verb\": \"highlights\", \"object\": \"reliance\", \"importance\": 7}, {\"subject\": \"that\", \"verb\": \"lead\", \"object\": \"analysts\", \"importance\": 7}], \"business_context\": []}"
+}
