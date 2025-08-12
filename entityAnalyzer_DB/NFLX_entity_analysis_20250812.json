@@ -1,0 +1,116 @@
+{
+  "ticker": "NFLX",
+  "timestamp": "2025-08-12T04:53:23.137627",
+  "companies": [
+    "Netflix, Inc.",
+    "NFLX",
+    "Netflix",
+    "FIFA",
+    "Zacks",
+    "Nasdaq",
+    "The Investment Committee’s",
+    "the second half",
+    "Wynn Resorts",
+    "Buckle",
+    "Prince Harry",
+    "Neutral Sentiment",
+    "Amazon",
+    "the “Netflix of AI",
+    "seconds",
+    "Seconds",
+    "MarketBeat",
+    "The New York Times",
+    "AI Generated"
+  ],
+  "people": [
+    "Meghan Markle",
+    "Prince Harry",
+    "Meghan",
+    "Sussexes",
+    "Sussex"
+  ],
+  "sentiment": {
+    "overall": "neutral",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "media",
+  "key_points": [
+    {
+      "text": "Netflix (NFLX) Secures Broadcasting Rights for FIFA Women’s World Cup\nPositive Sentiment:\nZacks highlights Netflix as a top pick among four stocks poised to benefit from the Nasdaq rally, citing its AI momentum and big-tech strength.\n4 Stocks to Bet on as Nasdaq's Northbound Journey Continues\nPositi",
+      "importance_score": 49,
+      "sentiment": "positive"
+    },
+    {
+      "text": "The Investment Committee’s “Final Trades” names Netflix among top stocks to watch in the second half, reflecting continued investor interest.",
+      "importance_score": 30,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "An Amazon-backed AI startup dubbed the “Netflix of AI” is launching with tools to generate shows in seconds—though critics question viewer demand.",
+      "importance_score": 28,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Positive Sentiment:\nNetflix secures official broadcasting rights for the FIFA Women’s World Cup in the U.S. and Canada for 2027 and 2031, expanding its sports content offerings.",
+      "importance_score": 26,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Prince Harry, Meghan and Netflix extend partnership for streaming programs\nNeutral Sentiment:",
+      "importance_score": 23,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [],
+  "important_dates": [
+    "today",
+    "2027",
+    "2031",
+    "multiyear",
+    "1h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Netflix",
+      "verb": "secures",
+      "object": "rights",
+      "importance": 11
+    },
+    {
+      "subject": "Netflix",
+      "verb": "Secures",
+      "object": "Rights",
+      "importance": 11
+    },
+    {
+      "subject": "Zacks",
+      "verb": "highlights",
+      "object": "Netflix",
+      "importance": 11
+    },
+    {
+      "subject": "Harry",
+      "verb": "extend",
+      "object": "deal",
+      "importance": 8
+    },
+    {
+      "subject": "Harry",
+      "verb": "extend",
+      "object": "partnership",
+      "importance": 7
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147d84f10>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147d846d0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147dbc850>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148ded250>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dc51c0>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"NFLX\", \"companies\": [\"Netflix, Inc.\", \"NFLX\", \"Netflix\", \"FIFA\", \"Zacks\", \"Nasdaq\", \"The Investment Committee’s\", \"the second half\", \"Wynn Resorts\", \"Buckle\", \"Prince Harry\", \"Neutral Sentiment\", \"Amazon\", \"the “Netflix of AI\", \"seconds\", \"Seconds\", \"MarketBeat\", \"The New York Times\", \"AI Generated\"], \"people\": [\"Meghan Markle\", \"Prince Harry\", \"Meghan\", \"Sussexes\", \"Sussex\"], \"sentiment\": {\"overall\": \"neutral\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"media\", \"key_points\": [{\"text\": \"Netflix (NFLX) Secures Broadcasting Rights for FIFA Women’s World Cup\\nPositive Sentiment:\\nZacks highlights Netflix as a top pick among four stocks poised to benefit from the Nasdaq rally, citing its AI momentum and big-tech strength.\\n4 Stocks to Bet on as Nasdaq's Northbound Journey Continues\\nPositi\", \"importance_score\": 49, \"sentiment\": \"positive\"}, {\"text\": \"The Investment Committee’s “Final Trades” names Netflix among top stocks to watch in the second half, reflecting continued investor interest.\", \"importance_score\": 30, \"sentiment\": \"neutral\"}, {\"text\": \"An Amazon-backed AI startup dubbed the “Netflix of AI” is launching with tools to generate shows in seconds—though critics question viewer demand.\", \"importance_score\": 28, \"sentiment\": \"neutral\"}, {\"text\": \"Positive Sentiment:\\nNetflix secures official broadcasting rights for the FIFA Women’s World Cup in the U.S. and Canada for 2027 and 2031, expanding its sports content offerings.\", \"importance_score\": 26, \"sentiment\": \"positive\"}, {\"text\": \"Prince Harry, Meghan and Netflix extend partnership for streaming programs\\nNeutral Sentiment:\", \"importance_score\": 23, \"sentiment\": \"neutral\"}], \"money_amounts\": [], \"important_dates\": [\"today\", \"2027\", \"2031\", \"multiyear\", \"1h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Netflix\", \"verb\": \"secures\", \"object\": \"rights\", \"importance\": 11}, {\"subject\": \"Netflix\", \"verb\": \"Secures\", \"object\": \"Rights\", \"importance\": 11}, {\"subject\": \"Zacks\", \"verb\": \"highlights\", \"object\": \"Netflix\", \"importance\": 11}, {\"subject\": \"Harry\", \"verb\": \"extend\", \"object\": \"deal\", \"importance\": 8}, {\"subject\": \"Harry\", \"verb\": \"extend\", \"object\": \"partnership\", \"importance\": 7}], \"business_context\": []}"
+}
