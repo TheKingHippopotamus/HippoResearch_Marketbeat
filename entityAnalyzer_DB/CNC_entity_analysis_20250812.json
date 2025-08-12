@@ -1,0 +1,109 @@
+{
+  "ticker": "CNC",
+  "timestamp": "2025-08-12T05:20:46.147340",
+  "companies": [
+    "Centene Corporation",
+    "CNC",
+    "Mizuho Securities",
+    "Centene",
+    "Hagens Berman",
+    "Rosen Law Firm",
+    "Levi & Korsinsky",
+    "Centene Corporation(CNC",
+    "Pomerantz LLP",
+    "Pomerantz Law Firm",
+    "The Gross Law Firm",
+    "Bernstein Liebhard LLP",
+    "SHAREHOLDER ALERT Bernstein Liebhard LLP",
+    "Bleichmar Fonti & Auld LLP",
+    "BFA Law",
+    "The DJS Law Group",
+    "the DJS Law Group"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "negative",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "professional",
+  "key_points": [
+    {
+      "text": "Centene Corporation (CNC) Faces Shareholder Ire Amidst Plummeting Stock and Lawsuit Over “Inflated Guidance” – Hagens Berman\nNegative Sentiment:\nRosen Law Firm reminds purchasers of CNC securities during Dec. 12, 2024–June 30, 2025 to file for lead plaintiff status in a proposed securities fraud cla",
+      "importance_score": 68,
+      "sentiment": "negative"
+    },
+    {
+      "text": "CNC COURT NOTICE: Centene Corporation Investors may have been Affected by Fraud -- Contact BFA Law before September 8 if You Suffered Losses (NYSE:CNC)\nNegative Sentiment:\nThe DJS Law Group is investigating claims that Centene issued misleading statements or omitted material information, alerting in",
+      "importance_score": 44,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Hagens Berman launched a lawsuit over alleged “inflated guidance” after Centene’s Q2 results triggered a roughly 10% pre-market share plunge.",
+      "importance_score": 37,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "CNC Investors Have Opportunity to Lead Centene Corporation Securities Fraud Lawsuit\nNegative Sentiment:\nLevi & Korsinsky urges shareholders who lost money on Centene to join their class action to recover alleged losses.",
+      "importance_score": 36,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Centene Corporation Investigated for Securities Fraud Violations - Contact the DJS Law Group to Discuss Your Rights - CNC\nPosted 2h ago\nAI Generated.",
+      "importance_score": 33,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [],
+  "important_dates": [
+    "Q2",
+    "Dec. 12, 2024–June 30, 2025",
+    "Sept. 8",
+    "September 8, 2025",
+    "September 8",
+    "2h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Securities",
+      "verb": "maintaining",
+      "object": "rating",
+      "importance": 8
+    },
+    {
+      "subject": "Securities",
+      "verb": "reiterated",
+      "object": "rating",
+      "importance": 5
+    },
+    {
+      "subject": "Securities",
+      "verb": "Sticks",
+      "object": "Sentiment",
+      "importance": 6
+    },
+    {
+      "subject": "Berman",
+      "verb": "launched",
+      "object": "lawsuit",
+      "importance": 12
+    },
+    {
+      "subject": "results",
+      "verb": "triggered",
+      "object": "plunge",
+      "importance": 12
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dc5370>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147d840d0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148ded880>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148eec730>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148ded880>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"CNC\", \"companies\": [\"Centene Corporation\", \"CNC\", \"Mizuho Securities\", \"Centene\", \"Hagens Berman\", \"Rosen Law Firm\", \"Levi & Korsinsky\", \"Centene Corporation(CNC\", \"Pomerantz LLP\", \"Pomerantz Law Firm\", \"The Gross Law Firm\", \"Bernstein Liebhard LLP\", \"SHAREHOLDER ALERT Bernstein Liebhard LLP\", \"Bleichmar Fonti & Auld LLP\", \"BFA Law\", \"The DJS Law Group\", \"the DJS Law Group\"], \"people\": [], \"sentiment\": {\"overall\": \"negative\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"professional\", \"key_points\": [{\"text\": \"Centene Corporation (CNC) Faces Shareholder Ire Amidst Plummeting Stock and Lawsuit Over “Inflated Guidance” – Hagens Berman\\nNegative Sentiment:\\nRosen Law Firm reminds purchasers of CNC securities during Dec. 12, 2024–June 30, 2025 to file for lead plaintiff status in a proposed securities fraud cla\", \"importance_score\": 68, \"sentiment\": \"negative\"}, {\"text\": \"CNC COURT NOTICE: Centene Corporation Investors may have been Affected by Fraud -- Contact BFA Law before September 8 if You Suffered Losses (NYSE:CNC)\\nNegative Sentiment:\\nThe DJS Law Group is investigating claims that Centene issued misleading statements or omitted material information, alerting in\", \"importance_score\": 44, \"sentiment\": \"negative\"}, {\"text\": \"Hagens Berman launched a lawsuit over alleged “inflated guidance” after Centene’s Q2 results triggered a roughly 10% pre-market share plunge.\", \"importance_score\": 37, \"sentiment\": \"neutral\"}, {\"text\": \"CNC Investors Have Opportunity to Lead Centene Corporation Securities Fraud Lawsuit\\nNegative Sentiment:\\nLevi & Korsinsky urges shareholders who lost money on Centene to join their class action to recover alleged losses.\", \"importance_score\": 36, \"sentiment\": \"negative\"}, {\"text\": \"Centene Corporation Investigated for Securities Fraud Violations - Contact the DJS Law Group to Discuss Your Rights - CNC\\nPosted 2h ago\\nAI Generated.\", \"importance_score\": 33, \"sentiment\": \"neutral\"}], \"money_amounts\": [], \"important_dates\": [\"Q2\", \"Dec. 12, 2024–June 30, 2025\", \"Sept. 8\", \"September 8, 2025\", \"September 8\", \"2h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Securities\", \"verb\": \"maintaining\", \"object\": \"rating\", \"importance\": 8}, {\"subject\": \"Securities\", \"verb\": \"reiterated\", \"object\": \"rating\", \"importance\": 5}, {\"subject\": \"Securities\", \"verb\": \"Sticks\", \"object\": \"Sentiment\", \"importance\": 6}, {\"subject\": \"Berman\", \"verb\": \"launched\", \"object\": \"lawsuit\", \"importance\": 12}, {\"subject\": \"results\", \"verb\": \"triggered\", \"object\": \"plunge\", \"importance\": 12}], \"business_context\": []}"
+}
