@@ -1,0 +1,86 @@
+{
+  "ticker": "DOV",
+  "timestamp": "2025-08-12T04:03:57.390867",
+  "companies": [
+    "Dover Corporation",
+    "DOV",
+    "Dover",
+    "Zacks Research",
+    "AI Generated"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "Dover to Issue Quarterly Dividend of $0.52\nPositive Sentiment:\nZacks Research raised its Q1 FY2026 EPS estimate for Dover to $2.28 from $2.25, reflecting stronger expected industrial demand.",
+      "importance_score": 56,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Negative Sentiment:\nZacks Research trimmed its Q3 FY2025 EPS forecast slightly to $2.48 from $2.49, indicating modest near-term headwinds.\nPosted 2h ago\nAI Generated.",
+      "importance_score": 44,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Positive Sentiment:\nAnnounced a 1.0% increase in the quarterly dividend to $0.52 per share, payable September 15, implying a 1.2% yield.",
+      "importance_score": 36,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Dover Corporation (NYSE:DOV) shares are reacting to recent dividend actions and earnings estimate revisions from research analysts.",
+      "importance_score": 23,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "0.52",
+    "0.52",
+    "2.28",
+    "2.25",
+    "2.48",
+    "2.49"
+  ],
+  "important_dates": [
+    "quarterly",
+    "September 15",
+    "Quarterly",
+    "Q1 FY2026",
+    "Q3 FY2025",
+    "2h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Dover",
+      "verb": "Issue",
+      "object": "Dividend",
+      "importance": 13
+    },
+    {
+      "subject": "Research",
+      "verb": "raised",
+      "object": "estimate",
+      "importance": 13
+    },
+    {
+      "subject": "Research",
+      "verb": "trimmed",
+      "object": "forecast",
+      "importance": 12
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d05e80>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dd1460>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d05d00>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147d9bfd0>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"DOV\", \"companies\": [\"Dover Corporation\", \"DOV\", \"Dover\", \"Zacks Research\", \"AI Generated\"], \"people\": [], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"Dover to Issue Quarterly Dividend of $0.52\\nPositive Sentiment:\\nZacks Research raised its Q1 FY2026 EPS estimate for Dover to $2.28 from $2.25, reflecting stronger expected industrial demand.\", \"importance_score\": 56, \"sentiment\": \"positive\"}, {\"text\": \"Negative Sentiment:\\nZacks Research trimmed its Q3 FY2025 EPS forecast slightly to $2.48 from $2.49, indicating modest near-term headwinds.\\nPosted 2h ago\\nAI Generated.\", \"importance_score\": 44, \"sentiment\": \"negative\"}, {\"text\": \"Positive Sentiment:\\nAnnounced a 1.0% increase in the quarterly dividend to $0.52 per share, payable September 15, implying a 1.2% yield.\", \"importance_score\": 36, \"sentiment\": \"positive\"}, {\"text\": \"Dover Corporation (NYSE:DOV) shares are reacting to recent dividend actions and earnings estimate revisions from research analysts.\", \"importance_score\": 23, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"0.52\", \"0.52\", \"2.28\", \"2.25\", \"2.48\", \"2.49\"], \"important_dates\": [\"quarterly\", \"September 15\", \"Quarterly\", \"Q1 FY2026\", \"Q3 FY2025\", \"2h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Dover\", \"verb\": \"Issue\", \"object\": \"Dividend\", \"importance\": 13}, {\"subject\": \"Research\", \"verb\": \"raised\", \"object\": \"estimate\", \"importance\": 13}, {\"subject\": \"Research\", \"verb\": \"trimmed\", \"object\": \"forecast\", \"importance\": 12}], \"business_context\": []}"
+}
