@@ -1,0 +1,107 @@
+{
+  "ticker": "EXPE",
+  "timestamp": "2025-08-12T03:22:20.120371",
+  "companies": [
+    "Expedia Group, Inc.",
+    "Susquehanna",
+    "EXPE",
+    "Bank of America",
+    "DA Davidson",
+    "Royal Bank of Canada",
+    "RBC",
+    "Expedia",
+    "AI Generated"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "travel",
+  "key_points": [
+    {
+      "text": "Consensus Rating\nNeutral Sentiment:\nShort interest remains negligible at zero shares, indicating minimal bearish positioning in EXPE.\nNeutral Sentiment:\nFeatured across multiple MarketBeat watchlists for hotel, airline and social media sectors, reflecting broad investor interest.\nPosted 38m ago\nAI G",
+      "importance_score": 40,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Royal Bank of Canada raised its sector-perform target for EXPE to $200, reflecting improving travel market fundamentals.",
+      "importance_score": 34,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Positive Sentiment:\nSusquehanna reaffirmed its neutral rating on EXPE and raised the price target to $200 from $175.",
+      "importance_score": 32,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Expedia Group, Inc. (NASDAQ:EXPE) shares have moved higher today, driven by several analyst price-target increases and strong earnings momentum, while broad investor attention remains from multiple industry watchlists.",
+      "importance_score": 29,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Positive Sentiment:\nBank of America boosted its EXPE target to $240, citing strong travel demand and execution.\nBofA Price Target Raise\nPositive Sentiment:",
+      "importance_score": 29,
+      "sentiment": "positive"
+    }
+  ],
+  "money_amounts": [
+    "200",
+    "175",
+    "240",
+    "218",
+    "200"
+  ],
+  "important_dates": [
+    "today",
+    "12-month",
+    "quarterly",
+    "full-year",
+    "12-Month",
+    "38m ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Susquehanna",
+      "verb": "reaffirmed",
+      "object": "rating",
+      "importance": 6
+    },
+    {
+      "subject": "Bank",
+      "verb": "boosted",
+      "object": "target",
+      "importance": 7
+    },
+    {
+      "subject": "Davidson",
+      "verb": "lifted",
+      "object": "objective",
+      "importance": 6
+    },
+    {
+      "subject": "Bank",
+      "verb": "raised",
+      "object": "target",
+      "importance": 9
+    },
+    {
+      "subject": "Expedia",
+      "verb": "hit",
+      "object": "high",
+      "importance": 11
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d11580>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d11f10>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d18cd0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d05c40>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d05a90>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"EXPE\", \"companies\": [\"Expedia Group, Inc.\", \"Susquehanna\", \"EXPE\", \"Bank of America\", \"DA Davidson\", \"Royal Bank of Canada\", \"RBC\", \"Expedia\", \"AI Generated\"], \"people\": [], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"travel\", \"key_points\": [{\"text\": \"Consensus Rating\\nNeutral Sentiment:\\nShort interest remains negligible at zero shares, indicating minimal bearish positioning in EXPE.\\nNeutral Sentiment:\\nFeatured across multiple MarketBeat watchlists for hotel, airline and social media sectors, reflecting broad investor interest.\\nPosted 38m ago\\nAI G\", \"importance_score\": 40, \"sentiment\": \"neutral\"}, {\"text\": \"Royal Bank of Canada raised its sector-perform target for EXPE to $200, reflecting improving travel market fundamentals.\", \"importance_score\": 34, \"sentiment\": \"neutral\"}, {\"text\": \"Positive Sentiment:\\nSusquehanna reaffirmed its neutral rating on EXPE and raised the price target to $200 from $175.\", \"importance_score\": 32, \"sentiment\": \"positive\"}, {\"text\": \"Expedia Group, Inc. (NASDAQ:EXPE) shares have moved higher today, driven by several analyst price-target increases and strong earnings momentum, while broad investor attention remains from multiple industry watchlists.\", \"importance_score\": 29, \"sentiment\": \"positive\"}, {\"text\": \"Positive Sentiment:\\nBank of America boosted its EXPE target to $240, citing strong travel demand and execution.\\nBofA Price Target Raise\\nPositive Sentiment:\", \"importance_score\": 29, \"sentiment\": \"positive\"}], \"money_amounts\": [\"200\", \"175\", \"240\", \"218\", \"200\"], \"important_dates\": [\"today\", \"12-month\", \"quarterly\", \"full-year\", \"12-Month\", \"38m ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Susquehanna\", \"verb\": \"reaffirmed\", \"object\": \"rating\", \"importance\": 6}, {\"subject\": \"Bank\", \"verb\": \"boosted\", \"object\": \"target\", \"importance\": 7}, {\"subject\": \"Davidson\", \"verb\": \"lifted\", \"object\": \"objective\", \"importance\": 6}, {\"subject\": \"Bank\", \"verb\": \"raised\", \"object\": \"target\", \"importance\": 9}, {\"subject\": \"Expedia\", \"verb\": \"hit\", \"object\": \"high\", \"importance\": 11}], \"business_context\": []}"
+}

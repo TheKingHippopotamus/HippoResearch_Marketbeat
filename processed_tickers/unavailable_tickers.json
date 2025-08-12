@@ -1,15 +1,26 @@
 [
+  "ACN",
   "ANET",
+  "AXP",
+  "CARR",
+  "CMI",
+  "DHR",
   "DPZ",
   "ED",
   "EL",
+  "ERIE",
   "HAL",
   "HPQ",
   "HUBB",
   "LKQ",
   "MCHP",
+  "MKC",
   "MTB",
+  "O",
+  "PG",
   "STLD",
   "UNH",
-  "VMC"
+  "VMC",
+  "WDAY",
+  "WMB"
 ]
