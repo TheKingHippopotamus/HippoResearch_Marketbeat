@@ -1,0 +1,117 @@
+{
+  "ticker": "COST",
+  "timestamp": "2025-08-12T04:36:58.527791",
+  "companies": [
+    "Costco Wholesale Corporation",
+    "COST",
+    "Costco",
+    "Zacks",
+    "Telsey Advisory Group",
+    "Benzinga",
+    "JPMorgan",
+    "JPMorgan Chase & Co.",
+    "Costco Wholesale",
+    "MarketBeat",
+    "The Motley Fool’s",
+    "Business Insider",
+    "Visa",
+    "Costco vs. Visa",
+    "AI Generated"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "finance",
+  "key_points": [
+    {
+      "text": "Positive Sentiment:\nZacks notes a 6.4% rise in July comparable‐store sales and a 15.1% jump in e-commerce, signaling strong momentum into the final stretch of fiscal 2025.\nCostco's July Sales Jump Signals Strong Finish to Fiscal 2025\nPositive Sentiment:\nTelsey Advisory Group raised its Q1 2026 EPS e",
+      "importance_score": 135,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Neutral Sentiment:\nCostco is featured on MarketBeat’s screens for Toy, Apparel, and Travel stocks on both August 10 and 11, reflecting its broad retail relevance but offering no specific catalyst.\nToy Stocks To Watch Today - August 11th\nApparel Stocks To Watch Now - August 11th\nTravel Stocks To Watc",
+      "importance_score": 64,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Better Growth Stock: Costco vs. Visa\nPosted 53m ago\nAI Generated.",
+      "importance_score": 33,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Costco Wholesale Corporation (NASDAQ:COST) shares are trading higher on strong fundamental and analyst-driven catalysts this week.",
+      "importance_score": 26,
+      "sentiment": "positive"
+    },
+    {
+      "text": "JPMorgan Chase & Co. Forecasts Strong Price Appreciation for Costco Wholesale (NASDAQ:COST)",
+      "importance_score": 26,
+      "sentiment": "positive"
+    }
+  ],
+  "money_amounts": [
+    "4.29",
+    "1,100"
+  ],
+  "important_dates": [
+    "this week",
+    "July",
+    "fiscal 2025",
+    "Fiscal 2025",
+    "Q1 2026",
+    "Q1",
+    "The Day",
+    "August",
+    "August 10",
+    "Today",
+    "August 11th",
+    "August 10th",
+    "53m ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Zacks",
+      "verb": "notes",
+      "object": "rise",
+      "importance": 40
+    },
+    {
+      "subject": "Jump",
+      "verb": "Signals",
+      "object": "Sentiment",
+      "importance": 40
+    },
+    {
+      "subject": "Group",
+      "verb": "raised",
+      "object": "estimate",
+      "importance": 40
+    },
+    {
+      "subject": "Group",
+      "verb": "Has",
+      "object": "View",
+      "importance": 40
+    },
+    {
+      "subject": "Benzinga",
+      "verb": "highlights",
+      "object": "setup",
+      "importance": 40
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dede20>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dd1910>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dc07c0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dbe7f0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dc0a90>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"COST\", \"companies\": [\"Costco Wholesale Corporation\", \"COST\", \"Costco\", \"Zacks\", \"Telsey Advisory Group\", \"Benzinga\", \"JPMorgan\", \"JPMorgan Chase & Co.\", \"Costco Wholesale\", \"MarketBeat\", \"The Motley Fool’s\", \"Business Insider\", \"Visa\", \"Costco vs. Visa\", \"AI Generated\"], \"people\": [], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"finance\", \"key_points\": [{\"text\": \"Positive Sentiment:\\nZacks notes a 6.4% rise in July comparable‐store sales and a 15.1% jump in e-commerce, signaling strong momentum into the final stretch of fiscal 2025.\\nCostco's July Sales Jump Signals Strong Finish to Fiscal 2025\\nPositive Sentiment:\\nTelsey Advisory Group raised its Q1 2026 EPS e\", \"importance_score\": 135, \"sentiment\": \"positive\"}, {\"text\": \"Neutral Sentiment:\\nCostco is featured on MarketBeat’s screens for Toy, Apparel, and Travel stocks on both August 10 and 11, reflecting its broad retail relevance but offering no specific catalyst.\\nToy Stocks To Watch Today - August 11th\\nApparel Stocks To Watch Now - August 11th\\nTravel Stocks To Watc\", \"importance_score\": 64, \"sentiment\": \"neutral\"}, {\"text\": \"Better Growth Stock: Costco vs. Visa\\nPosted 53m ago\\nAI Generated.\", \"importance_score\": 33, \"sentiment\": \"positive\"}, {\"text\": \"Costco Wholesale Corporation (NASDAQ:COST) shares are trading higher on strong fundamental and analyst-driven catalysts this week.\", \"importance_score\": 26, \"sentiment\": \"positive\"}, {\"text\": \"JPMorgan Chase & Co. Forecasts Strong Price Appreciation for Costco Wholesale (NASDAQ:COST)\", \"importance_score\": 26, \"sentiment\": \"positive\"}], \"money_amounts\": [\"4.29\", \"1,100\"], \"important_dates\": [\"this week\", \"July\", \"fiscal 2025\", \"Fiscal 2025\", \"Q1 2026\", \"Q1\", \"The Day\", \"August\", \"August 10\", \"Today\", \"August 11th\", \"August 10th\", \"53m ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Zacks\", \"verb\": \"notes\", \"object\": \"rise\", \"importance\": 40}, {\"subject\": \"Jump\", \"verb\": \"Signals\", \"object\": \"Sentiment\", \"importance\": 40}, {\"subject\": \"Group\", \"verb\": \"raised\", \"object\": \"estimate\", \"importance\": 40}, {\"subject\": \"Group\", \"verb\": \"Has\", \"object\": \"View\", \"importance\": 40}, {\"subject\": \"Benzinga\", \"verb\": \"highlights\", \"object\": \"setup\", \"importance\": 40}], \"business_context\": []}"
+}
