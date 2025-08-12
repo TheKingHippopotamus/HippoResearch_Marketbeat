@@ -1,0 +1,122 @@
+{
+  "ticker": "TKO",
+  "timestamp": "2025-08-12T06:34:33.568456",
+  "companies": [
+    "TKO Group Holdings, Inc.",
+    "TKO",
+    "Paramount",
+    "PSKY",
+    "UFC",
+    "Paramount+",
+    "PARAMOUNT",
+    "UFC MEDIA RIGHTS AGREEMENT",
+    "Schaeffer’s Research",
+    "TKO Group",
+    "Seaport Research Partners",
+    "CNBC",
+    "Investopedia",
+    "Roth Capital"
+  ],
+  "people": [
+    "Ariel Emanuel",
+    "Mark Shapiro"
+  ],
+  "sentiment": {
+    "overall": "neutral",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "media",
+  "key_points": [
+    {
+      "text": "PARAMOUNT AND TKO ANNOUNCE HISTORIC UFC MEDIA RIGHTS AGREEMENT\nPositive Sentiment:\nAnalysts at Schaeffer’s Research flagged a ripe environment for a short squeeze on TKO shares following the UFC rights deal, as high short interest could amplify gains.\nTKO Group Stock Ripe for Short Squeeze After UFC",
+      "importance_score": 75,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Positive Sentiment:\nTKO struck a seven-year, $7.7 billion U.S. media-rights agreement with Paramount (NASDAQ:PSKY), securing $1.1 billion in annual revenue beginning 2026 and moving UFC events off pay-per-view onto Paramount+ for all numbered events and Fight Nights.",
+      "importance_score": 74,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Roth Capital Issues Negative Estimate for TKO Group Earnings\nNegative Sentiment:\nSeaport Research Partners lowered its Q4 2025 EPS projection for TKO to a ($0.33) loss (from ($0.08)), reflecting a more cautious view on the company’s financials ahead of its new streaming model.",
+      "importance_score": 62,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Seaport Research Partners raised its Q3 2025 EPS estimate for TKO to $0.48 (from $0.37), suggesting stronger-than-expected pre-deal operating performance.\nMarketBeat Analyst Report\nNeutral Sentiment:",
+      "importance_score": 43,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Roth Capital cut its Q3 2025 EPS forecast for TKO to $0.22 (from $0.27) and trimmed Q4 estimates, signaling concerns over the company’s near‐term margin outlook.",
+      "importance_score": 43,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "$7.7 billion",
+    "$1.1 billion",
+    "0.48",
+    "0.37",
+    "1.1B",
+    "0.22",
+    "0.27",
+    "0.33",
+    "0.08"
+  ],
+  "important_dates": [
+    "today",
+    "seven-year",
+    "annual",
+    "2026",
+    "Q3 2025",
+    "Today",
+    "Q4",
+    "Q4 2025",
+    "2h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "analysts",
+      "verb": "trim",
+      "object": "forecasts",
+      "importance": 8
+    },
+    {
+      "subject": "TKO",
+      "verb": "struck",
+      "object": "agreement",
+      "importance": 21
+    },
+    {
+      "subject": "PARAMOUNT",
+      "verb": "ANNOUNCE",
+      "object": "AGREEMENT",
+      "importance": 19
+    },
+    {
+      "subject": "Analysts",
+      "verb": "flagged",
+      "object": "environment",
+      "importance": 19
+    },
+    {
+      "subject": "interest",
+      "verb": "amplify",
+      "object": "gains",
+      "importance": 19
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147d82520>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148de6d90>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148e84cd0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148e76be0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148e44cd0>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"TKO\", \"companies\": [\"TKO Group Holdings, Inc.\", \"TKO\", \"Paramount\", \"PSKY\", \"UFC\", \"Paramount+\", \"PARAMOUNT\", \"UFC MEDIA RIGHTS AGREEMENT\", \"Schaeffer’s Research\", \"TKO Group\", \"Seaport Research Partners\", \"CNBC\", \"Investopedia\", \"Roth Capital\"], \"people\": [\"Ariel Emanuel\", \"Mark Shapiro\"], \"sentiment\": {\"overall\": \"neutral\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"media\", \"key_points\": [{\"text\": \"PARAMOUNT AND TKO ANNOUNCE HISTORIC UFC MEDIA RIGHTS AGREEMENT\\nPositive Sentiment:\\nAnalysts at Schaeffer’s Research flagged a ripe environment for a short squeeze on TKO shares following the UFC rights deal, as high short interest could amplify gains.\\nTKO Group Stock Ripe for Short Squeeze After UFC\", \"importance_score\": 75, \"sentiment\": \"positive\"}, {\"text\": \"Positive Sentiment:\\nTKO struck a seven-year, $7.7 billion U.S. media-rights agreement with Paramount (NASDAQ:PSKY), securing $1.1 billion in annual revenue beginning 2026 and moving UFC events off pay-per-view onto Paramount+ for all numbered events and Fight Nights.\", \"importance_score\": 74, \"sentiment\": \"positive\"}, {\"text\": \"Roth Capital Issues Negative Estimate for TKO Group Earnings\\nNegative Sentiment:\\nSeaport Research Partners lowered its Q4 2025 EPS projection for TKO to a ($0.33) loss (from ($0.08)), reflecting a more cautious view on the company’s financials ahead of its new streaming model.\", \"importance_score\": 62, \"sentiment\": \"negative\"}, {\"text\": \"Seaport Research Partners raised its Q3 2025 EPS estimate for TKO to $0.48 (from $0.37), suggesting stronger-than-expected pre-deal operating performance.\\nMarketBeat Analyst Report\\nNeutral Sentiment:\", \"importance_score\": 43, \"sentiment\": \"neutral\"}, {\"text\": \"Roth Capital cut its Q3 2025 EPS forecast for TKO to $0.22 (from $0.27) and trimmed Q4 estimates, signaling concerns over the company’s near‐term margin outlook.\", \"importance_score\": 43, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"$7.7 billion\", \"$1.1 billion\", \"0.48\", \"0.37\", \"1.1B\", \"0.22\", \"0.27\", \"0.33\", \"0.08\"], \"important_dates\": [\"today\", \"seven-year\", \"annual\", \"2026\", \"Q3 2025\", \"Today\", \"Q4\", \"Q4 2025\", \"2h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"analysts\", \"verb\": \"trim\", \"object\": \"forecasts\", \"importance\": 8}, {\"subject\": \"TKO\", \"verb\": \"struck\", \"object\": \"agreement\", \"importance\": 21}, {\"subject\": \"PARAMOUNT\", \"verb\": \"ANNOUNCE\", \"object\": \"AGREEMENT\", \"importance\": 19}, {\"subject\": \"Analysts\", \"verb\": \"flagged\", \"object\": \"environment\", \"importance\": 19}, {\"subject\": \"interest\", \"verb\": \"amplify\", \"object\": \"gains\", \"importance\": 19}], \"business_context\": []}"
+}
