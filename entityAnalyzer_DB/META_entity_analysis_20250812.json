@@ -1,0 +1,108 @@
+{
+  "ticker": "META",
+  "timestamp": "2025-08-12T05:47:14.558961",
+  "companies": [
+    "Meta Platforms, Inc.",
+    "META",
+    "Meta",
+    "Meta Platforms",
+    "Tesla",
+    "TSLA",
+    "Meta Platforms’",
+    "Snap",
+    "Zillow",
+    "AI Generated"
+  ],
+  "people": [
+    "Mark Zuckerberg"
+  ],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "Snap Earnings vs Meta and Zillow: Scale Matters\nNegative Sentiment:\nCEO Mark Zuckerberg sold 15,847 shares worth roughly $12.1 million, which can be viewed as profit-taking or a signal of reduced insider conviction.\nMark Zuckerberg Sells 15,847 Shares of Meta Platforms, Inc.\nPosted 1h ago\nAI Generat",
+      "importance_score": 72,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Positive Sentiment:\nSolid Q2 results featured 22% year-over-year ad revenue growth to $39.1 billion and $18.9 billion in free cash flow, underpinning the AI investment thesis.\nMeta Platforms’ Q2 Earnings Highlight\nNeutral Sentiment:",
+      "importance_score": 60,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Neutral Sentiment:\nSector-wide AI infrastructure capex is running near $400 billion annualized, suggesting a supportive ecosystem for Meta’s AI initiatives.",
+      "importance_score": 32,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Meta Platforms, Inc. (NASDAQ:META) shares are moving today on a mix of strong AI-driven revenue beats, technical momentum signals and notable insider activity.",
+      "importance_score": 29,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Analysts maintain a high consensus price target of $822.41, signaling confidence in Meta’s longer-term performance.",
+      "importance_score": 22,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "822.41",
+    "822.41",
+    "$39.1 billion",
+    "$18.9 billion",
+    "$400 billion",
+    "roughly $12.1 million"
+  ],
+  "important_dates": [
+    "today",
+    "Q2",
+    "year"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "advancements",
+      "verb": "driving",
+      "object": "growth",
+      "importance": 6
+    },
+    {
+      "subject": "earnings",
+      "verb": "beating",
+      "object": "expectations",
+      "importance": 6
+    },
+    {
+      "subject": "Analysts",
+      "verb": "maintain",
+      "object": "target",
+      "importance": 5
+    },
+    {
+      "subject": "Inc.",
+      "verb": "Receives",
+      "object": "Target",
+      "importance": 6
+    },
+    {
+      "subject": "momentum",
+      "verb": "suggests",
+      "object": "breakouts",
+      "importance": 4
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148de4b20>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148df10a0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148eec970>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dc9fd0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dd6160>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"META\", \"companies\": [\"Meta Platforms, Inc.\", \"META\", \"Meta\", \"Meta Platforms\", \"Tesla\", \"TSLA\", \"Meta Platforms’\", \"Snap\", \"Zillow\", \"AI Generated\"], \"people\": [\"Mark Zuckerberg\"], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"Snap Earnings vs Meta and Zillow: Scale Matters\\nNegative Sentiment:\\nCEO Mark Zuckerberg sold 15,847 shares worth roughly $12.1 million, which can be viewed as profit-taking or a signal of reduced insider conviction.\\nMark Zuckerberg Sells 15,847 Shares of Meta Platforms, Inc.\\nPosted 1h ago\\nAI Generat\", \"importance_score\": 72, \"sentiment\": \"neutral\"}, {\"text\": \"Positive Sentiment:\\nSolid Q2 results featured 22% year-over-year ad revenue growth to $39.1 billion and $18.9 billion in free cash flow, underpinning the AI investment thesis.\\nMeta Platforms’ Q2 Earnings Highlight\\nNeutral Sentiment:\", \"importance_score\": 60, \"sentiment\": \"positive\"}, {\"text\": \"Neutral Sentiment:\\nSector-wide AI infrastructure capex is running near $400 billion annualized, suggesting a supportive ecosystem for Meta’s AI initiatives.\", \"importance_score\": 32, \"sentiment\": \"neutral\"}, {\"text\": \"Meta Platforms, Inc. (NASDAQ:META) shares are moving today on a mix of strong AI-driven revenue beats, technical momentum signals and notable insider activity.\", \"importance_score\": 29, \"sentiment\": \"positive\"}, {\"text\": \"Analysts maintain a high consensus price target of $822.41, signaling confidence in Meta’s longer-term performance.\", \"importance_score\": 22, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"822.41\", \"822.41\", \"$39.1 billion\", \"$18.9 billion\", \"$400 billion\", \"roughly $12.1 million\"], \"important_dates\": [\"today\", \"Q2\", \"year\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"advancements\", \"verb\": \"driving\", \"object\": \"growth\", \"importance\": 6}, {\"subject\": \"earnings\", \"verb\": \"beating\", \"object\": \"expectations\", \"importance\": 6}, {\"subject\": \"Analysts\", \"verb\": \"maintain\", \"object\": \"target\", \"importance\": 5}, {\"subject\": \"Inc.\", \"verb\": \"Receives\", \"object\": \"Target\", \"importance\": 6}, {\"subject\": \"momentum\", \"verb\": \"suggests\", \"object\": \"breakouts\", \"importance\": 4}], \"business_context\": []}"
+}
