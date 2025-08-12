@@ -1,0 +1,135 @@
+{
+  "ticker": "DIS",
+  "timestamp": "2025-08-12T05:53:08.454063",
+  "companies": [
+    "The Walt Disney Company",
+    "DIS",
+    "CFRA",
+    "Disney",
+    "UFC",
+    "ESPN",
+    "PSKY",
+    "Rosenblatt Securities",
+    "Walt Disney",
+    "Seaport Research Partners",
+    "Seaport Res Ptn",
+    "Zacks",
+    "Benzinga",
+    "Hulu",
+    "Valencia College",
+    "Walt Disney World",
+    "Mickey",
+    "Vera Bradley’s",
+    "MSN",
+    "Ultimate Walt Disney",
+    "CBS42",
+    "Yahoo",
+    "Disney World"
+  ],
+  "people": [
+    "Ken Leon",
+    "Bob Iger",
+    "Mickey",
+    "Gina Carano",
+    "AI Generated"
+  ],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "media",
+  "key_points": [
+    {
+      "text": "DIS Accelerating Streaming Reach, PSKY Pens $1.1B UFC Deal\nPositive Sentiment:\nRosenblatt Securities boosted its DIS price target from $140 to $141 while maintaining a “buy” rating, implying roughly 25% upside from current levels.\nWalt Disney (NYSE:DIS) Price Target Raised to $141.00\nPositive Sentim",
+      "importance_score": 88,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Disney Announces New and Returning Magic Shots for Mickey’s Not So Scary Halloween Party 2025\nNeutral Sentiment:\nDisney fans rush to buy Vera Bradley’s limited-edition Mickey’s Promenade bags, underscoring strong merchandise demand but limited profit impact.\nDisney fans are racing to grab Vera Bradl",
+      "importance_score": 73,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Facts to Know Before Betting on It\nNeutral Sentiment:\nValencia College partners with Walt Disney World to train future Disney chefs, reflecting ongoing investment in talent pipeline and hospitality operations.\nValencia College partners with Walt Disney World to train future Disney chefs\nNeutral Sent",
+      "importance_score": 68,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Negative Sentiment:\nSeaport Research Partners cut its Q4 2025 EPS estimate for Disney to $0.75 from $0.99, signaling potential headwinds in the back half of the fiscal year.",
+      "importance_score": 51,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Say goodbye to your Hulu app - Disney is making a major change to how you’ll stream in 2026\nNegative Sentiment:\nDisney settles with actress Gina Carano over her dismissal following controversial social media posts, underscoring reputational and legal risks.\nDisney settles with actor fired for contro",
+      "importance_score": 47,
+      "sentiment": "negative"
+    }
+  ],
+  "money_amounts": [
+    "$1.1 billion",
+    "$1.1B",
+    "140",
+    "141",
+    "141.00",
+    "1.83",
+    "1.76",
+    "0.75",
+    "0.99"
+  ],
+  "important_dates": [
+    "Q1 2026",
+    "four weeks",
+    "4 Weeks",
+    "Monday",
+    "2025",
+    "Q4 2025",
+    "the back half of the fiscal year",
+    "Q4",
+    "2026",
+    "3h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Leon",
+      "verb": "highlights",
+      "object": "footprint",
+      "importance": 10
+    },
+    {
+      "subject": "DIS",
+      "verb": "Accelerating",
+      "object": "Reach",
+      "importance": 20
+    },
+    {
+      "subject": "PSKY",
+      "verb": "Pens",
+      "object": "Deal",
+      "importance": 20
+    },
+    {
+      "subject": "Securities",
+      "verb": "boosted",
+      "object": "target",
+      "importance": 20
+    },
+    {
+      "subject": "Partners",
+      "verb": "raised",
+      "object": "estimate",
+      "importance": 11
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148de6940>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147d829a0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147d82df0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148eecca0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dc97c0>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"DIS\", \"companies\": [\"The Walt Disney Company\", \"DIS\", \"CFRA\", \"Disney\", \"UFC\", \"ESPN\", \"PSKY\", \"Rosenblatt Securities\", \"Walt Disney\", \"Seaport Research Partners\", \"Seaport Res Ptn\", \"Zacks\", \"Benzinga\", \"Hulu\", \"Valencia College\", \"Walt Disney World\", \"Mickey\", \"Vera Bradley’s\", \"MSN\", \"Ultimate Walt Disney\", \"CBS42\", \"Yahoo\", \"Disney World\"], \"people\": [\"Ken Leon\", \"Bob Iger\", \"Mickey\", \"Gina Carano\", \"AI Generated\"], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"media\", \"key_points\": [{\"text\": \"DIS Accelerating Streaming Reach, PSKY Pens $1.1B UFC Deal\\nPositive Sentiment:\\nRosenblatt Securities boosted its DIS price target from $140 to $141 while maintaining a “buy” rating, implying roughly 25% upside from current levels.\\nWalt Disney (NYSE:DIS) Price Target Raised to $141.00\\nPositive Sentim\", \"importance_score\": 88, \"sentiment\": \"positive\"}, {\"text\": \"Disney Announces New and Returning Magic Shots for Mickey’s Not So Scary Halloween Party 2025\\nNeutral Sentiment:\\nDisney fans rush to buy Vera Bradley’s limited-edition Mickey’s Promenade bags, underscoring strong merchandise demand but limited profit impact.\\nDisney fans are racing to grab Vera Bradl\", \"importance_score\": 73, \"sentiment\": \"positive\"}, {\"text\": \"Facts to Know Before Betting on It\\nNeutral Sentiment:\\nValencia College partners with Walt Disney World to train future Disney chefs, reflecting ongoing investment in talent pipeline and hospitality operations.\\nValencia College partners with Walt Disney World to train future Disney chefs\\nNeutral Sent\", \"importance_score\": 68, \"sentiment\": \"negative\"}, {\"text\": \"Negative Sentiment:\\nSeaport Research Partners cut its Q4 2025 EPS estimate for Disney to $0.75 from $0.99, signaling potential headwinds in the back half of the fiscal year.\", \"importance_score\": 51, \"sentiment\": \"negative\"}, {\"text\": \"Say goodbye to your Hulu app - Disney is making a major change to how you’ll stream in 2026\\nNegative Sentiment:\\nDisney settles with actress Gina Carano over her dismissal following controversial social media posts, underscoring reputational and legal risks.\\nDisney settles with actor fired for contro\", \"importance_score\": 47, \"sentiment\": \"negative\"}], \"money_amounts\": [\"$1.1 billion\", \"$1.1B\", \"140\", \"141\", \"141.00\", \"1.83\", \"1.76\", \"0.75\", \"0.99\"], \"important_dates\": [\"Q1 2026\", \"four weeks\", \"4 Weeks\", \"Monday\", \"2025\", \"Q4 2025\", \"the back half of the fiscal year\", \"Q4\", \"2026\", \"3h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Leon\", \"verb\": \"highlights\", \"object\": \"footprint\", \"importance\": 10}, {\"subject\": \"DIS\", \"verb\": \"Accelerating\", \"object\": \"Reach\", \"importance\": 20}, {\"subject\": \"PSKY\", \"verb\": \"Pens\", \"object\": \"Deal\", \"importance\": 20}, {\"subject\": \"Securities\", \"verb\": \"boosted\", \"object\": \"target\", \"importance\": 20}, {\"subject\": \"Partners\", \"verb\": \"raised\", \"object\": \"estimate\", \"importance\": 11}], \"business_context\": []}"
+}
