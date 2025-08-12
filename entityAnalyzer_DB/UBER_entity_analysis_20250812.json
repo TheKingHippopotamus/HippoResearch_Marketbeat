@@ -1,0 +1,113 @@
+{
+  "ticker": "UBER",
+  "timestamp": "2025-08-12T05:41:17.125542",
+  "companies": [
+    "Uber Technologies, Inc.",
+    "UBER",
+    "MarketBeat",
+    "Cantor Fitzgerald",
+    "Uber",
+    "Susquehanna",
+    "Seeking Alpha",
+    "Revel",
+    "Ark Investment’s",
+    "Ark",
+    "Zacks",
+    "Lyft",
+    "AI"
+  ],
+  "people": [
+    "Bill Ackman’s"
+  ],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "automotive",
+  "key_points": [
+    {
+      "text": "Cantor Fitzgerald boosted its FY2025 EPS estimate for Uber to $2.77 (from $2.69), kept an Overweight rating and set a $106 price target.",
+      "importance_score": 46,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Ark Investment’s “Big Ideas” report forecasts a $10 trillion autonomous ride-hailing market, with Uber well-positioned to lead the growth.",
+      "importance_score": 39,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Uber Technologies, Inc. (NYSE:UBER) opened the week with upside momentum driven by recent analyst upgrades, strong segment performance and renewed interest in its autonomous vehicle initiatives.",
+      "importance_score": 34,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Another Seeking Alpha article highlights Uber’s “hidden edge” in its robotaxi strategy, positioning the company to capitalize on autonomous ride-hailing.\nUber’s Robotaxi Strategy\nPositive Sentiment:",
+      "importance_score": 26,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Susquehanna raised its price target on UBER shares to $105.00, reinforcing confidence in the company’s long-term trajectory.",
+      "importance_score": 25,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "2.77",
+    "2.69",
+    "106",
+    "105.00",
+    "$10 trillion"
+  ],
+  "important_dates": [
+    "the week",
+    "August 11",
+    "FY2025",
+    "Aug 11",
+    "Aug 10",
+    "2h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Technologies",
+      "verb": "opened",
+      "object": "week",
+      "importance": 11
+    },
+    {
+      "subject": "that",
+      "verb": "signal",
+      "object": "potential",
+      "importance": 4
+    },
+    {
+      "subject": "MarketBeat",
+      "verb": "highlighted",
+      "object": "UBER",
+      "importance": 6
+    },
+    {
+      "subject": "Fitzgerald",
+      "verb": "boosted",
+      "object": "estimate",
+      "importance": 10
+    },
+    {
+      "subject": "Susquehanna",
+      "verb": "raised",
+      "object": "target",
+      "importance": 5
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147d82ca0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dd6880>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dd6940>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147d82ca0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147d82430>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"UBER\", \"companies\": [\"Uber Technologies, Inc.\", \"UBER\", \"MarketBeat\", \"Cantor Fitzgerald\", \"Uber\", \"Susquehanna\", \"Seeking Alpha\", \"Revel\", \"Ark Investment’s\", \"Ark\", \"Zacks\", \"Lyft\", \"AI\"], \"people\": [\"Bill Ackman’s\"], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"automotive\", \"key_points\": [{\"text\": \"Cantor Fitzgerald boosted its FY2025 EPS estimate for Uber to $2.77 (from $2.69), kept an Overweight rating and set a $106 price target.\", \"importance_score\": 46, \"sentiment\": \"neutral\"}, {\"text\": \"Ark Investment’s “Big Ideas” report forecasts a $10 trillion autonomous ride-hailing market, with Uber well-positioned to lead the growth.\", \"importance_score\": 39, \"sentiment\": \"positive\"}, {\"text\": \"Uber Technologies, Inc. (NYSE:UBER) opened the week with upside momentum driven by recent analyst upgrades, strong segment performance and renewed interest in its autonomous vehicle initiatives.\", \"importance_score\": 34, \"sentiment\": \"positive\"}, {\"text\": \"Another Seeking Alpha article highlights Uber’s “hidden edge” in its robotaxi strategy, positioning the company to capitalize on autonomous ride-hailing.\\nUber’s Robotaxi Strategy\\nPositive Sentiment:\", \"importance_score\": 26, \"sentiment\": \"positive\"}, {\"text\": \"Susquehanna raised its price target on UBER shares to $105.00, reinforcing confidence in the company’s long-term trajectory.\", \"importance_score\": 25, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"2.77\", \"2.69\", \"106\", \"105.00\", \"$10 trillion\"], \"important_dates\": [\"the week\", \"August 11\", \"FY2025\", \"Aug 11\", \"Aug 10\", \"2h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Technologies\", \"verb\": \"opened\", \"object\": \"week\", \"importance\": 11}, {\"subject\": \"that\", \"verb\": \"signal\", \"object\": \"potential\", \"importance\": 4}, {\"subject\": \"MarketBeat\", \"verb\": \"highlighted\", \"object\": \"UBER\", \"importance\": 6}, {\"subject\": \"Fitzgerald\", \"verb\": \"boosted\", \"object\": \"estimate\", \"importance\": 10}, {\"subject\": \"Susquehanna\", \"verb\": \"raised\", \"object\": \"target\", \"importance\": 5}], \"business_context\": []}"
+}
