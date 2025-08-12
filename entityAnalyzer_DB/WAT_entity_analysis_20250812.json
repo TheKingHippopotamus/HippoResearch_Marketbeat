@@ -1,0 +1,71 @@
+{
+  "ticker": "WAT",
+  "timestamp": "2025-08-12T05:09:28.147380",
+  "companies": [
+    "Waters Corporation",
+    "WAT"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "neutral",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "Waters Corporation (WAT) has seen relatively flat trading, as no company-specific developments have emerged in the past 24 hours.",
+      "importance_score": 25,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Neutral Sentiment:\nNo new product launches, earnings updates or guidance changes from Waters Corporation were reported.\nNeutral Sentiment:\nSeveral water-themed news items—from beach rescues to flood reports—have no direct bearing on WAT’s analytical instruments and laboratory services business.",
+      "importance_score": 23,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Posted 1h ago\nAI Generated.",
+      "importance_score": 7,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Broad market trends and water-related headlines are unlikely to meaningfully move its shares.",
+      "importance_score": 3,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [],
+  "important_dates": [
+    "1h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Corporation",
+      "verb": "seen",
+      "object": "trading",
+      "importance": 8
+    },
+    {
+      "subject": "Sentiment",
+      "verb": "have",
+      "object": "bearing",
+      "importance": 6
+    },
+    {
+      "subject": "items",
+      "verb": "have",
+      "object": "bearing",
+      "importance": 6
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dc52e0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148df1370>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148dc9430>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148df1f70>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"WAT\", \"companies\": [\"Waters Corporation\", \"WAT\"], \"people\": [], \"sentiment\": {\"overall\": \"neutral\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"Waters Corporation (WAT) has seen relatively flat trading, as no company-specific developments have emerged in the past 24 hours.\", \"importance_score\": 25, \"sentiment\": \"neutral\"}, {\"text\": \"Neutral Sentiment:\\nNo new product launches, earnings updates or guidance changes from Waters Corporation were reported.\\nNeutral Sentiment:\\nSeveral water-themed news items—from beach rescues to flood reports—have no direct bearing on WAT’s analytical instruments and laboratory services business.\", \"importance_score\": 23, \"sentiment\": \"neutral\"}, {\"text\": \"Posted 1h ago\\nAI Generated.\", \"importance_score\": 7, \"sentiment\": \"neutral\"}, {\"text\": \"Broad market trends and water-related headlines are unlikely to meaningfully move its shares.\", \"importance_score\": 3, \"sentiment\": \"neutral\"}], \"money_amounts\": [], \"important_dates\": [\"1h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Corporation\", \"verb\": \"seen\", \"object\": \"trading\", \"importance\": 8}, {\"subject\": \"Sentiment\", \"verb\": \"have\", \"object\": \"bearing\", \"importance\": 6}, {\"subject\": \"items\", \"verb\": \"have\", \"object\": \"bearing\", \"importance\": 6}], \"business_context\": []}"
+}
