@@ -1,0 +1,108 @@
+{
+  "ticker": "MET",
+  "timestamp": "2025-08-12T03:54:22.792051",
+  "companies": [
+    "MetLife, Inc.",
+    "MET",
+    "Jefferies",
+    "MetLife Stadium",
+    "MetLife",
+    "Keefe, Bruyette & Woods",
+    "Benzinga",
+    "AI Generated"
+  ],
+  "people": [
+    "Chris Brown’s",
+    "Chris Brown's"
+  ],
+  "sentiment": {
+    "overall": "neutral",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "MarketBeat\nNegative Sentiment:\nKeefe, Bruyette & Woods trimmed its MET price target from $94.00 to $92.00, despite maintaining an “outperform” rating.\nBenzinga\nPosted 1m ago\nAI Generated.",
+      "importance_score": 64,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Q2 earnings missed consensus: EPS of $2.02 vs. $2.32 expected, and revenue of $17.34 billion vs. $18.58 billion, pressuring shares.",
+      "importance_score": 44,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Positive Sentiment:\nJefferies raised its price target on MET shares from $100.00 to $103.00 and reiterated a “buy” rating, implying a 36.8% upside.\nBenzinga\nNeutral Sentiment:",
+      "importance_score": 39,
+      "sentiment": "positive"
+    },
+    {
+      "text": "MetLife, Inc. (MET) stock is reacting to mixed catalysts: earnings results that fell short of expectations and divergent analyst price-target revisions, alongside ongoing brand-building events tied to its MetLife Stadium naming rights.",
+      "importance_score": 38,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "MetLife Stadium was named as a volunteer site for the 2026 FIFA World Cup, underscoring its long-term event pipeline.\nVolunteer to work the 2026 FIFA World Cup at MetLife Stadium\nNegative Sentiment:",
+      "importance_score": 34,
+      "sentiment": "negative"
+    }
+  ],
+  "money_amounts": [
+    "100.00",
+    "103.00",
+    "2.02",
+    "2.32",
+    "$17.34 billion",
+    "$18.58 billion",
+    "94.00",
+    "92.00"
+  ],
+  "important_dates": [
+    "2026",
+    "Q2"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Jefferies",
+      "verb": "raised",
+      "object": "target",
+      "importance": 9
+    },
+    {
+      "subject": "Stadium",
+      "verb": "hosting",
+      "object": "concerts",
+      "importance": 8
+    },
+    {
+      "subject": "Tour",
+      "verb": "Hits",
+      "object": "MetLife",
+      "importance": 7
+    },
+    {
+      "subject": "earnings",
+      "verb": "missed",
+      "object": "consensus",
+      "importance": 11
+    },
+    {
+      "subject": "Keefe",
+      "verb": "trimmed",
+      "object": "target",
+      "importance": 17
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d7f3a0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d5c5b0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148d7f2b0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148de4070>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148de4f70>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"MET\", \"companies\": [\"MetLife, Inc.\", \"MET\", \"Jefferies\", \"MetLife Stadium\", \"MetLife\", \"Keefe, Bruyette & Woods\", \"Benzinga\", \"AI Generated\"], \"people\": [\"Chris Brown’s\", \"Chris Brown's\"], \"sentiment\": {\"overall\": \"neutral\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"MarketBeat\\nNegative Sentiment:\\nKeefe, Bruyette & Woods trimmed its MET price target from $94.00 to $92.00, despite maintaining an “outperform” rating.\\nBenzinga\\nPosted 1m ago\\nAI Generated.\", \"importance_score\": 64, \"sentiment\": \"negative\"}, {\"text\": \"Q2 earnings missed consensus: EPS of $2.02 vs. $2.32 expected, and revenue of $17.34 billion vs. $18.58 billion, pressuring shares.\", \"importance_score\": 44, \"sentiment\": \"neutral\"}, {\"text\": \"Positive Sentiment:\\nJefferies raised its price target on MET shares from $100.00 to $103.00 and reiterated a “buy” rating, implying a 36.8% upside.\\nBenzinga\\nNeutral Sentiment:\", \"importance_score\": 39, \"sentiment\": \"positive\"}, {\"text\": \"MetLife, Inc. (MET) stock is reacting to mixed catalysts: earnings results that fell short of expectations and divergent analyst price-target revisions, alongside ongoing brand-building events tied to its MetLife Stadium naming rights.\", \"importance_score\": 38, \"sentiment\": \"neutral\"}, {\"text\": \"MetLife Stadium was named as a volunteer site for the 2026 FIFA World Cup, underscoring its long-term event pipeline.\\nVolunteer to work the 2026 FIFA World Cup at MetLife Stadium\\nNegative Sentiment:\", \"importance_score\": 34, \"sentiment\": \"negative\"}], \"money_amounts\": [\"100.00\", \"103.00\", \"2.02\", \"2.32\", \"$17.34 billion\", \"$18.58 billion\", \"94.00\", \"92.00\"], \"important_dates\": [\"2026\", \"Q2\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Jefferies\", \"verb\": \"raised\", \"object\": \"target\", \"importance\": 9}, {\"subject\": \"Stadium\", \"verb\": \"hosting\", \"object\": \"concerts\", \"importance\": 8}, {\"subject\": \"Tour\", \"verb\": \"Hits\", \"object\": \"MetLife\", \"importance\": 7}, {\"subject\": \"earnings\", \"verb\": \"missed\", \"object\": \"consensus\", \"importance\": 11}, {\"subject\": \"Keefe\", \"verb\": \"trimmed\", \"object\": \"target\", \"importance\": 17}], \"business_context\": []}"
+}
