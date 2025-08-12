@@ -1,0 +1,121 @@
+{
+  "ticker": "ABNB",
+  "timestamp": "2025-08-12T06:09:15.959716",
+  "companies": [
+    "Airbnb, Inc.",
+    "ABNB",
+    "Airbnb",
+    "Seaport Res Ptn",
+    "William Blair",
+    "Wedbush",
+    "Cantor Fitzgerald",
+    "MarketBeat",
+    "B. Riley",
+    "Jefferies",
+    "Benzinga Article",
+    "AI Generated"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "travel",
+  "key_points": [
+    {
+      "text": "Airbnb reported $1.03 EPS vs. $0.92 expected and $3.10 B in revenue vs. $3.02 B a year ago, marking 12.7% year-over-year top-line growth.",
+      "importance_score": 60,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Seaport Res Ptn Q3 Forecast\nPositive Sentiment:\nWilliam Blair upped its Q3 2025 EPS estimate to $2.31 from $2.26.",
+      "importance_score": 44,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Positive Sentiment:\nWedbush lifted its price target to $145.00.\nPrice Target Raised\nNeutral Sentiment:\nAirbnb was highlighted as a leisure stock to watch by MarketBeat on August 9th and 10th.",
+      "importance_score": 42,
+      "sentiment": "positive"
+    },
+    {
+      "text": "B. Riley Report\nNegative Sentiment:\nJefferies trimmed its price target to $160 from $165, though it retained a buy rating.",
+      "importance_score": 37,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Negative Sentiment:\nWilliam Blair lowered its FY 2025 EPS forecast to $4.22 from $4.26.\nWilliam Blair FY Revision\nNegative Sentiment:",
+      "importance_score": 37,
+      "sentiment": "negative"
+    }
+  ],
+  "money_amounts": [
+    "1.03",
+    "0.92",
+    "$3.10 B",
+    "$3.02 B",
+    "2.30",
+    "2.24",
+    "2.31",
+    "2.26",
+    "2.20",
+    "2.09"
+  ],
+  "important_dates": [
+    "today",
+    "Q2",
+    "a year ago",
+    "year",
+    "Q3 2025",
+    "Q3",
+    "FY 2025",
+    "August 9th and 10th",
+    "0.0 days",
+    "Q1 2026",
+    "Q4 2025",
+    "3h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Inc.",
+      "verb": "experiencing",
+      "object": "actions",
+      "importance": 10
+    },
+    {
+      "subject": "Airbnb",
+      "verb": "reported",
+      "object": "EPS",
+      "importance": 17
+    },
+    {
+      "subject": "Airbnb",
+      "verb": "Announces",
+      "object": "Results",
+      "importance": 3
+    },
+    {
+      "subject": "Ptn",
+      "verb": "raised",
+      "object": "estimate",
+      "importance": 8
+    },
+    {
+      "subject": "Forecast",
+      "verb": "upped",
+      "object": "estimate",
+      "importance": 12
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148eec8b0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147dcc670>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x147d82ac0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148e54610>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x148e545e0>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"ABNB\", \"companies\": [\"Airbnb, Inc.\", \"ABNB\", \"Airbnb\", \"Seaport Res Ptn\", \"William Blair\", \"Wedbush\", \"Cantor Fitzgerald\", \"MarketBeat\", \"B. Riley\", \"Jefferies\", \"Benzinga Article\", \"AI Generated\"], \"people\": [], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"travel\", \"key_points\": [{\"text\": \"Airbnb reported $1.03 EPS vs. $0.92 expected and $3.10 B in revenue vs. $3.02 B a year ago, marking 12.7% year-over-year top-line growth.\", \"importance_score\": 60, \"sentiment\": \"positive\"}, {\"text\": \"Seaport Res Ptn Q3 Forecast\\nPositive Sentiment:\\nWilliam Blair upped its Q3 2025 EPS estimate to $2.31 from $2.26.\", \"importance_score\": 44, \"sentiment\": \"positive\"}, {\"text\": \"Positive Sentiment:\\nWedbush lifted its price target to $145.00.\\nPrice Target Raised\\nNeutral Sentiment:\\nAirbnb was highlighted as a leisure stock to watch by MarketBeat on August 9th and 10th.\", \"importance_score\": 42, \"sentiment\": \"positive\"}, {\"text\": \"B. Riley Report\\nNegative Sentiment:\\nJefferies trimmed its price target to $160 from $165, though it retained a buy rating.\", \"importance_score\": 37, \"sentiment\": \"negative\"}, {\"text\": \"Negative Sentiment:\\nWilliam Blair lowered its FY 2025 EPS forecast to $4.22 from $4.26.\\nWilliam Blair FY Revision\\nNegative Sentiment:\", \"importance_score\": 37, \"sentiment\": \"negative\"}], \"money_amounts\": [\"1.03\", \"0.92\", \"$3.10 B\", \"$3.02 B\", \"2.30\", \"2.24\", \"2.31\", \"2.26\", \"2.20\", \"2.09\"], \"important_dates\": [\"today\", \"Q2\", \"a year ago\", \"year\", \"Q3 2025\", \"Q3\", \"FY 2025\", \"August 9th and 10th\", \"0.0 days\", \"Q1 2026\", \"Q4 2025\", \"3h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Inc.\", \"verb\": \"experiencing\", \"object\": \"actions\", \"importance\": 10}, {\"subject\": \"Airbnb\", \"verb\": \"reported\", \"object\": \"EPS\", \"importance\": 17}, {\"subject\": \"Airbnb\", \"verb\": \"Announces\", \"object\": \"Results\", \"importance\": 3}, {\"subject\": \"Ptn\", \"verb\": \"raised\", \"object\": \"estimate\", \"importance\": 8}, {\"subject\": \"Forecast\", \"verb\": \"upped\", \"object\": \"estimate\", \"importance\": 12}], \"business_context\": []}"
+}
