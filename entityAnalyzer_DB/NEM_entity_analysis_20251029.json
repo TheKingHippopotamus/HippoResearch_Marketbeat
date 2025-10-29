@@ -1,0 +1,103 @@
+{
+  "ticker": "NEM",
+  "timestamp": "2025-10-29T10:50:19.543905",
+  "companies": [
+    "Newmont Corporation",
+    "NEM",
+    "Royal Bank of Canada",
+    "Newmont",
+    "Stifel Canada",
+    "Forbes",
+    "MarketBeat",
+    "Barron's",
+    "AI Generated"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "mining",
+  "key_points": [
+    {
+      "text": "Newmont (NYSE:NEM) Price Target Raised to $40.00\nPositive Sentiment:\nStifel Canada boosted FY2025 EPS estimates for Newmont, which supports valuation drivers and earnings momentum.",
+      "importance_score": 47,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Positive Sentiment:\nRoyal Bank of Canada raised its price target and maintained an outperform view, signaling analyst confidence in Newmont's outlook.",
+      "importance_score": 30,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Negative Sentiment:\nBarron's and other outlets report another round of gold selling and investor profit‑taking; falling gold prices are the main immediate driver of Newmont's share weakness.\nNewmont Stock Falls Again.",
+      "importance_score": 26,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Forbes publishes a bullish case that NEM could retest $100, highlighting structural strengths (low debt, margin profile) that underpin longer‑term upside.",
+      "importance_score": 25,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "FY2025 Earnings Forecast for Newmont Issued By Stifel Canada\nPositive Sentiment:",
+      "importance_score": 22,
+      "sentiment": "positive"
+    }
+  ],
+  "money_amounts": [
+    "40.00",
+    "100",
+    "100"
+  ],
+  "important_dates": [
+    "FY2025",
+    "October 28th",
+    "Another Day",
+    "8h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "coverage",
+      "verb": "shows",
+      "object": "tug",
+      "importance": 2
+    },
+    {
+      "subject": "weakness",
+      "verb": "pushed",
+      "object": "stock",
+      "importance": 2
+    },
+    {
+      "subject": "analysts",
+      "verb": "highlight",
+      "object": "fundamentals",
+      "importance": 2
+    },
+    {
+      "subject": "Bank",
+      "verb": "raised",
+      "object": "target",
+      "importance": 9
+    },
+    {
+      "subject": "Target",
+      "verb": "boosted",
+      "object": "estimates",
+      "importance": 11
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "מחיר היעד של Newmont (NYSE:NEM) הועלה ל-40.00 דולר.\n\nתחושה חיובית:\nStifel Canada העלתה את הערכות ה-EPS שלה עבור Newmont לשנת הכספים 2025, מה שמחזק את גורמי הערך ואת המומנטום של הרווחים.",
+    "חיובית:\nבנק קנדה המלכותי העלה את יעד המחיר שלו ושמר על תחזית ביצועי יתר, מה שמצביע על ביטחון האנליסטים בתחזית חברת Newmont.",
+    "שפל ברגשות שליליים:\nמקורות כמו Barron's מדווחים על גל נוסף של מכירת זהב ונטילת רווחים על ידי משקיעים; ירידה במחירי הזהב היא הגורם המידי העיקרי לחולשה במניות של Newmont.\nמניות Newmont צונחות שוב.",
+    "מגזין פורבס מפרסם טיעון אופטימי לפיו NEM עשוי לבדוק מחדש את רמת ה-100 דולר, תוך הדגשת חוזקות מבניות (חוב נמוך, פרופיל רווחיות) התומכות בעלייה ארוכת טווח.",
+    "תחזית רווחים לשנת הכספים 2025 עבור Stifel Canada\nמגמה חיובית:"
+  ],
+  "compact_analysis": "{\"ticker\": \"NEM\", \"companies\": [\"Newmont Corporation\", \"NEM\", \"Royal Bank of Canada\", \"Newmont\", \"Stifel Canada\", \"Forbes\", \"MarketBeat\", \"Barron's\", \"AI Generated\"], \"people\": [], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"mining\", \"key_points\": [{\"text\": \"Newmont (NYSE:NEM) Price Target Raised to $40.00\\nPositive Sentiment:\\nStifel Canada boosted FY2025 EPS estimates for Newmont, which supports valuation drivers and earnings momentum.\", \"importance_score\": 47, \"sentiment\": \"positive\"}, {\"text\": \"Positive Sentiment:\\nRoyal Bank of Canada raised its price target and maintained an outperform view, signaling analyst confidence in Newmont's outlook.\", \"importance_score\": 30, \"sentiment\": \"positive\"}, {\"text\": \"Negative Sentiment:\\nBarron's and other outlets report another round of gold selling and investor profit‑taking; falling gold prices are the main immediate driver of Newmont's share weakness.\\nNewmont Stock Falls Again.\", \"importance_score\": 26, \"sentiment\": \"negative\"}, {\"text\": \"Forbes publishes a bullish case that NEM could retest $100, highlighting structural strengths (low debt, margin profile) that underpin longer‑term upside.\", \"importance_score\": 25, \"sentiment\": \"neutral\"}, {\"text\": \"FY2025 Earnings Forecast for Newmont Issued By Stifel Canada\\nPositive Sentiment:\", \"importance_score\": 22, \"sentiment\": \"positive\"}], \"money_amounts\": [\"40.00\", \"100\", \"100\"], \"important_dates\": [\"FY2025\", \"October 28th\", \"Another Day\", \"8h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"coverage\", \"verb\": \"shows\", \"object\": \"tug\", \"importance\": 2}, {\"subject\": \"weakness\", \"verb\": \"pushed\", \"object\": \"stock\", \"importance\": 2}, {\"subject\": \"analysts\", \"verb\": \"highlight\", \"object\": \"fundamentals\", \"importance\": 2}, {\"subject\": \"Bank\", \"verb\": \"raised\", \"object\": \"target\", \"importance\": 9}, {\"subject\": \"Target\", \"verb\": \"boosted\", \"object\": \"estimates\", \"importance\": 11}], \"business_context\": []}"
+}
