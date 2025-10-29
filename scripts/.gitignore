@@ -1,4 +1,6 @@
 # Core Source Code (Protected)
+tools/
+scripts/
 
 # Python
 __pycache__/
@@ -54,6 +56,3 @@ z-archives/
 # Temporary files
 *.tmp
 *.temp
-
-# Ignore backup files in articles
-articles/*.bak
