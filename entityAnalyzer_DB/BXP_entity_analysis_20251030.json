@@ -1,0 +1,107 @@
+{
+  "ticker": "BXP",
+  "timestamp": "2025-10-30T04:48:20.664522",
+  "companies": [
+    "Boston Properties",
+    "BXP",
+    "Moinian",
+    "JPMorgan",
+    "GAAP",
+    "AI Generated"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "neutral",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "finance",
+  "key_points": [
+    {
+      "text": "BXP Outlines $1.9B Disposition Strategy\nNeutral Sentiment:\nBXP and Moinian completed a $108M refinance for a Hudson Yards property; refinancing preserves cash flow near‑term but highlights ongoing asset‑level financing activity.",
+      "importance_score": 51,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Positive Sentiment:\nBXP raised FY‑2025 FFO/EPS guidance to $6.89–$6.92 per share, well above prior consensus, and reaffirmed an improved outlook driven by asset sales and leasing momentum.\nBXP raises 2025 FFO guidance\nPositive Sentiment:",
+      "importance_score": 44,
+      "sentiment": "positive"
+    },
+    {
+      "text": "FFO/FFO‑per‑share slightly beat and revenue topped estimates; management reported over 1.5M sq ft leased in Q3 and ~3.8M sq ft YTD — the strongest third quarter leasing since 2019.",
+      "importance_score": 31,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Management reported a stronger-than-expected Q3 (FFO/FFO per share beat and revenue ahead), raised FY‑2025 FFO guidance sharply, and outlined an active $1.9B disposition plan while leasing momentum reached its best quarterly level since 2019.",
+      "importance_score": 30,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Investing.com: BXP earnings note\nPosted 2h ago\nAI Generated.",
+      "importance_score": 24,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "$1.9B",
+    "$6.89–$6.92",
+    "$1.9B",
+    "$1.9B",
+    "$108M"
+  ],
+  "important_dates": [
+    "today",
+    "Q3",
+    "quarterly",
+    "2019",
+    "2025",
+    "YTD",
+    "third quarter",
+    "Quarterly",
+    "2h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Management",
+      "verb": "reported",
+      "object": "Q3",
+      "importance": 10
+    },
+    {
+      "subject": "momentum",
+      "verb": "reached",
+      "object": "level",
+      "importance": 10
+    },
+    {
+      "subject": "BXP",
+      "verb": "raised",
+      "object": "guidance",
+      "importance": 12
+    },
+    {
+      "subject": "BXP",
+      "verb": "raises",
+      "object": "guidance",
+      "importance": 12
+    },
+    {
+      "subject": "revenue",
+      "verb": "topped",
+      "object": "estimates",
+      "importance": 15
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "חברת BXP מציגה אסטרטגיית מכירה מוערכת ב-1.9 מיליארד דולר.\n\nנייטרלי:\nחברות BXP ו-Moinian השלימו הלוואה מחדש בסך 108 מיליון דולר עבור נכס בהודון יארדס; ההלוואה מחדש שומרת על זרימת מזומנים לטווח הקצר, אך מדגישה את הפעילות המתמשכת במימון ברמת הנכס.",
+    "המשפט בתרגום לעברית מקצועית:\n\nחברת BXP העלתה את ההנחיות ל-FFO/EPS לשנת הכספים 2025 ל-6.89-6.92 דולר למניה, מעל הציפיות הקודמות, ואיששה מחדש תחזית משופרת המונעת ממכירות נכסים ודינמיות בתחום השכירות.\n\nBXP מעלה את הנחיות ה-FFO לשנת 2025.",
+    "התוצאות התפעוליות לפני רישום הוצאות (FFO) למניה עלו במעט על הציפיות, והכנסות החברה חרגו מהערכות; ההנהלה דיווחה על השכרת יותר מ-1.5 מיליון רגל רבוע ברבעון השלישי וכ-3.8 מיליון רגל רבוע לשנתיים עד כה - זהו הרבעון השלישי החזק ביותר מבחינת השכרות מאז 2019.",
+    "הנהלה דיווחה על תוצאות חזקות מהצפוי לרבעון השלישי (FFO ו-FFO למניה עולים והכנסות לפני), העלתה באופן דרמטי את ההנחיות ל-FFO לשנת 2025, וסקרה תוכנית פירוק אקטיבית של 1.9 מיליארד דולר, כאשר קצב השכירות הגיע לרמתו הרבעונית הטובה ביותר מאז 2019.",
+    "Investing.com: הערות על רווחי Boston Properties (BXP)\nפורסם לפני 2 שעות\n(AI שנוצר)."
+  ],
+  "compact_analysis": "{\"ticker\": \"BXP\", \"companies\": [\"Boston Properties\", \"BXP\", \"Moinian\", \"JPMorgan\", \"GAAP\", \"AI Generated\"], \"people\": [], \"sentiment\": {\"overall\": \"neutral\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"finance\", \"key_points\": [{\"text\": \"BXP Outlines $1.9B Disposition Strategy\\nNeutral Sentiment:\\nBXP and Moinian completed a $108M refinance for a Hudson Yards property; refinancing preserves cash flow near‑term but highlights ongoing asset‑level financing activity.\", \"importance_score\": 51, \"sentiment\": \"neutral\"}, {\"text\": \"Positive Sentiment:\\nBXP raised FY‑2025 FFO/EPS guidance to $6.89–$6.92 per share, well above prior consensus, and reaffirmed an improved outlook driven by asset sales and leasing momentum.\\nBXP raises 2025 FFO guidance\\nPositive Sentiment:\", \"importance_score\": 44, \"sentiment\": \"positive\"}, {\"text\": \"FFO/FFO‑per‑share slightly beat and revenue topped estimates; management reported over 1.5M sq ft leased in Q3 and ~3.8M sq ft YTD — the strongest third quarter leasing since 2019.\", \"importance_score\": 31, \"sentiment\": \"neutral\"}, {\"text\": \"Management reported a stronger-than-expected Q3 (FFO/FFO per share beat and revenue ahead), raised FY‑2025 FFO guidance sharply, and outlined an active $1.9B disposition plan while leasing momentum reached its best quarterly level since 2019.\", \"importance_score\": 30, \"sentiment\": \"neutral\"}, {\"text\": \"Investing.com: BXP earnings note\\nPosted 2h ago\\nAI Generated.\", \"importance_score\": 24, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"$1.9B\", \"$6.89–$6.92\", \"$1.9B\", \"$1.9B\", \"$108M\"], \"important_dates\": [\"today\", \"Q3\", \"quarterly\", \"2019\", \"2025\", \"YTD\", \"third quarter\", \"Quarterly\", \"2h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Management\", \"verb\": \"reported\", \"object\": \"Q3\", \"importance\": 10}, {\"subject\": \"momentum\", \"verb\": \"reached\", \"object\": \"level\", \"importance\": 10}, {\"subject\": \"BXP\", \"verb\": \"raised\", \"object\": \"guidance\", \"importance\": 12}, {\"subject\": \"BXP\", \"verb\": \"raises\", \"object\": \"guidance\", \"importance\": 12}, {\"subject\": \"revenue\", \"verb\": \"topped\", \"object\": \"estimates\", \"importance\": 15}], \"business_context\": []}"
+}
