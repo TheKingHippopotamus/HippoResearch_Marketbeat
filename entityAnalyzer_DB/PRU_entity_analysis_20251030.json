@@ -1,0 +1,104 @@
+{
+  "ticker": "PRU",
+  "timestamp": "2025-10-30T06:17:25.592627",
+  "companies": [
+    "Prudential Financial, Inc.",
+    "PRU",
+    "WSJ",
+    "Zacks",
+    "AI Generated"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "neutral",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "Article\nPositive Sentiment:\nNet income and adjusted operating income jumped year-over-year — net income attributable to PRU was $1.431B ($4.01/sh) and after‑tax adjusted operating income was $1.521B ($4.26/sh), showing stronger profitability and flows in the quarter.",
+      "importance_score": 52,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Q3 2025 results showed a clear beat on profitability, driven by stronger markets and higher client inflows, but the stock is trading lower today (investors appear to be weighing the results vs. prior expectations and near-term outlook).",
+      "importance_score": 24,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Positive Sentiment:\nQ3 results materially beat consensus — adjusted operating EPS of $4.26 (vs. ~$3.57–$3.66 consensus) and revenue ahead of estimates, which should support earnings revisions and near-term earnings visibility.",
+      "importance_score": 21,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Prudential Financial, Inc. (PRU) —",
+      "importance_score": 18,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Estimate note\nPosted 4h ago\nAI Generated.",
+      "importance_score": 18,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "4.26",
+    "1.431B",
+    "4.01",
+    "1.521B",
+    "4.26"
+  ],
+  "important_dates": [
+    "Q3 2025",
+    "today",
+    "Q3",
+    "year",
+    "the quarter",
+    "Pre-quarter",
+    "4h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "results",
+      "verb": "showed",
+      "object": "beat",
+      "importance": 9
+    },
+    {
+      "subject": "results",
+      "verb": "beat",
+      "object": "consensus",
+      "importance": 6
+    },
+    {
+      "subject": "which",
+      "verb": "support",
+      "object": "revisions",
+      "importance": 6
+    },
+    {
+      "subject": "Drivers",
+      "verb": "include",
+      "object": "returns",
+      "importance": 5
+    },
+    {
+      "subject": "Analysts",
+      "verb": "parsing",
+      "object": "metrics",
+      "importance": 2
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "מאמר\n\nתחושה חיובית:\nהכנסה נטו ורווח תפעולי מתוקן עלו משנה לשנה - ההכנסה הנטו המיוחסת ל-PRU הייתה 1.431 מיליארד דולר (4.01 דולר למניה), ורווח תפעולי מס-מתוקן לאחר מס היה 1.521 מיליארד דולר (4.26 דולר למניה), המצביעים על רווחיות וזרימות חזקות ברבעון.",
+    "תוצאות הרבעון השלישי של שנת 2025 הציגו שיפור משמעותי ברווחיות, שנגרם על ידי שווקים חזקים יותר וזרימת לקוחות גבוהה יותר, אך המניה נסחרת במחיר נמוך היום (נראה שהמשקיעים משווים את התוצאות לציפיות קודמות ולתחזית לטווח הקצר).",
+    "תוצאות הרבעון השלישי עולות באופן משמעותי על הציפיות - הרווח המתואם למניות של 4.26 דולר (נגד כ-3.57-3.66 דולר ציפיות) והכנסות מעל ההערכות, מה שצפוי לתמוך בהתאמות רווחיות ובשקיפות רווחית קצרת טווח.",
+    "Prudential Financial, Inc. (PRU) — \n\n**תרגום:**\n\nPrudential Financial, Inc., חברה פיננסית מובילה PRU,  - (המשפט המקורי כבר היה בעברית מקצועית, ולכן התרגום הוא כמעט זהה)",
+    "הערכה (Estimate)\n\nפורסם לפני 4 שעות\nAI Generated."
+  ],
+  "compact_analysis": "{\"ticker\": \"PRU\", \"companies\": [\"Prudential Financial, Inc.\", \"PRU\", \"WSJ\", \"Zacks\", \"AI Generated\"], \"people\": [], \"sentiment\": {\"overall\": \"neutral\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"Article\\nPositive Sentiment:\\nNet income and adjusted operating income jumped year-over-year — net income attributable to PRU was $1.431B ($4.01/sh) and after‑tax adjusted operating income was $1.521B ($4.26/sh), showing stronger profitability and flows in the quarter.\", \"importance_score\": 52, \"sentiment\": \"positive\"}, {\"text\": \"Q3 2025 results showed a clear beat on profitability, driven by stronger markets and higher client inflows, but the stock is trading lower today (investors appear to be weighing the results vs. prior expectations and near-term outlook).\", \"importance_score\": 24, \"sentiment\": \"neutral\"}, {\"text\": \"Positive Sentiment:\\nQ3 results materially beat consensus — adjusted operating EPS of $4.26 (vs. ~$3.57–$3.66 consensus) and revenue ahead of estimates, which should support earnings revisions and near-term earnings visibility.\", \"importance_score\": 21, \"sentiment\": \"positive\"}, {\"text\": \"Prudential Financial, Inc. (PRU) —\", \"importance_score\": 18, \"sentiment\": \"neutral\"}, {\"text\": \"Estimate note\\nPosted 4h ago\\nAI Generated.\", \"importance_score\": 18, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"4.26\", \"1.431B\", \"4.01\", \"1.521B\", \"4.26\"], \"important_dates\": [\"Q3 2025\", \"today\", \"Q3\", \"year\", \"the quarter\", \"Pre-quarter\", \"4h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"results\", \"verb\": \"showed\", \"object\": \"beat\", \"importance\": 9}, {\"subject\": \"results\", \"verb\": \"beat\", \"object\": \"consensus\", \"importance\": 6}, {\"subject\": \"which\", \"verb\": \"support\", \"object\": \"revisions\", \"importance\": 6}, {\"subject\": \"Drivers\", \"verb\": \"include\", \"object\": \"returns\", \"importance\": 5}, {\"subject\": \"Analysts\", \"verb\": \"parsing\", \"object\": \"metrics\", \"importance\": 2}], \"business_context\": []}"
+}
