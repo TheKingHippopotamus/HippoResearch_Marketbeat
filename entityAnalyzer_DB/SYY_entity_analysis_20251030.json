@@ -1,0 +1,108 @@
+{
+  "ticker": "SYY",
+  "timestamp": "2025-10-30T04:57:50.814277",
+  "companies": [
+    "Sysco Corporation",
+    "SYY",
+    "Sysco",
+    "Barclays",
+    "AI Generated"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "negative",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "Sysco Corporation Reports Solid Q1 2026 Results\nNegative Sentiment:\nUnusual options activity: traders bought a large block of put options (6,277 contracts, ~139% above normal volume), signaling short‑term bearish bets that can amplify intraday selling.\nTraders Purchase High Volume of Put Options on ",
+      "importance_score": 86,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Positive Sentiment:\nQ1 results beat expectations — adjusted EPS $1.15 and revenue $21.15B, with gross‑margin expansion and management saying momentum is building; Sysco reiterated FY26 guidance.",
+      "importance_score": 53,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Guidance nuance: FY26 EPS was reiterated at $4.50–4.60 (midpoint roughly in line but slightly below some models) and revenue guidance sat at $84.0–85.0B — investors parsed this as conservative relative to some expectations.",
+      "importance_score": 33,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Barclays raised its price target on SYY to $86 (from $82), which supports upside from analysts despite near‑term headwinds.",
+      "importance_score": 29,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Sysco price target raised to $86 from $82 at Barclays",
+      "importance_score": 29,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "1.15",
+    "$21.15B, with gross‑margin expansion and",
+    "86",
+    "82",
+    "86",
+    "82",
+    "$4.50–4.60",
+    "$84.0–85.0B — investors"
+  ],
+  "important_dates": [
+    "today",
+    "Q1",
+    "FY26 guidance",
+    "First Quarter 2026",
+    "FY26",
+    "Q1 2026",
+    "FY 2026",
+    "3h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "results",
+      "verb": "beat",
+      "object": "expectations",
+      "importance": 17
+    },
+    {
+      "subject": "Sysco",
+      "verb": "reiterated",
+      "object": "guidance",
+      "importance": 17
+    },
+    {
+      "subject": "Sysco",
+      "verb": "Reports",
+      "object": "Results",
+      "importance": 7
+    },
+    {
+      "subject": "Barclays",
+      "verb": "raised",
+      "object": "target",
+      "importance": 5
+    },
+    {
+      "subject": "which",
+      "verb": "supports",
+      "object": "upside",
+      "importance": 5
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "חברת Sysco Corporation מדווחת על תוצאות חזקות לרבעון הראשון של 2026.\n\nסנטימנט שלילי:\nפעילות אופציות יוצאת דופן: הסוחרים רכשו חסימה גדולה של אופציות מכירה (6,277 חוזים, כ-139% מעל הנפח הרגיל), מה שמצביע על הימורים קצרי טווח בעלי נטייה שלילית שעלולים להגביר את המכירות במהלך היום.\nסוחרים רוכשים נפח גבוה של אופציות מכירה",
+    "תוצאות רבעון ראשון חיוביות:\nהתוצאות עולות על הציפיות - הרווח המתואם למניה (EPS) 1.15 דולר והכנסות של 21.15 מיליארד דולר, עם הרחבת שולי רווח וניהול המצהיר על בניית מומנטום; Sysco חידש את הנחיות השנה הפיסקלית 2026.",
+    "הנחיות עדכניות: ה-EPS לשנת הכספים 2026 חוזר על ערך של 4.50-4.60 דולר (נקודת האמצע קרובה אך מעט מתחת לחיזויים מסוימים) והנחיית ההכנסות עמדה על 84.0-85.0 מיליארד דולר - המשקיעים פרשו זאת כשמרנית ביחס לציפיות מסוימות.",
+    "בנק Barclays העלה את יעד המחיר למניה של SYY ל-86 דולר (מהנתון הקודם של 82 דולר), מה שמצביע על פוטנציאל צמיחה מצד האנליסטים, למרות רוחות נגד קצרות טווח.",
+    "מחיר היעד של Barclays."
+  ],
+  "compact_analysis": "{\"ticker\": \"SYY\", \"companies\": [\"Sysco Corporation\", \"SYY\", \"Sysco\", \"Barclays\", \"AI Generated\"], \"people\": [], \"sentiment\": {\"overall\": \"negative\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"Sysco Corporation Reports Solid Q1 2026 Results\\nNegative Sentiment:\\nUnusual options activity: traders bought a large block of put options (6,277 contracts, ~139% above normal volume), signaling short‑term bearish bets that can amplify intraday selling.\\nTraders Purchase High Volume of Put Options on \", \"importance_score\": 86, \"sentiment\": \"negative\"}, {\"text\": \"Positive Sentiment:\\nQ1 results beat expectations — adjusted EPS $1.15 and revenue $21.15B, with gross‑margin expansion and management saying momentum is building; Sysco reiterated FY26 guidance.\", \"importance_score\": 53, \"sentiment\": \"positive\"}, {\"text\": \"Guidance nuance: FY26 EPS was reiterated at $4.50–4.60 (midpoint roughly in line but slightly below some models) and revenue guidance sat at $84.0–85.0B — investors parsed this as conservative relative to some expectations.\", \"importance_score\": 33, \"sentiment\": \"neutral\"}, {\"text\": \"Barclays raised its price target on SYY to $86 (from $82), which supports upside from analysts despite near‑term headwinds.\", \"importance_score\": 29, \"sentiment\": \"neutral\"}, {\"text\": \"Sysco price target raised to $86 from $82 at Barclays\", \"importance_score\": 29, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"1.15\", \"$21.15B, with gross‑margin expansion and\", \"86\", \"82\", \"86\", \"82\", \"$4.50–4.60\", \"$84.0–85.0B — investors\"], \"important_dates\": [\"today\", \"Q1\", \"FY26 guidance\", \"First Quarter 2026\", \"FY26\", \"Q1 2026\", \"FY 2026\", \"3h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"results\", \"verb\": \"beat\", \"object\": \"expectations\", \"importance\": 17}, {\"subject\": \"Sysco\", \"verb\": \"reiterated\", \"object\": \"guidance\", \"importance\": 17}, {\"subject\": \"Sysco\", \"verb\": \"Reports\", \"object\": \"Results\", \"importance\": 7}, {\"subject\": \"Barclays\", \"verb\": \"raised\", \"object\": \"target\", \"importance\": 5}, {\"subject\": \"which\", \"verb\": \"supports\", \"object\": \"upside\", \"importance\": 5}], \"business_context\": []}"
+}
