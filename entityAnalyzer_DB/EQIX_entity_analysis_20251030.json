@@ -1,0 +1,103 @@
+{
+  "ticker": "EQIX",
+  "timestamp": "2025-10-30T06:41:58.783398",
+  "companies": [
+    "Equinix, Inc.",
+    "Equinix",
+    "xScale",
+    "EQIX",
+    "AI Generated"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "Positive Sentiment:\nQ3 FFO beat — Equinix reported FFO/FFO per share of $9.83, above consensus (~$9.26) and up year-over-year, signaling underlying profitability strength.\nEquinix (EQIX) Q3 FFO Surpass Estimates\nPositive Sentiment:\nRaised AFFO / EPS view — management nudged 2025 AFFO/EPS guidance to",
+      "importance_score": 86,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Data center operator Equinix lowers 2025 revenue forecast\nBottom line: investors are balancing a clear operational beat, higher AFFO guidance and a healthy dividend against a trimmed revenue outlook and timing risks on large deals — the negative guidance/ timing news is the main near-term driver of ",
+      "importance_score": 35,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Revenue outlook trimmed / deal-closure delays — Equinix lowered its 2025 revenue forecast and cites delayed deal closings plus FX headwinds as drivers, leaving revenue guidance slightly below Street expectations and prompting investor concern.",
+      "importance_score": 26,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Equinix Reports Strong Third-Quarter 2025 Results\nNeutral Sentiment:\nEarnings call color available — management commentary and details from the Q3 call provide context on timing of large deals and capacity build-outs.",
+      "importance_score": 25,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Operational highlights — company reported record annualized gross bookings, MRR growth and large land acquisitions to support xScale and retail capacity, underscoring long-term demand for AI/data-center space.",
+      "importance_score": 21,
+      "sentiment": "positive"
+    }
+  ],
+  "money_amounts": [
+    "9.83",
+    "$37.95–$38.77",
+    "4.69"
+  ],
+  "important_dates": [
+    "Q3",
+    "year-over-year",
+    "2025",
+    "quarterly",
+    "Quarterly",
+    "Third-Quarter 2025",
+    "Q3 2025",
+    "4h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "that",
+      "verb": "split",
+      "object": "investors",
+      "importance": 7
+    },
+    {
+      "subject": "Equinix",
+      "verb": "reported",
+      "object": "FFO",
+      "importance": 25
+    },
+    {
+      "subject": "management",
+      "verb": "nudged",
+      "object": "guidance",
+      "importance": 25
+    },
+    {
+      "subject": "Equinix",
+      "verb": "raises",
+      "object": "view",
+      "importance": 25
+    },
+    {
+      "subject": "board",
+      "verb": "declared",
+      "object": "dividend",
+      "importance": 25
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "המשפט בתרגום לעברית מקצועית:\n\nנתוני סנטימנט חיוביים:\nהרווח לפני פחת (FFO) ברבעון השלישי עלה על הציפיות - חברת Equinix דיווחה על FFO למניה של 9.83 דולר, מעל הממוצע הצפוי (כ-9.26 דולר) ובעל גידול שנתי, מה שמצביע על חוזק רווחיות בסיסית.\nחברת Equinix (EQIX) עלתה על הערכות ברבעון השלישי FFO\n\nנתוני סנטימנט חיוביים:\nהחברה העלתה את התחזית ל-AFFO ו-EPS - הנהלת החברה עדכנה את ההנחיות ל-2025 AFFO/EPS כלפי מעלה.",
+    "מפעיל מרכזי נתונים Equinix מפחית את תחזית ההכנסות לשנת 2025\nהתוצאה התחתונה: משקיעים מאזנים בין ביצועים תפעוליים ברורים, הנחיות גבוהות יותר ל-AFFO (נתון פיננסי) ותנודתיות בריאה של דיבידנדים, מול תחזית הכנסות מקוצצת וסיכוני טיימינג בעסקאות גדולות - חדשות ההנחיות השליליות והטיימינג הן הגורם העיקרי המשפיע בטווח הקצר.",
+    "תחזית הכנסות מצומצמת / עיכובים בסגירת עסקאות - חברת Equinix הפחיתה את תחזית ההכנסות שלה לשנת 2025 וציינה עיכובים בסגירת עסקאות, יחד עם רוחות נגדיות של שערי חליפין, כגורמים העיקריים, מה שהותיר את הנחיית ההכנסות מעט מתחת לציפיות השוק ועורר דאגה בקרב המשקיעים.",
+    "חברת Equinix מדווחת על תוצאות חזקות לרבעון השלישי של שנת 2025.\n\nניטור סנטימנט נייטרלי:\nזמין שיחת רווחים - תגובות הניהול ומפורטות משקפת רבעון השלישי מספקות הקשר לגבי לוחות הזמנים של עסקאות גדולות והרחבות קיבולת.",
+    "נקודות מפתח בפעילות התפעולית - החברה דיווחה על הזמנות ברוטו שנתיות שיא, צמיחת MRR ורכישות קרקע נרחבות כדי לתמוך ב-xScale ובקיבולת קמעונאית, מה שמדגיש את הביקוש לטווח ארוך לחללי AI/מרכזי נתונים."
+  ],
+  "compact_analysis": "{\"ticker\": \"EQIX\", \"companies\": [\"Equinix, Inc.\", \"Equinix\", \"xScale\", \"EQIX\", \"AI Generated\"], \"people\": [], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"Positive Sentiment:\\nQ3 FFO beat — Equinix reported FFO/FFO per share of $9.83, above consensus (~$9.26) and up year-over-year, signaling underlying profitability strength.\\nEquinix (EQIX) Q3 FFO Surpass Estimates\\nPositive Sentiment:\\nRaised AFFO / EPS view — management nudged 2025 AFFO/EPS guidance to\", \"importance_score\": 86, \"sentiment\": \"positive\"}, {\"text\": \"Data center operator Equinix lowers 2025 revenue forecast\\nBottom line: investors are balancing a clear operational beat, higher AFFO guidance and a healthy dividend against a trimmed revenue outlook and timing risks on large deals — the negative guidance/ timing news is the main near-term driver of \", \"importance_score\": 35, \"sentiment\": \"negative\"}, {\"text\": \"Revenue outlook trimmed / deal-closure delays — Equinix lowered its 2025 revenue forecast and cites delayed deal closings plus FX headwinds as drivers, leaving revenue guidance slightly below Street expectations and prompting investor concern.\", \"importance_score\": 26, \"sentiment\": \"neutral\"}, {\"text\": \"Equinix Reports Strong Third-Quarter 2025 Results\\nNeutral Sentiment:\\nEarnings call color available — management commentary and details from the Q3 call provide context on timing of large deals and capacity build-outs.\", \"importance_score\": 25, \"sentiment\": \"positive\"}, {\"text\": \"Operational highlights — company reported record annualized gross bookings, MRR growth and large land acquisitions to support xScale and retail capacity, underscoring long-term demand for AI/data-center space.\", \"importance_score\": 21, \"sentiment\": \"positive\"}], \"money_amounts\": [\"9.83\", \"$37.95–$38.77\", \"4.69\"], \"important_dates\": [\"Q3\", \"year-over-year\", \"2025\", \"quarterly\", \"Quarterly\", \"Third-Quarter 2025\", \"Q3 2025\", \"4h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"that\", \"verb\": \"split\", \"object\": \"investors\", \"importance\": 7}, {\"subject\": \"Equinix\", \"verb\": \"reported\", \"object\": \"FFO\", \"importance\": 25}, {\"subject\": \"management\", \"verb\": \"nudged\", \"object\": \"guidance\", \"importance\": 25}, {\"subject\": \"Equinix\", \"verb\": \"raises\", \"object\": \"view\", \"importance\": 25}, {\"subject\": \"board\", \"verb\": \"declared\", \"object\": \"dividend\", \"importance\": 25}], \"business_context\": []}"
+}
