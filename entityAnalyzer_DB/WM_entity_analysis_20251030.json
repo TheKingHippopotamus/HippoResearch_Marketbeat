@@ -1,0 +1,112 @@
+{
+  "ticker": "WM",
+  "timestamp": "2025-10-30T07:30:52.717837",
+  "companies": [
+    "Waste Management, Inc.",
+    "WM",
+    "Citigroup",
+    "Cowen",
+    "Oppenheimer",
+    "Benzinga",
+    "TD Cowen",
+    "Barclays",
+    "JPMorgan",
+    "Stifel",
+    "CIBC",
+    "RBC",
+    "AI Generated"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "neutral",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "environmental",
+  "key_points": [
+    {
+      "text": "Positive Sentiment:\nSeveral brokers reaffirmed buy/overweight stances or raised targets, supporting upside potential (Citigroup raised its target to $270, TD Cowen kept a $265 buy, Oppenheimer initiated/maintained a buy).\nBenzinga\nTD Cowen Buy Note\nOppenheimer Buy\nNeutral Sentiment:",
+      "importance_score": 72,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Some analysts trimmed targets but left positive/market‑perform ratings (Barclays $266 OW, JPMorgan $255 OW, Stifel $236 buy), reflecting cautious optimism about longer‑term upside despite near‑term headwinds.",
+      "importance_score": 42,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Benzinga\nNeutral Sentiment:\nCIBC and RBC lowered targets to $231 (neutral) and $223 (sector perform), respectively — these reduce near‑term analyst upside but are not outright sell calls.\nBenzinga\nNeutral Sentiment:",
+      "importance_score": 35,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Industry backdrop: forecasts show steady growth in the global plastic waste management market through 2034, a potential tailwind for long‑term demand for WM’s services.",
+      "importance_score": 23,
+      "sentiment": "positive"
+    },
+    {
+      "text": "WM reported $1.98 EPS, missing consensus (~$2.02) by ~$0.04 while revenue rose ~15% Y/Y — the EPS miss and any execution or margin concerns are pressuring sentiment.",
+      "importance_score": 23,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "270",
+    "265",
+    "266",
+    "255",
+    "236",
+    "231",
+    "223",
+    "1.98"
+  ],
+  "important_dates": [
+    "Q3",
+    "today",
+    "2034",
+    "4h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "company",
+      "verb": "reported",
+      "object": "miss",
+      "importance": 4
+    },
+    {
+      "subject": "brokers",
+      "verb": "reaffirmed",
+      "object": "stances",
+      "importance": 16
+    },
+    {
+      "subject": "Citigroup",
+      "verb": "raised",
+      "object": "target",
+      "importance": 16
+    },
+    {
+      "subject": "TD",
+      "verb": "kept",
+      "object": "buy",
+      "importance": 16
+    },
+    {
+      "subject": "Cowen",
+      "verb": "kept",
+      "object": "buy",
+      "importance": 16
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "חיוביות ברגשות:\nמספר מתווכים פיננסיים אישרו מחדש עמדות קניה/עודף משקל או העלו את היעדים, תומכים בפוטנציאל צמיחה (Oppenheimer החל/שמר על עמדה קנייה).\nBenzinga\nהערה לקניה TD Cowen\nקניה Oppenheimer\nנייטרליות ברגשות:",
+    "כמה אנליסטים צמצמו את היעדים שלהם, אך השאירו דירוגים חיוביים/ביצוע שוק (Barclays 266 דולר OW, JPMorgan 255 דולר OW, Stifel 236 קניה), מה שהעיד על אופטימיות זהירה לגבי הפוטנציאל לטווח הארוך, למרות רוחות נגדיות בטווח הקצר.",
+    "בנזינג'ה (Benzinga)\nסנטימנט נייטרלי:\nCIBC ו-RBC הורידו את היעדים ל-$231 (נייטרלי) ו-$223 (ביצוע סקטור), בהתאמה - צעדים אלו מפחיתים את הפוטנציאל לעלייה בטווח הקצר של האנליסטים, אך אינם קריאות מכירה מובהקות.",
+    "רקע תעשייתי: תחזיות מציגות צמיחה עקבית בשוק העולמי לניהול פסולת פלסטיק עד לשנת 2034, מה שיכול להיות גורם מניע לביקוש ארוך טווח לשירותי Waste Management, Inc. (WM).",
+    "חברת WM דיווחה על רווח למניה (EPS) של 1.98 דולר, מתחת לצפי הקונצנזוס (כ-2.02 דולר) בכ-0.04 דולר, בעוד שההכנסות עלו בכ-15% לעומת השנה הקודמת. הפספוס ב-EPS והדאגות לביצוע או לשולי רווח משפיעים על מצב הרוח בשוק."
+  ],
+  "compact_analysis": "{\"ticker\": \"WM\", \"companies\": [\"Waste Management, Inc.\", \"WM\", \"Citigroup\", \"Cowen\", \"Oppenheimer\", \"Benzinga\", \"TD Cowen\", \"Barclays\", \"JPMorgan\", \"Stifel\", \"CIBC\", \"RBC\", \"AI Generated\"], \"people\": [], \"sentiment\": {\"overall\": \"neutral\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"environmental\", \"key_points\": [{\"text\": \"Positive Sentiment:\\nSeveral brokers reaffirmed buy/overweight stances or raised targets, supporting upside potential (Citigroup raised its target to $270, TD Cowen kept a $265 buy, Oppenheimer initiated/maintained a buy).\\nBenzinga\\nTD Cowen Buy Note\\nOppenheimer Buy\\nNeutral Sentiment:\", \"importance_score\": 72, \"sentiment\": \"positive\"}, {\"text\": \"Some analysts trimmed targets but left positive/market‑perform ratings (Barclays $266 OW, JPMorgan $255 OW, Stifel $236 buy), reflecting cautious optimism about longer‑term upside despite near‑term headwinds.\", \"importance_score\": 42, \"sentiment\": \"positive\"}, {\"text\": \"Benzinga\\nNeutral Sentiment:\\nCIBC and RBC lowered targets to $231 (neutral) and $223 (sector perform), respectively — these reduce near‑term analyst upside but are not outright sell calls.\\nBenzinga\\nNeutral Sentiment:\", \"importance_score\": 35, \"sentiment\": \"neutral\"}, {\"text\": \"Industry backdrop: forecasts show steady growth in the global plastic waste management market through 2034, a potential tailwind for long‑term demand for WM’s services.\", \"importance_score\": 23, \"sentiment\": \"positive\"}, {\"text\": \"WM reported $1.98 EPS, missing consensus (~$2.02) by ~$0.04 while revenue rose ~15% Y/Y — the EPS miss and any execution or margin concerns are pressuring sentiment.\", \"importance_score\": 23, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"270\", \"265\", \"266\", \"255\", \"236\", \"231\", \"223\", \"1.98\"], \"important_dates\": [\"Q3\", \"today\", \"2034\", \"4h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"company\", \"verb\": \"reported\", \"object\": \"miss\", \"importance\": 4}, {\"subject\": \"brokers\", \"verb\": \"reaffirmed\", \"object\": \"stances\", \"importance\": 16}, {\"subject\": \"Citigroup\", \"verb\": \"raised\", \"object\": \"target\", \"importance\": 16}, {\"subject\": \"TD\", \"verb\": \"kept\", \"object\": \"buy\", \"importance\": 16}, {\"subject\": \"Cowen\", \"verb\": \"kept\", \"object\": \"buy\", \"importance\": 16}], \"business_context\": []}"
+}
