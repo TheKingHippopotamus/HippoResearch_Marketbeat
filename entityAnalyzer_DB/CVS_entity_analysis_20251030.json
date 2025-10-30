@@ -1,0 +1,110 @@
+{
+  "ticker": "CVS",
+  "timestamp": "2025-10-30T05:41:37.413197",
+  "companies": [
+    "CVS Health",
+    "CVS",
+    "Aetna",
+    "Caremark",
+    "CVS HEALTH CORPORATION",
+    "Medicare Advantage",
+    "CVS/Aetna",
+    "UnitedHealth",
+    "Health Care Delivery",
+    "AI Generated"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "neutral",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "finance",
+  "key_points": [
+    {
+      "text": "Aetna and Caremark helped drive results — improved Medicare Advantage performance, high PBM retention and nearly $6B of contract wins cited as tailwinds.",
+      "importance_score": 40,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "UnitedHealth and CVS are pruning their Medicare Advantage businesses to favor profit over size\nNegative Sentiment:\nMajor charge: CVS took a ~$5.7B goodwill impairment tied to its Health Care Delivery/Oak Street/clinic businesses, producing a Q3 GAAP loss and dampening headline results.",
+      "importance_score": 39,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Investors are reacting to the tradeoff between stronger operating results (Aetna, Caremark, pharmacy) and a $5.7B impairment that produced a GAAP loss and clinic closures.",
+      "importance_score": 29,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Market reaction was mixed: shares earlier reached a new 12‑month high on the beat/guidance but then pulled back as the charge landed.\nCVS Health (NYSE:CVS) Hits New 12-Month High - Time to Buy?\nNeutral Sentiment:",
+      "importance_score": 29,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "CVS to close 16 Oak Street Health clinics\nPosted 3h ago\nAI Generated.",
+      "importance_score": 29,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "$5.7B impairment",
+    "1.60",
+    "$6.55–$6.65",
+    "$5.7 Billion",
+    "nearly $6B",
+    "$5.7 billion"
+  ],
+  "important_dates": [
+    "Q3",
+    "THIRD QUARTER 2025",
+    "FULL-YEAR 2025",
+    "2025",
+    "12-Month",
+    "full-year",
+    "3h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Health",
+      "verb": "reported",
+      "object": "Q3",
+      "importance": 8
+    },
+    {
+      "subject": "that",
+      "verb": "produced",
+      "object": "loss",
+      "importance": 7
+    },
+    {
+      "subject": "results",
+      "verb": "beat",
+      "object": "expectations",
+      "importance": 4
+    },
+    {
+      "subject": "CORPORATION",
+      "verb": "REPORTS",
+      "object": "RESULTS",
+      "importance": 7
+    },
+    {
+      "subject": "Management",
+      "verb": "raised",
+      "object": "guidance",
+      "importance": 9
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "אייטנה (Aetna) וקררמרק (Caremark) תרמו להשגת התוצאות - שיפור בביצועים של Medicare Advantage, שיעורי שמירה גבוהים של רשתות מרשמים (PBM) וניצחונות בחוזה בשווי כמעט 6 מיליארד דולר הוזכרו כגורמים מעודדים.",
+    "חברות Medicare Advantage על מנת להעדיף רווחיות על פני גודל.\n\nטענה שלילית:\nהטענה העיקרית: Health Care Delivery/אוק סטריט/הקליניקות שלה, מה שהוביל להפסד GAAP ברבעון השלישי והאט את התוצאות הראשיות.",
+    "השקעות מגיבות למחיר שיש לשלם בין תוצאות תפעוליות חזקות (Aetna, Caremark, רשת בתי מרקחת) לבין הפסד חשבונאי של 5.7 מיליארד דולר שנגרם עקב סגירת מרפאות.",
+    "תגובת השוק הייתה מעורבת: המניות הגיעו מוקדם יותר לשיא של 12 חודשים חדש בעקבות הדוחות/הנחיות, אך לאחר מכן נסוגו כאשר ההודעה על העלייה נכנסה לתוקף.\n\nCVS Health (NYSE: CVS) משיגה שיא חדש של 12 חודשים - זמן לקנות?\nסנטימנט נייטרלי:",
+    "CVS תסגור 16 מרפאות בריאות ברחוב אוק 16.\n\n(פורסם לפני 3 שעות)\n\n(מקור: AI)"
+  ],
+  "compact_analysis": "{\"ticker\": \"CVS\", \"companies\": [\"CVS Health\", \"CVS\", \"Aetna\", \"Caremark\", \"CVS HEALTH CORPORATION\", \"Medicare Advantage\", \"CVS/Aetna\", \"UnitedHealth\", \"Health Care Delivery\", \"AI Generated\"], \"people\": [], \"sentiment\": {\"overall\": \"neutral\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"finance\", \"key_points\": [{\"text\": \"Aetna and Caremark helped drive results — improved Medicare Advantage performance, high PBM retention and nearly $6B of contract wins cited as tailwinds.\", \"importance_score\": 40, \"sentiment\": \"neutral\"}, {\"text\": \"UnitedHealth and CVS are pruning their Medicare Advantage businesses to favor profit over size\\nNegative Sentiment:\\nMajor charge: CVS took a ~$5.7B goodwill impairment tied to its Health Care Delivery/Oak Street/clinic businesses, producing a Q3 GAAP loss and dampening headline results.\", \"importance_score\": 39, \"sentiment\": \"negative\"}, {\"text\": \"Investors are reacting to the tradeoff between stronger operating results (Aetna, Caremark, pharmacy) and a $5.7B impairment that produced a GAAP loss and clinic closures.\", \"importance_score\": 29, \"sentiment\": \"negative\"}, {\"text\": \"Market reaction was mixed: shares earlier reached a new 12‑month high on the beat/guidance but then pulled back as the charge landed.\\nCVS Health (NYSE:CVS) Hits New 12-Month High - Time to Buy?\\nNeutral Sentiment:\", \"importance_score\": 29, \"sentiment\": \"neutral\"}, {\"text\": \"CVS to close 16 Oak Street Health clinics\\nPosted 3h ago\\nAI Generated.\", \"importance_score\": 29, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"$5.7B impairment\", \"1.60\", \"$6.55–$6.65\", \"$5.7 Billion\", \"nearly $6B\", \"$5.7 billion\"], \"important_dates\": [\"Q3\", \"THIRD QUARTER 2025\", \"FULL-YEAR 2025\", \"2025\", \"12-Month\", \"full-year\", \"3h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Health\", \"verb\": \"reported\", \"object\": \"Q3\", \"importance\": 8}, {\"subject\": \"that\", \"verb\": \"produced\", \"object\": \"loss\", \"importance\": 7}, {\"subject\": \"results\", \"verb\": \"beat\", \"object\": \"expectations\", \"importance\": 4}, {\"subject\": \"CORPORATION\", \"verb\": \"REPORTS\", \"object\": \"RESULTS\", \"importance\": 7}, {\"subject\": \"Management\", \"verb\": \"raised\", \"object\": \"guidance\", \"importance\": 9}], \"business_context\": []}"
+}
