@@ -1,0 +1,115 @@
+{
+  "ticker": "HCA",
+  "timestamp": "2025-10-30T09:26:37.415471",
+  "companies": [
+    "HCA Healthcare, Inc.",
+    "HCA",
+    "Jefferies",
+    "Mizuho",
+    "Stephens",
+    "TD Cowen",
+    "Truist",
+    "RBC",
+    "Bank of America",
+    "HCA Healthcare",
+    "Jefferies\nPositive Sentiment",
+    "Leerink Partnrs",
+    "HCA Healthcare Inc.",
+    "AI Generated"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "healthcare",
+  "key_points": [
+    {
+      "text": "HCA Healthcare price target raised to $525 from $485 at Jefferies\nPositive Sentiment:\nTD Cowen and other boutiques raised targets (TD Cowen to $490), reinforcing the upgrade momentum that can support further share-price appreciation.",
+      "importance_score": 69,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Positive Sentiment:\nSeveral major brokerages boosted price targets and reiterated bullish ratings (Jefferies, Mizuho, Stephens, TD Cowen, Truist, RBC, Bank of America), signaling analyst confidence in HCA’s growth and margin outlook.",
+      "importance_score": 66,
+      "sentiment": "positive"
+    },
+    {
+      "text": "HCA Healthcare (NYSE:HCA) Price Target Raised to $490.00 at TD Cowen\nNeutral Sentiment:\nLeerink Partnrs issued small adjustments to near-term forecasts — trimming Q4 2025 EPS marginally but raising FY2026 and FY2027 estimates — a mixed signal: longer-term earnings power improves while near-term comp",
+      "importance_score": 53,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "HCA raises 2025 guidance, but eyes looming headwinds\nNegative Sentiment:\nSome coverage notes HCA has underperformed peers on certain days despite gains, highlighting risk that valuation and short-term relative performance could lag if sector rotation occurs.",
+      "importance_score": 36,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Company-level catalysts remain supportive: HCA has raised 2025 guidance and continues capital projects (including a $1.3B hospital expansion) — positive for long-term growth but accompanied by management warnings about near-term headwinds.",
+      "importance_score": 31,
+      "sentiment": "positive"
+    }
+  ],
+  "money_amounts": [
+    "525",
+    "485",
+    "490",
+    "490.00",
+    "$1.3B hospital"
+  ],
+  "important_dates": [
+    "today",
+    "multi-year",
+    "Q4 2025",
+    "FY2026",
+    "FY2027",
+    "2025",
+    "certain days",
+    "Monday",
+    "daily"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "investors",
+      "verb": "note",
+      "object": "signals",
+      "importance": 9
+    },
+    {
+      "subject": "brokerages",
+      "verb": "boosted",
+      "object": "targets",
+      "importance": 15
+    },
+    {
+      "subject": "Cowen",
+      "verb": "raised",
+      "object": "targets",
+      "importance": 17
+    },
+    {
+      "subject": "that",
+      "verb": "support",
+      "object": "appreciation",
+      "importance": 17
+    },
+    {
+      "subject": "Healthcare",
+      "verb": "issued",
+      "object": "adjustments",
+      "importance": 15
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "מחיר היעד של HCA Healthcare הועלה ל-525 דולר מ-485 דולר ב-Jefferies Positive Sentiment:\nTD Cowen וחברות ייעוץ אחרות העלו את יעדיהן (TD Cowen ל-490 דולר), מחזקות את מומנטום ההעלאה שיכול לתמוך בהערכה נוספת של מחיר המניה.",
+    "חיזון חיובי:\nכמה ברוקרים מובילים העלו את יעדים מחיריים וחזרו על דירוגים אופטימיים (Jefferies, Mizuho, Stephens, TD Cowen, Truist, RBC, Bank of America), מה שמעיד על ביטחון האנליסטים בצמיחה ובחזון שולי הרווח של HCA.",
+    "חברת HCA Healthcare (מסחר בבורסה של ניו יורק: HCA) ראתה את מחיר היעד שלה עולה ל-490.00 דולר ב-TD Cowen.\n\nLeerink Partnrs פרסמו התאמות קלות בתחזיות לטווח הקצר - קיצוץ קל ב-EPS לרבעון הרביעי של 2025, אך עלייה בהערכות עבור שנת הכספים 2026 ו-2027 - סימן מעורב: כוח הרווחים לטווח הארוך משתפר בעוד שההשוואה לטווח הקצר נותרת אתגר.",
+    "חברת HCA מעלה את תחזיותיה לשנת 2025, אך מודאגת מהרוחות המתקרבות.\n\nכיסוי חדשותי מציין כי HCA הביאה לביצועים נמוכים יותר ממתחרים בימים מסוימים, למרות ההתקדמות, ומדגיש את הסיכון שהערכה וביצועים יחסיים בטווח הקצר עלולים להישאר מאחור אם יתרחש סיבוב במגמת השוק.",
+    "גורמים מקדמיים ברמת החברה נותרו תומכים: HCA העלתה את ההנחיות לשנת 2025 וממשיכה בפרויקטים הון (כולל הרחבת בית חולים בסכום של 1.3 מיליארד דולר) - חיוביים לצמיחה ארוכת טווח, אך מלווים באזהרות מצד הנהלת החברה בנוגע לרוחות נגד קצרות טווח."
+  ],
+  "compact_analysis": "{\"ticker\": \"HCA\", \"companies\": [\"HCA Healthcare, Inc.\", \"HCA\", \"Jefferies\", \"Mizuho\", \"Stephens\", \"TD Cowen\", \"Truist\", \"RBC\", \"Bank of America\", \"HCA Healthcare\", \"Jefferies\\nPositive Sentiment\", \"Leerink Partnrs\", \"HCA Healthcare Inc.\", \"AI Generated\"], \"people\": [], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"healthcare\", \"key_points\": [{\"text\": \"HCA Healthcare price target raised to $525 from $485 at Jefferies\\nPositive Sentiment:\\nTD Cowen and other boutiques raised targets (TD Cowen to $490), reinforcing the upgrade momentum that can support further share-price appreciation.\", \"importance_score\": 69, \"sentiment\": \"positive\"}, {\"text\": \"Positive Sentiment:\\nSeveral major brokerages boosted price targets and reiterated bullish ratings (Jefferies, Mizuho, Stephens, TD Cowen, Truist, RBC, Bank of America), signaling analyst confidence in HCA’s growth and margin outlook.\", \"importance_score\": 66, \"sentiment\": \"positive\"}, {\"text\": \"HCA Healthcare (NYSE:HCA) Price Target Raised to $490.00 at TD Cowen\\nNeutral Sentiment:\\nLeerink Partnrs issued small adjustments to near-term forecasts — trimming Q4 2025 EPS marginally but raising FY2026 and FY2027 estimates — a mixed signal: longer-term earnings power improves while near-term comp\", \"importance_score\": 53, \"sentiment\": \"neutral\"}, {\"text\": \"HCA raises 2025 guidance, but eyes looming headwinds\\nNegative Sentiment:\\nSome coverage notes HCA has underperformed peers on certain days despite gains, highlighting risk that valuation and short-term relative performance could lag if sector rotation occurs.\", \"importance_score\": 36, \"sentiment\": \"negative\"}, {\"text\": \"Company-level catalysts remain supportive: HCA has raised 2025 guidance and continues capital projects (including a $1.3B hospital expansion) — positive for long-term growth but accompanied by management warnings about near-term headwinds.\", \"importance_score\": 31, \"sentiment\": \"positive\"}], \"money_amounts\": [\"525\", \"485\", \"490\", \"490.00\", \"$1.3B hospital\"], \"important_dates\": [\"today\", \"multi-year\", \"Q4 2025\", \"FY2026\", \"FY2027\", \"2025\", \"certain days\", \"Monday\", \"daily\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"investors\", \"verb\": \"note\", \"object\": \"signals\", \"importance\": 9}, {\"subject\": \"brokerages\", \"verb\": \"boosted\", \"object\": \"targets\", \"importance\": 15}, {\"subject\": \"Cowen\", \"verb\": \"raised\", \"object\": \"targets\", \"importance\": 17}, {\"subject\": \"that\", \"verb\": \"support\", \"object\": \"appreciation\", \"importance\": 17}, {\"subject\": \"Healthcare\", \"verb\": \"issued\", \"object\": \"adjustments\", \"importance\": 15}], \"business_context\": []}"
+}
