@@ -1,0 +1,107 @@
+{
+  "ticker": "MDLZ",
+  "timestamp": "2025-10-30T08:53:52.967519",
+  "companies": [
+    "Mondelez International",
+    "MDLZ",
+    "Clif Bar",
+    "Mondelez",
+    "Mizuho",
+    "Stifel",
+    "RBC",
+    "JPM",
+    "Wells Fargo",
+    "BofA",
+    "Piper",
+    "AI Generated"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "neutral",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "several banks trimmed targets (Stifel, Mizuho, RBC, JPM, Wells Fargo, BofA, Piper), and headlines note a ~6% intraday drop as the market digests the softer outlook.",
+      "importance_score": 56,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Mizuho maintains outperform\nNegative Sentiment:\nFY‑2025 EPS guidance cut to $2.86 vs. Street $3.02 — management lowered full‑year EPS guidance, a primary driver of the selloff.",
+      "importance_score": 29,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Positive Sentiment:\nSome investors/analysts see medium-term upside from cocoa deflation — commentary argues moderating cocoa prices could restore margins and earnings power over 2026–27.\nMondelez: Focusing On Cocoa Deflation\nNeutral Sentiment:\nAnalysts largely kept buy/overweight ratings but trimmed",
+      "importance_score": 18,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Mondelez International (MDLZ) —",
+      "importance_score": 17,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Mondelez Issues Quarterly Earnings Results",
+      "importance_score": 17,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "2.86",
+    "3.02",
+    "~$0.73"
+  ],
+  "important_dates": [
+    "Q3",
+    "FY 2025",
+    "Quarterly",
+    "quarterly",
+    "7h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "analysts",
+      "verb": "flag",
+      "object": "upside",
+      "importance": 4
+    },
+    {
+      "subject": "win",
+      "verb": "removes",
+      "object": "overhang",
+      "importance": 4
+    },
+    {
+      "subject": "judge",
+      "verb": "dismissed",
+      "object": "action",
+      "importance": 4
+    },
+    {
+      "subject": "Mondelez",
+      "verb": "defeats",
+      "object": "lawsuit",
+      "importance": 2
+    },
+    {
+      "subject": "analysts",
+      "verb": "see",
+      "object": "upside",
+      "importance": 5
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "כמה בנקים צמצמו את היעדים שלהם (Stifel, Mizuho, RBC, JPM, Wells Fargo, BofA, Piper), והכותרות מציינות ירידה של כ-6% במהלך המסחר, כאשר השוק מעבד את התחזית השמרנית יותר.",
+    "מזוהו שומרת על ביצועים מעולים, אך יש נטייה שלילית:\nהצפי ל-EPS לשנת 2025 הוקטן ל-2.86 דולר לעומת ה-3.02 דולר שציפו השוק - ההנהלה הנמיכה את הצפי ל-EPS השנתי, גורם ראשי לירידה במכירות.",
+    "חיובית:\nכמה משקיעים/אנליסטים רואים פוטנציאל צמיחה בינונית בטווח הקצר כתוצאה מהדפלציה של קקאו - ההערות טוענות כי יציבות במחירי הקקאו יכולה לשקם את השוליים ואת כושר הרווחיות במהלך 2026-27.\nMondelez: מתמקדים בהדפלציה של קקאו\nנייטרלית:\nהאנליסטים שמרו במידה רבה על דירוגי \"קנה/משקל יתר\", אך צמצמו את ההמלצות.",
+    "מונרז אינטרנשיונל (MDLZ)",
+    "מונרז' (Mondelez) מפרסמת את תוצאות הרווח הרבעוניות שלה."
+  ],
+  "compact_analysis": "{\"ticker\": \"MDLZ\", \"companies\": [\"Mondelez International\", \"MDLZ\", \"Clif Bar\", \"Mondelez\", \"Mizuho\", \"Stifel\", \"RBC\", \"JPM\", \"Wells Fargo\", \"BofA\", \"Piper\", \"AI Generated\"], \"people\": [], \"sentiment\": {\"overall\": \"neutral\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"several banks trimmed targets (Stifel, Mizuho, RBC, JPM, Wells Fargo, BofA, Piper), and headlines note a ~6% intraday drop as the market digests the softer outlook.\", \"importance_score\": 56, \"sentiment\": \"negative\"}, {\"text\": \"Mizuho maintains outperform\\nNegative Sentiment:\\nFY‑2025 EPS guidance cut to $2.86 vs. Street $3.02 — management lowered full‑year EPS guidance, a primary driver of the selloff.\", \"importance_score\": 29, \"sentiment\": \"negative\"}, {\"text\": \"Positive Sentiment:\\nSome investors/analysts see medium-term upside from cocoa deflation — commentary argues moderating cocoa prices could restore margins and earnings power over 2026–27.\\nMondelez: Focusing On Cocoa Deflation\\nNeutral Sentiment:\\nAnalysts largely kept buy/overweight ratings but trimmed\", \"importance_score\": 18, \"sentiment\": \"positive\"}, {\"text\": \"Mondelez International (MDLZ) —\", \"importance_score\": 17, \"sentiment\": \"neutral\"}, {\"text\": \"Mondelez Issues Quarterly Earnings Results\", \"importance_score\": 17, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"2.86\", \"3.02\", \"~$0.73\"], \"important_dates\": [\"Q3\", \"FY 2025\", \"Quarterly\", \"quarterly\", \"7h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"analysts\", \"verb\": \"flag\", \"object\": \"upside\", \"importance\": 4}, {\"subject\": \"win\", \"verb\": \"removes\", \"object\": \"overhang\", \"importance\": 4}, {\"subject\": \"judge\", \"verb\": \"dismissed\", \"object\": \"action\", \"importance\": 4}, {\"subject\": \"Mondelez\", \"verb\": \"defeats\", \"object\": \"lawsuit\", \"importance\": 2}, {\"subject\": \"analysts\", \"verb\": \"see\", \"object\": \"upside\", \"importance\": 5}], \"business_context\": []}"
+}
