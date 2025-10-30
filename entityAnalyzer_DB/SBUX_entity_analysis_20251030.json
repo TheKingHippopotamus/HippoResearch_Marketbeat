@@ -1,0 +1,103 @@
+{
+  "ticker": "SBUX",
+  "timestamp": "2025-10-30T05:51:56.184076",
+  "companies": [
+    "Starbucks Corporation",
+    "SBUX",
+    "Boyu Capital",
+    "EPS"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "automotive",
+  "key_points": [
+    {
+      "text": "Starbucks Corporation (SBUX) reported mixed fiscal Q4 results that help explain today’s share movement: global comparable-store sales showed the first quarterly growth in seven quarters and delivery and new product initiatives are gaining traction, but an earnings-per-share miss and one-time charges",
+      "importance_score": 57,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Positive Sentiment:\nGlobal comps returned to growth (+1%), the first gain in seven quarters — a sign customer traffic is stabilizing after a long slide.\nArticle Title\nPositive Sentiment:\nDelivery has become a meaningful channel — the business surpassed $1 billion in fiscal 2025 and delivery sales ro",
+      "importance_score": 54,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Article Title\nNeutral Sentiment:\nPotential strategic moves in China (Boyu Capital reported as a frontrunner for a stake) could be positive long term, but details and timing remain uncertain.\nArticle Title\nNegative Sentiment:\nEPS missed consensus ($0.52 vs. ~$0.55–$0.57 estimates) and GAAP net income",
+      "importance_score": 32,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Article Title\nNegative Sentiment:\nManagement cautioned the turnaround will be a “multiyear” effort and said costly store improvements and restructuring hurt profits this quarter — a reminder of ongoing execution risk.\nArticle Title\nNegative Sentiment:\nLabor unrest remains a potential headwind (baris",
+      "importance_score": 19,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Revenue outperformed expectations, but management said it will provide fuller financial guidance in January, leaving short-term visibility limited.",
+      "importance_score": 11,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "$1 billion",
+    "0.52"
+  ],
+  "important_dates": [
+    "fiscal Q4",
+    "today",
+    "quarterly",
+    "seven quarters",
+    "multiyear",
+    "fiscal 2025",
+    "Q4",
+    "January",
+    "this quarter",
+    "3h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Corporation",
+      "verb": "reported",
+      "object": "results",
+      "importance": 20
+    },
+    {
+      "subject": "sales",
+      "verb": "showed",
+      "object": "growth",
+      "importance": 20
+    },
+    {
+      "subject": "delivery",
+      "verb": "gaining",
+      "object": "traction",
+      "importance": 20
+    },
+    {
+      "subject": "miss",
+      "verb": "reduced",
+      "object": "profit",
+      "importance": 20
+    },
+    {
+      "subject": "Investors",
+      "verb": "balancing",
+      "object": "evidence",
+      "importance": 2
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "חברת Starbucks Corporation (SBUX) דיווחה על תוצאות כספיות מעורבות לרבעון הפיסקלי הרביעי, המסייעות להסביר את תנודתיות המניות היום: מכירות חנויות דומות גלובליות הראו צמיחה רבעונית ראשונה מזה שבעה רבעונים, יוזמות משלוחים ומוצרים חדשים מצליחות, אך החמצת הרווח למניה והזרקות חד-פעמיות השפיעו על התוצאות.",
+    "משפט בעברית מקצועית:\n\nתחושה חיובית:\nהשווקים הגלובליים חזרו לצמיחה (1%), לראשונה לאחר שבעה רבעונים - סימן לתנועה חיובית של לקוחות לאחר ירידה ארוכה.\n\nכותרת המאמר:\nתחושה חיובית:\nמשלוחים הפכו לערוץ משמעותי - העסק חצה את סף מיליארד הדולר בשנת המס 2025 ומכירות המשלוחים צמחו באופן מרשים.",
+    "# כותרת המאמר\n\n## תחושה נייטרלית:\nתנועות אסטרטגיות פוטנציאליות בסין (Boyu Capital דווח כמנהיג במירוץ לרכישת מניות) עשויות להיות חיוביות לטווח הארוך, אך הפרטים והזמנים עדיין לא ברורים.\n\n## תחושה שלילית:\nEPS חטאה את התחזיות (0.52 דולר לעומת 0.55-0.57 דולר להערכות) והרווח הנקי לפי כללי חשבונאות מקובלים (GAAP).",
+    "כותרת המאמר\nתחושה שלילית:\nהנהלה הזהירה כי השינוי המבני יתבצע על פני \"שנים רבות\" וציינה כי שיפורים יקרים בחנויות ושינויים מבניים פגעו ברווחים ברבעון זה - תזכורת לסיכון הביצוע המתמשך.\n\nכותרת המאמר\nתחושה שלילית:\nמתח עובדים נותר כגורם סערה פוטנציאלי (מחסומים)",
+    "הכנסות עולות על הציפיות, אך ההנהלה הצהירה כי תספק הנחיות פיננסיות מפורטות יותר בינואר, מה שמשאיר את הנראות לטווח הקצר מוגבלת."
+  ],
+  "compact_analysis": "{\"ticker\": \"SBUX\", \"companies\": [\"Starbucks Corporation\", \"SBUX\", \"Boyu Capital\", \"EPS\"], \"people\": [], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"automotive\", \"key_points\": [{\"text\": \"Starbucks Corporation (SBUX) reported mixed fiscal Q4 results that help explain today’s share movement: global comparable-store sales showed the first quarterly growth in seven quarters and delivery and new product initiatives are gaining traction, but an earnings-per-share miss and one-time charges\", \"importance_score\": 57, \"sentiment\": \"positive\"}, {\"text\": \"Positive Sentiment:\\nGlobal comps returned to growth (+1%), the first gain in seven quarters — a sign customer traffic is stabilizing after a long slide.\\nArticle Title\\nPositive Sentiment:\\nDelivery has become a meaningful channel — the business surpassed $1 billion in fiscal 2025 and delivery sales ro\", \"importance_score\": 54, \"sentiment\": \"positive\"}, {\"text\": \"Article Title\\nNeutral Sentiment:\\nPotential strategic moves in China (Boyu Capital reported as a frontrunner for a stake) could be positive long term, but details and timing remain uncertain.\\nArticle Title\\nNegative Sentiment:\\nEPS missed consensus ($0.52 vs. ~$0.55–$0.57 estimates) and GAAP net income\", \"importance_score\": 32, \"sentiment\": \"positive\"}, {\"text\": \"Article Title\\nNegative Sentiment:\\nManagement cautioned the turnaround will be a “multiyear” effort and said costly store improvements and restructuring hurt profits this quarter — a reminder of ongoing execution risk.\\nArticle Title\\nNegative Sentiment:\\nLabor unrest remains a potential headwind (baris\", \"importance_score\": 19, \"sentiment\": \"negative\"}, {\"text\": \"Revenue outperformed expectations, but management said it will provide fuller financial guidance in January, leaving short-term visibility limited.\", \"importance_score\": 11, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"$1 billion\", \"0.52\"], \"important_dates\": [\"fiscal Q4\", \"today\", \"quarterly\", \"seven quarters\", \"multiyear\", \"fiscal 2025\", \"Q4\", \"January\", \"this quarter\", \"3h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Corporation\", \"verb\": \"reported\", \"object\": \"results\", \"importance\": 20}, {\"subject\": \"sales\", \"verb\": \"showed\", \"object\": \"growth\", \"importance\": 20}, {\"subject\": \"delivery\", \"verb\": \"gaining\", \"object\": \"traction\", \"importance\": 20}, {\"subject\": \"miss\", \"verb\": \"reduced\", \"object\": \"profit\", \"importance\": 20}, {\"subject\": \"Investors\", \"verb\": \"balancing\", \"object\": \"evidence\", \"importance\": 2}], \"business_context\": []}"
+}
