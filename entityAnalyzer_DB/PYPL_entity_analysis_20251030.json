@@ -1,0 +1,108 @@
+{
+  "ticker": "PYPL",
+  "timestamp": "2025-10-30T04:23:41.934072",
+  "companies": [
+    "PayPal Holdings",
+    "PYPL",
+    "OpenAI",
+    "PayPal",
+    "ChatGPT",
+    "Wix",
+    "Macquarie",
+    "HSBC",
+    "Argus",
+    "Truist",
+    "Perplexity"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "Several buy/outperform price-target increases (Macquarie, HSBC, Argus among others) reflect renewed analyst confidence in PayPal’s AI/commercial strategy.",
+      "importance_score": 42,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "The sell-off looks driven by profit-taking and heavy volume following Tuesday’s Q3 beat, dividend initiation and a headline OpenAI/ChatGPT payments deal that had pushed the stock higher; mixed analyst reactions (several raises but at least one cut) and fresh warnings about softer consumer spending a",
+      "importance_score": 36,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Positive Sentiment:\nQ3 results beat estimates, PayPal raised FY2025 guidance and initiated a quarterly cash dividend — headlines that fueled the recent rally.",
+      "importance_score": 27,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Strategic deal with OpenAI to embed PayPal as a payments wallet in ChatGPT — a major distribution channel for agentic commerce that drove an earlier big jump in the stock.",
+      "importance_score": 24,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Truist cut its price target to $65 and kept a sell rating — a visible negative note that likely contributed to today’s weakness.",
+      "importance_score": 24,
+      "sentiment": "negative"
+    }
+  ],
+  "money_amounts": [
+    "100",
+    "65",
+    "65"
+  ],
+  "important_dates": [
+    "today",
+    "yesterday",
+    "Tuesday",
+    "Q3",
+    "FY2025",
+    "quarterly",
+    "2h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "that",
+      "verb": "pushed",
+      "object": "stock",
+      "importance": 13
+    },
+    {
+      "subject": "results",
+      "verb": "beat",
+      "object": "estimates",
+      "importance": 9
+    },
+    {
+      "subject": "PayPal",
+      "verb": "raised",
+      "object": "guidance",
+      "importance": 9
+    },
+    {
+      "subject": "that",
+      "verb": "fueled",
+      "object": "rally",
+      "importance": 9
+    },
+    {
+      "subject": "PayPal",
+      "verb": "Beats",
+      "object": "Estimates",
+      "importance": 2
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x178524eb0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1785245e0>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x17854c460>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x17854cf40>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1785518e0>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"PYPL\", \"companies\": [\"PayPal Holdings\", \"PYPL\", \"OpenAI\", \"PayPal\", \"ChatGPT\", \"Wix\", \"Macquarie\", \"HSBC\", \"Argus\", \"Truist\", \"Perplexity\"], \"people\": [], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"Several buy/outperform price-target increases (Macquarie, HSBC, Argus among others) reflect renewed analyst confidence in PayPal’s AI/commercial strategy.\", \"importance_score\": 42, \"sentiment\": \"neutral\"}, {\"text\": \"The sell-off looks driven by profit-taking and heavy volume following Tuesday’s Q3 beat, dividend initiation and a headline OpenAI/ChatGPT payments deal that had pushed the stock higher; mixed analyst reactions (several raises but at least one cut) and fresh warnings about softer consumer spending a\", \"importance_score\": 36, \"sentiment\": \"positive\"}, {\"text\": \"Positive Sentiment:\\nQ3 results beat estimates, PayPal raised FY2025 guidance and initiated a quarterly cash dividend — headlines that fueled the recent rally.\", \"importance_score\": 27, \"sentiment\": \"positive\"}, {\"text\": \"Strategic deal with OpenAI to embed PayPal as a payments wallet in ChatGPT — a major distribution channel for agentic commerce that drove an earlier big jump in the stock.\", \"importance_score\": 24, \"sentiment\": \"neutral\"}, {\"text\": \"Truist cut its price target to $65 and kept a sell rating — a visible negative note that likely contributed to today’s weakness.\", \"importance_score\": 24, \"sentiment\": \"negative\"}], \"money_amounts\": [\"100\", \"65\", \"65\"], \"important_dates\": [\"today\", \"yesterday\", \"Tuesday\", \"Q3\", \"FY2025\", \"quarterly\", \"2h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"that\", \"verb\": \"pushed\", \"object\": \"stock\", \"importance\": 13}, {\"subject\": \"results\", \"verb\": \"beat\", \"object\": \"estimates\", \"importance\": 9}, {\"subject\": \"PayPal\", \"verb\": \"raised\", \"object\": \"guidance\", \"importance\": 9}, {\"subject\": \"that\", \"verb\": \"fueled\", \"object\": \"rally\", \"importance\": 9}, {\"subject\": \"PayPal\", \"verb\": \"Beats\", \"object\": \"Estimates\", \"importance\": 2}], \"business_context\": []}"
+}

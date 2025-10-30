@@ -53,7 +53,7 @@ class Settings(BaseSettings):
     )
     
     llm_timeout: int = Field(
-        default=300,
+        default=600,  # Increased to 10 minutes for slow models
         ge=10,
         description="LLM request timeout in seconds"
     )
@@ -100,19 +100,19 @@ class Settings(BaseSettings):
     )
     
     max_tokens_default: int = Field(
-        default=2000,
+        default=5000,  # Increased to use most of 8192 context (leaves ~3000 for prompt)
         ge=100,
         description="Default maximum tokens for LLM output"
     )
     
     max_tokens_short: int = Field(
-        default=1000,
+        default=3000,  # Increased for short articles
         ge=100,
         description="Maximum tokens for short articles"
     )
     
     max_tokens_long: int = Field(
-        default=3000,
+        default=6000,  # Increased to use most of 8192 context (leaves ~2000 for prompt)
         ge=100,
         description="Maximum tokens for long articles"
     )

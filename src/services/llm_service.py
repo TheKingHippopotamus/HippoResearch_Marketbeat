@@ -47,15 +47,18 @@ class LLMService:
             Result with generated text or error
         """
         try:
+            # Build options - handle both num_predict (Ollama) and max_tokens
+            options = {
+                "temperature": temperature or self.settings.llm_temperature,
+                "top_p": top_p or self.settings.llm_top_p,
+                "num_predict": max_tokens or self.settings.max_tokens_default,
+                **kwargs
+            }
+            
             payload = {
                 "model": self.settings.llm_model,
                 "prompt": prompt,
-                "options": {
-                    "temperature": temperature or self.settings.llm_temperature,
-                    "top_p": top_p or self.settings.llm_top_p,
-                    "num_predict": max_tokens or self.settings.max_tokens_default,
-                    **kwargs
-                },
+                "options": options,
                 "stream": False
             }
             
@@ -69,11 +72,10 @@ class LLMService:
             
             response.raise_for_status()
             
-            # Parse response
-            response_data = response.json()
-            generated_text = response_data.get('response', '')
+            # Parse response using the same method as old code
+            generated_text = self.parse_ollama_response(response)
             
-            if not generated_text:
+            if not generated_text or len(generated_text.strip()) == 0:
                 return Result.err("Empty response from LLM")
             
             logger.info(f"✅ LLM generated {len(generated_text)} characters")
@@ -94,33 +96,73 @@ class LLMService:
             logger.error(f"❌ {error_msg}")
             return Result.err(error_msg)
     
-    def parse_ollama_response(self, response_text: str) -> str:
+    def parse_ollama_response(self, response) -> str:
         """
-        Parse Ollama response format
+        Parse Ollama response format (supports both response object and text)
         מפענח תגובה בפורמט Ollama
         
         Args:
-            response_text: Raw response text
+            response: requests.Response object or string
         
         Returns:
             Parsed text
         """
         try:
-            # Try standard JSON
-            data = json.loads(response_text)
-            if isinstance(data, dict) and 'response' in data:
-                return data['response']
-            return response_text
-        except json.JSONDecodeError:
-            # Try NDJSON (newline-delimited JSON)
-            lines = response_text.strip().splitlines()
-            for line in lines:
+            # If it's a response object (from requests)
+            if hasattr(response, 'json'):
+                # Try standard JSON first
                 try:
-                    obj = json.loads(line)
-                    if isinstance(obj, dict) and 'response' in obj:
-                        return obj['response']
+                    raw_text = response.json().get('response', '')
+                    if raw_text:
+                        return self._format_output(raw_text)
+                except (json.JSONDecodeError, ValueError):
+                    # Try NDJSON (newline-delimited JSON)
+                    lines = response.text.strip().splitlines()
+                    for line in lines:
+                        try:
+                            obj = json.loads(line)
+                            if 'response' in obj:
+                                return self._format_output(obj['response'])
+                        except (json.JSONDecodeError, ValueError):
+                            continue
+                    # Fallback: return raw text
+                    return self._format_output(response.text)
+            
+            # If it's a string
+            elif isinstance(response, str):
+                try:
+                    data = json.loads(response)
+                    if isinstance(data, dict) and 'response' in data:
+                        return self._format_output(data['response'])
                 except json.JSONDecodeError:
-                    continue
-            # Fallback: return raw text
-            return response_text
+                    # Try NDJSON
+                    lines = response.strip().splitlines()
+                    for line in lines:
+                        try:
+                            obj = json.loads(line)
+                            if isinstance(obj, dict) and 'response' in obj:
+                                return self._format_output(obj['response'])
+                        except json.JSONDecodeError:
+                            continue
+                return self._format_output(response)
+            
+            return ""
+            
+        except Exception as e:
+            logger.warning(f"⚠️ Error parsing Ollama response: {e}")
+            return str(response) if response else ""
+    
+    def _format_output(self, text: str) -> str:
+        """
+        Format LLM output (convert markdown to HTML, etc.)
+        עיצוב פלט LLM
+        """
+        if not text:
+            return ""
+        
+        # Convert **text** to <strong>text</strong>
+        import re
+        text = re.sub(r'\*\*(.*?)\*\*', r'<strong>\1</strong>', text)
+        
+        return text
 

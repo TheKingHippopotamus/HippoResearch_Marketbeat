@@ -38,11 +38,5 @@ def scrape_text_from_website(ticker: str, output_dir: str = "txt") -> Tuple[Opti
         
     except Exception as e:
         logger.error(f"❌ Error in scrape_text_from_website: {e}")
-        # Fallback to old implementation if available
-        try:
-            from scripts.scrap_marketBeat_keypoints import scrape_text_from_website as _old_scrape
-            logger.warning("⚠️ Falling back to old scraping implementation")
-            return _old_scrape(ticker, output_dir)
-        except ImportError:
-            return None, None
+        return None, None
 

@@ -11,8 +11,8 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from src.processing.pipeline import TickerProcessingPipeline
 from src.core.types import Result
-from tools.logger import setup_logging
-from tools.ticker_data import ticker_manager
+from src.core.logging import setup_logging
+from src.data.repositories.ticker_repository import get_ticker_repository
 
 logger = setup_logging()
 
@@ -28,7 +28,8 @@ def main():
         print(f"Processing single ticker: {ticker}")
         
         # Get ticker info
-        ticker_info = ticker_manager.get_ticker_info(ticker)
+        ticker_repo = get_ticker_repository()
+        ticker_info = ticker_repo.get_ticker_info(ticker)
         if not ticker_info:
             ticker_info = {'ticker': ticker}
         

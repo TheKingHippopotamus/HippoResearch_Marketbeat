@@ -75,15 +75,8 @@ class ArticleHTMLGenerator:
     
     def _convert_to_html(self, text: str) -> str:
         """Convert processed text to HTML format"""
-        # Use existing text processing
-        try:
-            from tools.text_processing import convert_tagged_text_to_html
-            return convert_tagged_text_to_html(text)
-        except ImportError:
-            # Fallback: basic HTML conversion
-            text = re.sub(r'\*\*(.*?)\*\*', r'<strong>\1</strong>', text)
-            text = text.replace('\n\n', '</p><p>')
-            return f'<p>{text}</p>'
+        from src.core.text_processing import convert_tagged_text_to_html
+        return convert_tagged_text_to_html(text)
     
     def _build_html(
         self,

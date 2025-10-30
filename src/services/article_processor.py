@@ -168,7 +168,7 @@ class ArticleProcessorService:
         
         result = self.llm_service.generate(
             prompt,
-            num_predict=1024,
+            max_tokens=4000,
             temperature=self.settings.llm_temperature,
             top_p=self.settings.llm_top_p
         )
@@ -202,26 +202,20 @@ class ArticleProcessorService:
         
         return self.llm_service.generate(
             prompt,
-            num_predict=max_tokens or self.settings.max_tokens_default
+            max_tokens=max_tokens or self.settings.max_tokens_default
         )
     
     def _extract_entities(self, text: str) -> list:
         """Extract entity names from text"""
-        import re
-        pattern = re.compile(r'\b([A-Z][A-Za-z0-9&.()\-]+)\b')
-        return list(pattern.findall(text))
+        from src.core.text_processing import extract_entities_from_text
+        return extract_entities_from_text(text)
     
     def _mark_entities(self, text: str, entities: list) -> str:
         """Mark entities in text with [[...]]"""
-        import re
-        for ent in sorted(entities, key=len, reverse=True):
-            text = re.sub(rf'\b{re.escape(ent)}\b', f'[[{ent}]]', text)
-        return text
+        from src.core.text_processing import mark_entities_in_text
+        return mark_entities_in_text(text, entities)
     
     def _restore_entities(self, text: str, entities: list) -> str:
         """Restore marked entities to original form"""
-        import re
-        for ent in sorted(entities, key=len, reverse=True):
-            text = re.sub(rf'\[\[.*?{re.escape(ent)}.*?\]\]', ent, text)
-        return text
-
+        from src.core.text_processing import restore_marked_entities
+        return restore_marked_entities(text, entities)

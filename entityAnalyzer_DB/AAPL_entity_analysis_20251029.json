@@ -1,0 +1,111 @@
+{
+  "ticker": "AAPL",
+  "timestamp": "2025-10-29T13:42:03.817154",
+  "companies": [
+    "Apple Inc.",
+    "AAPL",
+    "Apple",
+    "Fed",
+    "Robert W. Baird",
+    "JPMorgan",
+    "Skyworks",
+    "Qorvo",
+    "AI Generated"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "The Stock Market Faces Make-or-Break Tests\nNeutral Sentiment:\nApple’s services business topped $100B annually, a high‑margin growth driver that supports valuation even if hardware growth moderates.\nApple tops $100bn in services revenue even as legal risks grow\nNeutral Sentiment:\nSupply‑chain moves a",
+      "importance_score": 195,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Positive Sentiment:\nAnalysts and reporters expect a renewed iPhone upgrade cycle driven by strong Pro demand, which could boost handset revenue even without an imminent AI product rollout.\nApple poised for iPhone sales boost on strong Pro demand\nPositive Sentiment:\nApple briefly crossed a $4 trillio",
+      "importance_score": 72,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Apple Inc. (AAPL) is trading higher after a wave of bullish headlines: strong demand for the new iPhone Pro models has revived upgrade momentum, lifting Apple briefly into the $4 trillion market‑cap club and prompting analyst upgrades ahead of fiscal Q4 results due Oct. 30.",
+      "importance_score": 58,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Robert W. Baird Increases Apple Price Target to $280\nNeutral Sentiment:\nFiscal Q4 earnings (Oct. 30) and the Fed’s interest‑rate decision this week are key catalysts — they could amplify gains or trigger a sell‑off depending on results and rate guidance.",
+      "importance_score": 58,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Robert W. Baird raised its price target to $280 and reiterated an Outperform rating; other houses (and a JPMorgan note) are similarly upbeat ahead of earnings, supporting upside near term.",
+      "importance_score": 35,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "$4 trillion",
+    "$4 trillion",
+    "$4 trillion",
+    "280",
+    "280",
+    "$100B",
+    "$100bn in services revenue",
+    "$8 billion",
+    "~€39M",
+    "39 mn euros"
+  ],
+  "important_dates": [
+    "fiscal Q4",
+    "Oct. 30",
+    "this week",
+    "Fiscal Q4 earnings",
+    "annually"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "demand",
+      "verb": "revived",
+      "object": "momentum",
+      "importance": 18
+    },
+    {
+      "subject": "Investors",
+      "verb": "cheering",
+      "object": "traction",
+      "importance": 8
+    },
+    {
+      "subject": "earnings",
+      "verb": "raise",
+      "object": "volatility",
+      "importance": 8
+    },
+    {
+      "subject": "Analysts",
+      "verb": "expect",
+      "object": "cycle",
+      "importance": 21
+    },
+    {
+      "subject": "which",
+      "verb": "boost",
+      "object": "revenue",
+      "importance": 21
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "השוק ההוני עומד בפני מבחנים מכריעים.\n\nעסק השירותים של Apple חצה את סף 100 מיליארד דולר בשנה, גורם צמיחה בעל שוליים גבוהים שממשיך לתמוך בערכה של החברה גם אם צמיחת החומרה תתמתן.\nApple משיגה הכנסות שירותים של מעל 100 מיליארד דולר, במקביל לגידול בסיכונים המשפטיים.\n\nשינויים בשרשרת האספקה...",
+    "משפט מתורגם לעברית מקצועית:\n\nסטייה חיובית:\nאנליסטים ועיתונאים מצפים למחזור שדרוגים מחודש של אייפון, המונע על ידי ביקוש חזק מצד משתמשי Pro, מה שיכול להגדיל את הכנסות המכשירים גם ללא השקה מיידית של מוצר מבוסס AI.\nApple ממוקמת לשיפור במכירות האייפון עקב הביקוש החזק מצד משתמשי Pro\nסטייה חיובית:\nApple חצתה באופן זמני את סף ה-4 טריליון דולר.",
+    "חברת Apple אינק. (Apple למועדון ה-4 טריליון דולר, מה שגרם לאנליסטים לשדרג את ההמלצות שלהם לפני תוצאות הרבעון הרביעי של השנה הפיסקלית, המתוכננות ל-30 באוקטובר.",
+    "רוברט ו. בירד מעלה את יעד המחיר של אפל ל-280 דולר.\n\nהתוצאות הרבעוניות (אוקטובר 30) והחלטת הבנק המרכזי האמריקאי (הפדרל ריזרב) לגבי שיעורי הריבית השבוע, מהוות גורמים מרכזיים - הן עשויות להגביר את העליות או לעורר מכירות בהתאם לתוצאות ולהנחיות שיעורי הריבית.",
+    "רוברט וו. ביי העלה את יעד המחיר שלו ל-280 דולר וחזר על דירוג ביצועי שוק; חברות אחרות (וגם מסמך של ג'פי מורגן) אופטימיות באופן דומה לפני פרסום התוצאות הכספיות, מה שמצביע על פוטנציאל צמיחה בטווח הקצר."
+  ],
+  "compact_analysis": "{\"ticker\": \"AAPL\", \"companies\": [\"Apple Inc.\", \"AAPL\", \"Apple\", \"Fed\", \"Robert W. Baird\", \"JPMorgan\", \"Skyworks\", \"Qorvo\", \"AI Generated\"], \"people\": [], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"The Stock Market Faces Make-or-Break Tests\\nNeutral Sentiment:\\nApple’s services business topped $100B annually, a high‑margin growth driver that supports valuation even if hardware growth moderates.\\nApple tops $100bn in services revenue even as legal risks grow\\nNeutral Sentiment:\\nSupply‑chain moves a\", \"importance_score\": 195, \"sentiment\": \"positive\"}, {\"text\": \"Positive Sentiment:\\nAnalysts and reporters expect a renewed iPhone upgrade cycle driven by strong Pro demand, which could boost handset revenue even without an imminent AI product rollout.\\nApple poised for iPhone sales boost on strong Pro demand\\nPositive Sentiment:\\nApple briefly crossed a $4 trillio\", \"importance_score\": 72, \"sentiment\": \"positive\"}, {\"text\": \"Apple Inc. (AAPL) is trading higher after a wave of bullish headlines: strong demand for the new iPhone Pro models has revived upgrade momentum, lifting Apple briefly into the $4 trillion market‑cap club and prompting analyst upgrades ahead of fiscal Q4 results due Oct. 30.\", \"importance_score\": 58, \"sentiment\": \"positive\"}, {\"text\": \"Robert W. Baird Increases Apple Price Target to $280\\nNeutral Sentiment:\\nFiscal Q4 earnings (Oct. 30) and the Fed’s interest‑rate decision this week are key catalysts — they could amplify gains or trigger a sell‑off depending on results and rate guidance.\", \"importance_score\": 58, \"sentiment\": \"neutral\"}, {\"text\": \"Robert W. Baird raised its price target to $280 and reiterated an Outperform rating; other houses (and a JPMorgan note) are similarly upbeat ahead of earnings, supporting upside near term.\", \"importance_score\": 35, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"$4 trillion\", \"$4 trillion\", \"$4 trillion\", \"280\", \"280\", \"$100B\", \"$100bn in services revenue\", \"$8 billion\", \"~€39M\", \"39 mn euros\"], \"important_dates\": [\"fiscal Q4\", \"Oct. 30\", \"this week\", \"Fiscal Q4 earnings\", \"annually\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"demand\", \"verb\": \"revived\", \"object\": \"momentum\", \"importance\": 18}, {\"subject\": \"Investors\", \"verb\": \"cheering\", \"object\": \"traction\", \"importance\": 8}, {\"subject\": \"earnings\", \"verb\": \"raise\", \"object\": \"volatility\", \"importance\": 8}, {\"subject\": \"Analysts\", \"verb\": \"expect\", \"object\": \"cycle\", \"importance\": 21}, {\"subject\": \"which\", \"verb\": \"boost\", \"object\": \"revenue\", \"importance\": 21}], \"business_context\": []}"
+}

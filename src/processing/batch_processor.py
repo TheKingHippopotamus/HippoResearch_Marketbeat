@@ -9,16 +9,8 @@ from typing import Set, List, Dict, Any
 
 from src.processing.pipeline import TickerProcessingPipeline
 from src.config.settings import get_settings
-from tools.ticker_data import ticker_manager
-from scripts.json_manager import (
-    load_today_processed,
-    load_unavailable_tickers,
-    save_today_processed,
-    save_unavailable_tickers
-)
-from scripts.ui_ux_manager import check_and_clear_unavailable_tickers
-from scripts.github_automation import commit_and_push_changes
-from src.core.types import Result
+from src.data.repositories.ticker_repository import get_ticker_repository
+from src.data.repositories.json_repository import get_json_repository
 
 logger = logging.getLogger(__name__)
 
@@ -33,35 +25,36 @@ class BatchProcessor:
         """Initialize batch processor"""
         self.settings = get_settings()
         self.pipeline = TickerProcessingPipeline()
+        self.ticker_repo = get_ticker_repository()
+        self.json_repo = get_json_repository()
     
     def process_all_available_tickers(self) -> None:
         """
-        Process all available tickers (replaces old process_all_tickers)
-        מעבד את כל הטיקרים הזמינים (מחליף את process_all_tickers הישן)
+        Process all available tickers
+        מעבד את כל הטיקרים הזמינים
         """
         logger.info("🚀 Starting ticker processing pipeline...")
         logger.info("=" * 60)
         
         # Check and clear unavailable tickers if new day
-        check_and_clear_unavailable_tickers()
+        self.json_repo.clear_unavailable_tickers_if_new_day()
         
         # Load ticker data
-        ticker_metadata = ticker_manager._ticker_data
-        tickers = set(ticker_metadata.keys())
+        all_tickers = self.ticker_repo.get_all_tickers()
         
         # Load processed and unavailable tickers
-        unavailable = load_unavailable_tickers()
-        today_processed = load_today_processed()
+        unavailable = self.json_repo.load_unavailable_tickers()
+        today_processed = self.json_repo.load_processed_tickers()
         
         # Get candidates
-        candidates = list(tickers - unavailable - today_processed)
+        candidates = list(all_tickers - unavailable - today_processed)
         
         if not candidates:
             logger.info("✅ No new tickers to process today!")
             return
         
         logger.info(f"📊 Found {len(candidates)} tickers to process today")
-        logger.info(f"📊 Total tickers in database: {len(tickers)}")
+        logger.info(f"📊 Total tickers in database: {len(all_tickers)}")
         logger.info(f"📊 Already processed today: {len(today_processed)}")
         logger.info(f"📊 Unavailable tickers: {len(unavailable)}")
         logger.info("=" * 60)
@@ -77,7 +70,9 @@ class BatchProcessor:
             
             try:
                 # Get ticker info
-                ticker_info = ticker_metadata.get(ticker, {})
+                ticker_info = self.ticker_repo.get_ticker_info(ticker)
+                if not ticker_info:
+                    ticker_info = {'ticker': ticker}
                 
                 # Process with pipeline
                 result = self.pipeline.process_ticker(ticker, ticker_info)
@@ -85,7 +80,7 @@ class BatchProcessor:
                 if result.is_err():
                     logger.error(f"❌ Failed to process {ticker}: {result.error}")
                     unavailable.add(ticker)
-                    save_unavailable_tickers(unavailable)
+                    self.json_repo.save_unavailable_tickers(unavailable)
                     
                     if i < len(candidates):
                         logger.info(f"⏳ Waiting 2 seconds before next ticker...")
@@ -94,15 +89,8 @@ class BatchProcessor:
                 
                 # Update tracking
                 today_processed.add(ticker)
-                save_today_processed(today_processed)
+                self.json_repo.save_processed_tickers(today_processed)
                 logger.info(f"✅ Updated processing status for {ticker}")
-                
-                # Commit and push changes
-                logger.info(f"📝 Committing changes for {ticker}...")
-                if commit_and_push_changes(ticker):
-                    logger.info(f"✅ Successfully committed and pushed changes for {ticker}")
-                else:
-                    logger.warning(f"⚠️ Warning: Failed to commit changes for {ticker}")
                 
                 # Wait before next ticker
                 if i < len(candidates):
@@ -122,4 +110,3 @@ class BatchProcessor:
         logger.info(f"📊 Total processed: {len(today_processed)}")
         logger.info(f"📊 Remaining unavailable: {len(unavailable)}")
         logger.info(f"{'=' * 60}")
-

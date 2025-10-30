@@ -1,6 +1,6 @@
 """
-Core functionality - exceptions, types, utilities
-ליבת המערכת - exceptions, types, utilities
+Core functionality - exceptions, types, utilities, logging
+ליבת המערכת - exceptions, types, utilities, logging
 """
 from src.core.exceptions import (
     MarketBitError,
@@ -14,6 +14,7 @@ from src.core.exceptions import (
 )
 from src.core.types import Result
 from src.core.utils import get_current_date, get_current_timestamp, create_safe_filename
+from src.core.logging import setup_logging, get_logger
 
 __all__ = [
     'MarketBitError',
@@ -26,7 +27,9 @@ __all__ = [
     'GitOperationError',
     'Result',
     'get_current_date',
-    'get_current_timestamp', 
+    'get_current_timestamp',
     'create_safe_filename',
+    'setup_logging',
+    'get_logger',
 ]
 
