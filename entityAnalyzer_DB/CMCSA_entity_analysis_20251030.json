@@ -1,0 +1,111 @@
+{
+  "ticker": "CMCSA",
+  "timestamp": "2025-10-30T05:30:33.419006",
+  "companies": [
+    "Comcast Corporation",
+    "CMCSA",
+    "Comcast",
+    "Kings County",
+    "the YMCA of Whitehaven",
+    "Universal Theme Parks",
+    "NBCUniversal",
+    "YMCA",
+    "NOW TV Latino",
+    "NOW TV",
+    "Arete",
+    "Viamedia",
+    "AI Generated"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "neutral",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "media",
+  "key_points": [
+    {
+      "text": "Comcast funded a $30,000 grant for youth digital skills training at the YMCA of Whitehaven and is partnering on a Universal Theme Parks exhibition via NBCUniversal — modest near‑term impact but supportive of brand and community engagement.",
+      "importance_score": 44,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Price Target Lowered to $33 at Arete\nNegative Sentiment:\nViamedia’s antitrust suit against Comcast will proceed to trial in October 2026, creating a legal overhang that could affect ad‑tech and MVPD economics.",
+      "importance_score": 32,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Comcast Grants $30,000 to YMCA\nUniversal Theme Parks Exhibition",
+      "importance_score": 31,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Comcast is set to report Q3 soon with consensus revenue expected to be down ~4% and EPS around $1.10 — this raises short‑term volatility and is a focal point for investors.",
+      "importance_score": 29,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Arete lowered its price target from $39 to $33 and moved to a \"neutral\" rating, tightening the near‑term upside and reinforcing analyst caution.",
+      "importance_score": 29,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "30,000",
+    "30,000",
+    "around $1.10",
+    "39",
+    "33",
+    "33"
+  ],
+  "important_dates": [
+    "today",
+    "Q3",
+    "52-Week",
+    "October 2026",
+    "4h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "catalysts",
+      "verb": "outweighed",
+      "object": "positives",
+      "importance": 3
+    },
+    {
+      "subject": "positives",
+      "verb": "include",
+      "object": "buildouts",
+      "importance": 4
+    },
+    {
+      "subject": "Comcast",
+      "verb": "broke",
+      "object": "ground",
+      "importance": 7
+    },
+    {
+      "subject": "Comcast",
+      "verb": "Breaks",
+      "object": "Ground",
+      "importance": 3
+    },
+    {
+      "subject": "Comcast",
+      "verb": "funded",
+      "object": "grant",
+      "importance": 11
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "חברת Universal Theme Parks דרך NBCUniversal - השפעה מתונה בטווח הקצר, אך תומכת במעורבות המותג והקהילה.",
+    "תוכנית המחיר הונמכה ל-33 דולר ב-Arete.\n\nתחושה שלילית:\nהמשפט של Viamedia נגד Comcast בנושא חוק ההגבלים העסקיים יתקדם למשפט באוקטובר 2026, מה שיוצר עומס משפטי פוטנציאלי שיכול להשפיע על הכלכלה של טכנולוגיות פרסום ושידורים מרוכזים (MVPD).",
+    "חברת Comcast מעניקה 30,000 דולר ל-YMCA.\nתערוכת פארקי השעשועים של Universal.",
+    "קומקאסט צפויה לדווח על הרבעון השלישי בקרוב, עם הכנסות צפויות במידה של כ-4% נמוכות יותר ורווח למניה (EPS) בסביבות 1.10 דולר - הדבר מעלה את התנודתיות בטווח הקצר ומייצג נקודת מוקד למשקיעים.",
+    "חברת Arete הפחיתה את מחיר היעד שלה מ-39 דולר ל-33 דולר והעבירה דירוג נייטרלי, מה שמצמצם את הפוטנציאל לעלייה בטווח הקצר ומחזק את זהירות האנליסטים."
+  ],
+  "compact_analysis": "{\"ticker\": \"CMCSA\", \"companies\": [\"Comcast Corporation\", \"CMCSA\", \"Comcast\", \"Kings County\", \"the YMCA of Whitehaven\", \"Universal Theme Parks\", \"NBCUniversal\", \"YMCA\", \"NOW TV Latino\", \"NOW TV\", \"Arete\", \"Viamedia\", \"AI Generated\"], \"people\": [], \"sentiment\": {\"overall\": \"neutral\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"media\", \"key_points\": [{\"text\": \"Comcast funded a $30,000 grant for youth digital skills training at the YMCA of Whitehaven and is partnering on a Universal Theme Parks exhibition via NBCUniversal — modest near‑term impact but supportive of brand and community engagement.\", \"importance_score\": 44, \"sentiment\": \"neutral\"}, {\"text\": \"Price Target Lowered to $33 at Arete\\nNegative Sentiment:\\nViamedia’s antitrust suit against Comcast will proceed to trial in October 2026, creating a legal overhang that could affect ad‑tech and MVPD economics.\", \"importance_score\": 32, \"sentiment\": \"negative\"}, {\"text\": \"Comcast Grants $30,000 to YMCA\\nUniversal Theme Parks Exhibition\", \"importance_score\": 31, \"sentiment\": \"neutral\"}, {\"text\": \"Comcast is set to report Q3 soon with consensus revenue expected to be down ~4% and EPS around $1.10 — this raises short‑term volatility and is a focal point for investors.\", \"importance_score\": 29, \"sentiment\": \"neutral\"}, {\"text\": \"Arete lowered its price target from $39 to $33 and moved to a \\\"neutral\\\" rating, tightening the near‑term upside and reinforcing analyst caution.\", \"importance_score\": 29, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"30,000\", \"30,000\", \"around $1.10\", \"39\", \"33\", \"33\"], \"important_dates\": [\"today\", \"Q3\", \"52-Week\", \"October 2026\", \"4h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"catalysts\", \"verb\": \"outweighed\", \"object\": \"positives\", \"importance\": 3}, {\"subject\": \"positives\", \"verb\": \"include\", \"object\": \"buildouts\", \"importance\": 4}, {\"subject\": \"Comcast\", \"verb\": \"broke\", \"object\": \"ground\", \"importance\": 7}, {\"subject\": \"Comcast\", \"verb\": \"Breaks\", \"object\": \"Ground\", \"importance\": 3}, {\"subject\": \"Comcast\", \"verb\": \"funded\", \"object\": \"grant\", \"importance\": 11}], \"business_context\": []}"
+}
