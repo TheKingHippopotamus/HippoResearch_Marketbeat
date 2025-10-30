@@ -1505,8 +1505,8 @@
                 window.allArticlesMetadata = metadata;
                 window.lastFilter = null;
                 
-                // במובייל, ברירת מחדל - להציג רק כתבות מהיום האחרון
-                const onlyLatestDay = window.innerWidth <= 768 ? true : false;
+                // במובייל, ברירת מחדל - אל תסנן ל"סיקורים אחרונים" עד שהמשתמש יבחר בכך
+                const onlyLatestDay = false;
                 window.activeTag = 'all';
                 displayArticles(metadata, undefined, onlyLatestDay);
                 

@@ -1,0 +1,101 @@
+{
+  "ticker": "BMY",
+  "timestamp": "2025-10-30T04:34:20.154250",
+  "companies": [
+    "Bristol‑Myers Squibb",
+    "BMY",
+    "Sotyktu",
+    "Bristol-Myers Squibb's",
+    "Bristol-Myers Squibb’s",
+    "Piper Sandler",
+    "Bristol-Myers Squibb",
+    "Bristol Myers Squibb"
+  ],
+  "people": [
+    "Cathie Wood"
+  ],
+  "sentiment": {
+    "overall": "neutral",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "healthcare",
+  "key_points": [
+    {
+      "text": "Bristol‑Myers Squibb (BMY) — shares are trading lower today after a mix of near‑term clinical catalysts, analyst commentary and market pressures ahead of Q3 earnings.",
+      "importance_score": 30,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "A Fresh Look at Bristol-Myers Squibb's Valuation After New Pipeline Progress and Phase 3 Sotyktu Results\nPositive Sentiment:\nPromising clinical readouts on KarXT (bipolar I) and a new schizophrenia study are being highlighted as potential long‑term revenue drivers if they progress to approval.",
+      "importance_score": 26,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Piper Sandler Reaffirms Their Buy Rating on Bristol-Myers Squibb (BMY)\nNeutral Sentiment:",
+      "importance_score": 26,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Cathie Wood Predicts “Reality Check” (Sell-off) – 5 High-Yield Dividend Safety Stocks\nPosted 24m ago\nAI Generated.",
+      "importance_score": 24,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Bristol-Myers Squibb (BMY) To Report Earnings Tomorrow:",
+      "importance_score": 23,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [],
+  "important_dates": [
+    "today",
+    "Q3",
+    "1-Year",
+    "Tomorrow",
+    "24m ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "they",
+      "verb": "moving",
+      "object": "stock",
+      "importance": 1
+    },
+    {
+      "subject": "news",
+      "verb": "support",
+      "object": "upside",
+      "importance": 6
+    },
+    {
+      "subject": "coverage",
+      "verb": "highlights",
+      "object": "results",
+      "importance": 6
+    },
+    {
+      "subject": "that",
+      "verb": "expand",
+      "object": "prospects",
+      "importance": 6
+    },
+    {
+      "subject": "These",
+      "verb": "reduce",
+      "object": "reliance",
+      "importance": 0
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "מניות של BMY) נסחרות בנסיגה היום, בעקבות שילוב של גורמים קליניים קצרי טווח, הערות אנליסטים ולחצים שוקיים לפני פרסום הדוחות הרבעוניים.",
+    "מבט מחודש על הערכת השווי של Sotyktu\n\nתחושה חיובית:\nתוצאות קליניות מבטיחות של KarXT (דיכאון מסוג I) ומחקר חדש על סכיזופרניה מודגשים כגורמים פוטנציאליים להכנסות ארוכות טווח, במידה ויקבלו אישור.",
+    "פיपर סנדלר (Piper Sandler) מאשרת מחדש את דירוג הרכישה שלה עבור בריסטול-מיי סקיב (Bristol-Myers Squibb), עם הסימול BMY.\n\n(ניטראלי)",
+    "קאתי ווד מנבאת \"בדיקת מציאות\" (מכירה) - 5 מניות עם דיבידנדים גבוהים ובטוחים\nפורסם לפני 24 דקות\nמבוסס בינה מלאכותית.",
+    "חברת **בריסטול-מיי סקוויב** (BMY) תדווח על תוצאותיה המעשיות מחר."
+  ],
+  "compact_analysis": "{\"ticker\": \"BMY\", \"companies\": [\"Bristol‑Myers Squibb\", \"BMY\", \"Sotyktu\", \"Bristol-Myers Squibb's\", \"Bristol-Myers Squibb’s\", \"Piper Sandler\", \"Bristol-Myers Squibb\", \"Bristol Myers Squibb\"], \"people\": [\"Cathie Wood\"], \"sentiment\": {\"overall\": \"neutral\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"healthcare\", \"key_points\": [{\"text\": \"Bristol‑Myers Squibb (BMY) — shares are trading lower today after a mix of near‑term clinical catalysts, analyst commentary and market pressures ahead of Q3 earnings.\", \"importance_score\": 30, \"sentiment\": \"neutral\"}, {\"text\": \"A Fresh Look at Bristol-Myers Squibb's Valuation After New Pipeline Progress and Phase 3 Sotyktu Results\\nPositive Sentiment:\\nPromising clinical readouts on KarXT (bipolar I) and a new schizophrenia study are being highlighted as potential long‑term revenue drivers if they progress to approval.\", \"importance_score\": 26, \"sentiment\": \"positive\"}, {\"text\": \"Piper Sandler Reaffirms Their Buy Rating on Bristol-Myers Squibb (BMY)\\nNeutral Sentiment:\", \"importance_score\": 26, \"sentiment\": \"neutral\"}, {\"text\": \"Cathie Wood Predicts “Reality Check” (Sell-off) – 5 High-Yield Dividend Safety Stocks\\nPosted 24m ago\\nAI Generated.\", \"importance_score\": 24, \"sentiment\": \"neutral\"}, {\"text\": \"Bristol-Myers Squibb (BMY) To Report Earnings Tomorrow:\", \"importance_score\": 23, \"sentiment\": \"neutral\"}], \"money_amounts\": [], \"important_dates\": [\"today\", \"Q3\", \"1-Year\", \"Tomorrow\", \"24m ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"they\", \"verb\": \"moving\", \"object\": \"stock\", \"importance\": 1}, {\"subject\": \"news\", \"verb\": \"support\", \"object\": \"upside\", \"importance\": 6}, {\"subject\": \"coverage\", \"verb\": \"highlights\", \"object\": \"results\", \"importance\": 6}, {\"subject\": \"that\", \"verb\": \"expand\", \"object\": \"prospects\", \"importance\": 6}, {\"subject\": \"These\", \"verb\": \"reduce\", \"object\": \"reliance\", \"importance\": 0}], \"business_context\": []}"
+}
