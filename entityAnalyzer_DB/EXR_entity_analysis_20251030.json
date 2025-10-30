@@ -1,0 +1,103 @@
+{
+  "ticker": "EXR",
+  "timestamp": "2025-10-30T06:05:07.517176",
+  "companies": [
+    "Extra Space Storage",
+    "Extra Space",
+    "Zacks",
+    "Extra Space Storage Inc.",
+    "AI Generated"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "neutral",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "aerospace",
+  "key_points": [
+    {
+      "text": "Extra Space Storage (EXR) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates\nNegative Sentiment:\nManagement forecasted 2025 FFO below some street estimates and signaled sluggish same-store growth, which is the primary driver of negative sentiment and the share price decline.\nExtra Space Stor",
+      "importance_score": 94,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Extra Space Storage (EXR) Tops Q3 FFO Estimates\nPositive Sentiment:\nRevenue outpaced analyst estimates, a sign demand held up at the top line despite mixed unit/mix trends.\nExtra Space Storage earnings missed by $0.41, revenue topped estimates",
+      "importance_score": 41,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Extra Space Storage earnings missed by $0.41, revenue topped estimates\nPosted 3h ago\nAI Generated. May Contain Errors.",
+      "importance_score": 38,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Extra Space Storage (EXR) — Stock is trading lower after mixed Q3 results and a softer outlook: management reported steady cash generation and revenue beats but also flagged weaker same-store trends and a forecast that market participants viewed as disappointing.",
+      "importance_score": 33,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Positive Sentiment:\nQ3 FFO slightly beat expectations — Extra Space reported FFO of $2.08, above the Zacks consensus of $2.06, indicating underlying operating cash flow remained resilient.",
+      "importance_score": 30,
+      "sentiment": "positive"
+    }
+  ],
+  "money_amounts": [
+    "2.08",
+    "2.06",
+    "0.41",
+    "$105.1M",
+    "0.41"
+  ],
+  "important_dates": [
+    "Q3",
+    "prior-year",
+    "2025",
+    "year-over-year",
+    "2025 Third Quarter",
+    "3h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "management",
+      "verb": "reported",
+      "object": "generation",
+      "importance": 11
+    },
+    {
+      "subject": "participants",
+      "verb": "viewed",
+      "object": "that",
+      "importance": 11
+    },
+    {
+      "subject": "FFO",
+      "verb": "beat",
+      "object": "expectations",
+      "importance": 6
+    },
+    {
+      "subject": "Space",
+      "verb": "reported",
+      "object": "FFO",
+      "importance": 6
+    },
+    {
+      "subject": "Storage",
+      "verb": "Tops",
+      "object": "Estimates",
+      "importance": 12
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "דוחות כספיים רבעוניים של חברת Extra Space Storage: ניתוח מדדים מרכזיים מול הערכות השוק\n\nתחושה שלילית:\nהנהלת החברה צפתה ב-FFO (זרימת מזומנים מפעילות שוטפת) לשנת 2025 מתחת להערכות השוק, והודיעה על צמיחה איטית של חנויות דומות, מה שמהווה את הגורם העיקרי לתחושה השלילית ולירידה במחיר המניה.",
+    "חברת Extra Space Storage (EXR) עלתה מעל הציפיות ברבעון השלישי של ה-FFO.\n\nניתוח חיובי:\nהכנסות החברה עולות על תחזיות האנליסטים, מה שמעיד על כך שהביקוש נשמר ברמה הגבוהה ביותר בקו ההכנסות, למרות מגמות מעורבות ביחידות ובמיקס.\n\nרווחי Extra Space Storage פספסו את התחזיות ב-0.41 דולר, אך ההכנסות עולות על הציפיות.",
+    "הכנסות Extra Space Storage נפלו ב-0.41 דולר, ההכנסה הכוללת עלתה על התחזיות.\n\n(פורסם לפני 3 שעות)\n\n(נכתב על ידי AI - ייתכן שיכילו שגיאות)",
+    "חברת Extra Space Storage (EXR) מציגה ירידה במחיר המניה לאחר תוצאות רבעון שלישי מעורבות ותחזית שמרנית: הנהלת החברה דיווחה על יצירת מזומנים יציבה ועקפה את היעדים ההכנסותיים, אך גם ציינה מגמות חלשות בחנויות הקיימות ותחזית שנתפסה כמשתפרת על ידי משתתפי השוק.",
+    "תוצאה חיובית:\nהרווח לפני פחת והפעלה (FFO) ברבעון השלישי עלה מעט על הציפיות - חברת Extra Space דיווחה על FFO של 2.08 דולר, מעל לקונצנזוס של Zacks בגובה 2.06 דולר, מה שמעיד על כך שזרם המזומנים מפעילות התפעולית הבסיסית נשאר עמיד."
+  ],
+  "compact_analysis": "{\"ticker\": \"EXR\", \"companies\": [\"Extra Space Storage\", \"Extra Space\", \"Zacks\", \"Extra Space Storage Inc.\", \"AI Generated\"], \"people\": [], \"sentiment\": {\"overall\": \"neutral\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"aerospace\", \"key_points\": [{\"text\": \"Extra Space Storage (EXR) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates\\nNegative Sentiment:\\nManagement forecasted 2025 FFO below some street estimates and signaled sluggish same-store growth, which is the primary driver of negative sentiment and the share price decline.\\nExtra Space Stor\", \"importance_score\": 94, \"sentiment\": \"negative\"}, {\"text\": \"Extra Space Storage (EXR) Tops Q3 FFO Estimates\\nPositive Sentiment:\\nRevenue outpaced analyst estimates, a sign demand held up at the top line despite mixed unit/mix trends.\\nExtra Space Storage earnings missed by $0.41, revenue topped estimates\", \"importance_score\": 41, \"sentiment\": \"positive\"}, {\"text\": \"Extra Space Storage earnings missed by $0.41, revenue topped estimates\\nPosted 3h ago\\nAI Generated. May Contain Errors.\", \"importance_score\": 38, \"sentiment\": \"neutral\"}, {\"text\": \"Extra Space Storage (EXR) — Stock is trading lower after mixed Q3 results and a softer outlook: management reported steady cash generation and revenue beats but also flagged weaker same-store trends and a forecast that market participants viewed as disappointing.\", \"importance_score\": 33, \"sentiment\": \"neutral\"}, {\"text\": \"Positive Sentiment:\\nQ3 FFO slightly beat expectations — Extra Space reported FFO of $2.08, above the Zacks consensus of $2.06, indicating underlying operating cash flow remained resilient.\", \"importance_score\": 30, \"sentiment\": \"positive\"}], \"money_amounts\": [\"2.08\", \"2.06\", \"0.41\", \"$105.1M\", \"0.41\"], \"important_dates\": [\"Q3\", \"prior-year\", \"2025\", \"year-over-year\", \"2025 Third Quarter\", \"3h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"management\", \"verb\": \"reported\", \"object\": \"generation\", \"importance\": 11}, {\"subject\": \"participants\", \"verb\": \"viewed\", \"object\": \"that\", \"importance\": 11}, {\"subject\": \"FFO\", \"verb\": \"beat\", \"object\": \"expectations\", \"importance\": 6}, {\"subject\": \"Space\", \"verb\": \"reported\", \"object\": \"FFO\", \"importance\": 6}, {\"subject\": \"Storage\", \"verb\": \"Tops\", \"object\": \"Estimates\", \"importance\": 12}], \"business_context\": []}"
+}
