@@ -1,0 +1,102 @@
+{
+  "ticker": "DUK",
+  "timestamp": "2025-10-30T09:35:10.634451",
+  "companies": [
+    "Duke Energy Corporation",
+    "DUK",
+    "Mizuho",
+    "Duke Energy",
+    "Duke",
+    "The Indiana Utility Regulatory Commission",
+    "IURC",
+    "Wells Fargo",
+    "RBC",
+    "Zacks",
+    "Zacks Utilities Note",
+    "AI Generated"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "neutral",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "energy",
+  "key_points": [
+    {
+      "text": "Positive Sentiment:\nMizuho raised its price target to $140, signaling upward analyst conviction that could support longer-term upside if fundamentals continue to track.\nMizuho Boosts Duke Energy Price Target\nPositive Sentiment:\nBroker coverage is tilted favorable — Duke has a consensus rating of “Mo",
+      "importance_score": 51,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Terre Haute Energy Program\nNeutral Sentiment:\nThe Indiana Utility Regulatory Commission approved a settlement that lets Duke consider selling certain coal units to third parties as it shifts toward natural gas — this reduces some regulatory roadblocks but creates execution and timing uncertainty.",
+      "importance_score": 39,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Duke Energy Corporation (DUK) — shares are trading lower today amid a mix of supportive analyst actions (higher price targets, consensus “moderate buy”) and investor caution around valuation and regulatory/asset-transition developments.",
+      "importance_score": 36,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Analysts at Wells Fargo and RBC moved Duke to a “hold” rating — an upgrade from lower stances but not a buy signal; likely to temper short‑term enthusiasm.",
+      "importance_score": 32,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Sector write‑ups (Zacks) list Duke among utilities that could beat earnings; useful context but not a direct catalyst without concrete earnings revisions.",
+      "importance_score": 21,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "140"
+  ],
+  "important_dates": [
+    "today",
+    "6h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Mizuho",
+      "verb": "raised",
+      "object": "target",
+      "importance": 12
+    },
+    {
+      "subject": "that",
+      "verb": "support",
+      "object": "upside",
+      "importance": 12
+    },
+    {
+      "subject": "Mizuho",
+      "verb": "Boosts",
+      "object": "Target",
+      "importance": 12
+    },
+    {
+      "subject": "which",
+      "verb": "provides",
+      "object": "support",
+      "importance": 12
+    },
+    {
+      "subject": "Commission",
+      "verb": "approved",
+      "object": "settlement",
+      "importance": 14
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "חיוביות:\nבנק ההשקעות Mizuho העלה את יעד המחיר שלו ל-140 דולר, מה שמצביע על אמונה גוברת מצד האנליסטים כלפי עלייה בטווח הארוך, בתנאי שהנתונים הבסיסיים ימשיכו להשתפר.\nDuke Energy\nחיוביות:\nכיסוי ברוקרים נוטה לטובה - ל-Duke יש דירוג קונצנזוס של \"מקסימום\".",
+    "תוכנית אנרגיית טרבל גבוה (Terre Haute Energy Program)\n\nהלך הרוח ניטרלי:\n\nהוועדה הרגולטורית של שירותי האנרגיה באינדיאנה אישרה הסכם המאפשר ל-Duke לשקול את מכירת יחידות פחם מסוימות לצדדים שלישיים, ככל שהיא עוברת לגז טבעי. צעד זה מפחית חלק מהחסמים הרגולטוריים, אך יוצר אי-ודאות בביצוע ובזמנים.",
+    "חברת Duke Energy (DUK) - מניות החברה נסחרות במחיר נמוך יותר היום, בעקבות שילוב של פעולות תומכות מצד אנליסטים (יעדים מחיריים גבוהים יותר, קונצנזוס \"קנייה מתונה\") וזהירות משקיעים בנוגע להערכה, והתפתחויות רגולטוריות/העברת נכסים.",
+    "אנליסטים ב-Wells Fargo וב-Duke דירוג \"החזקה\" - שדרוג מעמדות נמוכים יותר, אך לא אות סיכון לרכישה; צעד זה צפוי להרגיע את ההתלהבות לטווח הקצר.",
+    "דוחות סקטוריאליים (Zacks) מזכירים את חברת Duke בין חברות השירותים ציבוריים שיכולות להפתיע עם תוצאות כספיות טובות; הקשר המידעי מועיל, אך אינו מהווה גורם מניע ישיר ללא תיקונים קונקרטיים בתוצאות."
+  ],
+  "compact_analysis": "{\"ticker\": \"DUK\", \"companies\": [\"Duke Energy Corporation\", \"DUK\", \"Mizuho\", \"Duke Energy\", \"Duke\", \"The Indiana Utility Regulatory Commission\", \"IURC\", \"Wells Fargo\", \"RBC\", \"Zacks\", \"Zacks Utilities Note\", \"AI Generated\"], \"people\": [], \"sentiment\": {\"overall\": \"neutral\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"energy\", \"key_points\": [{\"text\": \"Positive Sentiment:\\nMizuho raised its price target to $140, signaling upward analyst conviction that could support longer-term upside if fundamentals continue to track.\\nMizuho Boosts Duke Energy Price Target\\nPositive Sentiment:\\nBroker coverage is tilted favorable — Duke has a consensus rating of “Mo\", \"importance_score\": 51, \"sentiment\": \"positive\"}, {\"text\": \"Terre Haute Energy Program\\nNeutral Sentiment:\\nThe Indiana Utility Regulatory Commission approved a settlement that lets Duke consider selling certain coal units to third parties as it shifts toward natural gas — this reduces some regulatory roadblocks but creates execution and timing uncertainty.\", \"importance_score\": 39, \"sentiment\": \"neutral\"}, {\"text\": \"Duke Energy Corporation (DUK) — shares are trading lower today amid a mix of supportive analyst actions (higher price targets, consensus “moderate buy”) and investor caution around valuation and regulatory/asset-transition developments.\", \"importance_score\": 36, \"sentiment\": \"neutral\"}, {\"text\": \"Analysts at Wells Fargo and RBC moved Duke to a “hold” rating — an upgrade from lower stances but not a buy signal; likely to temper short‑term enthusiasm.\", \"importance_score\": 32, \"sentiment\": \"neutral\"}, {\"text\": \"Sector write‑ups (Zacks) list Duke among utilities that could beat earnings; useful context but not a direct catalyst without concrete earnings revisions.\", \"importance_score\": 21, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"140\"], \"important_dates\": [\"today\", \"6h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Mizuho\", \"verb\": \"raised\", \"object\": \"target\", \"importance\": 12}, {\"subject\": \"that\", \"verb\": \"support\", \"object\": \"upside\", \"importance\": 12}, {\"subject\": \"Mizuho\", \"verb\": \"Boosts\", \"object\": \"Target\", \"importance\": 12}, {\"subject\": \"which\", \"verb\": \"provides\", \"object\": \"support\", \"importance\": 12}, {\"subject\": \"Commission\", \"verb\": \"approved\", \"object\": \"settlement\", \"importance\": 14}], \"business_context\": []}"
+}
