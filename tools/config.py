@@ -4,10 +4,10 @@ Configuration settings for LLM processing
 
 # LLM Output Settings
 LLM_OUTPUT_SETTINGS = {
-    "default_max_tokens": 2000,  # Default maximum words for output
+    "default_max_tokens": 3000,  # Default maximum words for output
     "short_article_max_tokens": 1000,  # For short articles
-    "long_article_max_tokens": 3000,  # For long articles
-    "min_tokens": 500,  # Minimum words for output
+    "long_article_max_tokens": 4000,  # For long articles
+    "min_tokens": 200,  # Minimum words for output
 }
 
 # LLM Model Settings

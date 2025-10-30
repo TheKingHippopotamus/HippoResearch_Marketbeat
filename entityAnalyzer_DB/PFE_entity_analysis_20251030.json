@@ -1,0 +1,96 @@
+{
+  "ticker": "PFE",
+  "timestamp": "2025-10-30T04:27:21.975673",
+  "companies": [
+    "Pfizer Inc.",
+    "PFE",
+    "Pfizer",
+    "Berenberg",
+    "Leerink",
+    "AI Generated"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "neutral",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "healthcare",
+  "key_points": [
+    {
+      "text": "Berenberg Hold\nNeutral Sentiment:\nOptions and order‑flow signals are mixed: some bullish bets but also hedging activity, indicating short‑term volatility rather than a clear directional conviction.\nDecoding Options Activity\nNeutral Sentiment:\nInstitutional ownership remains high (~67%), which provid",
+      "importance_score": 22,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Analyst downward revisions: Leerink cut Q3 and multi‑year EPS forecasts (Q3 lowered to ~$0.70 and FY estimates trimmed), which undercuts near‑term earnings expectations and likely weighs on the stock.",
+      "importance_score": 21,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Earnings Preview\nPosted 1h ago\nAI Generated.",
+      "importance_score": 18,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Berenberg maintains a “Hold” ahead of Q3, signaling no change in near‑term conviction from a Europe‑based analyst — a neutral influence on trading.",
+      "importance_score": 17,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Shares are trading lower after a mix of analyst downgrades and cautious pre-earnings commentary, partly offset by clinical progress and active options interest.",
+      "importance_score": 15,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [],
+  "important_dates": [
+    "Q3",
+    "next week",
+    "FY",
+    "1h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Pfizer",
+      "verb": "reported",
+      "object": "study",
+      "importance": 2
+    },
+    {
+      "subject": "which",
+      "verb": "supports",
+      "object": "story",
+      "importance": 2
+    },
+    {
+      "subject": "Berenberg",
+      "verb": "maintains",
+      "object": "Hold",
+      "importance": 5
+    },
+    {
+      "subject": "which",
+      "verb": "provides",
+      "object": "support",
+      "importance": 7
+    },
+    {
+      "subject": "Leerink",
+      "verb": "cut",
+      "object": "forecasts",
+      "importance": 7
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "החזקה של Berenberg נייטרלית:\nסימני אופציות וזרימת הזמנות מעורבים: יש הימורים אופטימיים מסוימים, אך גם פעילות גידור, מה שמצביע על תנודתיות לטווח קצר ולא על השקעה ברורה בכיוון מסוים.\nניתוח פעילות אופציות\nנייטרלי:\nבעלות מוסדית נותרה גבוהה (כ-67%), מה שמספק...",
+    "השינויים כלפי מטה של האנליסטים: חברת Leerink הפחיתה את תחזיות ה-EPS לרבעון השלישי ולתקופה הרב-שנתית (הורדה לרבעון השלישי ל-~$0.70 והערכות לשנת הפיסקלית קוצצו), מה שמחליש את הציפיות לרווחים בטווח הקצר וייתכן שישפיע על מחיר המניה.",
+    "תחזית רווחים\n\nפורסם לפני שעה אחת\n\nAI Generated.",
+    "בנק ההשקעות Berenberg שומר על המלצה של \"החזקה\" (Hold) לפני רבעון השלישי, מה שמצביע על היעדר שינוי באמונה לטווח הקצר מצד אנליסט מבוסס אירופה - השפעה נייטרלית על המסחר.",
+    "מניות נסחרות במגמה שלילית לאחר שילוב של הורדות דירוג על ידי אנליסטים ותגובות זהירות לפני פרסום הדוחות הכספיים, שנבלמו חלקית על ידי התקדמות קלינית ועניין פעיל באופציות."
+  ],
+  "compact_analysis": "{\"ticker\": \"PFE\", \"companies\": [\"Pfizer Inc.\", \"PFE\", \"Pfizer\", \"Berenberg\", \"Leerink\", \"AI Generated\"], \"people\": [], \"sentiment\": {\"overall\": \"neutral\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"healthcare\", \"key_points\": [{\"text\": \"Berenberg Hold\\nNeutral Sentiment:\\nOptions and order‑flow signals are mixed: some bullish bets but also hedging activity, indicating short‑term volatility rather than a clear directional conviction.\\nDecoding Options Activity\\nNeutral Sentiment:\\nInstitutional ownership remains high (~67%), which provid\", \"importance_score\": 22, \"sentiment\": \"neutral\"}, {\"text\": \"Analyst downward revisions: Leerink cut Q3 and multi‑year EPS forecasts (Q3 lowered to ~$0.70 and FY estimates trimmed), which undercuts near‑term earnings expectations and likely weighs on the stock.\", \"importance_score\": 21, \"sentiment\": \"neutral\"}, {\"text\": \"Earnings Preview\\nPosted 1h ago\\nAI Generated.\", \"importance_score\": 18, \"sentiment\": \"neutral\"}, {\"text\": \"Berenberg maintains a “Hold” ahead of Q3, signaling no change in near‑term conviction from a Europe‑based analyst — a neutral influence on trading.\", \"importance_score\": 17, \"sentiment\": \"neutral\"}, {\"text\": \"Shares are trading lower after a mix of analyst downgrades and cautious pre-earnings commentary, partly offset by clinical progress and active options interest.\", \"importance_score\": 15, \"sentiment\": \"neutral\"}], \"money_amounts\": [], \"important_dates\": [\"Q3\", \"next week\", \"FY\", \"1h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Pfizer\", \"verb\": \"reported\", \"object\": \"study\", \"importance\": 2}, {\"subject\": \"which\", \"verb\": \"supports\", \"object\": \"story\", \"importance\": 2}, {\"subject\": \"Berenberg\", \"verb\": \"maintains\", \"object\": \"Hold\", \"importance\": 5}, {\"subject\": \"which\", \"verb\": \"provides\", \"object\": \"support\", \"importance\": 7}, {\"subject\": \"Leerink\", \"verb\": \"cut\", \"object\": \"forecasts\", \"importance\": 7}], \"business_context\": []}"
+}
