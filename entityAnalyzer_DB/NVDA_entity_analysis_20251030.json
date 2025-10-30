@@ -1,0 +1,112 @@
+{
+  "ticker": "NVDA",
+  "timestamp": "2025-10-30T04:25:31.018858",
+  "companies": [
+    "NVIDIA Corporation",
+    "NVDA",
+    "GTC",
+    "NVIDIA",
+    "Nokia",
+    "Nvidia",
+    "NOK",
+    "Bank of America",
+    "Needham",
+    "Cantor Fitzgerald",
+    "NVQLink",
+    "Nine Scientific Labs",
+    "Seaport Global",
+    "Seaport Global Securities",
+    "AI Generated"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "neutral",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "Positive Sentiment:\nNVIDIA agreed to make a $1.0 billion equity investment in Nokia and deepen an AI‑RAN partnership — a strategic move into telecom infrastructure that expands potential AI market reach and validated by investors as a growth catalyst.\nRetail Sentiment Soars After Nvidia’s $1B Nokia ",
+      "importance_score": 76,
+      "sentiment": "positive"
+    },
+    {
+      "text": "NVIDIA (NASDAQ:NVDA) Price Target Raised to $275.00 at Bank of America\nNeutral Sentiment:\nNVIDIA set a Nov. 19 conference call to discuss Q3 fiscal 2026 results (webcast + analyst Q&A).",
+      "importance_score": 54,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Nvidia poised for record $5 trillion market valuation\nPositive Sentiment:\nMultiple analyst upgrades and raised price targets (Bank of America, Needham, Cantor Fitzgerald, etc.) are lifting sentiment and fueling flows into the stock.",
+      "importance_score": 53,
+      "sentiment": "positive"
+    },
+    {
+      "text": "NVIDIA Introduces NVQLink — Connecting Quantum and GPU Computing for 17 Quantum Builders and Nine Scientific Labs\nNegative Sentiment:\nNot all voices are bullish — Seaport Global reiterated a \"sell\" rating today, reminding investors that high valuation leaves NVDA vulnerable to any disappointment.",
+      "importance_score": 50,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Giving Nvidia's Blackwell chip to China would slash US's AI advantage, experts say\nNegative Sentiment:\nInsider selling by CEO Jen‑Hsun Huang (small percentage of holdings) has been reported repeatedly this week; while expected at large caps, it can add short‑term noise.\nInsider Selling: NVIDIA (NASD",
+      "importance_score": 44,
+      "sentiment": "negative"
+    }
+  ],
+  "money_amounts": [
+    "$1.0 billion",
+    "1B",
+    "$5 trillion",
+    "275.00"
+  ],
+  "important_dates": [
+    "today",
+    "Nov. 19",
+    "Q3 fiscal 2026",
+    "Q3 Fiscal 2026",
+    "this week",
+    "2h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "investors",
+      "verb": "digest",
+      "object": "wave",
+      "importance": 10
+    },
+    {
+      "subject": "each",
+      "verb": "means",
+      "object": "what",
+      "importance": 0
+    },
+    {
+      "subject": "that",
+      "verb": "expands",
+      "object": "reach",
+      "importance": 18
+    },
+    {
+      "subject": "Bet",
+      "verb": "Pumps",
+      "object": "Shares",
+      "importance": 18
+    },
+    {
+      "subject": "announcements",
+      "verb": "reinforce",
+      "object": "visibility",
+      "importance": 6
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x17025dc40>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x17028a070>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x17028aa90>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x170281430>: Failed to establish a new connection: [Errno 61] Connection refused'))]",
+    "[שגיאה בתרגום: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x170281d90>: Failed to establish a new connection: [Errno 61] Connection refused'))]"
+  ],
+  "compact_analysis": "{\"ticker\": \"NVDA\", \"companies\": [\"NVIDIA Corporation\", \"NVDA\", \"GTC\", \"NVIDIA\", \"Nokia\", \"Nvidia\", \"NOK\", \"Bank of America\", \"Needham\", \"Cantor Fitzgerald\", \"NVQLink\", \"Nine Scientific Labs\", \"Seaport Global\", \"Seaport Global Securities\", \"AI Generated\"], \"people\": [], \"sentiment\": {\"overall\": \"neutral\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"Positive Sentiment:\\nNVIDIA agreed to make a $1.0 billion equity investment in Nokia and deepen an AI‑RAN partnership — a strategic move into telecom infrastructure that expands potential AI market reach and validated by investors as a growth catalyst.\\nRetail Sentiment Soars After Nvidia’s $1B Nokia \", \"importance_score\": 76, \"sentiment\": \"positive\"}, {\"text\": \"NVIDIA (NASDAQ:NVDA) Price Target Raised to $275.00 at Bank of America\\nNeutral Sentiment:\\nNVIDIA set a Nov. 19 conference call to discuss Q3 fiscal 2026 results (webcast + analyst Q&A).\", \"importance_score\": 54, \"sentiment\": \"neutral\"}, {\"text\": \"Nvidia poised for record $5 trillion market valuation\\nPositive Sentiment:\\nMultiple analyst upgrades and raised price targets (Bank of America, Needham, Cantor Fitzgerald, etc.) are lifting sentiment and fueling flows into the stock.\", \"importance_score\": 53, \"sentiment\": \"positive\"}, {\"text\": \"NVIDIA Introduces NVQLink — Connecting Quantum and GPU Computing for 17 Quantum Builders and Nine Scientific Labs\\nNegative Sentiment:\\nNot all voices are bullish — Seaport Global reiterated a \\\"sell\\\" rating today, reminding investors that high valuation leaves NVDA vulnerable to any disappointment.\", \"importance_score\": 50, \"sentiment\": \"negative\"}, {\"text\": \"Giving Nvidia's Blackwell chip to China would slash US's AI advantage, experts say\\nNegative Sentiment:\\nInsider selling by CEO Jen‑Hsun Huang (small percentage of holdings) has been reported repeatedly this week; while expected at large caps, it can add short‑term noise.\\nInsider Selling: NVIDIA (NASD\", \"importance_score\": 44, \"sentiment\": \"negative\"}], \"money_amounts\": [\"$1.0 billion\", \"1B\", \"$5 trillion\", \"275.00\"], \"important_dates\": [\"today\", \"Nov. 19\", \"Q3 fiscal 2026\", \"Q3 Fiscal 2026\", \"this week\", \"2h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"investors\", \"verb\": \"digest\", \"object\": \"wave\", \"importance\": 10}, {\"subject\": \"each\", \"verb\": \"means\", \"object\": \"what\", \"importance\": 0}, {\"subject\": \"that\", \"verb\": \"expands\", \"object\": \"reach\", \"importance\": 18}, {\"subject\": \"Bet\", \"verb\": \"Pumps\", \"object\": \"Shares\", \"importance\": 18}, {\"subject\": \"announcements\", \"verb\": \"reinforce\", \"object\": \"visibility\", \"importance\": 6}], \"business_context\": []}"
+}

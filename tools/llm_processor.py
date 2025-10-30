@@ -1,6 +1,6 @@
 import os
 from tools.logger import setup_logging
-from tools.config import get_max_tokens, LLM_MODEL_SETTINGS, LLM_OUTPUT_SETTINGS
+from tools.config import get_max_tokens, LLM_MODEL_SETTINGS
 from tools.text_processing import fix_hebrew_grammar_errors, convert_tagged_text_to_html
 from tools.entity_analyzer import analyze_text_for_llm_with_cache
 import re
@@ -342,7 +342,7 @@ def generate_hebrew_article(ticker, entity_analysis, vocabulary, original_text=N
                 "model": LLM_MODEL_SETTINGS['model_name'],
                 "prompt": prompt,
                 "options": {
-                    "num_predict": LLM_OUTPUT_SETTINGS.get("default_max_tokens", 5000),  # Use config value
+                    "num_predict": 1024,
                     "temperature": LLM_MODEL_SETTINGS.get('temperature', 0.7),
                     "top_p": LLM_MODEL_SETTINGS.get('top_p', 0.9),
                 },
@@ -392,7 +392,7 @@ def improve_hebrew_article(article_text, ticker_info, vocabulary_examples=None, 
             "model": LLM_MODEL_SETTINGS['model_name'],
             "prompt": prompt,
             "options": {
-                "num_predict": max_tokens or LLM_OUTPUT_SETTINGS.get("default_max_tokens", 5000),  # Use config value
+                "num_predict": max_tokens or 1024,
                 "temperature": LLM_MODEL_SETTINGS.get('temperature', 0.7),
                 "top_p": LLM_MODEL_SETTINGS.get('top_p', 0.9),
             },

@@ -4,9 +4,9 @@ Configuration settings for LLM processing
 
 # LLM Output Settings
 LLM_OUTPUT_SETTINGS = {
-    "default_max_tokens": 5000,  # Increased to use most of 8192 context (leaves ~3000 for prompt)
-    "short_article_max_tokens": 3000,  # Increased for short articles
-    "long_article_max_tokens": 6000,  # Increased to use most of 8192 context (leaves ~2000 for prompt)
+    "default_max_tokens": 2000,  # Default maximum words for output
+    "short_article_max_tokens": 1000,  # For short articles
+    "long_article_max_tokens": 3000,  # For long articles
     "min_tokens": 500,  # Minimum words for output
 }
 
