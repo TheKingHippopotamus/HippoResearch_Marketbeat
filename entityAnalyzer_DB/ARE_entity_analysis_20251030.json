@@ -1,0 +1,103 @@
+{
+  "ticker": "ARE",
+  "timestamp": "2025-10-30T08:44:28.608086",
+  "companies": [
+    "Alexandria Real Estate Equities, Inc.",
+    "ARE",
+    "Yahoo Finance",
+    "Seeking Alpha",
+    "BNP Paribas Exane",
+    "upcoming quarters",
+    "AI Generated"
+  ],
+  "people": [],
+  "sentiment": {
+    "overall": "negative",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "real_estate",
+  "key_points": [
+    {
+      "text": "Alexandria Real Estate Equities, Inc. (NYSE: ARE) is trading lower after a string of negative headlines following its Q3 2025 results.",
+      "importance_score": 32,
+      "sentiment": "negative"
+    },
+    {
+      "text": "MSN\nNegative Sentiment:\nAnalysts reacted: BNP Paribas Exane lowered its price target to $72 and assigned an “underperform” rating, and other shops cut estimates — increasing sell-side pressure.",
+      "importance_score": 29,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Bisnow\nNegative Sentiment:\nStock set a new 52-week / 12-month low as downgrades and the guidance/revenue miss prompted heavy selling.",
+      "importance_score": 21,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Investors reacted to an EPS/affo miss, reduced AFFO/FFO guidance, warnings of deeper losses and analyst downgrades — news that pushed the stock to a new 52-week low on heavy volume.",
+      "importance_score": 18,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Posted 6h ago\nAI Generated.",
+      "importance_score": 15,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "72"
+  ],
+  "important_dates": [
+    "Q3 2025",
+    "52-week",
+    "the quarter",
+    "Q3",
+    "2025",
+    "FY",
+    "12-month",
+    "6h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "that",
+      "verb": "pushed",
+      "object": "stock",
+      "importance": 7
+    },
+    {
+      "subject": "management",
+      "verb": "signaling",
+      "object": "outlook",
+      "importance": 3
+    },
+    {
+      "subject": "Company",
+      "verb": "highlighted",
+      "object": "lease",
+      "importance": 2
+    },
+    {
+      "subject": "that",
+      "verb": "demonstrates",
+      "object": "demand",
+      "importance": 2
+    },
+    {
+      "subject": "some",
+      "verb": "view",
+      "object": "miss",
+      "importance": 1
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "חברת Alexandria Real Estate Equities, Inc. (NYSE: ARE) סוחרת במחיר נמוך לאחר סדרה של כותרות שליליות בעקבות תוצאות הרבעון השלישי (Q3) לשנת 2025.",
+    "אנליסטים הגיבו: חברת BNP Paribas Exane הפחיתה את יעד המחיר ל-72 דולר והעניקה דירוג \"תחת הביצועים\", בעוד שבתי השקעות אחרים צמצמו את התחזיות - מה שמגביר את הלחץ מצד מכירות.",
+    "המשקה במניות של [Bisnow] הגיע לשפל חדש של 52 שבועות ו-12 חודשים, כתוצאה ממחוות דירוג נמוכות ומהמחסור בהנחיות/בכנסות הצפויות, מה שהוביל למכירות כבדות.",
+    "השקעים הגיבו לפספוס של EPS/affo, הפחיתו את ההנחיות ל-AFFO/FFO, הזהירו על הפסדים עמוקים יותר והורידו את דירוגי האנליסטים - חדשות שדחפו את המניה לשפל חדש של 52 שבועות בנפח מסחר כבד.",
+    "פורסם לפני 6 שעות\n\nAI Generated"
+  ],
+  "compact_analysis": "{\"ticker\": \"ARE\", \"companies\": [\"Alexandria Real Estate Equities, Inc.\", \"ARE\", \"Yahoo Finance\", \"Seeking Alpha\", \"BNP Paribas Exane\", \"upcoming quarters\", \"AI Generated\"], \"people\": [], \"sentiment\": {\"overall\": \"negative\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"real_estate\", \"key_points\": [{\"text\": \"Alexandria Real Estate Equities, Inc. (NYSE: ARE) is trading lower after a string of negative headlines following its Q3 2025 results.\", \"importance_score\": 32, \"sentiment\": \"negative\"}, {\"text\": \"MSN\\nNegative Sentiment:\\nAnalysts reacted: BNP Paribas Exane lowered its price target to $72 and assigned an “underperform” rating, and other shops cut estimates — increasing sell-side pressure.\", \"importance_score\": 29, \"sentiment\": \"negative\"}, {\"text\": \"Bisnow\\nNegative Sentiment:\\nStock set a new 52-week / 12-month low as downgrades and the guidance/revenue miss prompted heavy selling.\", \"importance_score\": 21, \"sentiment\": \"negative\"}, {\"text\": \"Investors reacted to an EPS/affo miss, reduced AFFO/FFO guidance, warnings of deeper losses and analyst downgrades — news that pushed the stock to a new 52-week low on heavy volume.\", \"importance_score\": 18, \"sentiment\": \"neutral\"}, {\"text\": \"Posted 6h ago\\nAI Generated.\", \"importance_score\": 15, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"72\"], \"important_dates\": [\"Q3 2025\", \"52-week\", \"the quarter\", \"Q3\", \"2025\", \"FY\", \"12-month\", \"6h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"that\", \"verb\": \"pushed\", \"object\": \"stock\", \"importance\": 7}, {\"subject\": \"management\", \"verb\": \"signaling\", \"object\": \"outlook\", \"importance\": 3}, {\"subject\": \"Company\", \"verb\": \"highlighted\", \"object\": \"lease\", \"importance\": 2}, {\"subject\": \"that\", \"verb\": \"demonstrates\", \"object\": \"demand\", \"importance\": 2}, {\"subject\": \"some\", \"verb\": \"view\", \"object\": \"miss\", \"importance\": 1}], \"business_context\": []}"
+}
