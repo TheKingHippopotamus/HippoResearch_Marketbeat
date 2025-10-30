@@ -1,0 +1,116 @@
+{
+  "ticker": "MOH",
+  "timestamp": "2025-10-30T08:37:21.798468",
+  "companies": [
+    "Molina Healthcare, Inc.",
+    "MOH",
+    "ClaimsFiler",
+    "Molina",
+    "Molina Healthcare",
+    "Glancy Prongay & Murray",
+    "Bronstein, Gewirtz & Grossman",
+    "Bronstein",
+    "Faruqi & Faruqi",
+    "Faruqi & Faruqi\nNegative Sentiment",
+    "Kahn Swick & Foti",
+    "LA AG",
+    "Schall",
+    "RGRD",
+    "Rosen",
+    "BFA",
+    "Howard G. Smith",
+    "BFA Law",
+    "Robbins Geller",
+    "C.D. Cal.",
+    "AI Generated"
+  ],
+  "people": [
+    "Hindlemann"
+  ],
+  "sentiment": {
+    "overall": "negative",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "healthcare",
+  "key_points": [
+    {
+      "text": "Kahn Swick & Foti (with former LA AG) and other firms (Schall, RGRD, Rosen, BFA, Howard G. Smith) have issued similar shareholder alerts — multiplying notice volume and signaling sustained litigation attention.",
+      "importance_score": 60,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Molina Healthcare, Inc. (MOH) is trading lower after a flood of securities‑litigation notices and law‑firm solicitations tied to a class period from Feb. 5, 2025 through July 23, 2025.",
+      "importance_score": 37,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Molina Healthcare Shareholder Alert: ClaimsFiler\nNegative Sentiment:\nGlancy Prongay & Murray issues a deadline alert urging Molina investors who lost money to contact the firm about the securities‑fraud suit.",
+      "importance_score": 34,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Deadline Alert: Glancy Prongay & Murray\nNegative Sentiment:\nBronstein, Gewirtz & Grossman notifies investors that a class action naming Molina and certain officers has been filed and that harmed investors may seek lead‑plaintiff status.",
+      "importance_score": 32,
+      "sentiment": "negative"
+    },
+    {
+      "text": "Robbins Geller and others notify potential witnesses/investors about the pending Hindlemann v. Molina Healthcare class action (C.D. Cal.) and the Dec. 2 deadline.",
+      "importance_score": 32,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    ">$100,000"
+  ],
+  "important_dates": [
+    "Feb. 5, 2025",
+    "July 23, 2025",
+    "Dec. 2, 2025",
+    "Dec. 2",
+    "4h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "firms",
+      "verb": "asking",
+      "object": "investors",
+      "importance": 5
+    },
+    {
+      "subject": "risk",
+      "verb": "increasing",
+      "object": "pressure",
+      "importance": 4
+    },
+    {
+      "subject": "ClaimsFiler",
+      "verb": "reminds",
+      "object": "investors",
+      "importance": 7
+    },
+    {
+      "subject": "Prongay",
+      "verb": "issues",
+      "object": "alert",
+      "importance": 9
+    },
+    {
+      "subject": "who",
+      "verb": "lost",
+      "object": "money",
+      "importance": 9
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "חברות כמו Kahn Swick & Foti (לשעבר LA AG) וחברות נוספות (Schall, RGRD, Rosen, BFA, Howard G. Smith) הוציאו התראות דומות לבעלי מניות - הכפלת נפח ההודעות והצגת התמקדות מתמשכת בהליכים משפטיים.",
+    "מ Healthcare, Inc. (MOH) סוחרה במחיר נמוך יותר לאחר גל של הודעות תביעות ניירות ערך והצעות ממשרדים משפטיים הקשורים לתקופה של כיתה ממאי 5, 2025 עד 23 ביולי, 2025.",
+    "הודעה למשקיעי Molina Healthcare: ClaimsFiler\n\nהחברה Glancy Prongay & Murray פונה בדחיפות למשקיעים ב-Molina Healthcare שאיבדו כספים, ומזכירה להם את המועד האחרון להגשת תביעה בנושא הונאת ניירות ערך.",
+    "הודעה על מועד אחרון:\n\nGlancy Prongay & Murray מודיעים למשקיעים כי הוגעה תביעה קולקטיבית נגד Molina ונגד בכירים מסוימים בחברה, וכי משקיעים שנפגעו עשויים לבקש מעמד של תובעים ראשיים.\n\nBronstein, Gewirtz & Grossman מיידע את המשקיעים על הגשת התביעה והעובדה שהמשקיעים הנפגעים יכולים לשאוף למעמד של תובעים ראשיים.",
+    "חברת Robbins Geller יחד עם אחרים מודיעים לעדי פוטנציאליים/משקיעים על התביעה המשותפת הצפויה (Hindlemann) נגד Molina Healthcare (C.D. Cal.) ותובת המועד האחרון לדצמבר 2."
+  ],
+  "compact_analysis": "{\"ticker\": \"MOH\", \"companies\": [\"Molina Healthcare, Inc.\", \"MOH\", \"ClaimsFiler\", \"Molina\", \"Molina Healthcare\", \"Glancy Prongay & Murray\", \"Bronstein, Gewirtz & Grossman\", \"Bronstein\", \"Faruqi & Faruqi\", \"Faruqi & Faruqi\\nNegative Sentiment\", \"Kahn Swick & Foti\", \"LA AG\", \"Schall\", \"RGRD\", \"Rosen\", \"BFA\", \"Howard G. Smith\", \"BFA Law\", \"Robbins Geller\", \"C.D. Cal.\", \"AI Generated\"], \"people\": [\"Hindlemann\"], \"sentiment\": {\"overall\": \"negative\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"healthcare\", \"key_points\": [{\"text\": \"Kahn Swick & Foti (with former LA AG) and other firms (Schall, RGRD, Rosen, BFA, Howard G. Smith) have issued similar shareholder alerts — multiplying notice volume and signaling sustained litigation attention.\", \"importance_score\": 60, \"sentiment\": \"neutral\"}, {\"text\": \"Molina Healthcare, Inc. (MOH) is trading lower after a flood of securities‑litigation notices and law‑firm solicitations tied to a class period from Feb. 5, 2025 through July 23, 2025.\", \"importance_score\": 37, \"sentiment\": \"neutral\"}, {\"text\": \"Molina Healthcare Shareholder Alert: ClaimsFiler\\nNegative Sentiment:\\nGlancy Prongay & Murray issues a deadline alert urging Molina investors who lost money to contact the firm about the securities‑fraud suit.\", \"importance_score\": 34, \"sentiment\": \"negative\"}, {\"text\": \"Deadline Alert: Glancy Prongay & Murray\\nNegative Sentiment:\\nBronstein, Gewirtz & Grossman notifies investors that a class action naming Molina and certain officers has been filed and that harmed investors may seek lead‑plaintiff status.\", \"importance_score\": 32, \"sentiment\": \"negative\"}, {\"text\": \"Robbins Geller and others notify potential witnesses/investors about the pending Hindlemann v. Molina Healthcare class action (C.D. Cal.) and the Dec. 2 deadline.\", \"importance_score\": 32, \"sentiment\": \"neutral\"}], \"money_amounts\": [\">$100,000\"], \"important_dates\": [\"Feb. 5, 2025\", \"July 23, 2025\", \"Dec. 2, 2025\", \"Dec. 2\", \"4h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"firms\", \"verb\": \"asking\", \"object\": \"investors\", \"importance\": 5}, {\"subject\": \"risk\", \"verb\": \"increasing\", \"object\": \"pressure\", \"importance\": 4}, {\"subject\": \"ClaimsFiler\", \"verb\": \"reminds\", \"object\": \"investors\", \"importance\": 7}, {\"subject\": \"Prongay\", \"verb\": \"issues\", \"object\": \"alert\", \"importance\": 9}, {\"subject\": \"who\", \"verb\": \"lost\", \"object\": \"money\", \"importance\": 9}], \"business_context\": []}"
+}
