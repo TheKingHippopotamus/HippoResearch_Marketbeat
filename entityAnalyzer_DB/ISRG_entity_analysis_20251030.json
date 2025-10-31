@@ -1,0 +1,105 @@
+{
+  "ticker": "ISRG",
+  "timestamp": "2025-10-30T09:59:02.488932",
+  "companies": [
+    "Intuitive Surgical, Inc.",
+    "ISRG",
+    "Intuitive",
+    "Argus",
+    "Intuitive Surgical",
+    "Zacks/Yahoo",
+    "Boston Scientific",
+    "da Vinci 5",
+    "AI Generated"
+  ],
+  "people": [
+    "Craig Barratt"
+  ],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "Argus Raises Intuitive Surgical Price Target\nPositive Sentiment:\nFeatured bullish coverage — ISRG was highlighted as a bullish pick (Zacks/Yahoo), reinforcing investor interest from growth-focused analysts.",
+      "importance_score": 39,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Analyst price-target lift — Argus raised its price target to $630, and other firms have increased targets following the quarter, supporting upside case and buy ratings.",
+      "importance_score": 27,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Positive Sentiment:\nQ3 beat and da Vinci 5 momentum — Intuitive reported strong Q3 results with ~20–25% revenue growth and heavy da Vinci 5 adoption, which analysts say is driving the recent top-line acceleration.",
+      "importance_score": 26,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Moderate Buy Consensus\nNeutral Sentiment:\nAnalyst Q&A highlights execution risks — The Q3 earnings call prompted analyst questions around sustainment of da Vinci 5 momentum, margin trajectories and market penetration — topics investors will watch for forward guidance.",
+      "importance_score": 26,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Peer comparison — Analysts note ISRG’s growth strategy contrasts with peers like Boston Scientific, which may affect relative risk/return depending on investor preference for growth vs. diversification.",
+      "importance_score": 26,
+      "sentiment": "positive"
+    }
+  ],
+  "money_amounts": [
+    "630",
+    "~$1.2M"
+  ],
+  "important_dates": [
+    "Q3",
+    "today",
+    "quarter",
+    "the Day",
+    "7h ago"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Intuitive",
+      "verb": "reported",
+      "object": "results",
+      "importance": 9
+    },
+    {
+      "subject": "which",
+      "verb": "driving",
+      "object": "acceleration",
+      "importance": 9
+    },
+    {
+      "subject": "Argus",
+      "verb": "raised",
+      "object": "target",
+      "importance": 7
+    },
+    {
+      "subject": "firms",
+      "verb": "increased",
+      "object": "targets",
+      "importance": 7
+    },
+    {
+      "subject": "Argus",
+      "verb": "Raises",
+      "object": "Target",
+      "importance": 10
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "חברת Argus העלתה את יעד המחיר של חברת Intuitive Surgical.\n\nניתוח חיובי:\nכיסוי אופטימי - חברת ISRG (Intuitive Surgical, Inc.) הוצגה כבחירה אופטימית על ידי אנליסטים המתמקדים בצמיחה ([Zacks/Yahoo]), מה שמחזק את עניין המשקיעים.",
+    "העלייה במחיר היעד של האנליסט - חברת Argus העלתה את מחיר היעד שלה ל-630 דולר, וחברות אחרות הגבירו גם הן את יעדיהן לאחר הרבעון, מה שמחזק את המקרה לעלייה במחיר ומעצים דירוגי קנייה.",
+    "נטייה חיובית:\nרבעון שלישי מעל לציפיות ומגמת צמיחה של [da Vinci 5] - חברת [Intuitive] דיווחה על תוצאות חזקות לרבעון השלישי עם צמיחת הכנסות של כ-20-25% ואימוץ נרחב של [da Vinci 5], מה שאנליסטים מייחסים להאצת ההכנסות האחרונות.",
+    "קונצנזוס קנייה מתון\nנטייה נייטרלית:\nשאלות של אנליסטים מדגישות סיכוני ביצוע - שיחת התוצאות הרבעונית עוררה שאלות מצד האנליסטים בנוגע לשמירה על המומנטום של da Vinci 5, נתיבי רווח וחדירה לשוק - נושאים שהמשקיעים יצפו לעדכונים עליהם בהנחיות לעתיד.",
+    "השוואה בין עמיתים - אנליסטים מציינים את אסטרטגיית הצמיחה של [ISRG] (ISRG) שונה מזו של עמיתים כמו [Boston Scientific] (Boston Scientific), מה שעלול להשפיע על הסיכון היחסי/תשואה בהתאם להעדפת המשקיע לצמיחה לעומת גיוון."
+  ],
+  "compact_analysis": "{\"ticker\": \"ISRG\", \"companies\": [\"Intuitive Surgical, Inc.\", \"ISRG\", \"Intuitive\", \"Argus\", \"Intuitive Surgical\", \"Zacks/Yahoo\", \"Boston Scientific\", \"da Vinci 5\", \"AI Generated\"], \"people\": [\"Craig Barratt\"], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"Argus Raises Intuitive Surgical Price Target\\nPositive Sentiment:\\nFeatured bullish coverage — ISRG was highlighted as a bullish pick (Zacks/Yahoo), reinforcing investor interest from growth-focused analysts.\", \"importance_score\": 39, \"sentiment\": \"positive\"}, {\"text\": \"Analyst price-target lift — Argus raised its price target to $630, and other firms have increased targets following the quarter, supporting upside case and buy ratings.\", \"importance_score\": 27, \"sentiment\": \"neutral\"}, {\"text\": \"Positive Sentiment:\\nQ3 beat and da Vinci 5 momentum — Intuitive reported strong Q3 results with ~20–25% revenue growth and heavy da Vinci 5 adoption, which analysts say is driving the recent top-line acceleration.\", \"importance_score\": 26, \"sentiment\": \"positive\"}, {\"text\": \"Moderate Buy Consensus\\nNeutral Sentiment:\\nAnalyst Q&A highlights execution risks — The Q3 earnings call prompted analyst questions around sustainment of da Vinci 5 momentum, margin trajectories and market penetration — topics investors will watch for forward guidance.\", \"importance_score\": 26, \"sentiment\": \"neutral\"}, {\"text\": \"Peer comparison — Analysts note ISRG’s growth strategy contrasts with peers like Boston Scientific, which may affect relative risk/return depending on investor preference for growth vs. diversification.\", \"importance_score\": 26, \"sentiment\": \"positive\"}], \"money_amounts\": [\"630\", \"~$1.2M\"], \"important_dates\": [\"Q3\", \"today\", \"quarter\", \"the Day\", \"7h ago\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Intuitive\", \"verb\": \"reported\", \"object\": \"results\", \"importance\": 9}, {\"subject\": \"which\", \"verb\": \"driving\", \"object\": \"acceleration\", \"importance\": 9}, {\"subject\": \"Argus\", \"verb\": \"raised\", \"object\": \"target\", \"importance\": 7}, {\"subject\": \"firms\", \"verb\": \"increased\", \"object\": \"targets\", \"importance\": 7}, {\"subject\": \"Argus\", \"verb\": \"Raises\", \"object\": \"Target\", \"importance\": 10}], \"business_context\": []}"
+}

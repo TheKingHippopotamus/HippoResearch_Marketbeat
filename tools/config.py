@@ -4,17 +4,19 @@ Configuration settings for LLM processing
 
 # LLM Output Settings
 LLM_OUTPUT_SETTINGS = {
-    "default_max_tokens": 3000,  # Default maximum words for output
-    "short_article_max_tokens": 1000,  # For short articles
+    "default_max_tokens": 4000,  # Default maximum words for output
+    "short_article_max_tokens": 2000,  # For short articles
     "long_article_max_tokens": 4000,  # For long articles
-    "min_tokens": 200,  # Minimum words for output
+    "min_tokens": 2000,  # Minimum words for output
 }
 
 # LLM Model Settings
 LLM_MODEL_SETTINGS = {
     "model_name": "aya-expanse:8b",
-    "temperature": 0.9,  # Creativity level (0.0 = deterministic, 1.0 = very creative)
-    "top_p": 0.9,  # Nucleus sampling parameter
+    "temperature": 0.7,  # Creativity level (0.0 = deterministic, 1.0 = very creative)
+    "top_p": 0.9,  # Nucleus sampling parameter (0.9 for generation, 0.7 for improvement)
+    "top_p_improve": 0.7,  # Lower top_p for improvement stage for more focused editing
+    "timeout": 300,  # Request timeout in seconds
 }
 
 # Content Settings

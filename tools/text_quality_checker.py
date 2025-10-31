@@ -6,7 +6,7 @@ Text Quality Checker for Hebrew Financial Writing
 
 import re
 from typing import Dict, List, Tuple, Optional
-from tools.hebrew_vocabulary import get_vocabulary_manager
+from ..data import get_vocabulary_manager
 
 class TextQualityChecker:
     """בודק איכות טקסט עברי כלכלי"""

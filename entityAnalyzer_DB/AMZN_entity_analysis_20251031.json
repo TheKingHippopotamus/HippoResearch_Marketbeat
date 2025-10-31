@@ -1,0 +1,107 @@
+{
+  "ticker": "AMZN",
+  "timestamp": "2025-10-31T10:17:48.402000",
+  "companies": [
+    "Amazon.com, Inc.",
+    "AMZN",
+    "Amazon",
+    "AWS",
+    "Amazon.com",
+    "Anthropic",
+    "Kalshi"
+  ],
+  "people": [
+    "AI Generated"
+  ],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "Positive Sentiment:\nAWS momentum — Cloud revenue grew ~20% (about $33B) — the fastest pace since 2022 — with management citing AI demand, which underpins upside to long‑term AWS margins and growth.\nAmazon cloud records 20% sales growth, topping estimates\nPositive Sentiment:\nAI infrastructure: Projec",
+      "importance_score": 142,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Amazon raises full-year capex guidance to $125B\nAmazon's CEO says its 14,000 job cuts weren't driven by costs or AI\nBottom line for investors: Q3 results and AWS strength are constructive for AMZN's long‑term story, but below‑consensus near‑term guidance, rising capex and restructuring costs explain",
+      "importance_score": 73,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Amazon posted a clear beat on revenue and EPS driven by a stronger-than-expected AWS (cloud) quarter and progress on large AI infrastructure projects, but cautious revenue guidance, higher capex and recent mass layoffs are creating intraday selling pressure even as shares rallied in after‑hours trad",
+      "importance_score": 52,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Positive Sentiment:\nQ3 earnings beat — Amazon reported $1.95 EPS vs. ~$1.57 consensus and revenue topped estimates; that upside is a primary driver of strength.\nAmazon.com (NASDAQ:AMZN) Announces Earnings Results",
+      "importance_score": 39,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Amazon raised full‑year capex guidance (~$125B) for AI/data centers and reported significant severance/layoff actions (14,000 cut this week) — both increase near‑term cash burn and execution risk.",
+      "importance_score": 33,
+      "sentiment": "positive"
+    }
+  ],
+  "money_amounts": [
+    "1.95",
+    "about $33B",
+    "$11B",
+    "125B"
+  ],
+  "important_dates": [
+    "Q3",
+    "a stronger-than-expected",
+    "quarter",
+    "2022",
+    "quarterly",
+    "this week",
+    "full-year"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "Amazon",
+      "verb": "posted",
+      "object": "beat",
+      "importance": 18
+    },
+    {
+      "subject": "guidance",
+      "verb": "creating",
+      "object": "pressure",
+      "importance": 18
+    },
+    {
+      "subject": "Amazon",
+      "verb": "reported",
+      "object": "EPS",
+      "importance": 9
+    },
+    {
+      "subject": "Amazon.com",
+      "verb": "Announces",
+      "object": "Results",
+      "importance": 9
+    },
+    {
+      "subject": "management",
+      "verb": "citing",
+      "object": "demand",
+      "importance": 42
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "מגמת צמיחה חיובית ב-AWS: הכנסות מענן גדלו בכ-20% (סביב 33 מיליארד דולר) - הקצב המהיר ביותר מאז 2022 - כאשר ההנהלה מייחסת את הביקוש ל-AI, התומך בפוטנציאל צמיחה ומרווחים חיוביים לטווח הארוך ב-AWS.\n\nענן של Amazon מדווחת על צמיחת מכירות של 20%, עולה על התחזיות.\n\nפרויקט תשתית AI חיובי.",
+    "חברת Amazon מעלה את תחזית ההשקעות הקפיטליות השנתיות המלאות ל-125 מיליארד דולר.\n\nלפי מנכ\"ל אמזון, 14,000 פיטורים לא היו מונעים על ידי עלויות או טכנולוגיית AI.\n\nלסיכום המשקיעים: תוצאות הרבעון השלישי וחוזקה של AWS הם חיוביים לסיפור הארוך-טווח של AMZN, אך תחזית קצרת-טווח מתחת לקונסנזוס, עלייה בהשקעות ובעלויות ארגון מסבירות זאת.",
+    "אמזון דיווחה על גידול ברור בהכנסות ו-EPS, בזכות רבעון ענן חזק מהצפוי של AWS (AWS) והתקדמות בפרויקטי תשתית AI גדולים, אך הנחיות ההכנסה השמרניות, ההשקעה הגבוהה יותר בהון חוזר ופיטורי העובדים ההמוניים האחרונים יוצרים לחץ מכירות במהלך היום, אף על פי שמניות החברה עלו במסחר לאחר השעות הרגילות.",
+    "תוצאות כספיות חיוביות:\nדוחות רבעון שלישי - אמזון דיווחה על רווח למניה (EPS) של 1.95 דולר לעומת קונצנזוס של כ-1.57 דולר והכנסות שעברו את התחזיות; הגורם העיקרי לעוצמה זו הוא הצד החיובי.\nאמזון.קום (NASDAQ: AMZN) מכריזה על תוצאות כספיות",
+    "אמזון העלתה את ההנחיות להשקעה קצרת-טווח לשנת הכספים המלאה (~125 מיליארד דולר) עבור מרכזי בינה מלאכותית ונתונים, וחשפה פעולות פיטורים משמעותיות (14,000 עובדים פוטרו השבוע) - שתיהן מגבירות את צריכת המזומן בטווח הקצר ומגדילות את סיכון הביצוע."
+  ],
+  "compact_analysis": "{\"ticker\": \"AMZN\", \"companies\": [\"Amazon.com, Inc.\", \"AMZN\", \"Amazon\", \"AWS\", \"Amazon.com\", \"Anthropic\", \"Kalshi\"], \"people\": [\"AI Generated\"], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"Positive Sentiment:\\nAWS momentum — Cloud revenue grew ~20% (about $33B) — the fastest pace since 2022 — with management citing AI demand, which underpins upside to long‑term AWS margins and growth.\\nAmazon cloud records 20% sales growth, topping estimates\\nPositive Sentiment:\\nAI infrastructure: Projec\", \"importance_score\": 142, \"sentiment\": \"positive\"}, {\"text\": \"Amazon raises full-year capex guidance to $125B\\nAmazon's CEO says its 14,000 job cuts weren't driven by costs or AI\\nBottom line for investors: Q3 results and AWS strength are constructive for AMZN's long‑term story, but below‑consensus near‑term guidance, rising capex and restructuring costs explain\", \"importance_score\": 73, \"sentiment\": \"neutral\"}, {\"text\": \"Amazon posted a clear beat on revenue and EPS driven by a stronger-than-expected AWS (cloud) quarter and progress on large AI infrastructure projects, but cautious revenue guidance, higher capex and recent mass layoffs are creating intraday selling pressure even as shares rallied in after‑hours trad\", \"importance_score\": 52, \"sentiment\": \"neutral\"}, {\"text\": \"Positive Sentiment:\\nQ3 earnings beat — Amazon reported $1.95 EPS vs. ~$1.57 consensus and revenue topped estimates; that upside is a primary driver of strength.\\nAmazon.com (NASDAQ:AMZN) Announces Earnings Results\", \"importance_score\": 39, \"sentiment\": \"positive\"}, {\"text\": \"Amazon raised full‑year capex guidance (~$125B) for AI/data centers and reported significant severance/layoff actions (14,000 cut this week) — both increase near‑term cash burn and execution risk.\", \"importance_score\": 33, \"sentiment\": \"positive\"}], \"money_amounts\": [\"1.95\", \"about $33B\", \"$11B\", \"125B\"], \"important_dates\": [\"Q3\", \"a stronger-than-expected\", \"quarter\", \"2022\", \"quarterly\", \"this week\", \"full-year\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"Amazon\", \"verb\": \"posted\", \"object\": \"beat\", \"importance\": 18}, {\"subject\": \"guidance\", \"verb\": \"creating\", \"object\": \"pressure\", \"importance\": 18}, {\"subject\": \"Amazon\", \"verb\": \"reported\", \"object\": \"EPS\", \"importance\": 9}, {\"subject\": \"Amazon.com\", \"verb\": \"Announces\", \"object\": \"Results\", \"importance\": 9}, {\"subject\": \"management\", \"verb\": \"citing\", \"object\": \"demand\", \"importance\": 42}], \"business_context\": []}"
+}

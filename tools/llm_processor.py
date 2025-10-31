@@ -1,7 +1,6 @@
 import os
 from tools.logger import setup_logging
-from tools.config import get_max_tokens, LLM_MODEL_SETTINGS
-from tools.text_processing import fix_hebrew_grammar_errors, convert_tagged_text_to_html
+from tools.config import get_max_tokens, LLM_MODEL_SETTINGS, LLM_OUTPUT_SETTINGS
 from tools.entity_analyzer import analyze_text_for_llm_with_cache
 import re
 import requests
@@ -37,30 +36,6 @@ def load_hebrew_vocabulary(context_text=None, max_terms=25, max_length=1000):
         return ""
 
 
-def parse_sentiment_blocks(text):
-    """
-    מחלק טקסט לבלוקים לפי סנטימנט (חיובי, נייטרלי, שלילי)
-    מחזיר dict: {'positive': [...], 'neutral': [...], 'negative': [...]}
-    """
-    blocks = {'positive': [], 'neutral': [], 'negative': []}
-    current = None
-    for line in text.splitlines():
-        line = line.strip()
-        if line.startswith('Positive Sentiment:'):
-            current = 'positive'
-            continue
-        elif line.startswith('Neutral Sentiment:'):
-            current = 'neutral'
-            continue
-        elif line.startswith('Negative Sentiment:'):
-            current = 'negative'
-            continue
-        elif line.startswith('Posted') or line.startswith('AI Generated') or not line:
-            continue
-        if current:
-            blocks[current].append(line)
-    return blocks
-
 def extract_entities(text):
     """
     
@@ -70,180 +45,8 @@ def extract_entities(text):
     pattern = re.compile(r'\b([A-Z][A-Za-z0-9&.()\-]+)\b')
     return set(pattern.findall(text))
 
-def hebrewize(text, entities=None):
-    """
-    ממיר טקסט לאנגלית בשפה עברית (פשוט: תרגום מילים בסיסי, שמירה על ישויות באנגלית)
-    """
-    if not text:
-        return ''
-    # שמור על ישויות באנגלית
-    if entities:
-        for ent in entities:
-            text = re.sub(rf'\b{re.escape(ent)}\b', f'[[{ent}]]', text)
-    # תרגום בסיסי (פייק): החלף מילים נפוצות
-    replacements = {
-        'shares': 'מניה',
-        'stock': 'מניה',
-        'price': 'מחיר',
-        'growth': 'צמיחה',
-        'decline': 'ירידה',
-        'increase': 'עלייה',
-        'decrease': 'ירידה',
-        'investor': 'משקיע',
-        'investors': 'משקיעים',
-        'company': 'חברה',
-        'earnings': 'רווחים',
-        'loss': 'הפסד',
-        'positive': 'חיובי',
-        'negative': 'שלילי',
-        'neutral': 'נייטרלי',
-        'report': 'דוח',
-        'target': 'יעד',
-        'forecast': 'תחזית',
-        'analyst': 'אנליסט',
-        'analysts': 'אנליסטים',
-        'agreement': 'הסכם',
-        'deal': 'עסקה',
-        'pipeline': 'צנרת',
-        'AI': 'בינה מלאכותית',
-        'innovation': 'חדשנות',
-        'risk': 'סיכון',
-        'opportunity': 'הזדמנות',
-        'market': 'שוק',
-        'revenue': 'הכנסה',
-        'profit': 'רווח',
-        'losses': 'הפסדים',
-        'buy': 'קנייה',
-        'sell': 'מכירה',
-        'hold': 'החזקה',
-        'rating': 'דירוג',
-        'outlook': 'תחזית',
-        'trend': 'מגמה',
-        'bullish': 'שורי',
-        'bearish': 'דובי',
-        'dividend': 'דיבידנד',
-        'partnership': 'שיתוף פעולה',
-        'acquisition': 'רכישה',
-        'merger': 'מיזוג',
-        'lawsuit': 'תביעה',
-        'legal': 'משפטי',
-        'court': 'בית משפט',
-        'CEO': 'מנכ"ל',
-        'CFO': 'סמנכ"ל כספים',
-        'Q2': 'רבעון שני',
-        'Q3': 'רבעון שלישי',
-        'Q4': 'רבעון רביעי',
-        'Q1': 'רבעון ראשון',
-    }
-    for en, he in replacements.items():
-        text = re.sub(rf'\b{en}\b', he, text, flags=re.IGNORECASE)
-    # החזר את הישויות המקוריות
-    if entities:
-        for ent in entities:
-            text = text.replace(f'[[{ent}]]', ent)
-    # סימון RTL
-    text = f'<span dir="rtl">{text}</span>'
-    return fix_hebrew_grammar_errors(text)
-
-def build_hebrew_article(title, sentiment_blocks, entities=None, as_html=True):
-    """
-    בונה HTML של מאמר בעברית עם שלושה בלוקים, או טקסט בלבד (אם as_html=False)
-    """
-    sentiment_titles = {
-        'positive': 'נקודות חיוביות',
-        'neutral': 'נקודות נייטרליות',
-        'negative': 'נקודות שליליות',
-    }
-    if as_html:
-        html = [f'<h1 dir="rtl" style="text-align:right">{title}</h1>']
-        for key in ['positive', 'neutral', 'negative']:
-            if sentiment_blocks[key]:
-                html.append(f'<h2 dir="rtl" style="text-align:right">{sentiment_titles[key]}</h2>')
-                html.append('<ul dir="rtl" style="text-align:right">')
-                for sent in sentiment_blocks[key]:
-                    heb = hebrewize(sent, entities)
-                    html.append(f'<li>{heb}</li>')
-                html.append('</ul>')
-        return '\n'.join(html)
-    else:
-        # טקסט בלבד
-        lines = [title]
-        for key in ['positive', 'neutral', 'negative']:
-            if sentiment_blocks[key]:
-                lines.append(f'--- {sentiment_titles[key]} ---')
-                for sent in sentiment_blocks[key]:
-                    heb = hebrewize(sent, entities)
-                    lines.append(f'- {heb}')
-        return '\n'.join(lines)
-
-def wrap_full_html(body_html, title="MarketBit מאמר בעברית"): 
-    """
-    עוטף את גוף המאמר ב-html מלא כולל head, RTL, meta וכו'.
-    """
-    return f'''<!DOCTYPE html>
-<html lang="he" dir="rtl">
-<head>
-    <meta charset="utf-8">
-    <title>{title}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <style>body {{ direction: rtl; text-align: right; font-family: Arial, sans-serif; }}</style>
-</head>
-<body>
-{body_html}
-</body>
-</html>'''
-
-def process_article_file(filepath, output_html_path=None, ticker=None, as_html=True):
-    """
-    קורא קובץ original, מפיק בלוקים, ממיר לעברית, בונה HTML מלא או טקסט בלבד, שומר/מחזיר פלט.
-    :param filepath: נתיב לקובץ original
-    :param output_html_path: נתיב לשמירת HTML (לא חובה)
-    :param ticker: סימול (לא חובה)
-    :param as_html: האם להחזיר HTML מלא (True) או טקסט בלבד (False)
-    :return: מחרוזת HTML או טקסט
-    """
-    if not os.path.exists(filepath):
-        logger.error(f"❌ File not found: {filepath}")
-        raise FileNotFoundError(f"File not found: {filepath}")
-    with open(filepath, 'r', encoding='utf-8') as f:
-        text = f.read()
-    if not text.strip():
-        logger.error(f"❌ File is empty: {filepath}")
-        raise ValueError(f"File is empty: {filepath}")
-    logger.info(f"🔍 Processing file: {filepath}")
-    # הפקת ישויות (אפשרי)
-    entities_context = None
-    if ticker:
-        try:
-            entities_context = analyze_text_for_llm_with_cache(text, ticker)
-        except Exception as e:
-            logger.warning(f"Entity analysis failed: {e}")
-    # כותרת ראשית
-    first_line = text.split('\n', 1)[0].strip()
-    entities = extract_entities(text)
-    title = hebrewize(first_line, entities)
-    # חלוקה לבלוקים
-    sentiment_blocks = parse_sentiment_blocks(text)
-    # בניית גוף המאמר
-    body = build_hebrew_article(title, sentiment_blocks, entities, as_html=as_html)
-    if as_html:
-        html = wrap_full_html(body, title=first_line)
-        html = convert_tagged_text_to_html(html)
-        if output_html_path:
-            with open(output_html_path, 'w', encoding='utf-8') as f:
-                f.write(html)
-            logger.info(f"✅ Saved HTML article to {output_html_path}")
-        return html
-    else:
-        if output_html_path:
-            with open(output_html_path, 'w', encoding='utf-8') as f:
-                f.write(body)
-            logger.info(f"✅ Saved text article to {output_html_path}")
-        return body
-
 def format_llm_output(text):
     """Convert markdown emphasis (**text**) to HTML <strong> tags and add line breaks."""
-    import re
     # Convert **text** to <strong>text</strong>
     text = re.sub(r'\*\*(.*?)\*\*', r'<strong>\1</strong>', text)
     # Add line breaks for better readability
@@ -336,19 +139,21 @@ def generate_hebrew_article(ticker, entity_analysis, vocabulary, original_text=N
 - אל תפתח עם משפטים כלליים - התחל עם משהו ספציפי ומעניין
 
 כתוב כתבה מקצועית ומעניינת בעברית:"""
+        # Use default max tokens from config for article generation
+        max_tokens_for_generation = get_max_tokens("default")
         response = requests.post(
             "http://localhost:11434/api/generate",
             json={
                 "model": LLM_MODEL_SETTINGS['model_name'],
                 "prompt": prompt,
                 "options": {
-                    "num_predict": 1024,
+                    "num_predict": max_tokens_for_generation,
                     "temperature": LLM_MODEL_SETTINGS.get('temperature', 0.7),
                     "top_p": LLM_MODEL_SETTINGS.get('top_p', 0.9),
                 },
                 "stream": False
             },
-            timeout=300,  # Increased from 120 to 300 seconds
+            timeout=LLM_MODEL_SETTINGS.get('timeout', 300),
         )
         response.raise_for_status()
         article = parse_ollama_response(response)
@@ -386,19 +191,21 @@ def improve_hebrew_article(article_text, ticker_info, vocabulary_examples=None, 
 
 **מאמר לעריכה:**
 {article_text}"""
+    # Use provided max_tokens or get default from config
+    max_tokens_for_improvement = max_tokens if max_tokens is not None else get_max_tokens("default")
     response = requests.post(
         "http://localhost:11434/api/generate",
         json={
             "model": LLM_MODEL_SETTINGS['model_name'],
             "prompt": prompt,
             "options": {
-                "num_predict": max_tokens or 1024,
+                "num_predict": max_tokens_for_improvement,
                 "temperature": LLM_MODEL_SETTINGS.get('temperature', 0.7),
-                "top_p": LLM_MODEL_SETTINGS.get('top_p', 0.9),
+                "top_p": LLM_MODEL_SETTINGS.get('top_p_improve', LLM_MODEL_SETTINGS.get('top_p', 0.7)),
             },
             "stream": False
         },
-        timeout=300,  # Increased from 120 to 300 seconds
+        timeout=LLM_MODEL_SETTINGS.get('timeout', 300),
     )
     response.raise_for_status()
     return parse_ollama_response(response)
@@ -450,19 +257,10 @@ def process_with_contextual_prompt(text_block, ticker_info, metadata_path=None, 
     improved_article = improve_hebrew_article(hebrew_article, ticker_info, vocabulary_examples=vocabulary, max_tokens=max_tokens)
     return improved_article
 
-# דוגמה לשימוש
+# Example usage
 if __name__ == '__main__':
-    import sys
-    import argparse
-    parser = argparse.ArgumentParser(description='Process MarketBit original txt to Hebrew HTML article.')
-    parser.add_argument('input', help='Path to original txt file')
-    parser.add_argument('--output', help='Output HTML/text file path', default=None)
-    parser.add_argument('--ticker', help='Ticker symbol (optional)', default=None)
-    parser.add_argument('--text', action='store_true', help='Output plain text instead of HTML')
-    args = parser.parse_args()
-    try:
-        result = process_article_file(args.input, args.output, args.ticker, as_html=not args.text)
-        print(result[:1000] + ('...\n[truncated]' if len(result) > 1000 else ''))
-    except Exception as e:
-        logger.error(f"❌ {e}")
-        print(f"Error: {e}")
+    print("This module provides LLM-based Hebrew article generation.")
+    print("Use process_with_contextual_prompt() for processing articles.")
+    print("Example:")
+    print("  from tools.llm_processor import process_with_contextual_prompt")
+    print("  result = process_with_contextual_prompt(text_block, ticker_info, metadata_path)")

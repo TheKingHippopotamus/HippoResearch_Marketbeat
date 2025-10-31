@@ -25,10 +25,10 @@ def clean_processed_text(text):
     text = re.sub(r'<p>\s*</p>', '', text)  # תגי p ריקים
     text = re.sub(r'<h\d>\s*</h\d>', '', text)  # תגי h ריקים
     
-    # תיקון שגיאות עברית נפוצות
-    text = re.sub(r'שוק המניות של\s+', 'מניית ', text)  # תיקון "שוק המניות של"
-    text = re.sub(r'המשקיעים יכול\b', 'המשקיעים יכולים', text)  # תיקון רבים/יחיד
-    text = re.sub(r'תנודתיות ל,\s*', 'תנודתיות בשוק, ', text)  # תיקון משפטים לא שלמים
+    # # תיקון שגיאות עברית נפוצות
+    # text = re.sub(r'שוק המניות של\s+', 'מניית ', text)  # תיקון "שוק המניות של"
+    # text = re.sub(r'המשקיעים יכול\b', 'המשקיעים יכולים', text)  # תיקון רבים/יחיד
+    # text = re.sub(r'תנודתיות ל,\s*', 'תנודתיות בשוק, ', text)  # תיקון משפטים לא שלמים
     
     # הסרת שורות ריקות מיותרות
     text = re.sub(r'\n\s*\n\s*\n', '\n\n', text)
@@ -108,7 +108,7 @@ def convert_tagged_text_to_html(text):
     para_hash_with_hash_pattern = re.compile(r'^##\s*#PARA#\s*(.*)$')
     para_hash_pattern = re.compile(r'^#PARA#\s*(.*)$')
     para_hash_triple_pattern = re.compile(r'^###\s*PARA#\s*(.*)$')
-    hebrew_para_pattern = re.compile(r'^#\s*פסקה\s+(ראשונה|שנייה|שלישית|רביעית|חמישית|שישית|שביעית|שמינית|תשיעית|עשירית):\s*(.*)$')
+    # hebrew_para_pattern = re.compile(r'^#\s*פסקה\s+(ראשונה|שנייה|שלישית|רביעית|חמישית|שישית|שביעית|שמינית|תשיעית|עשירית):\s*(.*)$')
     for line in lines:
         line = line.strip()
         if not line:
@@ -181,12 +181,12 @@ def convert_tagged_text_to_html(text):
             if para_text:
                 processed_lines.append(f'<p>{para_text}</p>')
             continue
-        m = hebrew_para_pattern.match(line)
-        if m:
-            para_text = m.group(2).strip()
-            if para_text:
-                processed_lines.append(f'<p>{para_text}</p>')
-            continue
+        # m = hebrew_para_pattern.match(line)
+        # if m:
+        #     para_text = m.group(2).strip()
+        #     if para_text:
+        #         processed_lines.append(f'<p>{para_text}</p>')
+        #     continue
         if line.startswith('### ') and not line.startswith('### PARA#') and not line.startswith('### SUBTITLE#'):
             para_text = line[4:].strip()
             if para_text:
@@ -245,25 +245,25 @@ def fix_hebrew_grammar_errors(text):
     if not text:
         return text
     
-    # תיקון שגיאות רבים/יחיד
-    text = re.sub(r'המשקיעים יכול\b', 'המשקיעים יכולים', text)
-    text = re.sub(r'האנליסטים הציג\b', 'האנליסטים הציגו', text)
-    text = re.sub(r'החברות מתמודד\b', 'החברות מתמודדות', text)
+    # # תיקון שגיאות רבים/יחיד
+    # text = re.sub(r'המשקיעים יכול\b', 'המשקיעים יכולים', text)
+    # text = re.sub(r'האנליסטים הציג\b', 'האנליסטים הציגו', text)
+    # text = re.sub(r'החברות מתמודד\b', 'החברות מתמודדות', text)
     
-    # תיקון ביטויים שגויים
-    text = re.sub(r'שוק המניות של\s+', 'מניית ', text)
-    text = re.sub(r'המניה של\s+', 'מניית ', text)
+    # # תיקון ביטויים שגויים
+    # text = re.sub(r'שוק המניות של\s+', 'מניית ', text)
+    # text = re.sub(r'המניה של\s+', 'מניית ', text)
     
-    # תיקון משפטים לא שלמים
-    text = re.sub(r'תנודתיות ל,\s*', 'תנודתיות בשוק, ', text)
-    text = re.sub(r'ביצועים ל,\s*', 'ביצועים מעורבים, ', text)
+    # # תיקון משפטים לא שלמים
+    # text = re.sub(r'תנודתיות ל,\s*', 'תנודתיות בשוק, ', text)
+    # text = re.sub(r'ביצועים ל,\s*', 'ביצועים מעורבים, ', text)
     
-    # תיקון מילות קישור
-    text = re.sub(r'\bאבל\b', 'אולם', text)  # יותר מקצועי
-    text = re.sub(r'\bגם\b', 'בנוסף', text)  # יותר מקצועי
+    # # תיקון מילות קישור
+    # text = re.sub(r'\bאבל\b', 'אולם', text)  # יותר מקצועי
+    # text = re.sub(r'\bגם\b', 'בנוסף', text)  # יותר מקצועי
     
-    # תיקון סימני פיסוק
-    text = re.sub(r',\s*,', ',', text)  # הסרת פסיקים כפולים
-    text = re.sub(r'\.\s*\.', '.', text)  # הסרת נקודות כפולות
+    # # תיקון סימני פיסוק
+    # text = re.sub(r',\s*,', ',', text)  # הסרת פסיקים כפולים
+    # text = re.sub(r'\.\s*\.', '.', text)  # הסרת נקודות כפולות
     
-    return text 
+    # return text 
