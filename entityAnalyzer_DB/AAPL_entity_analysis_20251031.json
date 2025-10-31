@@ -1,0 +1,104 @@
+{
+  "ticker": "AAPL",
+  "timestamp": "2025-10-31T10:37:42.667263",
+  "companies": [
+    "Apple Inc.",
+    "AAPL",
+    "Tim Cook",
+    "Apple",
+    "Bank of America",
+    "JPMorgan/Baird"
+  ],
+  "people": [
+    "Tim Cook"
+  ],
+  "sentiment": {
+    "overall": "positive",
+    "positive_count": 0,
+    "negative_count": 0,
+    "neutral_count": 0
+  },
+  "industry": "tech",
+  "key_points": [
+    {
+      "text": "Positive Sentiment:\nQ4 results beat expectations — EPS of $1.85 and revenue ~ $102.5B, with services and an expanding active install base highlighted as drivers.\nApple Q4 Earnings and Revenues Beat Estimates\nPositive Sentiment:\nBullish guidance — CEO Tim Cook forecast December-quarter iPhone sales a",
+      "importance_score": 59,
+      "sentiment": "positive"
+    },
+    {
+      "text": "Apple Inc. (AAPL) is trading higher after reporting fiscal Q4 results that beat estimates and after CEO Tim Cook gave an upbeat December-quarter outlook.",
+      "importance_score": 39,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Apple isn't playing the same AI capex game\nNeutral Sentiment:\nMarket trivia: traders are speculating about whether Apple will mention “streaming” on the next call — low probability but shows focus on services/media strategy.\nMarkets bet on whether Apple will mention \"Streaming\"",
+      "importance_score": 35,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Apple sales top $100B despite missing iPhone forecasts\nNegative Sentiment:\nValuation skeptics warn iPhone 17 may not produce a multi‑year supercycle — a headwind if growth expectations re‑rate downward.",
+      "importance_score": 30,
+      "sentiment": "neutral"
+    },
+    {
+      "text": "Analyst optimism and price‑target lifts (Bank of America, JPMorgan/Baird commentary) are supporting the rally and higher valuations.",
+      "importance_score": 26,
+      "sentiment": "neutral"
+    }
+  ],
+  "money_amounts": [
+    "1.85",
+    "320",
+    "$14.5B",
+    "$100B"
+  ],
+  "important_dates": [
+    "fiscal Q4 results",
+    "December-quarter",
+    "Q4",
+    "the holiday season",
+    "holiday quarter"
+  ],
+  "financial_keywords": [],
+  "key_relationships": [
+    {
+      "subject": "that",
+      "verb": "beat",
+      "object": "estimates",
+      "importance": 14
+    },
+    {
+      "subject": "Cook",
+      "verb": "gave",
+      "object": "outlook",
+      "importance": 14
+    },
+    {
+      "subject": "Investors",
+      "verb": "rewarding",
+      "object": "beat",
+      "importance": 6
+    },
+    {
+      "subject": "results",
+      "verb": "beat",
+      "object": "expectations",
+      "importance": 21
+    },
+    {
+      "subject": "Earnings",
+      "verb": "Beat",
+      "object": "Estimates",
+      "importance": 21
+    }
+  ],
+  "business_context": [],
+  "key_points_he": [
+    "תוצאות רבעון 4 עולות על הציפיות - הרווח למניה (EPS) של 1.85 דולר והכנסות בסביבות 102.5 מיליארד דולר, כאשר שירותים ובסיס התקנה פעיל הולך וגדל הוצגו כגורמים מניעים.\n\nהתוצאות הכספיות של Apple ברבעון 4 עולות על ההערכות.\n\nאופטימיות בהנחיות: מנכ\"ל החברה, Tim Cook, ציפה למכירות אייפון רבעוניות בדצמבר.",
+    "חברת Apple Inc. (AAPL) מגיעה למחירים גבוהים יותר לאחר פרסום תוצאות הרבעון הפיסקלי הרביעי, שהעניקו תוצאות טובות מהצפוי, ולאחר שטים קוק, מנכ\"ל החברה, הציג תחזית אופטימית לרבעון דצמבר.",
+    "עברית מקצועית:\n\nאפל אינה משחקת באותו משחק של השקעות בטכנולוגיית בינה מלאכותית.\n\nנתונים שוק נייטרליים:\nספקולציות בשוק סובבות סביב שאלת אפל שציינתי \"זרימת מדיה\" בקריאה הבאה - סבירות נמוכה, אך משקפת התמקדות באסטרטגיית שירותים ומדיה.\n\nשווקים מנחשים אם אפל תזכיר \"זרימת מדיה\".",
+    "מכירות Apple חרגו מ-100 מיליארד דולר, למרות שלא עמדו בתחזיות למכשיר iPhone.\n\nספקנים לגבי הערכת השווי מזהירים כי iPhone 17 עשוי לא ליצור מחזור עלייתי רב-שנתי - גורם מגביל אם ציפיות הצמיחה יתוקנו כלפי מטה.",
+    "אופטימיות של אנליסטים ותחזיות מחיר (מבנק אמריקה ו-JPMorgan/Baird) תומכות בעלייה בשוק ובערכי המניות הגבוהים יותר."
+  ],
+  "compact_analysis": "{\"ticker\": \"AAPL\", \"companies\": [\"Apple Inc.\", \"AAPL\", \"Tim Cook\", \"Apple\", \"Bank of America\", \"JPMorgan/Baird\"], \"people\": [\"Tim Cook\"], \"sentiment\": {\"overall\": \"positive\", \"positive_count\": 0, \"negative_count\": 0, \"neutral_count\": 0}, \"industry\": \"tech\", \"key_points\": [{\"text\": \"Positive Sentiment:\\nQ4 results beat expectations — EPS of $1.85 and revenue ~ $102.5B, with services and an expanding active install base highlighted as drivers.\\nApple Q4 Earnings and Revenues Beat Estimates\\nPositive Sentiment:\\nBullish guidance — CEO Tim Cook forecast December-quarter iPhone sales a\", \"importance_score\": 59, \"sentiment\": \"positive\"}, {\"text\": \"Apple Inc. (AAPL) is trading higher after reporting fiscal Q4 results that beat estimates and after CEO Tim Cook gave an upbeat December-quarter outlook.\", \"importance_score\": 39, \"sentiment\": \"neutral\"}, {\"text\": \"Apple isn't playing the same AI capex game\\nNeutral Sentiment:\\nMarket trivia: traders are speculating about whether Apple will mention “streaming” on the next call — low probability but shows focus on services/media strategy.\\nMarkets bet on whether Apple will mention \\\"Streaming\\\"\", \"importance_score\": 35, \"sentiment\": \"neutral\"}, {\"text\": \"Apple sales top $100B despite missing iPhone forecasts\\nNegative Sentiment:\\nValuation skeptics warn iPhone 17 may not produce a multi‑year supercycle — a headwind if growth expectations re‑rate downward.\", \"importance_score\": 30, \"sentiment\": \"neutral\"}, {\"text\": \"Analyst optimism and price‑target lifts (Bank of America, JPMorgan/Baird commentary) are supporting the rally and higher valuations.\", \"importance_score\": 26, \"sentiment\": \"neutral\"}], \"money_amounts\": [\"1.85\", \"320\", \"$14.5B\", \"$100B\"], \"important_dates\": [\"fiscal Q4 results\", \"December-quarter\", \"Q4\", \"the holiday season\", \"holiday quarter\"], \"financial_keywords\": [], \"key_relationships\": [{\"subject\": \"that\", \"verb\": \"beat\", \"object\": \"estimates\", \"importance\": 14}, {\"subject\": \"Cook\", \"verb\": \"gave\", \"object\": \"outlook\", \"importance\": 14}, {\"subject\": \"Investors\", \"verb\": \"rewarding\", \"object\": \"beat\", \"importance\": 6}, {\"subject\": \"results\", \"verb\": \"beat\", \"object\": \"expectations\", \"importance\": 21}, {\"subject\": \"Earnings\", \"verb\": \"Beat\", \"object\": \"Estimates\", \"importance\": 21}], \"business_context\": []}"
+}
