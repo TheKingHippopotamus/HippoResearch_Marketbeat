@@ -1,371 +1,278 @@
-# 🦛 MarketBit - Automated Market Research System
+# MarketBit (HippoResearch – MarketBeat Pipeline)
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-green.svg)]()
 
-## 📋 תוכן עניינים / Table of Contents
+MarketBit is an automated market-research pipeline that collects, processes, and analyzes equity-related information and generates publication-ready research articles (HTML). It is designed for scalable batch processing across large ticker universes and emphasizes reproducible outputs, structured metadata, and AI-assisted text analytics.
 
-- [תיאור הפרויקט / Project Description](#תיאור-הפרויקט--project-description)
-- [תכונות עיקריות / Key Features](#תכונות-עיקריות--key-features)
-- [מבנה הפרויקט / Project Structure](#מבנה-הפרויקט--project-structure)
-- [התקנה והפעלה / Installation & Setup](#התקנה-והפעלה--installation--setup)
-- [שימוש / Usage](#שימוש--usage)
-- [ארכיטקטורה / Architecture](#ארכיטקטורה--architecture)
-- [טכנולוגיות / Technologies](#טכנולוגיות--technologies)
-- [תרומה / Contributing](#תרומה--contributing)
-- [רישיון / License](#רישיון--license)
+> Security note: this repository is public for GitHub Pages / demo purposes. Sensitive files, secrets, and private datasets were removed or replaced with examples.
 
 ---
 
-## 🎯 תיאור הפרויקט / Project Description
+## Table of Contents
 
-**MarketBit** הוא מערכת אוטומטית לניתוח מחקרי שוק המבוססת על בינה מלאכותית. המערכת אוספת, מעבדת ומנתחת מידע פיננסי ממקורות שונים כדי ליצור דוחות מחקר מקצועיים על מניות.
-
-**MarketBit** is an automated market research system powered by artificial intelligence. The system collects, processes, and analyzes financial information from various sources to generate professional research reports on stocks.
-
-### 🎯 מטרות הפרויקט / Project Goals
-
-- **איסוף אוטומטי** של מידע פיננסי ממקורות מהימנים
-- **ניתוח מתקדם** באמצעות טכנולוגיות AI ו-NLP
-- **יצירת תוכן** מקצועי ואיכותי בעברית
-- **אוטומציה מלאה** של תהליך המחקר
-- **ממשק משתמש** מודרני ונגיש
-
----
-
-## ✨ תכונות עיקריות / Key Features
-
-### 🔍 **איסוף נתונים חכם / Smart Data Collection**
-- Web scraping אוטומטי מ-MarketBeat
-- איסוף מידע על מאות מניות מ-S&P 500
-- ניהול אוטומטי של מקורות נתונים
-
-### 🤖 **עיבוד AI מתקדם / Advanced AI Processing**
-- ניתוח טקסט מתקדם עם spaCy
-- זיהוי ישויות פיננסיות (entities)
-- ניתוח רגשות (sentiment analysis)
-- סיווג תעשיות אוטומטי
-
-### 📊 **ניתוח פיננסי / Financial Analysis**
-- זיהוי מגמות שוק
-- ניתוח סיכונים והזדמנויות
-- השוואה בין מתחרים
-- ניתוח הקשר זמני
-
-### 🎨 **יצירת תוכן / Content Generation**
-- יצירת מאמרים מקצועיים בעברית
-- עיצוב HTML מודרני ורספונסיבי
-- תבניות תוכן מותאמות אישית
-- אופטימיזציה SEO
-
-### 🔄 **אוטומציה מלאה / Full Automation**
-- עיבוד אוטומטי של מניות
-- ניהול גרסאות עם Git
-- עדכון אוטומטי של מאגר הנתונים
-- ניטור ביצועים
+- [Overview](#overview)
+- [Key Capabilities](#key-capabilities)
+- [High-Level Architecture](#high-level-architecture)
+- [Project Layout](#project-layout)
+- [Installation](#installation)
+- [Configuration](#configuration)
+- [Usage](#usage)
+- [Outputs](#outputs)
+- [Testing](#testing)
+- [Operational Notes](#operational-notes)
+- [License](#license)
+- [Contact](#contact)
+- [Acknowledgments](#acknowledgments)
 
 ---
 
-## 📁 מבנה הפרויקט / Project Structure
+## Overview
+
+MarketBit automates the end-to-end workflow of equity research content creation:
+
+1. Collect source content for a ticker  
+2. Clean and normalize raw text  
+3. Run NLP / entity extraction and sentiment analysis  
+4. Generate an investment-style narrative using an LLM (configurable)  
+5. Render a modern, responsive HTML article  
+6. Persist outputs + metadata, track processing state, and optionally automate Git updates  
+
+The system is built as a pragmatic, production-oriented pipeline: clear logging, failure handling, daily processing state, and reusable utilities.
+
+---
+
+## Key Capabilities
+
+### Data Collection
+- Automated web collection from MarketBeat (pipeline-oriented scraping module)
+- Batch processing for large ticker sets (e.g., S&P 500-scale universes)
+- Automated source management and availability tracking
+
+### AI / NLP Processing
+- spaCy-based NLP pipeline
+- Financial entity recognition (companies, instruments, key terms)
+- Sentiment analysis and structured output storage
+- Automated categorization / classification hooks
+
+### Research & Comparative Analysis
+- Trend and narrative extraction from source text
+- Risk/opportunity framing
+- Peer/industry comparison hooks (extendable)
+- Time-aware processing (date-stamped outputs and metadata)
+
+### Content Generation
+- Research-style article generation (Hebrew-focused in current templates; extendable to EN)
+- Modern HTML templates and responsive layout
+- SEO-friendly structure and reusable templates
+
+### Automation & Ops
+- Batch processing and daily processing ledgers
+- Git automation support (optional)
+- Structured logging and archived run history
+
+---
+
+## High-Level Architecture
+
+```
+Collection → Cleaning → NLP/Entity Analysis → LLM Generation → HTML Rendering → Optimization → Storage/Versioning
+```
+
+Core components:
+- `scripts/` orchestrates processing and automation
+- `tools/` provides reusable utilities (NLP, templating, config, logging)
+- `data/`, `articles/`, and state folders store results and run ledgers
+
+---
+
+## Project Layout
 
 ```
 marketBit/
-├── 📄 main.py                    # Entry point - נקודת הכניסה הראשית
-├── 📄 requirements.txt           # Python dependencies - תלויות Python
-├── 📄 index.html                # Main website - האתר הראשי
-├── 📄 LICENSE                   # License file - קובץ רישיון
+├── main.py
+├── requirements.txt
+├── index.html
+├── LICENSE
 │
-├── 🛠️ tools/                    # Core utilities - כלים מרכזיים
-│   ├── config.py                # Configuration settings - הגדרות
-│   ├── entity_analyzer.py       # AI text analysis - ניתוח טקסט AI
-│   ├── logger.py                # Logging system - מערכת לוגים
-│   ├── llm_processor.py         # LLM integration - אינטגרציה LLM
-│   ├── html_template.py         # HTML generation - יצירת HTML
-│   ├── text_processing.py       # Text processing - עיבוד טקסט
-│   ├── ticker_data.py           # Ticker management - ניהול טיקרים
-│   └── inject_js_cleaner.py     # JavaScript injection - הזרקת JavaScript
+├── tools/
+│   ├── config.py
+│   ├── entity_analyzer.py
+│   ├── logger.py
+│   ├── llm_processor.py
+│   ├── html_template.py
+│   ├── text_processing.py
+│   ├── ticker_data.py
+│   └── inject_js_cleaner.py
 │
-├── 📜 scripts/                  # Processing scripts - סקריפטים לעיבוד
-│   ├── process_manager.py       # Main processing logic - לוגיקת עיבוד ראשית
-│   ├── scrap_marketBeat_keypoints.py  # Web scraping - גריפת אתרים
-│   ├── ui_ux_manager.py         # UI/UX management - ניהול ממשק
-│   ├── filemanager.py           # File operations - פעולות קבצים
-│   ├── github_automation.py     # Git automation - אוטומציה Git
-│   └── json_manager.py          # JSON data management - ניהול נתוני JSON
+├── scripts/
+│   ├── process_manager.py
+│   ├── scrap_marketBeat_keypoints.py
+│   ├── ui_ux_manager.py
+│   ├── filemanager.py
+│   ├── github_automation.py
+│   └── json_manager.py
 │
-├── 📊 data/                     # Data storage - אחסון נתונים
-│   ├── articles_metadata.json   # Articles metadata - מטא-דאטה של מאמרים
-│   └── flat-ui__data.csv        # Ticker database - בסיס נתוני טיקרים
+├── data/
+│   ├── articles_metadata.json
+│   └── flat-ui__data.csv
 │
-├── 📰 articles/                 # Generated articles - מאמרים שנוצרו
-│   └── [TICKER]_[DATE].html     # Individual articles - מאמרים בודדים
+├── articles/
+│   └── [TICKER]_[DATE].html
 │
-├── 📝 txt/                      # Text processing files - קבצי עיבוד טקסט
-│   ├── [TICKER]_cleaned_[DATE].txt    # Cleaned text - טקסט מנוקה
-│   └── [TICKER]_original_[DATE].txt   # Original text - טקסט מקורי
+├── txt/
+│   ├── [TICKER]_cleaned_[DATE].txt
+│   └── [TICKER]_original_[DATE].txt
 │
-├── 🧠 entityAnalyzer_DB/        # AI analysis database - בסיס נתוני ניתוח AI
+├── entityAnalyzer_DB/
 │   └── [TICKER]_entity_analysis_[DATE].json
 │
-├── 📋 processed_tickers/        # Processing tracking - מעקב עיבוד
-│   ├── processed_[DATE].json    # Daily processed - מעובדים יומית
-│   ├── unavailable_tickers.json # Unavailable tickers - טיקרים לא זמינים
-│   └── last_clear_date.txt      # Last clear date - תאריך ניקוי אחרון
+├── processed_tickers/
+│   ├── processed_[DATE].json
+│   ├── unavailable_tickers.json
+│   └── last_clear_date.txt
 │
-├── 🎨 templates/                # HTML templates - תבניות HTML
-│   └── article_template.html    # Article template - תבנית מאמר
+├── templates/
+│   └── article_template.html
 │
-├── 🖼️ static/                   # Static assets - נכסים סטטיים
-│   ├── logo.png                 # Logo - לוגו
-│   └── x.png                    # X icon - אייקון X
+├── static/
+│   ├── logo.png
+│   └── x.png
 │
-├── 🧪 unit-test/                # Testing files - קבצי בדיקה
-│   ├── entity_extractor.py      # Entity extraction tests - בדיקות זיהוי ישויות
-│   ├── test_token_control.py    # Token control tests - בדיקות בקרת טוקנים
-│   ├── test_professional_prompt.py  # Prompt testing - בדיקות הנחיות
-│   └── run_single_ticker.py     # Single ticker testing - בדיקת טיקר בודד
-│
-├── 📚 logs-tracker/             # Log files - קבצי לוג
-│   └── archives/                # Log archives - ארכיון לוגים
-│
-└── 🗄️ z-archives/               # Archive files - קבצי ארכיון
-    └── [various backup files]   # Backup and archive files - קבצי גיבוי וארכיון
+└── unit-test/
+    ├── entity_extractor.py
+    ├── test_token_control.py
+    ├── test_professional_prompt.py
+    └── run_single_ticker.py
 ```
 
 ---
 
-## 🚀 התקנה והפעלה / Installation & Setup
+## Installation
 
-### ⚠️ **אזהרת אבטחה / Security Warning**
-
-**זהו ריפוזיטורי public לצורך GitHub Pages. קבצים רגישים הוסרו או הוחלפו בדוגמאות.**
-
-**This is a public repository for GitHub Pages purposes. Sensitive files have been removed or replaced with examples.**
-
-### דרישות מערכת / System Requirements
+### Requirements
 - Python 3.8+
 - Git
-- Internet connection
+- A supported browser + driver if Selenium is enabled (environment-dependent)
 
-### התקנה / Installation
+### Setup
 
 ```bash
-# Clone the repository
-git clone [repository-url]
-cd marketBit
+git clone https://github.com/TheKingHippopotamus/HippoResearch_Marketbeat.git
+cd HippoResearch_Marketbeat
 
-# Create virtual environment
 python -m venv venv
+source venv/bin/activate  # macOS/Linux
+# venv\Scripts\activate   # Windows
 
-# Activate virtual environment
-# On Windows:
-venv\Scripts\activate
-# On macOS/Linux:
-source venv/bin/activate
-
-# Install dependencies
 pip install -r requirements.txt
 
-# Install spaCy model (for entity analysis)
+# Optional: spaCy model used by entity analysis
 python -m spacy download en_core_web_trf
 ```
 
-### הגדרות / Configuration
+---
 
-1. **העתק קובץ התצורה לדוגמה**:
+## Configuration
+
+1. Copy the example config:
    ```bash
    cp tools/config.example.py tools/config.py
    ```
 
-2. **עדכן הגדרות ב-`tools/config.py`**:
-   ```python
-   LLM_MODEL_SETTINGS = {
-       "model_name": "your-model-name-here",  # החלף עם המודל שלך
-       "temperature": 0.7,
-       "top_p": 0.9,
-   }
-   ```
+2. Update `tools/config.py`:
+   - LLM model settings (provider/model name, temperature, etc.)
+   - Paths (if you moved folders)
+   - Any runtime flags (verbose logging, scraping mode, etc.)
 
-3. **הוסף קבצי נתונים נדרשים**:
-   - `data/flat-ui__data.csv` - בסיס נתוני טיקרים
-   - `processed_tickers/` - תיקיית מעקב עיבוד
-   - `entityAnalyzer_DB/` - תיקיית ניתוח AI
-
-4. **הגדר נתיבי קבצים** במידת הצורך
+Example:
+```python
+LLM_MODEL_SETTINGS = {
+    "model_name": "your-model-name-here",
+    "temperature": 0.7,
+    "top_p": 0.9,
+}
+```
 
 ---
 
-## 💻 שימוש / Usage
+## Usage
 
-### הפעלת המערכת / Running the System
-
+### Run the full universe
 ```bash
-# עיבוד כל הטיקרים הזמינים
 python main.py
+```
 
-# עיבוד טיקר ספציפי
+### Run a single ticker
+```bash
 python main.py AAPL
+```
 
-# עיבוד טיקר ספציפי עם לוגים מפורטים
+### Run with verbose logs
+```bash
 python main.py MSFT --verbose
 ```
 
-### תהליך העיבוד / Processing Pipeline
-
-1. **איסוף נתונים** - גריפת מידע מ-MarketBeat
-2. **ניקוי טקסט** - הסרת תוכן מיותר
-3. **ניתוח AI** - זיהוי ישויות וניתוח רגשות
-4. **יצירת תוכן** - יצירת מאמר מקצועי
-5. **עיצוב HTML** - עיצוב המאמר
-6. **אופטימיזציה** - ניקוי JavaScript ואופטימיזציה
-7. **שמירה** - שמירה למסד נתונים ו-Git
-
-### ניהול קבצים / File Management
-
+### Maintenance utilities
 ```bash
-# ניקוי קבצים ישנים
 python scripts/filemanager.py --cleanup
-
-# גיבוי נתונים
 python scripts/filemanager.py --backup
-
-# שחזור מגיבוי
 python scripts/filemanager.py --restore
 ```
 
 ---
 
-## 🏗️ ארכיטקטורה / Architecture
+## Outputs
 
-### רכיבי המערכת / System Components
+- **Generated articles:** `articles/[TICKER]_[DATE].html`
+- **Raw and cleaned text:** `txt/`
+- **Entity/NLP results:** `entityAnalyzer_DB/`
+- **Processing ledgers:** `processed_tickers/`
+- **Metadata index:** `data/articles_metadata.json`
 
-#### 🔧 **Core Tools (`tools/`)**
-- **`entity_analyzer.py`**: ניתוח טקסט מתקדם עם spaCy
-- **`llm_processor.py`**: אינטגרציה עם מודלי AI
-- **`logger.py`**: מערכת לוגים מתקדמת
-- **`config.py`**: ניהול הגדרות מרכזי
+---
 
-#### 📜 **Processing Scripts (`scripts/`)**
-- **`process_manager.py`**: מנהל התהליך הראשי
-- **`scrap_marketBeat_keypoints.py`**: גריפת נתונים
-- **`ui_ux_manager.py`**: ניהול ממשק משתמש
-- **`github_automation.py`**: אוטומציה Git
+## Testing
 
-#### 📊 **Data Management**
-- **`data/`**: אחסון נתונים מרכזי
-- **`processed_tickers/`**: מעקב עיבוד
-- **`entityAnalyzer_DB/`**: תוצאות ניתוח AI
+Basic unit and pipeline tests live under `unit-test/`.
 
-### זרימת נתונים / Data Flow
-
-```
-Web Scraping → Text Cleaning → AI Analysis → Content Generation → HTML Creation → Optimization → Storage
+Examples:
+```bash
+python unit-test/run_single_ticker.py
+python unit-test/test_professional_prompt.py
 ```
 
 ---
 
-## 🛠️ טכנולוגיות / Technologies
+## Operational Notes
 
-### **Backend Technologies**
-- **Python 3.8+** - שפת התכנות הראשית
-- **Selenium** - אוטומציה של דפדפן
-- **BeautifulSoup4** - עיבוד HTML
-- **spaCy** - עיבוד שפה טבעית
-- **Requests** - בקשות HTTP
-
-### **AI & ML**
-- **spaCy NLP** - ניתוח טקסט מתקדם
-- **Custom LLM Integration** - אינטגרציה עם מודלי AI
-- **Entity Recognition** - זיהוי ישויות פיננסיות
-- **Sentiment Analysis** - ניתוח רגשות
-
-### **Frontend & Design**
-- **HTML5/CSS3** - מבנה ועיצוב
-- **JavaScript** - אינטראקטיביות
-- **Responsive Design** - עיצוב רספונסיבי
-- **Modern UI/UX** - ממשק משתמש מודרני
-
-### **Data & Storage**
-- **JSON** - אחסון נתונים מובנה
-- **CSV** - נתוני טיקרים
-- **Git** - ניהול גרסאות
-- **File System** - אחסון קבצים
-
-### **Automation & DevOps**
-- **GitHub Automation** - אוטומציה Git
-- **Logging System** - מערכת לוגים
-- **Error Handling** - טיפול בשגיאות
-- **Process Management** - ניהול תהליכים
+- **Source availability:** some tickers may not have accessible source content; these are tracked in `processed_tickers/unavailable_tickers.json`.
+- **Reproducibility:** outputs are date-stamped and tracked via ledgers to avoid re-processing.
+- **Compliance:** if you enable automated collection from third-party sites, ensure your usage complies with the relevant Terms of Service and applicable laws, and apply rate-limiting and respectful crawling patterns.
 
 ---
 
-## 🤝 תרומה / Contributing
+## License
 
-### הנחיות לתרומה / Contribution Guidelines
+**All rights reserved © 2024 Hippopotamus Research – Nir Elmaliah**
 
-1. **Fork** את הפרויקט
-2. צור **branch** חדש (`git checkout -b feature/AmazingFeature`)
-3. **Commit** את השינויים (`git commit -m 'Add some AmazingFeature'`)
-4. **Push** ל-branch (`git push origin feature/AmazingFeature`)
-5. פתח **Pull Request**
+This project is proprietary and not open source. You may not copy, distribute, modify, use, or commercialize any part of the code, content, or design without explicit written permission from the author.
 
-### סטנדרטי קוד / Code Standards
-
-- השתמש ב-**Python PEP 8** style guide
-- הוסף **docstrings** לכל פונקציות
-- כתוב **unit tests** לפונקציות חדשות
-- שמור על **backward compatibility**
-
-### דיווח באגים / Bug Reports
-
-אנא השתמש ב-Issues של GitHub לדיווח באגים או בקשות תכונות.
+See [LICENSE](LICENSE) for details.
 
 ---
 
-## 📄 רישיון / License
+## Contact
 
-**כל הזכויות שמורות © 2024 Hippopotamus Research - Nir Elmaliah**
-
-הקוד, התוכן, והעיצוב בפרויקט זה הם קנייניים ואינם קוד פתוח.
-אין להעתיק, להפיץ, לשנות, להשתמש, או למסחר את הקוד או כל חלק ממנו, ללא אישור מפורש ובכתב מהיוצר.
-
-**All rights reserved © 2024 Hippopotamus Research - Nir Elmaliah**
-
-The code, content, and design in this project are proprietary and not open source.
-You may not copy, distribute, modify, use, or commercialize any part of this code or content without explicit written permission from the author.
+Creator: **Nir Elmaliah**  
+Organization: **Hippopotamus Research**
 
 ---
 
-## 📞 יצירת קשר / Contact
+## Acknowledgments
 
-- **יוצר / Creator**: Nir Elmaliah
-- **ארגון / Organization**: Hippopotamus Research
-- **שנה / Year**: 2024
-
----
-
-## 🙏 תודות / Acknowledgments
-
-- **MarketBeat** - מקור הנתונים הפיננסיים
-- **spaCy** - כלי עיבוד השפה הטבעית
-- **Selenium** - אוטומציה של דפדפן
-- **קהילת Python** - כלים וספריות
-
----
-
-<div align="center">
-
-**🦛 MarketBit - מחקר שוק חכם ואוטומטי**  
-**Smart & Automated Market Research**
-
-</div> 
-
-
-
-
-
-
-
-
-
+- MarketBeat (data source referenced by the pipeline)
+- spaCy (NLP toolkit)
+- Selenium (browser automation)
+- The Python ecosystem
